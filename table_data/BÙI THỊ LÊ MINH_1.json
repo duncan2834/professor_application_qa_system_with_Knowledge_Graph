@@ -1,0 +1,626 @@
+{
+    "papers": [
+        {
+            "title": "Đánh giá sự ô nhiễm môi trường nước mặt và hiệu quả của các phương pháp xử lý chất thải chăn nuôi heo ở qui mô nông hộ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 https://sj.ctu.edu.vn/ql/docgia/download/baibao-5205/87_Luu%20Huu%20Manh%2033%2041.pdf",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12, trang 33-41",
+            "published_date": "2009"
+        },
+        {
+            "title": "Tình hình nhiễm vi khuẩn trong môi trường chăn nuôi bò sữa ở nông hộ tại Cần Thơ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XX, số 3, trang 37-40",
+            "published_date": "2013"
+        },
+        {
+            "title": "Đánh giá mức độ vấy nhiễm một số vi khuẩn nguy hiểm trên thịt gia cầm sau giết mổ ở chợ Bạch Đằng, thành phố Trà Vinh, tỉnh Trà Vinh",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và phát triển nông thôn ISSN 1859-4581",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số chuyên đề tháng 12/2014, trang 134-140",
+            "published_date": "2014"
+        },
+        {
+            "title": "Treating pig waste by fish and water-hyacinth ponds in Vinh Khanh state farm, An Giang province",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Livestock Research for Rural Development ISSN 0121-3784 https://www.lrrd.org/lrrd26/2/manh26023.htm",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 26, số 2, số thứ tự 23",
+            "published_date": "2014"
+        },
+        {
+            "title": "Treatment of wastewater from slaughterhouse by biodigester and Vetiveria zizanioides L.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Livestock Research for Rural Development ISSN 0121-3784 http://lrrd.cipav.org.co/lrrd26/4/manh26068.htm",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 26, số 4, số thứ tự 68",
+            "published_date": "2014"
+        },
+        {
+            "title": "Khảo sát hiệu lực của một số loại thuốc khử trùng chuồng trại được sử dụng tại nông hộ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXI, số 3, trang 62-65",
+            "published_date": "2014"
+        },
+        {
+            "title": "Kết quả nghiên cứu vi khuẩn Escherichia coli sản sinh men beta-lactamase phổ rộng phân lập từ gà khỏe tại tỉnh Sóc Trăng",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo phát triển chăn nuôi bền vững ISBN 978-604-924-204-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu tháng 12/2015, trang 126-131",
+            "published_date": "2015"
+        },
+        {
+            "title": "Khảo sát tác dụng kháng khuẩn của tỏi (Allium sativum L.) trên Escherichia coli và ảnh hưởng của tỏi lên sự tăng trưởng của gà.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/2165",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 40b (2), trang 1-6",
+            "published_date": "2015"
+        },
+        {
+            "title": "Khảo sát mô hình xử lý nước thải chăn nuôi heo bằng túi ủ biogas kết hợp với ao sinh học và ao cá ở Sóc Trăng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXII, số 6, trang 78-83",
+            "published_date": "2015"
+        },
+        {
+            "title": "Kết quả khảo sát Escherichia coli sinh beta-lactamase phổ rộng trên gà tại một số cơ sở giết mổ ở tỉnh Vĩnh Long",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 DOI: 10.22144/ctu.jsi.2016.035 https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/2659",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số Nông nghiệp 2016, trang 1-5",
+            "published_date": "2016"
+        },
+        {
+            "title": "Khảo sát sự hiện diện Escherichia coli sinh beta-lactamase phổ rộng trên gà khỏe ở tỉnh Vĩnh Long",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXIII, số 2, trang 22-27",
+            "published_date": "2016"
+        },
+        {
+            "title": "Khảo sát sự hiện diện gen CTX-M, TEM và SHV ở Escherichia coli sinh B-lactamase phổ rộng phân lập từ gà ở tỉnh Trà Vinh",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 DOI: 10.22144/ctu.jvn.2016.017 https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/2247",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 42b (2016), trang 1-6",
+            "published_date": "2016"
+        },
+        {
+            "title": "Tình hình nhiễm Escherichia coli sinh beta-lactamase phổ rộng trên gà bệnh ở tỉnh Vĩnh Long",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 DOI: 10.22144/ctu.jsi.2016.036 https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/2660",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số Nông nghiệp 2016, trang 6-10",
+            "published_date": "2016"
+        },
+        {
+            "title": "Mức độ vấy nhiễm vi khuẩn trên thịt heo tại lò mổ và chợ bán lẻ thành phố Bến Tre",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi ISSN 1859-476X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 213, trang 88-93",
+            "published_date": "2016"
+        },
+        {
+            "title": "Mức độ vấy nhiễm vi khuẩn trên thịt gia cầm tại lò mổ và chợ bán lẻ thành phố Bến Tre",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 DOI: 10.22144/ctu.jsi.2016.044 https://ctujsvn.ctu.edu.vn/in dex.php/ctujsvn/article/vie w/2668",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số Nông nghiệp 2016, trang 56-60",
+            "published_date": "2016"
+        },
+        {
+            "title": "Occurrence of extended spectrum beta-lactamase producing Escherichia coli in chickens from slaughter-houses in the Mekong Delta of Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Agricultural development in context of integration: opportunities and challenges ISBN 978-604-924-245-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu tháng 12-2016, trang 198-202",
+            "published_date": "2016"
+        },
+        {
+            "title": "Study on extended spectrum beta-lactamase producing Escherichia coli from sick chickens in Hau Giang province",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 19th Federation of Asia Veterinary Associations Congress ISBN 978-604-73-4527-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu tháng 9/2016, trang 148-150.",
+            "published_date": "2016"
+        },
+        {
+            "title": "Khảo sát tỷ lệ nhiễm virus Newcastle và Gumboro trên gà thả vườn ở xã Thông Hòa thuộc huyện Cầu Kè, tỉnh Trà Vinh",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 DOI: 10.22144/ctu.jsi.2016.039 https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/vie w/2663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số Nông nghiệp 2016, trang 23-25",
+            "published_date": "2016"
+        },
+        {
+            "title": "Hiệu quả của các mô hình xử lý nước thải tại cơ sở giết mổ gia súc gia cầm tỉnh Bến Tre",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi ISSN 1859-476X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 212, trang 82-86",
+            "published_date": "2016"
+        },
+        {
+            "title": "Sự đề kháng kháng sinh của Escherichia coli sinh betalactamase phổ rộng phân lập từ gà có triệu chứng tiêu chảy",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học Chăn nuôi Thú y toàn quốc 2017 ISBN 978-604-60-2492-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu tháng 3/2017, trang 386-392",
+            "published_date": "2017"
+        },
+        {
+            "title": "Effect of chives (Allium fistulosum L.) on growth performance and immune response of local chicken",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Livestock Research for Rural Development ISSN 0121-3784 https://www.lrrd.org/lrrd29/10/minh29199.html#:~:text=There%20were%20linear%20improvements%20in,and%20biochemical%20indices%20in%20blood.",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 29, số 10, số thứ tự 199",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đánh giá chất lượng nước mặt dùng trong sinh hoạt và chăn nuôi ở quận Ninh Kiều và Bình Thủy, thành phố Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Chăn nuôi Thú y toàn quốc 2017 ISBN 978-604-60-2492-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu tháng 3/2017, trang 514-517",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đánh giá chất lượng nước thải tại cơ sở giết mổ gia cầm Thuận Trường tỉnh Đồng Nai",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Chăn nuôi Thú y toàn quốc 2017 ISBN 978-604-60-2492-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu tháng 3/2017, trang 507-513",
+            "published_date": "2017"
+        },
+        {
+            "title": "Tình hình nhiễm Escherichia coli sinh beta-lactamase phổ rộng trên người chăn nuôi gà ở Đồng bằng sông Cửu Long",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 DOI: 10.22144/ctu.jsi.2018.058 https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/vie w/3189",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 54, số chuyên đề Nông nghiệp, trang 1-5",
+            "published_date": "2018"
+        },
+        {
+            "title": "Tình hình nhiễm và sự đề kháng kháng sinh của vi khuẩn E. coli sinh ESBL trên vịt tại tỉnh Trà Vinh",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và phát triển nông thôn ISSN 1859-4581",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số chuyên đề tháng 8/2018, 229-233",
+            "published_date": "2018"
+        },
+        {
+            "title": "Khảo sát sự hiện diện và đề kháng kháng sinh của Escherichia coli sinh beta-lactamase phổ rộng trên gà khỏe ở tỉnh Sóc Trăng và Trà Vinh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và phát triển nông thôn ISSN 1859-4581",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số chuyên đề tháng 8/2018, 234-239",
+            "published_date": "2018"
+        },
+        {
+            "title": "Khảo sát sự hiện diện và kháng kháng sinh của Escherichia coli sinh beta-lactam phổ rộng trên heo khỏe và người chăn nuôi heo ở một số địa phương thuộc tỉnh Trà Vinh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và phát triển nông thôn ISSN 1859-4581 http://tapchikhoahocnongnghiep.vn/tapchi/detail/2387",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 20, kỳ 2-tháng 10/2018, trang 82-88",
+            "published_date": "2018"
+        },
+        {
+            "title": "Effects of biochar inclusion in feed and chicken litter on growth performance, plasma lipids and fecal bacteria count of Noi lai chicken",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Livestock Research for Rural Development ISSN 0121-3784 http://lrrd.cipav.org.co/lrrd30/7/nnxdu30131.html",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 30, số 7, số thứ tự 131",
+            "published_date": "2018"
+        },
+        {
+            "title": "Ảnh hưởng bổ sung củ hành tím (Allium ascolonicum L.) Trong khẩu phần lên sinh trưởng, các thông số máu và một số vi khuẩn trong phân của gà Nòi lai",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi ISSN 1859-476X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 252, trang 60-66",
+            "published_date": "2019"
+        },
+        {
+            "title": "Tình hình nhiễm độc tố nấm mốc Aflatoxin trong thức ăn chăn nuôi ở Đồng bằng sông Cửu Long",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi ISSN 1859-476X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 250, trang 32-38",
+            "published_date": "2019"
+        },
+        {
+            "title": "Ảnh hưởng của các nguồn biochar trong khẩu phần lên sinh trưởng, sinh lý sinh hóa máu và mật số vi khuẩn trong phân gà Nòi",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi ISSN 1859-476X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 259, trang 44-52",
+            "published_date": "2020"
+        },
+        {
+            "title": "Sự đề kháng thuốc kháng sinh của vi khuẩn Escherichia coli sinh beta-lactamase phổ rộng phân lập từ trứng gà, người chăn nuôi và yếu tố môi trường chăn nuôi ở Đồng bằng sông Cửu Long",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học chăn nuôi thú y toàn quốc 2021 ISBN 978-604-337-133-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu năm 2021, trang 1018-1024",
+            "published_date": "2021"
+        },
+        {
+            "title": "Sự lưu hành của Escherichia coli sinh beta-lactamase phổ rộng trên chó tại bệnh xá thú y trường Đại học Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học chăn nuôi thú y toàn quốc 2021 ISBN 978-604-337-133-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu năm 2021, trang 836-841",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu hoạt tính kháng khuẩn của dịch chiết lá giang, lá môn bạc hà, lá rau mác và kiệu trên Escherichia coli sinh beta-lactamase phổ rộng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXIX, số 9, trang 57-62",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ảnh hưởng của tỏi lên đáp ứng miễn dịch của chim trĩ đối với vaccine phòng bệnh Newcastle",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 DOI: 10.22144/ctu.jvn.2022.015 https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/4367",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 58, số 1, trang 143-147",
+            "published_date": "2022"
+        },
+        {
+            "title": "Sự vấy nhiễm và sự hiện diện gen độc lực của vi khuẩn Escherichia coli trên thịt heo và môi trường giết mổ tại tỉnh Kiên Giang",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXX, số 6, trang 66-72",
+            "published_date": "2023"
+        },
+        {
+            "title": "Sự đề kháng và hiện diện của gen kháng kháng sinh trên vi khuẩn Escherichia coli phân lập từ heo tại tỉnh Kiên Giang",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXX, số 2, trang 74-79",
+            "published_date": "2023"
+        },
+        {
+            "title": "Kháng kháng sinh và gen mã hóa kháng kháng sinh của vi khuẩn Escherichia coli phân lập từ con kỳ tôm (Phisignathus concincinus) tại tỉnh Kiên Giang",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXX, số 6, trang 73-80",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đáp ứng miễn dịch của chim trĩ đỏ (Phasianus colchicus) đối với vacxin phòng bệnh Newcastle",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXX, số 6, trang 28-34",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu hoạt tính kháng khuẩn của lá tràm hoa vàng, lá tim lang, lá ngọc kỳ lân và lá lan tỏi trên Escherichia coli sinh beta-lactamase phổ rộng phân lập từ chó",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học Chăn nuôi Thú y toàn quốc 2023 ISBN: 978-604-924-767-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu năm 2023, trang 545-550",
+            "published_date": "2023"
+        },
+        {
+            "title": "The sensitivity of extended-spectrum beta-lactamase-producing Escherichia coli isolated from animal feces to antibiotics and Vietnamese garlic (Allium sativum L.) aqueous extracts in vitro",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Veterinary Integrative Sciences ISSN 2629-9968 DOI: 10.12982/VIS.2024.054 https://he02.tci-thaijo.org/index.php/vis/article/view/267256",
+            "journal_ranking": "Scimago, Scopus IF: 1.08, Q3, H-index: 3",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 22, số 3, trang 815-822",
+            "published_date": "2024"
+        },
+        {
+            "title": "Effect of Allium fistulosum L. powder on immune status in chickens vaccinated against Newcastle Disease Virus",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Animal and Veterinary Sciences ISSN 2307-8316 DOI: https://dx.doi.org/10.17582/journal.aavs/2024/12.6.1074.1078 https://researcherslinks.com/current-issues/Effect-of-Allium-fistulosum-L-Powder-on-Immune/33/1/7442/html",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12, số 6, trang 1074-1078",
+            "published_date": "2024"
+        },
+        {
+            "title": "Antibiotic resistance and pathogenicity of Escherichia coli isolated from cattle raised in households in the Mekong Delta, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Veterinary Science ISSN 2305-4360 DOI: https://doi.org/10.47278/journal.ijvs/2024.166 https://www.ijvets.com/pdf-files/24-445.pdf",
+            "journal_ranking": "Scimago, Q2, H-index: 17",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, số 5, trang 730-736",
+            "published_date": "2024"
+        },
+        {
+            "title": "Antibiotic resistance and adhesive antigen of Escherichia coli isolated from pigs in farm and slaughterhouse in Hau Giang province, Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Animal Health and Production ISSN 2308-2801 DOI: http://dx.doi.org/10.17582/journal.jahp/2024/12.s1.15.22 https://researcherslinks.com/current-issues/Antibiotic-Resistance-and-Adhesive-Antigen-of-Escherichia-coli-Isolated-from-Pigs-in-Farm-and-Slaughterhouse-in-Hau-Giang-Province-Vietnam/34/35/10149/html",
+            "journal_ranking": "Scimago, Q3, H-index: 10",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12, số 1, trang 15-22",
+            "published_date": "2024"
+        },
+        {
+            "title": "Khảo sát sự hiện diện và tính kháng kháng sinh của vi khuẩn Escherichia coli sinh men beta-lactamase phổ rộng trên chó tại thành phố Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Thú y ISSN 1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXXI, số 4, trang 37-41",
+            "published_date": "2024"
+        },
+        {
+            "title": "Sự hiện diện một số gene độc lực và kháng kháng sinh của vi khuẩn Escherichia coli phân lập tại cơ sở giết mổ heo tỉnh An Giang",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 DOI: 10.22144/ctujos.2024.41 https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/5744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 60, số 5, trang 91-100",
+            "published_date": "2024"
+        },
+        {
+            "title": "Prevalence of antibiotic resistance genes of Escherichia coli at the pig slaughterhouses in the Mekong Delta",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Veterinary Integrative Sciences, ISSN: 2629-9968 DOI: 10.12982/VIS.2025.005 https://he02.tci-thaijo.org/index.php/vis/article/view/268458",
+            "journal_ranking": "Scimago, Scopus IF: 1.08, Q3, H-index: 3",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 23, số 1, trang 1-10",
+            "published_date": "2025"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của điều kiện trích ly đến khả năng kháng khuẩn Escherichia coli của dịch chiết tỏi Lý Sơn (Allium sativum L.)",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN 1859-2333 DOI: 10.22144/ctujos.2025.041 https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/6505",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 61, số 2, trang 31-43",
+            "published_date": "2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu tác dụng kháng khuẩn của tỏi đối với vi khuẩn E. coli phân lập trên gà thả vườn và sử dụng tỏi trong phòng trị bệnh tiêu chảy cho gà",
+            "role": "Principal Investigator",
+            "project_code": "T2014-73",
+            "management_level": "Trường Đại học Cần Thơ",
+            "period": "04/2014-03/2015",
+            "acceptance_date": "31/03/2015",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Khảo sát vi khuẩn Escherichia coli sinh beta-lactamase phổ rộng trên gà và kiểm tra độ nhạy cảm của một số loại kháng sinh",
+            "role": "Principal Investigator",
+            "project_code": "T2015–62",
+            "management_level": "Trường Đại học Cần Thơ",
+            "period": "06/2015-12/2015",
+            "acceptance_date": "22/12/2015",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Khảo sát gen bla CTX-M, bla TEM và bla SHV trên Escherichia coli sinh beta-lactamase phổ rộng phân lập từ gà bệnh ở tỉnh Vĩnh Long",
+            "role": "Principal Investigator",
+            "project_code": "T2016–52",
+            "management_level": "Trường Đại học Cần Thơ",
+            "period": "05/2016-12/2016",
+            "acceptance_date": "16/12/2016",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Khảo sát gen TEM, SHV và CTX-M trên Escherichia coli sinh beta-lactamase phổ rộng phân lập từ người chăn nuôi gà ở Đồng bằng sông Cửu Long",
+            "role": "Principal Investigator",
+            "project_code": "T2017–50",
+            "management_level": "Trường Đại học Cần Thơ",
+            "period": "05/2017-04/2018",
+            "acceptance_date": "31/08/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ảnh hưởng của tỏi lên tăng trưởng và đáp ứng miễn dịch của chim trĩ đối với vắc xin phòng bệnh dịch tả",
+            "role": "Principal Investigator",
+            "project_code": "T2020-59",
+            "management_level": "Trường Đại học Cần Thơ",
+            "period": "06/2020-05/2021",
+            "acceptance_date": "27/10/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu vi sinh vật và phát triển nguồn dược liệu điều trị bệnh động vật (Microbial and pharmaceutical studies for animal disease treament)",
+            "role": "Key Member",
+            "project_code": "A-11",
+            "management_level": "Dự án nâng cấp Trường Đại học Cần Thơ",
+            "period": "10/2018-12/2021",
+            "acceptance_date": "22/12/2021",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Quản lý môi trường và chất thải chăn nuôi",
+            "type": "Reference Book",
+            "publisher": "NXB. Đại học Huế",
+            "publish_year": "2017",
+            "num_authors": 12,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": "Giấy xác nhận sử dụng xuất bản phẩm làm tài liệu tham khảo số 2273/GXN-ĐHCT ngày 19/6/2025 của Hiệu trưởng Trường ĐH Cần Thơ"
+        },
+        {
+            "title": "Dược lý",
+            "type": "Textbook",
+            "publisher": "NXB. Trường Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "Giấy xác nhận sử dụng giáo trình phục vụ đào tạo số 2272/GXN-ĐHCT ngày 19/6/2025 của Hiệu trưởng Trường ĐH Cần Thơ"
+        }
+    ],
+    "patents": [
+        {
+            "title": "Quy trình phòng bệnh Newcastle cho chim trĩ đỏ ở giai đoạn nuôi tăng trưởng",
+            "issuing_authority": "Hiệu trưởng Trường Đại học Cần Thơ",
+            "issue_date": "12/12/2024",
+            "is_main_inventor": true,
+            "num_inventors": 1
+        },
+        {
+            "title": "Quy trình điều chế dịch chiết xuất tỏi và quy trình sản xuất chế phẩm sinh học từ dịch chiết xuất tỏi này",
+            "issuing_authority": "Phó Cục trưởng Cục Sở hữu trí tuệ",
+            "issue_date": "15/11/2024",
+            "is_main_inventor": true,
+            "num_inventors": 1
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Giỏi việc trường, đảm việc nhà",
+            "certifying_organization": "Ban chấp hành Công đoàn Trường Đại học Cần Thơ",
+            "certificate_document_id": "108/QĐKT-CĐ ngày 29/9/2020",
+            "award": "Giấy khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đã có thành tích xuất sắc trong hoạt động công đoàn nhiệm kì 2017-2023",
+            "certifying_organization": "Ban chấp hành Công đoàn Trường Đại học Cần Thơ",
+            "certificate_document_id": "01/QĐ-CĐ ngày 03/01/2023",
+            "award": "Giấy khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2021-2022",
+            "certifying_organization": "Hiệu trưởng Trường Đại học Cần Thơ",
+            "certificate_document_id": "2937/QĐ-ĐHCT ngày 11/8/2022",
+            "award": "Danh hiệu",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2023-2024",
+            "certifying_organization": "Hiệu trưởng Trường Đại học Cần Thơ",
+            "certificate_document_id": "35/QĐ-ĐHCT ngày 06/1/2025",
+            "award": "Danh hiệu",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Tổ điều chỉnh chương trình đào tạo trình độ đại học ngành Thú y",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "4788/QĐ-ĐHCT ngày 19/11/2021",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "3334/QĐ-ĐHCT ngày 24/8/2022",
+            "notes": ""
+        },
+        {
+            "title": "Hội đồng xây dựng, điều chỉnh chương trình đào tạo trình độ thạc sĩ ngành Thú y",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "5144/QĐ-ĐHCT ngày 29/11/2021",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "889/QĐ-ĐHCT ngày 31/3/2022",
+            "notes": ""
+        }
+    ]
+}

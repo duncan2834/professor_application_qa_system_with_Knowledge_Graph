@@ -1,0 +1,297 @@
+{
+    "papers": [
+        {
+            "title": "Optimization of hydrogen production by hyperthermophilic eubacteria, Thermotoga maritima and Thermotoga neapolitana in batch fermentation; DOI: 10.1016/j.ijhydene.2007.09.033",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Hydrogen Energy/ ISSN: 0360-3199",
+            "journal_ranking": "ISI Q1 (IF 4.093)",
+            "citation_count": 130,
+            "volume_issue_pages": "Volume 33, Issue 5, pages 1483-1488",
+            "published_date": "2008"
+        },
+        {
+            "title": "Hydrogen production by the hyperthermophilic eubacterium, Thermotoga neapolitana, using cellulose pretreated by ionic liquid; DOI: 10.1016/j.ijhydene.2008.05.019",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Hydrogen Energy/ ISSN: 0360-3199",
+            "journal_ranking": "ISI Q1 (IF 4.093)",
+            "citation_count": 80,
+            "volume_issue_pages": "Volume 33, Issue 19, pages 5161-5168",
+            "published_date": "2008"
+        },
+        {
+            "title": "Hydrogen production of the hyperthermophilic eubacterium, Thermotoga neapolitana under N2 sparging condition; DOI: 10.1016/j.biortech.2009.03.041",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bioresource Technology",
+            "journal_ranking": "ISI Q1 (IF 5.078)",
+            "citation_count": 121,
+            "volume_issue_pages": "Volume 101, Issue 1, pages S38-S41",
+            "published_date": "2009"
+        },
+        {
+            "title": "Enhancement of fermentative hydrogen production from green algal biomass of Thermotoga neapolitana by various pretreatment methods; DOI: 10.1016/j.ijhydene.2010.04.062",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Hydrogen Energy/ ISSN: 0360-3199",
+            "journal_ranking": "ISI Q1 (IF 4.823)",
+            "citation_count": 97,
+            "volume_issue_pages": "Volume 35, Issue 23, pages 13035-13040",
+            "published_date": "2010"
+        },
+        {
+            "title": "Thermophilic hydrogen fermentation from Korean rice straw by Thermotoga neapolitana; DOI: 10.1016/j.ijhydene.2009.11.112",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Hydrogen Energy/ ISSN: 0360-3199",
+            "journal_ranking": "ISI Q1 (IF 4.823)",
+            "citation_count": 84,
+            "volume_issue_pages": "Volume 35, Issue 24, pages 13392-13398",
+            "published_date": "2010"
+        },
+        {
+            "title": "Pretreatment of rice straw with ammonia and ionic liquid for lignocellulose conversion to fermentable sugars; DOI: 10.1016/j.biortech.2010.04.053",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bioresource Technology",
+            "journal_ranking": "ISI Q1 (IF 5.360)",
+            "citation_count": 344,
+            "volume_issue_pages": "Volume 101, Issue 19, pages 7432-7438",
+            "published_date": "2010"
+        },
+        {
+            "title": "Thu nhận, khảo sát một số đặc tính và ứng dụng của enzyme ficin từ cây sung giống Ficus. Sp",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Công nghệ Sinh học Toàn Quốc 2003 / ISBN: 978-604-913-759-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pages 580-583",
+            "published_date": "2003"
+        },
+        {
+            "title": "Biohydrogen fermentation from rubber latex processing wastewater pretreated by aluminium sulphate flocculation; DOI: 10.1504/IJEWM.2018.092720",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Environment and Waste Management/ ISSN: 1478-9876",
+            "journal_ranking": "Scopus Q4 (IF 0.167)",
+            "citation_count": 6,
+            "volume_issue_pages": "Volume 21, Issues 2-3, pages 141-154",
+            "published_date": "2018"
+        },
+        {
+            "title": "Power generation of Shewanella oneidensis MR-1 microbial fuel cells in bamboo fermentation effluent; DOI: 10.1016/j.ijhydene.2020.09.264",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Hydrogen Energy/ ISSN: 0360-3199",
+            "journal_ranking": "ISI Q1 (IF 7.139)",
+            "citation_count": 29,
+            "volume_issue_pages": "Volume 46, Issue 21, pages 16612-16621",
+            "published_date": "May, 2021"
+        },
+        {
+            "title": "Hydrothermal and Steam Explosion Pretreatment of Bambusa stenostachya Bamboo; DOI: 10.1007/s12649-020-01299-5",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Waste and Biomass Valorization/ ISSN:1877-2641",
+            "journal_ranking": "Scopus Q2 (IF 3.449)",
+            "citation_count": 33,
+            "volume_issue_pages": "Volume 12, pages 4104-4112",
+            "published_date": "July, 2021"
+        },
+        {
+            "title": "Hydrogen production from acidic, alkaline, and steam-exploded Bambusa stenostachya hydrolysates in dark fermentation process; DOI: 10.1007/s13399-020-01128-8",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biomass Conversion and Biorefinery/ ISSN: 2190-6823",
+            "journal_ranking": "ISI Q2 (IF 4.050)",
+            "citation_count": 12,
+            "volume_issue_pages": "Volume 12, pages 3435-3446",
+            "published_date": "2022"
+        },
+        {
+            "title": "Amoxicillin degradation ability of Bacillus cereus C1 isolated from catfish pond sludge in Vietnam; DOI: 10.1016/j.heliyon.2022.e11688",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Heliyon/ ISSN: 2405-8440",
+            "journal_ranking": "ISI Q1 (IF 3.776)",
+            "citation_count": 3,
+            "volume_issue_pages": "Volume 8, Issue 11, page e11688",
+            "published_date": "2022"
+        },
+        {
+            "title": "Formulation of encapsulating material for packing ginger essential oil (Zingiber officinale Rosc) in soft capsules; DOI: 10.25303/2707rjce092098",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Research Journal of Chemistry and Environment /ISSN: 09720626",
+            "journal_ranking": "Scopus Q4 (IF 0.141)",
+            "citation_count": 27,
+            "volume_issue_pages": "Volume 27, Issue 7, pages 92-98",
+            "published_date": "2023"
+        },
+        {
+            "title": "A Novel: Low-cost Method for the Isolation of Anaerobic Hydrogen Producing Bacteria; DOI: 10.1088/1755-1315/1216/1/012031",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conference Series: Earth and Environmental Science; ISSN: 1755-1307, 1755-1315",
+            "journal_ranking": "Scopus (IF 0.2)",
+            "citation_count": 8,
+            "volume_issue_pages": "Volume 1216, page 012031",
+            "published_date": "July, 2023"
+        },
+        {
+            "title": "Studying Production of Protein Hydrolysates from Fish By-Products using Bacillus sp.; DOI: 10.25303/1808rjbt01010",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Research Journal of Biotechnology; ISSN: 0973-6263; 2278-4535",
+            "journal_ranking": "ISI Q4 (IF 0.357)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 18, Issue 8, pages 1-10",
+            "published_date": "July, 2023"
+        },
+        {
+            "title": "Bioelectricity genenration from bamboo hydrolysate by microbial fuel cells using Pseudomonas aeruginosa PR3 for natural resource convervation; DOI: 10.36868/ijcs.2023.03.22",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Conservation In Science, ISSN: 2067-533X, 2067-8223",
+            "journal_ranking": "ISI Q3 (IF 0.34)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 14, Issue 3, pages 1127-1138",
+            "published_date": "September, 2023"
+        },
+        {
+            "title": "Effect of bufferless conditions on the degradation of hydrogen fermentation effluent from bamboo hydrolysate by microbial fuel cells; DOI: 10.1016/j.jwpe.2023.104364",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Water Process Engineering; ISSN: 2214-7144",
+            "journal_ranking": "ISI Q1 (IF 1.28)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 56, page 104364",
+            "published_date": "December, 2023"
+        },
+        {
+            "title": "Tối ưu hóa sự sản xuất hydro sinh học bởi Escherichia coli SCDC-1 sử dụng phương pháp đáp ứng bề mặt (RSM)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ/ ISSN: 0866-708X (print)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 51, Issue 5C, pages 526-530",
+            "published_date": "2013"
+        },
+        {
+            "title": "Tạo khí H2 từ dịch thải rỉ đường bởi hỗn hợp vi sinh vật của chính nguyên liệu",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ/ ISSN: 0866-708X (print)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 51, Issue 5C, pages 541-545",
+            "published_date": "2013"
+        },
+        {
+            "title": "Thu nhận một số hỗn hợp vi sinh vật khả năng sinh hydro từ các nguồn thải; https://stdj.scienceandtechnology.com.vn/index.php/stdj/article/download/1396/1726",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phát triển Khoa học & Công nghệ/ ISSN:1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 16, Issue T1, pages 51-59",
+            "published_date": "2013"
+        },
+        {
+            "title": "Tối ưu hóa khả năng tạo khí H2 từ dịch thải rỉ đường sau lên men CMS",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học/ISSN:0866-8612",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 30, Issue 6S-A, pages 108-114",
+            "published_date": "2014"
+        },
+        {
+            "title": "Khảo sát khả năng tận dụng nước thải của nhà may chế biến cao su để lên men tạo khí H2 sinh học",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học/ISSN:0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 53, Issue 6e4, pages 308-314",
+            "published_date": "2015"
+        },
+        {
+            "title": "Một số kết quả nghiên cứu chủng vi khuẩn có khả năng sinh khí hydro từ bùn aq",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học/ISSN:0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 53, Issue 6e4, pages 315-321",
+            "published_date": "2015"
+        },
+        {
+            "title": "Xử lý bùn đáy ao nuôi tôm trên địa bàn huyện Bình Đại, tỉnh Bến Tre theo hướng tái sử dụng làm nguyên liệu sản xuất phân hữu cơ; https://sti.vista.gov.vn/tw/Lists/TaiLieuKHCN/Attachments/339493/CTv149V6S12022587.pdf",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học và Công nghệ / ISSN:2588-1078",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 6, Issue 1, pages 587-594",
+            "published_date": "2022"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Khảo sát khả năng sinh nhiên liệu sinh học hydrogen (H2) của tập hợp vi sinh vật phân lập từ bùn thải kỵ khí",
+            "role": "Principal Investigator",
+            "project_code": "B2011-18-18",
+            "management_level": "Cấp ĐHQG-HCM",
+            "period": "2011-2012",
+            "acceptance_date": "21/12/2012",
+            "rating": "tốt"
+        },
+        {
+            "title": "Xác định đặc tính của một số hỗn hợp vi sinh vật có khả năng lên men tạo khí hydro ở VN",
+            "role": "Principal Investigator",
+            "project_code": "C2013-18-06",
+            "management_level": "Cấp ĐHQG-HCM loại C",
+            "period": "2013-2015",
+            "acceptance_date": "04/04/2019",
+            "rating": "khá"
+        },
+        {
+            "title": "Nghiên cứu tạo hydro từ bã mía bằng phương pháp lên men kỵ khí",
+            "role": "Principal Investigator",
+            "project_code": "230/2013/HD-SKHCN",
+            "management_level": "Cấp Sở Khoa học và Công nghệ TP.HCM",
+            "period": "2013-2016",
+            "acceptance_date": "20/5/2016",
+            "rating": "khá"
+        },
+        {
+            "title": "Tiền xử lý sinh khối tre bằng phương pháp nổ hơi nước và chất hóa học để tăng khả năng chuyển hóa đường cho lên men sinh Hydro",
+            "role": "Key Member",
+            "project_code": "C2017-18-04",
+            "management_level": "Cấp ĐHQG-HCM loại C",
+            "period": "2017-2019",
+            "acceptance_date": "07/01/2021",
+            "rating": "khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Thực tập Sinh",
+            "type": "Textbook",
+            "publisher": "",
+            "publish_year": "2020",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "91-100",
+            "verification_document_id": "Quyết định số"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

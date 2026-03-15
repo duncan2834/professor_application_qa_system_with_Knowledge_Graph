@@ -1,0 +1,730 @@
+{
+    "papers": [
+        {
+            "title": "Nanostructured polyaniline rice husk composite as adsorption materials synthesized by different methods",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology/ ISSN: 2043-6262/",
+            "journal_ranking": "ISI/1,36/Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "5(1)",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nanostructured composite based on polyaniline and rice raw for removal of lead (II) and cadimium(II) from solution",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Jounal of Chemistry/ ISSN: 0970-7077 https://doi.org/10.14233/ajchem.2013.15418",
+            "journal_ranking": "ISI/0,33/Q4",
+            "citation_count": 1,
+            "volume_issue_pages": "25(14), 8163-8168.",
+            "published_date": "2013"
+        },
+        {
+            "title": "Synthesis of adsorbent materials based on polyaniline and agriculture waste by soaking method for removal heavy metal ions from solution",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemxpress/ ISSN: 2320-1967",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "3(1)/1-10",
+            "published_date": "2014"
+        },
+        {
+            "title": "Synthesis and characterization of nanostructured composite based on rice husk and polyaniline",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Processdings of the sixth international workshop on Advanced Materials Science and Nanotechnology, Halong City, Vietnam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "334-336",
+            "published_date": "2012"
+        },
+        {
+            "title": "Adsorption of Pb(II) and Cd(II) ions onto nanostructured composite based on peanut shell and polyaniline",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Processdings of the sixth international workshop on Advanced Materials Science and Nanotechnology, Halong City, Vietnam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "329-333",
+            "published_date": "2012"
+        },
+        {
+            "title": "Nghiên cứu khả năng loại bỏ Cr(VI) ra khỏi dung dịch nước của vật liệu compozit PANi – vỏ lạc theo phương pháp hấp phụ động",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "52(6A), 212-215",
+            "published_date": "2014"
+        },
+        {
+            "title": "Pseudo- isotherms for lead(II) ion onto bean shell polyaniline composite",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "51 (5A), 130-133",
+            "published_date": "2013"
+        },
+        {
+            "title": "Adsorption of Pb(II) and Cd(II) ions onto nanostructured sawdust polyaniline composite",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "51 (2), 239-245",
+            "published_date": "2013"
+        },
+        {
+            "title": "Pseudo- isotherms for cadmium ion onto peanut shell polyaniline nanocompsite",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "51 (5), 529-533",
+            "published_date": "2013"
+        },
+        {
+            "title": "Tổng hợp và nghiên cứu tính chất compozit PANi - vỏ lạc",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "50 (3), 389-393",
+            "published_date": "2012"
+        },
+        {
+            "title": "Tổng hợp và nghiên cứu tính chất compozit PANi mùn cưa",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Thái Nguyên/ ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "93(05), 11-15",
+            "published_date": "2012"
+        },
+        {
+            "title": "Nghiên cứu khả năng hấp phụ Cd(II) của compozit polyanilin – vỏ lạc",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Thái Nguyên/ ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "96(8), 85-89",
+            "published_date": "2012"
+        },
+        {
+            "title": "Tổng hợp và nghiên cứu khả năng hấp phụ Cr (VI) của compozit PANi – vỏ đỗ",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "50 (4B), 149-152",
+            "published_date": "2012"
+        },
+        {
+            "title": "Nghiên cứu chế tạo vật liệu gốc LaNi5 bằng phương pháp nấu chảy hồ quang.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Thái Nguyên/ ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "51(3), 72-76",
+            "published_date": "2009"
+        },
+        {
+            "title": "Khảo sát phân bố kích thước hạt của vật liệu gốc LaNi5 chế tạo bằng máy nghiền hành tinh.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Thái Nguyên/ ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "53(5), 76-80",
+            "published_date": "2009"
+        },
+        {
+            "title": "Synergistic Photocatalytic Removal of Moxifloxacin from Aqueous Solutions Using ZnO-Fe3O4-Chitosan Composites",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Material Research Express, ISSN: 2053-1591/ https://doi.org/10.1088/2053-1591/ad45b8",
+            "journal_ranking": "SCI/IF=2,3/Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "11, 055509",
+            "published_date": "2024"
+        },
+        {
+            "title": "Synthesis and Properties of Ag-Au Alloy Nanoparticles with Controlled Composition for Computed Tomography Imaging Applications",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "ChemNanoMat, ISSN: 2199-692X /https://doi.org/10.1002/cnma.202300619",
+            "journal_ranking": "SCI/IF = 3,5/Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "e202300619, 1-11",
+            "published_date": "2024"
+        },
+        {
+            "title": "Modification of hydrotalcite loading tannic acid with organic silane and application in anticorrosive epoxy coating",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "ChemistryOpen, ISSN:2191-1363/ https://doi.org/10.1002/open.202400120",
+            "journal_ranking": "ISI/IF=2,3/Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "e202400120, 1-18",
+            "published_date": "2024"
+        },
+        {
+            "title": "The size-and shape-controlled synthesis of silver nanoparticles by solvothermal method",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science and Technology/ ISSN: 2525-2518/doi:10.15625/2525-2518/16615",
+            "journal_ranking": "Scopus/IF = 0,327/Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "61 (2), 246-254",
+            "published_date": "2023"
+        },
+        {
+            "title": "Enhancement of Leaching Copper from Printed Circuit Boards of Discarded Mobile Phones Using Ultrasound-Ozone Integrated Approach",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Metals, ISSN: 2075-4701/ https://doi.org/10.3390/met13061145",
+            "journal_ranking": "SCI/IF=2,7/Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "13, 1145.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Removal of Fluoroquinolone Antibiotics by Chitosan-Magnetite from Aqueous: Single and Binary Adsorption",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Processes, ISSN: 2227-9717 https://doi.org/10.3390/pr11082396",
+            "journal_ranking": "SCI/IF=3,7/Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "11, 2396.",
+            "published_date": "2023"
+        },
+        {
+            "title": "The magnetism of Bi0.84La0.16Fe1-xMnxO3 ceramics at the Pbam/Imma phase boundary",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Alloys and Compounds, ISSN: 0925-8388, https://doi.org/10.1016/j.jallcom.2023.172873",
+            "journal_ranking": "SCIE/IF=6.2/Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "973, 172873/1-7",
+            "published_date": "2023"
+        },
+        {
+            "title": "Interplay of multiple structural phase and magnetic response of Bi1-xPrxFeO3 ceramics",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International, ISSN: 0272-8842 https://doi.org/10.1016/j.ceramint.2022.07.140",
+            "journal_ranking": "SCIE/IF= 5,5/Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "48 (21), 32027-32035",
+            "published_date": "2022"
+        },
+        {
+            "title": "Removal of anionic dye from aqueous solution by chitosan - magnetite nanocomposite",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Environmental Analytical Chemistry, DOI:10.1080/03067319.2022.2140410",
+            "journal_ranking": "SCIE/IF = 2,8/Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "102(15)",
+            "published_date": "2022"
+        },
+        {
+            "title": "Water-dispersible Gadolinium Oxide Nanoplates as an Effective Positive Magnetic Resonance Imaging Agent Contrast",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "ChemistrySelect, https://doi.org/10.1002/slct.202202062",
+            "journal_ranking": "ISI/ IF = 2,2/Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "7, e202202062",
+            "published_date": "2022"
+        },
+        {
+            "title": "Mixed gel electrolytes: Synthesis, characterization, and gas release on PbSb electrode",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Green Processing and Synthesis, ISSN: 2191-9550 https://doi.org/10.1515/gps-2021-0033",
+            "journal_ranking": "SCI/IF = 1.672/Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "10 (1), 325-335",
+            "published_date": "2021"
+        },
+        {
+            "title": "Removal of cadmium from aqueous solution using sonochemically modified clinoptilolite: Optimization and modeling",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Technology & Innovation/ ISSN: 2352-1864 https://doi.org/10.1016/j.eti.2020.101166",
+            "journal_ranking": "SCI/IF=5,54/Q1",
+            "citation_count": 17,
+            "volume_issue_pages": "20 (2020) 101166",
+            "published_date": "2020"
+        },
+        {
+            "title": "Artificial neural network modeling for Congo red adsorption on microwave-synthesized akaganeite nanoparticles: optimization, kinetics, mechanism, and thermodynamics",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Science and Pollution Research https://doi.org/10.1007/s11356-020-10633-2",
+            "journal_ranking": "SCI/IF=4,88/Q2",
+            "citation_count": 20,
+            "volume_issue_pages": "28, 9133-9145",
+            "published_date": "2020"
+        },
+        {
+            "title": "Effect of Milling Methods on Particulate Properties and Structure of Clinoptilolite",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Crystal Research and Technology/ ISSN 1521-4079/ https://doi.org/10.1002/crat.201900180",
+            "journal_ranking": "SCIE/IF = 1,5/Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "2020,1-6",
+            "published_date": "2020"
+        },
+        {
+            "title": "Ultrasound-assisted preparation of activated carbon from sugarcane bagasse used for removal of Pb(II) from water",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Preceeding: Advances in applied and engineering physics CAEP-VI ISBN: 978-604-913-232-2.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42-28",
+            "published_date": "Oct, 2020"
+        },
+        {
+            "title": "Đặc trưng và tính chất quang xúc tác của vật liệu composite ZnO - Fe3O4",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Catalysis and Adsorption, ISSN: 0866-7411 https://doi.org/10.62239/jca.2024.012",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13(1), 75-80",
+            "published_date": "2024"
+        },
+        {
+            "title": "Adsorption of arsenic anions in water by magnetic ZnFe2O4/a-Fe2O3/biochar nanocomposites: isotherm and kinetic studies",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU-Journal of Science and Technology, ISSN: 1859-2171 https://doi.org/10.34238/tnu-jst.9919",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "229(6), 170-177",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tính chất quang của vật liệu Sr2TiO4 pha tạp ion Eu3+ chế tạo bằng phương pháp phản ứng pha rắn",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và công nghệ Việt Nam (bản C) ISSN: p - 2525-2461 DOI: 10.31276/VJST.66(1).62-67",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "66(1), 62-67",
+            "published_date": "2024"
+        },
+        {
+            "title": "Synthesis, characteristics, and photocatalytic degradation of antibiotics in water using ZnO-Fe3O4-chitosan composite",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU-Journal of Science and Technology, ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "229(10) 151-159",
+            "published_date": "2024"
+        },
+        {
+            "title": "Hấp phụ dư lượng kháng sinh sulfamethoxazol trong nước bằng vật liệu nano compozit chitosan sắt từ oxit",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU-Journal of Science and Technology, ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "228(S1) 52-60",
+            "published_date": "2023"
+        },
+        {
+            "title": "Xử lý xanh metylen bằng vật liệu cacbon mao quản trung bình được tổng hợp từ chất tạo cấu trúc SBA-16",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU-Journal of Science and Technology, ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "228(S1) 21-28",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu chế tạo vật liệu nano composit Fe3O4-chitosan ứng dụng xử lý xanh metylen",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU-Journal of Science and Technology, ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "228(S1) 61-68",
+            "published_date": "2023"
+        },
+        {
+            "title": "Evaluation of the hydrophobic and barrier properties of the polyurethane coatings covered by stearic acid thin layer",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Communications in Physics, ISSN:0868-3166, DOI: https://doi.org/10.15625/0868-3166/18506",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "33(4)/447-455",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu khả năng hấp phụ xanh metylen trên vật liệu compozit chitosan – sắt từ oxit",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xúc tác Hấp phụ Việt Nam, ISSN: 0866-7411 DOI: https://doi.org/10.51316/jca.2022.009",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "11(1) 59-65.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Hấp phụ metyl da cam trong nước bằng compozit chitosan manhetit: Nghiên cứu đẳng nhiệt, động học và nhiệt động học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ĐHTN, ISSN: 1859-2171 https://doi.org/10.34238/tnu-jst.5702",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "227(8), 348-355",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tổng hợp đồng (I) oxit từ rác thải điện tử",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU journal science and technology, ISSN: 1859-2171, https://doi.org/10.34238/tnu-jst.5853",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "227(8), 499-505",
+            "published_date": "2022"
+        },
+        {
+            "title": "Removal of rhodamine B dye from aqueous solution using chitosan – magnetite composite",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU journal science and technology, ISSN: 1859-2171, https://doi.org/10.34238/tnu-jst.5424",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "227(7), 11-18",
+            "published_date": "2022"
+        },
+        {
+            "title": "Dyes adsorption properties of odered mesoporous carbon material using mcf silica as hard template",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Catalysis and Adsorption, ISSN: 0866-7411 https://doi.org/10.51316/jca.2022.047.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11(3), 37-42.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ảnh hưởng của nồng độ ion Eu³+ lên cấu trúc và tính chất quang của vật liệu SrTiO3",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 1859-2171 https://doi.org/10.34238/tnu-jst.6870",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "227(16): 241-248",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá khả năng tách đồng khỏi rác thải điện thoại di động bằng phương pháp hỏa luyện kết hợp thủy luyện",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU-Journal of Science and Technology, ISSN: 1859-2171, https://doi.org/10.34238/tnu-jst.5851",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "227(11), 61-67",
+            "published_date": "2022"
+        },
+        {
+            "title": "Synthesis composite chitosan-magnetite apply to adsorption antibiotic in aqueous",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "J.Vietnam Catalysis and Adsorption, ISSN: 0866-7411 https://doi.org/10.51316/jca.2021.104",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 10 (1S), 121-126",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu chế tạo dung dịch keo trên nền hạt nano bạc chất lượng cao và hoạt tính kháng nấm của chúng",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học/ ISSN: 0868-3224",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "26(3B), 94-99",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tổng hợp và nghiên cứu tính chất hấp phụ của vật liệu compozit Polyanilin – nhôm oxit,",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "225(06): 66-72,",
+            "published_date": "2020"
+        },
+        {
+            "title": "Adsorption of Nickel(II) ion onto peanut shell polyaniline nanocomposite: kinetic and isotherm studies",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam J.chem, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "58(5E1, 2) 393-397.",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đặc trưng và tính chất hấp phụ - xúc tác xử lý xanh metylen của vật liệu cacbon mao quản trung bình chứa sắt",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam J.chem, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "58(5E1, 2), 67-71.",
+            "published_date": "2020"
+        },
+        {
+            "title": "The adsorption of Mn (II) onto polyaniline/peanut shell nanocomposite aqueous solution",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam J.chem, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "57(4e1, 2), 441-445",
+            "published_date": "2019"
+        },
+        {
+            "title": "Comparision between single and binary adsorptions of lead (II) and cadmium (II) ions onto polyaniline peanut shell composite",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Thái Nguyên/ ISSN: 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "178(02), 15-18",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nghiên cứu khả năng loại bỏ Co(II) ra khỏi dung dịch nước bằng PANi/ vỏ lạc",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "56(3E1, 2), 220-224",
+            "published_date": "2018"
+        },
+        {
+            "title": "Hấp phụ ion mangan (VII) trên compozit polyanilin/ vỏ lạc bằng phương pháp hấp phụ động",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "56(3E1 2), 236-241",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nghiên cứu hấp phụ xanh metylen trong nước trên vật liệu compozit polyanilin – vỏ lạc",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xúc tác và Hấp phụ Việt Nam/ ISSN: 0866-7411",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "T6(4), 89-93",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nghiên cứu khả năng loại bỏ ion Mn(VII) ra khỏi dung dịch nước bằng PANi – vỏ lạc",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học, ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "55(5E1, 2), 223-226,",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nghiên cứu loại bỏ metyl da cam trong nước bằng vật liệu hấp phụ compozit polyanilin – vỏ lạc",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ĐHTN/ ISSN: 1859-2171 https://jst.tnu.edu.vn/jst/article/view/1069/pdf",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "169 (09), 51-55",
+            "published_date": "2017"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Tổng hợp, nghiên cứu vật liệu hấp phụ compozit từ polyaniline và các phụ phẩm nông nghiệp hướng đến ứng dụng xử lý môi trường",
+            "role": "Principal Investigator",
+            "project_code": "ĐH2011-07-11",
+            "management_level": "Cấp Đại học Thái Nguyên",
+            "period": "2011-2012",
+            "acceptance_date": "26/7/2013",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu, tổng hợp vật liệu nano compozit chitosan – sắt từ oxit ứng dụng để loại bỏ một số hợp chất màu hữu cơ trong nước",
+            "role": "Principal Investigator",
+            "project_code": "CS2020-TN06-13",
+            "management_level": "Cấp cơ sở",
+            "period": "2020-2022",
+            "acceptance_date": "16/11/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Chế tạo và nghiên cứu tính chất điện và từ của vật liệu tổ hợp nền BiFeO3 pha tạp các ion đất hiếm.",
+            "role": "Principal Investigator",
+            "project_code": "CS2023-TN06-08",
+            "management_level": "Cấp cơ sở",
+            "period": "2023-2024",
+            "acceptance_date": "07/5/2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tổng hợp bột huỳnh quang X6P5YO20 (X = Sr, Ca, Ba; Y = B, Y, Al); X5Y(PO4)3 (X = Sr, Ca, Ba; Y = Cl, F) pha tạp Eu và Mn phát xạ xanh, vàng, đỏ có hiệu suất phát xạ cao, ứng dụng trong chế tạo điốt phát quang ánh sáng trắng và đèn huỳnh quang chiếu sáng cho nông nghiệp",
+            "role": "Assistant",
+            "project_code": "103.03-2020.30",
+            "management_level": "Quỹ phát triển Khoa học và Công nghệ Quốc gia",
+            "period": "2020-2022",
+            "acceptance_date": "2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu chế tạo vật liệu huỳnh quang cấu trúc perovskyte kép AA'BB'O6 và các chấm lượng tử bọc silica pha tạp đất hiếm cho ứng dụng trong diot phát xạ ánh sáng trắng",
+            "role": "Assistant",
+            "project_code": "B2021-ΤΝΑ-14",
+            "management_level": "Cấp: Bộ GD&ĐT",
+            "period": "2021-2022",
+            "acceptance_date": "2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu xử lý crom, amoni, photpho và một số chất hữu cơ dư lượng nhỏ trong nước thải bằng công nghệ keo tụ điện hóa kết hợp quang xúc tác hấp phụ",
+            "role": "Assistant",
+            "project_code": "KC-114",
+            "management_level": "Cấp Bộ GD&ĐT",
+            "period": "2019-2020",
+            "acceptance_date": "2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu quy trình thu hồi một số kim loại quý từ rác thải điện tử bằng phương pháp thủy luyện kết hợp điện hóa",
+            "role": "Key Member",
+            "project_code": "ĐH2020-TN06-05",
+            "management_level": "Cấp Đại học Thái Nguyên",
+            "period": "2020-2021",
+            "acceptance_date": "03/8/2023",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Thực tập Hóa lý ISBN: 978-604-915-338-9",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Thái Nguyên",
+            "publish_year": "2016",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": "Giấy xác nhận sử dụng sách của trường ĐHKH"
+        },
+        {
+            "title": "Thực hành Hóa học ISBN: 978-604-915-663-2",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Thái Nguyên",
+            "publish_year": "2018",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "Giấy xác nhận sử dụng sách của trường ĐHKH"
+        },
+        {
+            "title": "Bài tập trắc nghiệm Hóa đại cương ISBN: 978-604-350-023-3",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Thái Nguyên",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "11-74",
+            "verification_document_id": "Giấy xác nhận sử dụng sách của trường ĐHKH"
+        },
+        {
+            "title": "Green and sustainable approaches using waste for the product of multifunctional nanomaterials ISBN: 978-0-443-19183-1",
+            "type": "Reference Book",
+            "publisher": "Elsevier",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "22. Nanomaterial synthesis from the plant extract and tree part",
+            "verification_document_id": ""
+        }
+    ],
+    "patents": null,
+    "achievements": [
+        {
+            "title": "Bằng khen hoàn thành xuất sắc nhiệm vụ năm học",
+            "certifying_organization": "Bộ GD-ĐT",
+            "certificate_document_id": "",
+            "award": "Certificate of Merit",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen hoàn thành xuất sắc nhiệm vụ năm học",
+            "certifying_organization": "Bộ GD-ĐT",
+            "certificate_document_id": "",
+            "award": "Certificate of Merit",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giấy khen hoàn thành xuất sắc nhiệm vụ năm học",
+            "certifying_organization": "Đại học Thái Nguyên",
+            "certificate_document_id": "",
+            "award": "Certificate of Merit",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giấy khen về thành tích xuất sắc trong NCKH năm 2023",
+            "certifying_organization": "Đại học Thái Nguyên",
+            "certificate_document_id": "",
+            "award": "Certificate of Merit",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo thạc sĩ ngành Hóa phân tích",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Số 218/QĐ-ĐHKH ngày 28/02/2023 của Hiệu trưởng Trường ĐH Khoa học - ĐH Thái Nguyên",
+            "certifying_authority": "Trường ĐH Khoa học - ĐH Thái Nguyên",
+            "implementation_document_id": "QĐ 1414/QĐ-ĐHKH ngày 27/7/2023",
+            "notes": "Rà soát, cập nhật, bổ sung, cập nhật chương trình đào tạo thạc sĩ định hướng nghiên cứu"
+        },
+        {
+            "title": "Chương trình đào tạo tiến sĩ ngành Hóa học",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Số 691/QĐ-ĐHKH ngày 08/6/2022 của Hiệu trưởng Trường ĐH Khoa học - ĐH Thái Nguyên",
+            "certifying_authority": "Trường ĐH Khoa học - ĐH Thái Nguyên",
+            "implementation_document_id": "QĐ 1337/QĐ-ĐHKH ngày 14/7/2023",
+            "notes": "Ban hành chương trình đào tạo trình độ tiến sĩ ngành Hóa học"
+        }
+    ]
+}

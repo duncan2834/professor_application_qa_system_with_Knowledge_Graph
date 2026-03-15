@@ -1,0 +1,633 @@
+{
+    "papers": [
+        {
+            "title": "An analysis of trade and environment in seafood processing sector in Vietnam: status,challenges and implications",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Xi'an Shiyou Daxue Xuebao (Ziran Kexue Ban)/Journal of Xi'an Shiyou University, Natural Sciences Edition ISSN: 1673 064X",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.65, Issue 12",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Waste Audit of Craft Villages in Urban Vietnam: A Case Study of Trung Van Plastic Recycling Craft Village, Hanoi City",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "NeuroQuantology ISSN: 1303-5150",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.21, Iss 5, Page 1822-1836",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "An analysis of financial costs and benefits of ecological shrimp farming model: Empirical evidence in Tien Hai District, Thai Binh province, Northern Vietnam.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Jilin University ISSN: 1671 5497",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.42, Iss04",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Impact of Accounting Information System on Performance of Vietnamese Construction Enterprises",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International journal off professional business review ISSN: 2525-3654",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Page01-13",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Perception and customer's willingness to pay premium for orgarnic food in Ha Noi, Viet Nam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied ecology and environmental reseach ISSN:1589-1623",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.22, Issue 2, p1297",
+            "published_date": "1/2024"
+        },
+        {
+            "title": "Determinants of environmental information disclosure: An empirical analysis from the FDI sector in Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applicd Ecology and Environmental Research ISSN:1589-1623",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.23, Issue 3,pages 4755-4780",
+            "published_date": "3/2025"
+        },
+        {
+            "title": "The effect of green human ressources management on employees' environmentally friendly behavior and hotel's",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Corporate Govermance and Sustainability Review ISSN: 2519-898X 2519-8971",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.9,Issue 1,pp.30-39",
+            "published_date": "3/2025"
+        },
+        {
+            "title": "Determining the factors affecting the audit quality of Vietnamese - Listed companies",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Financial and credit activity: Problems of Theory and practice ISSN: 2306-4994",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.2,No49,2025,Pages:143-150",
+            "published_date": "4/2025"
+        },
+        {
+            "title": "Blockchain and the Future of Sustainable Corporate Accounting: A Behavioral Perspective from Vietnam's Manufacturing Industry",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability ISSN:2071-1050",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.17,Article Np.4658",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Hạch toán chi phí đi vay theo tinh thần chuẩn mực kế toán số 16 “Chi phí đi vay\"",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghiệp (Nay là Tạp chí Công Thương)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ 1 Trang 24-25",
+            "published_date": "2/2005"
+        },
+        {
+            "title": "Hạch toán thanh toán khối lượng xây lắp theo chuẩn mực kế toán số 15\" Hợp đồng xây dựng”",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công Nghiệp (Nay là Tạp chí Công Thương)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ 1 Trang 31-32",
+            "published_date": "4/2005"
+        },
+        {
+            "title": "Hoàn thiện kế toán chi phí và tính giá thành sản phẩm theo yêu cầu quản trị chi phí tại Tổng công ty Công nghiệp hóa chất mỏ (Vinacomin)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công Nghiệp (Nay là Tạp chí Công Thương) ISSN:1859-3976",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 54 Trang 22-23, 55",
+            "published_date": "12/2011"
+        },
+        {
+            "title": "Xây dựng mô hình kế toán quản trị chi phí sản xuất và giá thành sản phẩm tại tổng công ty Công nghiệp Hóa chất Mỏ Vinacomin",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công Nghiệp (Nay là Tạp chí Công Thương) ISSN:1859 -3976",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 59 Trang 20",
+            "published_date": "5/2012"
+        },
+        {
+            "title": "Thiết lập hệ thống báo cáo kế toán và bộ máy kế toán quản trị chi phí cho Tổng công ty cồn nghiệp hóa chất mỏ (Vinacomin) và các đơn vị thành viên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số cuối tháng Trang 7-9",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Hoàn thiện lập dự toán chi phí sản xuất theo yêu cầu quản trị nội bộ cho Tổng công ty (TCT) công nghiệp hóa chất mỏ - Vinacomin và các đơn vị thành viên của TCT",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 441 Trang 18-20",
+            "published_date": "1/2015"
+        },
+        {
+            "title": "Tính thực tiễn của Luật thuế xuất khẩu, thuế nhập khẩu ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính kế toán ISSN: 1859-4093",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 138 Trang 20-23",
+            "published_date": "1/2015"
+        },
+        {
+            "title": "Một số ý kiến về tính thực tiễn của Luật Ngân sách Nhà nước",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số cuối tháng Trang 20-23",
+            "published_date": "3/2015"
+        },
+        {
+            "title": "Một số ý kiến về thực tiễn của luật thuế giá trị gia tăng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ II Trang 48-50",
+            "published_date": "4/2015"
+        },
+        {
+            "title": "Giải pháp hoàn thiện phần hóa doanh nghiệp Nhà nước ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính kế toán ISSN: 1859-4093",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 143 Trang 46-50",
+            "published_date": "6/2015"
+        },
+        {
+            "title": "Hoàn thiện phương pháp phân loại chi phí sản xuất, hình thức sổ kế toán phục vụ yêu cầu quản trị và nối mạng trong TCT Công nghiệp hóa chất mỏ",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 449 Trang 84-85,77",
+            "published_date": "7/2015"
+        },
+        {
+            "title": "Thay đổi phương pháp tính giá thành của Tổng công ty Công nghiệp Hóa chất mỏ - Vinacomin",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 455 Trang 35-36",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Hoàn thiện hệ thống chứng từ và tài khoản kế toán phục vụ quản trị nội bộ tại Tổng công ty Công nghiệp Hóa chất mỏ-Vinacomin",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 456 Trang 22-23",
+            "published_date": "11/2015"
+        },
+        {
+            "title": "Tỷ giá hối đoái và phương pháp hạch toán chênh lệch tỷ giá hối đoái theo tinh thần Thông tư 200/2014/TT-BTC",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á – Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số cuối tháng Trang 51-52",
+            "published_date": "4/2016"
+        },
+        {
+            "title": "Một số giải pháp nhằm hoàn thiện công tác quản trị doanh nghiệp tại Tổng Công ty công nghiệp hóa chất mỏ (Vinacomin)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á – Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 478 Trang 104-106",
+            "published_date": "9/2016"
+        },
+        {
+            "title": "Sự cần thiết phải công khai, minh bạch thông tin trong các công ty cổ phần Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á – Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 490 Trang 20-21,7",
+            "published_date": "3/2017"
+        },
+        {
+            "title": "Một số giải pháp về công tác đào tạo cử nhân kế toán phù hợp với chuẩn đầu ra trong các trường đại học Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á – Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 497 Trang 55-57",
+            "published_date": "7/2017"
+        },
+        {
+            "title": "Một số giải pháp cơ bản về đổi mới công nghệ cho các công ty cổ phần ở Việt nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á – Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 499 Trang 33-34,37",
+            "published_date": "8/2017"
+        },
+        {
+            "title": "Giải pháp hoàn thiện công tác đào tạo lao động kế toán ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu tài chính kế toán ISSN: 1859-4093",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 175 Trang 52-55",
+            "published_date": "2/2018"
+        },
+        {
+            "title": "Nghiên cứu kế toán chi phí sản xuất và tính giá thành sản phẩm của một số quốc gia trên thế giới ,bài học kinh nghiệm cho Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính kế toán ISSN: 1859-4093",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 176 Trang 68-72",
+            "published_date": "3/2018"
+        },
+        {
+            "title": "Thực trạng chuyển giá và giải pháp chống chuyển giá đối với các doanh nghiệp có vốn đầu tư nước ngoài (FDI) tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kế toán & Kiểm toán ISSN: 1859-1914",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 175 Trang 39-41",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Kế toán trích lập và xử lý các khoản dự phòng tổn thất tài sản theo Thông tư 200/2014/BTC",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á – Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 515 Trang 76-77",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Hướng dẫn thi hành Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng theo tinh thần thông tư số 130/2016/TT-BTC",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á – Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số cuối tháng Trang 65-66",
+            "published_date": "6/2018"
+        },
+        {
+            "title": "Cổ phần hóa của một số quốc gia trên thế giới, bài học kinh nghiệm cho Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kế toán & Kiểm toán ISSN: 1859-1914",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 178 Trang 40-44",
+            "published_date": "7/2018"
+        },
+        {
+            "title": "Xây dựng hệ thống báo cáo kế toán trách nhiệm của các doanh nghiệp sản xuát vật liệu nổ công nghiệp thuộc Tổng công ty Công nghiệp hóa chất mỏ-Vinacomin",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính kế toán ISSN: 1859-4093",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 180 Trang 39-42",
+            "published_date": "7/2018"
+        },
+        {
+            "title": "Xây dựng hệ thống thông tin kế toán cho các doanh nghiệp sản xuất thuốc nổ thuộc Tổng công ty Công nghiệp Hóa chất Mỏ - Vinacomin",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kế toán & Kiểm toán ISSN: 1859-1914",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 181 Trang 25-28",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Một số giải pháp tiết kiệm chi phí sản xuất cho các doanh nghiệp sản xuất thuốc nổ thuộc Tổng công ty công nghiệp hóa chất mỏ Vinacomin",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính kế toán ISSN: 1859-4093",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 183 Trang 61-63",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Bàn về cách thức triển khai áp dụng chuẩn mực báo cáo tài chính quốc tế ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí chứng khoán Việt Nam ISSN : 0866-739X",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 257 Trang 7-12",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Kế toán phải thu khách hàng theo chuẩn mực báo cáo tài chính quốc tế (IFRS)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á – Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 602 Trang 43-45",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Những bất cập và nguyên nhân khi thực hiện cổ phần hóa doanh nghiệp nhà nước ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 632 Trang 25-27",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Số hóa và công nghệ chuyển đổi trong công tác kế toán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tập chí kế toán và kiểm toán ISSN: 2815-6129",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 235 Trang 18-21",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Hiệu quả kinh doanh và giải pháp nâng cao hiệu quả kinh doanh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương ISSN: 0868-3808",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 636 Trang 77-78",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Xây dựng định mức và dự toán chi phí sản xuất trong kế toán quản trị",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kế toán và Kiểm toán ISSN: 2815-6129",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 248 Trang 46-49",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng chính sách kinh tế vĩ mô lên giá cổ phiếu của thị trường chứng khoán Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tập chí kế toán và kiểm toán ISSN: 2815-6129",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 256 Trang 83-86",
+            "published_date": "1/2025"
+        },
+        {
+            "title": "Thực trạng kế toán môi trường ở Việt Nam - Nguyên nhân và giải pháp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tập chí kế toán và kiểm toán ISSN: 2815-6129",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 260 Trang 24-31",
+            "published_date": "5/2025"
+        },
+        {
+            "title": "Vai trò và giải pháp đổi mới công nghệ cho các doanh nghiệp Việt Nam phát triển bền vững trong xu thế hội nhập",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học quốc tế khởi nghiệp đổi mới sang tạo quốc gia (có xuất bản kỷ yếu)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "p. 1102 to p. 1110, International Conference Proceedings (with published proceedings)",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Protecting the environment for the sake of sustainabledevelopment from the perspective of implementingsocial responsibilities",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "E3S Web of Conferences eISSN: 2267-1242",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 164; Article Number 11011",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "The Relationship Between Manager's Perception of IFRS And Their Attitude Toward Adopting It: Empirical Evidence from Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "ICFAA2021",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "p. 101 to p. 110, International Conference Proceedings (with published proceedings)",
+            "published_date": "3/2021"
+        },
+        {
+            "title": "Solution to strengthen working capital mannnagement at Trương An company",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the 4th International Conference on Finance and Accounting for the Promotion of Sustainable Development in Private Sector (FASPS -4)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "p. 404 to p. 408, International Conference Proceedings (with published proceedings)",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Strengthening the application of management accounting in small and medium enterprise in Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the 4th International Conference on Finance and Accounting for the Promotion of Sustainable Development in Private Sector (FASPS -4)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "p. 489 to p. 495, International Conference Proceedings (with published proceedings)",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của chất lượng kiểm soát nội bộ tới kết quả hoạt động tại các daonh nghiệp Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo khoa học quốc gia về Kế toán và Kiểm toán VCAA 2022",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "p. 1162 to p. 1175, National Conference Proceedings (with published proceedings)",
+            "published_date": "11/2022"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu và đề xuất một số giải pháp nhằm phát triển công nghiệp tại địa phương thuộc vùng duyên hải Bắc Bộ",
+            "role": "Principal Investigator",
+            "project_code": "036.14RD HĐ số 036.14RD/HD-KHCN",
+            "management_level": "null",
+            "period": "01/2014-12/2014",
+            "acceptance_date": "2/4/2015",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Chạy mô hình phân phân tích mức độ phơi lộ của các yếu tố kinh tế -xã hội của khu vực miền Trung do các hiện tượng KTVCĐ trong bối cảnh BĐKH",
+            "role": "Principal Investigator",
+            "project_code": "BĐKH.22/16-20",
+            "management_level": "null",
+            "period": "9/2017-7/2018",
+            "acceptance_date": "30/7/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Vận dụng IAS 41,IFRS 13 vào kế toán tài sản sinh học trong doanh nghiệp ngành lâm nghiệp Việt Nam",
+            "role": "Assistant",
+            "project_code": "KTQD/V2019.27",
+            "management_level": "null",
+            "period": "1/2019-1/2020",
+            "acceptance_date": "13/1/2020",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Annalysis of financial factors affecting share price: Research from listed companies on Vietnam's stock market (Nghiên cứu các nhân tố tài chính ảnh hưởng tới giá cổ phiếu của các công ty niêm yết trên thị trường chứng khoán Việt Nam)",
+            "role": "Key Member",
+            "project_code": "KTQD/E2020.10",
+            "management_level": "null",
+            "period": "25/1/2020-25/1/2021",
+            "acceptance_date": "20/4/2021",
+            "rating": "Khá"
+        },
+        {
+            "title": "The impact of the method presenting of cash flow statements of Vietnamese firms on the dicisions of the lending institutions. (Tác động của phương pháp lập báo cáo lưu chuyển tiền tệ của các doanh nghiệp Việt Nam đến quyết định của tổ chức đi vay)",
+            "role": "Assistant",
+            "project_code": "NEU-E2021.12",
+            "management_level": "null",
+            "period": "7/2021-7/2022",
+            "acceptance_date": "15/7/2022",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Kế toán tài chính 1",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Kinh tế Quốc dân",
+            "publish_year": "2020",
+            "num_authors": 11,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 229 to p. 245",
+            "verification_document_id": "Đại học Kinh tế Quốc dân"
+        },
+        {
+            "title": "Kế toán chi phí sản xuất và tính giá thành sản phẩm tại các Doanh nghiệp sản xuất thuốc nổ thuộc Tổng công ty công nghiệp hóa chất mỏ Vinacomin",
+            "type": "Monograph",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2020",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "p. 1 to p. 157",
+            "verification_document_id": "Đại học Kinh tế Quốc dân"
+        },
+        {
+            "title": "Câu hỏi trắc nghiệm và tình huống kiểm toán",
+            "type": "Reference Book",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 24 to p. 27, p. 116 to p. 124",
+            "verification_document_id": "Học viện Tài chính"
+        },
+        {
+            "title": "Kỹ thuật thu thập bằng chứng kiểm toán trong kiểm toán Báo cáo tài chính-từ lý thuyết đến thực tiễn",
+            "type": "Reference Book",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 33 to p. 50",
+            "verification_document_id": "Học viện Tài chính"
+        },
+        {
+            "title": "Tác động của chính sách tài chính với các doanh nghiệp FDI tại Việt Nam trong bối cảnh hội nhập quốc tế",
+            "type": "Monograph",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2023",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 101 to p. 155",
+            "verification_document_id": "Học viện Tài chính"
+        },
+        {
+            "title": "Quản lý tài sản công tại các cơ sở giáo dục đại học công lập",
+            "type": "Monograph",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2023",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 196 to p. 208",
+            "verification_document_id": "Học viện Tài chính"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Biên soạn học liệu Kế toán tài chính 1 theo chuẩn mực báo cáo tài chính (IFRS) ISBN:978-604-946-825-4",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Số 96/QĐ-ĐHKTQD ngày 31/10/2018",
+            "certifying_authority": "ĐH Kinh tế Quốc dân",
+            "implementation_document_id": "Quyết định số 134/QĐ-NXBDHKTQD ngày 08/5/2020 của Nhà xuất bản ĐHKTQD",
+            "notes": "null"
+        },
+        {
+            "title": "Chủ nhiệm đề tài nhánh thuộc nhiệm vụ cấp Quốc gia “Nghiên cứu lượng giá thiệt hại kinh tế do các hiện tượng khí tượng thủy văn cực đoan gây ra trong bối cảnh BDKH (mã số:BDKH.22/16-20)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Số 1941/QĐ-ĐHKTQD ngày 25/9/2017",
+            "certifying_authority": "Cục Thông tin KH&CN quốc gia - Bộ KH&CN",
+            "implementation_document_id": "Giấy chứng nhận kết quả nghiên cứu số 2020-52-787/KQNC ngày 10/8/2020",
+            "notes": "Đề tài nhánh đã hoàn thành, có đóng góp vào đề tài tổng cấp quốc gia"
+        }
+    ]
+}

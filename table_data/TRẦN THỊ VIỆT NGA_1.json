@@ -1,0 +1,924 @@
+{
+    "papers": [
+        {
+            "title": "Health Risks of Rural Water Supply due to lack of Proper Sanitation in Southeast Asian Countries",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chorus I. (Eds.), Water, Sanitation & Health. IWA Publishing ISBN: 3-932816-34-X",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "399-404",
+            "published_date": "2000"
+        },
+        {
+            "title": "Water supply and water quality in rural areas",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Water Supply. IWA Publishing ISSN: 1606-9749",
+            "journal_ranking": "SCIE (IF=1,583, Q3)",
+            "citation_count": 18,
+            "volume_issue_pages": "18(1), 475-478",
+            "published_date": "2000"
+        },
+        {
+            "title": "Groundwater contamination assessment for sustainable water supply in Kathmandu Valley, Nepal",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Water Science and Technology ISSN: 02731223",
+            "journal_ranking": "SCIE (IF=2,261, Q2)",
+            "citation_count": 121,
+            "volume_issue_pages": "46(9), 147-154",
+            "published_date": "2002"
+        },
+        {
+            "title": "Heavy metal tracers for the analysis of groundwater contamination: case study in Hanoi City",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Water Supply ISSN: 16069749",
+            "journal_ranking": "SCIE (IF=1,583, Q3)",
+            "citation_count": 24,
+            "volume_issue_pages": "3(1-2), 343-350",
+            "published_date": "2003"
+        },
+        {
+            "title": "The application of A/O-MBR system for domestic wastewater treatment in Hanoi",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Vietnamese Environment (JVE) ISSN: 2193-6471",
+            "journal_ranking": "",
+            "citation_count": 8,
+            "volume_issue_pages": "1(1), 19-24",
+            "published_date": "2011"
+        },
+        {
+            "title": "Sustainable water resources management in the Long Bien district",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Water Supply ISSN: 16069749",
+            "journal_ranking": "SCIE (IF=1,583, Q3)",
+            "citation_count": 3,
+            "volume_issue_pages": "12(6), 737-746",
+            "published_date": "10/01/2012"
+        },
+        {
+            "title": "Micro-component survey of residential water consumption in Hanoi",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Water Supply ISSN: 16069749",
+            "journal_ranking": "SCIE (IF=1,583, Q3)",
+            "citation_count": 14,
+            "volume_issue_pages": "13(2), 469-478",
+            "published_date": "03/01/2013"
+        },
+        {
+            "title": "Hybrid technology of up-flow anaerbic filter and membrane bio reactor for recovery energy from rich organic wastewater stream",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of Int. Symposium on new technologies for urban safety of mega cities in Asia. ISBN4-903661-64-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1043-1053",
+            "published_date": "2013"
+        },
+        {
+            "title": "Influence of Pond Seepage on Groundwater Pollution by Arsenic in Hanoi, Viet Nam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Japan Society of Civil Engineers, Ser. G (Environmental Research) ISSN: 2185-6648",
+            "journal_ranking": "Scopus",
+            "citation_count": 69,
+            "volume_issue_pages": "69(7), 17-28",
+            "published_date": "2013"
+        },
+        {
+            "title": "Investigation of residential water end-use in urban areas of Hanoi",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of Int. Symposium on new tech. for urban safety of mega cities in Asia ISBN 4-903661-64-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "247-252",
+            "published_date": "2013"
+        },
+        {
+            "title": "Performance evaluation of a membrane",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International conference on",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "26-27",
+            "published_date": "2013"
+        },
+        {
+            "title": "Household survey of installation and treatment efficiency of point-of-use water treatment systems in Hanoi, Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Water Supply: Research and Technology—AQUA ISSN: 16053974, 16069935",
+            "journal_ranking": "Scopus (IF=2,759)",
+            "citation_count": 21,
+            "volume_issue_pages": "63(2), 154-161",
+            "published_date": "11/04/2013"
+        },
+        {
+            "title": "Detection of genus Kobuvirus for evaluation as virus indicators for fecal contamination source tracking from Nhue River",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "South East Asia Water Environment. IWA publising ISBN: 9781780404950",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5, 61-65",
+            "published_date": "2014"
+        },
+        {
+            "title": "Potential reuse of coal mine wastewater: a case study in Quang Ninh, Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of 37th WEDC International Conference: Sustainable Water and Sanitation Sevices for All in a Fast Changing World. ISBN: 978-604-82-1337-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "227-234",
+            "published_date": "2014"
+        },
+        {
+            "title": "Treatment efficiency and membrane fouling of a lab-scale anaerobic membrane bioreactor treating dilute municipal wastewater",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of 37th WEDC International Conference: Sustainable Water and Sanitation Sevices for All in a Fast Changing World. ISBN: 978-604-82-1337-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "447-452",
+            "published_date": "2014"
+        },
+        {
+            "title": "Estimation of the Access to Safe Drinking Water Sources and Improvement by Household Water Treatment in Hanoi City, Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Japan Society of Civil Engineers ISSN: 2185-6648",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "71(7), 69-78",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tiềm năng nước ngầm Hà nội, các ảnh hưởng và giải pháp khai thác, quản lý bền vững",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cấp thoát nước Việt Nam. ISSN 1859-3623.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6(87), 42-49",
+            "published_date": "2012"
+        },
+        {
+            "title": "Ứng dụng công nghệ AO-MBR để xử lý nước thải sinh hoạt ở thành phố Hà Nội, Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ. Viện KH&CN Việt Nam ISBN: 0866708X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "50(2B), 40-47",
+            "published_date": "2012"
+        },
+        {
+            "title": "Nghiên cứu xử lý nước thải đô thị bằng phương pháp sinh học kết hợp màng lọc",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng ISSN: 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13/8, 35-41",
+            "published_date": "2012"
+        },
+        {
+            "title": "Đánh giá hiệu quả xử lý nước thải sinh hoạt bằng công nghệ sinh học kị khí kết hợp màng vi lọc trong điều kiện Việt Nam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ. Viện KH&CN Việt Nam ISSN: 0866708X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "51(3B), 154-159",
+            "published_date": "2013"
+        },
+        {
+            "title": "Tái sử dụng nước thải hướng tới mục tiêu quản lý hệ thống nước bền vững cho đô thị - Mô hình quản lý và công nghệ đề xuất",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cấp thoát nước ISSN: 1859-3623",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5 (97), 1-5",
+            "published_date": "2014"
+        },
+        {
+            "title": "Đặc tính nước thải giết mổ gia súc thành phố Hà Nội và lựa chọn các công nghệ xử lý nước thải phù hợp",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Môi trường Đô thị ISSN 1859-3674",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "8 (92), 1-5",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nghiên cứu phát triên công nghệ sinh học kỵ khí kết hợp màng vi lọc để xử lý nước thải đô thị ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cấp thoát nước. ISSN: 1859-3623",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4 (96), 40-43",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nghiên cứu đánh giá ảnh hưởng của đặc tính nước thải đến hiệu quả xử lý của Nhà máy xử lý nước thải Yên Sở",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng ISSN 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "20, 40-47",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nghiên cứu nhu cầu sử dụng nước ở các khu dân cư đô thị Hà Nội",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí KHCN Công nghệ Xây dựng ISSN 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "18(2), 33-39",
+            "published_date": "2014"
+        },
+        {
+            "title": "Water Quality Deterioration in Drinking Water Supply Systems in Hanoi, Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Water and Wastewater (in Japanese)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 57 No. 10",
+            "published_date": "2015"
+        },
+        {
+            "title": "Detection of pepper mild mottle virus as an indicator for drinking water quality in Hanoi, Vietnam, in large volume of water after household treatment",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Environmental Science&Health, Part A Toxic/Hazardous Substances and Env. Engineering ISSN: 10934529-15324117",
+            "journal_ranking": "SCIE (IF=2,316, Q3)",
+            "citation_count": 7,
+            "volume_issue_pages": "51(13) 1100-1106",
+            "published_date": "2016"
+        },
+        {
+            "title": "Effect of urbanization on natural groundwater recharge within Hanoi city-a case study of Long Bien",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE)-HUCE ISSN: 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11(6), 205-209",
+            "published_date": "31/12/2017"
+        },
+        {
+            "title": "Groundwater recharge in suburban of Hanoi, Vietnam: effect of decreasing surface-water bodies and land-use change",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hydrogeology Journal ISSN: 14312174-14350157",
+            "journal_ranking": "SCIE (IF=3,178, Q1)",
+            "citation_count": 20,
+            "volume_issue_pages": "25, 727-742",
+            "published_date": "16/1/2017"
+        },
+        {
+            "title": "Holocene estuarine sediments as a source of arsenic in Pleistocene groundwater in suburbs of Hanoi, Vietnam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hydrogeology Journal ISSN: 14312174-14350157",
+            "journal_ranking": "SCIE (IF=3,178, Q1)",
+            "citation_count": 7,
+            "volume_issue_pages": "25, 1137-1152",
+            "published_date": "18/1/2017"
+        },
+        {
+            "title": "Hydrological model using ground- and satellite-based data for river flow simulation towards supporting water resource management in the Red River Basin, Vietnam",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Environmental Management ISSN: 10958630, 03014797",
+            "journal_ranking": "SCIE (IF=8,626, Q1)",
+            "citation_count": 15,
+            "volume_issue_pages": "217, 346-355",
+            "published_date": "07/1/2018"
+        },
+        {
+            "title": "Simulation of the impact of managed aquifer recharge on the groundwater system in Hanoi",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hydrogeology Journal ISSN: 14312174,14350157",
+            "journal_ranking": "SCIE (IF=3,178, Q1)",
+            "citation_count": 9,
+            "volume_issue_pages": "26, 2427-2442",
+            "published_date": "05/3/2018"
+        },
+        {
+            "title": "Assessment of urbanization impact on groundwater resources in Hanoi, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Management ISSN: 10958630, 03014797",
+            "journal_ranking": "SCIE (IF=8,626, Q1)",
+            "citation_count": 71,
+            "volume_issue_pages": "227, 107-116",
+            "published_date": "12/1/2018"
+        },
+        {
+            "title": "Current status of construction and demolition waste management in Vietnam: challenges and opportunities",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 21862990-21862982",
+            "journal_ranking": "Scopus (IF=0,925, Q3)",
+            "citation_count": 35,
+            "volume_issue_pages": "15(52), 23-29",
+            "published_date": "2018/12"
+        },
+        {
+            "title": "Protein hydrolysis and fermentation under methanogenic and acidifying conditions",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biotechnology for Biofuels and Bioproducts ISSN: 17546834",
+            "journal_ranking": "SCIE (IF=7,213, Q1)",
+            "citation_count": 40,
+            "volume_issue_pages": "12, 254",
+            "published_date": "10/26/2019"
+        },
+        {
+            "title": "Application of Geographical Information System in Environmental and Economic assessment of Run-of-river Hydropower in Central Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "IOP Conference Series: Materials Science and Engineering ISSN: 17578981, 1757899X",
+            "journal_ranking": "Scopus Indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "869, 042034",
+            "published_date": "2020"
+        },
+        {
+            "title": "Evaluating future water quality of urban rivers in Hanoi under effect of urbanization and climate change application of WEAP model for Cau Bay river",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science and Technology ISSN: 25252518",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "58(3A), 195-202",
+            "published_date": "2020"
+        },
+        {
+            "title": "Investigation of groundwater recharge mechanism for sustainable urban water system planning and management in Hanoi city",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conference Series: Materials Science and Engineering ISSN: 17578981, 1757899X",
+            "journal_ranking": "Scopus Indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "869, 042036",
+            "published_date": "2020"
+        },
+        {
+            "title": "Blue-Green Algae in Surface Water: Problems and Opportunities",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Current Pollution Reports ISSN: 21986592",
+            "journal_ranking": "SCIE (IF=7.219, Q1)",
+            "citation_count": 23,
+            "volume_issue_pages": "6, 105-122",
+            "published_date": "3/27/2020"
+        },
+        {
+            "title": "Effect of carbohydrates on protein hydrolysis in anaerobic digestion",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Water Science and Technology ISSN: 02731223",
+            "journal_ranking": "SCIE (IF=2,261, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "86 (1), 66-79",
+            "published_date": "6/28/2020"
+        },
+        {
+            "title": "Examination of crushed laterite brick for removal of chromium and arsenic from wastewater",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 21862990, 21862982",
+            "journal_ranking": "Scopus (IF=0,925, Q3)",
+            "citation_count": 19,
+            "volume_issue_pages": "19(74), 22-30",
+            "published_date": "2020/10"
+        },
+        {
+            "title": "Characterizing Seasonal Variation in Landfill Leachate Using Leachate Pollution Index (LPI) at Nam Son Solid Waste Landfill in Hanoi, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environments ISSN: 20763298",
+            "journal_ranking": "SCIE (IF=3,714, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "8(3), 17",
+            "published_date": "2021"
+        },
+        {
+            "title": "Construction and demolition waste illegal dumping: environmental, social and economic impacts assessment for a growing city",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of Int. Symposium on Coupled Phenomena in Environmental Geotechnics, Japanese Geotechnical Society Special Publication ISSN: 2188-8027",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9(4), 148-155",
+            "published_date": "2021"
+        },
+        {
+            "title": "Assessment of Hydrophobicity/Oleophilicity and Hydrophilicity/Oleophobicity for Autoclave Aerated Concrete Grains Coated with Stearic and Oleic Acids",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the 11th International Conference on Sustainable Built Environment, Lecture Notes in Civil Engineering 174, Springer Nature Singapore ISSN: 23662557, 23662565",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "487-496",
+            "published_date": "2021"
+        },
+        {
+            "title": "Characterization of Arsenic contaminated groundwater in Hanoi City and a",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of 3rd International Symposium on Coupled Phenomena in Environmental Geotechnics, Japanese Geotechnical Society Special Publication ISSN: 2188-8027",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9(5), 226-233",
+            "published_date": "2021"
+        },
+        {
+            "title": "Submerged nanofiltration without pre-treatment for direct advanced drinking water treatment",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemosphere ISSN: 00456535",
+            "journal_ranking": "SCIE (IF=8,125, Q1)",
+            "citation_count": 16,
+            "volume_issue_pages": "265, 129056",
+            "published_date": "2021/01"
+        },
+        {
+            "title": "Oil/water separation techniques using hydrophobized/oleophilized grains: A review of recent studies",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 21862990, 21862982",
+            "journal_ranking": "Scopus (IF=0,925, Q3)",
+            "citation_count": 20,
+            "volume_issue_pages": "20(81), 28-34",
+            "published_date": "2021/5"
+        },
+        {
+            "title": "Fouling behavior and performance of a submerged flat-sheet nanofiltration membrane system for direct treatment of secondary wastewater effluent",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Water Process Engineering ISSN: 22147144",
+            "journal_ranking": "SCIE (IF=6,932, Q1)",
+            "citation_count": 6,
+            "volume_issue_pages": "41, 101991",
+            "published_date": "2021/06"
+        },
+        {
+            "title": "A new perspective on small-scale treatment systems for arsenic affected groundwater",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Technology & Innovation ISSN: 23521864",
+            "journal_ranking": "SCIE (IF=7,451, Q1)",
+            "citation_count": 3,
+            "volume_issue_pages": "23, 101780",
+            "published_date": "01/20/21"
+        },
+        {
+            "title": "Effect of solid retention time (SRT) on protein hydrolysis and acidogenesis at pH 5 and pH 7 using gelatine as a model protein",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Water Process Engineering ISSN: 22147144",
+            "journal_ranking": "SCIE (IF=6,932, Q1)",
+            "citation_count": 4,
+            "volume_issue_pages": "44, 102398",
+            "published_date": "01/20/21"
+        },
+        {
+            "title": "Steel slag quality control for road construction aggregates and its environmental impact: case study of Vietnamese steel industry-leaching of heavy metals from steel-making slag",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Science and Pollution Research ISSN: 09441344, 16147499",
+            "journal_ranking": "SCIE (IF=5,034, Q1)",
+            "citation_count": 5,
+            "volume_issue_pages": "29, 41983-41991",
+            "published_date": "2022"
+        },
+        {
+            "title": "Evaluation of the suitability of pepper mild mottle virus (PMMoV) as an indicator virus for water safety and quality",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE)-HUCE ISSN: 1859-2996",
+            "journal_ranking": "ACI",
+            "citation_count": 3,
+            "volume_issue_pages": "16(2), 76-88",
+            "published_date": "2022"
+        },
+        {
+            "title": "Application of Autoclaved Aerated Concrete Grains Coated with Stearic Acid for Removal of Oil from Water",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Water, Air, & Soil Pollution ISSN: 00496979, 15732932",
+            "journal_ranking": "SCIE (IF=2,778, Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "223, 530",
+            "published_date": "12/20/22"
+        },
+        {
+            "title": "Autoclaved aerated concrete grains as alternative absorbent and filter media for phosphorus recovery from municipal wastewater: A case study in Hanoi, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Technology & Innovation ISSN: 23521864",
+            "journal_ranking": "SCIE (IF=7,451, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "31, 103175",
+            "published_date": "2023/"
+        },
+        {
+            "title": "A low-cost method using steel-making slag to quench the residual phosphorus from wastewater effluent",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Technology & Innovation ISSN: 23521864",
+            "journal_ranking": "SCIE (IF=7,451, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "31, 103181",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Moving bed anaerobic membrane bioreactor for low-strength wastewater treatment",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case Studies in Chemical and Environmental Engineering ISSN: 26660164",
+            "journal_ranking": "Scopus (IF=7,617, Q1)",
+            "citation_count": 8,
+            "volume_issue_pages": "8, 100391",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Crushed construction and demolition waste as reactive media in permeable reactive barriers to immobilize Pb(II) and Cd(II) from landfill leachate",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE)-HUCE ISSN: 1859-2996",
+            "journal_ranking": "ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "17(2), 145-153",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mechanical properties of synthetic aggregate pelletized by waste concrete fines in Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE)-HUCE ISSN: 1859-2996",
+            "journal_ranking": "ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "17(2), 1-8",
+            "published_date": "2023"
+        },
+        {
+            "title": "Effect of Hydraulic retention time on Performance of Anaerobic membrane bioreactor treating slaughterhouse",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Research ISSN: 0013-9351",
+            "journal_ranking": "SCIE (IF=8,431, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "223, 116522",
+            "published_date": "2023"
+        },
+        {
+            "title": "Material and monetary fows of construction and demolition waste and assessment on physical and environmental properties of illegally dumped construction and demolition waste in Hanoi",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research ISSN: 09441344, 16147499",
+            "journal_ranking": "SCIE (IF=5,034, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "30, 125965-125976",
+            "published_date": "2023"
+        },
+        {
+            "title": "Development of a simple and low-cost method using Moringa seeds for efficient virus concentration in wastewater",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "The Science of The Total Environment ISSN: 00489697, 18791026",
+            "journal_ranking": "SCIE (IF=9.8, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "905, 167101",
+            "published_date": "2023"
+        },
+        {
+            "title": "Impact of Climate change on the drinking water supply system: a case study of drinking water treatment plant in Vietnam.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Book: Impact of climate change on safe drinking water supply: water quality, technological solutions and experience. Maggioli Editore Publisher. ISBN: 8891667519",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "179-190",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu chất lượng nước ngầm và các mô hình xử lý, sử dụng nước tại các hộ gia đình ngoại thành Hà Nội",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Cấp thoát nước Việt Nam. ISSN: 1859-3623",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "83-87",
+            "published_date": "2016"
+        },
+        {
+            "title": "Ứng dụng BIM để mô phỏng lượng nhiệt bức xạ mặt trời tác động lên một tòa nhà văn phòng ở TP.Hà Nội",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Khoa Học Công Nghệ Xây Dựng ISSN: 261-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12(1), 83-88",
+            "published_date": "02/14/2018"
+        },
+        {
+            "title": "Xử lý kim loại nặng trong nước bằng chất thải rắn xây dựng bê tông khí chưng áp (AAC)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Cấp thoát nước ISSN: 1859-3623",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5 (133), 30-37",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "Tổng quan về xử lý nước thải sử dụng các loại bê tông phế thải",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Khoa Học Công Nghệ Xây Dựng - ĐHXDHN ISSN: 261-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "15(4V), 18-29",
+            "published_date": "09/28/2021"
+        },
+        {
+            "title": "Chỉ số đánh giá khan hiếm nguồn nước: Tổng quan và phương pháp tính",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ- Đại học Đà Nẵng ISSN: 1859-1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19(9), 11-16",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đánh giá ảnh hưởng của các yếu tố đến hiệu quả xử lý nước thải của việc ứng dụng bùn hạt hiếu khí trên mô hình SBR",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Vật liệu xây dựng, ISSN: 1859 – 381X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11(05), 121-124",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ứng dụng bùn hạt hiếu khí trên mô hình công nghệ (SBR) để xử lý nước thải có tải trọng hữu cơ thấp",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và công nghệ Việt Nam, ISSN: 1859 – 4794",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "63(11), 44-47",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đánh giá khả năng hình thành bùn hạt hiếu khí trên mô hình công nghệ SBR",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và công nghệ Việt Nam, ISSN: 1859 – 4794",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "64(1), 49-53",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá khả năng xử lý Cadmi trong nước thải của bê tông khí chưng áp (AAC)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Khoa Học Công Nghệ Xây Dựng ĐHXDHN ISSN: 261-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17(1V), 1-10",
+            "published_date": "2023"
+        },
+        {
+            "title": "Khung quản lý chất thải rắn xây dựng bền vững hạn chế thất thoát tài nguyên trên địa bàn tỉnh Quảng Ninh.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Khoa Học Công Nghệ Xây Dựng - ĐHXDHN ISSN: 261-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17(2V), 1-11",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu đánh giá diễn biến chất lượng nước và tải lượng ô nhiễm vào sông Tô Lịch",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Khoa Học Công Nghệ Xây Dựng - ĐHXDHN ISSN: 261-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17(2V), 144-153",
+            "published_date": "2023"
+        },
+        {
+            "title": "Xây dựng hệ thống quản lý và tái chế chất thải rắn xây dựng thân thiện với môi trường cho thành phố Đà Nẵng",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Khoa Học Công Nghệ Xây Dựng - ĐHXDHN ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "18 (2V), 1-12",
+            "published_date": "2024"
+        },
+        {
+            "title": "Hệ thống xử lý nước thải sử dụng vật liệu lọc từ chất thải răn xây dựng tái chế cho cụm dân cư nông thôn – Giải pháp tiếp cận bền vững cho xử lý nước thải nông thôn",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Môi trường và Đô thị Việt Nam ISSN 1859-3674",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "148, 35-41",
+            "published_date": "2022"
+        },
+        {
+            "title": "Xử lý nước thải và thu hồi tài nguyên từ dòng thải theo cách tiếp cận phân tán – Giải pháp quản lý hiệu quả nước thải sinh hoạt ở khu vực nông thôn Việt Nam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Môi trường và Đô thị Việt Nam ISSN 1859-3674",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "144, 75-78",
+            "published_date": "2022"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu xây dựng mô hình mô phỏng quan hệ động học giữa nước mặt và nước dưới đất phục vụ sử dụng hợp lý tài nguyên nước cho TP. Hà Nội.",
+            "role": "Principal Investigator",
+            "project_code": "ĐT.NCCB-ĐHUD.2012-G/02",
+            "management_level": "Bộ KH&CN",
+            "period": "2013-2019",
+            "acceptance_date": "21/6/2019",
+            "rating": "Khá"
+        },
+        {
+            "title": "Đánh giá và đề xuất các giải pháp cải thiện chất lượng nước trên hệ thống cấp nước đô thị phục vụ cho mục tiêu cấp nước an toàn",
+            "role": "Principal Investigator",
+            "project_code": "B2016-XDA-08",
+            "management_level": "Bộ Giáo dục và đào tạo",
+            "period": "2016-2018",
+            "acceptance_date": "13/3/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng công nghệ SBR cải tiến sử dụng bùn hạt hiếu khí để xử lý nước thải đô thị ở Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "RD 53-19",
+            "management_level": "Bộ Xây dựng",
+            "period": "2019-2021",
+            "acceptance_date": "21/12/2021",
+            "rating": "Khá"
+        },
+        {
+            "title": "Giải pháp công nghệ xử lý, quản lý nước thải sinh hoạt phân tán (quy mô hộ gia đình và cụm dân cư) cho khu vực nông thôn tại một số tỉnh Bắc Trung Bộ",
+            "role": "Principal Investigator",
+            "project_code": "19/HD-KHCN-NTM",
+            "management_level": "Bộ NN&PTNNT",
+            "period": "2020-2021",
+            "acceptance_date": "30/6/2022",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Cơ sở Hóa học và Vi sinh vật trong Kỹ thuật Môi trường",
+            "type": "Textbook",
+            "publisher": "NXB Giáo dục Việt Nam",
+            "publish_year": "2011",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 12: Quá trình màng lọc trong xử lý nước và nước thải (482-504)",
+            "verification_document_id": "Văn bản xác nhận số 308/XN-ĐHXDHN"
+        },
+        {
+            "title": "Ứng phó với Biến đổi Khí hậu trong Hoạt động Công nghiệp, Đô thị và Xây dựng Công trình",
+            "type": "Textbook",
+            "publisher": "NXB Xây dựng",
+            "publish_year": "2013",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 1: Các khái niệm cơ bản về BĐKH và ứng phó với BĐKH (7-32)",
+            "verification_document_id": "Văn bản xác nhận số 307/XN-ĐHXDHN"
+        },
+        {
+            "title": "SÁCH: Groundwater Management in Asian Cities. ISSN: 1865-8504",
+            "type": "Reference Book",
+            "publisher": "Springer",
+            "publish_year": "2008",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chapter 14: Arsenic contamination in Hanoi City, Vietnam (273-299)",
+            "verification_document_id": "Văn bản xác nhận số 310/XN-ĐHXDHN"
+        },
+        {
+            "title": "Kỹ thuật Màng lọc trong xử lý nước cấp và nước thải",
+            "type": "Monograph",
+            "publisher": "NXB Xây dựng",
+            "publish_year": "2017",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 4",
+            "verification_document_id": "Văn bản xác nhận số 305/XN-ĐHXDHN"
+        },
+        {
+            "title": "AnMBR – Công nghệ màng lọc kỵ khí xử lý nước thải nhằm mục tiêu tái sử dụng và thu hồi tài nguyên ở Việt Nam",
+            "type": "Monograph",
+            "publisher": "NXB Xây dựng",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ cuốn sách",
+            "verification_document_id": "Văn bản xác nhận số 306/XN-ĐHXDHN"
+        },
+        {
+            "title": "Cơ sở các quá trình lý hóa sinh trong Kỹ thuật nước – Môi trường nước",
+            "type": "Textbook",
+            "publisher": "NXB Xây dựng",
+            "publish_year": "2023",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Các mục (2.1.3, 2.2.2, 4.2.3, và 5.5.2)",
+            "verification_document_id": "Văn bản xác nhận số 215/XN-ĐHXDHN"
+        },
+        {
+            "title": "Cơ sở Kỹ thuật Môi trường",
+            "type": "Textbook",
+            "publisher": "NXB Xây dựng",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1, 2, 3, 5, 7",
+            "verification_document_id": "Văn bản xác nhận số 12/XN-ĐHXDHN"
+        },
+        {
+            "title": "SÁCH: Sustainable Landscape Planning in Selected Urban Regions. Science for Sustainable Societies. ISSN: 2197-7348",
+            "type": "Reference Book",
+            "publisher": "Springer, Tokyo",
+            "publish_year": "2017",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chapter 11: Infectious Risk Assessment with Exposure to Pathogens in Floodwater - A Case Study of Manila's Vulnerability to Climate Change (123-137)",
+            "verification_document_id": "Văn bản xác nhận số 316/XN-ĐHXDHN"
+        },
+        {
+            "title": "SÁCH: Current Developments in Biotechnology and Bioengineering - Advances in Biological Wastewater Treatment Systems. ISBN 978-0-323-99874-1",
+            "type": "Reference Book",
+            "publisher": "NXB Elvesier",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chapter 14: Microbiology and biochemistry in anaerobic wastewater treatment processes (383-405)",
+            "verification_document_id": "Văn bản xác nhận số 309/XN-ĐHXDHN"
+        },
+        {
+            "title": "SÁCH: Circular Economy and Waste Valorisation. ISSN: 2730-6070",
+            "type": "Reference Book",
+            "publisher": "Springer Cham",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chapter 5: A Circular Economy: Promotion of Construction and Demolition Waste Management in Vietnam (103-130)",
+            "verification_document_id": "Văn bản xác nhận số 67/XN-ĐHXDHN"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo ngành Kỹ thuật môi trường (trình độ bậc 6)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ số 1502/QĐ-ĐHXD ngày 04/12/2018",
+            "certifying_authority": "Trường ĐH Xây dựng",
+            "implementation_document_id": "QĐ số 78/QĐ-ĐHXD ngày 09/01/2019",
+            "notes": "Hệ Cử nhân"
+        },
+        {
+            "title": "Chương trình đào tạo trình độ bậc 7 ngành Kỹ thuật môi trường",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ số 895/QĐ-ĐHXDHN ngày 08/8/2022",
+            "certifying_authority": "Trường ĐH Xây dựng Hà Nội",
+            "implementation_document_id": "QĐ số 746/QĐ-ĐHXDHN ngày 13/6/2023",
+            "notes": "Hệ Kỹ sư-Thạc sỹ"
+        }
+    ]
+}

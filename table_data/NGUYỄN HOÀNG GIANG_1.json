@@ -1,0 +1,832 @@
+{
+    "papers": [
+        {
+            "title": "Effects of transverse rubs on pullout resistance and deformation during the unloading-reloading process",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Geosynthetics Engineering Journal, JCIGS: ISSN 1344 - 6193",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol (23): 37-44",
+            "published_date": "2008"
+        },
+        {
+            "title": "Shear strain distribution in soil around geogrid during the unloading-reloading pullout test",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Geosynthetics Engineering Journal, JCIGS, ISSN 1344 - 6193",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol (24): 69-74",
+            "published_date": "2009"
+        },
+        {
+            "title": "Influence of Unloading-Reloading Processes on the Pullout Resistance of Geogrid",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Geosynthetics International Journal",
+            "journal_ranking": "SCIE, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 17 No.4, pp.242-249. DOI: https://doi.org/10.1680/gein.2010.17.4.242",
+            "published_date": "2010"
+        },
+        {
+            "title": "Centrifuge tests on seismic stability of the damaged geogrid reinforced soil wall",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Geosynthetics Engineering Journal, JCIGS, ISSN 1344 - 6193, Online ISSN: 1883-146X, Print ISSN: 1344-6193, ISSN-L: 1344-6193",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol (25): 197-202. DOI: 10.5030/jcigsjournal.25.197",
+            "published_date": "2010"
+        },
+        {
+            "title": "Seismic Stability of fully saturated reinforced soil wall",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding of Geotechnics for Sustainable Development Conference ISBN 978 604 82 000 8 (Construction Publishing House, Vietnam)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "165-174",
+            "published_date": "2011"
+        },
+        {
+            "title": "Comparison of Bearing capacity distribution of bored pile from static loading test and SPT-Based in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding of Geotechnics for Sustainable Development Conference ISBN 978 604 82 000 8 (Construction Publishing House, Vietnam)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "319-326",
+            "published_date": "2011"
+        },
+        {
+            "title": "Embankment Surface Protection for Dam Wall using Maccaferri Grout Mattress - A case study",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding of Geotechnics for Sustainable Development Conference ISBN 978 604 82 000 8 (Construction Publishing House, Vietnam)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "901-908",
+            "published_date": "2011"
+        },
+        {
+            "title": "Shear Strength of Concrete-Clay Interface with Reference to Concrete Surface Roughness",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding of Geosynthetics Technology and Application ISBN 978-604-82-1399-2 (Construction Publishing House, Vietnam)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "112-115",
+            "published_date": "2014"
+        },
+        {
+            "title": "Investigation of cracked concrete structures and performance of steel fiber concrete at residual stage",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Proceedings of The Fourteen East Asia - Pacific Conference on Structural Engineering and Construction (EASEC-14) ISBN 978-604-82-1684-9 (Construction Publishing House, Vietnam)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14 (567-568)",
+            "published_date": "2015"
+        },
+        {
+            "title": "Application of steel fiber reinforced concrete to reduce crack width of structures",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceeding of New Technologies for Urban Safety of Mega Cities in Asia (USMCA2014) ISBN 4-903661-73-3 (The University of Tokyo, Japan)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13 (149-158)",
+            "published_date": "2014"
+        },
+        {
+            "title": "Phá hủy của một trường hợp tường chắn trọng lực và một số khuyến nghị cho dạng kết cấu này",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceeding of Geosynthetics Technology and Application ISBN 978-604-82-1399-2 (Construction Publishing House, Vietnam)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "64-70",
+            "published_date": "2014"
+        },
+        {
+            "title": "Phân tích ổn định mái dốc phẳng theo mô hình 3D bằng phương pháp cân bằng giới hạn",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học công nghệ Xây dựng - Trường ĐHXD, ISSN 1859-2996, Vol (25), 67-73.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9(3), 67-73",
+            "published_date": "2015"
+        },
+        {
+            "title": "Ảnh hưởng của sợi thép đến khả năng làm việc và kháng nứt của kết cấu dầm bê tông",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng – Bộ Xây dựng, 06-2015, 61-65",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "61-65",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu sự làm việc sau nứt của bê tông cốt sợi thép",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng – Bộ Xây dựng, 04-2016; ISSN 0866-0762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "198-200",
+            "published_date": "4/2016"
+        },
+        {
+            "title": "Nghiên cứu thực nghiệm sự làm việc của ống thoát nước chế tạo bằng bê tông cốt sợi thép",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng – Bộ Xây dựng, 07-2015, 40-44 ISSN 0866-0762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "40-44",
+            "published_date": "4/2016"
+        },
+        {
+            "title": "Phân tích ổn định mái dốc 3D lồi và lõm bằng phương pháp cân bằng giới hạn",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học công nghệ Xây dựng - Trường ĐHXD, ISSN 1859-2996, Vol (27), 81-87.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "10(1), 81-87",
+            "published_date": "2016"
+        },
+        {
+            "title": "Current status of construction and demolition waste management in Vietnam: Challenges and opportunities",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 2186-2982",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "DOI: https://doi.org/10.21660/2018.52.7194",
+            "published_date": "2018"
+        },
+        {
+            "title": "An experimental study to identify the influence of steel corrosion on concrete – steel bond",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of 7th International Conference on Protection of Structures against Hazards, Hanoi, Vietnam, 511-518. ISBN: 978-981-11-7777-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "511-518",
+            "published_date": "2018"
+        },
+        {
+            "title": "Water retention and gas transport characteristics of recycled graded roadbed materials blended with AAC grains",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of Seventeenth International Waste Management and Landfill Symposium (Sardinia 2019), ISBN: 9788862650144 ISSN: 2282-0027",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://cisapublisher.com/product/proceedings-sardinia-2019/",
+            "published_date": "2019"
+        },
+        {
+            "title": "An empirical investigation of generation rate, composition and handling practices of construction and demolition waste in Hanoi, Vietnam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of Seventeenth International Waste Management and Landfill Symposium (Sardinia 2019), ISBN: 9788862650144 ISSN: 2282-0027",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17th International Waste Management and Landfill Symposium",
+            "published_date": "2019"
+        },
+        {
+            "title": "Utilization of construction and demolition Waste (CDW) for unbound road subbase in Hanoi",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture Notes in Civil Engineering book series (LNCE, volume 62)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "book series (LNCE, volume 62) 10.1007/978-981-15-2184-3_95",
+            "published_date": "2019"
+        },
+        {
+            "title": "Basic study on waste generation in construction and demolition Sites in Hanoi",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 30th Annual Conference of Japan Society of Material Cycles and Waste Management",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.14912/jsmcwm.30.0_513",
+            "published_date": "2019"
+        },
+        {
+            "title": "Waste generation, composition, and handling in building-related construction and demolition in Hanoi, Vietnam.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Waste Management",
+            "journal_ranking": "SCIE, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "117:32-41 https://doi.org/10.1016/j.wasman.2020.08.006",
+            "published_date": "2020"
+        },
+        {
+            "title": "Compaction characteristics and CBR of sludge blended with recycled clay bricks for road subgrade application",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 2186-2982",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "19(75): 133-143 https://doi.org/10.21660/2020.75.39591",
+            "published_date": "2020"
+        },
+        {
+            "title": "An investigation of the generation of construction and demolition waste in Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Detritus",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 12 - September 2020 Pages 135-139; DOI 10.31025/2611-4135/2020.14002",
+            "published_date": "2020"
+        },
+        {
+            "title": "Comparison of macropore structure and network of autoclaved aerated concrete blocks using micro-focus X-ray computed tomography",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 2186-2982",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "9(71): 160-165 DOI: https://doi.org/10.21660/2020.71.9197",
+            "published_date": "2020"
+        },
+        {
+            "title": "Sustainable management and technologies for recycled construction demolition waste in Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conf. Ser.: Mater. Sci. Eng. 869 032040",
+            "journal_ranking": "SCOPUS",
+            "citation_count": 0,
+            "volume_issue_pages": "IOP Conf. Ser.: Mater. Sci. Eng. 869 032040 doi:10.1088/1757-899X/869/3/032040",
+            "published_date": "2020"
+        },
+        {
+            "title": "Flow of waste and a method for prediction of demolition waste generation from buildings – A case study in Hanoi, Vietnam.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conf. Ser.: Mater. Sci. Eng. 869 042035",
+            "journal_ranking": "SCOPUS",
+            "citation_count": 0,
+            "volume_issue_pages": "Conf. Ser.: Mater. Sci. Eng. 869 042035 doi:10.1088/1757-899X/869/4/042035",
+            "published_date": "2020"
+        },
+        {
+            "title": "Evaluating effects of mixing proportion on water retention curve and pore size distribution of recycled concrete aggregates blended with autoclaved aerated concrete grains",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings on Tenth International Conference on Geotechnique, Construction Materials and Environment (GEOMATE 2020), 681-685, ISBN: 978-4-909106049 C3051",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceeding of 10th Int. Conf. on Geotechnique, Construction Materials and Environment, Melbourne, Australia, 11-13 November 2020, ISBN: 978-4-909106049 C305",
+            "published_date": "2020"
+        },
+        {
+            "title": "Financial viability of concrete waste recycling in Vietnam.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings on 5th Symposium on Urban Mining and Circular Economy (SUM 2020).",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceedings SUM2020. © 2020 CISA Publisher. All rights reserved / www.cisapublisher.com",
+            "published_date": "2020"
+        },
+        {
+            "title": "Construction and Demolition Waste: Recycling potential in Hanoi, Vietnam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 31th Annual Conference of Japan Society of Material Cycles and Waste Management",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.14912/jsmcwm.31.0_447",
+            "published_date": "2020"
+        },
+        {
+            "title": "Effects of particle size and type of aggregate on mechanical properties and environmental safety of unbound road base and subbase materials: A literature review",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 2186-2982",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "20(78): 149-157 DOI: https://doi.org/10.21660/2021.78.GX281",
+            "published_date": "2021"
+        },
+        {
+            "title": "Characterizing seasonal variation in landfill leachate using leachate pollution index (LPI) at Nam Son solid waste landfill in Hanoi, Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environments",
+            "journal_ranking": "SCI, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "8(3), 17; https://doi.org/10.3390/environments8030017",
+            "published_date": "2021"
+        },
+        {
+            "title": "Gas transport parameters of recycled concrete and clay brick aggregate blended with autoclaved aerated concrete grains",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 2186-2982",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "20(82): 93-100 DOI: https://doi.org/10.21660/2021.82.j2089",
+            "published_date": "2021"
+        },
+        {
+            "title": "Financial and economic evaluation of construction and demolition waste recycling in Hanoi, Vietnam.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Waste Management",
+            "journal_ranking": "SCIE, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 131, 15 July 2021, Pages 294-304 https://doi.org/10.1016/j.wasman.2021.06.014",
+            "published_date": "2021"
+        },
+        {
+            "title": "Current management condition and waste composition characteristics of construction and demolition waste landfills in Hanoi of Vietnam",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability ISSN: 20711050",
+            "journal_ranking": "SCI, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "13(18), 10148; https://doi.org/10.3390/su131810148",
+            "published_date": "2021"
+        },
+        {
+            "title": "Effects of fine contents and maximum particle diameter on mechanical properties of recycled concrete aggregates for unbound roadbed materials in Vietnam.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Third International Symposium on Coupled Phenomena in Environmental Geotechnics (CPEG 2020+1), Japanese Geotechnical Society Special Publication Online ISSN: 2188-8027 ISSN-L: 2188-8027",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 9 Issue 6 Pages 239-244 DOI: https://doi.org/10.3208/jgssp.v09.cpeg116",
+            "published_date": "2021"
+        },
+        {
+            "title": "Potential of permeable pavement made with recycled construction and demolition materials in Hanoi, Vietnam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 32nd Annual Conference of JSMCWM/3RINCS Autumn 2021",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.14912/jsmcwm.32.0_445",
+            "published_date": "2021"
+        },
+        {
+            "title": "Finite element analysis of the flexural behavior of corroded RC beams strengthened by CFRP sheets",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 2186-2982",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.21, Issue 88, pp.42-47 https://doi.org/10.21660/2021.88.gxi255",
+            "published_date": "2021"
+        },
+        {
+            "title": "The Cover Depth Effect on Corrosion-Induced Deterioration of Reinforced Concrete Focusing on Water Penetration: Field Survey and Laboratory Study",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials ISSN: 19961944",
+            "journal_ranking": "SCIE, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "14(13), 3478 https://doi.org/10.3390/ma14133478",
+            "published_date": "2021"
+        },
+        {
+            "title": "Numerical study on the flexural performance of RC beams with externally bonded CFRP sheets",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE) - HUCE, 15(4), 182-196.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "15(4), 182-196. https://doi.org/10.31814/stce.huce(nuce)2021-15(4)-16",
+            "published_date": "2021"
+        },
+        {
+            "title": "Characterization of compaction and CBR properties of recycled concrete aggregates for unbound road base and subbase materials in Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Material Cycles and Waste Management ISSN 16118227, 14384957",
+            "journal_ranking": "SCIE, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "24, pages34-48 (2022) https://doi.org/10.1007/s10163-021-01333-1",
+            "published_date": "2022"
+        },
+        {
+            "title": "Measurements and modeling of thermal conductivity of recycled aggregates from concrete, clay brick, and their mixtures with autoclaved aerated concrete grains",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sustainability ISSN: 20711050",
+            "journal_ranking": "SCI, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "14(4), 2417; https://doi.org/10.3390/su14042417",
+            "published_date": "2022"
+        },
+        {
+            "title": "Mechanical and hydraulic properties of recycled concrete aggregates mixed with clay brick aggregates and particle breakage characteristics for unbound road base and subbase materials in Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sustainability ISSN: 20711050",
+            "journal_ranking": "SCI, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "14(4), 2417; https://doi.org/10.3390/su14042417",
+            "published_date": "2022"
+        },
+        {
+            "title": "Management assessment and future projections of construction and demolition waste generation in Hai Phong City, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability ISSN: 20711050",
+            "journal_ranking": "SCI, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "14(15), 9628; https://doi.org/10.3390/su14159628",
+            "published_date": "2022"
+        },
+        {
+            "title": "Steel slag quality control for road construction aggregates and its environmental impact: case study of Vietnamese steel industry-leaching of heavy metals from steel-making slag",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research ISSN: 09441344, 16147499",
+            "journal_ranking": "SCIE, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "29, pages41983-41991 doi.org/10.1007/s11356-021-16438-1",
+            "published_date": "2022"
+        },
+        {
+            "title": "Review on current situation of generation and management of coal ash in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of GEOMATE, March, 2022, ISSN: 2186-2982 (P), 2186-2990 (0)",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.22, Issue 91, pp.62-69 https://doi.org/10.21660/2022.91.gxi316",
+            "published_date": "2022"
+        },
+        {
+            "title": "Experimental studies on behaviors of reinforced concrete column structures made of recycled aggregates under concentric loads",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Sci. Tech. Civil Eng. (STCE), HUCE (NUCE), 16 (2): 1–11.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "16(2), 1-11. https://doi.org/10.31814/stce.huce(nuce)2022-16(2)-01",
+            "published_date": "2022"
+        },
+        {
+            "title": "Review on conceptes, research, and challenges for the adoption of permeable pavement system in Vietnam.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of 12th Int. Conf. on Geotechnique, Construction Materials & Environment (GEOMATE 2022). 146-151. ISBN: 978-4-909106063",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceeding of 10th Int. Conf. on Geotechnique, Construction Materials and Environment, Melbourne, Australia, 11-13 November 2020, ISBN: 978-4-909106049 C305",
+            "published_date": "2022"
+        },
+        {
+            "title": "An empirical study of flexural strength of beams made of recycled aggregate concrete from construction and demolition waste in Hanoi, Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 12th Int. Conf. on Geotechnique, Construction Materials & Environment (GEOMATE 2022). 652-657. ISBN: 978-4-909106063 C3051",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceeding of 10th Int. Conf. on Geotechnique, Construction Materials and Environment, Melbourne, Australia, 11-13 November 2020, ISBN: 978-4-909106049 C305",
+            "published_date": "2022"
+        },
+        {
+            "title": "Structural performance of corroded RC beams without shear reinforcement",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Magazine of Civil Engineering ISSN: 20714726, 27128172",
+            "journal_ranking": "SCOPYS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "DOI: 10.34910/MCE.112.11",
+            "published_date": "2022"
+        },
+        {
+            "title": "Review on water and heat balance and challenges for the adoption of permeable pavement system in Vietnam.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 2186-2982",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.24, Issue 103, pp.84-95 ISSN: 2186-2982 (P), 2186-2990 (Ο), https://doi.org/10.21660/2023.103.g12169",
+            "published_date": "2023"
+        },
+        {
+            "title": "Porosity and permeability of pervious concrete using construction and demolition waste in Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 2186-2982",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "24(101): 12-21 DOI: https://doi.org/10.21660/2023.101.3511",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mechanical properties of synthetic aggregate pelletized by waste concrete fines in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Sci. Tech. Civil Eng. (STCE), HUCE (NUCE)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.31814/stce.huce2023-17(2)-01",
+            "published_date": "2023"
+        },
+        {
+            "title": "Experimental study, numerical simulation and GRNN model for predicting the flexural loading capacity of corroded reinforced concrete beams",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "EUROPEAN JOURNAL OF ENVIRONMENTAL AND CIVIL ENGINEERING; ISSN 21167214, 19648189; Q2",
+            "journal_ranking": "SCIE, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.1080/19648189.2023.2214213",
+            "published_date": "2023"
+        },
+        {
+            "title": "A Data – Driven approach for investigation shear strength of slender steel fiber reinforced concrete beams",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering HUCE 2023 ISSN 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.31814/stce.huce2023-17(2)-12",
+            "published_date": "2023"
+        },
+        {
+            "title": "Development of new rotation pile technology mirai pile and preliminary study in Vietnam on construction",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering HUCE 2023 ISSN 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.31814/stce.huce2023-17(2)-06",
+            "published_date": "2023"
+        },
+        {
+            "title": "Material and monetary flows of construction and demolition waste and assessment on physical and environmental properties of illegally dumped construction and demolition waste in Hanoi",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Science and Pollution Research, ISSN: 09441344, 16147499",
+            "journal_ranking": "SCI, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.1007/s11356-023-30978-8",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mechanical, hydraulic, and particle breakage properties of recycled concrete aggregates blended with autoclaved aerated concrete (AAC) grains for unbound road base and subbase materials in Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Material Cycles and Waste Management 16118227, 14384957",
+            "journal_ranking": "SCIE, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.1007/s10163-023-01858-7",
+            "published_date": "2023"
+        },
+        {
+            "title": "Three-dimensional nonlinear finite element analysis of corroded reinforced concrete beams strengthened by CFRP sheets",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "European Journal of Environmental and Civil Engineering",
+            "journal_ranking": "SCIE, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.1080/19648189.2024.2312470",
+            "published_date": "2024"
+        },
+        {
+            "title": "An empirical study of the behavior of recycled aggregate concrete beams from CDW in Hanoi, Vietnam.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of GEOMATE ISSN: 2186-2982",
+            "journal_ranking": "SCOPUS, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.21660/2024.118.g12300",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu thực nghiệm khả năng chịu lực của dầm bê tông cốt thép bị ăn mòn trong môi trường xâm thực clorua",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Xây dựng Việt Nam. ISSN: 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9.2019, 81-86",
+            "published_date": "2019"
+        },
+        {
+            "title": "Một số đặc điểm của vết nứt trên dầm bê tông cốt thép bị ăn mòn trong môi trường xâm thực clorua",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Xây dựng Việt Nam. ISSN: 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "10. 2019, 101-107",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của cốt liệu tái chế từ phế thải xây dựng đến tính chất của bê tông thoát nước",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng. 15(6V): 58-69.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "DOI: 10.31814/stce.huce2021-15(6V)-06",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu thực nghiệm ảnh hưởng của tỷ lệ sử dụng cốt liệu lõm tái chế đến sự phát triển cường độ nén và mô đun đàn hồi của bê tông theo thời gian",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng (KHCNXD) – ĐHXDHN, 15(1V), 48-59",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "15(1V), 48-59 DOI: https://doi.org/10.31814/stce.huce2021-15(1V)-05",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu thực nghiệm hiệu quả gia cường không uốn của dầm bê tông cốt thép bị ăn mòn bằng tấm composite CFRP",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, 15 (1V), 1-16. ISSN: 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "15(1V), 1-16. https://doi.org/10.31814/stce.huce2021-15(1V)-01",
+            "published_date": "2021"
+        },
+        {
+            "title": "Khung quản lý chất thải rắn xây dựng bền vững trên cơ chế thoát tài nguyên trên địa bàn tỉnh Quảng Ninh",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, ĐHXDHN, 2023, 17 (2V): 1-11",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17 (2V): 1-11 DOI: https://doi.org/10.31814/stce.huce2023-17(2V)-01",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đánh giá các yếu tố ảnh hưởng đến cường độ nén và mô đun đàn hồi của bê tông cốt liệu cao su bằng mô hình học máy",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, ĐHXDHN, 2023, 17 (2V): 95-107",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.31814/stce.huce2023-17(2V)-07",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu thiết kế thiết bị thi công hạ cọc ống thép có cánh ở mũi và thành cọc phù hợp với điều kiên Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, ĐHXDHN, 2024, 18 (2V): 82-91",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.31814/stce.huce2024-18(2V)-07",
+            "published_date": "2024"
+        },
+        {
+            "title": "Xây dựng hệ thống quản lý chất thải rắn xây dựng thân thiện với môi trường cho thành phố Đà Nẵng",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, ĐHXDHN, 2024",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "doi.org/10.31814/stce.huce2024-18(2V)-01",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu khả năng làm việc và ứng dụng cọc vít ống thép có cánh ở mũi trong các công trình xây dựng ở Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "RD126-17",
+            "management_level": "Bộ Xây dựng",
+            "period": "2017-2019",
+            "acceptance_date": "10/04/2019",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu thiết kế, thi công dân dụng khi chủ nghĩa kiến trúc hưu của cọc ống thép có cánh ở mũi thông bản lề phương pháp chuyển trong đó đô thị ở Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "RD 18-21",
+            "management_level": "Bộ Xây dựng",
+            "period": "2021 - 2022",
+            "acceptance_date": "28/12/2022",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu thiết lập mô hình quản lý và tái chế chất thải rắn xây dựng dân dụng làm vật liệu xây dựng",
+            "role": "Principal Investigator",
+            "project_code": "161/QĐ-SKHCN",
+            "management_level": "",
+            "period": "2021 - 2023",
+            "acceptance_date": "29/06/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Establishment of Environmentally Sound Management of Construction and Demolition Waste and Its Wise Utilization for Environmental Pollution Control and for New Recycled Construction Materials in Vietnam",
+            "role": "Principal Investigator",
+            "project_code": "5172/QĐ-BGDĐT",
+            "management_level": "BGDĐT (SATREPS)",
+            "period": "12/2018-01/2024",
+            "acceptance_date": "01/2024",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Hướng dẫn thực nghiệm Thí nghiệm và Kiểm định Công trình",
+            "type": "Textbook",
+            "publisher": "Nhà Xuất bản Xây dựng",
+            "publish_year": "2016",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần 3 (51-79); Phần 5 (103 - 109)",
+            "verification_document_id": "1505/QĐ-ĐHXDHN"
+        },
+        {
+            "title": "Sổ tay hướng dẫn thiết kế, thi công và nghiệm thu cọc vít ống thép có cánh ở mũi",
+            "type": "Reference Book",
+            "publisher": "Nhà Xuất bản Xây dựng",
+            "publish_year": "2020",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-32",
+            "verification_document_id": "1317/QĐ-ĐHXDHN"
+        },
+        {
+            "title": "Construction testing and Inspection",
+            "type": "Textbook",
+            "publisher": "Nhà Xuất bản Xây dựng",
+            "publish_year": "2023",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "3-11; 70-71; 136-182",
+            "verification_document_id": "66/XN-ĐHXDHN"
+        },
+        {
+            "title": "Bê tông cốt liệu tái chế từ chất thải rắn xây dựng",
+            "type": "Monograph",
+            "publisher": "Nhà Xuất bản Xây dựng",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-120",
+            "verification_document_id": "208/XN-ĐHXDHN"
+        },
+        {
+            "title": "A Circular Economy: Promotion of Construction and Demolition Waste",
+            "type": "Reference Book",
+            "publisher": "Springer",
+            "publish_year": "",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "https://doi.org/10.1007/978-3-031-04725-1_5",
+            "verification_document_id": "67/GXN-ĐHXDHN"
+        },
+        {
+            "title": "Nghiên cứu và kiểm định công trình xây dựng - Phương pháp thí nghiệm không phá hoại - Kết cấu bê tông cốt thép",
+            "type": "Textbook",
+            "publisher": "Nhà Xuất bản Xây dựng",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-68; 86-115",
+            "verification_document_id": "103/XN-ĐHXDHN"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Đánh giá Chương trình đào tạo, Xây dựng mục tiêu đào tạo, chuẩn đầu ra, phát triển chương trình, rà soát và đánh giá các chương trình đào tạo.",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "QĐ674/QĐ-ĐHXDHN",
+            "certifying_authority": "Trường ĐHXDHN",
+            "implementation_document_id": "Số 746/QĐ-ĐHXDHN, ngày 13/06/2023",
+            "notes": ""
+        },
+        {
+            "title": "Sổ tay hướng dẫn thiết kế, thi công đồi cọc vít ống thép có cánh ở mũi và điều kiện Việt Nam",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "862/QĐ-BXD, 05/10/2022",
+            "certifying_authority": "Trường ĐHXDHN",
+            "implementation_document_id": "1317/QĐ-ĐHXDHN",
+            "notes": ""
+        },
+        {
+            "title": "Nghiên cứu đánh giá thực trạng và xây dựng khung chương trình, giáo trình Thiết kế thi công công trình xây dựng cho bậc đại học và cao đẳng theo định hướng mới của hệ tiêu chuẩn kỹ thuật ngành xây dựng",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "QĐ 1412/QĐ-BXD ngày 19/12/2021",
+            "certifying_authority": "Trường ĐHXDHN",
+            "implementation_document_id": "Số 746/QĐ-ĐHXDHN, ngày 13/06/2023",
+            "notes": ""
+        }
+    ]
+}

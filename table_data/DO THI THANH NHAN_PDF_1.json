@@ -1,0 +1,429 @@
+{
+    "papers": [
+        {
+            "title": "Cash Holding and Firm Value: Evidence from Vietnamese Market",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the 1st International Conference on Finance and Economics, ISBN: 978-80-7454-405-7",
+            "journal_ranking": "WoS",
+            "citation_count": 2,
+            "volume_issue_pages": "p. 344-357",
+            "published_date": "06/2014"
+        },
+        {
+            "title": "The Impact of Banking Regulations on the TFP Growth of Commercial Bank: A Case Study of Five Asean Economies",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the 1st International Conference on Finance and Economics, ISBN: 978-80-7454-405-7",
+            "journal_ranking": "WoS",
+            "citation_count": 0,
+            "volume_issue_pages": "p. 457-477",
+            "published_date": "06/2014"
+        },
+        {
+            "title": "Stock-market efficiency in emerging markets: evidence from Vietnamese stock market.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 7th International Scientific Conference Finance and Performance of Firms in Science, Education and Practice, ISBN: 978-80-7454-482-8",
+            "journal_ranking": "Hội thảo quốc tế",
+            "citation_count": 5,
+            "volume_issue_pages": "p. 204-216",
+            "published_date": "04/2015"
+        },
+        {
+            "title": "Cash holding, state ownership and firm value: The case of Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Economics and Financial Issues, E-ISSN: 2146-4138",
+            "journal_ranking": "Scopus",
+            "citation_count": 4,
+            "volume_issue_pages": "Volume 6, Issue 6, p. 110-114",
+            "published_date": "06/2016"
+        },
+        {
+            "title": "Whether the ownership structure effects on cash holding: an Evidence from Vietnamese Stock Exchange",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the 3rd International Conference on Finance and Economics, ISBN: 978-80-7454-599-3",
+            "journal_ranking": "WoS",
+            "citation_count": 3,
+            "volume_issue_pages": "p. 585-595",
+            "published_date": "06/2016"
+        },
+        {
+            "title": "The determinants impact on cash holding: Evidence from the Vietnamese stock market.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "12th Annual International Bata Conference for Ph.D. Students and Young Researchers, ISBN: 978-80-7454-592-4",
+            "journal_ranking": "WoS",
+            "citation_count": 1,
+            "volume_issue_pages": "p. 105-110",
+            "published_date": "04/2016"
+        },
+        {
+            "title": "The prestige of stock exchanges and corporate cash holding in transition economies: a study on Vietnamese listed firms",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Investment Management and Financial Innovations, ISSN: 1810-4967",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 14, Issue 3, p. 199-209",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "The Determinants of Capital Structure: New Evidence from Listed Companies in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Acta Univ. Agric. Silvic. Mendelianae Brun. ISSN 2464-8310",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 3,
+            "volume_issue_pages": "Volume 67, Issue 6, p. 1587-1595",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Banking Sector Depth and Economic Growth: Empirical Evidence from Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business, ISSN: 2288-4637",
+            "journal_ranking": "Scopus",
+            "citation_count": 5,
+            "volume_issue_pages": "Volume 8, Issue 3, p. 751-761",
+            "published_date": "2021"
+        },
+        {
+            "title": "Dollarisation and macroeconomic performance: an empirical investigation from Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Business Related Scientific Research Journal, ISSN: 1855-931X",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 12, Issue 2, p. 1-33",
+            "published_date": "2021"
+        },
+        {
+            "title": "The safety of banks in Vietnam using CAMEL",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Decision Sciences, ISSN: 2090-3359",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 10,
+            "volume_issue_pages": "Volume 25, Issue 2, p. 1-33",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Does Bank Liquidity Risk Lead to Bank's Operational Efficiency? A Study in Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Decision Sciences, ISSN: 2090-3359",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 10,
+            "volume_issue_pages": "Volume 25, Issue 2, p. 1-33",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Evaluating the efficiency of Vietnam banks using data envelopment analysis",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Annals of Financial Economics, ISSN (print): 2010-4952 ISSN (online): 2010-4960",
+            "journal_ranking": "ESCI, Scopus Q1",
+            "citation_count": 15,
+            "volume_issue_pages": "Volume 16, Issue 2, p. 1-17",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Impact of Credit Facilities and Contemporary Economic Environment on the Accessibility to Credit of Customers - Case Study In Binh Duong, Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Contemporary Economics, ISSN: 2084-0845",
+            "journal_ranking": "ESCI, Scopus Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 16, Issue 3, p. 329-345",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "The effects of selected financial ratios on profitability: an empirical analysis of real estate firms in Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Annals of Financial Economics, ISSN (print): 2010-4952 ISSN (online): 2010-4960",
+            "journal_ranking": "Scopus, ESCI Q1",
+            "citation_count": 10,
+            "volume_issue_pages": "Volume 17, Issue 1, p. 1-29",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Impact of ownership concentration on the innovation of small and medium-sized enterprises.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Polish Journal of Management Studies, ISSN: 2081-7452",
+            "journal_ranking": "Scopus, ESCI Q3",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 25, Issue 1, p. 312-326",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Credit constraints, institutional quality, and growth possibilities of private small and medium enterprises",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Management and Sustainability ISSN(e): 2306-0662; ISSN(p): 2306-9856",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 11, Issue 3, p. 177-190",
+            "published_date": "2022"
+        },
+        {
+            "title": "Safe Haven for Asian Equity Markets During Financial Distress: Bitcoin Versus Gold",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Acta Informatica Pragensia, ISSN: 1805-4951",
+            "journal_ranking": "ESCI, Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 12, Issue 2, p. 400-418",
+            "published_date": "2023"
+        },
+        {
+            "title": "Impact of foreign ownership and foreign bank presence on liquidity risk: Evidence from Viet Nam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Decision Sciences, ISSN: 2090-3359 (Print) ISSN: 2090-3367 (Online)",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "Volume 25, Issue 2, p. 1-33",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Impact of globalisation on innovation of small and medium enterprises in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Academy of Management Journal, ISSN: 1394-2603 ISSN: 2180-4184",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 28, Issue 1, p. 81-112",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Financial Literacy and portfolio diversification: Evidence from Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Competitiveness, ISSN: 1804-171X",
+            "journal_ranking": "SSCI, Scopus Q1 (IF: 2.6)",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 15, Issue 3, p. 79-103",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Monetary policy, cash holding and corporate investment in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Transformations in Business & Economics, ISSN: 1648-4460",
+            "journal_ranking": "SSCI, Scopus Q2 (IF: 1.6)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 23, Issue 1, p. 15-19",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Impact of information environment on investment efficiency among Vietnamese listed firms",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Polish Journal of Management Studies, ISSN: 2081-7452",
+            "journal_ranking": "Scopus, ESCI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 29, Issue 2, p. 413-432",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Linking firms' green mode and process innovations: Central and Eastern European region case.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Competitiveness, ISSN:1804-171X",
+            "journal_ranking": "SSCI, Scopus Q1 (IF: 2.6)",
+            "citation_count": 7,
+            "volume_issue_pages": "Volume 16, Issue 1, p. 167-183",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Triggering human capital aspects of corporate social responsibility via domestic and foreign institutional investments: novel insights from workplace safety initiatives.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Transformations in Business & Economics, ISSN: 1648-4460",
+            "journal_ranking": "SSCI, Scopus Q2 (IF: 1.6)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 23, Issue 3, p. 796-825",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "CEO political orientation and loan contract.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Financial innovation, ISSN: 2199-4730",
+            "journal_ranking": "SSCI, Scopus Q1 (IF: 7.2)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 11, Issue 1, p. 1-36",
+            "published_date": "2025"
+        },
+        {
+            "title": "Mối quan hệ giữa giá trị thương hiệu, trách nhiệm xã hội và hiệu quả tài chính ở các ngân hàng thương mại Việt Nam.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển, ISSN 1859-0012",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 311, Issue 2, p. 33-45",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Impact of foreign direct investment and globalization on labor share in vietnamese small and medium enterprises",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of finance and accounting research, ISSN: 1859-4093 E-ISSN: 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 5, Issue 24, p. 94-98",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Các nhân tố ảnh hưởng đến việc chia cổ tức của các doanh nghiệp niêm yết trên thị trường chứng khoán Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo, ISSN: 1859-4972",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 12, Issue 2, p. 27-30",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Đo lường quản lý rủi ro thanh khoản và tác động",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "p. 1-10",
+            "published_date": "03/2025"
+        },
+        {
+            "title": "Giải pháp nâng cao hoạt động thanh toán không dùng tiền mặt",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính, ISSN: 2815-6188",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 2, Issue 1, p. 221-225",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Tác động của sự thay đổi cơ cấu sở hữu đối với hiệu suất hoạt động của ngân hàng và mức độ rủi ro: Bằng chứng từ Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngân hàng, ISSN: 2815-6056",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 229, p. 5-17",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Factors affecting digital transformation in the cooperative sector: A study of Binh Duong province.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí học viện tài chính, ISSN: 1859-4093, E-ISSN: 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 2, Issue 33, p. 27-31",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Ảnh hưởng của các yếu tố vĩ mô, chu kì kinh doanh lên cấu trúc nợ của các công ty niêm yết tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế châu Á - Thái Bình Dương, ISSN: 0868-3808",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 5, p. 50-55",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Ảnh hưởng của các đặc tính hội đồng quản trị đến mức độ nắm giữ tiền mặt tại các doanh nghiệp Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo, ISSN: 1859-4972",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 5, p. 51-54",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Biến động dòng tiền và cấu trúc nợ của doanh nghiệp tại Việt Nam: Vai trò điều tiết của đại dịch Covid-19.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngân hàng, ISSN: 2815-6056",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 230, p. 61-73",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến quyết định sử dụng dịch vụ ngân hàng số tại Việt Nam của Gen Z.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế châu Á - Thái Bình Dương, ISSN: 0868-3808",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 6, p. 44-48",
+            "published_date": "06/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Financial Literacy and portfolio diversification: Evidence from participants in Vietnam",
+            "role": "Member",
+            "project_code": "FOSTECT. 2022.22",
+            "management_level": "Institutional level",
+            "period": "24/10/2022 - 23/2/2024",
+            "acceptance_date": "23/02/2024",
+            "rating": "Hoàn thành"
+        },
+        {
+            "title": "A safe haven for Asian equity markets during financial distress: Bitcoin versus Gold",
+            "role": "Principal Investigator",
+            "project_code": "FOSTECT. 2023.18",
+            "management_level": "Institutional level",
+            "period": "10/03/2023 - 09/03/2024",
+            "acceptance_date": "08/05/2024",
+            "rating": "Hoàn thành"
+        }
+    ],
+    "books": [
+        {
+            "title": "Ứng dụng Blockchain trong lĩnh vực tài chính ngân hàng",
+            "type": "Monograph",
+            "publisher": "NXB Lao động",
+            "publish_year": "2024",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 1-22, p. 166-201",
+            "verification_document_id": "VBXN tháng 06 năm 2025"
+        },
+        {
+            "title": "The Impact of the COVID-19 Pandemic on the Small and Medium Family Businesses in Vietnam",
+            "type": "Reference Book",
+            "publisher": "IGI Global Scientific Publishing",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 88-108",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Foreign Direct Investment and Innovation Activities of Vietnamese Small and Medium Enterprises (Partial Identification in Econometrics and Related Topics)",
+            "type": "Reference Book",
+            "publisher": "Springer Nature",
+            "publish_year": "2024",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 181-193",
+            "verification_document_id": ""
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

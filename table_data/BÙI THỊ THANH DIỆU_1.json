@@ -1,0 +1,788 @@
+{
+    "papers": [
+        {
+            "title": "Rối loạn hành vi của vị thành niên và can thiệp học đường",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế Tâm lý học đường lần thứ 3 “Phát triển mô hình và kỹ năng hoạt động tâm lý học đường”. NXB ĐHSP TP HCM. ISBN 978-604-479-186-9",
+            "journal_ranking": "Kỷ yếu Hội thảo",
+            "citation_count": 0,
+            "volume_issue_pages": "356-362",
+            "published_date": "2012"
+        },
+        {
+            "title": "Nhu cầu tham vấn tâm lý của học sinh trường THPT Hoàng Hoa Thám, Thành phố Đà Nẵng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế Tâm lý học đường lần thứ 4 “Xây dựng và quản lý chất lượng chương trình đào tạo và cơ sở thực hành Tâm lý học đường ở Việt Nam”. NXB ĐHQG Hà Nội. ISBN: 978-604-62",
+            "journal_ranking": "Kỷ yếu Hội thảo",
+            "citation_count": 0,
+            "volume_issue_pages": "261 - 267",
+            "published_date": "2014"
+        },
+        {
+            "title": "Giáo dục hướng nghiệp thông qua hoạt động tư vấn nghề ở trường trung học phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế Tâm lý học đường lần thứ 5 “Phát triển tâm lý học học đường trên thế giới và ở Việt Nam”.",
+            "journal_ranking": "Kỷ yếu Hội thảo",
+            "citation_count": 0,
+            "volume_issue_pages": "574 - 581",
+            "published_date": "2016"
+        },
+        {
+            "title": "Khó khăn tâm lý của học sinh trường THCS Lê Ngọc Giá, Điện Bàn, Quảng Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "NXB Thông tin và Truyền thông. ISBN 9786048020279; Kỷ yếu Hội thảo khoa học quốc tế Tâm lý học đường lần thứ 5 “Phát triển tâm lý học học đường trên thế giới và ở Việt Nam”. NXB Thông tin và Truyền thông. ISBN 9786048020279",
+            "journal_ranking": "Kỷ yếu Hội thảo",
+            "citation_count": 0,
+            "volume_issue_pages": "455-467",
+            "published_date": "2016"
+        },
+        {
+            "title": "Thực trạng nhu cầu phát triển chương trình dạy học môn giáo dục học theo tiếp cận năng lực của sinh viên trường Đại học Sư phạm - ĐHĐN",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học “Sinh viên và cán bộ trẻ các trường Đại học Sư phạm toàn quốc”. NXB Đại học Sư phạm TP HCM. ISBN 978-604-479-186-9",
+            "journal_ranking": "Kỷ yếu Hội thảo khoa học",
+            "citation_count": 0,
+            "volume_issue_pages": "226 - 235",
+            "published_date": "2016"
+        },
+        {
+            "title": "Cách ứng phó với stress của sinh viên trường Đại học Sư phạm – ĐHĐN – phân tích dưới góc độ giới tính",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học “Sinh viên và cán bộ trẻ các trường Đại học Sư phạm toàn quốc”. NXB Đại học Sư phạm TP HCM. ISBN 978-604-479-186-9",
+            "journal_ranking": "Kỷ yếu Hội thảo khoa học",
+            "citation_count": 0,
+            "volume_issue_pages": "1374 - 1380",
+            "published_date": "2016"
+        },
+        {
+            "title": "Định hướng vận dụng lý thuyết trải nghiệm vào dạy học các môn khoa học tự nhiên ở trường trung học",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Sư phạm Hà Nội. 1859-1531",
+            "journal_ranking": "Tạp",
+            "citation_count": 0,
+            "volume_issue_pages": "9/2017. 42-50",
+            "published_date": "2017"
+        },
+        {
+            "title": "Thái độ của người dân về bạo lực gia đình đối với phụ nữ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo Quốc tế Tâm lý học khu vực Đông Nam Á lần thứ nhất (RCP2017) “Hạnh phúc con người và phát triển bền vững”. NXB ĐHQG Hà Nội. ISBN: 978-604-62",
+            "journal_ranking": "Kỷ yếu hội thảo quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "237 - 245",
+            "published_date": "2017"
+        },
+        {
+            "title": "Hiểu biết về sức khoẻ tâm thần trẻ em của giáo viên trung học cơ sở",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế Tâm lý học đường lần thứ 6 “Vai trò của Tâm lý học trường học trong việc đảm bảo sức khoẻ tâm lý cho học sinh và gia đình”. NXB ĐHSP Hà Nội. ISBN: 978-604-57-3668-5.",
+            "journal_ranking": "Kỷ yếu hội thảo",
+            "citation_count": 0,
+            "volume_issue_pages": "137 - 142",
+            "published_date": "2018"
+        },
+        {
+            "title": "Ứng phó với stress của sinh viên trường Đại học sư phạm – ĐHĐN",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế Tâm lý học đường lần thứ 6 “Vai trò của Tâm lý học trường học trong việc đảm bảo sức khoẻ tâm lý cho học sinh và gia đình”. NXB ĐHSP Hà Nội. ISBN 978-604-57-3668-5.",
+            "journal_ranking": "Kỷ yếu hội thảo",
+            "citation_count": 0,
+            "volume_issue_pages": "145 - 153",
+            "published_date": "2018"
+        },
+        {
+            "title": "Chương trình nâng cao hiểu biết về sức khoẻ tâm thần thông qua Internet",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc tế Tâm lý học “Tâm lý học và sự phát triển bền vững của con người trong thời kỳ cách mạng công nghệ 4.0”. NXB ĐHQG TP HCM. ISBN 978-604-479-315-3",
+            "journal_ranking": "Kỷ yếu Hội thảo",
+            "citation_count": 0,
+            "volume_issue_pages": "313 - 325",
+            "published_date": "2018"
+        },
+        {
+            "title": "Năng lực tham vấn hướng nghiệp của sinh viên trường Đại học Sư phạm - ĐHĐN",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thiết bị Giáo dục",
+            "journal_ranking": "Kỳ 2.",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 181, 108 - 110",
+            "published_date": "2018"
+        },
+        {
+            "title": "Action research in Vietnamese schools as a tool for teacher professional development",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Macrothink Institute. International Research in Education. ISSN 2327-5499. https://doi.org/10.5296/ire.v6i2.13037",
+            "journal_ranking": "Vol 6, No 2.",
+            "citation_count": 0,
+            "volume_issue_pages": "15 - 25",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nâng cao nhận thức về sức khoẻ tâm thần cho giáo viên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Sư phạm Hà Nội. 1859-1531",
+            "journal_ranking": "Vol 64, 2019.",
+            "citation_count": 0,
+            "volume_issue_pages": "59-67",
+            "published_date": "2019"
+        },
+        {
+            "title": "Thái độ kỳ thị của giáo viên đối với người rối loạn tâm thần: nghiên cứu tại các trường THCS Đà Nẵng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học. 1859-0810",
+            "journal_ranking": "Vol 9/2019.",
+            "citation_count": 0,
+            "volume_issue_pages": "40-51",
+            "published_date": "2019"
+        },
+        {
+            "title": "Năng lực tham vấn hướng nghiệp của sinh viên trường Đại học Sư phạm - Đại học Đà Nẵng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc tế Tâm lý học “Tâm lý học và đạo đức nghề tâm lý học”. NXB Lao động – Xã hội. ISBN 978-604-480-967-0",
+            "journal_ranking": "Kỷ yếu Hội thảo quốc tế TLH.",
+            "citation_count": 0,
+            "volume_issue_pages": "450 - 457",
+            "published_date": "2019"
+        },
+        {
+            "title": "Mental health literacy among teachers of secondary schools in Danang, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Междуна родный академич еский вестник. ISSN 2312 - 5519",
+            "journal_ranking": "Số 3.2019.",
+            "citation_count": 0,
+            "volume_issue_pages": "27-34",
+            "published_date": "2019"
+        },
+        {
+            "title": "Teachers' awareness of career consulting activities at high schools in Da nang",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Междуна родный академич еский вестник. ISSN 2312-5519",
+            "journal_ranking": "Số 3.2019.",
+            "citation_count": 0,
+            "volume_issue_pages": "17-21",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nghiên cứu về sức khoẻ tâm thần của học sinh trung học cơ sở Đà Nẵng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thiết bị giáo dục. 0866-8019",
+            "journal_ranking": "Số đặc biệt.",
+            "citation_count": 0,
+            "volume_issue_pages": "2020. 345 - 348",
+            "published_date": "2020"
+        },
+        {
+            "title": "Experimental Evaluation of a School-Based Mental Health Literacy Program in two Southeast Asian Nations",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "School Mental health. 1866-2625 doi: 10.1007/s12310-020-09379-6.",
+            "journal_ranking": "ISI, Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "No 12/2020. 716-731",
+            "published_date": "2020"
+        },
+        {
+            "title": "Vietnamese High School Students' Perception of Mental Health Literacy",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ethno-Medicine. 2456-6772 DOI: 10.31901/24566772.2020/14.3-4.617",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "No 14 (3-4). 112-118",
+            "published_date": "2020"
+        },
+        {
+            "title": "Result of mental health literacy curriculum trial at secondary school",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "ВЕСТНИК НАУКИ И ОБРАЗОВ АНИЯ. ISSN 2312-808 9",
+            "journal_ranking": "Vol 12 (90).",
+            "citation_count": 0,
+            "volume_issue_pages": "83-90",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nhận thức về trầm cảm của người cao tuổi tại Phường Trương Quang Trọng, Tỉnh Quảng Ngãi",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng. 2354-1075",
+            "journal_ranking": "Vol 19. Số 10.",
+            "citation_count": 0,
+            "volume_issue_pages": "16-20",
+            "published_date": "2021"
+        },
+        {
+            "title": "Niềm tin vào nguyên nhân và yếu tố nguy cơ gây rối loạn tâm thần của học sinh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng. 2354-1075",
+            "journal_ranking": "Vol 19. No 4.1",
+            "citation_count": 0,
+            "volume_issue_pages": "19-23",
+            "published_date": "2021"
+        },
+        {
+            "title": "Thái độ kỳ thị đối với người rối loạn tâm thần của học sinh trung học phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng. 2354-1075",
+            "journal_ranking": "Số 2.",
+            "citation_count": 0,
+            "volume_issue_pages": "33-37",
+            "published_date": "2021"
+        },
+        {
+            "title": "Thực trạng phát triển năng lực quản lý hành vi học sinh cho giáo viên trung học cơ sở tại Đà Nẵng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Thiết bị giáo dục. 0866-8019",
+            "journal_ranking": "Số đặc biệt.",
+            "citation_count": 0,
+            "volume_issue_pages": "187 - 189",
+            "published_date": "2022"
+        },
+        {
+            "title": "Factors affecting parents' satisfaction with the quality of Preschool educational services",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Humanities and Social Sciences Letters. 2312-4318 https://doi.org/10.18488/73.v10i3.3061",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 10, No 3. 313-325",
+            "published_date": "2022"
+        },
+        {
+            "title": "Chất lượng giấc ngủ của nhân viên y tế",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học Việt Nam. 0866-8019",
+            "journal_ranking": "Số 01 - 2023.",
+            "citation_count": 0,
+            "volume_issue_pages": "46-61",
+            "published_date": "2023"
+        },
+        {
+            "title": "Năng lực sử dụng phương pháp và công cụ nhận diện rối nhiễu tâm lý ở học sinh của giáo viên trung học cơ sở",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tâm lý học Việt Nam. 0866-8019",
+            "journal_ranking": "Số 01.",
+            "citation_count": 0,
+            "volume_issue_pages": "3-11",
+            "published_date": "2023"
+        },
+        {
+            "title": "Thực trạng tiếp cận kiến thức và kỹ năng chăm sóc, giáo dục trẻ dưới 36 tháng trong gia đình của cha mẹ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo Khoa học quốc tế “Tâm lý và giáo dục trong bối cảnh biến đổi xã hội”. NXB Dân Trí – Hà Nội. ISBN 978-604-88-7128-4.",
+            "journal_ranking": "Hội thảo Khoa học quốc tế.",
+            "citation_count": 0,
+            "volume_issue_pages": "715 - 720",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mental Disorders among Vietnamese Adolescents: A Cross-sectional Study",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ethno-Medicine. 2456-6772 DOI: 10.31901/24566772.2023/17.1-2.665",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "No17. 47-56",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ralation between hyperactivity and peer problems: a structural equation modeling approach",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Mental health. 2764-4170 https://doi.org/10.1080/00207411.2023.2298013",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 53 - No 2. 179 - 191",
+            "published_date": "2024"
+        },
+        {
+            "title": "Teachers Ability to advise and support students in educational activities of primary school",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Law and Sustanable development. 2764-4170 https://doi.org/10.5590/8/sdgs.v12i1.",
+            "journal_ranking": "Vol 12 - No 1.",
+            "citation_count": 0,
+            "volume_issue_pages": "1-19",
+            "published_date": "2024"
+        },
+        {
+            "title": "The Relationship Between Emotional Intelligence and Career Decision-Making Difficulties: Mediation Role of Career Adaptability of Vietnamese University Students",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Curriculum and Teaching. 1927-2677 https://doi.org/10.5430/jct.v13n2p67",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 13 - No 2. 67-82",
+            "published_date": "2024"
+        },
+        {
+            "title": "Examining Mental Health Risks in Secondary Students: A Study Utilizing the Strengths and Difficulties Questionnaire",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "ASEAN Journal of Psychiatry. 2231-7791 https://www.aseanjournalofpsychiatry.org/articles/examining-mental-health-risks-in-secondary-students-a-study-utilizing-the-strengths-and-difficulties-questionnaire.pdf",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 25 - No 5. 1-12",
+            "published_date": "2024"
+        },
+        {
+            "title": "Gender Differences in Autism Spectrum Disorder: An Exploration of Behaviors, Self-Care, and Adaptability in Children",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Multidisciplinar Science Journal. 26751240 https://doi.org/10.31893/multiscience.2024215",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 6 - No 10. 1-8",
+            "published_date": "2024"
+        },
+        {
+            "title": "Perceptions of Determinants of Mental Health Literacy among Vietnamese Adolescents",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Education and Practice. 23116897 https://archive.conscientiabeam.com/index.php/61/article/view/3734/8107",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 12 - No 3. 596-605",
+            "published_date": "2024"
+        },
+        {
+            "title": "The Evaluations of the Physical, Behavioural and Psychosocial Consequences of Internet Addiction in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ethno-Medicine. 2456-6772",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 18 - No 1. 32-43",
+            "published_date": "2024"
+        },
+        {
+            "title": "Thực trạng năng lực tự học của học sinh một số trường trung học cơ sở tại quận Liên Chiểu, Thành phố Đà Năng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục. 2354-0753",
+            "journal_ranking": "Tập 24 (số đặc biệt 3) 4/2024.",
+            "citation_count": 0,
+            "volume_issue_pages": "213 - 218",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nhận thức về bạo lực học đường của học sinh các trường THCS quận Liên Chiểu, Thành phố Đà Nẵng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Sư phạm Hà Nội",
+            "journal_ranking": "Tập 69, Số 2.",
+            "citation_count": 0,
+            "volume_issue_pages": "3-10",
+            "published_date": "2024"
+        },
+        {
+            "title": "Hiệu quả của chương trình nâng cao nhận thức về bạo lực học đường cho học sinh trung học cơ sở tại quận Liên Chiểu, thành phố Đà Nẵng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục. 2354-0753",
+            "journal_ranking": "Tập 24 (số đặc biệt 4)",
+            "citation_count": 0,
+            "volume_issue_pages": "181 - 185",
+            "published_date": "2024"
+        },
+        {
+            "title": "Stress của học sinh THPT Quận Liên Chiểu, Đà Nẵng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học Việt Nam. 0866-8019",
+            "journal_ranking": "Số 3.2024.",
+            "citation_count": 0,
+            "volume_issue_pages": "4-14",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nâng cao năng lực về sức khoẻ tâm thần: các chương trình can thiệp dựa vào trường học",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học Việt Nam. 0866-8019",
+            "journal_ranking": "Số 3.2024.",
+            "citation_count": 0,
+            "volume_issue_pages": "25-49",
+            "published_date": "2024"
+        },
+        {
+            "title": "Experimental Mental health literacy program for high school students",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Multidisciplinary Science Journal https://malque.pub/ojs/index.php/msj/article/view/4158/1659",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.6 Issues 12 1-9",
+            "published_date": "2024"
+        },
+        {
+            "title": "The Relationship between Depression, Anxiety, Stress and Internet use among High School Students",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "ASEAN Journal of Psychiatry https://www.aseanjournalofpsychiatry.org/articles/the-relationship-between-depression-anxiety-stress-and-internet-use-among-high-school-students.pdf",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 25 - 5. 1-16",
+            "published_date": "2024"
+        },
+        {
+            "title": "Exploratory Educational Initiatives Enhancing Primary School Teachers' Ability to Guide and Assist Students in Learning Activities",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Revista de Gestao Social e Ambiental. ISSN:1981-982X. https://doi.org/10.24857/rgsa.v18n9-102",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 18, No 9. 1-25",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Ứng phó với stress của sinh viên Trường Đại học Sư phạm – Đại học Đà Nẵng",
+            "role": "Principal Investigator",
+            "project_code": "T2012-03-16",
+            "management_level": "Trường ĐHSP-ĐHĐN",
+            "period": "3-2012-12/2012",
+            "acceptance_date": "21/12/2012",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Sự thích ứng với hoạt động học tập theo học chế tín chỉ của sinh viên Trường ĐHSP - ĐHĐN",
+            "role": "Key Member",
+            "project_code": "T2012-03-21",
+            "management_level": "Cấp Trường ĐHSP - ĐHĐN",
+            "period": "3/2012-12/2012",
+            "acceptance_date": "21/12/2012",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu biểu hiện hành vi hung tính của học sinh tiểu học và biện pháp can thiệp",
+            "role": "Key Member",
+            "project_code": "Đ2012-03-13",
+            "management_level": "Cấp Đại học Đà Nẵng",
+            "period": "3/2012-12/2012",
+            "acceptance_date": "26/12/2012",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu đề xuất mô hình hỗ trợ tâm lý học đường tại các trường THCS thành phố Đà Nẵng (thí điểm tại trường THCS Tây Sơn)",
+            "role": "Key Member",
+            "project_code": "T2014-03-31",
+            "management_level": "Trường ĐHSP-ĐHĐN",
+            "period": "4/2014-12/2014",
+            "acceptance_date": "24/12/2014",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nhận thức của giáo viên các trường THCS thành phố Đà Nẵng về sức khoẻ tâm thần học sinh",
+            "role": "Principal Investigator",
+            "project_code": "T2017-03-03",
+            "management_level": "Trường ĐHSP-ĐHĐN",
+            "period": "3/2017-12/2017",
+            "acceptance_date": "21/12/2017",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Xây dựng chương trình tư vấn hướng nghiệp cho học sinh trung học phổ thông",
+            "role": "Key Member",
+            "project_code": "B2017-DN03-09",
+            "management_level": "Cấp Đại học Đà Nẵng",
+            "period": "2017",
+            "acceptance_date": "2017",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Hình thành năng lực tư vấn hướng nghiệp cho sinh viên Trường ĐHSP - ĐHĐN",
+            "role": "Key Member",
+            "project_code": "T2018-TN-13",
+            "management_level": "Cấp Trường ĐHSP - Đại học Đà Nẵng",
+            "period": "2018",
+            "acceptance_date": "12/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu đề xuất giải pháp bồi dưỡng kỹ năng tư vấn tâm lý cho giáo viên chủ nhiệm tại các trường THCS trên địa bàn tỉnh Kiên Giang",
+            "role": "Key Member",
+            "project_code": "Đề tài nghiên cứu KHXH và NV Tỉnh Kiên Giang",
+            "management_level": "Tỉnh Kiên Giang",
+            "period": "8/2018-10/2020",
+            "acceptance_date": "30/3/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xây dựng chương trình giáo dục sức khoẻ tâm thần cho học sinh các trường THCS trên địa bàn thành phố Đà Nẵng",
+            "role": "Assistant",
+            "project_code": "B2018-ĐN03-21.",
+            "management_level": "Cấp Đại học Đà Nẵng",
+            "period": "2018-2020",
+            "acceptance_date": "8/12/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xây dựng chương trình hiểu biết về sức khoẻ tâm thần cho học sinh trung học phổ thông",
+            "role": "Principal Investigator",
+            "project_code": "B2019-DNA-09.",
+            "management_level": "Cấp Bộ Giáo dục và Đào tạo",
+            "period": "2019-2020",
+            "acceptance_date": "8/12/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Điều tra, đánh giá thực trạng và đề xuất giải pháp can thiệp cộng đồng phòng chống trầm cảm ở người cao tuổi tại thành phố Quảng Ngãi",
+            "role": "Key Member",
+            "project_code": "01/2019/HD-ĐTKHCN. Nhiệm vụ Khoa học công nghệ cấp Tỉnh Quảng Ngãi",
+            "management_level": "Tỉnh Quảng Ngãi",
+            "period": "4/2019-12/2021",
+            "acceptance_date": "10/12/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xây dựng chương trình hỗ trợ cha mẹ kiến thức và kỹ năng chăm sóc, giáo dục trẻ dưới 36 tháng tuổi trong gia đình.",
+            "role": "Key Member",
+            "project_code": "B2019.DNA.10",
+            "management_level": "Cấp Bộ Giáo dục và Đào tạo",
+            "period": "2019-2021",
+            "acceptance_date": "24/10/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Hình thành năng lực định hướng nghề nghiệp cho học sinh THCS tại Thành phố Đà Nẵng thông qua tổ chức hoạt động trải nghiệm",
+            "role": "Key Member",
+            "project_code": "B2019-DN03-37",
+            "management_level": "Cấp Đại học Đà Nẵng",
+            "period": "2019-2021",
+            "acceptance_date": "2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Phát triển năng lực quản lý hành vi học sinh cho giáo viên các trường THCS trên địa bàn thành phố Đà Nẵng",
+            "role": "Key Member",
+            "project_code": "82019-ĐN 01-22-HT",
+            "management_level": "Đề tài cấp Sở KHCN thành phố Đà Nẵng",
+            "period": "2019-2022",
+            "acceptance_date": "7/12/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Phát triển năng lực tư vấn và hỗ trợ học sinh trong hoạt động giáo dục cho giáo viên Tiểu học đáp ứng yêu cầu thực hiện chương trình giáo dục phổ thông 2018",
+            "role": "Key Member",
+            "project_code": "B2021-DNA-07",
+            "management_level": "Bộ Giáo dục và Đào tạo",
+            "period": "2021-2022",
+            "acceptance_date": "11/3/2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Phát triển năng lực nhận diện các rối nhiễu tâm lý ở học sinh cho giáo viên trung học cơ sở",
+            "role": "Assistant",
+            "project_code": "B2022-DNA-03",
+            "management_level": "Bộ Giáo dục và Đào tạo",
+            "period": "2022-2023",
+            "acceptance_date": "3/4/2024",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Kỹ năng tham vấn học đường",
+            "type": "Textbook",
+            "publisher": "NXB Thông tin và truyền thông",
+            "publish_year": "2019",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 2 (trang 45-87)",
+            "verification_document_id": "Quyết định số 354/QĐ-ĐHSP ngày 26/3/2019"
+        },
+        {
+            "title": "Tâm lý học giáo dục",
+            "type": "Textbook",
+            "publisher": "NXB Đà Nẵng",
+            "publish_year": "2019",
+            "num_authors": 9,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 2 (trang 7-190)",
+            "verification_document_id": "Quyết định số 357/QĐ-ĐHSP ngày 26/3/2019"
+        },
+        {
+            "title": "Kỹ năng giao tiếp",
+            "type": "Textbook",
+            "publisher": "NXB Đà Nẵng",
+            "publish_year": "2019",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 1,2 (trang 6-85)",
+            "verification_document_id": "Quyết định số 356/QĐ-ĐHSP ngày 26/3/2019"
+        },
+        {
+            "title": "Giao tiếp sư phạm của giáo viên mầm non",
+            "type": "Textbook",
+            "publisher": "NXB Đà Nẵng",
+            "publish_year": "2019",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 2,3 (trang 50-97)",
+            "verification_document_id": "Quyết định số 353/QĐ-ĐHSP ngày 26/3/2019"
+        },
+        {
+            "title": "Lý thuyết và thực hành Liệu pháp Dohsa-hou trong trị liệu tâm lý trẻ khuyết tật",
+            "type": "Reference Book",
+            "publisher": "NXB Thông tin và truyền thông",
+            "publish_year": "2019",
+            "num_authors": 23,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Phần 1 (trang 11-68)",
+            "verification_document_id": "Quyết định số 1062/QĐ-ĐHSP ngày 29/6/2021"
+        },
+        {
+            "title": "Tác động của chương trình giáo dục về SKTT đến nhận thức của giáo viên và học sinh",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Quốc gia Hà Nội",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1,2,3 (trang 1-180)",
+            "verification_document_id": "Quyết định số 834/QĐ-ĐHSP ngày 24/6/2022"
+        },
+        {
+            "title": "Kỹ năng giao tiếp của giáo viên mầm non với trẻ",
+            "type": "Guide Book",
+            "publisher": "Tài liệu bồi dưỡng thường xuyên trường ĐHSP-ĐHĐN",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Nội dung 1,2,3 (trang 1-52)",
+            "verification_document_id": "Quyết định số 1961/QĐ-ĐHSP ngày 29/12/2022"
+        },
+        {
+            "title": "Rèn luyện phong cách làm việc khoa học của người giáo viên mầm non",
+            "type": "Guide Book",
+            "publisher": "Tài liệu bồi dưỡng thường xuyên trường ĐHSP-ĐHĐN",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Nội dung 1,2,3 (trang 1-46)",
+            "verification_document_id": "Quyết định số 1961/QĐ-ĐHSP ngày 29/12/2022"
+        },
+        {
+            "title": "Nâng cao phẩm chất đạo đức nhà giáo trong bối cảnh hiện nay",
+            "type": "Guide Book",
+            "publisher": "Tài liệu bồi dưỡng thường xuyên trường ĐHSP-ĐHĐN",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Nội dung 1,2,3 (trang 1-57)",
+            "verification_document_id": "Quyết định số 1961/QĐ-ĐHSP ngày 29/12/2022"
+        },
+        {
+            "title": "Giáo dục mầm non theo quan điểm lấy trẻ trung tâm tâm",
+            "type": "Guide Book",
+            "publisher": "Tài liệu bồi dưỡng thường xuyên trường ĐHSP-ĐHĐN",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Nội dung 1,2 (trang 1-42)",
+            "verification_document_id": "Quyết định số 1961/QĐ-ĐHSP ngày 29/12/2022"
+        },
+        {
+            "title": "Phương pháp giáo dục giá trị sống và kỹ năng sống",
+            "type": "Textbook",
+            "publisher": "NXB ĐHQG TPHCM",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 1,2 (trang 5-70)",
+            "verification_document_id": "Quyết định số 681/QĐ-ĐHSP ngày 24 tháng 4 năm 2023"
+        },
+        {
+            "title": "Trầm cảm ở người cao tuổi và mô hình hỗ trợ tâm lý từ cộng đồng",
+            "type": "Reference Book",
+            "publisher": "NXB Thông tin và truyền thông",
+            "publish_year": "2023",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 3 (trang 73-91)",
+            "verification_document_id": "Quyết định số 1123/Q-ĐHSP ngày 27/6/2023"
+        },
+        {
+            "title": "Tài liệu Bồi dưỡng kỹ năng tư vấn tâm lý cho giáo viên chủ nhiệm trường THCS",
+            "type": "Book",
+            "publisher": "NXB Đà Nẵng",
+            "publish_year": "2022",
+            "num_authors": 13,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Phần thứ 2 (trang 48-75)",
+            "verification_document_id": "Quyết định số 1211/QĐ-ĐHSP ngày 12/7/2023"
+        },
+        {
+            "title": "Tâm bệnh học trẻ em lứa tuổi mầm non",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Quốc Gia Hà Nội",
+            "publish_year": "2024",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1,2,3 (trang 50-135)",
+            "verification_document_id": "Quyết định số 1944/QĐ-ĐHSP ngày 30/10/2023"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo chất lượng cao bậc đại học, ngành Tâm lý học",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 1185/QĐ-ĐHSP ngày 02/10/2017",
+            "certifying_authority": "Trường Đại học Sư phạm – ĐHĐN",
+            "implementation_document_id": "Quyết định số 575/QĐ-ĐT ngày 6/6/2017 của Hiệu trưởng trường ĐHSP - ĐHĐN",
+            "notes": ""
+        },
+        {
+            "title": "Tự đánh giá chương trình cử nhân tâm lý học",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 60/QĐ-ĐHSP ngày 10/01/2020",
+            "certifying_authority": "Trung tâm kiểm định chất lượng giáo dục - Đại học Vinh",
+            "implementation_document_id": "Quyết định số 177/QĐ-KĐCLV ngày 26/5/2021 của Giám đốc trung tâm kiểm định chất lượng giáo dục – ĐH Vinh",
+            "notes": ""
+        },
+        {
+            "title": "Soạn thảo chương trình đào tạo Khoá 2021 trình độ đại học, hình thức đào tạo chính quy",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 315/QĐ-ĐHSP ngày 25/2/2021",
+            "certifying_authority": "Trường Đại học Sư phạm – ĐHĐN",
+            "implementation_document_id": "Quyết định số 767/QĐ-ĐHSP ngày 17/6/2022 của Hiệu trưởng trường ĐHSP - ĐHĐN",
+            "notes": ""
+        },
+        {
+            "title": "Rà soát, cập nhật chương trình đào tạo trình độ thạc sĩ ngành Tâm lý học của trường ĐHSP - ĐHĐN",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 139/QĐ-ĐHSP ngày 10/02/2022",
+            "certifying_authority": "Trường Đại học Sư phạm – ĐHĐN",
+            "implementation_document_id": "Quyết định số 685/QĐ-ĐHSP ngày 3/6/2022 của Hiệu trưởng trường ĐHSP - ĐHĐN",
+            "notes": ""
+        }
+    ]
+}

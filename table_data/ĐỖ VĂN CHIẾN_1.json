@@ -1,0 +1,599 @@
+{
+    "papers": [
+        {
+            "title": "Nghiên cứu tình trạng kháng insulin ở bệnh nhân bệnh động mạch vành",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 4 -Số 4/2009 tr.14-23",
+            "published_date": "4/2009"
+        },
+        {
+            "title": "Giá trị chẩn đoán bệnh động mạch vành không triệu chứng của siêu âm tim gắng sức bằng Dobutamine ở bệnh nhân đái tháo đường type 2",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 5 số đặc biệt, tháng 12/2010 tr.14-21",
+            "published_date": "12/2010"
+        },
+        {
+            "title": "Cơn đau ngực biến thể Prinzmetal: lâm sàng và điều trị",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7 số 4/2012 tr. 1-5",
+            "published_date": "4/2012"
+        },
+        {
+            "title": "Nghiên cứu mối liên quan giữa bề dày lớp mỡ thượng tâm mạc và hội chứng chuyển hóa",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7 số 4/2012 tr. 30-35",
+            "published_date": "4/2012"
+        },
+        {
+            "title": "Giá trị của siêu âm tim đánh dấu mô tự động (AFI) trong chẩn đoán bệnh động mạch vành",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 8 số đặc biệt, tháng 12/2013",
+            "published_date": "12/2013"
+        },
+        {
+            "title": "Nghiên cứu rối loạn vận động xoắn của thất trái ở bệnh nhân suy tim bằng siêu âm tim đánh dấu mô",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 9 -Số đặc biệt/2014 tr.1-8",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Báo cáo trường hợp lâm sàng: xử lý kẹt mũi khoan cắt mảng vữa xơ trong lòng động mạch vành",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tim mạch học Việt Nam, ISSN: 1859-2848",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 69 năm 2015, tr. 119-123",
+            "published_date": "2015"
+        },
+        {
+            "title": "Báo cáo trường hợp lâm sàng: Xử lý vỡ động mạch vành trong can thiệp tim mạch",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 10 –Số 1/2015 tr.30-34",
+            "published_date": "2015"
+        },
+        {
+            "title": "Reference and reliability of speckle tracking echocardiography for assessment of left atrial function in subjects without cardiovascular diseases",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tiếng anh Tập 11 tháng 4/2016 tr.40-46",
+            "published_date": "4/2016"
+        },
+        {
+            "title": "Phối hợp bóng cắt và hệ thống khoa cắt mảng vữa xơ trong điều trị tổn thương thân chung động mạch vành tim bị vôi hóa nặng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học quân sự, ISSN: 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 41 tháng 4/2016 tr.150-157",
+            "published_date": "4/2016"
+        },
+        {
+            "title": "Bóc tách động mạch vành tự nhiên: nhân một trường hợp lâm sàng điều trị bằng can thiệp qua da.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học quân sự, ISSN: 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 41 số 6 tháng 7 năm 2016 tr. 225-230",
+            "published_date": "07/2016"
+        },
+        {
+            "title": "Nghiên cứu sự biến đổi cấu trúc và chức năng nhĩ trái ở bệnh nhân rung nhĩ không do bệnh van tim bằng siêu âm tim đánh dấu mô",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 11 -Số đặc biệt 9/2016 tr.1-8",
+            "published_date": "9/2016"
+        },
+        {
+            "title": "Mối liên quan giữa các chỉ số siêu âm tim đánh dấu mô nhĩ trái với huyết khối tiểu nhĩ trái ở bệnh nhân rung nhĩ không do bệnh van tim",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12 Số 9/2017 tr.36-41",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Mối liên quan giữa các chỉ số siêu âm tim đánh dấu mô nhĩ trái với thang điểm CHA2DS2-VASc ở bệnh nhân rung nhĩ không do bệnh van tim",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12 Số đặc biệt, 11 năm 2017 tr.170-175",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Mối liên quan giữa các chỉ số siêu âm tim kích thước nhĩ trái với mức độ âm cuộn tự nhiên ở bệnh nhân rung nhĩ không do bệnh van tim",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12 Số đặc biệt, 11 năm 2017 tr.159-170",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Khảo sát một số đặc điểm lâm sàng và cận lâm sàng bệnh nhân nhồi máu cơ tim có biến chứng cơ học tại Bệnh viện Trung ương Quân đội 108",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12 Số đặc biệt, tháng 12 năm 2017 tr.35-40",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Mối liên quan giữa các chỉ số siêu âm tim kích thước nhĩ trái với huyết khối tiểu nhĩ trái ở bệnh nhân rung nhĩ không do bệnh van tim",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12 Số đặc biệt, tháng 12 năm 2017 tr.35-40",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Mối liên quan giữa các chỉ số siêu âm tim với mức độ âm cuộn tự nhiên ở bệnh nhân rung nhĩ không do bệnh van tim",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12 Số đặc biệt, tháng 12 năm 2017 tr.159-163",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "So sánh một số mô hình dự báo đột quị não ở bệnh nhân rung nhĩ không do bệnh van tim",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12 Số đặc biệt, tháng 12 năm 2017 tr.85-91",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Đánh giá chất lượng cuộc sống của bệnh nhân trước và sau điều trị cơn nhịp nhanh kịch phát trên thất bằng sóng có tần số radio bằng thang điểm EQ-5D-31",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13 số đặc biệt 8/2018. Tr.19-26",
+            "published_date": "2018"
+        },
+        {
+            "title": "Novel Models for the prediction of left atrial appendage thrombus in patients with chronic non- valvular atrial fibrillation. (https://onlinelibrary.wiley.com/doi/10.1155/2019/1496535)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cardiology Research and Practice Online ISSN: 20900597 Print ISSN: 20908016",
+            "journal_ranking": "Scopus Q2, H index 45, SJR 2023 0.52",
+            "citation_count": 8,
+            "volume_issue_pages": "Volume 2019, article ID 1496535. https://doi.org/10.1155/2019/1496535",
+            "published_date": "2019"
+        },
+        {
+            "title": "A large left vemtricular thrombus resolved with dual antiplatelet herapy in combination with cenocoumarol in a young patient after acute inferior myocardial infarction",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tiếng Anh 14 tháng 9/2019 tr.6-10",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Hiện tượng xoay trục điện tim trước và sau can thiệp động mạch vành qua da thì đầu ở bệnh nhân nhồi máu cơ tim cấp",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14 số đặc biệt tháng 10/2019 Tr.126-130",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Mối liên quan giữa chức năng tâm trương thất trái với huyết khối tiểu nhĩ trái ở bệnh nhân rung nhĩ mạn tính không do bệnh van tim",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 493 số 1 tháng 8/2020 tr.19-22",
+            "published_date": "8/2020"
+        },
+        {
+            "title": "Multiple spontaneous coronary artery dissections associated with intravenous daunorubicin treatment for acute myelocytic leukaemia: a case report. (https://academic.oup.com/ehjcr/article/5/1/ytaa427/6042366)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Heart Journal - Case Reports. ISSN 25142119",
+            "journal_ranking": "Scopus Q3, H index 16. SJR 2023 0.31",
+            "citation_count": 3,
+            "volume_issue_pages": "doi:10.1093/ehjcr/ytaa427",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Applicability of a Novel Wearable Wireless Electrocardiogram Monitoring Device (Spyder) for Arrhythmia Detection in Patients with Suspected Cardiac Arrhythmias. (https://onlinelibrary.wiley.com/doi/10.1155/2021/8496351)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cardiology Research and Practice Online ISSN: 20900597 Print ISSN: 20908016",
+            "journal_ranking": "Scopus Q2, H index 45, SJR 2023 0.52",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 2021, Article ID 8496351, 6 pages https://doi.org/10.1155/2021/8496351",
+            "published_date": "2021"
+        },
+        {
+            "title": "Mối tương quan giữa nồng độ đỉnh của men CK-MB huyết tương với sự xoay trục điện tim ở bệnh nhân nhồi máu cơ tim cấp được can thiệp thì đầu qua da",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16 số đặc biệt Tháng 4/ 2021 tr.230-235",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Đánh giá một số thông số về sức căng và vận động xoắn của thất trái bằng siêu âm tim đánh dấu mô 3D ở bệnh nhân suy tim mạn tính",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16 số 4 năm 2021, tr.1-8",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Mối tương quan giữa các thông số biến dạng thất trái đo trên siêu âm đánh dấu mô 3D với phân suất tống máu thất trái ở bệnh nhân suy tim mạn tính",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 503 số 2 tháng 6/2021 tr.19-22",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Mối tương quan giữa góc xoay và vận động xoắn thất trái trên siêu âm đánh dấu mô 3D với phân suất tống máu thất trái ở bệnh nhân suy tim mạn tính",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự, ISSN: 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 46 Số 5 năm 2021 tr.55-62",
+            "published_date": "2021"
+        },
+        {
+            "title": "Management of iatrogenic right ventricular puncture: a case report",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tiếng Anh, 16/2021 tr.56-59",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Treatment of left ventricular thrombus by rivaroxaban: a case report",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tiếng Anh, 16/2021 tr.64-67",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Đánh giá sự thay đổi chất lượng cuộc sống của bệnh nhân suy tim mạn tính được áp dụng phương pháp tập thở cơ hoành.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, tháng 2 năm 2022",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Multivessel Coronary Artery Disease in a Patient With Noncompaction Cardiomyopathy With Coronary Artery-to-Left Ventricle istulas. https://www.jacc.org/doi/10.1016/j.jaccas.2022.01.020",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of American College of Cardiology: case reports ISSN: 2666-0849",
+            "journal_ranking": "Scopus Q3, H index 10 SJR 2023 0.37",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 4 Number 6 2022 https://doi.org/10.1016/j.jaccas.2022.01.020",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Mối liên quan giữa độ cứng nhĩ trái trên siêu âm với chức năng nhĩ trái và NT-proBNP ở bệnh nhân suy tim có EF bảo tồn.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 515 số 2 tháng 6/2022 tr.281-284",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Mối liên quan giữa một số chỉ số siêu âm tim nhĩ trái và nồng độ NT-proBNP ở bệnh nhân suy tim có phân suất tống máu bảo tồn",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự, ISSN: 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 5/2022. Tr. 140-147",
+            "published_date": "2022"
+        },
+        {
+            "title": "Prognostic Role of Diastolic Left Ventricular Mechanical Dyssynchrony by Gated Single Photon Emission Computed Tomography Myocardial Perfusion Imaging in Post-Myocardial Infarction. (https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0043-1764304.pdf)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "World journal of Nuclear Medicine. ISSN: 1450-1147",
+            "journal_ranking": "Pubmed",
+            "citation_count": 0,
+            "volume_issue_pages": "2023;22:108-113. DOI https://doi.org/10.1055/s-0043-1764304",
+            "published_date": "2023"
+        },
+        {
+            "title": "Progressive alterations of left atrial and ventricular volume and strain across chronic kidney disease stages: a speckle tracking echocardiography study. (https://www.frontiersin.org/articles/10.3389/fcvm.2023.1197427/full)",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Cardiovascular Medicine. ISSN 2297055X",
+            "journal_ranking": "Scopus Q2, H index 69 SCIE SJR 2023 0.86",
+            "citation_count": 0,
+            "volume_issue_pages": "DOI.10.3389/fcvm.2023.1197427",
+            "published_date": "2023"
+        },
+        {
+            "title": "Two Cases of Management of Coronary Artery Perforation During Percutaneous Coronary Intervention Using Injection of Combined Histoacryl (n- Butyl-2-Cyanoacrylate) and Lipiodol (Ethiodized Oil). (https://amjcaserep.com/abstract/full/idArt/938861)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "American Journal of Case Reports. ISSN 19415923",
+            "journal_ranking": "Scopus Q3, H index 27 SJR 2023 0.28",
+            "citation_count": 0,
+            "volume_issue_pages": "2023; 24: e938861 DOI: 10.12659/AJCR.938861",
+            "published_date": "2023"
+        },
+        {
+            "title": "Prognostic Value of SYNTAX Scores for Predicting Major Cardiac Adverse Events in Patients with Acute Myocardial Infarction Treated with Primary Percutaneous Coronary Intervention. (https://brieflands.com/articles/ircrj-136694.pdf)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International cardiovascular research journal ISSN 22519149",
+            "journal_ranking": "Scopus Q4, H index 15, SJR 2023 0.11",
+            "citation_count": 0,
+            "volume_issue_pages": "2023;17(1):2-8.icrj.136694",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Thực trạng kiểm soát và tuân thủ điều trị huyết áp ở bệnh nhân nhồi máu não có tăng huyết áp điều trị tại bệnh viện đa khoa tỉnh Thanh Hoá",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 527 số 1B tháng 6/2023. Tr. 265-268",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Thực trạng tuân thủ điều trị của người bệnh đái tháo đường type 2 được điều trị ngoại trú bằng metformin tại Bệnh viện Trung ương Quân đội 108",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17 số 3 năm 2023, tr.36-40",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu một số yếu tố liên quan đến tuân thủ dinh dưỡng của người bệnh đái tháo đường type 2 được điều trị ngoại trú bằng metformin tại Bệnh viện Trung ương Quân đội 108",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 527 số 1B, tháng 6/2023",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Tìm hiểu mối liên quan giữa một số yếu tố siêu âm tim nhĩ trái ở bệnh nhân suy thận mạn tính",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 18 số 4 năm 2023, tr.19-25",
+            "published_date": "2023"
+        },
+        {
+            "title": "Kinh nghiệm can thiệp thân chung động mạch vành trái tại Bệnh viện Trung ương Quân đội 108",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108, ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 18 số 4 năm 2023, tr.163-168",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Đặc điểm siêu âm tim đánh dấu mô nhĩ trái ở bệnh nhân tăng huyết áp có rung nhĩ cơn",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 527 số 1B năm 2023, tr.218-222",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Đánh giá chỉ số sức căng thất trái bằng siêu âm tim đánh dấu mô ở bệnh nhân suy tim có tổn thương thận",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 532 số 2 tháng 11 năm 2023, tr.227-232",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Successful chemotherapy treatment for a tricuspid valvular stenosis patient due to right ventricular lymphoma. (https://www.ejcrim.com/index.php/EJCRIM/article/view/4451/3908)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Journal of case reports in internal medicine. ISSN: 22842594",
+            "journal_ranking": "Scopus Q3, H index 17 SJR 2023 0.26",
+            "citation_count": 0,
+            "volume_issue_pages": "EJCRIM 2024;11:doi:10.12890/2024_004451",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Norepinephrine and Dobutamine induced dynamic left ventricular outflow tract obstruction caused. (https://www.journalmc.org/index.php/JMC/article/view/4204/3573).",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Medical Cases. ISSN-print: 1923-4155 ISSN-online: 1923-4163",
+            "journal_ranking": "Scopus Q4, H index 6. SJR 2023 0.2",
+            "citation_count": 0,
+            "volume_issue_pages": "Print ISSN: 19234155 OnlineISSN 19234163",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Outcomes of Endovenous laser ablation using a 1470-Nm for treatment of incompetent great saphenous veins: real-world data. (https://dergipark.org.tr/en/downloa d/article-file/3799301)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Experimental and Clinical Medicine (JECM). ISSN: 13094483 e-ISSN: 13095129",
+            "journal_ranking": "Scopus Q4, H index 9, SJR 2023 0.13",
+            "citation_count": 0,
+            "volume_issue_pages": "ISSN 13094483 e-ISSN 13095129",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Khảo sát sức căng nhĩ trái ở bệnh nhân suy tim có phân suất tống máu ≥40% bằng siêu âm tim đánh dấu mô",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tim mạch học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 108/ tháng 2/2024. Tr.53-60",
+            "published_date": "2024"
+        },
+        {
+            "title": "Kinh nghiệm bước đầu thực hiện kĩ thuật và kết quả ngắn hạn can thiệp cấy van động mạch chủ qua ống thông tại Bệnh viện TƯQĐ 108",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 536 số 1B năm 2024, tr.159-163",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu chỉ số tương hợp thất phải – động mạch phổi bằng siêu âm tim trước và sau phẫu thuật van ở bệnh nhân hở van hai lá thực thế",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19 số 2 năm 2024, tr.114-118",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Khảo sát tỉ lệ đạt LDL-C mục tiêu theo khuyến cáo ở bệnh nhân nhồi máu cơ tim cấp điều trị tại Bệnh viện Trung ương Quân đội 108",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19 số 2 năm 2024, tr.32-37",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Role of right ventricular – pulmonary artery coupling in patients with heart failure with reduced ejection fraction",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tạp chí Y học Việt Nam, số 1 (tiếng Anh), năm 2024, tr.65-70",
+            "published_date": "5/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu biến đổi vận động xoắn của thất trái bằng siêu âm tim đánh dấu mô ở bệnh nhân suy tim mạn tính",
+            "role": "Principal Investigator",
+            "project_code": "675/QĐ-BV108",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2013-2014",
+            "acceptance_date": "14/04/2014",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu mối liên quan giữa một số chỉ số hình thái và chức năng nhĩ trái bằng siêu âm tim đánh dấu mô với chỉ số NT-proBNP ở bệnh nhân suy tim có EF bảo tồn",
+            "role": "Principal Investigator",
+            "project_code": "5913/QĐ-BV108",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2020-2022",
+            "acceptance_date": "30/5/2022",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Rung nhĩ từ lý thuyết đến thực hành",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2021",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1(tr.29-39),2 (tr.40-55),3 (tr.56-70),4 (tr.71-85), 8 (tr.244-267)",
+            "verification_document_id": "Số:329/VNC-HLĐT Ngày 30/10/2023"
+        },
+        {
+            "title": "Điện tim đồ từ lý thuyết đến thực hành",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2023",
+            "num_authors": 8,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương II (tr.28-41), IV (tr.42-67), VII (119-169), XII(tr.317-335)",
+            "verification_document_id": "Số:329/VNC-HLĐT Ngày 30/10/2023"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

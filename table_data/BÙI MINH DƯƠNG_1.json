@@ -1,0 +1,490 @@
+{
+    "papers": [
+        {
+            "title": "Energy gathering by micro turbines for low voltage appliances",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "World congress on Sustainable Technologies (west-2012)",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 6,
+            "volume_issue_pages": "",
+            "published_date": "03/2013"
+        },
+        {
+            "title": "Micro wind turbines for energy gathering in build up areas",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Sustainable Energy Development (IJSED)",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 10,
+            "volume_issue_pages": "2, 2, 105-114",
+            "published_date": "12/2013"
+        },
+        {
+            "title": "Investigate dynamic and transient characteristics for islanded/grid-connected operation modes of microgrid and develop a fast-scalable-adaptable fault protection algorithm",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "12th IET International Conference on Developments in Power System Protection (DPSP 2014)",
+            "journal_ranking": "",
+            "citation_count": 7,
+            "volume_issue_pages": "",
+            "published_date": "07/2014"
+        },
+        {
+            "title": "Installation on a community-sized dc microgrid system and suggestion on a dc short-circuit test procedure",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "2014 China International Conference on Electricity Distribution (CICED)",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Review on protection coordination strategies and development of an effective protection coordination system for DC microgrid",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "2014 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)",
+            "journal_ranking": "",
+            "citation_count": 89,
+            "volume_issue_pages": "",
+            "published_date": "03/2015"
+        },
+        {
+            "title": "A fast computing algorithm for microgrid fault protection system using communication-assisted digital relays and initially experimental results",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "7th International Conference on Information and Automation for Sustainability",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "",
+            "published_date": "03/2015"
+        },
+        {
+            "title": "Investigate dynamic and transient characteristics of microgrid operation and develop a fast-scalable-adaptable algorithm for fault protection system",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electric Power Systems Research",
+            "journal_ranking": "ISI - SCIE IF: 3.9, Q1",
+            "citation_count": 46,
+            "volume_issue_pages": "120 214-233",
+            "published_date": "03/2015"
+        },
+        {
+            "title": "A generalised fault protection structure for unigrounded low-voltage AC microgrids",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "2015 IEEE Innovative Smart Grid Technologies-Asia (ISGT ASIA)",
+            "journal_ranking": "",
+            "citation_count": 7,
+            "volume_issue_pages": "",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Fault protection solutions appropriately used for ungrounded low-voltage AC microgrids",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "2015 IEEE Innovative Smart Grid Technologies-Asia (ISGT ASIA)",
+            "journal_ranking": "",
+            "citation_count": 9,
+            "volume_issue_pages": "",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Investigate Transient Behaviours and Select Appropriate Fault Protection Solutions of Uni-grounded AC Microgrids",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Electrical Systems",
+            "journal_ranking": "ISI-Scopus - ESCI IF: Q4",
+            "citation_count": 1,
+            "volume_issue_pages": "12, 1, 102-120",
+            "published_date": "02/2016"
+        },
+        {
+            "title": "A generalised fault protection structure proposed for uni-grounded low-voltage AC microgrids",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Emerging Electric Power Systems",
+            "journal_ranking": "ISI-Scopus - ESCI IF: Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "17, 2, 69-89",
+            "published_date": "02/2016"
+        },
+        {
+            "title": "A novel fault protection system using communication-assisted digital relays for AC microgrids having a multiple grounding system",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical Power & Energy Systems",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 5.2, Q1",
+            "citation_count": 35,
+            "volume_issue_pages": "78 600-625",
+            "published_date": "06/2016"
+        },
+        {
+            "title": "Standards commonly used for microgrids—a research project to develop an industry microgrid standard in Taiwan",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electric power components and systems",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 1.5, Q3",
+            "citation_count": 12,
+            "volume_issue_pages": "44, 19, 2143-2160",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "A simplified and automated fault current estimation approach for grid-connected low-voltage AC microgrids",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "2016 World Congress on Sustainable Technologies (WCST)",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Simplified and automated fault-current calculation for fault protection system of grid-connected low-voltage AC microgrids",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Emerging Electric Power Systems",
+            "journal_ranking": "ISI-Scopus - ESCI IF: Q3",
+            "citation_count": 19,
+            "volume_issue_pages": "18, 2, 20170011",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Investigation on transient behaviours of a uni-grounded low-voltage AC microgrid and evaluation on its available fault protection methods: Review and proposals",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Renewable and Sustainable Energy Reviews",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 15.9, Q1",
+            "citation_count": 26,
+            "volume_issue_pages": "75 1417-1452",
+            "published_date": "08/2017"
+        },
+        {
+            "title": "Fault protection solutions appropriately proposed for ungrounded low-voltage AC microgrids: Review and proposals",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Renewable and Sustainable Energy Reviews",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 15.9, Q1",
+            "citation_count": 33,
+            "volume_issue_pages": "75 1156-1174",
+            "published_date": "08/2017"
+        },
+        {
+            "title": "The Fault Detection, Location, Isolation and Service Restoration Research for a Smart Distribution Network",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNUHCM Journal of Engineering and Technology",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 1,
+            "volume_issue_pages": "2, 1, 11-21",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Impact of dynamic operation on reliability of an aggregate battery energy storage system",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "Simulation on power-flow dispatching cases for Microgrid with PVS and battery energy storage system",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNUHCM Journal of Engineering and Technology",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 2,
+            "volume_issue_pages": "3, 163-178",
+            "published_date": "01/2020"
+        },
+        {
+            "title": "Applying statistical analysis for assessing the reliability of input data to improve the quality of short-term load forecasting for a Ho Chi Minh City distribution network",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNUHCM Journal of Engineering and Technology",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 5,
+            "volume_issue_pages": "2, 4, 223-239",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "Accuracy improvement of various short-term load forecasting models by a novel and unified statistical data-filtering method",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Green Energy",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 3.3, Q2",
+            "citation_count": 15,
+            "volume_issue_pages": "17, 7, 382-406",
+            "published_date": "05/2020"
+        },
+        {
+            "title": "Short-Term Load Forecasting Enhanced With Statistical Data-Filtering Method",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "2020 IEEE International Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE2020)",
+            "journal_ranking": "",
+            "citation_count": 8,
+            "volume_issue_pages": "",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "Reliability Evaluation of an Aggregate Battery Energy Storage System Under Dynamic Operation",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "2020 IEEE International Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE2020)",
+            "journal_ranking": "",
+            "citation_count": 9,
+            "volume_issue_pages": "",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "Reliability evaluation of an aggregate battery energy storage system in microgrids under dynamic operation",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Electrical Power & Energy Systems",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 5.2, Q1",
+            "citation_count": 50,
+            "volume_issue_pages": "118, 1057-1086",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "A Statistical Data-Filtering Method Proposed for Short-Term Load Forecasting Models",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Electrical Engineering & Technology",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 1.9, Q2",
+            "citation_count": 15,
+            "volume_issue_pages": "1947-1967",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "An assessment methodology on reliability of Aggregate Battery Energy Storage System considering dynamic operation",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNUHCM Journal of Engineering and Technology",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 3,
+            "volume_issue_pages": "2, 395-415",
+            "published_date": "08/2020"
+        },
+        {
+            "title": "A FLISR approach for distribution networks integrated distributed generators",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNUHCM Journal of Engineering and Technology",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 3,
+            "volume_issue_pages": "4, 542-557",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Dynamic and Transient Responses of a Low-Voltage DC Microgrid with Considering Multiple Battery-Supercapacitor-Based Energy Storage Configurations",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Sustainable Energy Development (IJSED)",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 9,
+            "volume_issue_pages": "1, 431-444",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Effectively Determine Confidence Intervals of Bus Voltages Served for Setting Overcurrent Relays in Distribution Networks",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "2020 IEEE International Conference on Power and Energy (PECon)",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "A proposed FLISR approach for distribution networks with distributed generators",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "2020 IEEE International Conference on Power and Energy (PECon)",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "An improved fault analysis method based on bus-voltage thresholds determination for distribution networks with distributed generators",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNUHCM Journal of Engineering and Technology",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 4,
+            "volume_issue_pages": "2, 806-834",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Study on a protection coordination approach for over-current relays in distribution generator-integrated distribution networks",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNUHCM Journal of Engineering and Technology",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 4,
+            "volume_issue_pages": "2, 782-805",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Staged fault tests to validate a fast protection system of low-voltage DC microgrids",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "MiniRos: an Autonomous UGV Robot for Education and Research",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "2021 International Conference on System Science and Engineering (ICSSE)",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "",
+            "published_date": "09/2021"
+        },
+        {
+            "title": "Staged Transient and Dynamic Operation Tests of Hybrid Energy Storage System Configurations in a Low-Voltage Direct Current Microgrid",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The World Congress on Sustainable Technologies (WCST-2021)",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 61,
+            "volume_issue_pages": "61-68",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Reliability analysis of PV generating systems in the islanded DC microgrid under dynamic and transient operation",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "IET Renewable Power Generation",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 2.6, Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "16, 5, 988-1026",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Reliability evaluation of an aggregate power conversion unit in the off-grid PV-battery-based DC microgrid from local energy communities under dynamic and transient operation",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Energy Reports",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 5.2, Q2",
+            "citation_count": 11,
+            "volume_issue_pages": "8 5688-5726",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Comparative results of applying the FDLISR method for rural and urban distribution networks with distributed generations",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Energy Reports",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 5.2, Q2",
+            "citation_count": 8,
+            "volume_issue_pages": "202-216",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Boost-converter reliability assessment for renewable-energy generation systems in a low-voltage DC microgrid",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Energy Reports",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 5.2, Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "821-835",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Reliability assessment of bidirectional power converters in battery energy storage systems of the DC microgrid",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Energy Reports",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 5.2, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "845-861",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Reliability analysis of buck converters in a household-sized low-voltage DC microgrid",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Energy Reports",
+            "journal_ranking": "ISI-Scopus - SCIE IF: 5.2, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "889-905",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Reliability Assessment of Bypass Diodes in Photovoltaic Systems Based on Accumulated Damage Calculation Models",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "2023 International Conference on Electrical, Communication and Computer Engineering (ICECCME)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Reliability Analysis of Bypass Diodes in Photovoltaic Modules by Using Different Lifetime Estimation Models",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "2023 International Conference on Electrical, Communication and Computer Engineering (ICECCME)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "An Adaptive Local Measurement-Based Fault Detection Method Proposed for Offgrid Small-Scaled Low-Voltage DC Microgrids",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "2024 International Conference on Green Energy, Computing and Sustainable Technology (GECOST)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "03/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Phát triển hệ thống bảo vệ mới cho lưới điện phân phối thông minh có xét đến sự tích hợp của những nguồn năng lượng phân tán",
+            "role": "Principal Investigator",
+            "project_code": "B2020-VGU-01",
+            "management_level": "cấp Bộ",
+            "period": "13/01/2020 đến 13/06/2022",
+            "acceptance_date": "06 tháng 10 năm 2022",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Nhập môn Ngành kỹ thuật điện",
+            "type": "Textbook",
+            "publisher": "Đại học quốc gia TP.HCM",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Nhà máy điện, trạm biến áp và bảo vệ rơ-le",
+            "type": "Reference Book",
+            "publisher": "Đại học quốc gia TP.HCM",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 7, từ trang 268 đến 347",
+            "verification_document_id": "2240/QĐ-ĐHBK"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

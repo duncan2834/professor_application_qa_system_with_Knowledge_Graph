@@ -1,0 +1,542 @@
+{
+    "papers": [
+        {
+            "title": "Nghiên cứu áp dụng phương pháp bình sai lặp để tìm kiếm các trị đo thô",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đo đạc và Bản đồ ISSN 0866-7705",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 4,
+            "volume_issue_pages": "Số 1, tr. 37-41",
+            "published_date": "2009"
+        },
+        {
+            "title": "Sự cần thiết của việc hiện đại hoá mạng lưới khống chế Trắc địa ở Việt Nam và những ưu thế cơ bản của trạm tham chiếu quan trắc liên tục CORS",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và Môi trường ISSN 1859-1477",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 100, số 14, tr. 52-53",
+            "published_date": "2010"
+        },
+        {
+            "title": "Khung và hệ quy chiếu Trái Đất",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đo đạc và Bản đồ ISSN 0866-7705",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9, tr. 43-47,53",
+            "published_date": "2011"
+        },
+        {
+            "title": "Các hệ thống định vị vệ tinh và tương lai của các máy thu GNSS",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và Môi trường ISSN 1859-1477",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 125, số 15, tr. 18-20",
+            "published_date": "2011"
+        },
+        {
+            "title": "Sử dụng phần mềm để chuyển đổi dữ liệu dạng Raster giữa hai hệ tọa độ vuông góc không gian",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và Môi trường ISSN 1859-1477",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 125, số 15, tr. 27-29",
+            "published_date": "2011"
+        },
+        {
+            "title": "Bình sai nhiều giai đoạn đối với lưới khống chế trắc địa mặt bằng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và Môi trường ISSN 1859-1477",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 155, số 21, tr. 130-132",
+            "published_date": "2012"
+        },
+        {
+            "title": "Tính chuyển tọa độ giữa các khung quy chiếu Trái đất quốc tế",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học kỹ thuật Mỏ - Địa chất ISSN 1859-1469",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 3,
+            "volume_issue_pages": "Số 41, tr. 52-56",
+            "published_date": "2013"
+        },
+        {
+            "title": "Evaluation of global gravity field models by using GNSS/leveling data: a case study in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Physical Journal Plus ISSN 2190-5444",
+            "journal_ranking": "SCIE/Scopus Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 138 (10), 953",
+            "published_date": "2023"
+        },
+        {
+            "title": "Determination of the accuracy of leveling route based on GNSS/leveling and Earth gravitational model data SGG-UGM-2 at some typical regions in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Mining Institute ISSN 2411-3336 e-ISSN 2541-9404",
+            "journal_ranking": "ESCI/Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 265, p. 34-44",
+            "published_date": "2024"
+        },
+        {
+            "title": "Crustal movement model in the ITRF2020 - A case study in Northern Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Mining Institute ISSN 2411-3336; e-ISSN 2541-9404",
+            "journal_ranking": "ESCI/Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 271, p. 120-130",
+            "published_date": "2025"
+        },
+        {
+            "title": "Correction of global elevation data SRTM to the national elevation system in the territory of Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Australian Journal of Earth Sciences ISSN 0812-0099; eISSN 1440-0952",
+            "journal_ranking": "SCIE/Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.72 (1), p. 108-117",
+            "published_date": "2025"
+        },
+        {
+            "title": "Nghiên cứu xác định bán kính vùng lấy tích phân hợp lý để tính ảnh hưởng của địa hình trong dị thường trọng lực khu vực Đắc Lắc - Lâm Đồng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và Môi trường ISSN 1859-1477",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 214, số 8, tr. 19-21",
+            "published_date": "2015"
+        },
+        {
+            "title": "Phân loại đối tượng chiết tách lớp phủ bề mặt tại khu vực công viên địa chất Non Nước Cao Bằng dựa trên nền tảng điện toán đám mây",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường ISSN 0866-7608",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 3,
+            "volume_issue_pages": "Số 31, tr. 65-75",
+            "published_date": "2020"
+        },
+        {
+            "title": "Độ chính xác của tuyến thủy chuẩn",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường ISSN 0866-7608",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số. 41, tr. 133-144",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu giải pháp tự động hóa kiểm tra mâu thuẫn dữ liệu địa hình thủy văn",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường ISSN 0866-7608",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 42, tr. 34-43",
+            "published_date": "2022"
+        },
+        {
+            "title": "Improving the accuracy in processing GNSS data based on precise ephemeris",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science on Natural Resources and Environment ISSN 0866-7608",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 43, p. 16-27",
+            "published_date": "2022"
+        },
+        {
+            "title": "Dữ liệu GNSS CORS quốc gia và lịch vệ tinh chính xác trong xây dựng lưới khống chế mặt bằng phục vụ cho công tác trắc địa công trình",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường ISSN 0866-7608",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 44, tr. 21-31",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá độ chính xác của mô hình EGM2008, EIGEN-6C4 và SGG-UGM-2 dựa trên số liệu trọng lực chi tiết tại khu vực đồng bằng sông Hồng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường ISSN 0866-7608",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 46, tr. 3-13",
+            "published_date": "2023"
+        },
+        {
+            "title": "Xác định độ chính xác của mô hình trường trọng lực toàn cầu SGG-UGM-2 khu vực miền Nam Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đo đạc và Bản đồ ISSN 2734-9292",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 56, tr. 9-16",
+            "published_date": "2023"
+        },
+        {
+            "title": "Study of the urban heat island intensity using Landsat 8 in Da Nang in 2020",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Mining and Earth Sciences ISSN 1859-1469",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 64(3), p. 79-89",
+            "published_date": "2023"
+        },
+        {
+            "title": "Evaluating of the accuracy of the DTU22MDT mean dynamic topography model based on the tidal gauge data in Vietnam's coastal areas",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Marine Science and Technology ISSN 1859-3097; e-ISSN 2815-5904",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 24(2), p. 117-125",
+            "published_date": "2024"
+        },
+        {
+            "title": "Xây dựng bình đồ ảnh trực giao bằng công nghệ LiDAR kết hợp chụp ảnh số tại sân bay Tân Sơn",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Mining and Earth Sciences ISSN 1859-1469",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 65, số 5, tr. 61-72",
+            "published_date": "2024"
+        },
+        {
+            "title": "Standardization of the elevation in the AW3D30 global digital elevation model to the Vietnamese national vertical datum: An experiment in Ninh Binh province and surrounding areas",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Hydro-Meteorology ISSN 2525-2208",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 23, p. 22-35",
+            "published_date": "2025"
+        },
+        {
+            "title": "GPS/GLONASS mixed data processing",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "International conference Geo-spatial Technologies and Earth Resources (GTER 2017) ISBN 978-604-913-618-4",
+            "journal_ranking": "International Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "P. 159-166",
+            "published_date": "2017"
+        },
+        {
+            "title": "Forest change in Hoa Binh – Viet Nam using remote sensing and GIS",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International conference Geo-spatial Technologies and Earth Resources (GTER 2017) ISBN 978-604-913-618-4",
+            "journal_ranking": "International Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "P. 811-825",
+            "published_date": "2017"
+        },
+        {
+            "title": "Building the quasigeoid model in the Northeast region of Vietnam for transferring from ellipsoid height to normal height",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International conference Technology in natural disaster prevention and risk reduction ISBN 978-604-357-070-0",
+            "journal_ranking": "International Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "P. 10-19",
+            "published_date": "2022"
+        },
+        {
+            "title": "Surface Displacement Monitoring Utilizing Sentinel-1 Time Series Images and Levelling Survey Data in Hanoi's Inner City",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "In International Conference on Geoinformatics for Spatial-Infrastructure Development in Earth & Allied Sciences ISBN 978-3-031-70999-9",
+            "journal_ranking": "International Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "P. 226-244",
+            "published_date": "2023"
+        },
+        {
+            "title": "Xác định vận tốc chuyển dịch tuyệt đối trong khung quy chiếu Trái Đất quốc tế ITRF2014",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo \"Ứng dụng GIS toàn quốc 2016\" với chủ đề \"Vì một trái đất bền vững\" ISBN 978-604-912-659-8",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 93-99",
+            "published_date": "2016"
+        },
+        {
+            "title": "Thời gian cần thiết cập nhật tọa độ mới cho lưới GNSS CORS quốc gia ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo \"Ứng dụng GIS toàn quốc 2016\" với chủ đề \"Vì một trái đất bền vững\" ISBN 978-604-912-659-8",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 117-122",
+            "published_date": "2016"
+        },
+        {
+            "title": "Kiểm tra chất lượng số liệu đo GPS/GLONASS",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo \"Ứng dụng GIS toàn quốc 2017\" chủ đề \"An ninh nguồn nước và biến đổi khí hậu\" ISBN 978-604-913-652-8",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 855-862",
+            "published_date": "2017"
+        },
+        {
+            "title": "Ứng dụng lưới GNSS CORS trong xây dựng lưới khống chế ảnh",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo \"Ứng dụng GIS toàn quốc 2017\" chủ đề \"An ninh nguồn nước và biến đổi khí hậu\" ISBN 978-604-913-652-8",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 863-873",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nâng cao độ chính xác xây dựng mô hình Quasigeoid cục bộ bằng số liệu địa hình - Thực nghiệm đối với khu vực Tây Bắc",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo \"Ứng dụng GIS toàn quốc 2017\" chủ đề \"An ninh nguồn nước và biến đổi khí hậu\" ISBN 978-604-913-652-8",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 901-909",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khảo sát độ chính xác tọa độ và độ cao theo số lượng trạm tham chiếu hoạt động liên tục GNSS CORS",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học địa lý toàn quốc lần thứ 10 chủ đề “Khoa học Địa lý Việt Nam với liên kết vùng cho phát triển bền vững\" ISBN 978-604-913-694-8",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 1350-1359",
+            "published_date": "2018"
+        },
+        {
+            "title": "Xử lý số liệu hỗn hợp GPS/GLONASS/BeiDou",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo ứng dụng GIS toàn quốc 2018 chủ đề \"Hướng tới đô thị thông minh\" ISBN 978-604-60-2842-0",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 77-84",
+            "published_date": "2018"
+        },
+        {
+            "title": "Độ chính xác vị trí điểm GNSS theo thời gian ca đo khi lưới kết nối với các trạm GNSS CORS quốc gia",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo ứng dụng GIS toàn quốc 2018 chủ đề \"Hướng tới đô thị thông minh\" ISBN 978-604-60-2842-0",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 259-266",
+            "published_date": "2018"
+        },
+        {
+            "title": "Xây dựng cơ sở dữ liệu công viên địa chất toàn cầu Đồng Văn, Hà Giang",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo ứng dụng GIS toàn quốc 2019 chủ đề \"Phục hồi rừng và cảnh quan hướng đến phát triển bền vững\" ISBN 978-604-60-2482-8",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 1-12",
+            "published_date": "2019"
+        },
+        {
+            "title": "Độ chính xác dị thường độ cao mô hình trọng trường toàn cầu GECO trên khu vực Tây Nguyên, Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo ứng dụng GIS toàn quốc 2019 chủ đề \"Phục hồi rừng và cảnh quan hướng đến phát triển bền vững\" ISBN 978-604-60-2482-8",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 13-22",
+            "published_date": "2019"
+        },
+        {
+            "title": "Đánh giá độ chính xác mô hình trọng trường toàn cầu GAO2012 trên lãnh thổ Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học địa lý toàn quốc năm 2019 chủ đề \"Khoa học Địa lý Việt Nam phục vụ phát triển bền vững trong thời kỳ cách mạng công nghiệp 4.0\" ISBN 978-604-9822-64-3",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 2, tr. 926-939",
+            "published_date": "2019"
+        },
+        {
+            "title": "Chuyển đổi RINEX phiên bản 2.11 sang phiên bản 3.01",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học địa lý toàn quốc năm 2019 chủ đề \"Khoa học Địa lý Việt Nam phục vụ phát triển bền vững trong thời kỳ cách mạng công nghiệp 4.0\" ISBN 978-604-9822-66-7",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, tr. 762-771",
+            "published_date": "2019"
+        },
+        {
+            "title": "Xử lý số liệu hỗn hợp của hệ thống vệ tinh dẫn đường toàn cầu và hệ thống vệ tinh dẫn đường khu vực",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học địa lý toàn quốc năm 2019 chủ đề \"Khoa học Địa lý Việt Nam phục vụ phát triển bền vững trong thời kỳ cách mạng công nghiệp 4.0\" ISBN 978-604-9822-66-7",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, tr. 772-781",
+            "published_date": "2019"
+        },
+        {
+            "title": "Xử lý số liệu định vị vệ tinh theo phương pháp định vị điểm chính xác",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học địa chất biển toàn quốc lần thứ 3 ISBN 978-604-913-905-5",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 269-278",
+            "published_date": "2019"
+        },
+        {
+            "title": "Xây dựng mô hình dị thường độ cao khu vực Tây Bắc, Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học quốc gia quản lý Tài nguyên, môi trường và phát triển bền vững vùng Tây Bắc, Việt Nam ISBN 978-604-9955-91-1",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 238-246",
+            "published_date": "2020"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Sử dụng số liệu địa hình để nâng cao độ chính xác dữ liệu của thể trọng trường trên phạm vi lãnh thổ Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "TNMT.07.40",
+            "management_level": "Bộ Tài nguyên và Môi trường",
+            "period": "2013-2015",
+            "acceptance_date": "14/11/2015",
+            "rating": "Xếp loại đạt"
+        },
+        {
+            "title": "Nghiên cứu thiết lập hàm vận tốc chuyển dịch tuyệt đối vỏ Trái đất trên lãnh thổ Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "13.01.16.0.01",
+            "management_level": "Bộ Tài nguyên và Môi trường",
+            "period": "2016",
+            "acceptance_date": "29/11/2016",
+            "rating": "Xếp loại xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu đánh giá và quản lý chất lượng số liệu đo của hệ thống vệ tinh dẫn đường toàn cầu",
+            "role": "Principal Investigator",
+            "project_code": "13.01.17.0.02",
+            "management_level": "Bộ Tài nguyên và Môi trường",
+            "period": "2017-2018",
+            "acceptance_date": "04/5/2018",
+            "rating": "Xếp loại xuất sắc"
+        },
+        {
+            "title": "Xử lý số liệu hỗn hợp của hệ thống vệ tinh dẫn đường toàn cầu",
+            "role": "Principal Investigator",
+            "project_code": "13.01.19.0.05",
+            "management_level": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "period": "2019",
+            "acceptance_date": "20/12/2019",
+            "rating": "Xếp loại xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu cơ sở khoa học xác định độ chính xác tuyến thủy chuẩn dựa trên dữ liệu GNSS/thủy chuẩn và mô hình trọng trường toàn cầu",
+            "role": "Principal Investigator",
+            "project_code": "13.01.22.0.02",
+            "management_level": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "period": "2022",
+            "acceptance_date": "02/11/2022",
+            "rating": "Xếp loại xuất sắc"
+        },
+        {
+            "title": "Đánh giá độ chính xác trọng lực của mô hình trường trọng lực toàn cầu SGG-UGM-2 khu vực miền Nam Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "13.01.23.0.01",
+            "management_level": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "period": "2023",
+            "acceptance_date": "26/10/2023",
+            "rating": "Xếp loại xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Lý thuyết sai số",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Lao động",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr. 154-223",
+            "verification_document_id": "Số 4685/QĐ-TĐHHN, ngày 30/11/2022"
+        },
+        {
+            "title": "Xử lý số liệu trắc địa",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Lao động",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr. 7-80",
+            "verification_document_id": "Số 377/QĐ-TĐHHN, ngày 10/02/2023"
+        },
+        {
+            "title": "Ứng dụng công nghệ GNSS trong thành lập và hiệu chỉnh bản đồ",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Lao động",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr. 20-9; 62-79; 139-155",
+            "verification_document_id": "Số 147/QĐ-TĐHHN, ngày 16/01/2023"
+        },
+        {
+            "title": "Hệ quy chiếu trắc địa",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc gia Hà Nội",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Tr. 1-145",
+            "verification_document_id": "Số 6309/QĐ-TĐHHN, ngày 24/12/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Kỹ thuật Trắc địa - Bản đồ",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số 1316/QĐ-TĐHHN, của Hiệu trưởng Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "certifying_authority": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "implementation_document_id": "Quyết định số 1963/QĐ-TĐHHN của Hiệu trưởng Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "notes": ""
+        },
+        {
+            "title": "Kỹ thuật Trắc địa - Bản đồ Trình độ đại học",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số 1502/QĐ-TĐHHN, của Hiệu trưởng Trường Đại học Tài nguyên và Môi trường Hà Nội ngày 24 tháng 4 năm 2023 về việc thành lập các tổ soạn thảo điều chỉnh, cập nhật chương trình đào tạo trình độ đại học",
+            "certifying_authority": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "implementation_document_id": "Quyết định số 3455/QĐ-TĐHHN của Hiệu trưởng Trường Đại học Tài nguyên và Môi trường Hà Nội ngày 01 tháng 8 năm 2024 về việc ban hành chương trình đào tạo trình độ đại học hình thức chính quy ngành Kỹ thuật Trắc địa - Bản đồ",
+            "notes": ""
+        }
+    ]
+}

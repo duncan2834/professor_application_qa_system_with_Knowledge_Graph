@@ -1,0 +1,362 @@
+{
+    "papers": [
+        {
+            "title": "Risk evaluation and control of EPC hydropower construction project in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Civil, Transportation and Environment (ICCTE 2016). ISBN: 9781510823822",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "1, 206 - 215",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Ảnh hưởng Việt Nam EPC thủy điện thi công tiến độ kéo dài của thiết kế nghiên cứu rủi ro",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "中外企业家 ISSN: 1000-8772",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2, 246-248",
+            "published_date": "02/2016"
+        },
+        {
+            "title": "Procurement Risk and Evaluation Control of EPC Hydropower Construction Project in Viet nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "GAK Gummi Fasern Kunststoffe ISSN: 0176-1625",
+            "journal_ranking": "Scopus (IF=0.102, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "69, 2148-2158",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Research on delay risks of EPC hydropower construction projects in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Power and Energy Engineering ISSN: 2327-5901",
+            "journal_ranking": "",
+            "citation_count": 21,
+            "volume_issue_pages": "4, 9-16",
+            "published_date": "04/2016"
+        },
+        {
+            "title": "Research on quality risk of EPC hydropower projects in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "World Journal of Engineering and Technology ISSN: 2331-4249",
+            "journal_ranking": "",
+            "citation_count": 9,
+            "volume_issue_pages": "5, 299-308",
+            "published_date": "05/2017"
+        },
+        {
+            "title": "Research on Delay Risks Identification and Control in the Construction Progress of EPC Hydropower Projects in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Boletín Técnico ISSN: 0376-723X",
+            "journal_ranking": "Scopus (IF=0.101, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "55, 610 - 623",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Evaluating and classifying the impact of individual risk on the delayed EPC hydropower projects in the developing countries of Asia",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Risk Assessment and Management ISSN:1741-5241",
+            "journal_ranking": "Scopus (IF=0.147, Q4)",
+            "citation_count": 2,
+            "volume_issue_pages": "22, 170-194",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Prediction of Flash Flood Susceptibility of Hilly Terrain Using Deep Neural Network:",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Computer Modeling in Engineering & Sciences",
+            "journal_ranking": "SCI (IF=2.2, Q3)",
+            "citation_count": 1,
+            "volume_issue_pages": "135(3), 2219-2241",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "A hybrid model for predicting the axial compression capacity of square concrete-filled steel tubular columns",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering with Computers ISSN: 14355663, 01770667",
+            "journal_ranking": "SCIE (IF=8.047, Q1)",
+            "citation_count": 56,
+            "volume_issue_pages": "38, 1205-1222",
+            "published_date": "07/2020"
+        },
+        {
+            "title": "A cluster-based data splitting method for small sample and class imbalance problems in impact damage classification",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Soft Computing ISSN:15684946",
+            "journal_ranking": "SCIE (IF=9.028, Q1)",
+            "citation_count": 20,
+            "volume_issue_pages": "120, 1-17",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "Flood risk mapping and analysis using an integrated framework of machine learning models and analytic hierarchy process",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Risk Analysis ISSN: 0272-4332; 1539-6924",
+            "journal_ranking": "SCI (IF=4.302, Q2)",
+            "citation_count": 8,
+            "volume_issue_pages": "9",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "Patch loading resistance prediction of steel plate girders using a deep artificial neural network and an interior-point algorith",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Steel and Composite Structures ISSN:12299367",
+            "journal_ranking": "SCI (IF= 4.55, Q1)",
+            "citation_count": 12,
+            "volume_issue_pages": "45, 159",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "A machine learning approach in spatial predicting of landslides and flash flood susceptible zones for a road network",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Modeling Earth Systems and Environment ISSN: 23636203, 23636211",
+            "journal_ranking": "SCI (IF=3.899, Q2)",
+            "citation_count": 12,
+            "volume_issue_pages": "8, 4341-4357",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Tối ưu đa mục tiêu giàn thép phi tuyến có biến thiết kế liên tục",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí KHCN xây dựng ISSN: 1859-1566",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4, 18-24",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Ứng dụng thuật toán học máy LightGBM cho bài toán hồi quy ước lượng khả năng chịu tải của giàn thép sử dụng phân tích trực tiếp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí xây dựng ISSN: 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1, 110-113",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Tối ưu giàn thép phi tuyến xét đến độ tin cậy sử dụng kết hợp thuật toán LPSS-EIS và tiến hóa vi phân cải tiến",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí xây dựng ISSN: 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1, 146-149",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Ứng dụng thuật toán LPSS-EIS trong tính toán xác suất hư hỏng của kết cấu giàn thép sử dụng phân tích trực tiếp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí xây dựng ISSN: 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2, 80-83",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Nghiên cứu, đánh giá và kiểm soát rủi ro khi thực hiện xây dựng các công trình nhà dân dụng sử dụng vốn ngân sách trên địa bàn tỉnh Sơn La",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Vật liệu & Xây dựng ISSN 1859-381X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3, 60-66",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Tối ưu đa mục tiêu giàn thép với biến thiết kế rời rạc sử dụng phân tích trực tiếp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Vật liệu & Xây dựng ISSN 1859-381X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13(1), 64-67",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Nghiên cứu bài toán tối ưu đa mục tiêu khung thép sử dụng phân tích trực tiếp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí xây dựng ISSN: 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1, 86-89",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Mô phỏng số khung thép không gian chịu lửa đều",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, ĐHXDHN. ISSN: 2734-9489",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17 (2V): 61-77",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Thiết kế tối ưu giàn thép chịu tải trọng động đất sử dụng phân tích trực tiếp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí xây dựng ISSN: 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1, 116-119",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Research on Anti-Separation and Anti-Overturning of concrete block structures of spillway with a protruding head during construction",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering, HUCE ISSN: 1859-2996",
+            "journal_ranking": "ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "17 (2): 182-194",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Giám sát và quản lý rủi ro vận hành các dự án thủy điện vừa và nhỏ ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Vật liệu & Xây dựng ISSN 1859-381X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13(2), 63-69",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Urban flood risk assessment using Sentinel-1 on the google earth engine: A case study in Thai Nguyen city, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Remote Sensing Applications: Society and Environment ISSN: 2352-9385",
+            "journal_ranking": "SCI (IF= 5.07, Q1)",
+            "citation_count": 5,
+            "volume_issue_pages": "31, 100987",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Stochastic nonlinear inelastic analysis for steel frame structure using Monte Carlo sampling\"",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Ain Shams Engineering Journal. ISSN: 2090-4495",
+            "journal_ranking": "SCI, (IF= 6.00, Q1)",
+            "citation_count": 1,
+            "volume_issue_pages": "14(11), 102527",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Ứng dụng cọc xi măng đất (CDM) kết hợp với lưới địa kỹ thuật để gia cố mái dốc đất đắp trên nền đất yếu để giảm thiểu rủi ro trượt lở đất",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí xây dựng,. ISSN: 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1(2), 111-113",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Một số giải pháp ứng phó sửa chữa kịp thời đê biển loại gia cố bờ bị hư hỏng trong mưa bão ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Vật liệu & Xây dựng ISSN 1859-381X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14, 65-68",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Ứng dụng bê tông đầm lăn làm đê biển",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Vật liệu & Xây dựng ISSN 1859-381X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14(02), 158-162",
+            "published_date": "04/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Ứng dụng trí tuệ nhân tạo trong việc dự đoán khả năng chịu lực dọc trục của cột thép nhồi bê tông",
+            "role": "Principal Investigator",
+            "project_code": "33-2019/KHXD-TĐ (trọng điểm)",
+            "management_level": "University Level",
+            "period": "1/2019-12/2021",
+            "acceptance_date": "16/12/2021",
+            "rating": "Good"
+        },
+        {
+            "title": "Giám sát và quản lý rủi ro vận hành các dự án thủy điện vừa và nhỏ ở Việt nam",
+            "role": "Principal Investigator",
+            "project_code": "35-2022/KHXD",
+            "management_level": "University Level",
+            "period": "3/2022-4/2023",
+            "acceptance_date": "28/03/2023",
+            "rating": "Good"
+        }
+    ],
+    "books": [
+        {
+            "title": "Kinh tế tài chính dự án Điện tái tạo",
+            "type": "Textbook",
+            "publisher": "NXB Xây dựng",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương V và chương VI (từ trang 121 đến trang 163) trên tổng số 211 trang",
+            "verification_document_id": "Quyết định xuất bản số 79-2022/QĐ-XBXD ngày 20/5/2022. Nộp lưu chiểu quí IV năm 2022. ISBN: 978-604-82-6530-4"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Đề án chuyển đổi mô hình đào tạo",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 453/QĐ-ĐHXDHN ngày 29/4/2022 của Hiệu trưởng trường Đại học Xây dựng Hà Nội",
+            "certifying_authority": "Trường Đại học Xây dựng Hà Nội",
+            "implementation_document_id": "Không có",
+            "notes": "Tiểu ban Kỹ thuật Xây dựng Công trình thủy và Logistics"
+        },
+        {
+            "title": "Thẩm định chương trình đào tạo Đại học",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 922/QĐ-ĐHXDHN ngày 22/8/2022 của Hiệu trưởng trường Đại học Xây dựng Hà Nội",
+            "certifying_authority": "Trường Đại học Xây dựng Hà Nội",
+            "implementation_document_id": "Không có",
+            "notes": "Ngành Xây dựng Công trình thủy và công trình năng lượng"
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo trình độ Đại học-Ngành Quản lý dự án",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Theo Quyết định số 292/QĐ-ĐHXDHN ngày 22/8/2022 về việc thành lập Hội đồng xây dựng chương trình đào tạo trình độ đại học-ngành Quản lý Dự án",
+            "certifying_authority": "Trường Đại học Xây dựng Hà Nội",
+            "implementation_document_id": "Không có",
+            "notes": "Ngành Quản lý dự án"
+        },
+        {
+            "title": "Triển khai nghiên cứu khoa học và công nghệ",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số 152/QĐ-ĐHXDHN ngày 22/02/2022 của Hiệu trưởng trường Đại học Xây dựng Hà Nội",
+            "certifying_authority": "Trường Đại học Xây dựng Hà Nội",
+            "implementation_document_id": "Không có",
+            "notes": "Thành lập các nhóm nghiên cứu, nghiên cứu mạnh của trường Đại học Xây dựng Hà Nội"
+        }
+    ]
+}

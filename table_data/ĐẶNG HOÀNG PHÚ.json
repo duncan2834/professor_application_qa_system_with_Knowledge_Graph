@@ -1,0 +1,1285 @@
+{
+    "papers": [
+        {
+            "title": "Three new geranyl aurones from the leaves of Artocarpus altilis",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry letters ISSN: 1876-7486",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.179), Scopus (Q2)",
+            "citation_count": 20,
+            "volume_issue_pages": "5(3), 647-650",
+            "published_date": "2012"
+        },
+        {
+            "title": "Cleistanthane diterpenes from the seed of Caesalpinia sappan and their antiausterity activity against PANC-1",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Fitoterapia ISSN: 1873-6971",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.216), Scopus (Q2)",
+            "citation_count": 26,
+            "volume_issue_pages": "91, 148-153",
+            "published_date": "2013"
+        },
+        {
+            "title": "Geranyl dihydrochalcones from Artocarpus altilis and their antiausteric activity",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Planta Medica ISSN: 0032-0943",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.152), Scopus (Q1)",
+            "citation_count": 22,
+            "volume_issue_pages": "80(2/3), 193-200",
+            "published_date": "2014"
+        },
+        {
+            "title": "a-Glucosidase Inhibitors from the Stems of Embelia ribes",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Phytotherapy Research ISSN: 1099-1573",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.660), Scopus (Q2)",
+            "citation_count": 23,
+            "volume_issue_pages": "28(11), 1632-1636",
+            "published_date": "2014"
+        },
+        {
+            "title": "a-Glucosidase inhibitors from the leaves of Embelia ribes",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Fitoterapia ISSN: 1873-6971",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.408), Scopus (Q2)",
+            "citation_count": 17,
+            "volume_issue_pages": "100, 201-207",
+            "published_date": "2015"
+        },
+        {
+            "title": "Three new cassane-type furanoditerpenes from the seed of Vietnamese Caesalpinia bonducella",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry letters ISSN: 1876-7486",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.353), Scopus (Q2)",
+            "citation_count": 7,
+            "volume_issue_pages": "13, 99-102",
+            "published_date": "2015"
+        },
+        {
+            "title": "Cassane diterpenes from the seed kernels of Caesalpinia sappan",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry ISSN: 0031-9422",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 3.205), Scopus (Q1)",
+            "citation_count": 30,
+            "volume_issue_pages": "122, 286-293",
+            "published_date": "2016"
+        },
+        {
+            "title": "A New Cassane-type Diterpene from the Seed of Caesalpinia sappan",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Communications ISSN: 1555-9475",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 0.773), Scopus (Q2)",
+            "citation_count": 6,
+            "volume_issue_pages": "11(6), 723-724",
+            "published_date": "2016"
+        },
+        {
+            "title": "Anti-cholinesterases and memory improving effects of Vietnamese Xylia xylocarpa",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemistry Central Journal ISSN: 1752-153X",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.442), Scopus (Q2)",
+            "citation_count": 16,
+            "volume_issue_pages": "10, 48",
+            "published_date": "2016"
+        },
+        {
+            "title": "Design and synthesis of chalcone derivatives as potential non-purine xanthine oxidase inhibitors",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "SpringerPlus ISSN: 2193-1801",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.130), Scopus (Q1)",
+            "citation_count": 25,
+            "volume_issue_pages": "5, 1789",
+            "published_date": "2016"
+        },
+        {
+            "title": "Constituents of the Rhizomes of Boesenbergia pandurata and Their Antiausterity Activities",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Natural Products ISSN: 1520-6025",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 3.885), Scopus (Q1)",
+            "citation_count": 34,
+            "volume_issue_pages": "80(1), 141-148",
+            "published_date": "2017"
+        },
+        {
+            "title": "Two acridones and two coumarins from the roots of Paramignya trimera",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tetrahedron Letters ISSN: 1873-3581",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.125), Scopus (Q2)",
+            "citation_count": 18,
+            "volume_issue_pages": "58(16), 1553-1557",
+            "published_date": "2017"
+        },
+        {
+            "title": "a-Glucosidase Inhibitory and Cytotoxic Taxane Diterpenoids from the Stem Bark of Taxus wallichiana",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Natural Products ISSN: 1520-6025",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 3.885), Scopus (Q1)",
+            "citation_count": 19,
+            "volume_issue_pages": "80(4), 1087-1095",
+            "published_date": "2017"
+        },
+        {
+            "title": "Moracin VN, A New Tyrosinase and Xanthine Oxidase Inhibitor from the Woods of Artocarpus heterophyllus",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Communications ISSN: 1555-9475",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 0.809), Scopus (Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "12(6), 925-927",
+            "published_date": "2017"
+        },
+        {
+            "title": "a-Glucosidase inhibitors from the stem of Mangifera reba",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tetrahedron Letters ISSN: 1873-3581",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.125), Scopus (Q2)",
+            "citation_count": 5,
+            "volume_issue_pages": "58(23), 2280-2283",
+            "published_date": "2017"
+        },
+        {
+            "title": "Lignans from the Roots of Taxus wallichiana and Their a-Glucosidase Inhibitory Activities",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Natural Products ISSN: 1520-6025",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 3.885), Scopus (Q1)",
+            "citation_count": 27,
+            "volume_issue_pages": "80(6), 1876-1882",
+            "published_date": "2017"
+        },
+        {
+            "title": "Phytochemical and cytotoxic studies on the leaves of Calotropis gigantea",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters ISSN: 1464-3405",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.442), Scopus (Q1)",
+            "citation_count": 21,
+            "volume_issue_pages": "27(13), 2902-2906",
+            "published_date": "2017"
+        },
+        {
+            "title": "Quinoliniumolate and 2H-1,2,3-Triazole Derivatives from the Stems of Paramignya trimera and Their a-Glucosidase Inhibitory Activities: In Vitro and in Silico Studies",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Natural Products ISSN: 1520-6025",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 3.885), Scopus (Q1)",
+            "citation_count": 24,
+            "volume_issue_pages": "80(7), 2151-2155",
+            "published_date": "2017"
+        },
+        {
+            "title": "Three terpenoid glycosides of Centipeda minima",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry Letters ISSN: 1876-7486",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.575), Scopus (Q1)",
+            "citation_count": 7,
+            "volume_issue_pages": "21, 21-24",
+            "published_date": "2017"
+        },
+        {
+            "title": "Two ring opened oxetane taxoids containing a C-20 benzoyloxy group from the roots of Taxus wallichiana Zucc.",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tetrahedron Letters ISSN: 1873-3581",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.125), Scopus (Q2)",
+            "citation_count": 5,
+            "volume_issue_pages": "58(40), 3897-3900",
+            "published_date": "2017"
+        },
+        {
+            "title": "Artocarmins G-M, Prenylated 4-Chromenones from the Stems of Artocarpus rigida and Their Tyrosinase Inhibitory Activities",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Natural Products ISSN: 1520-6025",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 3.885), Scopus (Q1)",
+            "citation_count": 21,
+            "volume_issue_pages": "80(12), 3172-3178",
+            "published_date": "2017"
+        },
+        {
+            "title": "A New Alkenylphenol from the Propolis of Stingless Bee Trigona minor",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Communications ISSN: 1555-9475",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 0.554), Scopus (Q2)",
+            "citation_count": 10,
+            "volume_issue_pages": "13(1), 69-70",
+            "published_date": "2018"
+        },
+        {
+            "title": "A New 20-Deoxypseudojujubogenin Glycoside from Bacopa monniera",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry of Natural Compounds ISSN: 1573-8388",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 0.567), Scopus (Q3)",
+            "citation_count": 2,
+            "volume_issue_pages": "54, 124-126",
+            "published_date": "2018"
+        },
+        {
+            "title": "Paratrimerins G and H, two prenylated phenolic compounds from the stems of Paramignya trimera",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry Letters ISSN: 1876-7486",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.338), Scopus (Q2)",
+            "citation_count": 10,
+            "volume_issue_pages": "23, 78-82",
+            "published_date": "2018"
+        },
+        {
+            "title": "A New Compound from the Rhizomes of Boesenbergia pandurata",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Communications ISSN: 1555-9475",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 0.554), Scopus (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "13(6), 739-740",
+            "published_date": "2018"
+        },
+        {
+            "title": "A new bischromanone from the stems of Semecarpus caudata",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.999), Scopus (Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "32(15), 1745-1750",
+            "published_date": "2018"
+        },
+        {
+            "title": "A new lactam 28-norlimonoid from the leaves of Azadirachta indica A Juss Meliaceae",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.158), Scopus (Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "33(13), 1903-1908",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nimbandiolactone-21 and nimbandioloxyfuran, two new 28-norlimonoids from the leaves of Azadirachta indica (Meliaceae)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Asian Natural Products Research ISSN: 1477-2213",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.345), Scopus (Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "21(9), 867-872",
+            "published_date": "2019"
+        },
+        {
+            "title": "A new dimeric alkylresorcinol from the stem barks of Swintonia floribunda (Anacardiaceae)",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.158), Scopus (Q2)",
+            "citation_count": 5,
+            "volume_issue_pages": "33(20), 2883-2889",
+            "published_date": "2019"
+        },
+        {
+            "title": "Chemical constituents from the stems of Semecarpus caudata",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceeding of International workshop 2019 on Trade and Science-Technology Development in the Mekong Delta in the Context of International Integration ISBN: 978-604-965-263-9",
+            "journal_ranking": "Kỷ yếu hội nghị Quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "538-543",
+            "published_date": "2019"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học cao chloroform của rễ cây Xáo tam phân Paramignya trimera (Oliver) Burkill - họ Cam chanh (Rutaceae)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu hội nghị hóa học toàn quốc lần thứ 8 “Hóa học Việt Nam vì sự phát triển bền vững” ISBN: 978-604-913-964-2",
+            "journal_ranking": "Kỷ yếu hội nghị Quốc gia",
+            "citation_count": 0,
+            "volume_issue_pages": "109-112",
+            "published_date": "2019"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học cao etyl axetat của cây Rau đắng biển (Bacopa monniera (L.) Wettst) họ Mã đề (Plantaginaceae) (Phần II)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 0866-7174",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "50(4A), 238-241",
+            "published_date": "2012"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học của vỏ quả Tô mộc (Caesalpinia sappan) họ Caesalpiniaceae",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 0866-7174",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "50(4A), 242-245",
+            "published_date": "2012"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học cao chloroform hạt cây Núc nác Oroxylum indicum (L.) Vent.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 0866-7174",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "50(4A), 270-272",
+            "published_date": "2012"
+        },
+        {
+            "title": "Khảo sát hoạt tính ức chế NO và thành phần hóa học của vỏ thân cây Bằng lăng Lagerstroemia speciosa L. họ Tử vi (Lythraceae)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 0866-7174",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "50(5A), 361-364",
+            "published_date": "2012"
+        },
+        {
+            "title": "The α-glucosidase inhibitory activity of phenolic compounds from ethyl acetate extract of the leaves of Mimosa pigra L. (Fabaceae)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 0866-7174",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "50(5A), 365-368",
+            "published_date": "2012"
+        },
+        {
+            "title": "Taxane diterpenoid from the heart woods of Taxus wallichiana (Taxaceae)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ ISSN: 0866-708X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "51(5B), 233-237",
+            "published_date": "2013"
+        },
+        {
+            "title": "Chemical constituents from the roots of Taxus wallichiana (Taxaceae)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ ISSN: 0866-708X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "51(5B), 195-199",
+            "published_date": "2013"
+        },
+        {
+            "title": "Các diarylheptanoid và flavone từ hạt cây Nam hoàng bá (Oroxylum indicum L., Vent) Họ Chùm ớt (Bignoniaceae)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 0866-7174",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "51(6ABC), 156-159",
+            "published_date": "2013"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học của lá cây Trường sinh Kalanchoe pinnata L. (Crassulaceae)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ: Chuyên san Khoa học Tự nhiên ISSN: 1859-0128",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "16(T2), 47-52",
+            "published_date": "2013"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học cao chloroform của quả Dứa dại (Pandanus kaida Kurz.) họ Dứa dại (Pandanaceae) (Phần I)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý, và Sinh học ISSN: 0868-3224",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "18(4), 154-158",
+            "published_date": "2013"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học của lá cây Thông đỏ Taxus wallichiana Zucc. họ Thông đỏ (Taxaceae)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học ISSN: 0868-3224",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "18(4), 159-163",
+            "published_date": "2013"
+        },
+        {
+            "title": "Taxane diterpenoids from the roots of Taxus wallichiana",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ ISSN: 0866-708X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "52(5A), 208-213",
+            "published_date": "2014"
+        },
+        {
+            "title": "Các hợp chất prenyl flavonoid từ rễ cây Dâu tằm Morus alba L. (Moraceae)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ ISSN: 0866-708X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "52(1C), 167-172",
+            "published_date": "2014"
+        },
+        {
+            "title": "Chiết xuất và tinh chế acid gallic từ lá cây Mai dương (Mimosa pigra L.) họ Đậu (Fabaceae)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh ISSN: 1859-1779",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "S19(3), 15-21",
+            "published_date": "2015"
+        },
+        {
+            "title": "Chemical constituents from the chloroform extract of the root of Calotropis gigantea (Linn.), Asclepidaceae",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học ISSN: 0868-3224",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "20(4), 368-372",
+            "published_date": "2015"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học cao chloroform của thân cây Xáo tam phân Paramignya trimera (Oliver) Burkill họ Rutaceae",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học ISSN: 0868-3224",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "20(4), 297-302",
+            "published_date": "2015"
+        },
+        {
+            "title": "Xanthones, flavonoids and chalcone from the root of Calotropis gigantea (Linn.) (Asclepidaceae)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ ISSN: 0866-708X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "53(4C), 196-201",
+            "published_date": "2015"
+        },
+        {
+            "title": "Oxetane-type taxanes from the roots of Taxus wallichiana Zucc. (Taxaceae)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ ISSN: 0866-708X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "54(2B), 45-49",
+            "published_date": "2016"
+        },
+        {
+            "title": "Synthesis of morachalcone A",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 2525-2321",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "55(3e), 71-75",
+            "published_date": "2017"
+        },
+        {
+            "title": "Chemical constituents of the leaves of Calotropis gigantea (Linn.), Asclepidaceae",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 2525-2321",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "55(3e), 76-79",
+            "published_date": "2017"
+        },
+        {
+            "title": "Chemical constituents and tyrosinase inhibitory activity of the stem of Semecarpus caudata Pierre. (Anacardiaceae)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 2525-2321",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "55(3e), 80-83",
+            "published_date": "2017"
+        },
+        {
+            "title": "Study on a-glucosidase inhibitory activity of the medicinal plants from Phu Yen province",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 2525-2321",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "55(3e), 89-91",
+            "published_date": "2017"
+        },
+        {
+            "title": "Study on tyrosinase inhibitory activity of medicinal plants in Ma Da forest - Dong Nai",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 2525-2321",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "55(3e), 103-106",
+            "published_date": "2017"
+        },
+        {
+            "title": "Lupeol derivatives isolated from the stems of Willughbeia cochinchinensis",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 2525-2321",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "55(3e), 129-133",
+            "published_date": "2017"
+        },
+        {
+            "title": "Study on α-glucosidase inhibitory activity of the medicinal plants from Dong Nai province",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 0866-7174",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "55(5E3, 4), 537-540",
+            "published_date": "2017"
+        },
+        {
+            "title": "Chemical constituents of the woods from Crateva adansonii DC. Vent (Capparaceae)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 0866-7174",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "55(5E3, 4), 541-544",
+            "published_date": "2017"
+        },
+        {
+            "title": "Hợp chất triterpene được phân lập từ thân cây Guồi đỏ (Willughbeia cochinchinensis)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ: Chuyên san Khoa học Tự nhiên ISSNonline: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "20(T5), 137-142",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học cao ethyl acetate và n-butanol của thân cây Chay sáng (Buchanania lucida Blume), họ Đào lộn hột (Anacardiaceae)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ: Chuyên san Khoa học Tự nhiên ISSNonline: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "20(T5), 167-171",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khảo sát thành phần hóa học của vỏ thân cây Xuân thôn nhiều hoa (Swintonia floribunda Griff.),họ Đào lộn hột (Anacardiaceae)",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ: Chuyên san Khoa học Tự nhiên ISSNonline: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "21(T1), 71-75",
+            "published_date": "2018"
+        },
+        {
+            "title": "Chemical constituents and alpha-glucosidase inhibitory activity of Vernonia amygdalina Del. (Asteraceae) leaves",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học ISSN: 0866-7174",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "57(4E3, 4), 385-389",
+            "published_date": "2019"
+        },
+        {
+            "title": "Lupan-type triterpenoids from the stems of Salacia chinensis L. (Celastraceae) and their α-glucosidase inhibitory activities",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry ISSNonline: 2572-8288",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "57(4), 433-437",
+            "published_date": "2019"
+        },
+        {
+            "title": "Chemical constituents from methanolic extract of Solanum procumbens Lour (Solanaceae)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science, Technology and Engineering ISSNonline: 2615-9937",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "61(3), 9-11",
+            "published_date": "2019"
+        },
+        {
+            "title": "Flavonoids from the stem barks of Swintonia griffithii Kurz (Anacadiaceae) and their tyrosinase inhibitory activities",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry ISSNonline: 2572-8288",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "57(5), 581-584",
+            "published_date": "2019"
+        },
+        {
+            "title": "Chemical constituents of the ethyl acetate extract from the leaf of mugwort (Artemisia vulgaris L.)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science & Technology Development Journal ISSNonline: 1859-0128",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "22(4), 352-355",
+            "published_date": "2019"
+        },
+        {
+            "title": "Chemical constituents and the inhibition of α-glucosidase of Gynura procumbens (Lour.) Merr.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science & Technology Development Journal ISSNonline: 1859-0128",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "22(4), 391-399",
+            "published_date": "2019"
+        },
+        {
+            "title": "Calosides A-F, Cardenolides from Calotropis gigantea and Their Cytotoxic Activity",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Natural Products ISSN: 1520-6025",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 4.050), Scopus (Q1)",
+            "citation_count": 14,
+            "volume_issue_pages": "83(2), 385-391",
+            "published_date": "2020"
+        },
+        {
+            "title": "A survey on acid hydrolysis in analyzing the monosaccharide composition of exopolysaccharide from Ophiocordyceps sinensis",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Agricultural Technology ISSN: 2630-0192",
+            "journal_ranking": "Tạp chí quốc tế uy tín Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "16(3), 619-628",
+            "published_date": "2020"
+        },
+        {
+            "title": "Synthesis of alkyl triphenylphosphonium ostruthin derivatives as potential cytotoxic candidates",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "ChemistrySelect ISSN: 2365-6549",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.109), Scopus (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "5(41), 12636-12640",
+            "published_date": "2020"
+        },
+        {
+            "title": "Two new meroterpenoids from the aerial parts of Ampelopsis cantoniensis (Vitaceae)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Asian Natural Products Research ISSN: 1477-2213",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.571), Scopus (Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "22(12), 1152-1158",
+            "published_date": "2020"
+        },
+        {
+            "title": "Diarylalkanoids as potent tyrosinase inhibitors from the stems of Semecarpus caudata",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Evidence-Based Complementary and Alternative Medicine ISSN: 1741-4288",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.650), Scopus (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "2021, 8872920",
+            "published_date": "2021"
+        },
+        {
+            "title": "α-Conidendrin inhibits the expression of intercellular adhesion molecule-1 induced by tumor necrosis factor-α in human lung adenocarcinoma A549 cells",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "European Journal of Pharmacology ISSN: 1879-0712",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 5.195), Scopus (Q1)",
+            "citation_count": 4,
+            "volume_issue_pages": "890, 173651",
+            "published_date": "2021"
+        },
+        {
+            "title": "Decumbic anhydride from the stem barks of Swintonia floribunda (Anacardiaceae)",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Zeitschrift für Naturforschung C-A Journal of Biosciences ISSN: 1865-7125",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.885), Scopus (Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "76(1-2), 49-53",
+            "published_date": "2021"
+        },
+        {
+            "title": "Panduratins Q-Y, dimeric metabolites from Boesenbergia rotunda and their antiausterity activities against the PANC-1 human pancreatic cancer cell line",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry ISSN: 1873-3700",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 4.004), Scopus (Q1)",
+            "citation_count": 7,
+            "volume_issue_pages": "183, 112646",
+            "published_date": "2021"
+        },
+        {
+            "title": "A new cardenolide glycoside from the roots of Streptocaulon juventas (lour.) merr. (Asclepiadaceae)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.488), Scopus (Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "35(7), 1192-1198",
+            "published_date": "2021"
+        },
+        {
+            "title": "A new lignan from the flowers of Hibiscus sabdariffa L. (Malvaceae)",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.488), Scopus (Q2)",
+            "citation_count": 5,
+            "volume_issue_pages": "35(13), 2218-2223",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tyrosinase Inhibitors from the Stems of Streblus ilicifolius",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Evidence-Based Complementary and Alternative Medicine ISSN: 1741-4288",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.650), Scopus (Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "2021, 5561176",
+            "published_date": "2021"
+        },
+        {
+            "title": "A new phenolic acid from the wood of Mangifera gedebe",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.488), Scopus (Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "35(15), 2579-2582",
+            "published_date": "2021"
+        },
+        {
+            "title": "Biological Evaluation of Alkyl Triphenylphosphonium Ostruthin Derivatives as Potential Anti-Inflammatory Agents Targeting the Nuclear Factor KB Signaling Pathway in Human Lung Adenocarcinoma A549 Cells",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "BioChem ISSN: 2673-6411",
+            "journal_ranking": "Tạp chí quốc tế khác thuộc DOAJ",
+            "citation_count": 0,
+            "volume_issue_pages": "1(2), 107-121",
+            "published_date": "2021"
+        },
+        {
+            "title": "Pipercyclobutanamide D, a new member of the cyclobutanamide-type alkaloid, from the roots of Piper nigrum",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Asian Natural Products Research ISSN: 1477-2213",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 1.610), Scopus (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "23(9), 906-912",
+            "published_date": "2021"
+        },
+        {
+            "title": "A new furanochromone from the leaves of Mimosa pigra",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.488), Scopus (Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "35(21), 3963-3969",
+            "published_date": "2021"
+        },
+        {
+            "title": "A new phenylheptanoid from the leaves of Gnetum gnemon L.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.488), Scopus (Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "35(21), 3999-4004",
+            "published_date": "2021"
+        },
+        {
+            "title": "Paratrimerin I, cytotoxic acridone alkaloid from the roots of Paramignya trimera",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.488), Scopus (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "35(23), 5042-5047",
+            "published_date": "2021"
+        },
+        {
+            "title": "A new cytotoxic cardenolide from the roots of Calotropis gigantea",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.488), Scopus (Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "35(23), 5096-5101",
+            "published_date": "2021"
+        },
+        {
+            "title": "Identification of lovastatin analogs-producing Pleurotus cultivars in southern Vietnam",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Agricultural Technology ISSN: 2630-0192",
+            "journal_ranking": "Tạp chí quốc tế uy tín Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "18(1), 231-240",
+            "published_date": "2022"
+        },
+        {
+            "title": "Two new sesquiterpenes from the stems of Miliusa velutina",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.2), Scopus (Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "36(2), 553-559",
+            "published_date": "2022"
+        },
+        {
+            "title": "A new flavanone derivative from the rhizomes of Boesenbergia pandurata",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.2), Scopus (Q2)",
+            "citation_count": 9,
+            "volume_issue_pages": "36(8), 1959-1965",
+            "published_date": "2022"
+        },
+        {
+            "title": "A new diphenylheptanoid from the rhizomes of Curcuma zedoaria",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Zeitschrift für Naturforschung C-A Journal of Biosciences ISSN: 1865-7125",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.0), Scopus (Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "77(5-6), 219-223",
+            "published_date": "2022"
+        },
+        {
+            "title": "A New Dimeric Lignan from the Stems of Willughbeia edulis",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Sciences ISSN: 2288-9027",
+            "journal_ranking": "Tạp chí quốc tế uy tín Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "28(2), 53-57",
+            "published_date": "2022"
+        },
+        {
+            "title": "A new lignan from the stems of Buchanania lucida Blume (Anacardiaceae)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.2), Scopus (Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "36(14), 3737-3740",
+            "published_date": "2022"
+        },
+        {
+            "title": "A new 7',9-epoxylignan from the stems of Salacia chinensis",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.2), Scopus (Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "36(15), 4026-4030",
+            "published_date": "2022"
+        },
+        {
+            "title": "Two new derivatives of 8-prenyl-5,7-dihydroxycoumarin from the stems of Streblus ilicifolius (S.Vidal) Corn",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.2), Scopus (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "36(19), 4967-4972",
+            "published_date": "2022"
+        },
+        {
+            "title": "A new 8,3'-neolignan from Solanum procumbens Lour",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.2), Scopus (Q2)",
+            "citation_count": 5,
+            "volume_issue_pages": "36(19), 5081-5085",
+            "published_date": "2022"
+        },
+        {
+            "title": "δ-Tocopherol derivatives from the leaves of Muntingia calabura L.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.2), Scopus (Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "36(21), 5524-5529",
+            "published_date": "2022"
+        },
+        {
+            "title": "A New abeo-Icetexane-Type Diterpenoid from the Stem Barks of Taxus wallichiana",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry & Biodiversity ISSN: 1612-1872",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.9), Scopus (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "19(12), e202200520",
+            "published_date": "2022"
+        },
+        {
+            "title": "Taxotrophises A and B, two new polyphenols from the stems of Taxotrophis ilicifolius",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF2022 = 2.2), Scopus (Q2, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "online: 06/01/2023 DOI: 10.1080/14786419.2022.2164579",
+            "published_date": "2023"
+        },
+        {
+            "title": "Strebluses E-H, four new stilbene-like derivatives from the stems of Streblus ilicifolius",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "RSC Advances ISSN: 2046-2069",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF2022 = 3.9), Scopus (Q1, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "13(1), 570-574",
+            "published_date": "2023"
+        },
+        {
+            "title": "A new and straightforward route to synthesize novel pyrazolo [3, 4-b] pyridine-5-carboxylate scaffolds from 1, 4-dihydropyrano [2, 3-c] pyrazole-5-carbonitriles",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "RSC Advances ISSN: 2046-2069",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF2022 = 3.9), Scopus (Q1, 2023)",
+            "citation_count": 2,
+            "volume_issue_pages": "13(3), 1877-1882",
+            "published_date": "2023"
+        },
+        {
+            "title": "A new β-carboline-type alkaloid from the flowers of Calotropis gigantea (L.) W.T.Aiton",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF2022 = 2.2), Scopus (Q2, 2023)",
+            "citation_count": 1,
+            "volume_issue_pages": "online: 02/05/2023 DOI: 10.1080/14786419.2023.2208259",
+            "published_date": "2023"
+        },
+        {
+            "title": "Anonazepine, a new alkaloid from the leaves of Annona muricata (Annonaceae)",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Zeitschrift für Naturforschung C-A Journal of Biosciences ISSN: 1865-7125",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF2022 = 2.0), Scopus (Q3, 2023)",
+            "citation_count": 1,
+            "volume_issue_pages": "78(5-6), 247-251",
+            "published_date": "2023"
+        },
+        {
+            "title": "A novel diphenylbutenoid-type compound from the rhizomes of Zingiber montanum (J.Koenig) Link ex A.Dietr. (Zingiberaceae)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF2022 = 2.2), Scopus (Q2, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "online: 05/07/2023 DOI: 10.1080/14786419.2023.2230343",
+            "published_date": "2023"
+        },
+        {
+            "title": "Evaluating phenolic compounds and antioxidant activity of the pericarps and seed coats extracts of Macadamia integrifolia and preparing their nanoemulsions",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Chemical and Biochemical Sciences ISSN: 2226-9614",
+            "journal_ranking": "Tạp chí quốc tế uy tín Scopus (Q4, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "24(4), 215-223",
+            "published_date": "2023"
+        },
+        {
+            "title": "Chemical properties and inhibitory activities of tyrosinase, α-glucosidase, and urease from chloroform extract of Curcuma aromatica Salisb. rhizomes",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry ISSN: 2572-8288",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (ESCI, IF2022 = 0.9), Scopus (Q3, 2023)",
+            "citation_count": 1,
+            "volume_issue_pages": "61(S2), 60-65",
+            "published_date": "2023"
+        },
+        {
+            "title": "A new apotirucallane-type protolimonoid from the leaves of Paramignya trimera",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF2022 = 2.2), Scopus (Q2, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "online: 13/12/2023 DOI: 10.1080/14786419.2023.2293145",
+            "published_date": "2023"
+        },
+        {
+            "title": "Paratrimerin Z, an undescribed chromene derivative from the roots of Paramignya trimera",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Research ISSN: 1478-6427",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF2022 = 2.2), Scopus (Q2, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "38(2), 327-330",
+            "published_date": "2023"
+        },
+        {
+            "title": "In vitro skin protection effects of sulfated exopolysaccharide fragment derived from the cultivation of Ophiocordyceps sinensis",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Agricultural Technology ISSN: 2630-0192",
+            "journal_ranking": "Tạp chí quốc tế uy tín Scopus (Q3, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "20(1), 133-144",
+            "published_date": "2024"
+        },
+        {
+            "title": "Chemical constituents of the leaves of Taxus wallichiana (Taxaceae)",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry ISSN: 2572-8288",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (ESCI, IF2022 = 0.9), Scopus (Q3, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "62(1), 37-42",
+            "published_date": "2024"
+        },
+        {
+            "title": "Design, Synthesis, Cytotoxic Evaluation, and Molecular Docking of New Alkyl Triphenylphosphonium Curcumin Derivatives",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "ChemistrySelect ISSN: 2365-6549",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF = 2.1), Scopus (Q3, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "9(10), e202400176",
+            "published_date": "2024"
+        },
+        {
+            "title": "Discovery of Alkyl Triphenylphosphonium Pinostrobin Derivatives as Potent Anti-Breast Cancer Agents",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry & Biodiversity ISSN: 1612-1872",
+            "journal_ranking": "Tạp chí quốc tế uy tín ISI (SCIE, IF2022 = 2.9), Scopus (Q2, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "online: 08/06/2024, e202400864 DOI: 10.1002/cbdv.202400864",
+            "published_date": "2024"
+        },
+        {
+            "title": "Studying on cytotoxic activity of ethyl acetate extracts and isolated substances from cultured Isaria cicadae F0004 in Vietnam against the MCF-7 cell lines and Jurkat cell lines",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "IOP Conference Series: Earth and Environmental Science ISSN: 1755-1315 The 5th International Conference on Chemical Engineering, Food and Biotechnology, ICCFB 2021",
+            "journal_ranking": "Báo cáo khoa học quốc tế trong kỷ yếu thuộc danh mục Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "947, 012037",
+            "published_date": "2021"
+        },
+        {
+            "title": "The chemical constituents, biological activities, quality control, and perspective product of Boesenbergia pandurata in Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 7th analytica Vietnam Conference",
+            "journal_ranking": "International Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "37-44",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá độc tính cấp và tác động hạ đường huyết của cao NLC (Neem, Lô hội, Chóc máu) trên chuột nhắt trắng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh ISSN: 1859-1779",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "S24(4), 211-217",
+            "published_date": "2020"
+        },
+        {
+            "title": "A comparison between Hydrochloric acid and Trifluoroacetic acid in hydrolysis method of exopolysaccharide from Ophiocordyceps sinensis in Monosaccharide composition analysis by GC-FID",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ho Chi Minh City Open University Journal of Science ISSN: 1859-3453",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "10(1), 29-36",
+            "published_date": "2020"
+        },
+        {
+            "title": "Thành phần hoá học của thân cây Mà cá (Buchanania lucida Blume)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học ISSN: 0868-3224",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "26(3A), 72-77",
+            "published_date": "2021"
+        },
+        {
+            "title": "Thành phần hóa học và hoạt tính ức chế enzyme α-glucosidase của cây cà gai leo (Solanum procumbens)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ-Khoa học Tự nhiên ISSN: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "5(3), 1326-1333",
+            "published_date": "2021"
+        },
+        {
+            "title": "Thành phần hóa học và hoạt tính ức chế enzyme α-glucosidase của thân cây Chóp mao (Salacia chinensis L.)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ-Khoa học Tự nhiên ISSN: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "5(3), 1422-1428",
+            "published_date": "2021"
+        },
+        {
+            "title": "Thành phần hóa học và hoạt tính ức chế enzyme α-glucosidase của cây Thâu kén cái (Helicteres hirsute Lour) họ Cẩm quỳ (Malvaceae)",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ-Khoa học Tự nhiên ISSN: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "6(3), 2281-2286",
+            "published_date": "2022"
+        },
+        {
+            "title": "Các hợp chất olean triterpenoid được phân lập từ thân cây Chóp mao (Salacia chinensis L.) họ Dây gối (Celastraceae) và hoạt tính ức chế α-glucosidase",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ-Khoa học Tự nhiên ISSN: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "6(4), 2401-2407",
+            "published_date": "2022"
+        },
+        {
+            "title": "Các hợp chất lignan từ quả cây Dứa dại (Pandanus kaida Kurz.), họ Dứa dại (Pandanaceae) và hoạt tính ức chế enzyme α-glucosidase",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ-Khoa học Tự nhiên ISSN: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "6(4), 2408-2414",
+            "published_date": "2022"
+        },
+        {
+            "title": "Độc tính cấp và tác dụng giảm đau chống viêm trên thực nghiệm của lá cây mãng cầu xiêm (Annona muricata L.)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược cổ truyền Việt Nam ISSN: 2354-1334",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "47(1), 10-16",
+            "published_date": "2023"
+        },
+        {
+            "title": "Độc tính cấp và tác dụng giảm đau, chống viêm của xáo tam phân (Paramignya trimera Oliv.) trên động vật thực nghiệm",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược cổ truyền Việt Nam ISSN: 2354-1334",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "47(1), 23-29",
+            "published_date": "2023"
+        },
+        {
+            "title": "Các hợp chất khung pyrrole từ hoa cây bồng bồng (Calotropis gigantea)",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ-Khoa học Tự nhiên ISSN: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "7(2), 2642-2647",
+            "published_date": "2023"
+        },
+        {
+            "title": "Các hợp chất flavonoid từ lá cây xáo tam phân (Paramignya trimera) họ Cam quýt (Rutaceae)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học và công nghệ-Khoa học Tự nhiên ISSN: 2588-106X",
+            "journal_ranking": "Tạp chí quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "7(3), 2669-2674",
+            "published_date": "2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Khảo sát thành phần hoá học của hạt cây Nam Hoàng Bá (Oroxylum indicum L., vent) họ Chùm ớt (Bignoniaceae)",
+            "role": "Principal Investigator",
+            "project_code": "T2013-08",
+            "management_level": "Cấp cơ sở (Trường ĐH KHTN, ĐHQG-HCM)",
+            "period": "02/2013--02/2014",
+            "acceptance_date": "15/12/2014",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xây dựng quy trình chiết xuất acid gallic từ cây Mai dương (Mimosa pigra L.) ở quy mô pilot",
+            "role": "Principal Investigator",
+            "project_code": "186/2014/HĐ-SKHCN",
+            "management_level": "Cấp Sở Khoa học Công nghệ TP. HCM",
+            "period": "11/2014--11/2015",
+            "acceptance_date": "03/11/2015",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu thành phần hóa học và hoạt tính ức chế enzyme tyrosinase của cây sưng có đuôi (Semecarpus caudata)",
+            "role": "Principal Investigator",
+            "project_code": "C2016-18-13",
+            "management_level": "Cấp ĐHQG-HCM",
+            "period": "04/2016--10/2017",
+            "acceptance_date": "13/4/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu thành phần hóa học và hoạt tính ức chế enzyme tyrosinase của cây Xoài quả cánh (Swintonia griffithii Kurz)",
+            "role": "Principal Investigator",
+            "project_code": "C2019-18-12",
+            "management_level": "Cấp ĐHQG-HCM",
+            "period": "05/2019--05/2021",
+            "acceptance_date": "03/06/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Phân tích tổng hàm lượng polyphenol, flavonoid, khả năng bắt gốc tự do DPPH của cao vỏ quả Mắc ca và nghiên cứu hệ nhũ tương nano chứa cao vỏ quả Mắc ca",
+            "role": "Principal Investigator",
+            "project_code": "T2023-28",
+            "management_level": "Cấp cơ sở (Trường ĐH KHTN, ĐHQG-HCM)",
+            "period": "04/2023--04/2024",
+            "acceptance_date": "28/11/2023",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

@@ -1,0 +1,1129 @@
+{
+    "papers": [
+        {
+            "title": "Dòng hóa và giải trình tự gen 1D của FMDV (foot and mouth disease virus) gây bệnh lỡ mồm long móng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Báo cáo khoa học, Hội nghị Công nghệ Sinh học toàn quốc, Hà Nội",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1126-1129",
+            "published_date": "2003"
+        },
+        {
+            "title": "Dòng hóa và biểu hiện gen d7 của DEV (Duck enteritis virus) gây bệnh dịch tả vịt",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Báo cáo Khoa học Hội nghị toàn quốc NCCB trong khoa học sự sống: định hướng Nông lâm nghiệp miền núi, Thái Nguyên",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "636-639",
+            "published_date": "2004"
+        },
+        {
+            "title": "Tạo dòng biểu hiện gen iap mã hóa protein p60 chủng L. monocytogenes trong E. coli",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3(3): 325-331",
+            "published_date": "2005"
+        },
+        {
+            "title": "Biểu hiện gen iap mã hóa protein p60 của Listeria monocytogenes trên bề mặt tế bào Saccharomyces cerevisiae",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4(1): 41-46",
+            "published_date": "2006"
+        },
+        {
+            "title": "Khảo sát độc lực và tính kháng nguyên của protein đột biến p60 từ Listeria monocytogenes được tạo ra từ kỹ thuật đột biến điểm định hướng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4(4): 431-438",
+            "published_date": "2006"
+        },
+        {
+            "title": "Phát triển quy trình sandwich ELISA phát hiện nhanh Listeria monocytogenes",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5(4): 411-417",
+            "published_date": "2007"
+        },
+        {
+            "title": "Tạo dòng và biểu hiện gen NS1 mã hóa protein NS1 của chủng virus cúm gia cầm A subtyp H5N1 trong Echerichia coli",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị toàn quốc Nghiên cứu cơ bản trong khoa học sự sống, Qui Nhơn",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "895-898",
+            "published_date": "2007"
+        },
+        {
+            "title": "Xây dựng quy trình ELISA phát hiện Listeria monocytogenes trong thực phẩm sử dụng kháng huyết thanh thu nhận từ kháng nguyên p60 tái tổ hợp gây đáp ứng miễn dịch trên thỏ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học toàn quốc lần 4: Hóa sinh và sinh học phân tử phục vụ, nông, sinh, y học và công nghiệp thực phẩm, Hà Nội",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "273-275",
+            "published_date": "2008"
+        },
+        {
+            "title": "Measles virus modulates dendritic cell/T cell communication at the level of plexinA1/neuropilin-1 recruitment and activity DOI: 10.1002/eji.201040847",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Journal of Immunology",
+            "journal_ranking": "SCIE (5,532, Q1)",
+            "citation_count": 21,
+            "volume_issue_pages": "41(1): 151-6",
+            "published_date": "2011"
+        },
+        {
+            "title": "Tạo dòng và biểu hiện nhân tố kích thích tạo dòng bạch cầu hạt đại thực bào hGM-CSF (human granulocyte macrophcolony stimulating factor) tái tổ hợp trên hệ thống Pichia pastoris",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "18(3): 22-29",
+            "published_date": "2013"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện và tinh sạch nhân tố tăng trưởng nguyên bào sợi 1 (FGF-1) người trong Escherichia coli",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12(4): 615-621",
+            "published_date": "2014"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện và tinh sachprotein hGM-CSF (Human Granulocyte-Macrophage Colony-Stimulating Factor) trong chu chất tế bào Escherichia coli",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17(4): 12-19",
+            "published_date": "2014"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện tinh chế và xác định hoạt tính của tác nhân kích thích tạo quân lạc đại thực bào từ chuột trong hệ thống Escherichia coli",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13(1): 47-53",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tạo dòng và biểu hiện protein hGM-CSF trên tế bào CHO-K1",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "37(1): 117-123",
+            "published_date": "2015"
+        },
+        {
+            "title": "Bước đầu thử nghiệm gắn kháng thể kháng CD3 lên hạt từ tính",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học ĐHQGHN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31(4S): 408-414",
+            "published_date": "2015"
+        },
+        {
+            "title": "Chuẩn bị và đánh giá khả năng giải phóng hGM-CSF của hạt nano chitosan",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "18(3): 62-71",
+            "published_date": "2015"
+        },
+        {
+            "title": "Điều chế và đánh giá khả năng giải phóng FGF-1 (Fibroblast Growth Factor 1) của hạt nano chitosan",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13(2A): 551-557",
+            "published_date": "2015"
+        },
+        {
+            "title": "Xây dựng quy trình thử hoạt tính protein FGF-2 tái tổ hợp trên dòng tế bào NIH-3T3",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13(2A): 559-565",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tinh chế nhân tố tăng trưởng nguyên bào sợi người tái tổ hợp từ dịch lên men quy mô một lít",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "18(1): 14-22",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện và thu nhận protein hGM-CSF tái tổ hợp từ Saccharomyces cerevisiae",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13(2A): 643-649",
+            "published_date": "2015"
+        },
+        {
+            "title": "Chuẩn bị và đánh giá khả năng giải phóng mGM-CSF của hạt nano-chitosan",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13(2A): 581-587",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện và tinh sạch protein tái tổ hợp FliC của Salmonella Enteritidis",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19(6): 62-69",
+            "published_date": "2016"
+        },
+        {
+            "title": "Tạo và thu nhận chọn lọc kháng thể IgG kháng protein màng của tế bào Jurkat T",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19(1): 26-35",
+            "published_date": "2016"
+        },
+        {
+            "title": "Cloning, expression and purification of M-cell specific binding peptide (Col) fused with GFP",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14(4): 599-604",
+            "published_date": "2016"
+        },
+        {
+            "title": "Synthesis and surface functionalization of Fe3O4-SiO2 core-shell nanoparticles with 3-glycidoxypropyltrimethoxysilane and 1,1'-carbonyldiimidazole for bio-applications DOI: 10.1016/j.colsurfa.2016.05.008",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+            "journal_ranking": "SCIE (5.518, Q2)",
+            "citation_count": 84,
+            "volume_issue_pages": "504: 376-383",
+            "published_date": "2016"
+        },
+        {
+            "title": "P. pastoris versus S. cerevisiae: a case study on the recombinant production of human granulocyte-macrophage colony-stimulating factor",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "BMC Research Notes",
+            "journal_ranking": "Scopus (2.145, Q2)",
+            "citation_count": 36,
+            "volume_issue_pages": "10:148",
+            "published_date": "2017"
+        },
+        {
+            "title": "Preparation and in vitro evaluation of FGF-2 incorporated carboxymethyl chitosan nanoparticles DOI: 10.1016/j.carbpol.2017.05.080",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Carbohydrate Polymers",
+            "journal_ranking": "SCIE (10.723, Q1)",
+            "citation_count": 26,
+            "volume_issue_pages": "173:114-120",
+            "published_date": "2017"
+        },
+        {
+            "title": "Rapid expression and purification of the Hepatitis delta virus antigen using the methylotropic yeast Pichia pastoris DOI: 10.1186/s13104-017-2692-8",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "BMC Research Notes",
+            "journal_ranking": "Scopus (2.145, Q2)",
+            "citation_count": 10,
+            "volume_issue_pages": "340",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nghiên cứu thử nghiệm bám dính của Claudin-R4 với các đoạn peptide CPE dự đoán in silico",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH Toàn quốc",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "700-706",
+            "published_date": "2018"
+        },
+        {
+            "title": "Ứng dụng chấm lượng tử CdSe/ZnS làm chất phát huỳnh quang trong đánh dấu tế bào",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2(6):57-65",
+            "published_date": "2018"
+        },
+        {
+            "title": "Bước đầu khảo sát gắn thuận nghịch protein lên chấm lượng tử CdSe/ZnS và thử ứng dụng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH Toàn quốc",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "577-582",
+            "published_date": "2018"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện, tinh sạch và đánh giá khả năng tương tác của 30 amino acid vùng đầu C của độc tố vi khuẩn Clostridium perfringens với thụ thể Claudin-4",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21(4):47-55",
+            "published_date": "2019"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện, tinh sạch peptide CPE16 gắn định hướng tế bào M có nguồn gốc từ vùng đầu C độc tố Clostridium perfringens (CPE) và thử tương tác với Claudin-R4",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3(1):29-36",
+            "published_date": "2019"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện, và tái gấp cuộn PrPC chuột dung hợp với GST",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "55(5B): 16-22",
+            "published_date": "2019"
+        },
+        {
+            "title": "Tạo và đánh giá khả năng loại bỏ tế bào Jurkat T của hạt từ miễn dịch anti-pan T",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3(2):74-81",
+            "published_date": "2019"
+        },
+        {
+            "title": "Expression, purification, and in vivo evaluation of GFP-fused M cell targeting receptor binding domain of protein FimH",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Protein and Peptide Letters",
+            "journal_ranking": "SCIE (1.927, Q3)",
+            "citation_count": 1,
+            "volume_issue_pages": "26, 1-7",
+            "published_date": "2019"
+        },
+        {
+            "title": "Tạo dòng và biểu hiện protein dung hợp LTB-STB của Enterotoxigenic Escherichia coli gây tiêu chảy trên heo con",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "56(3B): 53-59",
+            "published_date": "2020"
+        },
+        {
+            "title": "Tạo dòng và biểu hiện interleukin 2 (IL-2) người tái tổ hợp trong Escherichia coli",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "56(2B): 53-58",
+            "published_date": "2020"
+        },
+        {
+            "title": "Tạo và đánh giá mô hình chuột nhắt trắng (Swiss albino) béo phì do khẩu phần ăn giàu chất béo",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học và Công nghệ (Trường ĐH. Công nghiệp TPHCM)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "183-192",
+            "published_date": "2020"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện và thử nghiệm khả năng ngưng kết vi khuẩn Vibrio parahaemolyticus của C-type lectin từ tôm thẻ chân trắng Litopenaeus vannamei",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH toàn quốc",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42-47",
+            "published_date": "2020"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện nhân tố bám dính F18 trên bề mặt tế bào nấm men Pichia pastoris",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "56(6): 139-145",
+            "published_date": "2020"
+        },
+        {
+            "title": "Thiết kế vector biểu hiện pPICZaA mang gen MGG00245 mã hóa cho enzyme PMO",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Đại học Duy Tân",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "03(40): 59-65",
+            "published_date": "2020"
+        },
+        {
+            "title": "Cloning, expression and purification of Vibrio parahaemolyticus L-type lectin from white leg shrimp Litopenaeus vannamei for bacterial agglutinating DOI: 10.21276/SSR-IIJLS.2020.6.3.3",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "SSR Inst. Int. J. Life Sci",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6(3): 2544-2551",
+            "published_date": "2020"
+        },
+        {
+            "title": "Application of antibody-conjugated CdSe/MSA quantum dots on immunohistochemistry DOI: 10.21276/SSR-IIJLS.2020.6.2.6",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "SSR Inst. Int. J. Life Sci",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6(2): 2520-2527",
+            "published_date": "2020"
+        },
+        {
+            "title": "Effects of astaxanthin on body and liver weight of high-fat diet through regulation of peroxisome proliferator-activated receptors (PPARs) DOI: 10.21276/SSR-IIJLS.2020.6.2.4",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "SSR Inst. Int. J. Life Sci",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "6(2): 2502-2508",
+            "published_date": "2020"
+        },
+        {
+            "title": "Cloning, expression and purification of recombinant Interleukin 1 receptor antagonist (IL-1RA) in Escherichia coli DOI: 10.21276/SSR-IIJLS.2020.6.3.1",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "SSR Inst. Int. J. Life Sci",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6(3): 2528-2535",
+            "published_date": "2020"
+        },
+        {
+            "title": "FliC-delta220-320 from Salmonella Enteritidis as an adjuvant for vaccine development DOI: 10.21276/SSR-IIJLS.2020.6.2.3",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "SSR Inst. Int. J. Life Sci",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6(2): 2494-2501",
+            "published_date": "2020"
+        },
+        {
+            "title": "Cleavable, covalently linked, affinity coupling immune magnetic nanoparticles for specifically depleting T cells DOI: 10.1007/s11664-020-08415-0",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "SCIE (2.047, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "49:6510-6518",
+            "published_date": "2020"
+        },
+        {
+            "title": "Simultaneously targeting nitrocellulose and antibody by a dual-headed protein DOI: 10.1016/j.pep.2020.105764",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Protein Expression and Purification",
+            "journal_ranking": "SCIE (2.025, Q3)",
+            "citation_count": 11,
+            "volume_issue_pages": "177:105764",
+            "published_date": "2021"
+        },
+        {
+            "title": "Improving silymarin oral bioavailability using silica-installed redox nanoparticle to suppress inflammatory bowel disease DOI: 10.1016/j.jconrel.2020.10.042",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Controlled Release",
+            "journal_ranking": "SCIE (11.467, Q1)",
+            "citation_count": 46,
+            "volume_issue_pages": "331:515-524",
+            "published_date": "2021"
+        },
+        {
+            "title": "One-step preparation of protein A/G-conjugated CdSe/MSA quantum dots for ultrafast Western blot visualization DOI: 10.5958/0974-4517.2021.00003.3",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Biological Research",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "23(1):21-25",
+            "published_date": "2021"
+        },
+        {
+            "title": "Recombinant human SCARB2 expressed in Escherichia coli and its potential in Enterovirus 71 blockage DOI: 10.1007/s40995-020-01025-9",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Iranian Journal of Science and Technology, Transactions A: Science",
+            "journal_ranking": "SCIE (1.553, Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "45:455-461",
+            "published_date": "2021"
+        },
+        {
+            "title": "Generation and evaluation of polyclonal antibodies specific for ToxA from Vibrio parahaemolyticus causing Acute Hepato Pancreatic Necrosis Disease (AHPND) in shrimp DOI: 10.22099/mbrc.2020.38774.1561",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Molecular Biology Research Communications",
+            "journal_ranking": "Scopus (1,848, Q3)",
+            "citation_count": 4,
+            "volume_issue_pages": "10(1):23-32",
+            "published_date": "2021"
+        },
+        {
+            "title": "A novel PCR method for simultaneously detecting Acute hepatopancreatic Necrosis Disease (AHPND) and mutant-AHPND in shrimp DOI: 10.1016/j.aquaculture.2020.736336",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Aquaculture",
+            "journal_ranking": "SCIE (5.135, Q1)",
+            "citation_count": 4,
+            "volume_issue_pages": "534:736336",
+            "published_date": "2021"
+        },
+        {
+            "title": "Production of polyclonal antibody against the recombinant PirBvp protein of Vibrio parahaemolyticus DOI: 10.1186/s43141-021-00172-9",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Genetic Engineering and Biotechnology",
+            "journal_ranking": "Scopus (2.926, Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "19:70",
+            "published_date": "2021"
+        },
+        {
+            "title": "Extraction and evaluation of lipid entrapment ability of Ocimum basilicum L. seed mucilage DOI: 10.5530/ijper.55.3.162",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Indian Journal of Pharmaceutical Education and Research",
+            "journal_ranking": "SCIE (0.686, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "55(3):880-887",
+            "published_date": "2021"
+        },
+        {
+            "title": "Prokaryotic expression of chimeric GFP-hFc protein as a potential immune-based tool DOI: 10.22099/MBRC.2021.39728.1588",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Molecular Biology Research Communications",
+            "journal_ranking": "Scopus (1,848, Q3)",
+            "citation_count": 1,
+            "volume_issue_pages": "10(3):105-108",
+            "published_date": "2021"
+        },
+        {
+            "title": "Thực trạng bệnh hoại tử gan tụy cấp tính (AHPND) trên tôm nuôi ở một số tỉnh Tây Nam bộ",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và phát triển",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "20(2): 36-43",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tạo và đánh giá khả năng bám định hướng của protein dung hợp giữa nitrocellulose-binding anchor protein với protein A và thử ứng dụng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển KH&CN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5(4):1713-1720",
+            "published_date": "2021"
+        },
+        {
+            "title": "Third-degree burn mouse treatment using recombinant human fibroblast growth factor 2 DOI: 10.1080/08977194.2021.1967342",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Growth Factors",
+            "journal_ranking": "SCIE (2.511, Q3)",
+            "citation_count": 4,
+            "volume_issue_pages": "38(5-6):282-290",
+            "published_date": "2021"
+        },
+        {
+            "title": "Melanogenesis inhibitory effects of ethanol extract of Perilla frutescens's leaves on B16 melanoma cells DOI: 10.22037/ijps.v17.40242",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Iranian Journal of Pharmaceutical Sciences",
+            "journal_ranking": "Scopus (0.172, Q3)",
+            "citation_count": 4,
+            "volume_issue_pages": "17 (4): 65-72",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện, tái gấp cuộn, và tinh sạch protein FliC (Salmonella Enteritidis) loại bỏ vùng trình tự axit amin 220-320 từ thể vùi",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNU Journal of Science: Natural Sciences and Technology",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "39(1): 22-31",
+            "published_date": "2022"
+        },
+        {
+            "title": "Flagellin from Salmonella Enteritidis enhances the immune response of fused F18 from Enterotoxigenic Escherichia coli DOI: 10.21315/tlsr2022.33.3.2",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tropical Life Sciences Research",
+            "journal_ranking": "Scopus (1.348, Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "33(3):19-32",
+            "published_date": "2022"
+        },
+        {
+            "title": "Molecular cloning, dual expression, and complex isolation of toxA and toxB toxins causing Acute Hepatopancreatic Necrosis Disease (AHPND) in shrimp",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Applied Biological Sciences",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "16(2), 182-190",
+            "published_date": "2022"
+        },
+        {
+            "title": "Recombinase-free cloning (RFC) protocol for gene swapping DOI: 10.22099/MBRC.2021.41923.1685",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Molecular Biology Research Communications",
+            "journal_ranking": "Scopus (1.848, Q3)",
+            "citation_count": 1,
+            "volume_issue_pages": "11(1):21-27",
+            "published_date": "2022"
+        },
+        {
+            "title": "All-in-One molecular cloning as a new gene manipulation method DOI: 10.30491/JABR.2021.289097.1395",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Applied Biotechnology Reports",
+            "journal_ranking": "Scopus (1.176, Q3)",
+            "citation_count": 1,
+            "volume_issue_pages": "9(1):511-515",
+            "published_date": "2022"
+        },
+        {
+            "title": "Production and purification of polyclonal antibody against shrimp lectin LvLTLC1 DOI: 10.22034/IAR.2021.1925130.1157",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Aquatic Research",
+            "journal_ranking": "Scopus (2.258, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "13:233-240",
+            "published_date": "2022"
+        },
+        {
+            "title": "Prokaryotic expression of murine cellular prion protein for in vitro evaluation DOI: 10.54319/jjbs/150303",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Jordan Journal of Biological Sciences",
+            "journal_ranking": "Scopus (1.068, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "15(3):361-364",
+            "published_date": "2022"
+        },
+        {
+            "title": "Fabrication of lateral flow immunoassay strip for rapid detection of Acute Hepatopancreatic Necrosis Disease DOI: 10.1007/s13205-022-03311-2",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "3 Biotech",
+            "journal_ranking": "SCIE (2.965, Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "12(10):243",
+            "published_date": "2022"
+        },
+        {
+            "title": "Study on chemical compositions, antioxidants, and intracellular anti-melanogenic activities of varieties of Ganoderma lucidum in Vietnam DOI: 10.1111/ijfs.16019",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Food Science and Technology",
+            "journal_ranking": "SCIE (4.068, Q1)",
+            "citation_count": 3,
+            "volume_issue_pages": "58(8):4127-4135",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tạo peptide đầu C bám định hướng Polystyrene và thử khả năng bám",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "58(1):105-110",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện, và tinh sạch tiểu phẩn thụ thể tái tổ hợp SCARB2 của Enterovirus A71 dung hợp với foldon peptide",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "58(1):1-7",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện, và tinh sạch protein A-L2 bằng silica",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "58(1):8-13",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá khả năng tương tác của peptide Col nhắm định hướng tế bào M với thụ thể C5aR bằng phương pháp docking phân tử",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH toàn quốc 2022",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "138-143",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện, và tái gấp cuộn Toll-like receptor 22 từ cá tra Pangasianodon hypophthalmus",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH toàn quốc 2022",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "598-603",
+            "published_date": "2022"
+        },
+        {
+            "title": "Astaxanthin prevents hepatosteatosis and hyperlipidemia but not obesity in high-fat diet fed mice DOI: 10.55251/jmbfs.5950",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of microbiology, biotechnology and food sciences",
+            "journal_ranking": "ESCI (1.032, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "12(5) e5950",
+            "published_date": "2022"
+        },
+        {
+            "title": "Monitoring the secreted profile of PirAvp and PirBvp toxins from Vibrio parahaemolyticus causing acute hepatopancreatic necrosis disease DOI: 10.1007/s10499-023-01048-0",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Aquaculture International",
+            "journal_ranking": "SCIE (2.793, Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "31:1677-1684",
+            "published_date": "2022"
+        },
+        {
+            "title": "Molecular dynamics simulations reveal novel interacting regions of human prion protein to brucella abortus hsp60 protein DOI: 10.1007/s12033-023-00655-9",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Molecular Biotechnology",
+            "journal_ranking": "SCIE (3.021, Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "12:1-9",
+            "published_date": "2022"
+        },
+        {
+            "title": "A protocol for optimization of lateral flow immunoassay strip development DOI: 10.15419/bmrat.v10i1.788",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biomedical Research and Therapy.",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "10(1):1-9",
+            "published_date": "2023"
+        },
+        {
+            "title": "Establishment of pre-enrichment step and DNA extraction method for the novel PCR procedure of AHPND and mutant-AHPND detection in shrimp",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Iranian Journal of Fisheries Sciences",
+            "journal_ranking": "SCIE (1.117, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "22 (1):99-113",
+            "published_date": "2023"
+        },
+        {
+            "title": "Facilely preparing carboxymethyl chitosan/hydroxyethyl cellulose hydrogel films for protective and sustained release of fibroblast growth factor 2 to accelerate dermal tissue repair DOI: 10.1016/j.jddst.2023.104318",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Drug Delivery Science and Technology",
+            "journal_ranking": "SCIE (4.954, Q1)",
+            "citation_count": 11,
+            "volume_issue_pages": "82: 104318",
+            "published_date": "2023"
+        },
+        {
+            "title": "Generation and evaluation of gold-binding peptide fused protein A DOI: 10.54319/jjbs/160416",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Jordan Journal of Biological Sciences",
+            "journal_ranking": "Scopus (1.068, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "16(4): 699-704",
+            "published_date": "2023"
+        },
+        {
+            "title": "Recombinantly expressing M-cell-targeting Col peptide fused with VP1 of Enterovirus A71 capsid and examining its application in vivo DOI: 10.1007/s40995-023-01489-5",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Iranian Journal of Science and Technology, Transactions A: Science",
+            "journal_ranking": "SCIE (1.714, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "47: 1049-1056",
+            "published_date": "2023"
+        },
+        {
+            "title": "Investigation of variants in genetics and virulence of PED Virus (Porcine Epidemic Diarrhea) after serial passages on Vero cells DOI: 10.1016/j.jviromet.2023.114755",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Virological Methods",
+            "journal_ranking": "SCIE (2.555, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "318:114755",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện kháng nguyên F18 dung hợp peptide định hướng tế bào M",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "59(3B):79-85",
+            "published_date": "2023"
+        },
+        {
+            "title": "Characteristics and diversity of Acute Hepatopancreatic Necrosis Disease causing Vibrio parahaemolyticus in Vietnam DOI: 10.1016/j.aaf.2023.10.004",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Aquaculture and Fisheries",
+            "journal_ranking": "Scopus (3.589, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "10.1016/j.aaf.2023.10.004",
+            "published_date": "2023"
+        },
+        {
+            "title": "Effects of Ocimum basilicum mucilage on hyperlipidemia and gut microbiota on mice fed a high-fat diet DOI: 10.1016/j.bcdf.2023.100384",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bioactive Carbohydrates and Dietary Fibre",
+            "journal_ranking": "SCIE (3.615, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "30:100384",
+            "published_date": "2023"
+        },
+        {
+            "title": "Construction of L-type lectin displaying Saccharomyces cerevisiae for Vibrio parahaemolyticus agglutination DOI: 10.1007/s10123-023-00440-3",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Microbiology",
+            "journal_ranking": "SCIE (2.947, Q3)",
+            "citation_count": 1,
+            "volume_issue_pages": "10.1007/s10123-023-00440-3",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đánh giá tác động của hạt nano carboxymethyl cellulose và hydrogel carboxymethyl chitosan/hydroxyethyl cellulose kết hợp nhân tố tăng trưởng nguyên bào sợi 2 trên sự tăng sinh, di chuyển, và biệt hóa của nguyên bào sợi thành nguyên bào sợi cơ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH toàn quốc 2023",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "310-315",
+            "published_date": "2023"
+        },
+        {
+            "title": "Phân tích in silico tương tác giữa thụ thể Claudin-4 và peptide CPE17 nhắm định hướng kháng nguyên đến tế bào M",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH toàn quốc 2023",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "41-46",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tạo dòng và biểu hiện tiểu phần bám dính FedF từ tiêm mao F18 của Enterotoxigenic Escherichia coli (ETEC)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH toàn quốc 2023",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "16-20",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tạo dòng và biểu hiện nanobody F18FedF6 và đánh giá tương tác với Enterotoxigenic Escherichia coli",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH toàn quốc 2023",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9-15",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tạo dòng, biểu hiện, và tinh sạch thụ thể tái tổ hợp SCARB2 dung hợp vùng Fc của kháng thể IgG",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị CNSH toàn quốc 2023",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "388-394",
+            "published_date": "2023"
+        },
+        {
+            "title": "Preparation of fibroblast growth factor 2-incorporated carboxymethyl cellulose nanoparticles for tissue repair and regeneration DOI: 10.1007/s10570-024-05779-y",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cellulose",
+            "journal_ranking": "SCIE (5.532, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "31:2937-2956",
+            "published_date": "2024"
+        },
+        {
+            "title": "Serpin3 from Penaeus vannamei Selectively Interacts with Acute Hepatopancreatic Necrosis Disease (AHPND)-causing Vibrio parahaemolyticus PirAvp DOI: 10.1111/jfd.13935",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Fish Diseases",
+            "journal_ranking": "SCIE (2.767, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "e13935",
+            "published_date": "2024"
+        },
+        {
+            "title": "Antifungal activity against Candida albicans biofilm of Coffea robusta monofloral honey from Vietnam DOI: 10.15835/nsb16111600",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Notulae Scientia Biologicae",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "16(1):11600",
+            "published_date": "2024"
+        },
+        {
+            "title": "Surface-displayed mannanolytic and chitinolytic enzymes using peptidoglycan binding LysM domains DOI: 10.1021/acs.jafc.4c01938",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Agricultural and Food Chemistry",
+            "journal_ranking": "SCIE (5.504, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "72(22): 12655-12664",
+            "published_date": "2024"
+        },
+        {
+            "title": "Evaluating antibacterial effects of bio-synthesized silver-coated silica nanoparticles on Staphylococcus aureus and Acinetobacter baumannii DOI: 10.1007/s12668-024-01464-3",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "BioNanoScience",
+            "journal_ranking": "ESCI (3.627, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "10.1007/s12668-024-01464-3",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Bước đầu xây dựng quy trình ứng dụng hạt nano từ Fe3O4@SiO2 để loại bỏ tế bào lympho T",
+            "role": "Principal Investigator",
+            "project_code": "376/2013/HD-SKHCN",
+            "management_level": "Sở KHCN TPHCM",
+            "period": "2013-2015",
+            "acceptance_date": "08/12/2015",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Biểu hiện, tinh chế GM-CSF (granulocyte-macrophage colony stimulating factor) người tái tổ hợp từ nấm men và thử nghiệm hoạt tính in vitro",
+            "role": "Principal Investigator",
+            "project_code": "77/2013/HD-SKHCN",
+            "management_level": "Sở KHCN TPHCM",
+            "period": "2013-2015",
+            "acceptance_date": "31/8/2015",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tạo hạt FGF-nanochitosan và bước đầu thử nghiệm trên dòng nguyên bào sợi chuột",
+            "role": "Principal Investigator",
+            "project_code": "C2015-18-26",
+            "management_level": "ĐHQG-HCM loại C",
+            "period": "2015-2017",
+            "acceptance_date": "19/12/2017",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu chế tạo bộ kit đánh dấu tế bào sử dụng chấm lượng tử CdSe/ZnS",
+            "role": "Principal Investigator",
+            "project_code": "105/2017/HD-SKHCN",
+            "management_level": "Sở KHCN TPHCM",
+            "period": "2017-2020",
+            "acceptance_date": "05/3/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Thu nhận, xác định cấu trúc và đánh giá khả năng kiểm soát béo phì của chất nhầy hạt é (Ocimum basilicum Lamiaceae)",
+            "role": "Assistant",
+            "project_code": "235/2017/HD-SKHCN",
+            "management_level": "Sở KHCN TPHCM",
+            "period": "2017-2020",
+            "acceptance_date": "08/6/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu thiết kế dựa vào thuật toán tùy chỉnh và tổng hợp sinh học peptide tương tác protein tế bào M nhằm phát triển vắc xin uống",
+            "role": "Principal Investigator",
+            "project_code": "C2018-18-06",
+            "management_level": "ĐHQG-HCM loại C",
+            "period": "2017-2020",
+            "acceptance_date": "28/9/2020",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu phát triển que thử phát hiện nhanh hai độc tố Toxa và ToxB của vi khuẩn Vibrio parahaemolyticus gây bệnh hoại tử gan tụy cấp (Acute Hepatopancreatic Necrosis Disease – AHPND) trên tôm nuôi ở Tây Nam Bộ",
+            "role": "Principal Investigator",
+            "project_code": "19/2018/HĐ-KHCN-TNB.ĐT/14-19/C31",
+            "management_level": "Nhà nước",
+            "period": "2018-2021",
+            "acceptance_date": "29/6/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu phát triển hạt nano và màng mỏng hydrogel từ polymer tương hợp sinh học kết hợp nhân tố tăng trưởng nguyên bào sợi (FGF-2) ứng dụng trong điều trị bỏng trên mô hình chuột",
+            "role": "Principal Investigator",
+            "project_code": "B2021-18-01",
+            "management_level": "ĐHQG-HCM loại B",
+            "period": "2021-2024",
+            "acceptance_date": "05/3/2024",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đặc điểm và sự đa dạng của gen mã hoá độc tố từ vi khuẩn chi Vibrio gây bệnh hoại tử gan tụy cấp tính trên tôm",
+            "role": "Principal Investigator",
+            "project_code": "SH-CNSH 2022-2022-05",
+            "management_level": "Trường ĐH KHTN",
+            "period": "2022-2023",
+            "acceptance_date": "30/10/2023",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Miễn dịch học, Chức năng và các bất thường của hệ miễn dịch",
+            "type": "Textbook",
+            "publisher": "Đại học Quốc gia TPHCM",
+            "publish_year": "2015, tái bản 2019",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Quyết định chọn giáo trình giảng dạy bậc đại học số 1348/QĐ-KHTN ngày 21/6/2024, Trường ĐH. KHTN"
+        },
+        {
+            "title": "Bệnh miễn dịch và các kỹ thuật miễn dịch thông dụng",
+            "type": "Textbook",
+            "publisher": "Đại học Quốc gia TPHCM",
+            "publish_year": "2022",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Quyết định chọn giáo trình giảng dạy bậc đại học số 1348/QĐ-KHTN ngày 21/6/2024, Trường ĐH. KHTN"
+        },
+        {
+            "title": "Thực tập Miễn dịch học",
+            "type": "Textbook",
+            "publisher": "Đại học Quốc gia TPHCM",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Quyết định chọn giáo trình giảng dạy bậc đại học số 1348/QĐ-KHTN ngày 21/6/2024, Trường ĐH. KHTN"
+        },
+        {
+            "title": "Tạo các protein tái tổ hợp ứng dụng trong điều trị bệnh và xét nghiệm",
+            "type": "Monograph",
+            "publisher": "Đại học Quốc gia TPHCM",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Quyết định chọn giáo trình giảng dạy bậc đại học, sau đại học số 1442/QĐ-KHTN ngày 10/8/2023, Trường ĐH. KHTN"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo Thạc sĩ chuyên ngành Giảng dạy Sinh học thực nghiệm",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "1253/QĐ-KHTN ngày 08/10/2021 và 1808/QĐ-KHTN ngày 19/10/2022",
+            "certifying_authority": "Trường Đại học KHTN",
+            "implementation_document_id": "166/QĐ-KHTN ngày 29/01/2018 - 234/TB-KHTN ngày 05/3/2024",
+            "notes": ""
+        },
+        {
+            "title": "Cử nhân Công nghệ Sinh học Chất lượng cao",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "572/QĐ-KHTN ngày 09/4/2021 và 672/QĐ-KHTN ngày 09/5/2022",
+            "certifying_authority": "Trường Đại học KHTN",
+            "implementation_document_id": "537/QĐ-ĐHQG ngày 16/6/2017",
+            "notes": ""
+        }
+    ]
+}

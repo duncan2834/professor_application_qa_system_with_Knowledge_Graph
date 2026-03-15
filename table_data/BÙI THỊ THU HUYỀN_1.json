@@ -1,0 +1,508 @@
+{
+    "papers": [
+        {
+            "title": "Những biểu hiện rối nhiễu tâm lý của học sinh trung học cơ sở",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học /ISSN 1859-0098",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12/2007, tr.56-60",
+            "published_date": "December, 2007"
+        },
+        {
+            "title": "Sử dụng tình huống hình ảnh vào giảng dạy môn tâm lí học cho sinh viên khoa cơ bản trường đại học Sư phạm Hà Nội",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học quốc gia “Nghiên cứu, giảng dạy và ứng dụng TLH-GDH trong thời kỳ hội nhập Quốc tế” Kỷ niệm 45 năm thành lập khoa TL- GDH 1965-2010, NXB ĐHSP/ Mã số: 02.02.7/66 ĐH2010 Số đăng kí KHXB: 1036-2010/CXB/7-63/ĐHSPH, ngày 22/10/2010",
+            "journal_ranking": "Hội thảo khoa học quốc gia",
+            "citation_count": 0,
+            "volume_issue_pages": "tr.322-324",
+            "published_date": "2010"
+        },
+        {
+            "title": "Cross-sectional personality differences from age 16 - 90 in a Vietnamese sample",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Research in Personality/ ISSN 0092-6566",
+            "journal_ranking": "Tạp chí ISI (SSCI) Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 47, issue 1, 2/2013, tr.36-40",
+            "published_date": "February, 2013"
+        },
+        {
+            "title": "Trị liệu hành vi - nhận thức trong trợ giúp tâm lý cho trẻ vị thành niên có khó khăn kiểm soát cơn tức giận",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Đại học Sư phạm Hà Nội ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8B/2015, tr.122-130",
+            "published_date": "2015"
+        },
+        {
+            "title": "Phòng ngừa và can thiệp sớm - mục tiêu cơ bản của Tâm lý học trường học",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo quốc tế: Tâm lý - giáo dục trong quá trình phát triển con người Việt Nam (Kỉ niệm 50 năm thành lập khoa Tâm lý-giáo dục học 1965-2015), NXB Đại học Sư Phạm ISBN: 978-604-54-2724-8",
+            "journal_ranking": "Hội thảo khoa học quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "tr.114-120",
+            "published_date": "2015"
+        },
+        {
+            "title": "The application of six dimensional model of personality (the HEXACO model of personality) to identify main qualities of personality of high school students in Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Đại học Sư phạm Hà Nội (HNUE Journal of Science) ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 62, Iss. 12, tr.48-54",
+            "published_date": "2017"
+        },
+        {
+            "title": "Bạo hành bằng lời nói của cha mẹ với học sinh trung học cơ sở thành phố Hà Nội: Thực trạng và mức độ ảnh hưởng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tâm lý học xã hội ISSN 0866-8019",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 07-2018, tr.3-16",
+            "published_date": "July, 2018"
+        },
+        {
+            "title": "Exploring the effectiveness of the cognitive behavioral therapy for Vietnamese adolescents with anger problems",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kasetsart Journal of Social Sciences ISSN 2452-3151",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Open access, tr.1-5",
+            "published_date": "2018"
+        },
+        {
+            "title": "Aggressive behaviour and effective prevention programs for aggressive children in America and the UK - Some suggestions for Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "HNUE Journal of Science ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 63, Issue 7, tr. 89-101",
+            "published_date": "2018"
+        },
+        {
+            "title": "Ảnh hưởng của bạo hành bằng lời nói của cha mẹ với học sinh trung học cơ sở thành phố Hà Nội: nhìn từ trường hợp điển hình",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo quốc tế lần thứ 6 “Vai trò của Tâm lý học trường học trong việc đảm bảo sức khỏe tinh thần cho học sinh và gia đình\" NXB ĐH Sư phạm ISBN: 978-604-54-4471-9",
+            "journal_ranking": "Hội thảo khoa học quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "tr.679-691",
+            "published_date": "2018"
+        },
+        {
+            "title": "Năng lực thấu cảm của học sinh THCS thành phố Hà Nội",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học Xã hội ISSN 0866-8019",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tháng 8 - 2019, tr.3-12",
+            "published_date": "August, 2019"
+        },
+        {
+            "title": "Nhu cầu bồi dưỡng năng lực tư vấn tâm lý của giáo viên phổ thông hiện nay",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học, Trường Đại học Sư phạm Hà Nội ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9/2019, tr.13-24.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Enhancing psychological counselling capacity for teachers",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 1st international Conference on innovation in learning instruction and teacher Education - ILITE 1 Competency - Based learning and teacher Education ISBN 978-604-54-5848-8",
+            "journal_ranking": "Hội thảo khoa học quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "tr.727-740",
+            "published_date": "2019"
+        },
+        {
+            "title": "Thích nghi bảng hỏi hành vi gây hấn công cụ và gây hấn phản ứng trên học sinh THCS ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học ISSN 1859-0098",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tháng 5 (254), tr. 50-62",
+            "published_date": "May, 2020"
+        },
+        {
+            "title": "Sự trì hoãn học tập của sinh viên một số trường đại học trên địa bàn thành phố Hà Nội",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tâm lý học Việt Nam ISSN 0866-8019",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tháng 5/2020, tr. 45-58",
+            "published_date": "May, 2020"
+        },
+        {
+            "title": "Nhận thức của giáo viên THPT về trường học hạnh phúc",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo quốc tế “Tâm lý học, giáo dục học vì sự phát triển của học sinh và trường học hạnh phúc” tháng 10/2020 tại ĐHSPHN ISBN 978-604-54-7128-9",
+            "journal_ranking": "Hội thảo khoa học quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "tr.574-584",
+            "published_date": "2020"
+        },
+        {
+            "title": "Hành vi gây hấn công cụ và gây hấn phản ứng trên học sinh THCS ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học ISSN 1859-0098",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tháng 7 (256), tr.30-44",
+            "published_date": "July, 2020"
+        },
+        {
+            "title": "Happiness around the world: A combined etic-emic approach across 63 countries",
+            "num_authors": 139,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plos One eISSN 1932-6203",
+            "journal_ranking": "Tạp chí ISI (SCIE) Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "15(12) - December (open access) https://doi.org/10.1371/journal.pone.0242718",
+            "published_date": "2020"
+        },
+        {
+            "title": "Situational experience around the world: A replication and extension in 62 countries",
+            "num_authors": 140,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Personality ISSN 1467-6494 (online) 0022-3506 (printed)",
+            "journal_ranking": "Tạp chí ISI (SSCI) Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 88 (December), issue 6 tr.1091-1110 https://doi.org/10.1111/jopy.12558",
+            "published_date": "2020"
+        },
+        {
+            "title": "International optimism: Correlates and consequences of dispositional optimism across 61 countries",
+            "num_authors": 135,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Personality ISSN 1467-6494 (online) 0022-3506 (printed)",
+            "journal_ranking": "Tạp chí ISI (SSCI) Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 89, Issue 2, April 2020, tr. 288-304 https://doi.org/10.1111/jopy.12582",
+            "published_date": "2020"
+        },
+        {
+            "title": "Cognitive and affective empathy and its relationship to proactive and reactive aggression in Vietnamese adolescents",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of European Contemporary Education E-ISSN 2305-6746",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "10(3), tr.583-594",
+            "published_date": "2021"
+        },
+        {
+            "title": "Perceptions of the appropriate response to norm violation in 57 societies",
+            "num_authors": 88,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nature Communications ISSN 2041-1723 (online)",
+            "journal_ranking": "Tạp chí ISI (SCIE) Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "12, 1481 (2021)",
+            "published_date": "2021"
+        },
+        {
+            "title": "Who in the World is Trying to Change Their Personality Traits? Volitional Personality Change Among College Students in 56 Countries",
+            "num_authors": 56,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Personality and Social Psychology: Personality Processes and Individual Differences. ISSN: 0022-3514 eISSN: 1939-1315",
+            "journal_ranking": "Tạp chí ISI (SSCI) Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "121(5), tr. 1140-1156.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Exploring the relationship between aggression and empathy: A case study in Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Indian Association for Child and Adolescent Mental Health ISSN 0973-1342",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "17(4), tr. 6-19",
+            "published_date": "2021"
+        },
+        {
+            "title": "Trải nghiệm bất lợi thời thơ ấu và sự thấu cảm ở học sinh trung học phổ thông",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học trường ĐHSPHN ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Social Sciences, 2022, Volume 67, Issue 2, tr. 192-204",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ảnh hưởng của mạng xã hội TickTok đến thế hệ Z",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học trường ĐHSPHN ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Social Sciences, 2022, Volume 67, Issue 3, tr. 186-195",
+            "published_date": "2022"
+        },
+        {
+            "title": "Thực trạng trải nghiệm bất lợi thời thơ ấu của học sinh trung học phổ thông tại Hà Nội",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tâm lý học ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2/2023, tr.82-97",
+            "published_date": "2023"
+        },
+        {
+            "title": "Các hướng nghiên cứu về thấu cảm và một số đề xuất nhằm phát triển năng lực thấu cảm cho giáo viên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học trường ĐHSPHN ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Educational Sciences Volume 68, Issue 2, pp. 106-117",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ảnh hưởng năng lực thấu cảm của giáo viên đến mối quan hệ giữa giáo viên và học sinh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học trường ĐHSPHN ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Educational Sciences Volume 68, Issue 5, tr. 84-95",
+            "published_date": "2023"
+        },
+        {
+            "title": "Thích nghi bảng hỏi đo lường cảm xúc tức giận trên mẫu học sinh trung học ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học Việt Nam ISSN 0866-8019",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4 tháng 4-2023, tr. 3-16",
+            "published_date": "April, 2023"
+        },
+        {
+            "title": "The economic well-being of nations is associated with positive daily situational experiences",
+            "num_authors": 140,
+            "is_main_author": false,
+            "journal_name_ISSN": "Current Research in Ecological and Social Psychology Online ISSN: 2666-6227",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 4",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ảnh hưởng của Self-help đến lối sống của gen Z",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo quốc tế “Tâm lý học-giáo dục học trong bối cảnh biến đổi xã hội” Tháng 8/2023, Nhà xuất bản Dân Trí ISBN: 978-604-88-7128-4",
+            "journal_ranking": "Hội thảo quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 23-31 (phần 2)",
+            "published_date": "2023"
+        },
+        {
+            "title": "Lòng tự trọng và phức cảm tự tôn ở sinh viên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học Việt Nam ISSN 0866-8019",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12/2023; tr. 3-19",
+            "published_date": "2023"
+        },
+        {
+            "title": "Empathy competency of high school teachers.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học trường ĐHSPHN ISSN 2354-1067",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Social Sciences, 2023, Volume 68, Issue 4, pp. 153-162",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mối quan hệ giữa lòng tự trọng và đặc điểm nhân cách theo mô hình Big Five ở sinh viên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học ISSN 1859-0098",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4, tr. 61-73",
+            "published_date": "2024"
+        },
+        {
+            "title": "Sự phù hợp của thang đo Thấu cảm cơ bản trên giáo viên trung học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tâm lý học Việt Nam ISSN 0866-8019",
+            "journal_ranking": "Quốc gia uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tháng 5/2024, Tr. 4-18",
+            "published_date": "May, 2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Sử dụng tình huống hình ảnh trong dạy học môn Tâm lý học cho sinh viên khoa cơ bản trường Đại học Sư phạm Hà Nội",
+            "role": "Principal Investigator",
+            "project_code": "ĐHSP-07-126",
+            "management_level": "Đại học Sư phạm Hà Nội",
+            "period": "12 tháng",
+            "acceptance_date": "03/12/2008",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Hành vi gây hấn và kĩ năng tự chủ cảm xúc của học sinh trung học cơ sở ở Việt Nam hiện nay",
+            "role": "Principal Investigator",
+            "project_code": "501.01-2018.01/Quĩ Nafosted",
+            "management_level": "Quĩ Nafosted",
+            "period": "24 tháng",
+            "acceptance_date": "22/11/2021",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Bộ câu hỏi ôn tập và đánh giá kết quả học tập môn Tâm lý học lứa tuổi và Tâm lý học sư phạm",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Sư phạm",
+            "publish_year": "2005",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 2 (tr.33-tr.53)",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Bộ câu hỏi ôn tập và đánh giá kết quả học tập môn Tâm lý học đại cương",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Sư phạm",
+            "publish_year": "2005",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 1 (tr.11-tr23)",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Tài liệu bồi dưỡng theo tiêu chuẩn chức danh nghề nghiệp dành cho GV THPT hạng II",
+            "type": "Guide Book",
+            "publisher": "NXB Đại học sư phạm",
+            "publish_year": "2017",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chuyên đề 4 (tr.62-tr.84)",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Tài liệu bồi dưỡng theo tiêu chuẩn chức danh nghề nghiệp dành cho giảng viên hạng III",
+            "type": "Guide Book",
+            "publisher": "NXB Đại học sư phạm",
+            "publish_year": "2017",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chuyên đề 10 (tr.180-207)",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Tài liệu bồi dưỡng cho cán bộ giáo viên làm công tác tư vấn tâm lí trong trường phổ thông",
+            "type": "Reference Book",
+            "publisher": "NXB Giáo dục Việt Nam",
+            "publish_year": "2018",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chuyên đề 2 (tr.40-59)",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Hành vi gây hấn và kĩ năng tự chủ cảm xúc của học sinh trung học cơ sở",
+            "type": "Monograph",
+            "publisher": "NXB Giáo dục",
+            "publish_year": "2020",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Entire book",
+            "verification_document_id": "Số 539/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Hướng dẫn học Tâm lí học giáo dục",
+            "type": "Guide Book",
+            "publisher": "NXB Giáo dục",
+            "publish_year": "2021",
+            "num_authors": 13,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chủ đề 9 (tr.120-133)",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Xây dựng trường học hạnh phúc, thực hành đạo đức, lối sống, giáo dục nếp sống văn minh thanh lịch dành cho học sinh",
+            "type": "Reference Book",
+            "publisher": "NXB Hà Nội",
+            "publish_year": "2021",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Phần I: Trang 9-22; Phần II: Trang 133-179",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Quản lý thời gian hiệu quả, phát triển tiềm năng, định hướng nghề nghiệp dành cho học sinh",
+            "type": "Reference Book",
+            "publisher": "NXB Lao Động",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Phần III (tr.119-177)",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Bảo vệ và hỗ trợ trẻ em tương tác lành mạnh, sáng tạo trên môi trường mạng, sử dụng internet thông minh, hiệu quả và xây dựng trường học an toàn, thân thiện",
+            "type": "Reference Book",
+            "publisher": "NXB Lao động",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Phần I (tr.7-69)",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        },
+        {
+            "title": "Parenting Across Cultures: Vietnamese Parenting in the Digital Age",
+            "type": "Reference Book",
+            "publisher": "Spinger",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr. 165-174",
+            "verification_document_id": "Số 540/GCN-ĐHSPHN"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Chương trình bồi dưỡng giáo viên phổ thông cốt cán (chương trình ETEP). Mô đun 5: Tư vấn và hỗ trợ học sinh tiểu học/THCS/THPT trong hoạt động giáo dục và dạy học",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Số 4573/QĐ-ĐHSPHN ngày 12/10/2020",
+            "certifying_authority": "Bộ Giáo dục và Đào tạo, Trường Đại học Sư phạm Hà Nội",
+            "implementation_document_id": "Số 1681/ĐHSPHN-ETEP ngày 19/10/2021",
+            "notes": ""
+        }
+    ]
+}

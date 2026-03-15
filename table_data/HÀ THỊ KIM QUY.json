@@ -1,0 +1,637 @@
+{
+    "papers": [
+        {
+            "title": "Tổng hợp sáp bôi trơn sinh học (biolubricating greases) từ mỡ lợn, mỡ bò",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hóa học và Ứng dụng; ISSN 1859-4069",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "3(7), 36-40",
+            "published_date": "2011"
+        },
+        {
+            "title": "Structural modification of catfish fat based triglycerides: Synthesis of biolubricating oils",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hóa học và Ứng dụng; ISSN 1859-4069",
+            "journal_ranking": "",
+            "citation_count": 6,
+            "volume_issue_pages": "6(10), 14-18",
+            "published_date": "2011"
+        },
+        {
+            "title": "Dammarane triterpenes as potential SIRT1 activators from the leaves of Panax ginseng https://doi.org/10.1021/np5002303",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of natural products; ISSN 0163-3864",
+            "journal_ranking": "SCIE/Q1/IF=3.798",
+            "citation_count": 35,
+            "volume_issue_pages": "77, 1615-1623",
+            "published_date": "06/2014"
+        },
+        {
+            "title": "Tổng hợp dẫn xuất Benzimidazolylnaphthalene và khảo sát hoạt tính sinh học https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/1379",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Khoa học Đại học Cần Thơ; ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34:1-7",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Oleanane triterpenes from the flowers of Camellia japonica inhibit porcine epidemic diarrhea virus (PEDV) replication https://doi.org/10.1021/jm501567f",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of medicinal chemistry; ISSN 0022-2623",
+            "journal_ranking": "SCIE/Q1/IF=5.589",
+            "citation_count": 61,
+            "volume_issue_pages": "58, 1268-1280",
+            "published_date": "01/2015"
+        },
+        {
+            "title": "Three new coumarins from Saposhnikovia divaricata and their porcine epidemic diarrhea virus (PEDV) inhibitory activity https://doi.org/10.1016/j.tet.2015.04.092",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tetrahedron; ISSN 0040-4020",
+            "journal_ranking": "SCIE/Q2/IF=2.651",
+            "citation_count": 38,
+            "volume_issue_pages": "71, 4651-4658",
+            "published_date": "04/2015"
+        },
+        {
+            "title": "In vitro antituberculosis activity of diterpenoids from the Vietnamese medicinal plant Croton tonkinensis",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of natural medicines; ISSN 1340-3443",
+            "journal_ranking": "SCIE/IF=1.670",
+            "citation_count": 32,
+            "volume_issue_pages": "70, 127-132",
+            "published_date": "09/2015"
+        },
+        {
+            "title": "Jubanines F-J, cyclopeptide alkaloids from the roots of Ziziphus jujuba https://doi.org/10.1016/j.phytochem.2015.09.001",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry; ISSN 0031-9422",
+            "journal_ranking": "SCIE/Q1/IF=2.779",
+            "citation_count": 78,
+            "volume_issue_pages": "119, 90-95",
+            "published_date": "09/2015"
+        },
+        {
+            "title": "Antiviral Indolosesquiterpenoid Xiamycins C-E from a Halophilic Actinomycete https://doi.org/10.1021/acs.jnatprod.5b00634",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of natural products; ISSN 0163-3864",
+            "journal_ranking": "SCIE/Q1/IF=3.281",
+            "citation_count": 63,
+            "volume_issue_pages": "79, 51-58",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Microwave assisted synthesis and cytotoxic activity evaluations of new benzimidazole derivatives https://doi.org/10.1016/j.tetlet.2016.01.042",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tetrahedron Letters; ISSN 0040-4039",
+            "journal_ranking": "SCIE/Q2/IF=2.193",
+            "citation_count": 35,
+            "volume_issue_pages": "57, 887-891",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Discovery of inhibitory materials against PEDV corona virus from medicinal plants https://doi.org/10.14943/jjvr.64.suppl.s53",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Japanese Journal of Veterinary Research; ISSN 0047-1917",
+            "journal_ranking": "SCIE/Q2/IF=0.703",
+            "citation_count": 26,
+            "volume_issue_pages": "64, S53-S63",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Antiviral phenolics from the leaves of Cleistocalyx operculatus https://doi.org/10.1016/j.fitote.2016.03.006",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Fitoterapia; ISSN 0367-326X",
+            "journal_ranking": "SCIE/Q1/IF=2.698",
+            "citation_count": 41,
+            "volume_issue_pages": "110, 135-141",
+            "published_date": "03/2016"
+        },
+        {
+            "title": "3, 4-seco-28-Nor-oleanane triterpenes from Camellia japonica protect from neurotoxicity in a rotenone model of Parkinson's disease https://doi.org/10.1016/j.tet.2016.04.045",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tetrahedron; ISSN 0040-4020",
+            "journal_ranking": "SCIE/Q2/IF=2.651",
+            "citation_count": 5,
+            "volume_issue_pages": "72, 3240-3249",
+            "published_date": "04/2016"
+        },
+        {
+            "title": "Chemical constituents from Melicope pteleifolia leaves",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry; ISSN 0031-9422",
+            "journal_ranking": "SCIE/Q1/IF=3.205",
+            "citation_count": 31,
+            "volume_issue_pages": "130, 291-300",
+            "published_date": "06/2016"
+        },
+        {
+            "title": "Protein Tyrosine Phosphatase 1B Inhibitors from the Stems of Akebia quinata https://doi.org/10.3390/molecules21081091",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecules; ISSN 1420-3049",
+            "journal_ranking": "SCIE/Q1/IF=2.861",
+            "citation_count": 27,
+            "volume_issue_pages": "21, 1091",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "Antiviral activities of compounds from aerial parts of Salvia plebeia R. Br https://doi.org/10.1016/j.jep.2016.09.030",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of ethnopharmacology; ISSN 0378-8741",
+            "journal_ranking": "SCIE/Q1/IF=2.981",
+            "citation_count": 61,
+            "volume_issue_pages": "192, 398-405",
+            "published_date": "09/2016"
+        },
+        {
+            "title": "Anthraquinones from Morinda longissima and their insulin mimetic activities via AMP-activated protein kinase (AMPK) activation https://doi.org/10.1016/j.bmcl.2016.11.034",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & medicinal chemistry letters; ISSN 0960-894X",
+            "journal_ranking": "SCIE/Q2/IF=2.454",
+            "citation_count": 22,
+            "volume_issue_pages": "27, 40-44",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Sesquiterpenoids with various carbocyclic skeletons from the flowers of Chrysanthemum indicum https://doi.org/10.1021/acs.jnatprod.6b00694",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of natural products; ISSN 0163-3864",
+            "journal_ranking": "SCIE/Q1/IF=3.885",
+            "citation_count": 26,
+            "volume_issue_pages": "80, 298-307",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "Reserpine treatment activates AMP activated protein kinase (AMPK) https://doi.org/10.20307/nps.2017.23.3.157",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Sciences; ISSN 1226-3907",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 5,
+            "volume_issue_pages": "23(3), 157-161",
+            "published_date": "05/2017"
+        },
+        {
+            "title": "Antiviral escin derivatives from the seeds of Aesculus turbinata Blume (Japanese horse chestnut) https://doi.org/10.1016/j.bmcl.2017.05.022",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bioorganic & medicinal chemistry letters; ISSN 0960-894X",
+            "journal_ranking": "SCIE/Q2/IF=2.442",
+            "citation_count": 34,
+            "volume_issue_pages": "27, 3019-3025",
+            "published_date": "05/2017"
+        },
+        {
+            "title": "Anti-influenza effect of the major flavonoids from Salvia plebeia R. Br. via inhibition of influenza H1N1 virus neuraminidase https://doi.org/10.1080/14786419.2017.1326042",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural product research; ISSN 1478-6419",
+            "journal_ranking": "SCIE/Q3/IF=1.928",
+            "citation_count": 42,
+            "volume_issue_pages": "32(10), 1224-1228",
+            "published_date": "05/2017"
+        },
+        {
+            "title": "PTP1B inhibitors from the seeds of Iris sanguinea and their insulin mimetic activities via AMPK and ACC phosphorylation https://doi.org/10.1016/j.bmcl.2017.09.031",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bioorganic & medicinal chemistry letters; ISSN 0960-894X",
+            "journal_ranking": "SCIE/Q2/IF=2.442",
+            "citation_count": 23,
+            "volume_issue_pages": "27, 5076-5081",
+            "published_date": "09/2017"
+        },
+        {
+            "title": "C-methylated flavonoid glycosides from Pentarhizidium orientale rhizomes and their inhibitory effects on the H1N1 influenza virus https://doi.org/10.1021/acs.jnatprod.7b00677",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of natural products; ISSN 0163-3864",
+            "journal_ranking": "SCIE/Q1/IF=3.885",
+            "citation_count": 24,
+            "volume_issue_pages": "80, 2818-2824",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Polyoxygenated steroids from the sponge Clathria gombawuiensis https://doi.org/10.1021/acs.jnatprod.7b00651",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of natural products; ISSN 0163-3864",
+            "journal_ranking": "SCIE/Q1/IF=3.885",
+            "citation_count": 24,
+            "volume_issue_pages": "80, 3224-3233",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Piperlongumine activates Sirtuin1 and improves cognitive function in a murine model of Alzheimer's disease https://doi.org/10.1016/j.jff.2018.02.002",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of functional foods; ISSN 1756-4646",
+            "journal_ranking": "SCIE/Q1/IF=3.197",
+            "citation_count": 26,
+            "volume_issue_pages": "43, 103-111",
+            "published_date": "02/2018"
+        },
+        {
+            "title": "Discrimination of different geographic varieties of Gymnema sylvestre, an anti-sweet plant used for the treatment of type 2 diabetes https://doi.org/10.1016/j.phytochem.2018.02.013",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry; ISSN 0031-9422",
+            "journal_ranking": "SCIE/Q1/IF=2.905",
+            "citation_count": 30,
+            "volume_issue_pages": "150, 12-22",
+            "published_date": "03/2018"
+        },
+        {
+            "title": "Hypoglycemic triterpenes from Gynostemma pentaphyllum",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Phytochemistry; ISSN 0031-9422",
+            "journal_ranking": "SCIE/Q1/IF=2.905",
+            "citation_count": 26,
+            "volume_issue_pages": "155, 171-181",
+            "published_date": "08/2018"
+        },
+        {
+            "title": "Flavone glycosides from Sicyos angulatus and their inhibitory effects on hepatic lipid accumulation https://doi.org/10.1016/j.phytochem.2018.10.013",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry; ISSN 0031-9422",
+            "journal_ranking": "SCIE/Q1/IF=2.905",
+            "citation_count": 12,
+            "volume_issue_pages": "157, 53-63",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Insulin mimetic activity of 3, 4-Seco and Hexanordammarane triterpenoids isolated from Gynostemma longipes https://doi.org/10.1021/acs.jnatprod.8b00524",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of natural products; ISSN 0163-3864",
+            "journal_ranking": "SCIE/Q1/IF=4.257",
+            "citation_count": 15,
+            "volume_issue_pages": "81, 2470-2482",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "12, 23-Dione dammarane triterpenes from Gynostemma longipes and their muscle cell proliferation activities via activation of the AMPK pathway https://doi.org/10.1038/s41598-018-37808-9",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Scientific reports; ISSN 2045-2322",
+            "journal_ranking": "SCIE/Q1/IF=3.998",
+            "citation_count": 11,
+            "volume_issue_pages": "9, 1186",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Hydroxyoleoside-type seco-iridoids from Symplocos cochinchinensis and their insulin mimetic activity https://doi.org/10.1038/s41598-018-38013-4",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientific reports; ISSN 2045-2322",
+            "journal_ranking": "SCIE/Q1/IF=3.998",
+            "citation_count": 10,
+            "volume_issue_pages": "9, 2270",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Dereplication by High-Performance Liquid Chromatography (HPLC) with Quadrupole-Time-of-Flight Mass Spectroscopy (qTOF-MS) and antiviral activities of Phlorotannins from Ecklonia cava https://doi.org/10.3390/md17030149",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Marine drugs; ISSN 1660-3397",
+            "journal_ranking": "SCIE/Q2/IF=4.073",
+            "citation_count": 43,
+            "volume_issue_pages": "17, 149",
+            "published_date": "03/2019"
+        },
+        {
+            "title": "Prenylated phenolic compounds from the leaves of Sabia limoniacea and their antiviral activities against Porcine Epidemic Diarrhea virus https://doi.org/10.1021/acs.jnatprod.8b00435",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of natural products; ISSN 0163-3864",
+            "journal_ranking": "SCIE/Q1/IF=3.782",
+            "citation_count": 25,
+            "volume_issue_pages": "82, 702-713",
+            "published_date": "03/2019"
+        },
+        {
+            "title": "Eudesmane glycosides from Ambrosia artemisiifolia (common ragweed) as potential neuroprotective agents https://doi.org/10.1021/acs.jnatprod.8b00841",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of natural products; ISSN 0163-3864",
+            "journal_ranking": "SCIE/Q1/IF=3.782",
+            "citation_count": 15,
+            "volume_issue_pages": "82, 1128-1138",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Antiviral activities of compounds isolated from Pinus densiflora (Pine Tree) against the influenza A virus https://doi.org/10.3390/biom10050711",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biomolecules; ISSN 2218-273X",
+            "journal_ranking": "SCIE/Q2/IF=4.879",
+            "citation_count": 24,
+            "volume_issue_pages": "10(5), 711",
+            "published_date": "05/2020"
+        },
+        {
+            "title": "Antiviral activity of furanocoumarins isolated from Angelica dahurica against influenza a viruses H1N1 and H9N2 https://doi.org/10.1016/j.jep.2020.112945",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of ethnopharmacology; ISSN 0378-8741",
+            "journal_ranking": "SCIE/Q2/IF=4.360",
+            "citation_count": 43,
+            "volume_issue_pages": "259, 112945",
+            "published_date": "05/2020"
+        },
+        {
+            "title": "Neuroprotective effects of Triterpenoids from Camellia japonica against Amyloid ẞ-induced neuronal damage https://doi.org/10.1021/acs.jnatprod.9b00964",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of natural products; ISSN 0163-3864",
+            "journal_ranking": "SCIE/Q1/IF=4.050",
+            "citation_count": 9,
+            "volume_issue_pages": "83, 2076-2086",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Ứng dụng mô hình mô phỏng docking để so sánh tương tác giữa các thuốc kháng cholinergic với enzyme acetylcholinesterase",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Khoa học Đại học Cần Thơ; ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "26, 26-32",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Thiết kế, tổng hợp và đánh giá khả năng ức chế enzyme histone deacetylase (HDAC) in silico của một số dẫn xuất tương tự belinostat https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/3796",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Khoa học Đại học Cần Thơ; ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "56, 1-9",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Triterpenoids from the genus Gynostemma: Chemistry and pharmacological activities (Review Paper) https://doi.org/10.1016/j.jep.2020.113574",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of ethnopharmacology; ISSN 0378-8741",
+            "journal_ranking": "SCIE/Q2/IF=4.360",
+            "citation_count": 75,
+            "volume_issue_pages": "268, 113574",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Molecular networking-based chemical profiling and anti-influenza viral and neuroprotective effects of Elaeocarpus hygrophilus Kurz https://doi.org/10.1007/s11696-021-01723-7",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemical Papers; ISSN 0366-6352",
+            "journal_ranking": "SCIE/Q3/IF=2.146",
+            "citation_count": 5,
+            "volume_issue_pages": "75, 5323-5337",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Preclinical development of FA5, a novel AMP-activated Protein Kinase (AMPK) activator as an innovative drug for the management of bowel inflammation https://doi.org/10.3390/ijms22126325",
+            "num_authors": 21,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Molecular Sciences; ISSN 1661-6596",
+            "journal_ranking": "SCIE/Q1/IF=6.208",
+            "citation_count": 6,
+            "volume_issue_pages": "22, 6325",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Tối ưu hóa quy trình chiết xuất cao lá Bần ổi (Sonneratia ovata backer) chứa hàm lượng lớn hợp chất methyl gallate",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí phân tích Hóa, Lý và sinh học; ISSN 0868-3224",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "26(4B), 124-128",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đánh giá in ovo và in silico hoạt tính ức chế hình thành mạch máu của một số dược liệu",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phân tích Hóa, Lý và sinh học; ISSN 0868-3224",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "27(2), 271-277",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Design, synthesis and cytotoxicity evaluation of substituted Benzimidazole conjugated 1, 3, 4-Oxadiazoles https://doi.org/10.1248/cpb.c22-00162",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemical and Pharmaceutical Bulletin; ISSN 1347-5223",
+            "journal_ranking": "SCIE/Q2/IF=1.7",
+            "citation_count": 2,
+            "volume_issue_pages": "70, 448-453",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Gas chromatography-mass spectrometry, feature-based molecular networking and biological activities against Solenopsis invicta of Citrus peel essential oils from Vietnam https://doi.org/10.34044/j.anres.2022.56.4.15",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Agriculture and Natural Resources; ISSN 2452-316X",
+            "journal_ranking": "Scopus/Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "56, 805-814",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "(+)-Ferulasin, unusual sesquiterpene chromones from Ferula sinkiangensis https://doi.org/10.1016/j.tet.2022.132953",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tetrahedron; ISSN 0040-4020",
+            "journal_ranking": "SCIE/Q3/IF=2.1",
+            "citation_count": 5,
+            "volume_issue_pages": "122, 132953",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Dammarane triterpenoids with rare skeletons from Gynostemma pentaphyllum and their cytotoxic activities https://doi.org/10.1016/j.fitote.2022.105280",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Fitoterapia; ISSN 0367-326X",
+            "journal_ranking": "SCIE/Q2/IF=3.4",
+            "citation_count": 2,
+            "volume_issue_pages": "162, 105280",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Silk fibroin nanoparticles as a versatile oral delivery system for drugs of different biopharmaceutics classification system (BCS) classes: A comprehensive comparison https://doi.org/10.1557/s43578-022-00782-0",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Materials Research; ISSN 0884-2914",
+            "journal_ranking": "SCIE/Q2/IF=2.7",
+            "citation_count": 2,
+            "volume_issue_pages": "37, 4169-4181",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Polyethylenimine-functionalized fibroin nanoparticles as a potential oral delivery system for BCS class-IV drugs, a case study of furosemide https://doi.org/10.1007/s10853-023-08640-y",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Materials Science; ISSN 0022-2461",
+            "journal_ranking": "SCIE/Q1/IF=3.5",
+            "citation_count": 0,
+            "volume_issue_pages": "58, 9660-9674",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Ứng dụng Global Natural Products Social (GNPS) trong xây dựng mạng lưới phân tử GC-MS và đánh giá hoạt tính sinh học của tinh dầu Tràm (Melaleuca leucadendra) trong việc kháng kiến Lửa đỏ (Solenopsis invicta) https://vjol.info.vn/index.php/TCPTHLS/article/view/82159",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Tạp chí phân tích Hóa, Lý và sinh học; ISSN 0868-3224",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "29(1), 85-90",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Syntheses and cytotoxicities of Quinazolinone-Based Conjugates https://doi.org/10.1248/cpb.c23-00674",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemical and Pharmaceutical Bulletin; ISSN 1347-5223",
+            "journal_ranking": "SCIE/Q3/IF=1.5",
+            "citation_count": 0,
+            "volume_issue_pages": "72, 61-67",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Khảo sát hoạt tính ức chế hình thành mạch máu và kháng khuẩn của cao chiết phân cực từ lá Mơ lông (Paederia foetida L.) https://doi.org/10.34238/tnu-jst.8951",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Đại học Thái Nguyên; ISSN 1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "229(01), 368-375",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "A simple spectrophotometric method for chloroform quantification and its application in chloroform degradation from laboratory wastewater using polyphenolic co-activators https://doi.org/10.1016/j.eti.2023.103498",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Technology & Innovation; ISSN 2352-1864",
+            "journal_ranking": "SCIE/Q1/IF=6.7",
+            "citation_count": 0,
+            "volume_issue_pages": "33, 103498",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Molecular docking screening, dynamics simulations, ADMET, and semi-synthesis prediction of flavones and flavonols from the COCONUT database as potent bifunctional neuraminidase inhibitors",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Pharmacia; ISSN 0428-0296",
+            "journal_ranking": "ESCI/Q2/IF=1.1",
+            "citation_count": 0,
+            "volume_issue_pages": "71, 1-10",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Bifunctional neuraminidase inhibitory and simultaneously anti-Mycoplasma pneumoniae of flavan-3-ols and flavanones: Combined molecular docking, virtual screening, ADMET, and synthesis prediction https://doi.org/10.1016/j.jksus.2024.103242",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of King Saud University - Science; ISSN 1018-3647",
+            "journal_ranking": "SCIE/Q1/IF=3.7",
+            "citation_count": 0,
+            "volume_issue_pages": "36, 103242",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Green synthesis of zinc oxide microparticles using the leaf extract of Dolichandrone spathacea in sustainable agriculture: a new approach for protecting the legume plant (Vigna radiata) against the Cr(VI) stress https://doi.org/10.35495/ajab.2023.245",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Journal of Agriculture and Biology; ISSN 2307-8553",
+            "journal_ranking": "ESCI/Q3/IF=1.6",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "02/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Khảo sát thành phần hóa học và khả năng ức chế protein Neuraminidase từ virus cúm (H1N1 và H9N2) của cây Bần chua và Cà na",
+            "role": "Principal Investigator",
+            "project_code": "T2020-24",
+            "management_level": "Cấp cơ sở Trường ĐH Cần Thơ",
+            "period": "2020-2021",
+            "acceptance_date": "17/6/2021",
+            "rating": "xuất sắc"
+        },
+        {
+            "title": "Ứng dụng mạng lưới phân tử GNPS trong phân tích thành phần hóa học của một số dược liệu",
+            "role": "Principal Investigator",
+            "project_code": "T2022-27",
+            "management_level": "Cấp cơ sở Trường ĐH Cần Thơ",
+            "period": "2022-2023",
+            "acceptance_date": "27/4/2023",
+            "rating": "xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Thực tập hóa hữu cơ",
+            "type": "Guide Book",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "19-79, 93-101",
+            "verification_document_id": "1848/GXN-ĐHCT ngày 31/5/2024"
+        },
+        {
+            "title": "Hợp chất dị vòng: nguồn hoạt chất tiềm năng trong nghiên cứu và phát triển thuốc",
+            "type": "Monograph",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2023",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "164-190",
+            "verification_document_id": "1843/GXN-ĐHCT, ngày 31/5/2024"
+        },
+        {
+            "title": "Hướng dẫn giải bài tập Hóa hữu cơ",
+            "type": "Guide Book",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2023",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "1-19",
+            "verification_document_id": "1844/GXN-ĐHCT, ngày 31/5/2024"
+        }
+    ],
+    "patents": [
+        {
+            "title": "Sáng chế: Chế phẩm dùng để ngăn ngừa hoặc trị bệnh tiểu đường bao gồm chiết xuất từ cây Gymnema sylvestre hoặc hợp chất được phân lập từ loài cây này được dùng làm thành phần hoạt tính. https://patents.google.com/patent/KR20190132314A/ko",
+            "issuing_authority": "Cục Sở hữu trí tuệ Hàn Quốc",
+            "issue_date": "27/11/2019",
+            "is_main_inventor": false,
+            "num_inventors": 3
+        }
+    ],
+    "achievements": null,
+    "training_programs": null
+}

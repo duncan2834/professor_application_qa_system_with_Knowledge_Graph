@@ -1,0 +1,486 @@
+{
+    "papers": [
+        {
+            "title": "Nghiên cứu sự ảnh hưởng do dòng khí của quạt gió cao áp đến quá trình đốt cháy dầu FO trong lò đốt hở của tang sấy trạm bêtông nhựa nóng 40T/h.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học GTVT ISBN: 1859-2724",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "11/2005"
+        },
+        {
+            "title": "Nghiên cứu lựa chọn các thông số đầm lèn hợp lý cho nền đường giao thông nông thôn vùng đồng bằng Bắc Bộ.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học GTVT ISBN : 1859-2724",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "11/2008"
+        },
+        {
+            "title": "Nghiên cứu, tính toán thiết kế trục trộn trong buồng trộn của trạm sản xuất bêtông nhựa nóng và ứng dụng chương trình Mastercam lập quy trình gia công trên máy phay 5 trục.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học GTVT ISBN : 1859-2724",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2/2010."
+        },
+        {
+            "title": "Nghiên cứu, xây dựng chương trình tính toán thiết kế cầu trục một dầm.Áp dụng chương trình trên cho các công ty chế tạo thiết bị nâng trong nước.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học GTVT ISBN : 1859-2724",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2/2010"
+        },
+        {
+            "title": "Ứng dụng phần mềm Sap 2000 trong tính toán thiết kế kết cấu thép cổng trục long môn đặt trên xà mũ phục vụ lao lắp dầm câu Super- T.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí GTVT ISBN : 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "11/2012"
+        },
+        {
+            "title": "Nghiên cứu thực nghiệm xác định lực căng động trong cáp hàng của cổng trục phục vụ lao lắp dầm cầu Super-T.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí cơ khí Việt nam. ISBN: 2615-9910",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "3/2015"
+        },
+        {
+            "title": "Nghiên cứu động lực học cổng trục phục vụ lao lắp dầm cầu Super-T lắp đặt trên xà mũ trụ cầu trong trường hợp mang nâng hàng không có độ chùng cáp",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí cơ khí Việt nam. ISBN: 2615-9910",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "4/2015"
+        },
+        {
+            "title": "Nghiên cứu động lực học cổng trục phục vụ lao lắp dầm cầu Super-T lắp đặt trên xà mũ trụ cầu trong trường hợp mang hàng di chuyển.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Cơ khí ISBN: 2615-9910",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "5/2015"
+        },
+        {
+            "title": "Nghiên cứu dao động và tải trọng động phát sinh trong cổng trục phục vụ lao lắp dầm cầu Super T khi mang hàng di chuyển có kể đến độ cứng của cáp nâng hàng.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học GTVT ISBN : 1859-2724",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "11/2015"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng hàm Solver giải bài toán tối ưu trọng lượng kết cấu thép dàn chính của cổng trục lắp đặt trên xà mũ trụ cầu phục vụ lao lắp dầm cầu Super – T.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cơ khí ISBN: 2615-9910",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "5/2016"
+        },
+        {
+            "title": "Ứng dụng phần mềm Sap 2000 trong tính toán thiết kế kết cấu thép cổng trục dạng chữ C khẩu độ 9,7 mét, tải trọng 25 Tấn phục vụ thi công mố trụ cầu cạn.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí GTVT ISBN: 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "Ứng dụng phần mềm ANSYS APDL trong tính toán, thiết kế cổng trục long môn phục vụ lao lắp dầm bê tông khẩu độ nhịp nhỏ trong thi công câu dân sinh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cơ khí ISBN: 2615-9910",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "08/2020"
+        },
+        {
+            "title": "Effect of Input Parameters on Electrode Wear in PMEDM Cylindrical Shaped Parts",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Key Engineering Materials ISSN: 16629795",
+            "journal_ranking": "Scopus Q4 (IF: 0.487)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 861, pp:136-142",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Influence of Input Factors on Material Removal Rate in PMEDM Cylindrical Shaped Parts with Silicon Carbide Powder Suspended Dielectric",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Key Engineering Materials ISSN: 16629795",
+            "journal_ranking": "Scopus Q4 (IF: 0.487)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 861, pp:129-135",
+            "published_date": "02/09/2020"
+        },
+        {
+            "title": "The Influence of Main Design Parameters on the Overall Cost of a Gearbox",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Sciences | An Open Access Journal from MDPI",
+            "journal_ranking": "SCI, Q1, IF (2020) = 2,7",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "30/03/2020"
+        },
+        {
+            "title": "Enhancing Accuracy of Surface Roughness Model Using Box-Cox Transformation in Surface Grinding AISI 5120 Alloy Steels",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Engineering Research and Application. ICERA 2020. Lecture Notes in Networks and Systems, vol 178. Springer",
+            "journal_ranking": "Scopus Q4 (IF: 0.595)",
+            "citation_count": 0,
+            "volume_issue_pages": "pp 379-390",
+            "published_date": "2020"
+        },
+        {
+            "title": "A Study on Prediction of Milling Forces",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Engineering Research and Application. ICERA 2020. Lecture Notes in Networks and Systems",
+            "journal_ranking": "Scopus Q4 (IF: 0.595)",
+            "citation_count": 0,
+            "volume_issue_pages": "vol 178 pp 86-93",
+            "published_date": "2020"
+        },
+        {
+            "title": "Influence of process parameters on material removal rate in electrical discharge machining cylindrical shaped parts",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Science Forum. ISSN: 16629752",
+            "journal_ranking": "Scopus Q4 (IF: 0.477)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 1018, pp:91-95",
+            "published_date": "2021"
+        },
+        {
+            "title": "Effects of input parameters on electrode wear rate when EDM cylindrical shaped parts",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Science Forum ISNN: 16629752",
+            "journal_ranking": "Scopus Q4 (IF: 0.477)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 1018, pp:79-83",
+            "published_date": "2021"
+        },
+        {
+            "title": "Effect of dressing parameters on material removal rate when surface grinding skd11 tool steel",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Science Forum ISNN: 16629752",
+            "journal_ranking": "Scopus Q4 (IF: 0.477)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 1020, pp:60-67",
+            "published_date": "2021"
+        },
+        {
+            "title": "Determination of Optimum Gear Ratios of Two-stage Bevel Helical Gearboxes for Getting Minimum Gearbox Volume",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Engineering Research and Application. ICERA 2021. Lecture Notes in Networks and Systems,",
+            "journal_ranking": "Scopus Q4 (IF: 0.595)",
+            "citation_count": 0,
+            "volume_issue_pages": "vol 366 pp 302-311",
+            "published_date": "2021"
+        },
+        {
+            "title": "Study on productivity improvement when turning AISI 1045 steel on basis of surface roughness assurance",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Engineering Research and Application. ICERA 2021. Lecture Notes in Networks and Systems,",
+            "journal_ranking": "Scopus Q4 (IF: 0.595)",
+            "citation_count": 0,
+            "volume_issue_pages": "vol 366 pp 872-881",
+            "published_date": "2021"
+        },
+        {
+            "title": "Study on Multi-criteria Decision Making in CBN Grinding SKD11 Tool Steel",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Engineering Research and Application. ICERA 2022. Lecture Notes in Networks and Systems,",
+            "journal_ranking": "Scopus Q4 (IF: 0.595)",
+            "citation_count": 0,
+            "volume_issue_pages": "vol 602 pp 99-105",
+            "published_date": "2022"
+        },
+        {
+            "title": "A Study on Optimization of Helical Worm Gearboxes Based on Volume Function",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Engineering Research and Application. ICERA 2022. Lecture Notes in Networks and Systems,",
+            "journal_ranking": "Scopus Q4 (IF: 0.595)",
+            "citation_count": 0,
+            "volume_issue_pages": "vol 602 pp 116-127",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effect of Process Parameters on Material Removal Speed in CBN Grinding Al6061 T6",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Engineering Research and Application. ICERA 2022. Lecture Notes in Networks and Systems,",
+            "journal_ranking": "Scopus Q4 (IF: 0.595)",
+            "citation_count": 0,
+            "volume_issue_pages": "vol 602 pp 462-467",
+            "published_date": "2022"
+        },
+        {
+            "title": "Studying Optimal Set of Input Parameters for CBN Grinding Aluminum 6061T6 on CNC Milling Machine",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Engineering Research and Application. ICERA 2022. Lecture Notes in Networks and Systems,",
+            "journal_ranking": "Scopus Q4 (IF: 0.595)",
+            "citation_count": 0,
+            "volume_issue_pages": "vol 602 pp 895-902",
+            "published_date": "2022"
+        },
+        {
+            "title": "A High-Reliability Piezoelectric Tile Transducer for Converting Bridge Vibration to Electrical Energy for Smart Transportation",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Micromachines ISSN: 2072-666X",
+            "journal_ranking": "SCOPUS Q2 (IF: 3.3)",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2023"
+        },
+        {
+            "title": "A stydy on the influence of printing orientation in metal printing using material extrusion technology on the machannical properties of 14-4 stainless steel products",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Machine Engineering. ISSN 1895-7595. Online: 2391-8071",
+            "journal_ranking": "Scopus Q2 IF: 1.288",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.23",
+            "published_date": "2023"
+        },
+        {
+            "title": "Surface Roughness Modeling of Hard Turning 080A67 Steel",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering, Technology & Applied Science Research ISSN 1792-8036",
+            "journal_ranking": "Scopus, Q2, ESCI, , If=1,5",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13, No. 3,",
+            "published_date": "2023"
+        },
+        {
+            "title": "Research of methods for determining dynamic stress of the bars in the main structure of gantry crane installed on the cap of bride pier to serve installation of sSuper-T girder",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "ERUKA: Physics and Engineering ISSN 2461-4262",
+            "journal_ranking": "SCOPUS, Q3, If (2023)=1,189",
+            "citation_count": 0,
+            "volume_issue_pages": "Number 2",
+            "published_date": "2023"
+        },
+        {
+            "title": "Optimization of Technological Parameters when Plasma Nitriding the Gear Working Surface",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering, Technology & Applied Science Research. ISSN 1792-8036",
+            "journal_ranking": "Scopus, Q2 ESCI, If=1,5",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13, No. 3,",
+            "published_date": "2023"
+        },
+        {
+            "title": "Multi-Criteria Decision Making in CBN Grinding SKD11 Tool Steel Using TOPSIS Method",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Military science and technology ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Number 5",
+            "published_date": "2023"
+        },
+        {
+            "title": "The study aimed to build an artificial neural network (ANN) model to predict surface roughness in the milling process of 3X13 steel",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science Journal of transportation ISSN: 2410-9088",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "№3 (15)",
+            "published_date": "2023"
+        },
+        {
+            "title": "Optimization of a two- stage bevel helical Gearbox using multiple Objectives to increase efficiency and reduce gearbox bottom Area",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Wseas transactions on applied and theoretical machannics E-ISSN: 2224-3429",
+            "journal_ranking": "Scopus Q4 IF = 0,463",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 19",
+            "published_date": "2024"
+        },
+        {
+            "title": "Research on the influence of dynamic parameters on the operation process of gantry cranes with assembled structures on the cap of bridge pier to serve installation of Super-T Beams",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "ERUKA: Physics and Engineering ISSN 2461-4262",
+            "journal_ranking": "SCOPUS, Q3, If (2023)=1,189",
+            "citation_count": 0,
+            "volume_issue_pages": "Number 3",
+            "published_date": "2024"
+        },
+        {
+            "title": "Multi-Objective Optimization of a Two-Stage Helical Gearbox with Second Stage Double Gear-Sets Using TOPSIS Method",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Processes 2024 ISSN: 2227-9717",
+            "journal_ranking": "SCIE, Q2, If (2024)=3,5",
+            "citation_count": 0,
+            "volume_issue_pages": "Processes 2024, 12, 1160.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Optimization of cutting regimes for milling AISI-1045 Steel",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Multidisciplinary Engineering Science and Technology (JMEST), ISSN: 2458-9403",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 10 | Issue 3",
+            "published_date": "May 2025"
+        },
+        {
+            "title": "Tính toán thiết kế cụm di chuyển cho cổng trục tải trọng nâng 25 Tấn lắp đặt tại các dự án thủy điện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cơ khí Việt nam ISBN: 2615-9910",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "04.2025"
+        },
+        {
+            "title": "Multi objective optimization of SKD11 Steel Grinding process using entropy and Ram methods",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Journal of Engineering and Technology Research (EJ-ENG), ISSN 2736-576X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 10 | Issue 3",
+            "published_date": "May 2025"
+        },
+        {
+            "title": "Integration Of MCDM Methods For Cutting Tool Material Selection",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Multidisciplinary Engineering Science and Technology (JMEST), ISSN: 2458-9403",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12 Issue 5,",
+            "published_date": "May-2025"
+        },
+        {
+            "title": "Tính toán thiết kế kết cấu thép cổng trục dạng dầm hộp khẩu độ 46 mét, tải trọng 80 Tấn phục vụ đúc dầm bê tông cho các dự án cầu cạn",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng (Tạp chí GTVT trước tháng 3 năm 2025) ISSN 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "04.2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu thiết kế để triển khai chế tạo hệ thống gia nhiệt cho vật liệu trong tang sấy ở các trạm sản xuất bê tông nhựa nóng 30÷40 (T/h) đạt chỉ tiêu kinh tế- kỹ thuật hợp lý và chống ô nhiễm môi trường. Ứng dụng cho công ty xây dựng công trình giao thông 873",
+            "role": "Assistant",
+            "project_code": "B2004-35-64",
+            "management_level": "",
+            "period": "01/2004-12/2004",
+            "acceptance_date": "30/12/2005",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Lập chương trình tự động hóa thiết kế cầu trục.",
+            "role": "Principal Investigator",
+            "project_code": "T2004-CK-27",
+            "management_level": "",
+            "period": "01/2004-12/2004",
+            "acceptance_date": "23/03/2006",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ứng dụng phương pháp mô hình hóa xây dựng một số mô hình máy phục vụ cho giảng dạy môn học máy sản xuất vật liệu xây dựng.",
+            "role": "Principal Investigator",
+            "project_code": "T2009-CK-18",
+            "management_level": "",
+            "period": "01/2009-12/2009",
+            "acceptance_date": "29/01/2011",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu động lực học cổng trục chuyên dùng đặt trên xà mũ phục vụ lao lắp dầm cầu Super-T trong công nghệ xây dựng cầu",
+            "role": "Principal Investigator",
+            "project_code": "T2015-CK-38",
+            "management_level": "",
+            "period": "01/2015-12/2015",
+            "acceptance_date": "15/12/2015",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu đề xuất các giải pháp công nghệ thi công cho các cầu dân sinh phục vụ giáo dục, phù hợp với điều kiện tại vùng sâu, vùng xa khu vực phía Bắc” thuộc chương trình KHCN cấp bộ Nghiên cứu xây dựng cầu dân sinh phục vụ giáo dục vùng sâu vùng xa khu vực phía Bắc.",
+            "role": "Principal Investigator",
+            "project_code": "CTB2018-GHA-08NV",
+            "management_level": "",
+            "period": "09/2018-12/2020",
+            "acceptance_date": "15/01/2021",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Thực hành Cơ khí đại cương",
+            "type": "Reference Book",
+            "publisher": "NXB khoa học và kỹ thuật",
+            "publish_year": "2021",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 3 đến trang 176",
+            "verification_document_id": "Giấy xác nhận sử dụng sách phục vụ đào tạo của trường Đại học giao thông vận tải 16/05/2024"
+        },
+        {
+            "title": "Sử dụng, bảo dưỡng và tháo lắp pa lăng cáp điện",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Xây dựng",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 1 đến trang 152",
+            "verification_document_id": "Giấy xác nhận sử dụng sách phục vụ đào tạo của trường Đại học công nghệ giao thông vận tải Ngày 17/05/2024"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

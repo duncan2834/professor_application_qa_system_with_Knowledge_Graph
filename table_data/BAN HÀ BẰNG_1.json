@@ -1,0 +1,443 @@
+{
+    "papers": [
+        {
+            "title": "A Subgradient Method to Improve Approximation Ratio in the Minimum Latency Problem",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị quốc tế KSE/ISSN: 2194-5357",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "339-350",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Thuật toán di truyền lai ghép thuật toán đàn kiến giải bài toán Cực Tiểu Hóa Đô Trễ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Chí Tin Học và Điều Khiển Học/ISSN: 1813-9663",
+            "journal_ranking": "ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "29 287-298",
+            "published_date": "08/2013"
+        },
+        {
+            "title": "An efficient exact algorithm for the Minimum Latency Problem",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Progress of Informatics/ISSN:1349-8606",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 9,
+            "volume_issue_pages": "10 167-174",
+            "published_date": "03/2013"
+        },
+        {
+            "title": "A real-time model-based Support Vector Machine for emotion recognition through EEG",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proc. ICCAIS/Electronic ISSN:2475-7896",
+            "journal_ranking": "",
+            "citation_count": 71,
+            "volume_issue_pages": "191-196",
+            "published_date": "02/2013"
+        },
+        {
+            "title": "Robust Adaptive Image Coding for Frame Memory Reduction in LCD Overdrive (Bài báo dạng poster)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proc. DCC/ISSN: 1068-0314 (Hội nghị rank A*)",
+            "journal_ranking": "Conference Rank A*",
+            "citation_count": 0,
+            "volume_issue_pages": "497-497",
+            "published_date": "03/2013"
+        },
+        {
+            "title": "An Experimental Study about Efficiency of the Approximation Algorithms for the Minimum Latency Problem",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proc. RIVF/ISSN:2473-0130 (scopus)",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "230-234",
+            "published_date": "03/2012"
+        },
+        {
+            "title": "Improved Genetic Algorithm for the Minimum Latency Problem",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proc. SOICT/ISBN 978-1-4503-0105-3",
+            "journal_ranking": "",
+            "citation_count": 9,
+            "volume_issue_pages": "9-15",
+            "published_date": "08/2010"
+        },
+        {
+            "title": "Áp dụng giải thuật di truyền giải bài toán Cực Tiểu Hóa Độ Trễ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa Học và Công Nghệ các trường đại học kỹ thuật/ISSN 0868-3980",
+            "journal_ranking": "",
+            "citation_count": 71,
+            "volume_issue_pages": "6-11",
+            "published_date": "10/2009"
+        },
+        {
+            "title": "An online transfer learning based multifactorial evolutionary algorithm for solving the clustered Steiner tree problem",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "J. Knowledge-Based Systems/ISSN: 1872-7409 (Tạp chí ISI uy tín-Nafosted, tạp chí hàng đầu trong lĩnh vực tính toán thông minh)",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 296,
+            "volume_issue_pages": "",
+            "published_date": "07/2024"
+        },
+        {
+            "title": "A hybrid and adaptive evolutionary approach for multitask optimization of post-disaster traveling salesman and repairman problems",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Computers & Operations Research/ISSN: 1873-765X (Tạp chí ISI uy tín-Nafosted, tạp chí hàng đầu trong lĩnh vực vận trù học)",
+            "journal_ranking": "ISI-ranked (SCIE IF: 4.6)",
+            "citation_count": 167,
+            "volume_issue_pages": "",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "A multipopulation multitasking evolutionary scheme with adaptive knowledge transfer to solve the clustered minimum routing cost tree problem",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "J. Information Sciences/ISSN: 1872-6291 (Tạp chí ISI uy tín-Nafosted, tạp chí hàng đầu trong lĩnh vực tính toán thông minh)",
+            "journal_ranking": "ISI-ranked (SCIE IF: 8.1)",
+            "citation_count": 657,
+            "volume_issue_pages": "",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "A multi-population multi-tasking variable neighborhood search algorithm with diversity enhancements for inter-domain path computation problem",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "J. Knowledge-Based Systems/ISSN: 1872-7409 (Tạp chí ISI uy tín-Nafosted, tạp chí hàng đầu trong lĩnh vực tính toán thông minh)",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 284,
+            "volume_issue_pages": "",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Metaheuristic for Solving the Delivery Man Problem with Drone",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Computing and Informatics/ISSN: 1864-5917",
+            "journal_ranking": "SCIE Q3",
+            "citation_count": 42,
+            "volume_issue_pages": "5, 1184-1212",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Node-depth based Genetic Algorithm to solve Inter-Domain path computation problem",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "J. Knowledge-Based Systems (Tạp chí ISI uy tín-Nafosted, tạp chí hàng đầu trong lĩnh vực tính toán thông minh)",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 284,
+            "volume_issue_pages": "111168",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "A Monte Carlo Tree Search with Ant Colony Optimization for Inter-domain Path Computation Problem",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proc. SOICT/ISBN: 978-1-4503-9725-4 (scopus)",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "671-678",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "A metaheuristic for the multiple minimum latency problem with the min-max objective",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. IJOR/ISSN: 1745-7653",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 48,
+            "volume_issue_pages": "4, 529-561",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Hybrid Variable Neighborhood Search for Solving School Bus-Driver Problem with Resource Constraints",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Computer Science/ISSN: 1508-2806",
+            "journal_ranking": "ESCI Q4",
+            "citation_count": 24,
+            "volume_issue_pages": "3, 297-320",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "An Improved Genetic Algorithm for Bi-Level Multi-Objective Q-Coverage in Directional Sensor Networks",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proc. WiOpt/ISSN: 2690-3342 (Hội nghị rank B, hội nghị uy tín trong lĩnh vực tối ưu mạng)",
+            "journal_ranking": "Conference Rank B",
+            "citation_count": 0,
+            "volume_issue_pages": "111-118",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "MNDE: Node-depth encoding can do better in evolutionary multitask algorithms (Bài báo dạng Poster)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Gecco/ISBN: 979-8-4007-0120-7 (Hội nghị số 1 về tính toán tiến hoá, rank A)",
+            "journal_ranking": "Conference Rank A",
+            "citation_count": 1,
+            "volume_issue_pages": "251-254",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Genetic algorithm based approach to solve the Clustered Steiner Tree Problem",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Evolutionary Intelligence/ISSN:1864-5917",
+            "journal_ranking": "ESCI Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "17 1547-1566",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Solving optimization problems simultaneously: the variants of the traveling salesman problem with time windows",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. PeerJ Computer Science/ISSN: 2376-5992 (tạp chí quốc tế uy tín-nafosted)",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "An Efficient Branch-And-Cut Algorithm for the Parallel Drone Scheduling Traveling Salesman Problem",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "J. 4OR/ISSN: 1614-2411 (tạp chí uy tín trong lĩnh vực vận trù học, tạp chí quốc tế uy tín-Nafosted)",
+            "journal_ranking": "SCIE Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "21,4",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "The Hybridization of ACO+GA and RVNS Algorithm for Solving the Time-Dependent Traveling Salesman Problem",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Evolutionary Intelligence/ISSN: 1864-5917",
+            "journal_ranking": "ESCI Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "15 1370-1397",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Multifactorial Evolutionary Algorithm for Simultaneous Solution of TSP and TRP",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Computing and Informatics/ISSN: 1335-9150 (scopus source)",
+            "journal_ranking": "SCIE Q3, Scopus",
+            "citation_count": 2,
+            "volume_issue_pages": "40, 6, 1370-1397",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "A metaheuristic for the Deliveryman Problem with Time Windows",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Combinatorial Optimization/ISSN: 1573-2886 (tạp chí uy tín trong lĩnh vực tối ưu hoá tổ hợp, tạp chí quốc tế uy tín-nafosted)",
+            "journal_ranking": "SCIE Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "41 794-816",
+            "published_date": "05/2021"
+        },
+        {
+            "title": "Penalty Variable Neighborhood Search for the Bounded Single-Depot Multiple Traveling Repairman Problem",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Informatica, ISSN 0350-5596",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 45,
+            "volume_issue_pages": "93-104",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Applying Metaheuristic for Time-Dependent Traveling Salesman Problem in Post-Disaster",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. International Journal of Computational Intelligence Systems/ISSN: 1875-6883 (tạp chính quốc tế uy tín-nafosted)",
+            "journal_ranking": "SCIE Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "14, 1, 1087-1107",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "A hybrid metaheuristic for Solving Asymmetric Distance-Constrained Vehicle Routing Problem",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Computational Social Networks/ISSN: 2197-4314",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 9,
+            "volume_issue_pages": "8, 3, 1-19",
+            "published_date": "02/2021"
+        },
+        {
+            "title": "An Efficient Two-Phase Metaheuristic for the Multiple Minimum Back-Walk-Free Latency Problem",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proc. ICTIS, ISSN 2190-3026 (Scopus)",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "151-159",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Efficient Metaheuristic Algorithms for the Multi-stripe Travelling Salesman Problem",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tin Học và Điều Khiển Học/ ISSN: 1813-9663",
+            "journal_ranking": "ACI",
+            "citation_count": 36,
+            "volume_issue_pages": "3, 233-250",
+            "published_date": "08/2020"
+        },
+        {
+            "title": "An efficient two-phase metaheuristic algorithm for the Time Dependent Traveling Salesman Problem",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. RAIRO-Operations Research/ISSN: 0399-0559 (tạp chí uy tín trong lĩnh vực vận trù học)",
+            "journal_ranking": "SCIE Q3",
+            "citation_count": 9,
+            "volume_issue_pages": "53 917-935",
+            "published_date": "09/2019"
+        },
+        {
+            "title": "A GRASP+VND Algorithm for the Multiple Traveling Repairman Problem with Distance Constraints",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tin Học và Điều Khiển Học/ ISSN: 1813-9663",
+            "journal_ranking": "ACI",
+            "citation_count": 6,
+            "volume_issue_pages": "33, 3, 272-288",
+            "published_date": "03/2018"
+        },
+        {
+            "title": "A Meta-Heuristic Algorithm Combining between Tabu and Variable Neighborhood Search for the Minimum Latency Problem",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Fundamenta Informaticae/ISSN: 1875-8681 (tạp chí quốc tế uy tín-nafosted)",
+            "journal_ranking": "SCIE Q3",
+            "citation_count": 6,
+            "volume_issue_pages": "156, 1, 21-41",
+            "published_date": "10/2017"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Thuật toán đúng hiệu quả giải bài toán Cực Tiểu Hóa Độ Trễ",
+            "role": "Principal Investigator",
+            "project_code": "T2012-142",
+            "management_level": "Cơ sở",
+            "period": "12/05/2012 đến 15/12/2012",
+            "acceptance_date": "20/12/2012",
+            "rating": "Kết quả tốt."
+        },
+        {
+            "title": "Thuật toán di truyền lai ghép thuật toán đàn kiến giải bài toán Cực Tiểu Hóa Độ Trễ",
+            "role": "Principal Investigator",
+            "project_code": "T2014-72",
+            "management_level": "Cơ sở",
+            "period": "3/6/2014 đến 15/12/2014",
+            "acceptance_date": "22/09/2014",
+            "rating": "Kết quả tốt."
+        },
+        {
+            "title": "Phát triển các kỹ thuật metaheuristic giải các bài toán tối ưu trong các hệ thống phân tán và hệ thống phần mềm",
+            "role": "Assistant",
+            "project_code": "DFG 102.01-2016.03",
+            "management_level": "Bộ",
+            "period": "28/12/2017 đến 28/11/2019",
+            "acceptance_date": "26-12-2019",
+            "rating": "Kết quả đạt."
+        },
+        {
+            "title": "Thuật toán metaheuristic hiệu quả giải bài toán Đa Thợ Sửa Chữa Lưu Động",
+            "role": "Principal Investigator",
+            "project_code": "T2016-PC37",
+            "management_level": "Cơ sở",
+            "period": "1/8/2016 đến 1/7/2017",
+            "acceptance_date": "26/07/2017",
+            "rating": "Kết quả tốt."
+        },
+        {
+            "title": "Giải thuật metaheuristic giải bài toán Người Du Lịch với Thời Gian Phụ Thuộc",
+            "role": "Principal Investigator",
+            "project_code": "T2017-LN-14",
+            "management_level": "Cơ sở",
+            "period": "1/12/2017 đến 1/11/2018",
+            "acceptance_date": "07/12/2018",
+            "rating": "Kết quả xuất sắc."
+        },
+        {
+            "title": "Metaheuristic giải bài toán Vehicle Routing Problem bất đối xứng với ràng buộc khoảng cách",
+            "role": "Assistant",
+            "project_code": "T2018-PC-208",
+            "management_level": "Cơ sở",
+            "period": "1/11/2019 đến 1/10/2020",
+            "acceptance_date": "26-12-2019",
+            "rating": "Kết quả đạt."
+        },
+        {
+            "title": "Giải thuật metaheuristic giải lớp các bài toán Thợ Sửa Chữa Lưu Động thời gian bị chặn",
+            "role": "Principal Investigator",
+            "project_code": "T2020-PC-008",
+            "management_level": "Cơ sở",
+            "period": "1/7/2020 đến 1/6/2021",
+            "acceptance_date": "06/10/2021",
+            "rating": ""
+        },
+        {
+            "title": "Phát triển thuật toán giải lớp bài toán Người Giao Hàng Sau Thảm Họa",
+            "role": "Assistant",
+            "project_code": "T2021-PC-021",
+            "management_level": "Cơ sở",
+            "period": "1/8/2021 đến 1/7/2022",
+            "acceptance_date": "9/8/2022",
+            "rating": "Kết quả đạt."
+        },
+        {
+            "title": "Developing metaheuristic techniques for solving optimization problems in transportation for post-disaster responses and energy savings (đề tài hợp tác quốc tế được quỹ Asahi Glass Foundation lựa chọn và cung cấp kinh phí thực hiện)",
+            "role": "Principal Investigator",
+            "project_code": "AGF-2020-02",
+            "management_level": "Khác",
+            "period": "29/05/2020 đến 29/05/2021",
+            "acceptance_date": "04/10/2021",
+            "rating": "Kết quả hoàn thành."
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": [
+        {
+            "title": "Giải nhất giải thưởng Nhân Tài Đất Việt 2010 với sản phẩm thuộc nhánh sản phẩm tiềm năng ứng dụng.",
+            "certifying_organization": "Tập đoàn Bưu Chính Viễn Thông, Hội Tin Học Việt Nam và Báo điện tử Dân Trí",
+            "certificate_document_id": "",
+            "award": "Giải nhất giải thưởng Nhân Tài Đất Việt",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giấy khen của Hiệu Trưởng Đại Học Bách Khoa Hà Nội vì đã có thành tích tham gia và hướng dẫn sinh viên đạt giải nhất giải thưởng Nhân Tài Đất Việt 2010.",
+            "certifying_organization": "Đại Học Bách Khoa Hà Nội",
+            "certificate_document_id": "",
+            "award": "Giải nhất giải thưởng Nhân Tài Đất Việt",
+            "num_contributors": 1
+        },
+        {
+            "title": "Danh hiệu chiến sĩ thi đua cấp cơ sở trường Đại Học Bách Khoa Hà Nội năm học 2013-2014",
+            "certifying_organization": "Đại Học Bách Khoa Hà Nội",
+            "certificate_document_id": "",
+            "award": "Danh hiệu chiến sĩ thi đua cấp cơ sở",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": null
+}

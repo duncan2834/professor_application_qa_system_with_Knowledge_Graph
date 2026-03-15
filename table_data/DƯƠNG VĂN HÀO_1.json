@@ -1,0 +1,467 @@
+{
+    "papers": [
+        {
+            "title": "Estimation of effective dose rates caused by radon and thoron for inhabitants living in rare earth field in northwestern Vietnam (Lai Chau province)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 15,
+            "volume_issue_pages": "306, 309-316",
+            "published_date": "January, 2015"
+        },
+        {
+            "title": "224Ra and the 224Ra/228Ra activity ratio in selected mineral waters from the Polish Carpathians",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Geological Quarterly/ ISSN: 1641-7291",
+            "journal_ranking": "ISI, 1.0, Q3",
+            "citation_count": 5,
+            "volume_issue_pages": "61(4), 771-778",
+            "published_date": "June, 2017"
+        },
+        {
+            "title": "High-level natural radionuclides deposit, from the Mandena South Madagascar",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 24,
+            "volume_issue_pages": "319, 1331-1338.",
+            "published_date": "December, 2018"
+        },
+        {
+            "title": "Uranium and radium isotopes in some selected thermal, surface and bottled waters in Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 13,
+            "volume_issue_pages": "319, 1345-1349.",
+            "published_date": "September, 2018"
+        },
+        {
+            "title": "Gross alpha/beta activity concentrations in spa and mineral waters in North Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 10,
+            "volume_issue_pages": "326, 1511-1517",
+            "published_date": "October, 2020"
+        },
+        {
+            "title": "210Po in soil and tobacco leaves in Quang Xuong, Vietnam and estimation of annual effective dose to smokers",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Radiation Protection Dosimetry/ISSN: 0144-8420",
+            "journal_ranking": "ISI, 1.0, Q3",
+            "citation_count": 5,
+            "volume_issue_pages": "192(1), 106-112",
+            "published_date": "October, 2020"
+        },
+        {
+            "title": "Distribution and annual committed effective dose assessment of 210 Po in popular marine species at the near-shore Binh Thuan province, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Marine Pollution Bulletin/ ISSN: 0025-326X",
+            "journal_ranking": "ISI, 5.8, Q1",
+            "citation_count": 11,
+            "volume_issue_pages": "165, 112073",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Development of Artificial Neural Network for prediction of radon dispersion released from Sinquyen Mine, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Pollution/ ISSN: 0269-7491",
+            "journal_ranking": "ISI, 8.9, Q1",
+            "citation_count": 15,
+            "volume_issue_pages": "282, 116973",
+            "published_date": "March, 2021"
+        },
+        {
+            "title": "Natural radionuclides and assessment of radiological hazards in different geological formations in Khammouan province, Laos",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "329(2), 991-1000",
+            "published_date": "June, 2021"
+        },
+        {
+            "title": "Transfer and bioaccumulation of 210Po from soil to water spinach (Ipomoea aquatica Forrsk.) in Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Radioactivity/ ISSN: 0265-931X",
+            "journal_ranking": "ISI, 2.3, Q2",
+            "citation_count": 14,
+            "volume_issue_pages": "231, 106554",
+            "published_date": "July, 2021"
+        },
+        {
+            "title": "Assessment of 232Th, 226Ra, 137Cs, and 40K concentrations and annual effective dose due to the consumption of Vietnamese fresh milk",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 11,
+            "volume_issue_pages": "328, 1399-1404",
+            "published_date": "February, 2021"
+        },
+        {
+            "title": "Characteristics of radionuclides in soil and tea plant (Camellia sinensis) in Hoa Binh, Vietnam",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "329(2), 805-814",
+            "published_date": "June, 2021"
+        },
+        {
+            "title": "Performance comparison of the wavenumber and spatial domain techniques for mapping basement reliefs from gravity data",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Open Geosciences/ ISSN: 2391-5447",
+            "journal_ranking": "ISI, 1.99, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "13(1), 1689-1700",
+            "published_date": "November, 2021"
+        },
+        {
+            "title": "210Po characteristic in selected thermal water sources in Northern Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "331(4), 1659-1668",
+            "published_date": "February, 2022"
+        },
+        {
+            "title": "Gross beta and alpha activities in the selected commercial freshwater fish species in Vietnam",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research/ ISSN: 0944-1344",
+            "journal_ranking": "ISI, 5.8, Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "29(17), 26002-26010.",
+            "published_date": "March, 2022"
+        },
+        {
+            "title": "Chemical composition, radioactive and stable isotopes in several selected thermal waters in North Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ecological Indicators/ ISSN: 1470-160X",
+            "journal_ranking": "ISI, 6.9, Q1",
+            "citation_count": 7,
+            "volume_issue_pages": "138, 108856",
+            "published_date": "April, 2022"
+        },
+        {
+            "title": "Distribution of 210Po in body organs of bigeye scad and greater lizardfish species at Binh Thuan, Vietnam",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "331(4), 1635-1643",
+            "published_date": "March, 2022"
+        },
+        {
+            "title": "Structural interpretation of potential field data using the enhancement techniques: a case study",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Geocarto International/ ISSN: 1010-6049",
+            "journal_ranking": "ISI, 3.8, Q2",
+            "citation_count": 29,
+            "volume_issue_pages": "37(27), 16900-16925",
+            "published_date": "September, 2022"
+        },
+        {
+            "title": "Human health risk assessment due to consumption of dried fish in Chennai, Tamil Nadu, India: a baseline report",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research/ ISSN: 0944-1344",
+            "journal_ranking": "ISI, 5.8, Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "1-14",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Radiological Hazard Assessment of High-Level Natural Radionuclides in Surface Sediments Along Red River, Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of Environmental Contamination and Toxicolog/ ISSN: 0090-4341",
+            "journal_ranking": "ISI, 4.0, Q1",
+            "citation_count": 7,
+            "volume_issue_pages": "85(3), 302-313",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Distribution and characteristics of 137Cs in surface soil in the middle of Laos",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "332(9), 3661-3673",
+            "published_date": "June, 2023"
+        },
+        {
+            "title": "Aeromagnetic data interpretation of the northern Kontum massif (Vietnam) for mapping subsurface structures",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Geocarto International/ ISSN: 1010-6049",
+            "journal_ranking": "ISI, 3.8, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "38(1), 2246940",
+            "published_date": "August, 2023"
+        },
+        {
+            "title": "Characteristics of 210Po in Asian overbite clam (Potamocorbula laevis) from the coastal area at Thai Binh province, Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Marine Pollution Bulletin/ ISSN: 0025-326X",
+            "journal_ranking": "ISI, 5.8, Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "194, 115425",
+            "published_date": "August, 2023"
+        },
+        {
+            "title": "Natural radionuclides and radiological hazard assessment of building materials in North Vietnam",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "333, 2577-2586",
+            "published_date": "August, 2023"
+        },
+        {
+            "title": "An effective edge detection technique for subsurface structural mapping from potential feld data",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Acta Geophysica/ ISSN: 1895-6572",
+            "journal_ranking": "ISI, 2.3, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "72(3), 1661-1674",
+            "published_date": "September, 2023"
+        },
+        {
+            "title": "Factors Contributing to Accumulation of 210Po",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of Environmental/ ISSN: 0090-4341",
+            "journal_ranking": "ISI, 4.0, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "85(3), 314-323",
+            "published_date": "September, 2023"
+        },
+        {
+            "title": "222Rn in selected waters sources from Quang Nam - Da Nang region - Central part of Vietnam",
+            "num_authors": 16,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radiation Research and Applied Sciences/ ISSN: 0449-3060",
+            "journal_ranking": "ISI, 1.937, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "17(1), 100756",
+            "published_date": "October, 2023"
+        },
+        {
+            "title": "Source, fate and transfer of primordial radionuclides as potential contaminants in environmental matrices of high and low background radiation areas -a critical review",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Environmental Analytical Chemistry/ ISSN: 0306-7319",
+            "journal_ranking": "ISI, 3.148, Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "1-27",
+            "published_date": "October, 2023"
+        },
+        {
+            "title": "Machine learning application for radon release prediction from the copper ore mining in Sin Quyen, Lao Cai, North Vietnam",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "333, 3291-3306",
+            "published_date": "December, 2023"
+        },
+        {
+            "title": "Microbial consortium and impact of industrial mining on the Natural High Background Radiation Area (NHBRA), India Characteristic role of primordial radionuclides in influencing the community structure and extremophiles pattern",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Research/ ISSN: 0013-9351",
+            "journal_ranking": "ISI, 8.3, Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "244, 118000",
+            "published_date": "December, 2023"
+        },
+        {
+            "title": "Radiological hazard assessment of 210PO in freshwater mussels (Sinanodonta jourdyi) and golden apple snail (Pomacea canaliculata) in Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research/ ISSN: 0944-1344",
+            "journal_ranking": "ISI, 5.8, Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "31, 14949-14958",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Natural radioactivity estimation and heavy metals concentration in commercial tea brands –a baseline study on human health risk hazards due to tea consumption in Tamilnadu, India",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Environmental Analytical Chemistry/ ISSN: 0306-7319",
+            "journal_ranking": "ISI, 3.148, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "1-19",
+            "published_date": "February, 2024"
+        },
+        {
+            "title": "Characteristics of heavy metals in surface sediments of the Van",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Regional Studies",
+            "journal_ranking": "ISI, 2.1, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "73, 103459",
+            "published_date": "March, 2024"
+        },
+        {
+            "title": "Ecological risk assessment due to heavy metals prevalence in the sediments of Kayamkulam estuary, Kerala, India",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Environmental Analytical Chemistry/ ISSN: 0306-7319",
+            "journal_ranking": "ISI, 3.148, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "1-21",
+            "published_date": "March, 2024"
+        },
+        {
+            "title": "Concentrations of 238U, 234U, 226Ra, 210Pb, and 210Po in seawater at Thanh Hoa coastal area, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry/ ISSN: 0236-5731",
+            "journal_ranking": "ISI, 1.6, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "333(4), 1769-1777",
+            "published_date": "April, 2024"
+        },
+        {
+            "title": "Transfer of natural radionuclides from soil to water spinach (Ipomoea aquatica Forssk) under flooded and unflooded conditions in Hanoi, Vietnam",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Radioactivity/ ISSN: 0265-931X",
+            "journal_ranking": "ISI, 2.3, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "277, 107445",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Health risk assessment of radionuclides in edible fruits cultivated around natural high background radiation areas of Manavalakurichi, Tamil Nadu, India",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Environmental Analytical Chemistry/ ISSN: 0306-7319",
+            "journal_ranking": "ISI, 3.148, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "1-14",
+            "published_date": "June, 2024"
+        },
+        {
+            "title": "3D models for hydrothermal copper ore bodies at Sin Quyen deposit, North Vietnam: A case report for ore reserves and prediction of hidden mineral resource potential",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Heliyon",
+            "journal_ranking": "ISI, 3.4, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "(2024) e33017",
+            "published_date": "June, 2024"
+        },
+        {
+            "title": "Fort-Dauphin bech sands, south Madagascar: natural radionuclides and mineralogical studies",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences/ ISSN: 0866-7187",
+            "journal_ranking": "Scopus, 2.121, Q2",
+            "citation_count": 16,
+            "volume_issue_pages": "42(2), 118-129",
+            "published_date": "May, 2020"
+        },
+        {
+            "title": "Improvements of 210PO determination method in thermal water samples",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences/ ISSN: 0866-7187",
+            "journal_ranking": "Scopus, 2.121, Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "44(2), 195-212",
+            "published_date": "December, 2021"
+        },
+        {
+            "title": "A balanced edge detector for aeromagnetic data",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences/ ISSN: 0866-7187",
+            "journal_ranking": "Scopus, 2.121, Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "45(3), 326-337",
+            "published_date": "June, 2023"
+        },
+        {
+            "title": "Radiological risk assessment and characteristics of 210Po in selected water sources in Quang Nam and Da Nang, Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences/ ISSN: 0866-7187",
+            "journal_ranking": "Scopus, 2.121, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "46(1), 1-11",
+            "published_date": "October, 2023"
+        },
+        {
+            "title": "Behaviors of 40K, 226Ra, 228Ra, 137Cs, 210Po in selected different environments in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Khoa học Quốc Gia/ ISBN: 978-604-342-668-7",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "215-224",
+            "published_date": "2021"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu đặc điểm và mức độ ô nhiễm 210Po ở mỏ nước khoáng nóng Tiên Lãng, Hải Phòng",
+            "role": "Principal Investigator",
+            "project_code": "T19-14",
+            "management_level": "Đại học Mỏ Địa chất",
+            "period": "Từ tháng 05 năm 2019 đến tháng 10 năm 2020",
+            "acceptance_date": "19/10/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu đồng vị phóng xạ 238U, 234U, 228Ra, 226Ra, 224Ra, 222Rn, 220Rn, 210Pb, 210Po trong nước ngầm, nước khoáng nóng và nước sinh hoạt ở phía Bắc Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "105.05-2019.10",
+            "management_level": "Nafosted, cấp Quốc gia",
+            "period": "Từ tháng 9 năm 2019 đến tháng 9 năm 2022",
+            "acceptance_date": "08/10/2022",
+            "rating": "Đạt"
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo bậc đại học: Địa vật lý đô thị",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "Quyết định: số 453/QĐ-MĐC về việc thành lập Tổ chuyên môn xây dựng chương trình đạo tạo chuyên ngành Địa vật lý đô thị ngày 03/06/2021",
+            "certifying_authority": "Trường Đại học Mỏ - Địa chất",
+            "implementation_document_id": "Quyết định số 136b/QĐ-MĐC về việc cho phép đào tạo chuyên ngành Địa vật lý đô thị trình độ đại học ngày 03/03/2022.",
+            "notes": ""
+        }
+    ]
+}

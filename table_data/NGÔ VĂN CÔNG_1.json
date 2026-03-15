@@ -1,0 +1,681 @@
+{
+    "papers": [
+        {
+            "title": "Combined nasal endoscopic and subfrontal craniotomy for resectiom tumors of anterior skull base DOI: 10.1097/SCS.0000000000008066 (https://journals.lww.com/jcraniofacialsurgery/abstract/2022/04000/combined_nasal_endoscopic_and_subfrontal.52.aspx)",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Craniofacial Surgery ISSN: 1049-2275 eISSN 1536-3732",
+            "journal_ranking": "Pubmed, ISI, Scopus, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 33 (2), p 588-591",
+            "published_date": "April, 2022"
+        },
+        {
+            "title": "The utilization of vauum-assisted closure in neck abscesses DOI: 10.23736/S0394-9508.21.05307-9 (https://www.minervamedica.it/en/journals/chirurgia/article.php?cod=R20Y2022N04A0197)",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chirurgia pISSN 0394-9508 eISSN 1827-1782",
+            "journal_ranking": "Pubmed, ISI, Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 35 (4): p197-201",
+            "published_date": "August, 2022"
+        },
+        {
+            "title": "Survey Anatomical Features and Related Factors of the Sphenopalatine Foramen on Computed Tomography. DOI:10.1007/s12070-021-02494-z (https://link.springer.com/article/10.1007/s12070-021-02494-z)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Indian Journal of Otolaryngology y Head & Neck Surgery ISSN 2231-3796 eISSN 0973-7707",
+            "journal_ranking": "Pubmed, ISI, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 74 (2): 1374-1378",
+            "published_date": "October, 2022"
+        },
+        {
+            "title": "Reconstruction of large anterior skull base defects after resection of sinonasal tumors with intracranial extension by using pedicled double flap techniques DOI: 10.1097/SCS.0000000000008976 (https://journals.lww.com/jcraniofacialsurgery/abstract/2023/03000/reconstruction_of_large_anterior_skull_base.39.aspx)",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Craniofacial Surgery ISSN: 1049-2275 eISSN 1536-3732",
+            "journal_ranking": "Pubmed, ISI, Scopus, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 34 (2), p 611-615",
+            "published_date": "April, 2023"
+        },
+        {
+            "title": "Hiệu quả ngăn ngừa tái phát polyp mũi xoang sau phẫu thuật nội soi bằng steroid liều cao (budesonide)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học TP.HCM ISSN: 1859-1799",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, số 1, Trang 168 – 175",
+            "published_date": "January, 2009"
+        },
+        {
+            "title": "Nghiên cứu vạt mũi vách ngăn tái tạo nền sọ trước sau phẫu thuật khối u nền sọ trước",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học TP.HCM ISSN: 1859-1799",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 2, Trang 67 – 73",
+            "published_date": "January, 2016"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm hình ảnh học u nền sọ trước",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học TP.HCM ISSN: 1859-1799",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 2, Trang 34-38",
+            "published_date": "January, 2017"
+        },
+        {
+            "title": "Hiệu quả và an toàn của sử dụng surgicel trong phẫu thuật nội soi mũi xoang",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học TP.HCM ISSN: 1859-1799",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 2, Trang 48-51",
+            "published_date": "January, 2017"
+        },
+        {
+            "title": "Khảo sát đặc điểm bệnh học u nền sọ trước",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học TP.HCM ISSN: 1859-1799",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 4, Trang 186-189",
+            "published_date": "January, 2017"
+        },
+        {
+            "title": "Khảo sát đặc điểm CT và MR trong chẩn đoán bệnh lý u hốc mũi xâm lấn nền sọ trước",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 490, số 1, Trang 131 – 135",
+            "published_date": "January, 2020"
+        },
+        {
+            "title": "Khảo sát đặc điểm lâm sàng và cận lâm sàng của ung thư họng – thanh quản",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 490, số 1, Trang 187 – 191",
+            "published_date": "January, 2020"
+        },
+        {
+            "title": "Khảo sát đặc điểm của viêm xoang biến chứng tại Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 493, số 2, Trang 106-109",
+            "published_date": "January, 2020"
+        },
+        {
+            "title": "Khảo sát tỷ lệ tái phát & tỷ lệ sống còn ở bệnh nhân sau phẫu thuật các khối u vùng nền sọ trước",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 494, số 1, Trang 61 – 65",
+            "published_date": "January, 2020"
+        },
+        {
+            "title": "Ứng dụng dao plasma trong phẫu thuật cắt amidan tại Bệnh viện Nguyễn Tri Phương năm 2018-2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học TP.HCM ISSN: 1859-1799",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24, số 2, Trang 154-157",
+            "published_date": "January, 2020"
+        },
+        {
+            "title": "Khảo sát vi trùng trong viêm xoang có biến chứng tại Bệnh viện Chợ Rẫy từ năm 2018 đến năm 2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học TP.HCM ISSN: 1859-1799",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24, số 2, Trang 191-196",
+            "published_date": "January, 2020"
+        },
+        {
+            "title": "Khảo sát đặc điểm lâm sàng, cận lâm sàng trên bệnh nhân chảy máu",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học TP.HCM ISSN: 1859-1799",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24, số 2, Trang 197-203",
+            "published_date": "January, 2020"
+        },
+        {
+            "title": "Khảo sát hình thái mũi ngoài trên bệnh nhân vẹo vách ngăn tại Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 503, số 1, Trang 111-114",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Khảo sát hiệu quả của phẫu thuật nội soi mũi xoang không đặt bấc mũi",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 505, số 1, Trang 203-206",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Nhân một trường hợp u đại bào của xương đá",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 505, số 1, Trang 228-230",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Khảo sát hình thái vẹo vách ngăn ở những bệnh nhân khám Tai Mũi Họng, Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 505, số 2, Trang 232-235",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Chẩn đoán và xử trí một trường hợp chảy dịch não tủy ở ngách bên xoang bướm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 505, số 2, Trang 245-247",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Nhân một trường hợp sử dụng vạt cuốn mũi dưới tái tạo khuyết nền sọ trước",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 506, Số 1, Trang 225-227",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Chẩn đoán và xử một trường hợp rò dưỡng chấp sau phẫu thuật u nang vùng cổ trái",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 506, Số 1",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Đánh giá hiệu quả phối hợp mở khe giữa và khe dưới qua nội soi mũi trong điều trị viêm xoang hàm do nấm tại Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 506, Số 2, Trang 276-278",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Chẩn đoán và xử trí hai trường hợp áp xe não do tai tại Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 506, Số 2, Trang 286-289",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Nhân 3 trường hợp áp xe não do viêm xoang: chẩn đoán và điều trị tại Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 508, Số 2, Trang 260-262",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Báo cáo một trường hợp bệnh nhân bị hội chứng BOSMA hiếm gặp tại Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 508, Số 2, Trang 345-347",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Báo cáo ca lâm sàng chảy dịch não tủy qua mũi tái phát nhiều lần",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 509, số 2, Trang 260-263",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Báo cáo trường hợp dị vật hiểm gặp ở sụn phễu gây áp xe sụn phễu",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 509, số 2, Trang 317-319",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Khảo sát kích thước nên sọ trước qua nội soi trên xác người Việt Nam trưởng thành",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 510, số 2, Trang 251-253",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm các mốc giải phẫu vùng hố chân bướm khẩu cái qua nội soi xác tươi người Việt Nam trưởng thành",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 510, số 2, Trang 270-274",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "Khảo sát đường đi dây thần kinh hàm dưới (v3) trên xác người trưởng thành tại bộ môn giải phẫu Đại học Y Dược TP. Hồ chí minh từ tháng 9/2020 đến tháng 7/2021",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 512, số 1, Trang 38-41",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm các mốc giải phẫu vùng xương bản vuông qua nội soi xác tươi người Việt Nam trưởng thành",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 512, số 1, Trang 116-120",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "Khảo sát đặc điểm giải phẫu của động mạch hàm trong hố dưới thái dương",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 512, số 1, Trang 201-204",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "Phẫu thuật nội soi qua mũi điều trị các khối u hốc mũi xâm lấn não",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 513, số 2, Trang 179-184",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "Khảo sát các đặc điểm hình ảnh học, lâm sàng của ung thư hàm sàng xâm lấn não (nền sọ trước) tại bệnh viện Chợ Rẫy từ năm 2016 đến năm 2021",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 522, số 1, Trang 78-80",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Khảo sát đặc điểm rò dịch não tủy qua mũi tại Bệnh viện Chợ Rẫy từ năm 2017 đến năm 2022",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 522, số 1, Trang 146-148",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Khảo sát các yếu tố tiên lượng nặng ở bệnh nhân nhiễm trùng cổ sâu tại Bệnh viện Chợ Rẫy từ 2019 đến 2022",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 522, số 2, Trang 80-84",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Khảo sát giải phẫu động mạch sàng qua nội soi mũi trên xác người Việt Nam trưởng thành.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 522, số 2, Trang 177-180",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Khảo sát kết quả điều trị rò dịch não tủy qua mũi tại Bệnh viện Chợ Rẫy từ năm 2017 đến năm 2022",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 524, số 1B, Trang 273-276",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Khảo sát vi sinh và đề kháng kháng sinh của vi khuẩn thường gặp ở bệnh nhân nhiễm trùng cổ sâu nặng tại Bệnh viện Chợ Rẫy từ 2019-2022",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 524, số 1B, Trang 357-361",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Ứng dụng sụn sườn nhuyễn tự thân trong chỉnh hình mũi chấn thương",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526, số 1B, Trang 351-354",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Khảo sát giá trị tiên lượng của thang điểm LRINEC ở bệnh nhân nhiễm trùng cổ sâu tại Bệnh viện Chợ Rẫy",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526, số 1B, Trang 367-371",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và cận lâm sàng ở bệnh nhân nhiễm trùng cổ sâu nặng có đái tháo đường tại Bệnh viện Chợ Rẫy",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 527, số 1B, Trang 1-4",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Tỷ lệ tử vong và một số yếu tố liên quan đến tử vong ở bệnh nhân nhiễm trùng cổ sâu tại Bệnh viện Chợ Rẫy",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 527, số 1B, Trang 127-130",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Khảo sát tình hình nhiễm trùng cổ sâu tại Khoa Tai Mũi Họng - Bệnh viện Chợ Rẫy năm 2019 – 2022",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "527 (Số đặc biệt), Trang 120-127",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Khảo sát khoảng cách gai mũi trước đến một số mốc giải phẫu liên quan nền sọ trược qua nội soi mũi trên thi hài người việt nam trưởng thành tại Đại học Y dược TP.HCM.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "527 (Số đặc biệt), Trang 128-133",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Đánh giá hiệu quả đường xuyên xoang hàm kết hợp nội soi qua mũi điều trị u hố dưới thái dương tại Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 533, số 1B, Trang 56-59",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Nhân một trường hợp ứng dụng vạt nhân trung tái tạo trụ mũi biến dạng co rút kết hợp tạo hình mũi bằng sụn sườn tự thân",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 533, số 1B, Trang 149-152",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Đánh giá kết quả phương pháp phẫu thuật tạo hình mũi bằng sụn sườn toàn phần tại Bệnh viện Chợ Rẫy từ 2022 - 2023",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "534, số 1, Trang 94-97",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Nhân một trường hợp sử dụng vạt đùi trước bên tái tạo nền sọ bên khuyết sau phẫu thuật u nguyên bào men răng của xoang hàm xâm lấn vào hố dưới thái dương",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "534, số 1, Trang 232-234",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Kinh nghiệm chẩn đoán và điều trị hội chứng dài mỏm trâm tại Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "536, số chuyên đề, Trang 219-223",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị ung thư lưỡi – sàn miệng tại Bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "536, số chuyên đề, Trang 238-242",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Đánh giá kết quả phẫu thuật tạo hình mũi kết hợp tạo hình đầu mũi bằng vật liệu polycaprolactone và sụn vành tai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "537, số 1B, Trang 20-22",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Khảo sát đặc điểm hoại tử cân mạc vùng mặt và quanh ổ mắt",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "537, số 1B, Trang 117-119",
+            "published_date": "January, 2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu phẫu thuật u nền sọ trước qua nội soi mũi",
+            "role": "Principal Investigator",
+            "project_code": "729/BV-NCKH",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2011-2016",
+            "acceptance_date": "17/8/2018",
+            "rating": "xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu ống giúp phát âm giúp phục hồi chức năng nói cho bệnh nhân sau phẫu thuật cắt thanh quản toàn phần",
+            "role": "Assistant",
+            "project_code": "2019-777",
+            "management_level": "Sở KH&CN TPHCM",
+            "period": "2017-2019",
+            "acceptance_date": "24/04/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu xây dựng quy trình phẫu thuật nội soi qua mũi điều trị u nền sọ trước",
+            "role": "Principal Investigator",
+            "project_code": "562022-1289",
+            "management_level": "Sở KH&CN TPHCM",
+            "period": "2020-2022",
+            "acceptance_date": "28/01/2022",
+            "rating": "xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm các mốc giải phẫu vùng xương bản vuông – chân bướm qua nội soi phẫu tích xác tươi tại bộ môn Giải phẫu đại học Y Dược TP.HCM từ 2020-2021",
+            "role": "Principal Investigator",
+            "project_code": "1357/BV-NCKH",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2020-2021",
+            "acceptance_date": "6/5/2022",
+            "rating": "xuất sắc"
+        },
+        {
+            "title": "Khảo sát giải phẫu động mạch hàm trong hố thái dương trên xác tại bộ môn Giải phẫu đại học Y Dược TP.HCM từ 2020-2021",
+            "role": "Principal Investigator",
+            "project_code": "1356/BV-NCKH",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2020-2021",
+            "acceptance_date": "6/5/2022",
+            "rating": "xuất sắc"
+        },
+        {
+            "title": "Khảo sát đặc điểm hình ảnh học, lâm sàng của ung thư hàm sàng xâm lấn não (nền sọ trước) tại Bệnh viện Chợ Rẫy từ năm 2016 – 2021",
+            "role": "Principal Investigator",
+            "project_code": "2022-3134/GCN-NCKH",
+            "management_level": "Đại học Y Dược TP.HCM",
+            "period": "2021-2022",
+            "acceptance_date": "14/3/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Khảo sát đặc điểm rò dịch não tủy qua mũi tại Bệnh viện Chợ Rẫy từ năm 2017 - 2022",
+            "role": "Principal Investigator",
+            "project_code": "2022-3135/GCN-NCKH",
+            "management_level": "Đại học Y Dược TP.HCM",
+            "period": "2021-2022",
+            "acceptance_date": "14/3/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Khảo sát các yếu tố tiên lượng nặng ở bệnh nhân nhiễm trùng cổ sâu tại Bệnh viện Chợ Rẫy từ năm 2019 - 2022",
+            "role": "Principal Investigator",
+            "project_code": "2022-3136/GCN-NCKH",
+            "management_level": "Đại học Y Dược TP.HCM",
+            "period": "2021-2022",
+            "acceptance_date": "14/3/2023",
+            "rating": "Khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Bài giảng Tai Mũi Họng thực hành",
+            "type": "Textbook",
+            "publisher": "NXB Y học",
+            "publish_year": "2018",
+            "num_authors": 20,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr.307-321",
+            "verification_document_id": "ISBN: 978-604-66-3142-2 - Quyết định số 503/QĐ-ĐHYD ngày 18 tháng 3 năm 2021"
+        },
+        {
+            "title": "CT mũi xoang và họa độ xoang",
+            "type": "Monograph",
+            "publisher": "NXB Y học",
+            "publish_year": "2022",
+            "num_authors": 9,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Viết toàn sách (Tr.1-222)",
+            "verification_document_id": "ISBN: 978-604-66-5354-7 - Quyết định số 290/QĐ-NTT ngày 16 tháng 3 năm 2023"
+        },
+        {
+            "title": "Giáo trình “tiếp cận chẩn đoán & điều trị bệnh lý mũi xoang”",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Quốc gia Hà Nội",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Viết toàn sách (Tr.1-202)",
+            "verification_document_id": "ISBN: 978-604-336-453-8 - Quyết định số 409/QĐ-NTT ngày 30 tháng 3 năm 2023"
+        },
+        {
+            "title": "Chẩn đoán và điều trị nhiễm trùng cổ sâu",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Quốc gia Hà Nội",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Viết toàn sách (Tr.1-198)",
+            "verification_document_id": "ISBN: 978-604-43-0775-6 - Quyết định số 1191/QĐ-NTT ngày 10 tháng 6 năm 2024"
+        }
+    ],
+    "patents": [],
+    "achievements": [
+        {
+            "title": "Giải thưởng Nhân tài Đất Việt 2019",
+            "certifying_organization": "Bộ Y Tế & Hội khuyến học Việt Nam",
+            "certificate_document_id": "Số 12/BTC ngày 15/11/2019",
+            "award": "National Prize",
+            "num_contributors": 5
+        }
+    ],
+    "training_programs": null
+}

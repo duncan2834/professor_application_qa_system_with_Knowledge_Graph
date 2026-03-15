@@ -1,0 +1,370 @@
+{
+    "papers": [
+        {
+            "title": "Socio-economic and environmental impact assessment in Agricultural cultivation, case studies in rice cultivation and shrimp farming in the Mekong river delta, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Impact Assessment/ISSN: 1225-7184",
+            "journal_ranking": "Not specified",
+            "citation_count": 2,
+            "volume_issue_pages": "18, 6, 461-467",
+            "published_date": "12/2009"
+        },
+        {
+            "title": "Modelling decision-making regarding wetland services for wetland management in Tram Chim National Park, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Economics and Policy/ ISSN: 2160-6544",
+            "journal_ranking": "ISI Scopus IF 2,6 Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "5, 1, 28-48",
+            "published_date": "2016"
+        },
+        {
+            "title": "Identifying and assessing the residency effect in Postello, Idaho: using combined census and parcel data",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Geography/ ISSN: 0143-6228",
+            "journal_ranking": "ISI Scopus IF 4,0 Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "69, 10-24",
+            "published_date": "03/2016"
+        },
+        {
+            "title": "Coupling hydrologic and economic modeling for wetland management multi-optimization in Tram Chim National Park, Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Planning and Management/ ISSN: 0964-0568",
+            "journal_ranking": "ISI Scopus IF 3.9 Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "60.5, 842 - 861",
+            "published_date": "2017"
+        },
+        {
+            "title": "Revealing Community Perceptions for Ecological Restoration Using a Soft System Methodology",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Systemic Practice and Action Research/ISSN: 1094-429X",
+            "journal_ranking": "ISI Scopus IF 1,0 Q3",
+            "citation_count": 15,
+            "volume_issue_pages": "32, 429-442",
+            "published_date": "2019"
+        },
+        {
+            "title": "Assessing the effectiveness of data interpolation methods for 2D meshes and adjusting them for water flow modeling in Vam Nao area",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "AGU International Journal of Sciences/ISSN: 8666-8086",
+            "journal_ranking": "Not specified",
+            "citation_count": 7,
+            "volume_issue_pages": "4, 49-57",
+            "published_date": "2019"
+        },
+        {
+            "title": "Revealing riverbed morphological evolution in river system with complexity: The Vietnam Mekong River case study",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Hydrology/ ISSN: 0022-1694",
+            "journal_ranking": "ISI Scopus IF 5.9 Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "617, B, 128897",
+            "published_date": "2023"
+        },
+        {
+            "title": "Applying a soft system methodology to reveal problems in mangrove-aquaculture system",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Science for Sustainable Society/ ISSN: 1881-5073",
+            "journal_ranking": "Not specified",
+            "citation_count": 1,
+            "volume_issue_pages": "10, 17 - 22",
+            "published_date": "2021"
+        },
+        {
+            "title": "Activity data crop management define uncertainly of CH4 and N2O emission estimates from rice: A case study of Vietnam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Plant Nutrition and Soil Science/ISSN: 1522-2624",
+            "journal_ranking": "ISI Scopus IF 2,6 Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "185, 6, 793 - 806",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Identifying flow eddy currents in river system as the riverbank scouring cause: the Mekong River's case study",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Water/ISSN: 2073-4441",
+            "journal_ranking": "ISI Scopus IF 3,0 Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "14,15,2418",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "The effects of pH on the precipitation of rice straw lignin from An Giang, Vietnam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science, Technology and Engineering/ISSN: 2615-9937",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "64, 3, 3-7",
+            "published_date": "15/09/2022"
+        },
+        {
+            "title": "Hemicellulose content in rice straws of several high-quality rice grains",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science, Technology and Engineering/ISSN: 2615-9937",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "64, 1, 14-19",
+            "published_date": "17/03/2022"
+        },
+        {
+            "title": "Rice Growth and Yield Responses to Climate Variabilities and Scenarios",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Trends in Sciences/ISSN: 2774-0226",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 3,
+            "volume_issue_pages": "20,2: 6390-6390.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Applying the SIMPLE Crop Model to Assess Soybean (Glicine max. (L.) Merr.) Biomass and Yield in Tropical Climate Variation",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Agronomy/ISSN: 2073-4395",
+            "journal_ranking": "ISI Scopus IF 3,3 Q1",
+            "citation_count": 7,
+            "volume_issue_pages": "13,4, 1180",
+            "published_date": "2023"
+        },
+        {
+            "title": "Multi-Hazard Livelihood Security and Resilience of Lower Mekong Basin Communities",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sustainability/ISSN: 2071-1050",
+            "journal_ranking": "ISI Scopus IF 3,3 Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "15, 11, 8469",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Youth participation in environmental action in Vietnam: Learning citizenship in liminal spaces",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Geographical Journal/ISSN: 0016-7398",
+            "journal_ranking": "ISI Scopus IF 3,6 Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "189, 2, 329 - 341",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Indigenous Knowledge of Peanut Cultivation of the Ethnic Khmer Resident in the Mountainous Area in An Giang province, Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal on Advanced Science, Engineering & Information Technology/ ISSN: 2088-5334",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "13, 1, 250 - 259",
+            "published_date": "2023"
+        },
+        {
+            "title": "Listening to Experiences of Environmental Change in Rural Vietnam: An Intergenerational Approach",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Progress in Development Studies/ISSN: 1464-9934",
+            "journal_ranking": "ISI Scopus IF 1,7 Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "23(4)",
+            "published_date": "2023"
+        },
+        {
+            "title": "Causes and consequences of tipping points in river delta social-ecological systems",
+            "num_authors": 18,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ambio/ISSN: 1654-7209",
+            "journal_ranking": "ISI Scopus IF 5,8 Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "1-22",
+            "published_date": "2024"
+        },
+        {
+            "title": "Khả năng sinh tổng hợp Exopolysaccharide của vi khuẩn Baccilus sp. dưới ảnh hưởng điều kiện nhiệt độ và muối Nacl",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường, ISSN 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "1+2, 101-1036",
+            "published_date": "2024"
+        },
+        {
+            "title": "Khả năng kháng khuẩn Escherichia coli và Vibrio paraheamolyticus của cao chiết lá Chùm ngây (Moringa oleifera)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "10, 360, 40-43",
+            "published_date": "5/2021"
+        },
+        {
+            "title": "Ứng dụng công cụ InVEST để tính toán carbon xanh tại rừng ngập mặn Cần Giờ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "3, 401, 53-55",
+            "published_date": "1/2/2023"
+        },
+        {
+            "title": "Thay đổi chất lượng sinh cảnh trong hệ sinh thái tại rừng ngập mặn Cần Giờ",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "3, 401, 56-57",
+            "published_date": "1/2/2023"
+        },
+        {
+            "title": "Dự báo lưu lượng nước dùng phương pháp phân tích dãy đơn SSA",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "3, 401, 58-60",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Áp dụng máy học và kiến thức kinh nghiệm trong dự báo sạt lở bờ sông",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "23, 397, 41-43",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Giải pháp tư vấn thông minh hỗ trợ canh tác cây trồng trong bối cảnh ứng phó biến đổi khí hậu và biến động thị trường",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "13, 387, 48-50",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "Ảnh hưởng của chu kỳ sáng tối đến tiềm năng sinh khối vi tảo Scenedesmus sp.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "9,359, 25-28",
+            "published_date": "9/5/2021"
+        },
+        {
+            "title": "Thách thức kỹ thuật sinh thái để phát triển bền vững mô hình nuôi thủy sản dưới tán rừng đước",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí môi trường/ISSN: 2615-9597",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "4, 51-55",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Khảo sát bốc hơi sinh học của cây xà lách trong môi trường canh tác thân thiện với môi trường",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "9, 335, 46-47",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "Nghiên cứu xây dựng vận hành và thử nghiệm mô hình pilot xử lý chất thải từ chế biến bột cá",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "8, 334, 42-44",
+            "published_date": "4/2020"
+        },
+        {
+            "title": "Mô hình hoá khả năng sinh trưởng rau Nhút sống trong môi trường nước thải ao nuôi cá Rô phi và cá Điêu hồng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và môi trường/ISSN: 1859-1477",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "1, 7, 20-22",
+            "published_date": "1/11/2019"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Áp dụng mô hình TELEMAC 3D để mô phỏng dòng chảy và vận chuyển trầm tích tại khu vực ngã ba sông Hậu và sông Vàm Nao (khu vực sạt lở xã Mỹ Hội Đông)",
+            "role": "Principal Investigator",
+            "project_code": "373.2017.28",
+            "management_level": "Sở Khoa học và Công nghệ tỉnh An Giang",
+            "period": "12/2017 – 11/2020",
+            "acceptance_date": "14/02/2023",
+            "rating": "khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Mô hình hóa Môi trường và Ứng dụng",
+            "type": "Textbook",
+            "publisher": "Đại học quốc gia TP. Hồ Chí Minh",
+            "publish_year": "2022",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ giáo trình",
+            "verification_document_id": "861/GXN-ĐHAG ISBN 978-604-73-8759-5"
+        },
+        {
+            "title": "Công nghệ sinh học môi trường",
+            "type": "Textbook",
+            "publisher": "Đại học quốc gia TP. Hồ Chí Minh",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Toàn bộ giáo trình",
+            "verification_document_id": "261/QĐ-NXB ISBN 978-604-73-8762-5"
+        },
+        {
+            "title": "Chương sách \"Integrated climate change assessments on selected farming systems in India, Pakistan, Bangladesh, and Viet Nam\" trong quyển “Fostering Resilient Global Supply Chains Amid Risk and Uncertainty\"",
+            "type": "Reference Book",
+            "publisher": "Asian Development Bank Institute",
+            "publish_year": "2023",
+            "num_authors": 13,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 3, trang 67-95",
+            "verification_document_id": "ISBN 978-4-89974-292-0"
+        },
+        {
+            "title": "Chương sách \"Managing distance when teaching, learning and doing oral history: A case study from Vietnam\" trong quyển “Handbook of teaching and learning social research methods\"",
+            "type": "Reference Book",
+            "publisher": "Edward Elgar Publishing Limited",
+            "publish_year": "2023",
+            "num_authors": 11,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 29, trang 427-442",
+            "verification_document_id": "ISBN 9781800884274"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

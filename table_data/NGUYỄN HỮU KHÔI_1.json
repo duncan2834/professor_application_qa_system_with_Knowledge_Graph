@@ -1,0 +1,575 @@
+{
+    "papers": [
+        {
+            "title": "Factors affecting mobile shopping: a Vietnamese perspective",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Business and Economic Studies; ISSN: 2515-964X; eISSN: 2515-964X",
+            "journal_ranking": "International Journal",
+            "citation_count": 53,
+            "volume_issue_pages": "Vol 25 (2), pp.186-205",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "The role of perceived values in explaining Vietnamese consumers' attitude and intention to adopt mobile commerce",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asia Pacific Journal of Marketing and Logistics; ISSN: 1355-5855; eISSN: 1355-5855",
+            "journal_ranking": "SSCI, Scopus IF=1,276; Q2",
+            "citation_count": 90,
+            "volume_issue_pages": "Vol 30 (4), pp.1112-1134",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Customer inspiration in a tourism context: an investigation of driving and moderating factors",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Current Issues in Tourism; ISSN: 1368-3500; eISSN: 1747-7603",
+            "journal_ranking": "SSCI, Scopus IF=7,430; Q1",
+            "citation_count": 42,
+            "volume_issue_pages": "Vol 23 (21), pp. 2699-2715",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Các nhân tố tác động đến mức độ ứng dụng thương mại điện tử trong các doanh nghiệp tại thành phố Nha Trang",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển Kinh tế (Hiện nay là Tạp chí Nghiên cứu Kinh tế và Kinh doanh Châu Á); ISSN: 2615-9104",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "274(8), tr. 51-64",
+            "published_date": "8/2013"
+        },
+        {
+            "title": "Các nhân tố tác động đến sự tin tưởng của khách hàng trong mua hàng trực tuyến",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "229(7), tr. 52-59",
+            "published_date": "7/2016"
+        },
+        {
+            "title": "Mở rộng lý thuyết hành vi dự định để giải thích ý định sử dụng M-Commerce tại Khánh Hòa",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "239(5), tr. 37-46",
+            "published_date": "5/2017"
+        },
+        {
+            "title": "Mua sắm xã hội trực tuyến: Vai trò của động cơ xã hội",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "245(11), tr. 58-67",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Mối quan hệ giữa cảm xúc với điểm đến và chất lượng quan hệ trong kinh doanh du lịch: Trường hợp du khách nội địa ở TP. Hồ Chí Minh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế và Kinh doanh Châu Á; ISSN: 2615-9104",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "28(12), tr. 22-40",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Nghiên cứu về cảm xúc tiêu cực và hành vi đối phó của khách hàng: Trường hợp ngành kinh doanh dịch vụ nhà hàng",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế và Kinh doanh Châu Á; ISSN: 2615-9104",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "29(1), tr. 21-37",
+            "published_date": "1/2018"
+        },
+        {
+            "title": "Mở rộng lý thuyết hành vi dự định để dự báo ý định sử dụng thương mại di động tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "247(1), tr. 81-90",
+            "published_date": "1/2018"
+        },
+        {
+            "title": "Vai trò của quy chuẩn trong việc giải thích hành vi tham gia mua sắm xã hội trực tuyến",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "252(6), tr. 47-56",
+            "published_date": "6/2018"
+        },
+        {
+            "title": "Động cơ xã hội trong hoạt động mua sắm xã hội trực tuyến",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chuyên san Kinh tế - Luật và Quản lý; ISSN: 2588-1051",
+            "journal_ranking": "National Journal Q5",
+            "citation_count": 0,
+            "volume_issue_pages": "1(Q5), tr. 32-43",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Giá trị cảm nhận, chất lượng mối quan hệ và động cơ truyền miệng của du khách",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "258(12), tr. 63-73",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Giá trị cảm nhận và ý định sử dụng thương mại di động: Vai trò của giá trị tri thức và giá trị dựa trên điều kiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Kinh tế và Kinh doanh Châu Á; ISSN: 2615-9104",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "30(3), tr. 35-49",
+            "published_date": "3/2019"
+        },
+        {
+            "title": "Hành vi truyền miệng của du khách: vai trò của chất lượng dịch vụ, tình cảm và hài lòng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kinh tế; ISSN: 0866-7969",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "7(1), tr. 80-91",
+            "published_date": "3/2019"
+        },
+        {
+            "title": "Động cơ và kết quả của hành vi mua sắm trên mạng xã hội trực tuyến tại Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "261(3), tr. 40-49",
+            "published_date": "3/2019"
+        },
+        {
+            "title": "Tác động của định hướng thời gian, chi phí và lợi ích cảm nhận đến ý định sử dụng thương mại di động của người tiêu dùng tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Kinh tế và Kinh doanh Châu Á; ISSN: 2615-9104",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "30(4), tr. 65-80.",
+            "published_date": "4/2019"
+        },
+        {
+            "title": "Giải thích ý định giảm thiểu sử dụng túi nhựa của du khách quốc tế bằng lý thuyết hành vi dự định mở rộng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "273(3), tr. 43-52",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Hành vi mua sắm trực tuyến ngẫu hứng: vai trò của giá trị cảm nhận và nhận thức kết quả trong tương lai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế; ISSN: 0866-7489",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "6(505), tr. 40-48",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "Mối quan hệ giữa trải nghiệm, sự cam kết và gắn kết thương hiệu: vai trò trung gian và điều tiết của tham gia thương hiệu",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "277(7), tr. 63-72",
+            "published_date": "7/2020"
+        },
+        {
+            "title": "Tính \"cool” của sản phẩm thời trang: nghiên cứu thực nghiệm về nguyên nhân và kết quả",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế; ISSN: 0866-7489",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "12(511), tr. 68-78",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Tourist inspiration and its consequences: The moderating role of neuroticism",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Tourism Research; ISSN:1099-2340; eISSN:1522-1970",
+            "journal_ranking": "SSCI, Scopus IF=4,737; Q1",
+            "citation_count": 21,
+            "volume_issue_pages": "Vol 23 (5), pp. 901-913",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "How consumer innovativeness, technological expertise, and consideration set size can explain mobile commerce use: An extended understanding using a moderation-mediation model",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Information Systems and e-Business Management; ISSN: 1617-9846; eISSN: 1617-9854",
+            "journal_ranking": "SSCI, Scopus IF=2,275; Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol 19, pp. 1015-1038",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Unraveling the dynamic and contingency mechanism between service experience and customer engagement with luxury hotel brands",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Hospitality Management; ISSN: 0278-4319; eISSN: 1873-4693",
+            "journal_ranking": "SSCI, Scopus IF=10,427; Q1",
+            "citation_count": 33,
+            "volume_issue_pages": "Vol 99 (October) 103057",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "The \"well-being” and \"ill-being\" of online impulsive and compulsive buying on life satisfaction: the role of self-esteem and harmony in life",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Macromarketing; ISSN: 0276-1467; eISSN: 1552-6534",
+            "journal_ranking": "SSCI, Scopus IF=3,1; Q2",
+            "citation_count": 41,
+            "volume_issue_pages": "Vol 42 (1), pp. 128-145",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Is coolness important to luxury hotel brand management? The linking and moderating mechanisms between coolness and customer brand engagement",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Contemporary Hospitality Management; ISSN: 0959-6119; eISSN: 0959-6119",
+            "journal_ranking": "SSCI, Scopus IF=11,1; Q1",
+            "citation_count": 32,
+            "volume_issue_pages": "Vol 34 (7), pp. 2425-2449",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "The effect of tourism development on the ecological footprint in Singapore: evidence from asymmetric ARDL method",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Current Issues in Tourism; ISSN: 1368-3500; eISSN: 1747-7603",
+            "journal_ranking": "SSCI, Scopus IF=8,0; Q1",
+            "citation_count": 23,
+            "volume_issue_pages": "Vol 25 (15), pp. 2500-2517",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "A moderating mediating model of the urge to buy impulsively in social commerce live-streaming",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electronic Commerce Research and Applications; ISSN: 1567-4223; eISSN: 1873-7846",
+            "journal_ranking": "SSCI, Scopus IF=6,0; Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol 60 (July-August), 101286",
+            "published_date": "7/2023"
+        },
+        {
+            "title": "The role of values in explaining satisfaction in the mobile commerce context: the moderating role of consumer participation",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Services Technology and Management; ISSN: 1460-6720; eISSN: 1741-525X",
+            "journal_ranking": "ESCI, Scopus IF=0.5; Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 28 (5-6), pp. 425-444",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "The conflicting effects of self-construal on impulsive buying tendency toward unhealthy food: the moderating role of future time perspective",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Current Psychology; ISSN: 1046-1310; eISSN: 1936-4733",
+            "journal_ranking": "SSCI, Scopus IF=2,8; Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol 42, pp. 30262-30276",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Real-time interactivity and impulsive buying in livestreaming commerce: the focal intermediary role of inspiration",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Human-Computer Interaction; ISSN: 1044-7318; eISSN: 1532-7590",
+            "journal_ranking": "SSCI, Scopus IF=4,7; Q1",
+            "citation_count": 14,
+            "volume_issue_pages": "Vol 40 (11), pp. 2938-2953",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "The role of food-related consideration of future consequences, health and environmental concerns in explaining sustainable food (fish) attitudes",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Economics and Development; ISSN: 1859-0020; eISSN: 2632-5330",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Forthcoming",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Trách nhiệm xã hội đối với nhân viên và hiệu quả làm việc: Vai trò trung gian của hành vi công dân tổ chức trong bối cảnh dịch vụ khách sạn",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "288(6), tr. 74-82",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Nghiên cứu khám phá tác động của các nhân tố lập luận đạo đức đến thái độ và ý định hành vi mua của người tiêu dùng hàng nhái tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại; ISSN: 2815-5726",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "151, tr. 42-49",
+            "published_date": "7/2021"
+        },
+        {
+            "title": "Mối quan hệ giữa tính “sành điệu” của sản phẩm thời trang, giá trị cảm nhận và ý định mua của người tiêu dùng trẻ tuổi tại Nha Trang",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại; ISSN: 2815-5726",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "149-150, tr. 137-147",
+            "published_date": "7/2021"
+        },
+        {
+            "title": "Giá trị cảm nhận, chất lượng mối quan hệ và sự gắn kết của khách hàng trong bối cảnh dịch vụ nhà hàng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Mở Thành phố Hồ Chí Minh (Kinh tế và Quản trị Kinh doanh); ISSN: 2734-9578",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "17(1), tr. 91-102",
+            "published_date": "8/2021"
+        },
+        {
+            "title": "Nhận thức đạo đức, tách rời đạo đức và ý định tiêu dùng sản phẩm vi phạm bản quyền: tác động điều tiết của khuynh hướng đạo đức",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "295(1), tr. 73-82.",
+            "published_date": "1/2022"
+        },
+        {
+            "title": "Tác động của gắn bó cảm xúc và trung thành thương hiệu đến truyền miệng và nói tiêu cực về thương hiệu cạnh tranh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "308(2), tr. 32-41",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Tác động của giá trị cảm nhận đến mua hàng lặp lại và sự sẵn sàng chi trả",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương Mại; ISSN: 2815-5726",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "170, tr. 82-91",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Phân nhóm người tiêu dùng cá tại Việt Nam dựa trên thuộc tính sản phẩm",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế; ISSN: 0866-7489",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "3(358), tr. 88-100",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Giá trị cảm nhận, mua hàng lặp lại và truyền miệng trong bối cảnh bán lẻ: vai trò trung gian của hài lòng và gắn bó cảm xúc",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại; ISSN: 2815-5726",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "174, tr. 76-88",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Ý định tiêu dùng sản phẩm cá: mở rộng lý thuyết hành vi dự định với thuộc tính sản phẩm",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển bền vững Vùng; ISSN: 2354-0729",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "13(2), tr. 60-72",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Ảnh hưởng của giá trị sang trọng đến sẵn lòng chi trả và truyền miệng đối với khách sạn hạng sang: Vai trò của sự hài lòng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển; ISSN: 1859-0012",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "319(1), tr. 74-83",
+            "published_date": "1/2024"
+        },
+        {
+            "title": "Các nhân tố ảnh hưởng đến ý định mua sắm của khách hàng trong bối cảnh bán lẻ hợp kênh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại; ISSN: 2815-5726",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "186, tr. 76-86",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Entrepreneurial enablers, risk perception, motivational factors and behavioral intention: evidence from Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International Conference of University of Economics Ho Chi Minh City: Policies and Sustainable Economic Development; ISBN: 978-604-922-568-0",
+            "journal_ranking": "International Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 119-136",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "The role of self-esteem and cognitive subjective well-being on online impulsive and compulsive buying",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Book of abstracts: The 6th International Conference on Marketing; ISBN: 978-955-3605-15-3",
+            "journal_ranking": "International Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 6",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Tác động của nội dung do người tiêu dùng tạo ra trên YouTube đến hành vi người tiêu dùng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International Conference: Marketing in the Connected Age; ISBN: 978-604-84-1836-6",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 80-91",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Truyền thông xã hội và hành vi người tiêu dùng trong lĩnh vực du lịch",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học ứng dụng công nghệ thông tin trong du lịch; ISBN: 978-604-922-510-9",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 31-46",
+            "published_date": "5/2017"
+        },
+        {
+            "title": "An extensive model of perceived value in predicting consumer satisfaction toward mobile commerce: the moderator role of use of time",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the International Conference on Management and Business 2021; ISBN: 978-604-79-2984-9",
+            "journal_ranking": "International Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 465-480",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Giải thích hành vi truyền miệng và nói tiêu cực về thương hiệu cạnh tranh: vai trò của gắn bó và trung thành thương hiệu",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc tế dành cho các nhà khoa học trẻ khối trường Kinh tế và Kinh doanh 2022; ISBN: 978-604-384-776-5",
+            "journal_ranking": "National Conference Proceedings",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 316",
+            "published_date": "10/2022"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Xây dựng phần mềm thi trắc nghiệm (ĐT)",
+            "role": "Principal Investigator",
+            "project_code": "TR2017-13-13",
+            "management_level": "Institutional Level",
+            "period": "06/03/2017 – 31/03/2018",
+            "acceptance_date": "08/05/2018",
+            "rating": "Good"
+        },
+        {
+            "title": "Brand engagement in tourism context: direct, indirect and moderating factors (ĐT)",
+            "role": "Key Member",
+            "project_code": "CS-2018-39",
+            "management_level": "Institutional Level",
+            "period": "02/01/2019 – 02/01/2020",
+            "acceptance_date": "09/09/2020",
+            "rating": "Satisfactory"
+        },
+        {
+            "title": "Tính \"cool” của sản phẩm thời trang: nghiên cứu thực nghiệm về nguyên nhân và kết quả (ĐT)",
+            "role": "Principal Investigator",
+            "project_code": "TR2020-13-08",
+            "management_level": "Institutional Level",
+            "period": "24/07/2020 – 31/07/2021",
+            "acceptance_date": "24/04/2021",
+            "rating": "Good"
+        },
+        {
+            "title": "Ảnh hưởng của giá trị cảm nhận và tính cách cá nhân đến hành vi mua hàng trực tuyến của người tiêu dùng Việt Nam (ĐT)",
+            "role": "Key Member",
+            "project_code": "502.02-2018.311",
+            "management_level": "National Foundation for Science and Technology Development (NAFOSTED)",
+            "period": "25/02/2019 – 31/12/2021",
+            "acceptance_date": "29/12/2022",
+            "rating": "Satisfactory"
+        },
+        {
+            "title": "Sự đắm chìm và sự hiện diện là trải nghiệm marketing quan trọng trong kỷ nguyên phát triển công nghệ hiện nay (ĐT)",
+            "role": "Key Member",
+            "project_code": "502.02-2020.30",
+            "management_level": "National Foundation for Science and Technology Development (NAFOSTED)",
+            "period": "20/06/2020 – 31/12/2022",
+            "acceptance_date": "05/07/2023",
+            "rating": "Satisfactory"
+        },
+        {
+            "title": "Quá trình trao đổi giá trị giữa người tiêu dùng và thương hiệu trong bối cảnh bán lẻ: khám phá tác động trực tiếp và gián tiếp (ĐT)",
+            "role": "Principal Investigator",
+            "project_code": "TR2022-13-15",
+            "management_level": "Institutional Level",
+            "period": "25/10/2022 – 30/11/2023",
+            "acceptance_date": "28/08/2023",
+            "rating": "Good"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phân tích dữ liệu bằng kỹ thuật mô hình cấu trúc bình phương bé nhất bán phần với phần mềm SmartPLS",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Thanh Niên",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "từ trang: 1-129",
+            "verification_document_id": "1064/QĐ-ĐHNT ngày 25/08/2022"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

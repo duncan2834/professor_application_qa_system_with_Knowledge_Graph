@@ -1,0 +1,521 @@
+{
+    "papers": [
+        {
+            "title": "Các yếu tố ảnh hưởng đến việc thực hiện pháp luật về dân chủ cơ sở ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo: Một số vấn đề lý luận, thực tiễn về dân chủ trực tiếp, dân chủ cơ sở trên thế giới và ở Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr.250-tr.258",
+            "published_date": "2014"
+        },
+        {
+            "title": "Bảo đảm thực thi phán quyết của Toà hành chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dân chủ và Pháp luật ISSN 9866 - 7535",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 10 (295), Tr.42-46",
+            "published_date": "2016"
+        },
+        {
+            "title": "Bảo đảm quyền công dân trong tố tụng hành chính ở nước ta",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị ISSN 2525 - 2585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 01, Tr.58-62",
+            "published_date": "2017"
+        },
+        {
+            "title": "Hoàn thiện cơ chế kiểm soát quyền lực nhà nước của cơ quan tư pháp đối với cơ quan hành pháp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị - ISSN 2525-2585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8, Tr.106-111",
+            "published_date": "2017"
+        },
+        {
+            "title": "Báo chí trong đấu tranh phòng, chống tham nhũng - Thực trạng và giải pháp",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thông tin khoa học lý luận chính trị - ISSN 2354 1040",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8 (33), Tr.77-82",
+            "published_date": "2017"
+        },
+        {
+            "title": "Vai trò của Tòa Hành chính trong bảo vệ quyền công dân trong tố tụng hành chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp ISSN 1859–2953",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 24 (352), Tr.18-23",
+            "published_date": "2017"
+        },
+        {
+            "title": "Bảo đảm quyền công dân của Viện kiểm sát nhân dân theo Luật Tố tụng hành chính năm 2015",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thông tin khoa học lý luận chính trị ISSN 2354-1040",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11 (36), Tr.78-83",
+            "published_date": "2017"
+        },
+        {
+            "title": "Thi hành quy định về phương thức nhân dân thực hiện quyền lực nhà nước theo Hiến pháp năm 2013",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo: Thi hành Hiến pháp Nước Cộng hòa XHCN Việt Nam năm 2013: Thực trạng và những vấn đề đặt ra ISBN: 978-604-962-313-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr.109-123",
+            "published_date": "2019"
+        },
+        {
+            "title": "Phát huy vai trò của phụ nữ trong xây dựng pháp luật ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc gia: Đảm bảo quyền tham chính của phụ nữ trong giai đoạn hiện nay Số xác nhận XB: 4253-2019",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr.211-218",
+            "published_date": "2019"
+        },
+        {
+            "title": "Rào cản pháp lý đối với sự phát triển của du lịch thông minh ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu chuỗi Hội thảo khoa học liên ngành DAAS 2020- Đại học Quốc gia Hà Nội và Viện Quốc tế Pháp ngữ ISBN: 978-604-65-5434-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr.236-245",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ensuring the right to access information of persons with disabilities in Vietnam today",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo quốc tế - Đại học Bình Dương và UBDP ISBN: 978-604-364-532-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr.166-172",
+            "published_date": "2023"
+        },
+        {
+            "title": "Bảo đảm chất lượng xây dựng pháp luật ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị ISSN 2525 - 2585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, Tr.23-29",
+            "published_date": "2019"
+        },
+        {
+            "title": "Xác định vị trí việc làm nhằm thực hiện tinh giản biên chế ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thông tin khoa học lý luận chính trị ISSN 2354 – 1040",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6/55, Tr.33-40",
+            "published_date": "2019"
+        },
+        {
+            "title": "Thực hiện nguyên tắc lồng ghép vấn đề bình đẳng giới trong xây dựng pháp luật ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thông tin khoa học lý luận chính trị ISSN 2354 – 1040",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11 (60), Tr.40-45",
+            "published_date": "2019"
+        },
+        {
+            "title": "Công tác kiểm tra, xử lý văn bản quy phạm pháp luật ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thông tin khoa học lý luận chính trị ISSN 2354-1040",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8+9 (68), Tr.73-79",
+            "published_date": "2020"
+        },
+        {
+            "title": "Quản lý đơn vị sự nghiệp công lập thích ứng với cuộc Cách mạng công nghiệp 4.0 ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị ISSN 2525 - 2585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, Tr.88-93",
+            "published_date": "2020"
+        },
+        {
+            "title": "Sắp xếp, kiện toàn lại đơn vị sự nghiệp công lập nhằm thực hiện tinh giản biên chế ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thông tin khoa học lý luận chính trị ISSN 2354 – 1040",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4 (65), Tr.41-48",
+            "published_date": "2020"
+        },
+        {
+            "title": "Thi hành pháp luật về viên chức giáo dục mầm non – Thực trạng và giải pháp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thông tin khoa học lý luận chính trị ISSN 2354 – 1040",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12 (82), Tr.75-82",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xây dựng nền hành chính phục vụ nhân dân theo tinh thần Đại hội XIII của Đảng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị ISSN 2525-2585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 530 (4-2022), Tr.24-29",
+            "published_date": "2022"
+        },
+        {
+            "title": "Pháp luật về nền hành chính số ở Việt Nam – Thực trạng và giải pháp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị ISSN 2525-2585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 540 (2-2023), Tr.111-115",
+            "published_date": "2023"
+        },
+        {
+            "title": "Trách nhiệm của doanh nghiệp trong phòng, chống tham nhũng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị ISSN 2525-2585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 548 (10-2023), Tr.124-129",
+            "published_date": "2023"
+        },
+        {
+            "title": "Hoàn thiện pháp luật về tổ chức và hoạt động của Chính phủ theo tinh thần Đại hội XIII của Đảng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị ISSN 2525-2585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 554 (4-2024), tr.28-34",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đổi mới hoạt động lập pháp ở Việt Nam thích ứng với cuộc Cách mạng công nghiệp lần thứ tư",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dân chủ và pháp luật p-ISSN: 3030-4776",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 418, Tr.11-19",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Giải pháp hoàn thiện pháp luật đối với nhóm ngành công nghiệp sáng tạo",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước ISSN 2354-0761",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 353, Tr.80-83",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Corporate social responsibilities in protecting consumers' rights under Vietnamese law today",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Law and Political Sciences, P.ISSN 2222-7288 E.ISSN 2518-5551",
+            "journal_ranking": "ISI Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.32, Issue (2), Tr.128-143",
+            "published_date": "Nov, 2021"
+        },
+        {
+            "title": "Improve The Effectiveness of Law Dissemination and Education for People with Disabilities in Vietnam Today",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "BiLD Law Journal (bildbd.com) ISSN: 2518-6523",
+            "journal_ranking": "ISI Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.7 No.2s, Pp.239-246",
+            "published_date": "2022"
+        },
+        {
+            "title": "Viewpoints on Ruling by Law in The Philosophical Thought of Han Fei Tzu",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Jurnal Cita Hukum, ISSN: 2356-1440",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.12 No. 1, Pp.115-128",
+            "published_date": "2024"
+        },
+        {
+            "title": "Solutions to Reduce Violence and Sexual Abuse to Children in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Revista Brasileira De Direito, ISSN: 2238-0604",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "V. 19, N. 3 (2023), Pp. 01-173",
+            "published_date": "2024"
+        },
+        {
+            "title": "The role of the family education in enhancing gender equality in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Brazilian Journal of Education, Technology and Society (BRAJETS), ISSN: 2316-9907",
+            "journal_ranking": "ISI Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17 No. se2, Pp. 121-133",
+            "published_date": "2024"
+        },
+        {
+            "title": "Promoting gender equality and enhancing educatinonal quality in VietNam: An analysis of current trends and strategies",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Conhecimento & Diversidade-Brazilian Educational Journal, ISSN: 2237-8049",
+            "journal_ranking": "ISI Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "v. 16 n. 44, Pp. 44-64",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Cơ sở lý luận và thực tiễn về văn hoá công vụ",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "01/2016-12/2016",
+            "acceptance_date": "30/12/2016",
+            "rating": "Khá"
+        },
+        {
+            "title": "Quá trình hình thành, phát triển quan điểm của Đảng Cộng sản Việt Nam về nhà nước và pháp luật thời kỳ đổi mới",
+            "role": "Assistant",
+            "project_code": "",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "01/2018-12/2018",
+            "acceptance_date": "02/4/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Hoàn thiện pháp luật về kiểm soát lợi ích nhóm ở Việt Nam hiện nay",
+            "role": "Assistant",
+            "project_code": "B.19-07",
+            "management_level": "Đề tài cấp Bộ",
+            "period": "01/2019-12/2020",
+            "acceptance_date": "18/01/2022",
+            "rating": "Khá"
+        },
+        {
+            "title": "Cơ sở lý luận và thực tiễn về xây dựng pháp luật ở Việt Nam hiện nay",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "01/2019-12/2019",
+            "acceptance_date": "04/5/2020",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Hoàn thiện khung pháp lý về xây dựng nền hành chính số ở Việt Nam thích ứng với cuộc Cách mạng công nghiệp lần thứ tư",
+            "role": "Principal Investigator",
+            "project_code": "B.20-21",
+            "management_level": "Đề tài cấp Bộ",
+            "period": "01/2020-12/2021",
+            "acceptance_date": "20/01/2022",
+            "rating": "Khá"
+        },
+        {
+            "title": "Văn hoá trong quản lý nhà nước – Lịch sử và đương đại",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "01/2022-12/2022",
+            "acceptance_date": "08/02/2023",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Lý luận và thực tiễn quản lý nhà nước về dịch vụ công ở Việt Nam hiện nay",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "01/2023-12/2023",
+            "acceptance_date": "22/01/2024",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Trung cấp Lý luận chính trị - Hành chính Môn học: Những vấn đề cơ bản về quản lý hành chính nhà nước",
+            "type": "Textbook",
+            "publisher": "Nxb Lý luận Chính trị",
+            "publish_year": "2014",
+            "num_authors": 27,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr.143-212",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Law on Corporate Social Responsibilities in Protecting Consumer Rights in Viet Nam",
+            "type": "Monograph",
+            "publisher": "Springer Nature",
+            "publish_year": "2023",
+            "num_authors": 26,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr.159-170",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Bảo đảm quyền công dân trong tố tụng hành chính ở Việt Nam",
+            "type": "Monograph",
+            "publisher": "Nxb Tư pháp",
+            "publish_year": "2025",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Viết một mình (là kết quả của Luận án tiến sĩ)",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Cơ chế pháp lý về giám sát của Nhân dân thông qua Mặt trận Tổ quốc và các tổ chức chính trị-xã hội đối với các cơ quan hành chính nhà nước ở Việt Nam hiện nay",
+            "type": "Reference Book",
+            "publisher": "Nxb Lý luận Chính trị",
+            "publish_year": "2019",
+            "num_authors": 17,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Phần viết của các thành viên được biên tập trộn lẫn với nhau",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Tư pháp trong Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam",
+            "type": "Reference Book",
+            "publisher": "Nxb Tư pháp",
+            "publish_year": "2019",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Phần viết của các thành viên được biên tập trộn lẫn với nhau",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Tinh giản biên chế ở một số quốc gia và ở Việt Nam",
+            "type": "Reference Book",
+            "publisher": "Nxb Đại học quốc gia Hà Nội",
+            "publish_year": "2019",
+            "num_authors": 19,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr.118-128",
+            "verification_document_id": "Xác nhận số 626-GXN/I-HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Tài liệu Bồi dưỡng, cập nhật kiến thức dành cho cán bộ lãnh đạo, quản lý thuộc diện Ban Thường vụ Tỉnh uỷ, Thành uỷ và tương đương quản lý (Đối tượng 3) – Đồng tác giả chuyên đề “Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa kiến tạo, phát triển, liêm chính, hiệu lực, hiệu quả, phục vụ nhân dân”",
+            "type": "Reference Book",
+            "publisher": "Nxb Lý luận Chính trị",
+            "publish_year": "2021",
+            "num_authors": 20,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr.206-243",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Đánh giá những tác động của Bộ luật lao động năm 2019 đối với doanh nghiệp tại Việt Nam hiện nay",
+            "type": "Monograph",
+            "publisher": "Nxb Đại học quốc gia Hà Nội",
+            "publish_year": "2021",
+            "num_authors": 27,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr.229-240",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Giáo trình Nhà nước và pháp luật Việt Nam (dùng cho hệ đào tạo Cao cấp lý luận chính trị)",
+            "type": "Textbook",
+            "publisher": "Nxb Lý luận Chính trị",
+            "publish_year": "2021",
+            "num_authors": 25,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr.94-138; tr.431-513",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Giáo trình Trung cấp Lý luận chính trị Môn học: Nội dung cơ bản về nhà nước và pháp luật",
+            "type": "Textbook",
+            "publisher": "Nxb Lý luận Chính trị",
+            "publish_year": "2021",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr.11-52; tr.145-181",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Luật Hành chính Việt Nam – Từ truyền thống đến Nhà nước pháp quyền xã hội chủ nghĩa",
+            "type": "Reference Book",
+            "publisher": "Nxb Chính trị quốc gia Sự thật",
+            "publish_year": "2023",
+            "num_authors": 43,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr.141-152",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Tài liệu Bồi dưỡng nâng cao kiến thức, phương pháp, kỹ năng nghiên cứu, giảng dạy Nhà nước và pháp luật; Đồng tác giả chuyên đề 1, 10 (tập 1); chuyên đề 14, 16 (tập 2)",
+            "type": "Reference Book",
+            "publisher": "Nxb Lý luận Chính trị",
+            "publish_year": "2023",
+            "num_authors": 22,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tập 1: Chuyên đề 1 (tr.13-41); Chuyên đề 10 (tr.361-388); Tập 2: Chuyên đề 14 (tr.137-203); Chuyên đề 16 (tr.235-262)",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        },
+        {
+            "title": "Cơ sở lý luận và thực tiễn về xây dựng Chính quyền điện tử ở Việt Nam hiện nay",
+            "type": "Monograph",
+            "publisher": "Nxb Lý luận Chính trị",
+            "publish_year": "2023",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr.102-128",
+            "verification_document_id": "Xác nhận số 626-GXN/HVCTQG ngày 27/6/2025 của Học viện CTQG Hồ Chí Minh"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Chương trình Bồi dưỡng nâng cao kiến thức, phương pháp, kỹ năng nghiên cứu, giảng dạy Nhà nước và pháp luật",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "12383-QĐ/HVCTQG ngày 01/11/2022 của Giám đốc Học viện",
+            "certifying_authority": "Học viện CTQG Hồ Chí Minh",
+            "implementation_document_id": "12617-QĐ/HVCTQG ngày 17/11/2022 của Giám đốc Học viện CTQG",
+            "notes": "Tài liệu Bồi dưỡng nâng cao kiến thức, phương pháp, kỹ năng nghiên cứu, giảng dạy"
+        },
+        {
+            "title": "Chương trình đào tạo thạc sĩ ngành Quản lý nhà nước (chỉnh sửa, bổ sung) (Đề án 979)",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 115-QĐ/HVCTQG ngày 03/11/2023 của Giám đốc Học viện CTQG Hồ Chí Minh về việc triển khai nhiệm vụ “Nghiên cứu chỉnh sửa, bổ sung chương trình đào tạo và biên soạn giáo trình thạc sĩ ngành Quản lý nhà nước” thuộc Đề án 979",
+            "certifying_authority": "Học viện CTQG Hồ Chí Minh",
+            "implementation_document_id": "Giáo trình “Lý luận về nhà nước và pháp luật” (Biên bản nghiệm thu ngày 20/12/2024); Giáo trình “Các quan điểm, học thuyết về quản lý nhà nước” (Biên bản nghiệm thu ngày 20/12/2024)",
+            "notes": ""
+        }
+    ]
+}

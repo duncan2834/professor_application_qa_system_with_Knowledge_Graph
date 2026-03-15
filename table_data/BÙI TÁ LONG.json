@@ -1,0 +1,1308 @@
+{
+    "papers": [
+        {
+            "title": "Mô hình mô phỏng quá trình lan truyền và khuếch tán chất bẩn trong bài toán thiết lập hệ thống quan trắc nhiễm bẩn môi trường khí",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 442, No. 10, pp. 38-47.",
+            "published_date": "10/1997"
+        },
+        {
+            "title": "Phần mềm trợ giúp công tác quản lý, qui hoạch và đánh giá tác động môi trường",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 446, No. 2, pp. 24-28.",
+            "published_date": "2/1998"
+        },
+        {
+            "title": "Ứng dụng công nghệ GIS trong mô phỏng môi trường",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 468, No. 12, pp. 34-41.",
+            "published_date": "12/1999"
+        },
+        {
+            "title": "Phân tích và dự báo ô nhiễm môi trường trong trường hợp tai biến bởi tác nhân hóa học độc hại",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 467, No. 11, pp. 28-35.",
+            "published_date": "11/1999"
+        },
+        {
+            "title": "Xây dựng công cụ tin học đánh giá tác động yếu tố con người lên môi trường không khí",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 467, No. 11, pp. 21-26.",
+            "published_date": "11/1999"
+        },
+        {
+            "title": "Ứng dụng GIS trong quản ý môi trường không khí bị ô nhiễm do giao thông.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 476, No. 8, pp. 14-22.",
+            "published_date": "8/2000"
+        },
+        {
+            "title": "Xây dựng công cụ tích hợp trợ giúp công tác giám sát ô nhiễm không",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 514, No. 10,",
+            "published_date": "10/2003"
+        },
+        {
+            "title": "khí vùng kinh tế trọng điểm. Xây dựng phần mềm INSEM hỗ trợ công tác giám sát chất lượng môi trường cho các tỉnh thành Việt Nam.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 517, No. 1, pp. 10-19.",
+            "published_date": "1/2004"
+        },
+        {
+            "title": "Ứng dụng tin học môi trường trong phân tích ô nhiễm tại khu công nghiệp Hòa Khánh, Tp. Đà Nẵng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 527, no. 11, pp. 12-24, 2004.",
+            "published_date": "2004"
+        },
+        {
+            "title": "Xây dựng hệ thống thông tin môi trường trong quản lý môi trường cấp tỉnh, thành phố.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 533, No. 5, pp. 23-31.",
+            "published_date": "5/2005"
+        },
+        {
+            "title": "Xây dựng công cụ tin học hỗ trợ đánh giá chất lượng nước bằng phương pháp chỉ thị sinh học",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 538, No. 10, pp. 35-44.",
+            "published_date": "10/2005"
+        },
+        {
+            "title": "Xây dựng công cụ hỗ trợ thông qua quyết định cho công tác quản lý và giám sát ô nhiễm không khí.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phát triển KH&CN, ISSN:1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 9, pp. 61-69",
+            "published_date": "2006"
+        },
+        {
+            "title": "Ứng dụng GIS trợ giúp công tác quản lý chất thải rắn tại các đô thị, thành phố Việt Nam.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 557, No. 5, pp. 34-43.",
+            "published_date": "5/2007"
+        },
+        {
+            "title": "Xây dựng công cụ tích hợp đánh giá ô nhiễm không khí từ các nguồn điểm tại các khu công nghiệp.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 561, No. 9, pp. 21-27.",
+            "published_date": "9/2007"
+        },
+        {
+            "title": "Xây dựng mô hình giám sát chất lượng không khí cho các nhà máy công nghiệp - nhà máy xi măng LUKS Thừa Thiên Huế làm ví dụ nghiên cứu.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 573, No. 9, pp. 35-44.",
+            "published_date": "9/2008"
+        },
+        {
+            "title": "К оценке непротиворечиво сти информации в задачах дистанционного мониторинга окружающей среды",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Проблемы окружающей среды и природных ресурсов, ISSN: 0235-5019",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 2, pp. 71-78, 1998",
+            "published_date": "1998"
+        },
+        {
+            "title": "Применение ГИС-технологии в задаче вычислительного экспериента физики атмосферного загрязнения",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Проблемы окружающей среды и природных ресурсов, ISSN: 0235-5019",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 1, pp. 2-9, 1998.",
+            "published_date": "1998"
+        },
+        {
+            "title": "Технология имитационного моделироваия в системах геоинформацион ного мониторинга мегаполисов,",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Проблемы окружающей среды и природных ресурсов, ISSN: 0235-5019",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 2, pp. 79-85",
+            "published_date": "1998"
+        },
+        {
+            "title": "Вопросы синтеза системы экологического мониторинга (СЭМ) морской среды в зоне газо-конденсатного месторождения (ГКМ),",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Научные и технические аспекты охраны окружающей среды, ISSN 0869-1002",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 1, pp. 2-10",
+            "published_date": "1998"
+        },
+        {
+            "title": "Инормационно-моделирующий",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Материалы шестого международного симпозима проблемы экоинформатики",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 5-9.",
+            "published_date": "2003"
+        },
+        {
+            "title": "Building up a tool for integrated coastal management in Da Nang city,",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International symposium on geoinformatics for spatial infrastructure development in earth and allied sciences",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 1-7.",
+            "published_date": "2004"
+        },
+        {
+            "title": "Building up air pollution prediction model in Ho Chi Minh city using GIS and neutral network technology",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of GeoInformatics for Spatial - Infrastructure Development in Earth and Allied Sciences (GIS - IDEAS 2004). Bắt đầu từ 2008 mới có ISBN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 163-168.",
+            "published_date": "2004"
+        },
+        {
+            "title": "Integration of GIS, Web technology and model for monitoring surface water quality of basin river: a case study of Huong river.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of GeoInformatics for Spatial - Infrastructure Development in Earth and Allied Sciences (GIS - IDEAS 2004). Bắt đầu từ 2008 mới có ISBN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 299-304.",
+            "published_date": "2004"
+        },
+        {
+            "title": "Developing environmental information system using WEBGIS technology of a case study in the Can Tho city, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 28th Asian Conference on Remote Sensing ISBN: 978-1-61567-365-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 1/3, pp. 351-356",
+            "published_date": "11/2007"
+        },
+        {
+            "title": "Application of GIS and dispersion model for air quality evaluting for industrial activites in Thi Vai basin,\"",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of GeoInformatics for Spatial - Infrastructure Development in Earth and Allied Sciences (GIS - IDEAS 2008). ISBN: 978-4-901668-37-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 127-132",
+            "published_date": "2008"
+        },
+        {
+            "title": "Building up a integrated tool by using E-manifest, E-card and GIS technology for management hazardous solid waste in Ho Chi Minh city",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 30th Asian Conference on Remote Sensing ISBN: 978-1-61567-984-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2/3, pp. 669-674.",
+            "published_date": "2009"
+        },
+        {
+            "title": "Applying WEBGIS in management and sharing water quality information of the Dong Nai river system, Vietnam,",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 30th Asian Conference on Remote Sensing ISBN: 978-1-61567-984-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2/3, pp. 802-807.",
+            "published_date": "10/2009"
+        },
+        {
+            "title": "Xây dựng cơ sở dữ liệu và phần mềm hỗ trợ công tác ứng phó lũ lụt tại Quảng Nam dựa trên công nghệ WebGIS",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo ứng dụng GIS toàn quốc 2011",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 213-222",
+            "published_date": "2011"
+        },
+        {
+            "title": "Phương pháp tính toán thiệt hại về kinh tế và môi trường đối với một lưu vực sông bị ô nhiễm - trường hợp điển hình: lưu vực sông Thị Vải.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học & Công nghệ. ISSN:1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 14, no. M1, pp. 5-13.",
+            "published_date": "2011"
+        },
+        {
+            "title": "Nghiên cứu xây dựng mô hình quản lý và chia sẻ thông tin chất lượng môi trường nước – lấy lưu vực hệ thống sông Đồng Nai làm ví dụ nghiên cứu",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học & Công nghệ. ISSN:1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "TẬP 14, SỐ M1, pp. 18-31",
+            "published_date": "2011"
+        },
+        {
+            "title": "Xây dựng hệ thống tích hợp đánh giá ô nhiễm không khí do các phương tiện giao thông đường bộ tại Huế",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ. ISSN:0866 – 708X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 49, no. 5C, pp. 333-342,",
+            "published_date": "2011"
+        },
+        {
+            "title": "Ứng dụng chỉ số an ninh sinh kế bền vững đánh giá sự phát triển bền vững tại thành phố Hồ Chí Minh,",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ. ISSN:0866 – 708X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 50, No. 4A, pp. 1-9.",
+            "published_date": "2012"
+        },
+        {
+            "title": "Ứng dụng mô hình diễn toán đánh giá tỷ lệ gây ô nhiễm của các doanh nghiệp trong khu công nghiệp tập trung",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 620, No. 8, pp. 6-14.",
+            "published_date": "8/2012"
+        },
+        {
+            "title": "Ứng dụng mô hình Mike 11 đánh giá diễn biến chất lượng nước sông Truồi, Thừa Thiên Huế",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 616, No. 4, pp. 32-38.",
+            "published_date": "4/2012"
+        },
+        {
+            "title": "Xây dựng mô hình tích hợp hỗ trợ đánh giá diễn biến chất lượng nước sông Sài Gòn",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 621, No. 9, pp. 13-22.",
+            "published_date": "9/2012"
+        },
+        {
+            "title": "Ứng dụng mô hình kinh tế - sinh thái quản lý nuôi trồng thủy sản theo định hướng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 619, No. 7, pp. 16-23.",
+            "published_date": "7/2012"
+        },
+        {
+            "title": "phát triển bền vững. Xây dựng phần mềm đánh giá chất lượng môi trường theo phương pháp chỉ số môi trường",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo ứng dụng GIS toàn quốc 2012.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 281-291.",
+            "published_date": "2012"
+        },
+        {
+            "title": "Xác định khả năng tự làm sạch hệ thống kênh, sông lấy sông Sài gòn làm ví dụ nghiên cứu,",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 626, No. 2, pp. 1-9.",
+            "published_date": "2/2013"
+        },
+        {
+            "title": "Ứng dụng Mike11 mô phỏng chất lượng nước sông Ba, Gia Lai theo các kịch bản phát triển kinh tế - xã hội",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 628, No. 4, pp. 52-58,",
+            "published_date": "4/2013"
+        },
+        {
+            "title": "Xây dựng phần mềm quảng bá du lịch sinh thái - trường hợp áp dụng tỉnh Tây Ninh.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo ứng dụng GIS toàn quốc 2013. ISBN:978-604-924-039-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 140-149.",
+            "published_date": "2013"
+        },
+        {
+            "title": "Đánh giá chất lượng môi trường không khí thành phố Hà Nội theo chỉ số chất lượng không khí",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 638, No. 2, pp. 43-49.",
+            "published_date": "2/2014"
+        },
+        {
+            "title": "Ứng dụng mô hình CLIM trong đánh giá khả năng chịu tải của sông Cái, Nha Trang,",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 647, No. 11, pp. 52-56.",
+            "published_date": "11/2014"
+        },
+        {
+            "title": "Xây dựng bản đồ phân vùng chất lượng nước mặt - trường hợp tỉnh Bình Dương",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ. ISSN:0866 – 708X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 52, no. 4C, pp. 37-46,",
+            "published_date": "2014"
+        },
+        {
+            "title": "Đánh giá tác động của thay đổi thảm",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo ứng dụng GIS",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 216-226",
+            "published_date": "2014"
+        },
+        {
+            "title": "phủ rừng đến dòng chảy trên lưu vực sông Srepok sử dụng GIS và mô hình SWAT Application of the Bessel function to compute the air pollutant with the stratification of the atmospheric",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Science And Technology Development Journal. ISSN: 1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, No. K4, pp. 14-20",
+            "published_date": "2015"
+        },
+        {
+            "title": "Xây dựng mô hình WebGIS quản lý tài nguyên và môi trường nước vùng tứ giác Long Xuyên",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo ứng dụng GIS toàn quốc 2015. ISBN:978-604-82-1619-1",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2015"
+        },
+        {
+            "title": "Xây dựng chỉ số an ninh sinh kế bền vững (SLSI) phục vụ đánh giá mức độ phát triển bền vững tại tỉnh Bình Thuận",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 655, No. 7, pp. 47-51.",
+            "published_date": "7/2015"
+        },
+        {
+            "title": "Ứng dụng lý thuyết trò chơi hợp tác trong tiết kiệm chi phí khắc phục ô nhiễm,",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Science and Technology Development. ISSN 1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, no. K8, pp. 34-43,",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu xây dựng hệ số phát thải các khí ô nhiễm từ bãi chôn lấp chất thải rắn sinh hoạt (CH4, H2S, NH3, Methyl Mercaptan)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học & Công nghệ. ISSN:1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, M2, pp.115-125",
+            "published_date": "2015"
+        },
+        {
+            "title": "Xây dựng kịch bản biến đổi khí hậu lưu vực Srepok vùng Tây Nguyên bằng phương pháp chi tiết hóa thống kê",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 666 No.9, pp. 7-15",
+            "published_date": "9/2016"
+        },
+        {
+            "title": "Applying SWAT model to assess impacts of climate change on the flow of Vu Gia river basin, Quang Nam province",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Science and Technology.ISSN 2525-2518",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 53, no. 5A, pp. 159-166.",
+            "published_date": "2015"
+        },
+        {
+            "title": "Ứng dụng WebGIS trong quản lý môi trường cấp huyện, thị xã trường hợp thị xã Điện Bàn, Quảng Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo ứng dụng GIS toàn quốc 2016. ISBN:978-604-912-659-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 892-900",
+            "published_date": "2016"
+        },
+        {
+            "title": "Mô phỏng ô nhiễm giao thông tại khu vực Trường đại học Bách Khoa Tp.HCM bằng công cụ AERMOD và ARCGIS",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo ứng dụng GIS toàn quốc 2016. ISBN:978-604-912-659-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 382-391.",
+            "published_date": "2016"
+        },
+        {
+            "title": "Đánh giá hồi cố rủi ro cỏ biển, trường hợp nghiên cứu vịnh Vân Phong.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo ứng dụng GIS toàn quốc 2017. ISBN:978-604-913-652-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 713-721",
+            "published_date": "2017"
+        },
+        {
+            "title": "Dự báo nhu cầu tưới nước cho cây trồng trong bối cảnh biến đổi khí hậu lưu vực Srepok - vùng Tây Nguyên",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo ứng dụng GIS toàn quốc 2017. ISBN:978-604-913-652-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp.62-70",
+            "published_date": "2017"
+        },
+        {
+            "title": "Mô hình hóa ô nhiễm không khí trong điều kiện địa hình phức tạp - Trường hợp nguồn thải điểm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 700, No. 4, pp. 34-45.",
+            "published_date": "4/2019"
+        },
+        {
+            "title": "Ứng dụng mô hình diễn toán SWAT/NAM/MIKE xây dựng bộ thông số thủy văn và thủy lực phục vụ cho tính toán dòng chảy - trường hợp sông Vệ, Quảng Ngãi,",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 702, no. 6, pp. 1-12.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Mô phỏng lan truyền nhiệt bằng mô hình toán ba chiều – trường hợp nhà máy nhiệt điện tại vùng biển Đề - Gi, Bình Định",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học và Công nghệ – Kĩ thuật và Công nghệ. ISSN: 1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2, No. 2, pp.122-129",
+            "published_date": "2019"
+        },
+        {
+            "title": "Tiềm năng giảm thiểu phát thải khí methane và thu hồi năng lượng từ bãi chôn lấp chất thải rắn đô thị - một trường hợp nghiên cứu tại tỉnh Bình Dương, Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo ứng dụng GIS toàn quốc 2020 ISBN: 978-604-60-3259-5.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 381-391",
+            "published_date": "2020"
+        },
+        {
+            "title": "Ứng dụng WRF/CMAQ mô phỏng ô nhiễm PM10 từ hoạt động giao thông-Trường hợp Tp. Hồ Chí Minh",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 724, No. 4, pp. 30-45.",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Prediction of potential for greenhouse gas mitigation and power recovery from a municipal",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam J. Hydrometeorol., ISSN: 1525-755X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 7, No. 1, pp. 32-52.",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "solid waste landfill case in Tien Giang province, Vietnam. Linking hydrological, hydrodynamic models for saline intrusion assessment - applying for Ve river estuary as a case study.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam J. Hydrometeorol. ISSN: 1525-755X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 9, 2021, pp. 87-101.",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Mô phỏng sự phụ thuộc xâm nhập mặn và các yếu tố thủy văn bằng MIKE 3 - Trường hợp cửa sông Vệ, Quảng Ngãi",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 725, No. 5, pp. 1-16.",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Effectiveness of scenario for CH4 emission reduction oriented to 2030 from Kien Tuong LandFill site, Long An province",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học đất ISSN: 2525-2216",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 69, pp. 39-43, 2022.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu phát triển mô hình/phần mềm tính toán phát thải khí CH4 từ bãi chôn lấp dựa trên nền tảng WebGIS",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị khoa học toàn quốc trái đất, mỏ, môi trường bền vững lần thứ V; ISBN: 978-604-357-121-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp436-447",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá rủi ro nhập viện điều trị các bệnh đường hô hấp và bệnh tim mạch do phơi nhiễm ngắn hạn O3 mặt đất tại tỉnh Đồng Nai",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 742, no. 10, Pp. 1-18.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Assessment of water environmental carrying capacity of Thuy Trieu lagoon, Cam Ranh, Khanh Hoa",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam J. Hydrometeor. ISSN: 1525-755X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 13, no. 12, pp. 37-53.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá diễn biến đường bờ và xu thế bồi – xói khu vực bờ biển Cửa Đại – Hội An, tỉnh Quảng Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 736 (1), 41-53.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá hiện trạng phân bố và sự biến động theo mùa mức độ ô nhiễm PM2.5 tại vùng Tứ Giác Long Xuyên, Việt Nam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 736 (1), 54-74.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá các tác động sức khỏe cộng đồng do phơi nhiễm ngắn hạn ô nhiễm PM2.5 : Nghiên cứu điển hình tại tỉnh Bình Dương",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn. ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 746, no. 2, pp. 70-86.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ecological risk assessment attributed to rice and maize yield reduction due to long-term ground-",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam J. Hydrometeor. ISSN: 1525-755X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 14, no. 3, pp. 80-95.",
+            "published_date": "2023"
+        },
+        {
+            "title": "level 03 impacts: A case study in Tay Ninh, Vietnam Building integrated assessment tool for damage caused by oil spill on Vietnam's coast",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 30th Asian Conference on Remote Sensing. ISBN: 978-1-61839-497-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 175-180",
+            "published_date": "2011"
+        },
+        {
+            "title": "Pollution evaluation in treams using water quality indices - A case study from Sai gon basin",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of GeoInformatics for Spatial - Infrastructure Development in Earth and Allied Sciences (GIS - IDEAS 2012).",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 387-390",
+            "published_date": "2012"
+        },
+        {
+            "title": "Assessment the impacts of land use and climate change on water discharge of Srepok river watershed, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 34th Asian Conference on Remote Sensing. ISBN:978-1-62993-910-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 4/5, pp. 3091-3098.",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Application of GIS and modeling to assess the impact of environmental pollution due to dust in the quarrying area",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 34th Asian Conference on Remote Sensing. ISBN:978-1-62993-910-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 5/5, pp.4144-4151",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Impact of Climate Changes on the Livehood Security of Minority Groups in Daklak province",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Southeast Asian Journal of Science and Technology. ISSN 2672-2992",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 3, no. 2, pp. 105-119",
+            "published_date": "2014"
+        },
+        {
+            "title": "Analytical scheme to analytically solve atmospheric advection-",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Southeast Asian Journal of Science and Technology. ISSN 2672-2992",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 3, no. 2, pp.",
+            "published_date": "2014"
+        },
+        {
+            "title": "diffusion equation with mixed boundary condition Using SWAT model and GIS to assess the relationships of land use change and water discharge in Srepok watershed, central highland Viet Nam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of GeoInformatics for Spatial - Infrastructure Development in Earth and Allied Sciences (GIS - IDEAS 2014)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 124-129",
+            "published_date": "2014"
+        },
+        {
+            "title": "Retrospective assessment of zoobenthos - Van phong bay, Khanh Hoa province as a case of study,",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of GeoInformatics for Spatial Infrastructure Development in Earth and Allied Sciences (GIS - IDEAS 2014)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 330-336.",
+            "published_date": "2014"
+        },
+        {
+            "title": "Applying Recurrent Fuzzy Neural Network to Predict the Runoff of Srepok River",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of Computer Information Systems and Industrial Management 13th IFIP TC8 International Conference, CISIM 2014. ISSN:0302-9743",
+            "journal_ranking": "Scopus, Q3, H-Index: 400.",
+            "citation_count": 9,
+            "volume_issue_pages": "No. i, pp. 55-66",
+            "published_date": "2014"
+        },
+        {
+            "title": "Building information system serving adaptation, mitigation and impact assessment the climate change for national level",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of GeoInformatics for Spatial-Infrastructure Development in Earth and Allied Sciences (GIS - IDEAS 2014)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pp. 337-342",
+            "published_date": "2014"
+        },
+        {
+            "title": "Assessment of climate change trands at Long Xuyen quadrange",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of GeoInformatics for Spatial-Infrastructure Development in",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 344-348.",
+            "published_date": "2014"
+        },
+        {
+            "title": "using remote sensing image Changes in water quality at bung river basin, Quang Nam after the dam construction",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 36th Asian Conference on Remote Sensing ISBN: 978-1-5108-1721-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2/2, pp. 789-795.",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Application of the Swat model to assess the impact of land use changes on Dau Tieng reservoir discharge",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of GeoInformatics for Spatial - Infrastructure Development in Earth and Allied Sciences (GIS - IDEAS 2016). ISBN:978-604-76-1171-3.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7 trang",
+            "published_date": "2016"
+        },
+        {
+            "title": "Building the information system for evaluating, adapting, and minimizing the impact of climate change to Phu Yen province, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 38th Asian Conference on Remote Sensing - Space Applications: Touching Human Lives, ACRS 2017.ISBN: 978-1-5108-5684-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 3/4, pp. 2071-2077.",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Calculating greenhouse gas emissions (CH4, N2O, CO2) released from agriculture - a case study in Dong Thap province",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 39th Asian Conference on Remote Sensing: Remote Sensing Enabling Prosperity, ACRS 2018. ISBN: 978-1-5108-7966-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2/5, pp. 645-657.",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Application of remote sensing to assess changes in shoreline and level of riverbed under the pressure of sand mining activities",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 40th Asian Conference on Remote Sensing. ISBN: 978-1-7138-0326-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2/4, PP. 1000-1010.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Inverse algorithm for Streeter-Phelps equation in water pollution control problem",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Mathematics and Computers in Simulation ISSN: 0378-4754",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 4.6, H-Index: 90, CiteScore: 6.9. Doi: 10.1016/j.matcom.2019.12.005",
+            "citation_count": 26,
+            "volume_issue_pages": "Vol. 171, Pp. 119-126",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "Spatial Mapping Of Agricultural Green House Gas Emission For Implementing Paris Agreement On Climate Change In Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 40th Asian Conference on Remote Sensing. ISBN: 978-1-7138-0326-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 4/4 Pp. 2602-2611",
+            "published_date": "2019"
+        },
+        {
+            "title": "Linking air quality, health, and economic effect models for use in air pollution epidemiology studies with uncertain factors",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Atmospheric pollution research ISSN: 1309 - 1042",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 4.5. CiteScore: 5.8, H-Index: 71.Doi: https://doi.org/10.1016/j.apr.2021.101118",
+            "citation_count": 17,
+            "volume_issue_pages": "vol. 12, no. 7, p. 101118",
+            "published_date": "2021"
+        },
+        {
+            "title": "Reaeration and dispersion coefficients prediction for a river flow by implementing machine learning algorithm on MIKE dataset",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of The 13th International Conference on Computer Modeling and Simulation (ICCMS - 2021). Pages 17-22, June 2021.",
+            "journal_ranking": "Scopus, ISBN: 978-1-4503-8979-2. DOI:10.1145/3474963.3474966",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 17-22",
+            "published_date": "2021"
+        },
+        {
+            "title": "Application of Landsat imagery for the interpretation of surface water quality – a case study of Devong – Co Co River, Quang Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of 42nd Asian Conference on Remote Sensing ISBN: 978-1-61839-497-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "20 pp",
+            "published_date": "2021"
+        },
+        {
+            "title": "Energy recovery from municipal solid waste landfill for a sustainable circular economy in Danang City, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conf. Ser. Earth Environ. Sci. (EES) ISSN: 1755 - 1307; E- ISSN: 1755 - 1315",
+            "journal_ranking": "Scopus, CiteScore 2022:0.5; SJR:0.179; SNIP 2023 Doi:10.1088/1755-1315/1170/1/012010",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 964, No. 1, pp.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Assessing marine environmental carrying capacity in semi-enclosed coastal areas – Models and related databases",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Science of the Total Environment ISSN:0048 - 9697",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 9.8. CiteScore: 16.8, H-Index: 353, Doi: 10.1016/j.scitotenv.2022.156043",
+            "citation_count": 15,
+            "volume_issue_pages": "vol. 838 (2022), p. 156043",
+            "published_date": "2022"
+        },
+        {
+            "title": "Spatio-temporal modelling and related factors analysis of PM2.5 pollution: A case study of Ho Chi Minh city, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Physics and Chemistry of the Earth. Physics and Chemistry of the Earth, ISSN: 1474-7065",
+            "journal_ranking": "ISI/Scopus, SCIE, Q2, IF: 3.7, H-index:110, CiteScore: 5.1, Doi: 10.1016/j.pce.2023.103417",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 5, p 103417",
+            "published_date": "2023"
+        },
+        {
+            "title": "Linking hydrological, hydraulic and water quality models for river water environmental capacity assessment",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Science of the Total Environment ISSN:0048 - 9697",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 10.754. CiteScore: 14.1, H-Index: 317. Doi: 10.1016/j.scitotenv.2022.159490",
+            "citation_count": 12,
+            "volume_issue_pages": "vol. 857, no. September 2022, p. 159490",
+            "published_date": "2022"
+        },
+        {
+            "title": "Evaluation of the annual economic costs associated with PM2.5-based health damage-a case study in Ho Chi Minh City, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Air Quality, Atmosphere & Health, ISSN: 1873-9318",
+            "journal_ranking": "ISI/Scopus, SCIE, Q2, IF: 5.804, CiteScore: 5.2, H-Index: 67. Doi: 10.1007/s11869-022-01282-0",
+            "citation_count": 11,
+            "volume_issue_pages": "Pp. 16:415-435",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ground-level ozone in the Mekong Delta",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 4.223. CiteScore: 5.80.",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol. 30:2369",
+            "published_date": "2022"
+        },
+        {
+            "title": "region: precursors, meteorological factors, and regional transport Assessment of the benefits from energy recovery based on the greenhouse gas emission reduction scenario in urban landfills – A case study in Bac Lieu Province, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conf. Ser. Earth Environmental Science 1170 (2023) 011002",
+            "journal_ranking": "Scopus, CiteScore 2022:0.5; SJR:0.179; SNIP 2023 Doi:10.1088/1755-1315/1170/1/012010",
+            "citation_count": 1,
+            "volume_issue_pages": "15 pp",
+            "published_date": "2023"
+        },
+        {
+            "title": "Building and optimising an automatic monitoring system network for outdoor-PM2.5: a case study of Ho Chi Minh City",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Monitoring and Assessment, ISSN: 0167-6369",
+            "journal_ranking": "ISI/Scopus, SCIE, Q2, H-index: 142 IF: 3.420, SJR:063, Doi: 10.1007/s10661-023-11319-1",
+            "citation_count": 0,
+            "volume_issue_pages": "17 pp",
+            "published_date": "2023"
+        },
+        {
+            "title": "Forward problem for pollution control based on Streeter-Phelps",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Math. East-West Journal of Mathematics ISSN:1513-489X",
+            "journal_ranking": "IF = 0.387,Doi: 10.36853/ewjm0391",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 23, no. 2, pp. 138-154",
+            "published_date": "2022"
+        },
+        {
+            "title": "Evaluation of the Role of Self-cleaning Capacity on Marine Environmental Carrying Capacity: A Case of Ganh Rai Bay, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of Environmental Contamination and Toxicology, ISSN: 0090-4341",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 3.692, CiteScore: 5.1,H-Index: 120 Doi:10.1007/s00244-023-00989-0",
+            "citation_count": 0,
+            "volume_issue_pages": "17 pp",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mechanism of erosion zone formation based on hydrodynamic factor analysis in",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Technology & Innovation ISSN:2352 - 1864",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 7.758, CiteScore: 4.5, H-Index:55, SJR:1.16, Doi:",
+            "citation_count": 2,
+            "volume_issue_pages": "vol. 30, p. 103094",
+            "published_date": "2023"
+        },
+        {
+            "title": "the Mekong Delta coast, Vietnam, Chronic and acute health effects of PM25 exposure and the basis of pollution control targets",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research ISSN: 1614-7499",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 4.223, CiteScore: 5.50, H-Index: 113, Doi:10.1007/s11356-022-23819-7",
+            "citation_count": 2,
+            "volume_issue_pages": "23 pp",
+            "published_date": "2023"
+        },
+        {
+            "title": "Application of SWAT/MIKE tools for assessment of river water environmental capacity - Ben Tuong – Suoi Tre watershed, Binh Duong",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "7th International Conference on Environment 2021 (ICENV2021). ISBN: 978-0-7354-4573-4",
+            "journal_ranking": "Scopus, https://doi.org/10.1063/5.0148062",
+            "citation_count": 0,
+            "volume_issue_pages": "13 pp",
+            "published_date": "2023"
+        },
+        {
+            "title": "Assessment of rice yield and economic losses caused by ground-level O3 exposure in the Mekong Delta region, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Heliyon ISSN: 2405 -8440",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF:4.0 CiteScore:5.6, H-index = 88, https://doi.org/10.1016/j.heliyon.2023.e17883",
+            "citation_count": 4,
+            "volume_issue_pages": "17pp",
+            "published_date": "2023"
+        },
+        {
+            "title": "Benefits of Short-term Premature Mortality Reduction Attributed to PM2.5 Pollution: A Case Study in Long An Province, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of Environmental Contamination and Toxicology, ISSN: 0090-4341",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 4.0, CiteScore: 5.1, H-Index: 124 Doi:10.1007/s00244-023-01012-2",
+            "citation_count": 2,
+            "volume_issue_pages": "18 pp",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ứng dụng viễn thám, GIS đánh giá phạm vi và mức độ xói lở bờ biển Đồng bằng sông Cửu Long, đoạn từ Tiền Giang đến Sóc",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 754, No. 10, pp. 9-25.",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Trăng Mô phỏng ô nhiễm bụi PM2.5 và phân tích các yếu tố liên quan – Trường hợp tỉnh Cà Mau, Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN: 0866 – 8744",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 756, No. 12, pp. 42-58.",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Application of EnHEBIS tool to assess economic impact due to health effects from PM2.5 pollution – A case study at Long An province, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam J. Hydrometeorology. ISSN: 2525-2208",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 17, no. 12, pp. 85-99.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Assessing impacts on rice production and quantifying economic cost losses with PM2.5–based damage – A case of the Long Xuyen Quadrangle, Vietnam Mekong Delta.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Computers and Electronics in Agriculture. ISSN: 0168 -1699",
+            "journal_ranking": "ISI/Scopus, SCIE, Q1, IF: 8.3, CiteScore: 13.6 H-Index: 168 Doi:https://doi.org/10.1016/j.compag.2023.108570",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 217, February 2024, 108570",
+            "published_date": "2024"
+        },
+        {
+            "title": "The trend of erosion and accretion of the western coast of the Mekong Delta, the section from Ca Mau Cape to Kien Giang",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam J. Hydrometeorology. ISSN: 2525-2208",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 18, no. 3, pp. 66-78.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Role of self-cleaning factors in river water environmental capacity assessment: A case of Sai Gon basin, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case Studies in Chemical and Environmental Engineering, ISSN: 2666 - 0164",
+            "journal_ranking": "Scopus, Q1, IF: 7.93, CiteScore: 8.2, H-Index: 35, Doi:https://doi.org/10.1016/j.compag.2023.108570",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 9, June 2024, 100689",
+            "published_date": "2024"
+        },
+        {
+            "title": "Developing a practical tool to evaluate the cost and benefit of PM2.5 pollution control measures on air quality improvement in Ho Chi Minh City, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case Studies in Chemical and Environmental Engineering, ISSN: 2666 - 0164",
+            "journal_ranking": "Scopus, Q1, IF: 7.93, CiteScore: 8.2, H-Index: 35 Doi: https://doi.org/10.1016/j.compag.2023.108570",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 9, June 2024, 100729",
+            "published_date": "2024"
+        },
+        {
+            "title": "Exploiting the results of running the GEOS-CF model to evaluate PM2.5 concentration in near real-time in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam J. Hydrometeorology. ISSN: 2525-2208",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 19, no. 6, pp. 78-89.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Prediction of the river water environment carrying capacity using LSTM networks",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Water Supply ISSN:16053974, 16069935",
+            "journal_ranking": "ISI/Scopus, SCIE, Q2, IF: 1.7 CiteScore: 2.6 Doi: https://10.2166/ws.2024.138",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "ĐT: Nghiên cứu xây dựng phần mềm quản lý số liệu chất thải rắn đô thị tại Tp.HCM",
+            "role": "Principal Investigator",
+            "project_code": "B2006-24-05",
+            "management_level": "Cấp Bộ, Đại học Quốc gia Tp. HCM",
+            "period": "7/2006 – 12/2007",
+            "acceptance_date": "12/2007",
+            "rating": "Đạt"
+        },
+        {
+            "title": "ĐT: Xây dựng trang Web cùng với kỹ thuật phần mềm tính toán ô nhiễm không khí trực tuyến phục vụ công tác giảng dạy sinh viên môi trường",
+            "role": "Principal Investigator",
+            "project_code": "B2008-24-02",
+            "management_level": "Cấp Bộ, Đại học Quốc gia Tp. HCM",
+            "period": "7/2008 – 5/2009",
+            "acceptance_date": "5/2009",
+            "rating": "Đạt"
+        },
+        {
+            "title": "ĐT:Xây dựng phần mềm quản lý tổng hợp số liệu quan trắc chất lượng nước mặt lưu vực hệ thống sông Đồng Nai dựa trên công nghệ WebGIS",
+            "role": "Principal Investigator",
+            "project_code": "B2009-24-05",
+            "management_level": "Cấp Bộ, Đại học Quốc gia Tp. HCM",
+            "period": "2/2009 – 2/2010",
+            "acceptance_date": "2/2010",
+            "rating": "Đạt"
+        },
+        {
+            "title": "ĐT:Xây dựng mô hình quản lý phát thải môi trường không khí khu công nghiệp trên nền",
+            "role": "Principal Investigator",
+            "project_code": "B2010-24-07",
+            "management_level": "Cấp Bộ, Đại học Quốc gia Tp. HCM",
+            "period": "9/2010 – 9/2011",
+            "acceptance_date": "9/2011",
+            "rating": "Đạt"
+        },
+        {
+            "title": "ĐT:Nghiên cứu xác định một số qui luật tự làm sạch của hệ thống kênh sông đô thị trên ví dụ sông Sài Gòn",
+            "role": "Principal Investigator",
+            "project_code": "B2011-24-07",
+            "management_level": "Cấp Bộ, Đại học Quốc gia Tp. HCM",
+            "period": "12/2011 – 12/2012",
+            "acceptance_date": "12/2012",
+            "rating": "Đạt"
+        },
+        {
+            "title": "ĐT:Nghiên cứu cơ sở khoa học, công nghệ xây dựng hệ thống cơ sở dữ liệu quốc gia về biến đổi khí hầu và tác động của biến đổi khí hậu phục vụ ứng phó với biến đổi khí hậu",
+            "role": "Principal Investigator",
+            "project_code": "BDKH 38; KHCN-BĐKH/11-15",
+            "management_level": "Cấp Nhà nước, thuộc Chương trình Khoa học và Công nghệ phục vụ Chương trình mục tiêu quốc gia ứng phó với biến đổi khí hậu",
+            "period": "2014 - 2015",
+            "acceptance_date": "2015",
+            "rating": "Đạt"
+        },
+        {
+            "title": "ĐT: Xây dựng cơ sở khoa học và thực tiễn ứng dụng mô hình toán kết hợp với GIS, viễn thám tính toán ô nhiễm không khí phù hợp với điều kiện Việt Nam – áp dụng thử nghiệm tại Tp. HCM và khu vực phụ cận",
+            "role": "Principal Investigator",
+            "project_code": "TNMT.2016.04.20",
+            "management_level": "Bộ TNMT",
+            "period": "2017-2019",
+            "acceptance_date": "2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "ĐT:Xây dựng cơ sở dữ liệu và tính toán phát thải khí từ các bãi chôn lấp ở vùng kinh tế trọng điểm phía Nam",
+            "role": "Principal Investigator",
+            "project_code": "B2019-20b-01",
+            "management_level": "Cấp Bộ, Đại học Quốc gia Tp. HCM",
+            "period": "6/2019-6/2021",
+            "acceptance_date": "6/2021",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Hệ thống thông tin môi trường",
+            "type": "Reference Book",
+            "publisher": "ĐHQG Tp.HCM",
+            "publish_year": "2006",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "109/BXB 2005 ngày 19/12/2005"
+        },
+        {
+            "title": "Bài tập Mô hình hóa môi trường",
+            "type": "Reference Book",
+            "publisher": "ĐHQG Tp.HCM",
+            "publish_year": "2015",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "80/QĐ-VMT&TN-GT ngày 18/9/2015"
+        },
+        {
+            "title": "Tính toán mô phỏng ô nhiễm không khí cho khu vực có địa hình phức tạp: mô hình toán và phần mềm",
+            "type": "Monograph",
+            "publisher": "ĐHQG Tp.HCM",
+            "publish_year": "2015",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "1036/QĐ-ĐHBK ngày 28/3/2023"
+        },
+        {
+            "title": "Mô hình hóa môi trường",
+            "type": "Textbook",
+            "publisher": "ĐHQG Tp.HCM",
+            "publish_year": "",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "1107/QĐ-DHBK ngày 4/4/2023"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo tiến sĩ ngành Toán ứng dụng",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "3511/QĐ-ĐHBK ngày 16/12/2020",
+            "certifying_authority": "Đại học Quốc gia Tp. HCM Đại học Bách Khoa, Đại học học Quốc gia Tp. HCM",
+            "implementation_document_id": "1575/QĐ – ĐHBK ngày 29/6/2021",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo thạc sĩ và kỹ sư ngành kỹ thuật và quản lý tài nguyên môi trường",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định 691/QĐ – ĐHBK – SDH ngày 22/4/2020",
+            "certifying_authority": "Đại học Bách Khoa, Đại học học Quốc gia Tp. HCM",
+            "implementation_document_id": "Quyết định 1970/QĐ – ĐHBK ngày 14/9/2021 ban hành chương trình đào tạo thạc sĩ",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình thẩm định giáo trình",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định 1690/QĐ – ĐHBK-BGT ngày 29/6/2015",
+            "certifying_authority": "Đại học Bách Khoa, Đại học học Quốc gia Tp. HCM",
+            "implementation_document_id": "Sách đã đưa vào giảng dạy",
+            "notes": ""
+        }
+    ]
+}

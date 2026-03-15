@@ -1,0 +1,491 @@
+{
+    "papers": [
+        {
+            "title": "Xung đột các nhóm lợi ích trong công ty cổ phần",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dân chủ và pháp luật ISSN 9866 - 7535",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 03 (180), 22 - 25.",
+            "published_date": "Tháng 3/2007"
+        },
+        {
+            "title": "Tiếp cận quản trị công ty cổ phần trên phương diện kết hợp hài hòa lợi ích giữa các bên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2 (238), 35-40",
+            "published_date": "Tháng 2/2008"
+        },
+        {
+            "title": "Một vài ý kiến về quyền được thông tin của cổ đông trong công ty cổ phần",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6 (254), 29-33",
+            "published_date": "Tháng 6/2009"
+        },
+        {
+            "title": "Xung đột lợi ích của cổ đông thiểu số trong hoạt động mua bán, sáp nhập công ty cổ phần",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8 (292), 36-42",
+            "published_date": "Tháng 8/2012"
+        },
+        {
+            "title": "Quyên cổ đông thiểu số trong hoạt động mua bán, sáp nhập công ty cổ phần",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7 (303), 35-41",
+            "published_date": "Tháng 7/2013"
+        },
+        {
+            "title": "Bảo vệ quyền lợi cổ đông – Những bất cập và hướng sửa đổi Luật Doanh nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dân chủ và pháp luật ISSN 9866 - 7535",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số Chuyên đề 2, 59 -63",
+            "published_date": "Tháng 2/2014"
+        },
+        {
+            "title": "Thỏa thuận cổ đông – Cách thức giải quyết mâu thuẫn giữa các cổ đông",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Pháp luật và phát triển ISSN 0866 - 7500",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1+2, 54 - 57.",
+            "published_date": "Tháng 2/2016"
+        },
+        {
+            "title": "Trách nhiệm của các bên liên quan bảo vệ quyền lợi của người tiêu dùng trong giao dịch với cá nhân hoạt động thương mại độc lập, thường xuyên và không phải đăng ký kinh doanh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế “Bảo vệ người tiêu dùng – Đóng góp kinh nghiệm của Liên minh châu Âu cho cộng đồng kinh tế ASEAN”, ISBN: 978-604-912-905-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "116 - 121",
+            "published_date": "Tháng 3/2018"
+        },
+        {
+            "title": "Thực thi pháp luật bồi thường về đất khi Nhà nước thu hồi đất ở một số hạn chế và các thiết chế thực thi pháp luật bảo đảm quyền của thành viên hợp tác xã và một số kiến nghị",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dân chủ và pháp luật ISSN 9866 - 7535",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 5 (314), 35 - 40",
+            "published_date": "Tháng 3/2018"
+        },
+        {
+            "title": "Luật bảo đảm quyền của thành viên hợp tác xã và một số kiến nghị",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Pháp luật và thực tiễn ISSN 2525-2666",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 37/2018, 43 - 51",
+            "published_date": "Tháng 12/2018"
+        },
+        {
+            "title": "Legal issues in e-commerce brokerage activity in a sharing economy in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference of Kalasalingam University on “Recent Innovation of Sciences and Social Sciences for Sustainability”",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "673 - 677",
+            "published_date": "Tháng 9/2019"
+        },
+        {
+            "title": "L'amelioration de la legislation relative a la garantie du droit des actionnaires minoritaires dans la fusion et l'acquisition des Societes par actions",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "ANNALES DE L'UNIVERSITÉ TOULOUSE 1 CAPITOL 1, ISBN: 979-2-36170-000-2 ISSN 2417-2820",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tome LX, 2019-2, 221 - 236",
+            "published_date": "Tháng 10/2019"
+        },
+        {
+            "title": "Quyền của thành viên hợp tác xã theo Luật Hợp tác xã 2012",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dân chủ và pháp luật ISSN 9866 - 7535",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 10 (331), 39 - 44",
+            "published_date": "Tháng 10/2019"
+        },
+        {
+            "title": "Law on Corporate Governance – The Development Trends of the World and the Problems Posed to Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Supply Chain Management, ISSN: 2050-7399 (Online), 2051-3771 (Print)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 9, số 5, 1574 - 1578",
+            "published_date": "Tháng 10/2020"
+        },
+        {
+            "title": "Xây dựng hồ sơ bảo hộ nhãn hiệu tập thể và nhãn hiệu chứng nhận mang tên địa danh - Một số kinh nghiệm thực tiễn triển khai ở tỉnh Quảng Ngãi",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc gia “Xác lập, quản lý và khai thác tài sản trí tuệ mang tên địa danh để phát triển kinh tế - xã hội địa phương ở Việt Nam”. ISBN 978-604-72-5583-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "221 - 236",
+            "published_date": "Tháng 6/2021"
+        },
+        {
+            "title": "Tranh chấp hợp đồng liên kết gắn sản xuất với tiêu thụ sản phẩm nông nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhân lực Khoa học xã hội ISSN 0866-756X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 10 (101), 16 -24",
+            "published_date": "Tháng 10/2021"
+        },
+        {
+            "title": "Environmental corporate social responsibility from the competition law's perspective - The European union's resolutions and proposals for Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference proceedings \"Law on corporate social responsibility around the world and the developmental trend of Vietnam in the context of integration\", ISBN: 978-604-364-015-1",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "382-388",
+            "published_date": "Tháng 7/2022"
+        },
+        {
+            "title": "Thực thi trách nhiệm xã hội doanh nghiệp tại Việt Nam - Thách thức và một số gợi mở",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học ISSN 0868 - 3522",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7 (266), 122 - 134",
+            "published_date": "Tháng 7/2022"
+        },
+        {
+            "title": "Giải pháp hạn chế thực trạng tội phạm ẩn đối với các tội phạm về môi trường ở Việt Nam hiện nay",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học \"Cải cách tư pháp trong lĩnh vực tư pháp hình sự\", ISBN 978-604-81-2885-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "133 - 147",
+            "published_date": "Tháng 3/2023"
+        },
+        {
+            "title": "Pháp luật về góp vốn thành lập hợp tác xã bằng quyền sở hữu trí tuệ: Những hạn chế và giải pháp hoàn thiện",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế \"Đào tạo luật ở Việt Nam và việc nâng cao chất lượng hoạt động một số chức danh bổ trợ tư pháp\", ISBN 978-604-79-3595-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "294 - 301",
+            "published_date": "Tháng 8/2023"
+        },
+        {
+            "title": "Cấp tín dụng trực tuyến qua các ứng dụng của công nghệ tài chính: Thực trạng pháp luật và các biện pháp phòng ngừa rủi ro",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế \"Kinh doanh và phòng ngừa rủi ro: Góc nhìn pháp lý\", ISBN: 978-604-72-6685-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28 - 39",
+            "published_date": "Tháng 12/2023"
+        },
+        {
+            "title": "Chuyển đổi số trong ngân hàng ở Việt Nam - Góc nhìn pháp lý",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế \"Kinh doanh và phòng ngừa rủi ro: Góc nhìn pháp lý”, ISBN: 978-604-72-6685-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "249 - 260",
+            "published_date": "Tháng 12/2023"
+        },
+        {
+            "title": "Basel treaty – From regulations to practice application in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Business and Finance 2024, ISBN: 978-604-49-2360-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "329 - 338",
+            "published_date": "Tháng 8/2024"
+        },
+        {
+            "title": "Role of law enforcement, governance, and digital transformation in risk control and management at Vietnamese commercial banks",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Banks and Bank Systems ISSN PRINT 1816-7403 ISSN ONLINE 1991-7074",
+            "journal_ranking": "ESCI/Scopus (Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 19, Issue 3, 133-150",
+            "published_date": "Tháng 9/2024"
+        },
+        {
+            "title": "Jurisdiction of vietnamese courts in international commercial contracts, a review of decisions",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Czech Yearbook of Public and Private International Law ISSN 1805-0565",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 15 (2024), 287 -298",
+            "published_date": "Tháng 12/2024"
+        },
+        {
+            "title": "Legal Framework for Banking Activities in Digital Enviroment. A Case Study of Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Prawo i Więź (Law and Social Bonds) ISSN 2299-405X E-ISSN 2719-3594",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 13, Nº 6 (53), 1173-1190",
+            "published_date": "Tháng 3/2025"
+        },
+        {
+            "title": "Bảo mật thông tin khách hàng khi sử dụng các dịch ngân hàng trong môi trường số",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Pháp luật và thực tiễn ISSN 2525-2666",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 62/2025, 76 - 87",
+            "published_date": "Tháng 3/2025"
+        },
+        {
+            "title": "Factors influencing contract farming disputes and dispute resolution intentions: Evidence from an emerging Southeast Asian country",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Problems and Perspectives in Management, ISSN PRINT 1727-7051 ISSN ONLINE 1810-5467",
+            "journal_ranking": "Scopus (Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 23, Issue 2, 302-318",
+            "published_date": "Tháng 4/2025"
+        },
+        {
+            "title": "Law on digital banking risk management Experiences of several countries and challenges for such developing countries as Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Atlantic Law Journal ISSN 1521-3293 E-ISSN 2371-9680",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 28, 229-282",
+            "published_date": "Tháng 5/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Đề tài cấp Đại học Huế: Bảo vệ cổ đông thiểu số trong công ty cổ phần theo pháp luật Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "DHH 2012-12-04",
+            "management_level": "Đại học Huế",
+            "period": "Tháng 1/2012 - Tháng 12/2013",
+            "acceptance_date": "Tháng 12/2013",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đề tài cấp Trường: Xây dựng Bộ tình huống điển hình và áp dụng giảng dạy thử nghiệm học phần Luật thương mại 1, 2",
+            "role": "Principal Investigator",
+            "project_code": "DHL 2016-CB-02",
+            "management_level": "Trường Đại học Luật, Đại học Huế",
+            "period": "Tháng 1/2016 - Tháng 12/2016",
+            "acceptance_date": "16/12/2016",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đề tài cấp Đại học Huế: Bảo đảm thực thi quyền của thành viên hợp tác xã theo Luật Hợp tác xã năm 2012",
+            "role": "Principal Investigator",
+            "project_code": "DHH 2017-12-13",
+            "management_level": "Đại học Huế",
+            "period": "Tháng 1/2017 - Tháng 12/2018",
+            "acceptance_date": "6/11/2019",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đề tài cấp Đại học Huế: Hợp đồng tiêu thụ nông sản theo pháp luật Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "DHH 2020-12-30",
+            "management_level": "Đại học Huế",
+            "period": "Tháng 1/2020 - Tháng 12/2021",
+            "acceptance_date": "Tháng 12/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đề tài cấp Bộ: Hoàn thiện pháp luật ngân hàng trong môi trường số và yêu cầu kiểm soát rủi ro",
+            "role": "Principal Investigator",
+            "project_code": "B2023-DHH-03",
+            "management_level": "Bộ Giáo dục và Đào tạo",
+            "period": "Tháng 1/2023 - Tháng 4/2025",
+            "acceptance_date": "16/6/2025",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Tài liệu hướng dẫn học tập Luật thương",
+            "type": "Guide Book",
+            "publisher": "NXB Đại học Huế",
+            "publish_year": "2010",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "49 - 70; 93 - 158",
+            "verification_document_id": "Số 76/GXN-ĐHL ngày 11 tháng 7 năm 2019"
+        },
+        {
+            "title": "Giáo trình Luật kinh tế Việt Nam đại cương",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Huế",
+            "publish_year": "2010",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "24 - 35; 75 - 95",
+            "verification_document_id": "Số 79/GXN-ĐHL ngày 11 tháng 7 năm 2019"
+        },
+        {
+            "title": "Tài liệu hướng dẫn Luật thương mại Việt Nam (Phần 2)",
+            "type": "Guide Book",
+            "publisher": "NXB Đại học Huế",
+            "publish_year": "2011",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "75 - 133",
+            "verification_document_id": "Số 77/GXN-ĐHL ngày 11 tháng 7 năm 2019"
+        },
+        {
+            "title": "Giáo trình Luật thương mại quốc tế",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Huế",
+            "publish_year": "2014",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "158 - 184",
+            "verification_document_id": "Số 78/GXN-ĐHL ngày 11 tháng 7 năm 2019"
+        },
+        {
+            "title": "Hướng dẫn phân tích tình huống học phần Luật thương mại 1",
+            "type": "Guide Book",
+            "publisher": "NXB Đại học Huế",
+            "publish_year": "2019",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 01 - 159",
+            "verification_document_id": "Quyết định số 427/QĐ-ĐHL ngày 28/5/2024"
+        },
+        {
+            "title": "Bảo vệ quyền lợi của cổ đông trong mua lại, sáp nhập công ty cổ phần ở Việt Nam – Pháp luật và thực tiễn",
+            "type": "Monograph",
+            "publisher": "NXB Công an nhân dân",
+            "publish_year": "2021",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "17 - 62; 83 - 152",
+            "verification_document_id": "Quyết định số 427/QĐ-ĐHL ngày 28/5/2024"
+        },
+        {
+            "title": "Phát triển làng nghề bền vững ở Việt Nam – Thực trạng và giải pháp",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Huế",
+            "publish_year": "Unknown",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "cuốn sách từ trang 01 - 181",
+            "verification_document_id": "Quyết định số 427/QĐ-ĐHL ngày 28/5/2024"
+        },
+        {
+            "title": "Bảo hộ và khai thác nhãn hiệu mang yếu tố địa danh ở Việt Nam",
+            "type": "Reference Book",
+            "publisher": "NXB Công an nhân dân",
+            "publish_year": "2023",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "cuốn sách từ trang 01 - 191",
+            "verification_document_id": "Quyết định số 427/QĐ-ĐHL ngày 28/5/2024"
+        },
+        {
+            "title": "L'entreprise résiliente: Risques globaux et sanitaires tránition écologique innovation sociétale",
+            "type": "Monograph",
+            "publisher": "NXB LexisNexis",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "viết chung từ trang 431 -439",
+            "verification_document_id": "Quyết định số 427/QĐ-ĐHL ngày 28/5/2024"
+        },
+        {
+            "title": "Giáo trình Luật thương mại (Phần 1)",
+            "type": "Textbook",
+            "publisher": "NXB Tư pháp",
+            "publish_year": "2024",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "219 - 229; 253 - 271; 428 - 494",
+            "verification_document_id": "Quyết định số 427/QĐ-ĐHL ngày 28/5/2024"
+        },
+        {
+            "title": "Giáo trình Luật thương mại (Phần 2)",
+            "type": "Textbook",
+            "publisher": "NXB Tư pháp",
+            "publish_year": "2024",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "84-135",
+            "verification_document_id": "Quyết định số 427/QĐ-ĐHL ngày 28/5/2024"
+        },
+        {
+            "title": "Pháp luật về quản trị rủi ro ngân hàng trong môi trường số: Lý luận và thực tiễn",
+            "type": "Monograph",
+            "publisher": "NXB Tư pháp",
+            "publish_year": "2025",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "cuốn sách từ trang 01 -211",
+            "verification_document_id": "Số 39/GXN-ĐHL ngày 28 tháng 5 năm 2025"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng chương trình đào tạo trình độ tiến sĩ ngành Luật Kinh tế (MS: 62380107)",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "Quyết định số 27/QĐ-ĐHL ngày 7/5/2015",
+            "certifying_authority": "Trường Đại học Luật, Đại học Huế",
+            "implementation_document_id": "Quyết định số 261/QĐ-ĐHL ngày 14/12/2016 của Hiệu trưởng về việc ban hành chương trình đào tạo tiến sĩ Luật, chuyên ngành Luật Kinh tế",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh chương trình đào tạo trình độ thạc sĩ ngành Luật Kinh tế theo định hướng nghiên cứu (mã số: 8380107)",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "Quyết định số 09/QĐ-ĐHL ngày 5/1/2023",
+            "certifying_authority": "Trường Đại học Luật, Đại học Huế",
+            "implementation_document_id": "Quyết định số 882/QĐ-ĐHL ngày 16/9/2024 của Hiệu trưởng về việc điều chỉnh và ban hành Điều chỉnh chương trình đào tạo trình độ thạc sĩ ngành Luật Kinh tế theo định hướng nghiên cứu (mã số: 8380107)",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh chương trình đào tạo trình độ thạc sĩ ngành Luật Kinh tế theo định hướng ứng dụng (mã số: 8380107)",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "Quyết định số 09/QĐ-ĐHL ngày 5/1/2023",
+            "certifying_authority": "Trường Đại học Luật, Đại học Huế",
+            "implementation_document_id": "Quyết định số 886/QĐ-ĐHL ngày 16/9/2024 của Hiệu trưởng về việc điều chỉnh và ban hành Bản mô tả chương trình đào tạo trình độ thạc sĩ ngành Luật Kinh tế theo định hướng ứng dụng (mã số: 8380107)",
+            "notes": ""
+        }
+    ]
+}

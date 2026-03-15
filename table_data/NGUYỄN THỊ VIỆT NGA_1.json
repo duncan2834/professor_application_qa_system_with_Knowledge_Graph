@@ -1,0 +1,576 @@
+{
+    "papers": [
+        {
+            "title": "Xây dựng website chuyên ngành dạy học phần: Phương pháp dạy học Sinh học 12 cho giáo sinh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thiết bị Giáo dục/ISSN:1859-0810",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 84, tr. 6-8",
+            "published_date": "2012"
+        },
+        {
+            "title": "Mô hình học kết hợp (blended learning) – giải pháp giáo dục trong môi trường hội nhập",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học trường ĐHSP Hà Nội 2/ISSN: 1859-2325",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 19, tr. 137-147",
+            "published_date": "2012"
+        },
+        {
+            "title": "Xây dựng website hỗ trợ hoạt động dạy học Sinh học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc gia về giảng dạy Sinh học ở trường phổ thông Việt Nam, NXBGDVN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 305-312",
+            "published_date": "2012"
+        },
+        {
+            "title": "Thực trạng kiểm tra, đánh giá ở bậc phổ thông hiện nay",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học cán bộ trẻ các trường ĐHSP toàn quốc lần thứ III năm 2013",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "tr 522-526",
+            "published_date": "2013"
+        },
+        {
+            "title": "Lược sử nghiên cứu về đánh giá trên thế giới và ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 21896 0866 7476",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tháng 9/2013, tr. 86-87",
+            "published_date": "2013"
+        },
+        {
+            "title": "Đánh giá năng lực tư duy của học sinh trong phần Di truyền học – Sinh học 12",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học trường ĐHSP Hà Nội 2/ISSN: 1859-2325",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 31, tr. 87-92",
+            "published_date": "2014"
+        },
+        {
+            "title": "Các nghiên cứu kĩ năng đánh giá- lý thuyết và vận dụng trong đào tạo giáo viên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 357 kì 1 tháng 5/2015, tr. 25-27",
+            "published_date": "2015"
+        },
+        {
+            "title": "Xây dựng câu hỏi đánh giá năng lực khoa học trong dạy học Sinh học ở trường phổ thông theo quan điểm PISA",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam/ISSN: 0868-3662",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt tháng 1-2016, tr. 62-63",
+            "published_date": "2016"
+        },
+        {
+            "title": "Kĩ năng đánh giá năng lực và quy trình hình thành kĩ năng đánh giá năng lực trong dạy học Sinh học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Báo cáo khoa học về Nghiên cứu và Giảng dạy Sinh học ở Việt Nam: Hội nghị Khoa học Quốc gia lần thứ 2. NXB ĐH Quốc gia HN/ISSN: 978-604-62-5440-9.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 1519-1524",
+            "published_date": "2016"
+        },
+        {
+            "title": "Kĩ năng đánh giá năng lực người học trong đào tạo giáo viên phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục & Xã hội, ISSN 1859-3917",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 74 (135), tr. 23-25",
+            "published_date": "2017"
+        },
+        {
+            "title": "Developing Experiment Skills for Preservice Teachers of Biology in Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Educational Sciences: Theory and Practice (ESTP), eISSN: 2148-7561, ISSN: 2630-5984",
+            "journal_ranking": "SCOPUS Q3 (2021)",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol. 21 Issue 3, pp. 57-73",
+            "published_date": "2021"
+        },
+        {
+            "title": "Developing Skill of Using Feedback in Learning -outcome Assessment for Future Teachers",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Learning, Teaching and Educational Research, e-ISSN: 1694-2116, p-ISSN: 1694-2493",
+            "journal_ranking": "SCOPUS Q3",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 22, No. 4, pp. 36-57",
+            "published_date": "2023"
+        },
+        {
+            "title": "Using the Delphi Method to Explore Factors Affecting the Effectiveness of Pedagogical Competence Training on University Lecturers in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Learning, Teaching and Educational Research, e-ISSN: 1694-2116, p-ISSN: 1694-2493",
+            "journal_ranking": "SCOPUS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 22, No. 12, p. 42-61",
+            "published_date": "2023"
+        },
+        {
+            "title": "Factors Affecting the Fostering of Information and Communications Technology Application in Teaching for Teacher by the Blended Learning Model",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Modern Education and Computer Science(IJMECS), ISSN: 2075-0161 (Print), ISSN: 2075-017X (Online)",
+            "journal_ranking": "SCOPUS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.16, No.2, p. 58-71",
+            "published_date": "2024"
+        },
+        {
+            "title": "Developing problem-solving and creative competences for students through teaching Biology with a STEM education orientation in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Scientific Research, ISSN (e) 2223-1331 ISSN (p) 2226-5724",
+            "journal_ranking": "SCOPUS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 14, No 3, p 390-404",
+            "published_date": "2024"
+        },
+        {
+            "title": "Developing scientific literacy assessment skills for teacher",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam national University Press, Hanoi, Proceedings of international conference, Teachers' and educational administrators' competence in the context of globalisation",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 255-260",
+            "published_date": "2018"
+        },
+        {
+            "title": "Năng lực dạy học tích hợp- lý thuyết và vận dụng trong đào tạo sinh viên sư phạm Sinh học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "NXB Khoa học tự nhiên và công nghệ, Báo cáo khoa học về nghiên cứu và giảng dạy Sinh học ở Việt Nam, Hội nghị khoa học quốc gia lần thứ 3, Quy Nhơn, tháng 5/2018, ISBN 978-604-913-695-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 1308-1313",
+            "published_date": "2018"
+        },
+        {
+            "title": "Năng lực khoa học của học sinh phổ thông theo quan điểm PISA",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam/ISSN: 2615-8957",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14 (08), tr. 42-46",
+            "published_date": "2018"
+        },
+        {
+            "title": "Evaluating the Skill of Assessing the Learners' Competency of Pedagogical Students",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNU Journal of Science: Education Research, ISSN 2615-9325, e-ISSN 2588-1159",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 34, No. 4, pp.1-10",
+            "published_date": "2018"
+        },
+        {
+            "title": "Thiết kế một số hoạt động trải nghiệm theo định hướng giáo dục STEM cho HS phổ thông tại khoa Sinh học",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "NXB ĐH Huế, Báo cáo KH về lý luận và PPDH bộ môn Sinh học, HTKHQG lần thứ 1, ISBN 978-604-912-995-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 163-168",
+            "published_date": "2018"
+        },
+        {
+            "title": "Đổi mới đánh giá kết quả học tập của sinh viên sư phạm Sinh học tại trường đại học sư phạm Hà Nội 2",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "NXB Khoa học tự nhiên và công nghệ, Báo cáo khoa học về nghiên cứu và giảng dạy Sinh học ở Việt Nam, Hội nghị khoa học quốc gia lần thứ 4, Vĩnh Phúc, tháng 7/2020, ISBN 978-604-9955-23-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 987-994",
+            "published_date": "2020"
+        },
+        {
+            "title": "Một số vấn đề lí luận và thực tiễn phát triển chương trình nhà trường đáp ứng chương trình giáo dục phổ thông 2018",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học trường ĐHSP Hà Nội 2/ISSN: 1859-2325",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 66, tr. 78-91",
+            "published_date": "2020"
+        },
+        {
+            "title": "Một số biện pháp giáo dục phẩm chất cho học sinh Tiểu học thông qua hoạt động trải nghiệm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học trường ĐHSP Hà Nội 2/ISSN: 1859-2325",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 75, tr. 71-80",
+            "published_date": "2021"
+        },
+        {
+            "title": "Chuyển đổi số các học phần trong đào tạo cử nhân ngành sư phạm: Một trường hợp điển hình",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "NXB ĐH Quốc gia HN, Kỷ yếu hội thảo quốc tế “Chuyển đổi số và giáo dục đại học: Khi thách thức là cơ hội”, 9/2021, Viện quốc tế Pháp ngữ, ISBN 978-604-342-990-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 165-178",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đánh giá sự phát triển năng lực khoa học cho học sinh phổ thông tại Việt Nam bằng hoạt động nghiên cứu",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường ĐHSP Hà Nội/ISSN: 2354-1075.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 25-36",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tự làm thẻ flash card hướng dẫn trẻ tự học tại nhà theo phương pháp Glenn Doman",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Thiết bị Giáo dục/ISSN:1859-0810",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kì 2 số 263, tr. 7-9",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tiêu chí đánh giá năng lực tự học của học sinh lớp 2 khi tham gia học tập theo mô hình Blend learning",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Thiết bị Giáo dục/ISSN:1859-0810",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt tháng 5/2022, tr. 277-279",
+            "published_date": "2022"
+        },
+        {
+            "title": "Thiết kế bài học STEM trong dạy học Sinh học 10: Trường hợp dạy học chủ đề “lên men rượu”",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 22, số đặc biệt 3, tr. 103-109.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Xây dựng bài tập tình huống phát triển năng lực vận dụng kiến thức vào thực tiễn trong dạy học phần Sinh học tế bào (Sinh học 10)",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Thiết bị Giáo dục/ISSN:1859-0810",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kì 2 tháng 7/2022, tr. 28-31",
+            "published_date": "2022"
+        },
+        {
+            "title": "Thiết kế bài dạy phát triển năng lực hợp tác: Chủ đề “Quá trình lên men của Vi sinh vật”",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Thiết bị Giáo dục/ISSN:1859-0810",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt tháng 6/2022, tr. 183-185",
+            "published_date": "2022"
+        },
+        {
+            "title": "Hướng dẫn giáo viên thiết kế kế hoạch bài dạy môn KHTN theo hướng phát triển phẩm chất, năng lực học sinh",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "NXB Khoa học tự nhiên và công nghệ, Báo cáo khoa học về nghiên cứu và giảng dạy Sinh học ở Việt Nam, Hội nghị khoa học quốc gia lần thứ 5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 971-982",
+            "published_date": "2022"
+        },
+        {
+            "title": "Xác định các hoạt động dạy học chuyên đề \"Dinh dưỡng khoáng - tăng năng suất cây trồng và nông nghiệp sạch\" - Sinh học 11",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "NXB Khoa học tự nhiên và công nghệ, Báo cáo khoa học về nghiên cứu và giảng dạy Sinh học ở Việt Nam, Hội nghị khoa học quốc gia lần thứ 5, TP. Hồ Chí Minh, tháng 8/2022, ISBN 978-604-357-065-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 1185-1193",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tổ chức hoạt động nhóm nhằm phát triển năng lực tìm hiểu môi trường tự nhiên và xã hội xung quanh cho học sinh trong dạy học chủ đề “Thực vật và động vật” (Tự nhiên và xã hội 3)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam/ISSN: 2615-8957",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 18, Số 12 năm 2022, tr. 61-66",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đề xuất quy trình sử dụng các bộ sách giáo khoa hoạt động trải nghiệm trong dạy học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 22, số đặc biệt 11, tr.17-21",
+            "published_date": "2022"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến kết quả bồi dưỡng đội ngũ giáo viên cốt cán để thực hiện chương trình giáo dục phổ thông",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 23(8), tr. 52-58",
+            "published_date": "2023"
+        },
+        {
+            "title": "Pedagogical student assessment tools for learning outcome assessment skills",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cypriot Journal of Educational Sciences/ISSN: 1305905X, 13059076",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 18(1), pp. 158-174",
+            "published_date": "2023"
+        },
+        {
+            "title": "Rèn luyện năng lực đánh giá kết quả học tập cho sinh viên ngành Sư phạm sinh học: Phân tích cơ hội từ chương trình đào tạo một số trường đại học sư phạm ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam/ISSN: 2615-8957",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19, số 04, tr. 24-29",
+            "published_date": "2023"
+        },
+        {
+            "title": "Developing a program to support the development of core qualities for primary school students in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Education and Social Science Research/ISSN: 2581-5148",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 6 (3): pp. 378-389",
+            "published_date": "2023"
+        },
+        {
+            "title": "Xây dựng câu hỏi đánh giá năng lực khoa học theo quan điểm PISA trong dạy học Sinh học 10",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 23(16), tr. 22-27",
+            "published_date": "2023"
+        },
+        {
+            "title": "Xây dựng chương trình hỗ trợ phát triển phẩm chất cho học sinh phổ thông: Nhận thức của giáo viên và định hướng thực hiện giải pháp",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tâp 23, số đặc biệt 5, tr. 238-242",
+            "published_date": "2023"
+        },
+        {
+            "title": "Quy trình thiết kế hoạt động trải nghiệm, hướng nghiệp cho học sinh THCS",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 23(17), tr. 14-17",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mô hình dạy học kết hợp trong đào tạo sinh viên Sư phạm Sinh học: Trường hợp dạy học chương “Hướng dẫn dạy học phần Tiến hóa”",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam/ISSN: 2615-8957",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19, số 11, tr. 37-41",
+            "published_date": "2023"
+        },
+        {
+            "title": "Phát triển năng lực số cho học sinh trong dạy học phần Sinh học tế bào (Sinh học 10)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học trường ĐHSP Hà Nội 2/ISSN: 2815-5629",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 02, tập 03, tr. 187-197",
+            "published_date": "2023"
+        },
+        {
+            "title": "Xây dựng chương trình trải nghiệm STEM môn Khoa học tự nhiên lớp 6: Nghiên cứu tại thành phố Phúc Yên, tỉnh Vĩnh Phúc",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24(9), tr. 36-41",
+            "published_date": "2024"
+        },
+        {
+            "title": "Các nhân tố ảnh hưởng đến chất lượng đào tạo sinh viên Sư phạm Sinh học tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam/ISSN: 2615-8957",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 05, tr. 41-45",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tổ chức dạy học theo dự án nội dung “Sinh học Vi sinh vật” (Sinh học 10)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục/ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24, số đặc biệt 4, tr. 84-88",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Xây dựng và sử dụng website chuyên ngành nhằm nâng cao chất lượng giảng dạy phần “Phương pháp dạy học Sinh học 12” tại trường ĐHSP Hà Nội 2",
+            "role": "Principal Investigator",
+            "project_code": "C.2012.08",
+            "management_level": "Trường ĐHSP Hà Nội 2",
+            "period": "2012-2013",
+            "acceptance_date": "Ngày 13 tháng 8 năm 2012",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Xây dựng bộ công cụ đánh giá năng lực của học sinh",
+            "role": "Principal Investigator",
+            "project_code": "C.2014.21",
+            "management_level": "Trường ĐHSP Hà Nội 2",
+            "period": "2014-2015",
+            "acceptance_date": "Ngày 11 tháng 5 năm 2015",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Hình thành cho sinh viên kĩ năng đánh giá năng lực khoa học của học sinh trong dạy học Sinh học ở phổ thông",
+            "role": "Principal Investigator",
+            "project_code": "C.2017-18-08",
+            "management_level": "Trường ĐHSP Hà Nội 2",
+            "period": "2017-2019",
+            "acceptance_date": "Ngày 27 tháng 05 năm 2019",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Phát triển chương trình bồi dưỡng thường xuyên đặc thù dành cho giáo viên và cán bộ quản lý giáo dục ở khu vực nông thôn và miền núi phía Bắc",
+            "role": "Principal Investigator",
+            "project_code": "ETEP.2019-SP2-1.2.4",
+            "management_level": "Trường ĐHSP Hà Nội 2",
+            "period": "2019-2020",
+            "acceptance_date": "Ngày 31/12/2019",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Chinh phục lý thuyết và bài tập Sinh học: Chuyên đề Di truyền - Biến dị",
+            "type": "Reference Book",
+            "publisher": "NXB ĐH Quốc gia HN",
+            "publish_year": "2017",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "7-180",
+            "verification_document_id": "Giấy xác nhận số 690/GXN-ĐHSPHN2-ĐT ngày 16 tháng 07 năm 2019"
+        },
+        {
+            "title": "Dạy học phát triển năng lực môn Sinh học THPT",
+            "type": "Reference Book",
+            "publisher": "NXB ĐHSP Hà Nội",
+            "publish_year": "2018",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "37-77, 118-163",
+            "verification_document_id": "Giấy xác nhận số 341/GXN-ĐHSPHN2 ngày 6 tháng 6 năm 2024"
+        },
+        {
+            "title": "Dạy học môn giáo dục học cho sinh viên đại học sư phạm theo tiếp cận trải nghiệm",
+            "type": "Reference Book",
+            "publisher": "NXB Khoa học xã hội",
+            "publish_year": "2021",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "15-53",
+            "verification_document_id": "Giấy xác nhận số 341/GXN-ĐHSPHN2 ngày 6 tháng 6 năm 2024"
+        },
+        {
+            "title": "Child care and hugiene",
+            "type": "Textbook",
+            "publisher": "NXB ĐHSP TP Hồ Chí Minh",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "28-57",
+            "verification_document_id": "Quyết định số 550/QĐ-ĐHSPHN2 ngày 1/4/2022"
+        },
+        {
+            "title": "Đánh giá trong giáo dục đại học",
+            "type": "Reference Book",
+            "publisher": "NXB ĐH Quốc gia HN",
+            "publish_year": "2023",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "76-109",
+            "verification_document_id": "Giấy xác nhận số 341/GXN-ĐHSPHN2 ngày 6 tháng 6 năm 2024"
+        },
+        {
+            "title": "Thiết kế công cụ kiểm tra, đánh giá phát triển phẩm chất, năng lực học sinh môn Sinh học",
+            "type": "Reference Book",
+            "publisher": "NXB ĐH Quốc gia HN",
+            "publish_year": "2024",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "34-66, 191-239",
+            "verification_document_id": "Giấy xác nhận số 341/GXN-ĐHSPHN2 ngày 6 tháng 6 năm 2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Đánh giá tổng thể và cải tiến chất lượng chương trình đào tạo trình độ thạc sĩ ngành Sinh thái học",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 2058/QĐ-ĐHSPHN2 ngày 20/9/2023",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "Quyết định số 1125/QĐ-ĐHSPHN2 ngày 12/6/2024",
+            "notes": ""
+        }
+    ]
+}

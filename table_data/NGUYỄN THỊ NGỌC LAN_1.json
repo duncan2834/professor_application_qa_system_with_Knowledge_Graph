@@ -1,0 +1,718 @@
+{
+    "papers": [
+        {
+            "title": "Quality of Life in Vietnamese Gastric Cancer Patients https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6545786/ https://doi.org/10.1155%2F2019%2F7167065",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "BioMed Research International Online ISSN:2314-6141",
+            "journal_ranking": "ISI (Q2) https://www.scimagojr.com/journalsearch.php?q=21100230018&tip=sid&clean=0",
+            "citation_count": 12,
+            "volume_issue_pages": "Tập 2019, số 7167065",
+            "published_date": "05/2019"
+        },
+        {
+            "title": "p53 directly regulates the transcription of the human frataxin gene and its lack of regulation in tumor cells decreases the utilization of mitochondrial iron https://pubmed.ncbi.nlm.nih.gov/25158131/#:~:text=Alternatively%2C%20the%20low%20expression%20of%20frataxin%20not%20regulated,mitochondria%2C%20causing%20the%20tumor-specific%20ALA-induced%20accumulation%20of%20protoporphyrin. https://doi.org/10.1016/j .gene .2014.08.043",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Gene ISSN 0378-1119",
+            "journal_ranking": "ISI (IF=3,5; Q2) https://www.scimagojr.com/journalsearch.php?q=15636&tip=sid&clean=0",
+            "citation_count": 29,
+            "volume_issue_pages": "Tập 551, số 1, trang 79-85",
+            "published_date": "08/2014"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm một số đa hình đơn Nucleotid của gen MUC1 và gen PSCA trên bệnh nhân ung thư dạ dày",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học /ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 130, số 6, trang 32-39",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Khảo sát một số đặc tính của mẫu bệnh phẩm bằng xét nghiệm chỉ số huyết thanh",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học /ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 123, tập 7, trang 9-14",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Identification of the polymorphism rs4072037 of MUC1 gene in patients with gastric cancer",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 118 E4, số 2, trang 8-14",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Nghiên cứu đột biến exon 9 và 20 gen PIK3CA trên bệnh nhân ung thư dạ dày",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 117, số 1, trang 22-30",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Xác định đột biến exon 3, 9 gen CDH1 trên bệnh nhân ung thư dạ dày thể lan tỏa",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 117, số 1, trang 15-21",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Xác định đột biến exon 2 gen RHOA trên bệnh nhân ung thư dạ dày thể lan tỏa",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 115, số 6, trang 32-37",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Tính đa hình thái đơn rs2294008 gen PSCA và nguy cơ với ung thư dạ dày",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 115, số 6, trang 25-31",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Nghiên cứu nồng độ pepsinogen và một số yếu tố liên quan trên bệnh nhân ung thư dạ dày",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 469, số chuyên đề 2018, trang 87-94",
+            "published_date": "08/2018"
+        },
+        {
+            "title": "Sự thay đổi một số chỉ số hoá sinh máu ở bệnh nhân bị rắn độc cắn tại Trung tâm Chống độc – Bệnh viện Bạch mai",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng/ISSN 1859-3593",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 80, trang 108-112",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Một số thay đổi trong chỉ số hoá sinh máu của bệnh nhân ngộ độc thuốc trừ sâu phospho hữu cơ trong năm 2013 tại Trung tâm Chống độc – Bệnh viện Bạch mai",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng/ISSN 1859-3593",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 80, trang 39-46",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Nghiên cứu nồng độ vitamin D huyết thanh ở bệnh nhân Đái tháo đường typ 2 tại khoa nội tiết Bệnh viện Bạch Mai",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng/ISSN 1859-3593",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 80, trang 33-38",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Chiết xuất và tìm hiểu tác dụng ức chế enzyme alpha-glucosidase của một số loại thảo dược có tác dụng hạ đường huyết",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 372, Số 2, trang 33-39",
+            "published_date": "08/2010"
+        },
+        {
+            "title": "Clinical characteristics of Covid-19 patients treated in emergency Covid-19 hospitals in Vietnam: Experience from Phutho province, Vietnam https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11103400/ https://doi.org/10.7150%2Fijms.94461",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Medical Sciences ISSN: 1449-1907",
+            "journal_ranking": "ISI (IF=3,6; Q2) https://www.scimagojr.com/journalsearch.php?q=130020&tip=sid&clean=0",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 6:1072-1078",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Characteristics and Related Factors of Bacterial Infection Among Patients With Cirrhosis https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10999149/ https://doi.org/10.5455/msm.2024.36.90-96",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materia Socio Medica ISSN 1986-597X (Electronic)",
+            "journal_ranking": "Scopus https://www.scopus.com/sourceid/21101170027",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 36, số 1:90-96",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "A Model for Gastric Cancer Risk Prediction Based on MUC1 Polymorphisms and Health-risk Behaviors in a Vietnamese Population https://pubmed.ncbi.nlm.nih.gov/37652501/ https://doi.org/10.21873/invivo.13339",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "In Vivo ISSN: 0258-851X",
+            "journal_ranking": "ISI (IF=2,4; Q2) https://www.scimagojr.com/journalsearch.php?q=27210&tip=sid&clean=0",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 37, số 5: 2347-2356",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Nutritional Status, Refeeding Syndrome and Some Associated Factors of Patients at COVID-19 Hospital in Vietnam https://pubmed.ncbi.nlm.nih.gov/37049600/ https://doi.org/10.3390/nu15071760",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nutrients ISSN 2072-6643",
+            "journal_ranking": "ISI (IF=4,8; Q1) https://www.scimagojr.com/journalsearch.php?q=19700188323&tip=sid&clean=0",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 15, số 7:1760",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Investigation of target sequencing of SARS-CoV-2 and immunogenic GWAS profiling in host cells of COVID-19 in Vietnam https://pubmed.ncbi.nlm.nih.gov/35718768/ https://doi.org/10.1186/s12879-022-07415-1",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "BMC in Infectious ISSN: 1471-2334",
+            "journal_ranking": "ISI (IF=3,7; Q1) https://www.scimagojr.com/journalsearch.php?q=36513&tip=sid&clean=0",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 22, số 1:558",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Polymorphism of MUC1 Gene in Vietnamese Gastric Cancer Patients: A Multicenter Case-Control Study https://pubmed.ncbi.nlm.nih.gov/34532288/ https://doi.org/10.3389/fonc.2021.694977",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Oncology ISSN: 2234-943X (Electronic)",
+            "journal_ranking": "ISI (IF=3,5; Q2) https://www.scimagojr.com/journalsearch.php?q=21100275443&tip=sid&clean=0",
+            "citation_count": 4,
+            "volume_issue_pages": "Tập 11, năm 2021",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "A novel mutation in the Transthyretin gene in Amyloidosis: a cluster case report in Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Science, Technology and Engineering /pISSN 2525-2461",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 66, số 2, trang 76-81",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Phân tích một số chỉ số cận lâm sàng ở bệnh nhân Covid-19 nặng, nguy kịch được nhập viện điều trị lần đầu tại bệnh viện điều trị người bệnh Covid-19",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 178, số 5, trang 17-23",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Nutritional status and activities of daily living of Vietnamese older adults",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 177 E14, số 4, trang 158-166",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Khảo sát kháng thể kháng nhân của bệnh nhân mắc Covid -19 trong giai đoạn cấp",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 176, số 3, trang 89-95",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Đặc điểm của khối huyết tương giàu tiểu cầu trong điều trị bệnh lý khớp tại Bệnh viện Đại học Y Hà Nội",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học /ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 176, số 3, trang 16-23",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Ảnh hưởng của vận chuyển khí nén tới chỉ số huyết tán của bệnh phẩm máu tại Bệnh viện Đại học Y Hà Nội",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học /ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 176, số 3, trang 24-30",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Nghiên cứu nồng độ Ferritin và mối liên quan với một số chỉ số lâm sàng trên bệnh nhân Covid-19",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học cộng đồng/ISSN 2354-0613",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 65, số 1, trang 110-119",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Xác nhận phương pháp xét nghiệm glucose máu trên máy đường huyết tại chỗ (POCT) accu-chek inform II",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam/pISSN 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 66, số 1, trang 68-74",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Nồng độ kháng thể gắn kết sau tiêm vắc xin phòng bệnh Covid-19 ở người cao tuổi năm 2021-2022",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y tế công cộng/ISSN 1859-1132",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 65, tập 2, trang 39-50",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Thực trạng sarcopenic obesity (béo phì có suy mòn cơ) và một số yếu tố liên quan ở người cao tuổi tại một trung tâm dưỡng lão tại Hà Nội năm 2023",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 171, số 10, trang 106-114",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Đánh giá giá trị sử dụng một số công thức tính toán nồng độ Low density Lipoprotein Cholesterol máu",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 171, số 10, trang 186-194",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Khảo sát nồng độ HBcrAg của bệnh nhân nhiễm virus viêm gan B mạn tính tại Bệnh viện Đại học Y Hà Nội",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 532, số chuyên đề 2023, trang 79-86",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Kết quả xét nghiệm một số chỉ số liên quan đến viêm gan virus B tại Bệnh viện Đại học Y Hà Nội",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 171, số 10, trang 45-52",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Một số đặc điểm của nhóm bệnh nhân xơ gan, ung thư biểu mô tế bào gan có tiền sử viêm gan B tại Bệnh viện Đại học Y Hà Nội",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học cộng đồng/ISSN 2354-0613",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, số chuyên đề đặc biệt 10, trang 234-240",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Đặc điểm nồng độ Vitamin D huyết thanh trên bệnh nhân mắc bệnh lý hô hấp tại Bệnh viện Đại học Y Hà Nội",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học cộng đồng/ISSN 2354-0613",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, số chuyên đề đặc biệt 10, trang 100-107",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Giá trị dự báo tiên lượng nặng của một số chỉ dâu xét nghiệm huyết học trên bệnh nhân Covid-19 tại Bệnh viện Việt Nam Thụy Điển Uông Bí",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học cộng đồng/ISSN 2354-0613",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, số chuyên đề đặc biệt 10, trang 225-233",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Hoạt động chức năng cơ bản hàng ngày và một số yếu tố liên quan trên người cao tuổi ở một trung tâm dưỡng lão tại thành phố Hà Nội",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học cộng đồng/ISSN 2354-0613",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, số chuyên đề đặc biệt 10, trang 9-16",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Giá trị chẩn đoán sớm nhồi máu cơ tim cấp của xét nghiệm Troponin I siêu nhạy trên hệ thống Atellica",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam/pISSN 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tâp 65, số 9, trang 34-38",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "So sánh tương đồng kết quả xét nghiệm LDL-C định lượng trực tiếp và tính toán bằng công thức",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 529, số chuyên đề 2023, trang 216-223",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Nghiên cứu giá trị chẩn đoán ung thư biểu mô tế bào gan của nồng độ PIVKAII huyết thanh",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 529, số chuyên đề 2023, trang 105-111",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến nguy cơ diễn biến nặng trên bệnh nhân COVID-19 tại bệnh viện Việt Nam -Thụy Điển Uông Bí",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 529, số chuyên đề 2023, trang 79-86",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Đặc điểm nồng độ Vitamin D huyết thanh của bệnh nhân đái tháo đường type 2 tại Bệnh viện Đại học Y Hà Nội",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 529, số chuyên đề 2023, trang 112-118",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Áp dụng hướng dẫn EP15A3 của CLSI trong xác nhận phương pháp định lượng glucose máu bằng máy Accu-chek Inform II",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam/pISSN 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 65, số 7, trang 43-46",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Giá trị của xét nghiệm CA125, HE4, chỉ số Roma, chỉ số Copenhagen trong chẩn đoán ung thư buồng trứng tại bệnh viện đại học y Hà Nội",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 165, số 4, trang 179-187",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Tình hình thực hiện công tác phòng chống dịch Covid-19 tại tỉnh Quảng Nam trong năm 2020-2021",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học cộng đồng/ISSN 2354-0613",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, số 2, trang 45-52",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Xác định biến thể SARS-CoV-2 trên mẫu bệnh nhân Bắc Giang trong vụ dịch 2021 bằng công nghệ giải trình tự thế hệ mới",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 163, số 2, trang 55-62",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Nghiên cứu giá trị của xét nghiệm nhanh kháng nguyên Epsline® SARS-CoV-2 trong chẩn đoán mắc COVID-19",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam/pISSN 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, số 12, trang 24-28",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Evaluate the Sars- Cov-2 diagnostic value of quantitative antigen test",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tâp 161 E11, số 12, trang 35-43",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Đặc điểm của nhóm nhân viên y tế chưa từng được ghi nhận nhiễm SARS COV-2 tại Trường Đại học Y Hà Nội",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y tế công cộng/ISSN 1859-1132",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 61, trang 23-30",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Thực trạng rối loạn điện giải và một số yếu tố liên quan của người bệnh tại Bệnh viện Điều trị Người bệnh Covid-19",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 159, số 11, trang 42-54",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "So sánh tương đồng kết quả xét nghiệm định lượng Troopnin T trên máy xét nghiệm nhanh tại chỗ (POCT) Cobas H232 và máy xét nghiệm tại phòng xét nghiệm trung tâm Cobas 8000",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 159, số 11, trang 229-236",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Giá trị của các xét nghiệm hs-TnI và hs-TnT trong chẩn đoán nhồi máu cơ tim cấp",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 519, số chuyên đề 2022, trang 183-189",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "So sánh tương đồng về kết quả soi cặn nước tiểu trên hệ thống máy tự động và bằng kính hiển vi thủ công",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 519, số chuyên đề 2022, trang 158-164",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Ảnh hưởng của đa hình đơn nucleotid IFITM3 rs12252 và TMPRSS2 rs12329760 đến mức độ nghiêm trọng của bệnh COVID-19",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 519, số chuyên đề 2022, trang 144-150",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Khảo sát nồng độ kháng thể kháng miền liên kết thụ thể (RBD) của SARS COV-2 sau tiêm 2 mũi vắc xin phòng COVID-19 trên đối tượng nhân viên y tế của trường Đại học Y Hà Nội",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y tế công cộng/ISSN 1859-1132",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, trang 61-70",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "A case report of the first hereditary transthyretin cardiac amyloidosis diagnosed in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 154 E10, số 6, trang 101-107",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "So sánh kết quả xét nghiệm điện giải đồ trên hệ thống máy phân tích khí máu và hóa sinh tự động",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam/pISSN 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, số 5, trang 1-5",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng và đặc điểm kiểu gen của người bệnh ung thư dạ dày tại 4 bệnh viện ở Hà Nội",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 147, số 11, trang 63-71",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Đánh giá phương pháp và giá trị lâm sàng của xét nghiệm Anti SARS-CoV-2 trên hệ thống Roche Cobas e801",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 138, số 2, trang 1-7",
+            "published_date": "03/2021"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu xác định đột biến gen LDL-R trên bệnh nhân tăng lipid máu có tính chất gia đình",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2016-2018",
+            "acceptance_date": "11/7/2018",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu tính đa hình và nhạy cảm của một số gen liên quan đến nguy cơ ung thư dạ dày ở Việt Nam",
+            "role": "Assistant",
+            "project_code": "106-YS.02-2015-37",
+            "management_level": "Cấp Bộ",
+            "period": "2016-2019",
+            "acceptance_date": "13/9/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Bước đầu nghiên cứu đặc điểm một số đa hình đơn nucleotid của gen TMPRSS2 và IFITM3 trên bệnh nhân COVID-19",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Đề tài cơ sở",
+            "period": "2022-2023",
+            "acceptance_date": "17/8/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu xây dựng mô hình hệ thống quản lý xét nghiệm nhanh tại chỗ (POCT: Point of Care Testing) tại tỉnh Ninh Bình",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Đề tài cấp tỉnh",
+            "period": "2022-2024",
+            "acceptance_date": "",
+            "rating": ""
+        },
+        {
+            "title": "Nghiên cứu nồng độ HbcrAg huyết tương trên bệnh nhân nhiễm virus viêm gan B mạn tính, xơ gan, ung thư gan",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2023-2024",
+            "acceptance_date": "23/4/2024",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xác nhận phương pháp và khảo sát nồng độ PIVKA-II huyết tương ở bệnh nhân ung thư biểu mô tế bào gan",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2023-2024",
+            "acceptance_date": "23/4/2024",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Hoá sinh",
+            "type": "Textbook",
+            "publisher": "NXB Y học",
+            "publish_year": "2018",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "156-186; 205-215; 372-385",
+            "verification_document_id": "QĐ số 6064/QĐ-ĐHYHN ngày 8/11/2018"
+        },
+        {
+            "title": "Hoá sinh Y học",
+            "type": "Textbook",
+            "publisher": "NXB Y học",
+            "publish_year": "2021",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "274-293; 294-304; 305-325",
+            "verification_document_id": "QĐ số 822/QĐ-ĐHYHN ngày 27/4/2021"
+        },
+        {
+            "title": "Hoá sinh lâm sàng",
+            "type": "Textbook",
+            "publisher": "NXB Y học",
+            "publish_year": "2022",
+            "num_authors": 10,
+            "is_editor_in_chief": false,
+            "compiled_pages": "99-119; 254-266; 301-322",
+            "verification_document_id": "QĐ số 2889/QĐ-ĐHYHN ngày 1/8/2022"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình Đào tạo Sau đại học đối tượng Thạc sỹ chuyên ngành Hóa sinh Y học",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "QĐ số 3496/QĐ-ĐHYHN, ngày 14/9/2022",
+            "certifying_authority": "Trường Đại học Y Hà Nội",
+            "implementation_document_id": "QĐ số 2191/QĐ-ĐHYHN, ngày 19/6/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình Đào tạo Sau đại học đối tượng BSNT chuyên ngành Hóa sinh Y học",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "QĐ số 3496/QĐ-ĐHYHN, ngày 14/9/2022",
+            "certifying_authority": "Trường Đại học Y Hà Nội",
+            "implementation_document_id": "QĐ số 2185/QĐ-ĐHYHN, ngày 19/6/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình Đào tạo Sau đại học đối tượng CKI chuyên ngành Hóa sinh Y học",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "QĐ số 3496/QĐ-ĐHYHN, ngày 14/9/2022",
+            "certifying_authority": "Trường Đại học Y Hà Nội",
+            "implementation_document_id": "QĐ số 2187/QĐ-ĐHYHN, ngày 19/6/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình Đào tạo Sau đại học đối tượng CKII chuyên ngành Hóa sinh Y học",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "QĐ số 3496/QĐ-ĐHYHN, ngày 14/9/2022",
+            "certifying_authority": "Trường Đại học Y Hà Nội",
+            "implementation_document_id": "QĐ số 2189/QĐ-ĐHYHN, ngày 19/6/2023",
+            "notes": ""
+        }
+    ]
+}

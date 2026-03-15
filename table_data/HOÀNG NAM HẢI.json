@@ -1,0 +1,644 @@
+{
+    "papers": [
+        {
+            "title": "Một số quan điểm về dạy học Thống kê ở nhà trường trung học phổ thông hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường ĐH SP Hà Nội, No 1, Vol. 58 (2013), trang 13-22; ISSN: 0866-3719",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "No 1, Vol. 58 (2013), trang 13-22",
+            "published_date": "2013"
+        },
+        {
+            "title": "Giúp sinh viên rèn luyện năng lực đọc hiểu bảng biểu và biểu đồ thống kê",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo Dục, số 303 kì 1 (2/2013), trang 36-38; ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 303 kì 1 (2/2013), trang 36-38",
+            "published_date": "2013"
+        },
+        {
+            "title": "Nurture Statistical Reasoning in Teaching and Learning Statistics at High Schools and Professional Colleges",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 6th International Conference on Educational Reform (ICER 2013): ASEAN Education in the 21st Century © Mahasarakham University, 2013",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2013"
+        },
+        {
+            "title": "Phát triển năng lực dự đoán thống kê cho sinh viên thông qua dạy học Thống kê Toán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo Quốc Tế Pháp Việt, tại ĐHSP TP. HCM, ngày 02-04 tháng 01 năm 2013.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2013"
+        },
+        {
+            "title": "Về mô hình phát triển suy luận thống kê",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Chí Khoa học Trường Đại Học Vinh, Tập 41, số 1A, trang 26-35; ISSN: 1859-2228",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 41, số 1A, trang 26-35",
+            "published_date": "2012"
+        },
+        {
+            "title": "Phát triển năng lực suy luận định lượng cho sinh viên chuyên nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "TC KH&CN Đại Học Đà Nẵng số 3(52), trang 62-69; 2011; ISSN: 1859-1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 3(52), trang 62-69",
+            "published_date": "2012"
+        },
+        {
+            "title": "Practicing to master the tables and charts to develop statistical reasoning ability of high school students in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of APEC-Ubon Ratchathani International Symposium 2011: Innovation on Problem Solving-Based Mathematics Textbooks and E-textbooks, November 2-5, 2011, Ubon Ratchathani University, Thailand, pages 108-116",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pages 108-116",
+            "published_date": "11/2011"
+        },
+        {
+            "title": "Về việc phát triển năng lực suy luận định lượng cho học sinh tiểu học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí GD số 271 (kỳ 1-10/2011), trang 36-38; ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 271 (kỳ 1-10/2011), trang 36-38",
+            "published_date": "2011"
+        },
+        {
+            "title": "Thách thức của việc phát triển năng lực suy luận thống kê cho sinh viên chuyên nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học NCS Đại học Vinh năm 2010",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2010"
+        },
+        {
+            "title": "Sử dụng biểu đồ phát triển năng lực suy luận thống kê cho sinh viên chuyên nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại Học Đà Nẵng, số 6(41), trang 100-109; 2010; ISSN: 1859-1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 6(41), trang 100-109",
+            "published_date": "2010"
+        },
+        {
+            "title": "Về việc phát triển năng lực suy luận thống kê cho sinh viên cao đẳng chuyên nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, số 252, kỳ 2, trang 36-40; 2010; ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 252, kỳ 2, trang 36-40",
+            "published_date": "2010"
+        },
+        {
+            "title": "Hình thành khái niệm công thức hàm nhiều biến từ nền tảng Toán phổ thông",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Chí Khoa Học & Công Nghệ Đại Học Đà Nẵng số 4(33) 2009; ISSN: 1859-1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 4(33) 2009",
+            "published_date": "2009"
+        },
+        {
+            "title": "A Review of Educational Policy Studies in Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Educational Sciences; IJES-40-1-3-001-23-1260-Nam-H-N-Tx[1].pmd (krepublishers.com)",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 40 (1-3): 1-16",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Areview of Studiens on Math Teaching Methods",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal for Educators Teachers and Trainers; View of A Review of Studies on Math Teaching Methods (labosfor.com)",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14 (2) 448 - 463",
+            "published_date": "28/1/2023"
+        },
+        {
+            "title": "The Development of Curricular and Training Programs in Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Problems of Education in the 21st Century; 90-116.Hoang_Vol.81-1_PEC.pdf (scientiasocialis.lt)",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.81, No.1. 2023 90-116",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Training Quality Management and Management of Teacher Training: an Overview of Research Initiatives in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Social Science And Human Research; ISSN(print): 2644-0679, ISSN(online): 2644-0695",
+            "journal_ranking": "SSCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 05 Issue 07 July 2022; DOI: 10.47191/ijsshr/v5-i7-76, Page No: 3345-3349",
+            "published_date": "07/7/2022"
+        },
+        {
+            "title": "A review of the management of teacher training",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "World Journal of Advanced annd Reviews; eISSN: 2581-9615 CODEN (USA): WJARAI",
+            "journal_ranking": "SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "2022, 15 (02), 001-006",
+            "published_date": "02/8/2022"
+        },
+        {
+            "title": "Quy trình tổ chức hoạt động trải nghiệm trong dạy học toán ở tiểu học",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, Tập 22, số đặc biệt tháng 6, trang 6-10, Tháng 5/2022; ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 22, số đặc biệt tháng 6, trang 6-10",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Một số biện pháp hỗ trợ hoạt động nhận thức cho HS đầu cấp tiểu học trong dạy học toán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục; ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 467, kì 1",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Recommendtions for a new model of primary education teacher training ta fulfill the requirements of the new general education program at university of education, the university of Danang",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Education; ISSN: 2588-1477",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.02 (English version), 2018 March, pp 1-6",
+            "published_date": "2018"
+        },
+        {
+            "title": "A number of Pedagogical measures to contribute to the development of assessment capability for edcation students to meet ouput standard",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ - ĐHĐN; ISSN 1859 - 1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 06 (115), 2017. Trang 62 - 66",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đổi mới đào tạo giáo viên tiểu học trong các trường sư phạm hiện nay",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giá dục; ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt Kì 2 tháng 10/2017. Trang 23 - 27",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Nâng cao năng lực đánh giá đáp ứng chuẩn đầu ra cho sinh viên ngành giáo dục tiểu học Trường ĐHSP-ĐHĐN",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục 5/2017; ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 26-29-37",
+            "published_date": "5/2017"
+        },
+        {
+            "title": "Measures to develop the assessment of capability for student of Primary Education to meet standard outputs",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Đại học Đà Nẵng; ISSN: 1859-1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số Tiếng Anh năm 2017",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đổi mới mô hình đào tạo giáo viên tiểu học trong các trường sư phạm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Vinh, số 4B; ISSN: 1859-2228",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 4B 2017",
+            "published_date": "2017"
+        },
+        {
+            "title": "Về năng lực hiểu biết thống kê của học sinh tiểu học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí GD; ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 378, kì 2 – 3/2016 Tr 33-36",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Đánh giá năng lực hiểu biết thống kê của học sinh tiểu học",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí KH&GD trường ĐHSP-ĐHĐN, số 18 (01), 2016; ISSN: 1859-4603",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 18 (01), 2016",
+            "published_date": "2016"
+        },
+        {
+            "title": "About teaching and learning statistics at primary schools",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường ĐHSP Hà Nội, Vol 60, No.8A, pp 231-235, 2015; ISSN: 0866-3719",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 60, No.8A, pp 231-235",
+            "published_date": "2015"
+        },
+        {
+            "title": "Vận dụng mô hình năng lực ASK trong đào tạo giáo viên tiểu học",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỉ yếu Hội thảo Khoa học toàn quốc, trường ĐHSP Huế, 2016; NXB ĐH Huế; ISSN: 1859-1612",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 113-117",
+            "published_date": "2016"
+        },
+        {
+            "title": "Bồi dưỡng năng lực dạy học tích hợp cho sinh viên sư phạm đáp ứng nhiệm vụ giảng dạy sau năm 2018",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỉ yếu Hội thảo Đại học Cần Thơ, năm 2015; Nhà xuất bản ĐH Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tiếp cận năng lực trong dạy học một số yếu tố thống kê mô tả ở bậc Tiểu học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỉ yếu Hội thảo trường ĐHSP TP. Hồ Chí Minh, 2015",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2015"
+        },
+        {
+            "title": "Thực trạng mạch tri thức thống kê trong sách giáo khoa với định hướng phát triển năng lực người học",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí KH&GD; ISSN: 1859-4603",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2015"
+        },
+        {
+            "title": "Đào tạo sinh viên sư phạm giáo dục tiểu học đáp ứng nhiệm vụ sau năm 2018",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo toàn quốc, trường ĐH Vinh, 2015; Nhà xuất bản ĐH Vinh",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2015"
+        },
+        {
+            "title": "Năng lực dạy học tích hợp: Một đòi hỏi cấp bách của giảng viên trường đại học sư phạm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo Khoa học toàn quốc, trường ĐHSP-ĐHĐN, năm 2015; ISBN: 978-604-80-1310-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 558-567",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Một số giải pháp phát triển năng lực học sinh tiểu học thông qua mô hình trường học mới VNEN",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỉ yếu Hội nghị SV NCKH các trường ĐHSP toàn quốc lần thứ VII – Năm 2014; ISBN: 978-604-80-0796-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1. Trang 113-119",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Một số biện pháp nâng cao hứng thú học tập môn Toán cho trẻ khiếm thị ở trường PTCB Nguyễn Đình Chiểu, quận Liên Chiểu, thành phố Đà Nẵng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỉ yếu Hội nghị SV NCKH các trường ĐHSP toàn quốc lần thứ VII – Năm 2014; ISBN: 978-604-80-0796-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1. Trang 120-126",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Tăng cường mạch tri thức thống kê trong sách giáo khoa nhằm bồi dưỡng và phát triển năng lực hiểu biết, suy luận và tư duy thống kê cho học sinh phổ thông",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỉ yếu Hội thảo Đổi mới nội dung và phương pháp giảng dạy Toán học-Đại học Vinh, trang 26-27; 2014",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "trang 26-27",
+            "published_date": "2014"
+        },
+        {
+            "title": "Bồi dưỡng năng lực vận dụng Toán học vào thực tiễn thông qua khai thác các bài toán thực tế trong dạy học Xác suất Thống kê ở trường trung học phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Đại học Đà Nẵng, số 10(83) - 2014; ISSN: 1859-1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 10(83) - 2014",
+            "published_date": "2014"
+        },
+        {
+            "title": "Global trends of studies on human resources development of science and technology: A bibliometric analysis",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Russian law Journal",
+            "journal_ranking": "Scopus - Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11 No.3 (2023)",
+            "published_date": "April 30, 2023"
+        },
+        {
+            "title": "Một số biện pháp nâng cao năng lực dạy học dự án cho sinh viên ngành Giáo dục Tiểu học",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỉ yếu Hội thảo Khoa học Quốc gia, Trường ĐHSP – ĐHĐN 6/2023; ISBN: 978-604-84-6846-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 374-384",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Chuyển đổi số trong đào tạo giáo viên tại Khoa Giáo dục Tiểu học – Trường ĐHSP Đà Nẵng: Từ cơ sở lí luận đến thực tiễn",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỉ yếu Hội thảo Khoa học Quốc gia, Trường ĐHSP – ĐHĐN 6/2023; ISBN: 978-604-84-6846-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 134-144",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Đổi mới đào tạo giáo viên tiểu học đáp ứng Chương trình Giáo dục phổ thông 2018",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỉ yếu Hội thảo Khoa học Quốc gia Trường Đại học Vinh, 5/2023; ISBN: 978-604-923-694-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Một số biện pháp phát triển năng lực liên tưởng cho học sinh trong dạy học môn Toán ở lớp 3",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục (2023) số 23 (23); ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7-11",
+            "published_date": "12/5/2023"
+        },
+        {
+            "title": "Nâng cao năng lực số cho sinh viên giáo dục tiểu học trong bối cảnh đổi mới giáo dục hiện nay",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỉ yếu Hội thảo Quốc tế Trường ĐH Khánh Hòa 604-43-1298-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 14-27",
+            "published_date": "2024"
+        },
+        {
+            "title": "Development of The Association Capacity in Mathematical Problem Solving for 3rd Grade Students: Findings from Primary Schools in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Revista De Gestao Social E Ambiental-RGSA; ISSN: 1981-982X",
+            "journal_ranking": "Scopus - Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, No. 7 (2024)",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "The governance of general education institutions: Perspectives of the key players",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Multidisciplinary science Journal Malque; E-ISSN: 2675-1240",
+            "journal_ranking": "Scopus - Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.6 Issue 9 (2024)",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Digital competency – perspectives of teacher students and primary teachers",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Multidisciplinary science Journal Malque; E-ISSN: 2675-1240",
+            "journal_ranking": "Scopus - Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. No. (2024)",
+            "published_date": "5/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu sự ngắt quãng trong nhận thức của HS đầu cấp tiểu học khi học Toán",
+            "role": "Principal Investigator",
+            "project_code": "B2016-DNA-08-TT",
+            "management_level": "Cấp Bộ",
+            "period": "2016-2018",
+            "acceptance_date": "11/3/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xây dựng chương trình bồi dưỡng thường xuyên giáo viên tiểu học đáp ứng Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông năm 2018",
+            "role": "Trưởng Ban",
+            "project_code": "QĐ số 1571/QĐ-BGDĐT",
+            "management_level": "Cấp Bộ",
+            "period": "2018",
+            "acceptance_date": "06/9/2018",
+            "rating": "Nghiệm thu, cần chỉnh sửa"
+        },
+        {
+            "title": "Nghiên cứu sâu mô hình đào tạo cử nhân sư phạm tiểu học và đề xuất mô hình mới phù hợp với đổi mới chương trình giáo dục phổ thông",
+            "role": "Assistant",
+            "project_code": "T2017-ETEP-03-02",
+            "management_level": "University Level",
+            "period": "2017",
+            "acceptance_date": "26/12/2017",
+            "rating": "ĐẠT"
+        },
+        {
+            "title": "Nghiên cứu năng lực hiểu biết thống kê của học sinh tiểu học",
+            "role": "Principal Investigator",
+            "project_code": "T2015-03-06",
+            "management_level": "University Level",
+            "period": "2015",
+            "acceptance_date": "02/12/2015",
+            "rating": "ĐẠT"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Toán Cao cấp",
+            "type": "Textbook",
+            "publisher": "NXB GTVT",
+            "publish_year": "1999",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "100%",
+            "verification_document_id": "Giấy phép số 185/CXB/QLXB, 8/7/1999; Trường CĐ GTVT 2"
+        },
+        {
+            "title": "Đào tạo nâng cao năng lực suy luận thống kê",
+            "type": "Monograph",
+            "publisher": "NXB Chính trị quốc gia - Sự thật",
+            "publish_year": "2014",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "100%",
+            "verification_document_id": "GP số 4938-QĐ/NXBCTQG, 24/9/2014; ISBN: 978-604-57-0970-2; Trường ĐHSP-ĐHĐN"
+        },
+        {
+            "title": "Dạy học yếu tố Thống kê theo hướng phát triển năng lực học sinh",
+            "type": "Monograph",
+            "publisher": "NXB Đà Nẵng",
+            "publish_year": "2019",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "100%",
+            "verification_document_id": "QDXB: 452/QĐ-NXBĐaN, 13/6/2019; ISBN: 978-604-84-4259-0; Trường ĐHSP-ĐHĐN"
+        },
+        {
+            "title": "Phương pháp dạy học toán phát triển năng lực học sinh tiểu học",
+            "type": "Textbook",
+            "publisher": "NXBĐaN",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "70%",
+            "verification_document_id": "QDXB: 355/QĐ-NXBĐaN, 22/5/2024 ISBN:978-604-84-7899-5."
+        },
+        {
+            "title": "Cơ sở Toán học của việc dạy học toán tiểu học – Tập 1",
+            "type": "Textbook",
+            "publisher": "NXBĐaN",
+            "publish_year": "2021",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "100%",
+            "verification_document_id": "QDXB: 595/QĐXB-NXBĐaN, 9/6/2021; ISBN: 978-604-84-5983-3; QĐ công nhận của Trường ĐHSP số 572/QĐ-ĐHSP, 17/5/2022."
+        },
+        {
+            "title": "Toán Cơ Sở",
+            "type": "Textbook",
+            "publisher": "NXBĐaN",
+            "publish_year": "2017",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Từ trang 37 đến trang 96",
+            "verification_document_id": "QĐXB: 138/QĐ-NXBĐaN, 2/3/2017; ISBN: 978-604-84-2242-4; Trường ĐHSP-ĐHĐN"
+        },
+        {
+            "title": "A Review of Studiens on Math Teaching Methods",
+            "type": "Reference Book",
+            "publisher": "Elivabooks",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-56",
+            "verification_document_id": "English ISBN-13: 978-9999311250 https://www.elivabooks.com/en/book/book-4670205311"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Xây dựng Chương trình bồi dưỡng thường xuyên giáo viên",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ thành lập Ban xây dựng CTBDTX GVTH, số",
+            "certifying_authority": "Cục Nhà giáo",
+            "implementation_document_id": "TT 17/2019/TT-BGDĐT ngày 01/11/2019. Ban hành",
+            "notes": "HĐ nghiệm thu của Cục Nhà giáo"
+        },
+        {
+            "title": "Phát triển 6 chương trình đào tạo giáo viên tiểu học đáp ứng CTGDPT 2018",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ số 46/QĐ-ETEP ngày 01 tháng 6 năm 2018: Phân công các trường ĐHSP tham gia CT ETEP phát triển các CTĐT cử nhân sư phạm; QĐ 2059/QĐ-ĐHSP, ngày 27/12/2018; QĐ 2055/QĐ-ĐHSP, ngày 27/12/2018;",
+            "certifying_authority": "Cục Nhà giáo; Trường ĐHSP - ĐHĐN",
+            "implementation_document_id": "BQL ETEP Trung ương đã nghiệm thu",
+            "notes": "BQL ETEP Trung ương đã nghiệm thu"
+        },
+        {
+            "title": "Xây dựng Đề án mở ngành đào tạo Sư phạm Tin học và Công nghệ Tiểu học",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ số 2059/QĐ-ĐHSP ngày 27/12/2018 Thành lập Tổ soạn thảo CTĐT GDTH-Tin học, Công nghệ trình độ đại học",
+            "certifying_authority": "Trường ĐHSP-ĐHĐN",
+            "implementation_document_id": "QĐ ban hành CTĐT số 1758/QĐ-ĐHSP ngày 21/10/2020",
+            "notes": "Đã tuyển sinh đào tạo 4 Khóa 2020; 2021;2022; 2023"
+        },
+        {
+            "title": "Xây dựng Đề án mở ngành đào tạo Thạc sĩ Giáo dục học (Giáo dục Tiểu học)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ số 449b/QĐ-ĐHSP ngày 01/06/2016 Thành lập Tổ soạn thảo CTĐT ThS GDH trình độ thạc sĩ",
+            "certifying_authority": "Trường ĐHSP-ĐHĐN",
+            "implementation_document_id": "QĐ Ban hành CTĐT trình độ thạc sĩ số 940/QĐ-ĐHSP ngày 18/8/2017",
+            "notes": "Đã đào tạo 13 khóa từ K35 đến K48"
+        },
+        {
+            "title": "Xây dựng Đề án mở ngành đào tạo Thạc sĩ Lí luận và PPDH bộ môn Toán",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ số 438/QĐ-ĐHSP ngày 10/3/2021 Thành lập Tổ soạn thảo CTĐT LL&PPDH bộ môn Toán, trình độ thạc sĩ",
+            "certifying_authority": "Trường ĐHSP-ĐHĐN",
+            "implementation_document_id": "QĐ Ban hành CTĐT trình độ thạc sĩ số 685/QĐ-ĐHSP ngày 03/6/2022",
+            "notes": "Đã đào tạo 5 khóa từ K44 đến K48"
+        },
+        {
+            "title": "Rà soát, cải tiến CTĐT ngành GDTH, SP Tin học và CN Tiểu học 2021",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ số 145/HĐ-ĐHSP ngày 17/03/2021",
+            "certifying_authority": "Trường ĐHSP-ĐHĐN",
+            "implementation_document_id": "QĐ Ban hành CTĐT 1168/QĐ-ĐHSP ngày 15/7/2021",
+            "notes": "Biên bản nghiệm thu và thanh lí HĐ của Trường ĐHSP-ĐHĐN, ngày 27/7/2021"
+        },
+        {
+            "title": "Rà soát, cải tiến CTĐT thạc sĩ chuyên ngành GD Tiểu học",
+            "applicant_role": "Head of Board",
+            "assignment_document_id": "QĐ số 158/QĐ-ĐHSP ngày 14/02/2022",
+            "certifying_authority": "Trường ĐHSP-ĐHĐN",
+            "implementation_document_id": "QĐ Ban hành CTĐT 685/QĐ-ĐHSP ngày 03/6/2022",
+            "notes": "Biên bản nghiệm thu và thanh lí HĐ của Trường ĐHSP-ĐHĐN"
+        }
+    ]
+}

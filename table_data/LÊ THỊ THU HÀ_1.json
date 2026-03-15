@@ -1,0 +1,727 @@
+{
+    "papers": [
+        {
+            "title": "Tích hợp tư liệu viễn thám và GIS đánh giá sự biến động môi trường đất do ảnh hưởng của quá trình khai thác mỏ khu vực Cẩm Phả-Hạ Long.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISSN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 19, tr. 66-71",
+            "published_date": "2007"
+        },
+        {
+            "title": "Ứng dụng phương pháp phân loại định hướng đối tượng để phân tích các đối tượng trên ảnh vệ tinh.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISSN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 34, tr. 23-26",
+            "published_date": "2011"
+        },
+        {
+            "title": "So sánh phương pháp phân loại dựa vào điểm ảnh và phân loại định hướng đối tượng chiết xuất thông tin lớp phủ bề mặt từ ảnh độ phân giải cao.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISSN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 39, tr. 59-64",
+            "published_date": "2012"
+        },
+        {
+            "title": "Phân loại lớp phủ bằng phương pháp định hướng đối tượng trên ảnh Alos khu vực Giao Thủy – Nam Định.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghiệp Mỏ; ISSN: 0866-7705",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2B, tr. 89-92",
+            "published_date": "2013"
+        },
+        {
+            "title": "Đánh giá và dự báo biến động sử dụng đất khu vực cửa sông Ba Lạt dựa trên tư liệu viễn thám đa thời gian và GIS.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISSN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 48, tr. 13-19",
+            "published_date": "2014"
+        },
+        {
+            "title": "Phân tích biến động sử dụng đất trong mối quan hệ với yếu tố tự nhiên khu vực huyện Thái Thụy, tỉnh Thái Bình.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đo đạc và Bản đồ; ISSN: 0866-7705",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 24, tr. 53-60",
+            "published_date": "2015"
+        },
+        {
+            "title": "Ứng dụng tư liệu viễn thám xác định xu hướng gia tăng bề mặt không thấm ở nông thôn.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đo đạc và Bản đồ; ISSN: 0866-7705",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 26, tr. 28-35",
+            "published_date": "2015"
+        },
+        {
+            "title": "Processing the observation data to determine the movement parameters and building non-scale curve form for Mong Duong coal mine.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 3rd International Conference on Advances in Mining and Tunneling, Vung Tau, Viet Nam; ISBN: 978-604-913-248-3",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 328-330",
+            "published_date": "2014"
+        },
+        {
+            "title": "Detection of the urban area expansion using impervious sufaces extracted from Spot data: A case study in Tay ho district – Ha Noi, Vietnam.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Symposium on Geospatial and Mobile Mapping Technologies and Summer School for Mobile Mapping Technologies (GMMT2016); ISBN: 978-604-93-8868-2",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 135-139",
+            "published_date": "2016"
+        },
+        {
+            "title": "Monitoring coastline changes using multi-temporal satellite data and GIS in the Cua Dai estuary, Thu Bon river delta.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Symposium on Geospatial and Mobile Mapping Technologies and Summer School for Mobile Mapping Technologies (GMMT2016); ISBN: 978-604-93-8868-2",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 155-159",
+            "published_date": "2016"
+        },
+        {
+            "title": "Determination the relationship between population growth and land use change in Balat estuary based on remote sensing and GIS data.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference The Relation Between Population and Development 2016; ISBN: 978-604-946-124-8",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 520-530",
+            "published_date": "2016"
+        },
+        {
+            "title": "Ứng dụng viễn thám và GIS nghiên cứu mối tương quan giữa sự mở rộng không gian đô thị và sản lượng khai thác bể than Quảng Ninh.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học kĩ thuật mỏ toàn quốc lần thứ 22 năm 2011",
+            "journal_ranking": "National Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "tr.750-754",
+            "published_date": "2011"
+        },
+        {
+            "title": "Predicting Land Use Change Affected by Population Growth by Integrating Logistic Regression, Markov Chain and Cellular Automata Models.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of the Korean Society of Surveying, Geodesy, Photogrammetry and Cartography; ISSN:1598-4850 (Print); 2288-260X(Online)",
+            "journal_ranking": "Scopus, Q4, H_index=13",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 35, No. 4, tr.221-230",
+            "published_date": "2017"
+        },
+        {
+            "title": "UAV Photogrammetry-Based for Open Pit Coal Mine Large Scale Mapping, Case Studies in Cam Pha city, Vietnam.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainable Development of Mountain Territories; e-ISSN: 2499-975X; ISSN: 1998-4502",
+            "journal_ranking": "Scopus, Q2, H_index=15",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol 12, No.4, tr.501-509",
+            "published_date": "2020"
+        },
+        {
+            "title": "Experimental Investigation on the Performance of DJI Phantom 4 RTK in the PPK Mode for 3D Mapping Open Pit Mines.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Inżynieria Mineralna (Journal of the Polish Mineral Engineering Society); Print ISSN: 1640-4920",
+            "journal_ranking": "Scopus, ESCI, Q4, H_INDEX = 12",
+            "citation_count": 13,
+            "volume_issue_pages": "Vol.1, No.2(46), p.65-74",
+            "published_date": "2020"
+        },
+        {
+            "title": "Coupling Satellite Images and Unmanned Aerial Vehicle Data to Monitor the Exploitation of Open-Pit Mine.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Inżynieria Mineralna (Journal of the Polish Mineral Engineering Society); Print ISSN: 1640-4920",
+            "journal_ranking": "Scopus, ESCI, Q4, H_INDEX = 12",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.1, No.2(46), p.291-299",
+            "published_date": "2020"
+        },
+        {
+            "title": "Impacts of Urban Land Cover Change on Land Surface Temperature Distribution in Ho Chi Minh City, Vietnam.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of the Korean Society of Surveying, Geodesy, Photogrammetry and Cartography; ISSN:1598-4850 (Print); 2288-260X(Online)",
+            "journal_ranking": "Scopus, Q4, H_INDEX = 12",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol.39, No. 2, p. 113-122",
+            "published_date": "2021"
+        },
+        {
+            "title": "The Impact of Coal Exploitation on Tidal Flat Changes, an Investigation Using Remote Sensing Data in Vietnam.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Inżynieria Mineralna (Journal of the Polish Mineral Engineering Society); Print ISSN: 1640-4920",
+            "journal_ranking": "Scopus, ESCI, Q4, H_INDEX = 12",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.1, No.2(48), p.521-532",
+            "published_date": "2021"
+        },
+        {
+            "title": "Assessing Impacts of Mining Activities on Land Use/Land Cover Change Using Remote Sensing and GIS Techniques: A Case Study in Campha City, Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Inżynieria Mineralna (Journal of the Polish Mineral Engineering Society); Print ISSN: 1640-4920",
+            "journal_ranking": "Scopus, ESCI, Q4, H_INDEX = 12",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.1, No.2(48), p.467-478",
+            "published_date": "2021"
+        },
+        {
+            "title": "3D LoD3 Modeling of High Building Using Terrestrial Laser Scanning and Unmanned Aerial Vehicle: A Case Study in Halong City, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Inżynieria Mineralna (Journal of the Polish Mineral Engineering Society); Print ISSN: 1640-4920",
+            "journal_ranking": "Scopus, ESCI, Q4, H_INDEX = 12",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.1 No.2(52), p.303-310.",
+            "published_date": "2023"
+        },
+        {
+            "title": "The use of the CITYGML standard for a 3D GIS of underground and open-pit mines.",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Naukovyi Visnyk Natsionalnoho Hirnychoho Universytetu; ISSN 2071-2227, E-ISSN 2223-2362",
+            "journal_ranking": "Scopus, Q3, H_INDEX = 25",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.3, p.39-46.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Dự báo biến động sử dụng đất huyện Giao Thủy, tỉnh Nam Định dựa trên việc tích hợp mô hình hồi quy Logistic, Markov và Cellular Automata.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISSN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 58, kỳ 4, tr. 16-26",
+            "published_date": "2017"
+        },
+        {
+            "title": "Ứng dụng phương pháp phân loại phân cấp đối tượng chiết xuất thông tin sử dụng đất trên ảnh Lansat huyện Thái Thụy, Thái Bình.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISSN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 58, Kỳ 4, tr. 43-50",
+            "published_date": "2017"
+        },
+        {
+            "title": "Impact of urbanization on land surface temperature using remote sensing and GIS: A case of Tay Ho district, Hanoi city, Vietnam.",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISSN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 60, Kỳ 3, tr. 54-63",
+            "published_date": "2019"
+        },
+        {
+            "title": "Đánh giá vai trò của cơ cấu lớp phủ bề mặt đô thị trong việc giảm hiệu ứng đảo nhiệt đô thị áp dụng cho khu vực Thành phố Hồ Chí Minh, Việt Nam.",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISSN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 61, Kỳ 2, tr.76-85",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nghiên cứu lựa chọn vị trí cất cánh cho thiết bị bay không người lái tích hợp GNSS động phục vụ đo vẽ thành lập bản đồ địa hình tỷ lệ lớn cho các mỏ lộ thiên.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISBN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 61, Kỳ 5, tr.54-63",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đánh giá sự biến động lớp phủ thực vật tại Cẩm Phả giai đoạn 2000-2020 do tác động của khai thác than.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghiệp Mỏ; ISSN: 0868-7052",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4, tr.63-69",
+            "published_date": "2020"
+        },
+        {
+            "title": "Phát triển chỉ số đất đô thị EBBI (Enhanced Built-up and Bareness Index) trên cơ sở kết hợp ảnh vệ tinh đa độ phân giải Landsat 8 và Sentinel 2 MSI.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISBN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 62, Kỳ 1, tr. 1-9",
+            "published_date": "2021"
+        },
+        {
+            "title": "Phân loại lớp phủ bề mặt khu công nghiệp Bắc Thăng Long bằng phương pháp phân loại hướng đối tượng sử dụng dữ liệu ảnh vệ tinh độ phân giải cao WorldView-2.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISBN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 62, Kỳ 1, tr.10-18",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ứng dụng công nghệ GIS xác định giá đất khu vực Phường 10, Quận 8, TP. Hồ Chí Minh.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISBN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 62, Kỳ 4, tr.48-56",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu mối quan hệ giữa đảo nhiệt đô thị và mật độ dân số các quận, huyện ở Thành phố Hồ Chí Minh bằng dữ liệu ảnh Sentinel - 3 SLSTR.",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISBN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 62, Kỳ 5, tr.67-75",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu xác định chiều sâu an toàn trong điều kiện địa chất đặc biệt ở mỏ than Mông Dương.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISBN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 62, Kỳ 5, tr.76-83",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu mối quan hệ giữa hoạt động khai thác than và biến động lớp phủ khu vực Cẩm Phả bằng công nghệ địa không gian.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghiệp Mỏ; ISSN: 0868-7052",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2, tr.68-75",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng công nghệ địa không gian trong xây dựng dữ liệu địa lý 3D cho thành phố thông minh.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường; ISSN:0866-7608",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 40, tr.108-117",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá biến động địa hình bãi triều khu vực Hạ Long - Cẩm Phả, Quảng Ninh bằng ảnh vệ tinh Landsat.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISBN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 63, Kỳ 2, tr.52-61",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu kết hợp công nghệ máy bay không người lái (UAV) và quét Laser mặt đất thành lập mô hình 3D cấp độ chi tiết cao (LoD3) cho nhà cao tầng trong khu vực đô thị.",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISBN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 63, Kỳ 4, tr.24-34",
+            "published_date": "2022"
+        },
+        {
+            "title": "Quan trắc đường ray tàu điện trong các mỏ than hầm lò bằng công nghệ quét laser 3D mặt đất.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất; ISBN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, Kỳ 2, tr.91-100",
+            "published_date": "2023"
+        },
+        {
+            "title": "Kết hợp công nghệ chụp ảnh từ UAV và mặt đất xây dựng dữ liệu không gian địa lý 3D cho thành phố thông minh.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn; ISBN: 2525-2208",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 749, tr.21-31",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ứng dụng công nghệ địa không gian trong xây dựng dữ liệu không gian địa lý 3D cho hệ thống cây xanh đô thị.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường; ISSN: 0866-7608",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 46, tr.45-54",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu xây dựng bộ dữ liệu đầu vào cho mô hình dự báo nguy cơ cháy rừng khu vực phía Tây tỉnh Nghệ An từ dữ liệu viễn thám và GIS.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đo đạc và Bản đồ; ISSN: 0866-7705",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 58, tr.10-17.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Sử dụng ảnh vệ tinh Sentinel-2 trong giám sát sự phát triển của cây lúa tại tỉnh Đồng Tháp, Việt Nam.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn; ISBN: 2525-2208",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 764, tr.93-108.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Stress distribution under coal pillars in the case of multi-seam mining: A case study at Thong Nhat Coal Mine.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Hydrometeorology; ISBN: 2525-2208",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.20, p.15-23",
+            "published_date": "2024"
+        },
+        {
+            "title": "Ứng dụng dữ liệu đa phổ Sentinel-2 trong thành lập bản đồ sinh vật đáy khu vực quần đảo Côn Đảo, tỉnh Bà Rịa - Vũng Tàu, Việt Nam.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn; ISBN: 2525-2208",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 766, tr.65-76.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Phân tích đa tiêu chí dựa trên GIS và các nguồn dữ liệu mở trên Internet để thành lập bản đồ phân vùng nguy cơ sạt lở đất khu vực tỉnh Lâm Đồng.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ - Địa chất, ISSN: 1859-1469",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 65, Kỳ 3, tr.84-97.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Multi-sensor points cloud data fusion for 3D building models: A case study in Halong City, Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Hydrometeorology; ISBN: 2525-2208",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.20, p.24-36.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng công nghệ UAV/RTK trong công tác thành lập bản đồ địa hình tỷ lệ lớn tại khu vực địa hình phức tạp.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường; ISSN:0866-7608",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 51, tr.26-35.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Extracting Rural Impervious Surface from LANDSAT 8 OLI IMAGERY Using KNN Algorithm.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Coal Mining and Utilization for sustainable Development International Conference, 2017(CM&USD2017)",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p.91-96",
+            "published_date": "2017"
+        },
+        {
+            "title": "Monitoring shoreline changes of the Tien and Hau rivers using multi-temporal Landsat data.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Conference on GeoInformatics for Spatial-Infratructure Development in Earth & Allied Sciences (GIS-IDEAS 2018); ISBN: 978-604-93-8868-2",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p.132-139",
+            "published_date": "2018"
+        },
+        {
+            "title": "Mining-Induced Land Subsidence Detection by Persistent Scatterer InSAR and Sentinel-1: Application to Phugiao Quarries, Vietnam.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "In book: (Volume 1) Proceedings of the International Conference on Innovations for Sustainable and Responsible Mining 2020; Print ISBN: 978-3-030-60268-0",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 6,
+            "volume_issue_pages": "p.18-38",
+            "published_date": "2020"
+        },
+        {
+            "title": "Developing a three-dimensional model of the open pit mine and the industrial yard of nui Beo coal mine.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "The Sixth International Scientific Conference \"Earth Science, Mining, Environment for Digital Transformation, Green Development, Circular Growth, and Response to Global Change\" (GREEN EME 2023); ISBN:978-604-67-2826-9",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p.70-78",
+            "published_date": "2023"
+        },
+        {
+            "title": "Applying 3D geospatial data and proposed solutions to support the administration, management, and monitoring of coastal smart cities adapting to climate change in Vietnam.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Sixth International Scientific Conference \"Earth Science, Mining, Environment for Digital Transformation, Green Development, Circular Growth, and Response to Global Change\" (GREEN EME 2023); ISBN:978-604-67-2826-9",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p.261-269",
+            "published_date": "2023"
+        },
+        {
+            "title": "Monitoring surface water bodies changes from Sentinel-2A imagery with Modified Normalized Difference Water Index: application in Dalat, Lam Dong, Viet Nam.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Conference Geospatial Integrated Technologies for Natural Hazards and Environmental Problems (GIS IDEAS 2023); ISBN: 978-604-357-207-0",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p.125-134",
+            "published_date": "2023"
+        },
+        {
+            "title": "Building a 3D information model for underground coal mines.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Conference Geospatial Integrated Technologies for Natural Hazards and Environmental Problems (GIS IDEAS 2023); ISBN: 978-604-357-207-0",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p.213-227",
+            "published_date": "2023"
+        },
+        {
+            "title": "Detection of land surface temperature change in coal mining area using remote sensing and GIS techniques a case study in Quang Ninh province, Vietnam.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference Geospatial Integrated Technologies for Natural Hazards and Environmental Problems (GIS IDEAS 2023); ISBN: 978-604-357-207-0",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p.228-236.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Xác định sự thay đổi nhiệt độ bề mặt khu vực khai thác mỏ TP Cẩm Phả - Hạ Long, tỉnh Quảng Ninh bằng kênh viễn thám hồng ngoại nhiệt Landsat.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học kĩ thuật mỏ toàn quốc lần thứ 26 năm 2018; ISBN: 978-604-931-521-3",
+            "journal_ranking": "National Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "tr.151-158",
+            "published_date": "2018"
+        },
+        {
+            "title": "Xác định số lượng điểm khống chế ảnh cần thiết khi thành lập bản đồ địa hình tỷ lệ lớn mỏ lộ thiên bằng công nghệ bay không người lái có tích hợp định vị GNSS động.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị toàn quốc Khoa học Trái đất và Tài nguyên với phát triển bền vững (ERSD 2020); ISBN: 978-604762277-1",
+            "journal_ranking": "National Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 9-15",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đánh giá quá trình mở rộng đô thị tại thành phố Hồ Chí Minh giai đoạn 1998-2020 bằng dữ liệu ảnh vệ tinh đa thời gian Landsat.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị toàn quốc Khoa học Trái đất và Tài nguyên với phát triển bền vững (ERSD 2020); ISBN: 978-604762277-1",
+            "journal_ranking": "National Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "tr.23-32",
+            "published_date": "2020"
+        },
+        {
+            "title": "Xây dựng cơ sở dữ liệu không gian địa lý 3D phục vụ cho thành phố thông minh ven biển Hạ Long, Quảng Ninh trong bối cảnh CMCN 4.0.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "EME2020, Hội nghị Khoa học Trái đất, Mỏ, Môi Trường bền vững lần thứ III; ISBN:978-604-9985-67-6",
+            "journal_ranking": "National Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr.19-24",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nghiên cứu mô hình dự báo nguy cơ cháy rừng bằng công nghệ Địa không gian, thử nghiệm cho khu vực phía Tây tỉnh Nghệ An.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị toàn quốc trắc địa công trình vì sự phát triển bền vững; ISBN: 978-604-357-178-3",
+            "journal_ranking": "National Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "tr.17-29.",
+            "published_date": "2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu ứng dụng thuật toán K Nearest Neighbors (KNN) nhằm nâng cao độ chính xác phân loại các bề mặt không thẩm từ ảnh vệ tinh Landsat OLI.",
+            "role": "Principal Investigator",
+            "project_code": "T17-20",
+            "management_level": "Trường Đại học Mỏ - Địa chất",
+            "period": "01/2017 đến 12/2017",
+            "acceptance_date": "Ngày 06/12/2017",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ứng dụng công nghệ viễn thám và GIS nghiên cứu hiện tượng đảo nhiệt đô thị khu vực thành phố Hồ Chí Minh.",
+            "role": "Principal Investigator",
+            "project_code": "T19-44",
+            "management_level": "Trường Đại học Mỏ - Địa chất",
+            "period": "01/2020 đến 12/2020",
+            "acceptance_date": "Ngày 23/12/2020",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu thành lập mô hình 3D công trình xây dựng cấp độ chi tiết cao (LoD3) bằng kết hợp công nghệ máy bay không người lái (UAV) và quét Laser mặt đất.",
+            "role": "Principal Investigator",
+            "project_code": "T22-48",
+            "management_level": "Trường Đại học Mỏ - Địa chất",
+            "period": "01/2022 đến 06/2023",
+            "acceptance_date": "Ngày 12/06/2023",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Human Ecology of Climate Change Hazards in Vietnam-Risks for Nature and Humans in Lowland and Upland Areas.",
+            "type": "Reference Book",
+            "publisher": "Springer",
+            "publish_year": "2018",
+            "num_authors": 16,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr 17-21; tr 126-128",
+            "verification_document_id": "Số 354/GXN-MĐC, ngày 28/06/2019"
+        },
+        {
+            "title": "Công nghệ địa không gian xây dựng dữ liệu 3D thành phố thông minh.",
+            "type": "Monograph",
+            "publisher": "Khoa học Tự nhiên và Công nghệ",
+            "publish_year": "2022",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "tr 85-130",
+            "verification_document_id": "Số 473/GXN-MĐC, ngày 05/09/2022"
+        }
+    ],
+    "patents": [
+        {
+            "title": "\"QUY TRÌNH XÂY DỰNG CƠ SỞ DỮ LIỆU KHÔNG GIAN ĐỊA LÝ 3D CHO THÀNH PHỐ THÔNG MINH BẰNG CÔNG NGHỆ ĐỊA KHÔNG GIAN\"",
+            "issuing_authority": "Cục Sở hữu trí tuệ, Bộ Khoa học và Công nghệ",
+            "issue_date": "Ngày 19 tháng 06 năm 2024",
+            "is_main_inventor": true,
+            "num_inventors": 4
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Đã hoàn thành xuất sắc nhiệm vụ hai năm liên tục từ năm 2017-2018 đến năm 2018-2019",
+            "certifying_organization": "Bộ Giáo dục và Đào tạo",
+            "certificate_document_id": "Quyết định số 4345/QĐ-BGDĐT ngày 13/11/2019",
+            "award": "Bằng khen Bộ trưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đã hoàn thành xuất sắc nhiệm vụ hai năm liên tục từ năm 2021-2022 đến năm 2022-2023",
+            "certifying_organization": "Bộ Giáo dục và Đào tạo",
+            "certificate_document_id": "Quyết định số 1455/QĐ-BGDĐT ngày 22/05/2024",
+            "award": "Bằng khen Bộ trưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đạt thành tích cao trong nghiên cứu khoa học năm học 2017-2018",
+            "certifying_organization": "Trường Đại học Mỏ - Địa chất",
+            "certificate_document_id": "Quyết định số 1428 - ngày 18/10/2018",
+            "award": "Giấy khen của Hiệu trưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đã có thành tích trong công bố công trình khoa học trên Tạp chí quốc tế có uy tín năm 2017",
+            "certifying_organization": "Trường Đại học Mỏ - Địa chất",
+            "certificate_document_id": "Quyết định số 1547- ngày 30/10/2018",
+            "award": "Giấy khen của Hiệu trưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Nữ cán bộ đạt thành tích trong nghiên cứu khoa học năm học 2018-2019",
+            "certifying_organization": "Trường Đại học Mỏ - Địa chất",
+            "certificate_document_id": "Quyết định số 1383/QĐ-MDC ngày 15/10/2019",
+            "award": "Giấy khen của Hiệu trưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đạt thành tích xuất sắc trong nghiên cứu khoa học năm học 2019-2020",
+            "certifying_organization": "Trường Đại học Mỏ - Địa chất",
+            "certificate_document_id": "Quyết định số 1009/QĐ-MDC ngày 16/10/2020",
+            "award": "Giấy khen của Hiệu trưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đạt thành tích xuất sắc trong nghiên cứu khoa học năm học 2020-2021",
+            "certifying_organization": "Trường Đại học Mỏ - Địa chất",
+            "certificate_document_id": "Quyết định số 1074/QĐ-MĐC ngày 16/11/2021",
+            "award": "Giấy khen của Hiệu trưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Hoàn thành xuất sắc nhiệm vụ năm 2016",
+            "certifying_organization": "Đảng ủy trường Đại học Mỏ - Địa chất",
+            "certificate_document_id": "Quyết định số 163-QĐ/ĐU ngày 30/12/2016",
+            "award": "Khen thưởng đảng viên",
+            "num_contributors": 1
+        },
+        {
+            "title": "Hoàn thành xuất sắc nhiệm vụ năm 2018",
+            "certifying_organization": "Đảng ủy trường Đại học Mỏ - Địa chất",
+            "certificate_document_id": "Quyết định số 300-QĐ/ĐU ngày 18/12/2018",
+            "award": "Khen thưởng đảng viên",
+            "num_contributors": 1
+        },
+        {
+            "title": "Hoàn thành xuất sắc nhiệm vụ năm 2021",
+            "certifying_organization": "Đảng ủy trường Đại học Mỏ - Địa chất",
+            "certificate_document_id": "Quyết định số 241-QĐ/ĐU ngày 15/12/2021",
+            "award": "Khen thưởng đảng viên",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": null
+}

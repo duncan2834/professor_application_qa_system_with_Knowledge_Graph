@@ -1,0 +1,727 @@
+{
+    "papers": [
+        {
+            "title": "Đặc điểm lâm sàng của trạng thái bồn chồn ở bệnh nhân loạn thần được điều trị bằng Haloperidol và/hoặc Levomepromazine",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Chuyên đề 8/2008 trang 56-62",
+            "published_date": "8/2008"
+        },
+        {
+            "title": "Nhân hai trường hợp chẩn đoán mất trí giả do trầm cảm tại Viện Sức khỏe Tâm thần Quốc gia",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học thực hành ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6 (665) trang 47-49",
+            "published_date": "6/2009"
+        },
+        {
+            "title": "Đặc điểm rối loạn cảm xúc ở giai đoạn khởi phát của rối loạn loạn thần cấp và nhất thời",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học thực hành ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1054 số 8 Trang 41-43",
+            "published_date": "8/2017"
+        },
+        {
+            "title": "Đặc điểm loạn thần ở bệnh nhân rối loạn phân liệt cảm xúc loại trầm cảm điều trị nội trú tại Viện sức khỏe tâm thần",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học thực hành ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1054 số 8 Trang 16-18",
+            "published_date": "8/2017"
+        },
+        {
+            "title": "Nhận xét một số yếu tố thúc đẩy trầm cảm tái diễn điều trị nội trú tại Viện Sức khỏe Tâm thần",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 472 số 1 Trang 77-81",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Một số đặc điểm thường gặp ở trầm cảm trẻ vị thành niên",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học thực hành ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1140 số 7 Trang 271-275",
+            "published_date": "7/2020"
+        },
+        {
+            "title": "Đặc điểm lâm sàng hành vi tự sát ở bệnh nhân tâm thần phân liệt",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 503 số 2 Trang 139-142",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Đặc điểm sang chấn tâm lý ở người bệnh rối loạn loạn thần cấp và nhất thời",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 506 số 2 Trang 181-185",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Thực trạng hội chứng sảng ở người từ 60 tuổi trở lên tại khoa Cấp cứu Bệnh viện Lão khoa Trung ương",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 509 số 2 Trang 114-118",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Giai đoạn ham muốn của chu trình đáp ứng tình dục ở người bệnh hưng cảm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 510 số 2 Trang 92-96",
+            "published_date": "1/2022"
+        },
+        {
+            "title": "Thực trạng tăng động giảm chú ý tại khoa tâm thần Bệnh viện Nhi trung ương",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 510 số 2 Trang 153-158",
+            "published_date": "1/2022"
+        },
+        {
+            "title": "Thời gian khởi phát và tồn tại hội chứng sảng ở người từ 60 tuổi trở lên tại khoa cấp cứu Bệnh viện Lão khoa Trung ương",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 511 số 1 Trang 265-270",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Tỷ lệ các rối loạn tâm thần đồng diễn với rối loạn tăng động giảm chú ý tại khoa Tâm thần Bệnh viện Nhi Trung ương",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 511 số 2 Trang 133-138",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Giai đoạn cực khoái của chu trình đáp ứng tình dục ở người bệnh hưng cảm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1 tập 512 Trang 48-53",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Thực trạng rối loạn phân liệt cảm xúc loại trầm cảm",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1 tập 512 Trang 143-147",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Nhận xét kết quả điều trị triệu chứng trầm cảm ở người bệnh rối loạn phân liệt cảm xúc loại trầm cảm",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2 tập 512 Trang 121-125",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Thực trạng điều trị rối loạn phân liệt cảm xúc loại trầm cảm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 513 số 1 Trang 131-136",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Điều trị rối loạn phân liệt cảm xúc loại trầm cảm tại Viện sức khỏe tâm thần – Bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 514 số 1 Trang 90-95",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Yếu tố liên quan đến mức độ TIC theo thang đo tổng quát mức độ nghiêm trọng của Tic Yale (YGTSS)",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 514 số 2 Trang 98-102",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Đặc điểm thói quen và chế độ ăn uống của người bệnh trong giai đoạn trầm cảm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 515 số 1 Trang 291-295",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Lâm sàng rối loạn loạn thần cấp đa dạng không có triệu chứng của tâm thần phân liệt",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 153 số 5 Trang 18-25",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Đặc điểm rối loạn nhân cách ở người bệnh rối loạn tâm thần và hành vi sử dụng rượu",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 519 số 1 Trang 43-46",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Đặc điểm lâm sàng rối loạn nhận thức ở người bệnh rối loạn phân liệt cảm xúc",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 519 số 2 Trang 382-386",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến rối loạn nhận thức ở người bệnh rối loạn phân liệt cảm xúc",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 160 số 12V1 Trang 111-117",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Đặc điểm lâm sàng trầm cảm ở người bệnh rối loạn tâm thần và hành vi do sử dụng rượu",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 531 số 1B Trang 310-315",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Thực trạng trạng thái cai rượu và một số yếu tố liên quan tại Bệnh viện Tâm thần Hà Nội",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 172 số 11 Trang 104-111",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Mô tả tác dụng không mong muốn của kích thích từ xuyên sọ ở người bệnh tâm thần phân liệt thể paranoid điều trị nội trú",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 533 số 1 Trang 345-349",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Nhận xét một số yếu tố nguy cơ hành vi tự sát ở bệnh nhân tâm thần phân liệt",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 542 số 3 Trang 301-304",
+            "published_date": "9/2024"
+        },
+        {
+            "title": "Phân tích mối liên quan giữa các yếu tố nhân khẩu- xã hội và hành vi tự sát ở người bệnh nội trú tuổi 15-24 tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 146 trang 77-82",
+            "published_date": "6/2025"
+        },
+        {
+            "title": "Đặc điểm lâm sàng triệu chứng hành vi ở người bệnh Alzheimer điều trị nội trú",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 551 số 2 trang 380-383",
+            "published_date": "6/2025"
+        },
+        {
+            "title": "Disordered eating behaviors in university students in Hanoi, Vietnam DOI: 10.1186/s40337-015-0054-2",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Joural of Eating Disorder ISSN: 2050-2974",
+            "journal_ranking": "ISI Web of Science, bộ sưu tập SCIE (IF = 3.5, nhóm Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 3 issue 1 PP: 1-8",
+            "published_date": "4/2015"
+        },
+        {
+            "title": "Đặc điểm nhân cách ở bệnh nhân rối loạn lo âu lan tỏa",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học thực hành ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1053 số 8 Trang 9-11",
+            "published_date": "8/2017"
+        },
+        {
+            "title": "Nhận xét triệu chứng cơ thể ở bệnh nhân rối loạn lo âu lan tỏa bằng thang điểm đánh giá lo âu Hamilton",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 468 số 2 Trang 109-111",
+            "published_date": "7/2018"
+        },
+        {
+            "title": "Help seeking behavior of the Patient with own mental disorder before coming to the Mental health services",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học xã hội nhân văn",
+            "journal_ranking": "Proceedings of International Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "2 Trang 239-251",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Triệu chứng phân ly ở bệnh nhân rối loạn cơ thể hóa",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 496 số 1 Trang 104-107",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Đặc điểm lâm sàng rối loạn lo âu lan tỏa ở người bệnh nội trú tại Viện Sức khỏe tâm thần – BV Bạch mai năm 2020 - 2021",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 508 số 1 Trang 130-134",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Điều trị rối loạn sự thích ứng với phản ứng trầm cảm ngắn",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 509 số 2 Trang 270-274",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Đặc điểm lâm sàng rối loạn sự thích ứng với phản ứng trầm cảm ngắn",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 509 số 2 Trang 338-342",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Đặc điểm các triệu chứng vận động và cảm giác ở người bệnh rối loạn cơ thể hóa",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 513 số 2 Trang 86-90",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Mô hình học tập hành vi và nhân cách ở người bệnh rối loạn cơ thể hóa",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 514 số 1 Trang 176-181",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Điều trị rối loạn sự thích ứng với phản ứng trầm cảm kéo dài",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 514 số 2 Trang 200-205",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm rối loạn sự thích ứng với phản ứng trầm cảm kéo dài",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 515 số 1 Trang 99-103",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Kết quả điều trị các triệu chứng kích thích thần kinh thực vật ở người bệnh rối loạn lo âu lan toả bằng liệu pháp thư giãn - luyện tập.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 153 số 5 Trang 75-82",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Đặc điểm lâm sàng rối loạn nhân cách ở người bệnh rối loạn sự thích ứng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 520 số 1A Trang 17-22",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Mô tả thực trạng kết quả điều trị Fluoxamin ở người bệnh rối loạn lo âu lan tỏa",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 530 số 1B Trang 300-304",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Nghiên cứu giấc ngủ ở người bệnh Parkinson",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 532 số 1 Trang 74-78",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Đặc điểm rối loạn lo âu và chất lượng cuộc sống ở bệnh nhân Parkinson có rối loạn lo âu",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học quân sự ISSN: 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 50 trang 58-66",
+            "published_date": "3/2025"
+        },
+        {
+            "title": "Đặc điểm lâm sàng của trầm cảm sau nhồi máu não",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học thực hành ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 783 số 9 Tr 49-53",
+            "published_date": "9/2011"
+        },
+        {
+            "title": "Trầm cảm sau tai biến mạch máu não và các yếu tố liên quan",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Thông tin Y Dược ISSN: 0868-3891",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11/2011 Trang 33-36",
+            "published_date": "11/2011"
+        },
+        {
+            "title": "Nghiên cứu một số yếu tố liên quan tới trầm cảm sau nhồi máu não",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu y học ISSN: 0868 202X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 84 số 4 trang 61-68",
+            "published_date": "8/2013"
+        },
+        {
+            "title": "Prevalence of Depression among Heart Failure Inpatients and Its Associated Socio Demographic Factors: Implications for Personal-and Family-based Treatment Management in Health Facilities in Vietnam DOI: https://doi.org/10.26355/eurrev_202202_27996",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "European Review for Medical and Pharmacological Sciences ISSN: 2284-0729",
+            "journal_ranking": "ISI/Scopus (Citescore=6.0, nhóm Q1) ISI Web of Science, bộ sưu tập SCIE (IF=3.507, nhóm Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 26 Issue 3 PP. 879-887.",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Depression, anxiety and stress among patients with dialysis in a tertiary hospital of Vietnam in 2022 DOI: https://doi.org/10.1080/20479700.2023.2295092",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Healthcare Management ISSN: 2047-9700",
+            "journal_ranking": "ISI/Scopus ISI Web of Science, bộ sưu tập SCIE (IF=1.4, nhóm Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18 Issue 2 PP. 302-306",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Personality traits are associated with physical symptoms, mental disorders, fear of Covid-19 and Health-related quality of life among frontline healthcare workers following Covid-19 pandemic: A cross-sectional study in Vietnam DOI: https://doi.org/10.1016/j.jadr.2024.100780",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Affective Disorders Reports ISSN: 2666-9153",
+            "journal_ranking": "ISI/Scopus ISI Web of Science, (CiteScore = 3.8, nhóm Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 16 (2024) 100780",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Sleep disturbances and associated factors in patients with Parkinson's disease DOI: 10.1016/j.clineur0.2024.108436",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Clinical Neurology and Neurosurgery ISSN 0303-8467",
+            "journal_ranking": "ISI/Scopus (CiteScore = 3.7, nhóm Q2) ISI Web of Science, bộ sưu tập SCIE (IF=1.8, nhóm Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 244, 108436",
+            "published_date": "9/2024"
+        },
+        {
+            "title": "Rates and Determinants of Depression and Anxiety Among Acute Leukemia Patients DOI: https://doi.org/10.3390/psychiatryint6020063",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Psychiatry Internation ISSN 2673-5318",
+            "journal_ranking": "ISI/Scopus (CiteScore = 1.9) ISI Web of Science, bộ sưu tập SCIE (IF=1.2, nhóm Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "Psychiatry Int. 2025, Vol. 6 Issue 2, Number 63",
+            "published_date": "5/2025"
+        },
+        {
+            "title": "Đặc điểm trầm cảm ở người bệnh suy tim có NYHA phân độ 2,3",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 511 số 2 Trang 39-44",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến rối loạn trầm cảm ở người bệnh tư điều trị tại Viện Tim mạch Bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 155 số 7 Trang 34-42",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Đặc điểm lâm sàng rối loạn trầm cảm ở người bệnh suy tim điều trị tại Viện Tim mạch Quốc gia - Bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 153 số 5 Trang 41-48",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Tình trạng trầm cảm ở nam giới trung niên và cao tuổi mắc phì đại lành tính tuyến tiền liệt",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 146 trang 34-40",
+            "published_date": "6/2025"
+        },
+        {
+            "title": "Thực trạng trầm cảm ở người bệnh viêm khớp dạng thấp đánh giá bằng thang Montgomery và Asberg",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 191 số 6 Trang 546-556",
+            "published_date": "6/2025"
+        },
+        {
+            "title": "Trầm cảm, lo âu và chất lượng giấc ngủ ở người bệnh lupus ban đỏ hệ thống",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 191 số 6 Trang 596-604",
+            "published_date": "6/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Đặc điểm nhân cách của bệnh nhân rối loạn lo âu lan tỏa điều trị nội trú tại Viện Sức khỏe Tâm thần",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2017",
+            "acceptance_date": "Ngày 13/6/2018",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và kết quả điều trị bước đầu rối loạn phân liệt cảm xúc loại trầm cảm điều trị nội trú tại Viện Sức khỏe Tâm thần",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2017",
+            "acceptance_date": "Ngày 13/6/2018",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Ảnh hưởng của dịch bệnh viêm đường hô hấp cấp (COVID-19) lên sức khỏe nhân viên y tế tại một số bệnh viện tại Hà Nội năm 2021",
+            "role": "Participant/Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2022",
+            "acceptance_date": "Ngày 09/1/2023",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình bệnh học tâm thần",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2016",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 80-84",
+            "verification_document_id": "Quyết định số 3884/QĐ-ĐHYHN ngày 20/09/2017"
+        },
+        {
+            "title": "Bệnh học sang chấn tâm lý",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2024",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": "Quyết định số 276/QĐ-ĐHYHN ngày 31/01/2024"
+        },
+        {
+            "title": "Hướng dẫn chẩn đoán và điều trị một số bệnh thuộc chuyên ngành Tâm thần",
+            "type": "Guide Book",
+            "publisher": "Bộ Y tế",
+            "publish_year": "2020",
+            "num_authors": 36,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": "Quyết định số 2058/QĐ-BYT ngày 14/05/2020"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo bác sỹ y khoa dựa trên năng lực",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "",
+            "certifying_authority": "Đại học Y Hà Nội",
+            "implementation_document_id": "3982/QĐ-ĐHYHN ngày 26/08/2019",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ Bác sĩ nội trú",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "3496/QĐ-ĐHYHN ngày 14/09/2022",
+            "certifying_authority": "Đại học Y Hà Nội",
+            "implementation_document_id": "2185/QĐ-ĐHYHN ngày 19/06/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ Chuyên khoa cấp I",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "3496/QĐ-ĐHYHN ngày 14/09/2022",
+            "certifying_authority": "Đại học Y Hà Nội",
+            "implementation_document_id": "2187/QĐ-ĐHYHN ngày 19/06/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ Chuyên khoa cấp II",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "3496/QĐ-ĐHYHN ngày 14/09/2022",
+            "certifying_authority": "Đại học Y Hà Nội",
+            "implementation_document_id": "2189/QĐ-ĐHYHN ngày 19/06/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ Thạc sĩ",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "3496/QĐ-ĐHYHN ngày 14/09/2022",
+            "certifying_authority": "Đại học Y Hà Nội",
+            "implementation_document_id": "2191/QĐ-ĐHYHN ngày 19/06/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ tiến sĩ",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "3496/QĐ-ĐHYHN ngày 14/09/2022",
+            "certifying_authority": "Đại học Y Hà Nội",
+            "implementation_document_id": "2360/QĐ-ĐHYHN ngày 28/05/2025",
+            "notes": ""
+        }
+    ]
+}

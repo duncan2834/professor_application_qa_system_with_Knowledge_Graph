@@ -1,0 +1,556 @@
+{
+    "papers": [
+        {
+            "title": "Carbon storage of a tropical mangrove forest in Mui Ca Mau National Park, Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "CATENA, ISSN 0341-8162",
+            "journal_ranking": "ISI Q1 Scopus IF=6,2",
+            "citation_count": 144,
+            "volume_issue_pages": "121, 119-126",
+            "published_date": "2014"
+        },
+        {
+            "title": "Carbon storage in a restored mangrove forest in Can Gio Mangrove Forest Park, Mekong Delta, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Forest Ecology and Management ISSN 0378-1127",
+            "journal_ranking": "ISI Q1 Scopus IF=3,7",
+            "citation_count": 92,
+            "volume_issue_pages": "380, 31-40",
+            "published_date": "2016"
+        },
+        {
+            "title": "Vulnerability assessment of environmental and natural resources in Vietnam coastal zone for sustainable use of natural resources, environment protection and adaption to climate change (case study the Red River Delta coastal zone)",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNU Journal of Science: Earth and Environmental Sciences ISSN 2588-1094",
+            "journal_ranking": "VNU Journal of Science: Earth and Environmental Sciences",
+            "citation_count": 4,
+            "volume_issue_pages": "27 (2011) 161-173",
+            "published_date": "2011"
+        },
+        {
+            "title": "Geologic resources vulnerability assessment to orient for Vietnam coastal bays sustainable use: A case study of Ganh Rai Bay, Ba Ria-Vung Tau Province, Vietnam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the International Symposium Hanoi Geoengineering 2010: Urban Geoengineering, Earth Resources and Sustainability in the context of Climate change, Hanoi.",
+            "journal_ranking": "Proceedings of the International Symposium Hanoi Geoengineering 2010",
+            "citation_count": 1,
+            "volume_issue_pages": "413-422",
+            "published_date": "2010"
+        },
+        {
+            "title": "Depth Profiles of \n813C and Trace Element Concentrations in Mangrove ecosystem of Tien Hai Natural Reserve, Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Interdisciplinary Studies on Environmental Chemistry-Environmental Pollution and Ecotoxicology, TERRAPUB/ ISBN 9784887041578",
+            "journal_ranking": "Interdisciplinary Studies on Environmental Chemistry-Environmental Pollution and Ecotoxicology",
+            "citation_count": 3,
+            "volume_issue_pages": "463-470",
+            "published_date": "2012"
+        },
+        {
+            "title": "Carbon movement and assimilation by benthic invertebrates in a tropical mangrove ecosystem: evidence from carbon stable isotopes",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the International Symposium Hanoi Geoengineering 2013 \"Natural Resources Engineering and Disaster mitigation for Infrastructure development\", Vietnam National University Publisher, Hanoi ISBN 9786049345630",
+            "journal_ranking": "Proceedings of the International Symposium Hanoi Geoengineering 2013",
+            "citation_count": 0,
+            "volume_issue_pages": "201-206",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Applications of stable isotopes in marine ecosystem studies",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the International Symposium Hanoi Geoengineering 2013 \"Natural Resources Engineering and Disaster mitigation for Infrastructure development\", Vietnam National University Publisher, Hanoi ISBN 9786049345630",
+            "journal_ranking": "Proceedings of the International Symposium Hanoi Geoengineering 2013",
+            "citation_count": 0,
+            "volume_issue_pages": "181-186",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Changes in carbon storage and food sources of benthic invertebrates following the storm disturbance in Can Gio mangrove biosphere reserve, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the International Symposium Hanoi Geoengineering 2013 \"Natural Resources Engineering and Disaster mitigation for Infrastructure development\", Vietnam National University Publisher, Hanoi ISBN 9786049345630",
+            "journal_ranking": "Proceedings of the International Symposium Hanoi Geoengineering 2013",
+            "citation_count": 0,
+            "volume_issue_pages": "187-191",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Tracing organic carbon dynamics in mangrove ecosystems using stable isotope analysis",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the International Symposium Hanoi Geoengineering 2016 “Energy and Sustainability\". Vietnam National University Press, Hanoi, ISBN 9786046266303",
+            "journal_ranking": "Proceedings of the International Symposium Hanoi Geoengineering 2016",
+            "citation_count": 0,
+            "volume_issue_pages": "24-29",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Sources of sedimentary organic carbon in Can Gio Mangrove Biosphere Reserve",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the International Symposium Hanoi Geoengineering 2016 “Energy and Sustainability\". Vietnam National University Press, Hanoi, ISBN 9786046266303",
+            "journal_ranking": "Proceedings of the International Symposium Hanoi Geoengineering 2016",
+            "citation_count": 0,
+            "volume_issue_pages": "254-257",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Change in sources of sedimentary organic carbon during mangrove restoration in Thanh Hoa province, Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the International Symposium Hanoi Geoengineering 2016 \"Energy and Sustainability\". Vietnam National University Press, Hanoi, ISBN 9786046266303",
+            "journal_ranking": "Proceedings of the International Symposium Hanoi Geoengineering 2016",
+            "citation_count": 0,
+            "volume_issue_pages": "258-261",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Quantitative contribution of primary food sources for a mangrove food web in Setiu lagoon from East coast of Peninsular Malaysia, stable isotopic (\nδ13C and \nδ15N) approach",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Regional Studies in Marine Science ISSN: 2352-4855",
+            "journal_ranking": "ISI Q2 Scopus IF=2,1",
+            "citation_count": 20,
+            "volume_issue_pages": "9,174-179",
+            "published_date": "01/2017"
+        },
+        {
+            "title": "Will restored mangrove forests enhance sediment organic carbon and ecosystem carbon storage?",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Regional Studies in Marine Science ISSN: 2352-4855",
+            "journal_ranking": "ISI Q2 Scopus IF=2,1",
+            "citation_count": 44,
+            "volume_issue_pages": "14, 43-52",
+            "published_date": "05/2017"
+        },
+        {
+            "title": "Biomagnification of total mercury in the mangrove lagoon foodweb in east coast of Peninsula, Malaysia",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Regional Studies in Marine Science ISSN: 2352-4855",
+            "journal_ranking": "ISI Q2 Scopus IF=2,1",
+            "citation_count": 21,
+            "volume_issue_pages": "16, 49-55",
+            "published_date": "08/2017"
+        },
+        {
+            "title": "Tracing carbon transfer and assimilation by invertebrates and fish across a tropical mangrove ecosystem using stable isotopes.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Marine Ecology, Online ISSN: 1439-0485 Print ISSN: 0173-9565",
+            "journal_ranking": "ISI Q2 Scopus IF=1,1",
+            "citation_count": 12,
+            "volume_issue_pages": "Vol 38, Issue 5 e12460",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Sedimentary composition and organic carbon sources in mangorve forests along the coast of northeast Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Regional Studies in Marine Science ISSN: 2352-4855",
+            "journal_ranking": "ISI Q2 Scopus IF=2,1",
+            "citation_count": 20,
+            "volume_issue_pages": "17,87-94",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Holocene environmental changes in Red River delta, Vietnam as inferred from the stable carbon isotopes and C/N ratios",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Earth System Science /ISSN2347-4327",
+            "journal_ranking": "ISI Q2 Scopus IF=1,9",
+            "citation_count": 6,
+            "volume_issue_pages": "2019, 128:15",
+            "published_date": "04/2018"
+        },
+        {
+            "title": "Carbon Sources Supporting Macro-Invertebrate Communities in Restored Mangrove Forests from Hau Loc, Thanh Hoa, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Marine Science and Engineering ISSN 2077-1312",
+            "journal_ranking": "ISI Q2 Scopus IF=2,7",
+            "citation_count": 4,
+            "volume_issue_pages": "8,651",
+            "published_date": "08/2020"
+        },
+        {
+            "title": "Depth Profiles of Microplastics in Sediment Cores Two from Mangrove Forests in Northern Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Marine Science and Engineering ISSN 2077-1312",
+            "journal_ranking": "ISI Q2 Scopus IF=2,7",
+            "citation_count": 29,
+            "volume_issue_pages": "9,1361",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Distribution of \n210Po in body organs of bigeye scad and greater lizardfish species at Binh Thuan, Vietnam",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Radioanalytical and Nuclear Chemistry, ISSN: 0236-5731 (print); 1588-2780 (web)",
+            "journal_ranking": "ISI Q2 Scopus IF=1,6",
+            "citation_count": 3,
+            "volume_issue_pages": "331, 1635-1643",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Stable Isotopes (\nδ13C and \nδ15N) and Trace Elements of Invertebrates and Fish from the Coastal Waters of Ha Tinh Province, Central Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of Environmental Contamination and Toxicology, Electronic ISSN 1432-0703 Print ISSN 0090-4341",
+            "journal_ranking": "ISI Q1 Scopus IF=4,0",
+            "citation_count": 2,
+            "volume_issue_pages": "85, 229-244",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Characteristics of \n210P0 in Asian overbite clam (Potamocorbula laevis) from the coastal area at Thai Binh province, Vietnam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Marine Pollution Bulletin Online ISSN: 1879-3363 Print ISSN: 0025-326X",
+            "journal_ranking": "ISI Q1 Scopus IF=5,8",
+            "citation_count": 3,
+            "volume_issue_pages": "194, 115425",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Contamination of microplastics in mangrove sediment cores from Lach Huyen area, Hai Phong city, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conference Series: Earth and Environmental Science ISSN: 1755-1315",
+            "journal_ranking": "Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "1226, 012005",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Impact of intensive aquaculture on aquatic microorganism ecosystems in Xuan Thuy National Park, Nam Dinh Province, Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Annual Report of Pro Natura Foundation Japan Online ISSN : 2189-7727 Print ISSN: 2432-0943",
+            "journal_ranking": "Annual Report of Pro Natura Foundation Japan",
+            "citation_count": 0,
+            "volume_issue_pages": "34, 144-153",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Phục hồi điều kiện cổ môi trường khu vực hồ Ao Tiên, Vườn Quốc gia Ba Bể bằng phương pháp đồng vị bền",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học ĐHQGHN: Các Khoa học Trái đất và Môi trường ISSN 2588-1094",
+            "journal_ranking": "Tạp chí Khoa học ĐHQGHN: Các Khoa học Trái đất và Môi trường",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 34, Số 2 (2018) 40-50",
+            "published_date": "06/2018"
+        },
+        {
+            "title": "Xác định nguồn gốc của carbon hữu cơ trong trầm tích bề mặt rừng ngập mặn Vườn quốc gia Mũi Cà Mau bằng phương pháp phân tích đồng vị bền",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học ĐHQGHN: Các Khoa học Trái đất và Môi trường ISSN 2588-1094",
+            "journal_ranking": "Tạp chí Khoa học ĐHQGHN: Các Khoa học Trái đất và Môi trường",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 34 (4), 35-46",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Đánh giá tài nguyên đất và nước xã Na Ư, huyện Điện Biên, tỉnh Điện Biên phục vụ xây dựng mô hình phát triển bền vững tích hợp 3E+1",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học ĐHQGHN: Các Khoa học Trái đất và Môi trường ISSN 2588-1094",
+            "journal_ranking": "Tạp chí Khoa học ĐHQGHN: Các Khoa học Trái đất và Môi trường",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 34 (3) 71-85",
+            "published_date": "09/2018"
+        },
+        {
+            "title": "The scientific and practical foundations for sustain-able development and climate change response in Mekong Delta, Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Hydrometeorology , ISSN 2525-2208",
+            "journal_ranking": "Vietnam Journal of Hydrometeorology",
+            "citation_count": 0,
+            "volume_issue_pages": "2019, 3, 1-11",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Nghiên cứu phương pháp xác định hạt vi nhựa trong môi trường trầm tích bãi triều ven biển, áp dụng thử nghiệm tại xã Đa Lộc, huyện Hậu Lộc, tỉnh Thanh Hóa",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN 2525-2208",
+            "journal_ranking": "Tạp chí Khí tượng Thủy văn",
+            "citation_count": 4,
+            "volume_issue_pages": "715, 1-12",
+            "published_date": "07/2020"
+        },
+        {
+            "title": "Đặc điểm thành phần và phân bố hạt vi nhựa trong môi trường trầm tích tầng mặt khu vực vịnh Tiên Yên",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN 2525-2208",
+            "journal_ranking": "Tạp chí Khí tượng Thủy văn",
+            "citation_count": 0,
+            "volume_issue_pages": "719,14-25",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Đánh giá hiệu quả của các đề tài, dự án, chương trình khoa học và công nghệ: Trường hợp Chương trình Khoa học và Công nghệ phục vụ phát triển bền vững vùng Tây Bắc.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học ĐHQGHN: Các Khoa học Trái đất và Môi trường, ISSN 2588-1094",
+            "journal_ranking": "Tạp chí Khoa học ĐHQGHN: Các Khoa học Trái đất và Môi trường",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 36 (2) 17-28",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Sources of sedimentary organic carbon in coastal ecosystems from the Tien Yen Bay, Quang Ninh",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Hydrometeorology ISSN 2525-2208",
+            "journal_ranking": "Vietnam Journal of Hydrometeorology",
+            "citation_count": 0,
+            "volume_issue_pages": "9,76-85",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm một số chất dinh dưỡng trong môi trường nước biển ven bờ khu vực phía Nam châu thổ sông Hồng",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn, ISSN 2525-2208",
+            "journal_ranking": "Tạp chí Khí tượng Thủy văn",
+            "citation_count": 0,
+            "volume_issue_pages": "733, 29-38",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Spatial distribution of trace elements in coastal sediments of Ha Tinh province, Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Marine Science and Technology, p-ISSN 1859-3097, e-ISSN 2815-5904",
+            "journal_ranking": "Vietnam Journal of Marine Science and Technology",
+            "citation_count": 0,
+            "volume_issue_pages": "23, 113-124",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Nghiên cứu ước tính khối lượng chất thải nhựa thất thoát ra môi trường trên địa bàn tỉnh Hà Tĩnh",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNU Journal of Science: Earth and Environmental Sciences ISSN 2588-1094",
+            "journal_ranking": "VNU Journal of Science: Earth and Environmental Sciences",
+            "citation_count": 0,
+            "volume_issue_pages": "39 (4), 32-41",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Developing the sustainability index for the coastal zone of Vietnam in the context of climate change",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "12th NEU-KKU International Conference Socio-Economic and Environmental issues in Development ISBN: 978-604-65-5031-0",
+            "journal_ranking": "12th NEU-KKU International Conference Socio-Economic and Environmental issues in Development",
+            "citation_count": 0,
+            "volume_issue_pages": "1059-1071",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Characteristics of nutrients in riverine water from Hau river, Mekong Delta, Vietnam.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the international symposium Hanoi Geoengineering 2022, Innovative Geosciences, Circular Energy and Sustainability ISBN 978-604-352-470-3",
+            "journal_ranking": "Proceedings of the international symposium Hanoi Geoengineering 2022",
+            "citation_count": 0,
+            "volume_issue_pages": "554-564",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Assessment of environmental sustainability in coastal area of Thach Ha district, Ha Tinh province",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the international symposium Hanoi Geoengineering 2022, Innovative Geosciences, Circular Energy and Sustainability ISBN 978-604-352-470-3",
+            "journal_ranking": "Proceedings of the international symposium Hanoi Geoengineering 2022",
+            "citation_count": 0,
+            "volume_issue_pages": "407-415",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Sustainability assessment of coastal wetlands in the context of climate change: a case study in Dong Rui area, Tien Yen district, Quang Ninh province",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the international symposium Hanoi Geoengineering 2022, Innovative Geosciences, Circular Energy and Sustainability ISBN 978-604-352-470-3",
+            "journal_ranking": "Proceedings of the international symposium Hanoi Geoengineering 2022",
+            "citation_count": 0,
+            "volume_issue_pages": "97-106",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "An integrated ecosystem-environment-economy model in Vietnam-Laos border region in the Northwest Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the international symposium Hanoi Geoengineering 2022, Innovative Geosciences, Circular Energy and Sustainability ISBN 978-604-352-470-3",
+            "journal_ranking": "Proceedings of the international symposium Hanoi Geoengineering 2022",
+            "citation_count": 0,
+            "volume_issue_pages": "44-57",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Removal of ammonium from water by biochar and activated carbon derived from sawdust.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "The International Conference on Sustainability in Environment and Agriculture (ICSEA2022, Hanoi, Vietnam, pp 148-154. Nhà xuất bản KHTN và CN. ISBN 978-604-357-122-6)",
+            "journal_ranking": "The International Conference on Sustainability in Environment and Agriculture (ICSEA2022)",
+            "citation_count": 0,
+            "volume_issue_pages": "148-154",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Nghiên cứu mô hình phát triển bền vững tích hợp sinh kế môi trường - hệ sinh thái ứng phó thông minh với biến đổi khí hậu cho khu vực miền núi Tây Bắc, lấy ví dụ xã Lóng Sập, huyện Mộc Châu, tỉnh Sơn La",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo quốc gia: Đa dạng sinh học với biến đổi khí hậu. Nhà xuất bản KHTN và CN, Hà Nội/ ISBN 9786049138041",
+            "journal_ranking": "Hội thảo quốc gia: Đa dạng sinh học với biến đổi khí hậu",
+            "citation_count": 0,
+            "volume_issue_pages": "307-319",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Mô hình sử dụng bền vững tài nguyên rừng ở khu vực biên giới Việt - Lào Tây Bắc trong bối cảnh biến đổi khí hậu, lấy ví dụ xã Na Ư, huyện Điện Biên, tỉnh Điện Biên",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo quốc gia: Đa dạng sinh học với biến đổi khí hậu. Nhà xuất bản KHTN và CN, Hà Nội/ ISBN 9786049138041",
+            "journal_ranking": "Hội thảo quốc gia: Đa dạng sinh học với biến đổi khí hậu",
+            "citation_count": 0,
+            "volume_issue_pages": "330-341",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Phân vùng tổng hợp các yếu tố tự nhiên và kinh tế - xã hội phục vụ phát triển bền vững khu vực ven sông Hậu",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Địa chất, địa chất môi trường, địa kỹ thuật, quản lý tài nguyên môi trường với đổi mới sáng tạo và phát triển bền vững. NXB ĐHQGHN ISBN: 978-604-342-668-7",
+            "journal_ranking": "Địa chất, địa chất môi trường, địa kỹ thuật, quản lý tài nguyên môi trường với đổi mới sáng tạo và phát triển bền vững",
+            "citation_count": 0,
+            "volume_issue_pages": "73-81",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Một số thiên tai ở vùng biển và ven biển đông Việt Nam: đặc điểm phân bố, các giải pháp ứng phó và giảm thiểu",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Địa chất, địa chất môi trường, địa kỹ thuật, quản lý tài nguyên môi trường với đổi mới sáng tạo và phát triển bền vững. NXB ĐHQGHN ISBN: 978-604-342-668-7",
+            "journal_ranking": "Địa chất, địa chất môi trường, địa kỹ thuật, quản lý tài nguyên môi trường với đổi mới sáng tạo và phát triển bền vững",
+            "citation_count": 0,
+            "volume_issue_pages": "133-142",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Nguồn gốc carbon hữu cơ trong trầm tích rừng ngập mặn vườn quốc gia Xuân Thủy, tỉnh Nam Định.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu hội nghị khoa học toàn quốc Hướng tới kỷ niệm 60 năm Địa hóa Việt Nam xây dựng và phát triển: Địa hóa, môi trường và phát triển bền vững. Nhà xuất bản KHTN và CN. ISBN: 9786043571301",
+            "journal_ranking": "Kỷ yếu hội nghị khoa học toàn quốc Hướng tới kỷ niệm 60 năm Địa hóa Việt Nam xây dựng và phát triển: Địa hóa, môi trường và phát triển bền vững",
+            "citation_count": 0,
+            "volume_issue_pages": "255-265",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Tổng quan đặc điểm phân bố vi nhựa trong môi trường vùng biển ven bờ vùng biển ven bờ Việt Nam, Địa hóa, môi trường và phát triển bền vững",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị khoa học toàn quốc Hướng tới kỷ niệm 60 năm Địa hóa Việt Nam xây dựng và phát triển: Địa hóa, môi trường và phát triển bền vững. Nhà xuất bản KHTN và CN. ISBN: 9786043571301",
+            "journal_ranking": "Kỷ yếu hội nghị khoa học toàn quốc Hướng tới kỷ niệm 60 năm Địa hóa Việt Nam xây dựng và phát triển: Địa hóa, môi trường và phát triển bền vững",
+            "citation_count": 0,
+            "volume_issue_pages": "244-254",
+            "published_date": "06/2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu xác lập bộ tiêu chí đánh giá tính bền vững vùng ven biển Việt Nam, thử nghiệm ứng dụng cho một vùng điển hình và đề xuất giải pháp nhân rộng",
+            "role": "Assistant",
+            "project_code": "BĐKH 23/16-20",
+            "management_level": "Nhà nước",
+            "period": "2017-2020",
+            "acceptance_date": "28/12/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xây dựng cơ sở khoa học và thực tiễn phục vụ nâng cao khả năng ứng phó với biến đổi khí hậu và tính bền vững của hệ sinh thái rừng ngập mặn khu vực cửa sông Hồng",
+            "role": "Principal Investigator",
+            "project_code": "QG19.01",
+            "management_level": "ĐHQGHN",
+            "period": "2019-2021",
+            "acceptance_date": "30/12/2021",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Mô hình hóa các hệ thống trái đất",
+            "type": "Textbook",
+            "publisher": "NXB ĐHQGHN",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "chương 4, 5 (107-153)",
+            "verification_document_id": "1877/QĐ-ĐHKHTN ngày 21/06/2024"
+        },
+        {
+            "title": "Khoa học và công nghệ phục vụ phát triển bền vững vùng Tây Bắc",
+            "type": "Monograph",
+            "publisher": "NXB ĐHQGHN",
+            "publish_year": "2021",
+            "num_authors": 20,
+            "is_editor_in_chief": false,
+            "compiled_pages": "mục 3.1.1 (343-354)",
+            "verification_document_id": "Đã có văn bản xác nhận sử dụng"
+        },
+        {
+            "title": "Chương sách: Vulnerability Assessment in the Urban Coastal Zone of Vietnam, Case Study in Ha Long City, trong sách chuyên khảo: Mega-Urban Development and Transformation Processes in Vietnam: Trends, Vulnerability and Policy Options.",
+            "type": "Monograph",
+            "publisher": "NXB LIT Verlag, Germany",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "các nội dung trong chương sách (135-138)",
+            "verification_document_id": "Đã có văn bản xác nhận sử dụng"
+        },
+        {
+            "title": "Báo cáo tình hình phát sinh chất thải nhựa năm 2022",
+            "type": "Reference Book",
+            "publisher": "NXB Thanh niên",
+            "publish_year": "2023",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "các chương 1,2 (1-45)",
+            "verification_document_id": "Đã có văn bản xác nhận sử dụng"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Mở mới chương trình Công nghệ Quan trắc và Giám sát Tài nguyên môi trường",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "1530/QĐ-ĐHKTN ngày 24/05/2019",
+            "certifying_authority": "Trường Đại học khoa học Tự nhiên",
+            "implementation_document_id": "791/QĐ-ĐHQGHN ngày 06/03/2020",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh chương trình đào tạo ngành Công nghệ Quan trắc và Giám sát Tài nguyên môi trường",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "3567/QĐ-ĐHKHTN ngày 30/11/2022",
+            "certifying_authority": "Trường Đại học khoa học Tự nhiên",
+            "implementation_document_id": "4173/QĐ-ĐHKHTN ngày 30/12/2022",
+            "notes": ""
+        }
+    ]
+}

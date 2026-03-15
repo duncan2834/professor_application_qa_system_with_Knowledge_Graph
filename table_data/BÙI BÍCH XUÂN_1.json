@@ -1,0 +1,326 @@
+{
+    "papers": [
+        {
+            "title": "Marine reserve creation and interactions between fisheries and capture-based aquaculture: A bio-economic model analysis",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Resource Modelling (ISSN: 0890-8575, eISSN: 1939-7445)",
+            "journal_ranking": "SCIE (IF=1.8)",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol 30 (2), pp.e12-122",
+            "published_date": "5/2017"
+        },
+        {
+            "title": "Informing Management Strategies for a Reserve: Results from a Discrete Choice Experiment Survey",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Ocean & Coastal Management (ISSN: 0964-5691, eISSN: 1873-524X)",
+            "journal_ranking": "SCIE & SCOPUS (IF=4.8, Q1)",
+            "citation_count": 21,
+            "volume_issue_pages": "Vol 145, pp.35-43",
+            "published_date": "8/2017"
+        },
+        {
+            "title": "Trading off Tourism and Fisheries",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental & Resource Economics (ISSN: 0924-6460, eISSN: 1573-1502)",
+            "journal_ranking": "SSCI & SCOPUS (IF=3.6, Q1)",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol 73, pp.697-716",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "Public Perceptions of Deep-Sea Environment: Evidence from Scotland and Norway",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Frontiers in Marine Science (ISSN/EISSN 2296-7745)",
+            "journal_ranking": "SCIE & SCOPUS (IF=2.8, Q1)",
+            "citation_count": 45,
+            "volume_issue_pages": "Vol 7, pp.137",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Potential for Sustainable Aquaculture: Insights from Discrete Choice Experiments",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental & Resource Economics (ISSN: 0924-6460, eISSN: 1573-1502)",
+            "journal_ranking": "SSCI & SCOPUS (IF=3.6, Q1)",
+            "citation_count": 21,
+            "volume_issue_pages": "Vol 77, pp.401-421",
+            "published_date": "8/2020"
+        },
+        {
+            "title": "Consumer preference for eco-labelled aquaculture products in Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Aquaculture (ISSN: 0044-8486, eISSN: 1873-5622)",
+            "journal_ranking": "SCIE & SCOPUS (IF=3.9, Q1)",
+            "citation_count": 53,
+            "volume_issue_pages": "Vol 532, pp.736-111",
+            "published_date": "2/2021"
+        },
+        {
+            "title": "The impact of nature documentaries on public environmental preferences and willingness to pay: Entropy balancing and the Blue Planet II effect",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Environmental Planning and Management (ISSN: 0964-0568, eISSN: 1360-0559)",
+            "journal_ranking": "SSCI & SCOPUS (IF=4.4, Q1)",
+            "citation_count": 45,
+            "volume_issue_pages": "Vol 64 (8), pp.1428-1456",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Stakeholder perceptions towards sustainable shrimp aquaculture in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Management (ISSN: 0301-4797, eISSN: 1095-8630)",
+            "journal_ranking": "SCIE & SCOPUS (IF=8.0, Q1)",
+            "citation_count": 41,
+            "volume_issue_pages": "Vol 290, pp.112-585",
+            "published_date": "7/2021"
+        },
+        {
+            "title": "Willingness to adopt improved shrimp aquaculture practices in Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Aquaculture Economics & Management (ISSN: 1365-7305, eISSN: 1551-8663)",
+            "journal_ranking": "SCIE & SCOPUS (IF=3.8, Q1)",
+            "citation_count": 24,
+            "volume_issue_pages": "Vol 25(4), pp.430-449",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Valuing high-seas ecosystem conservation",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Conservation Biology (ISSN: 0888-8892, eISSN: 1523-1739)",
+            "journal_ranking": "SCIE & SCOPUS (IF=5.2, Q1)",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol 35 (5), pp.1405-1416",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Have environmental preferences and willingness to pay remained stable before and during the global Covid-19 shock?",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ecological Economics (ISSN: 0921-8009, eISSN: 1873-6106)",
+            "journal_ranking": "SCIE/SSCI & SCOPUS (IF=6.6, Q1)",
+            "citation_count": 38,
+            "volume_issue_pages": "Vol 189, pp.107-142",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Assessing public preferences for deep sea ecosystem conservation: a choice experiment in Norway and Scotland",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Environmental Economics and Policy (ISSN: 2160-6544, eISSN: 2160-6552)",
+            "journal_ranking": "ESCI & SCOPUS (IF=2.2, Q2)",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol 11 (2), pp.113-132",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Fisher preferences for marine litter interventions in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Ecological Economics (ISSN: 0921-8009, eISSN: 1873-6106)",
+            "journal_ranking": "SCIE/SSCI & SCOPUS (IF=6.6, Q1)",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol 200, pp.107-534",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "The Impact of Marine Litter on Production Risk and Technical Efficiency in the Trawl Fisheries of Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Marine Resource Economics (ISSN: 0738-1360, eISSN: 2334-5985)",
+            "journal_ranking": "SCIE/SSCI (IF=2.0, Q3)",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol 38(1), pp.65-84",
+            "published_date": "1/2023"
+        },
+        {
+            "title": "Exploring fishers' pro-environmental behavioral intention and support for policies to combat marine litter in Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Marine Pollution Bulletin (ISSN: 0025-326X, eISSN: 1879-3363)",
+            "journal_ranking": "SCIE & SCOPUS (IF=5.3, Q1)",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol 200, pp116-143",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Scope Effects and Willingness to Pay for Deep Sea Management Practices within and beyond National Jurisdictions",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Management (ISSN: 0301-4797, eISSN: 1095-8630)",
+            "journal_ranking": "SCIE & SCOPUS (IF=8.0, Q1)",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol 381, pp.125-314",
+            "published_date": "5/2025"
+        },
+        {
+            "title": "Consumer demand for sustainably produced shrimp",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Australian Journal of Agricultural and Resource Economics (ISSN: 1364-985X, eISSN: 1467-8489)",
+            "journal_ranking": "SCIE/SSCI & SCOPUS (IF=2.6, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 0, Pp. 1-14",
+            "published_date": "6/2025"
+        },
+        {
+            "title": "Sở thích của nông dân đối với nuôi tôm công nghệ cao theo vùng sản xuất",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển (ISSN: 1859-0020, eISSN: 2632-5330)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "327, pp.80-88",
+            "published_date": "9/2024"
+        },
+        {
+            "title": "Consumer demand for sustainably produced shrimp in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 21st International Institute of Fisheries Economics & Trade (IIFET 2024), Penang, Malaysia (ISBN: 979-8-3313-1492-7)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "7/2024"
+        },
+        {
+            "title": "Economic Management of an Invasion: The Case of the Red King Crab in Norway",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 21st International Institute of Fisheries Economics & Trade (IIFET 2024), Penang, Malaysia (ISBN: 979-8-3313-1492-7)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "7/2024"
+        },
+        {
+            "title": "To spread or not to spread – Bioeconomic analysis of use and non-use value of invasive crab species",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 21st International Institute of Fisheries Economics & Trade (IIFET 2024), Penang, Malaysia (ISBN: 979-8-3313-1492-7)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "7/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Sở thích của người sản xuất và người tiêu dùng đối với chính sách nuôi tôm bền vững tại Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "MS: 502.99-2018.25",
+            "management_level": "Quỹ phát triển khoa học và công nghệ Quốc gia NAFOSTED",
+            "period": "2018-2020",
+            "acceptance_date": "10/11/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Regulatory Compliance in Small Scale Fisheries in Vietnam and Ghana",
+            "role": "Principal Investigator",
+            "project_code": "MS-1295",
+            "management_level": "Environment for Development (EfD) - SIDA",
+            "period": "2023-2024",
+            "acceptance_date": "31/12/2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Tác động kinh tế của rác thải biển lên ngành khai thác thủy sản tại Việt Nam – Từ thực tiễn đến chính sách trong tương lai",
+            "role": "Assistant",
+            "project_code": "MS: 502.01-2019.327",
+            "management_level": "Quỹ phát triển khoa học và công nghệ Quốc gia NAFOSTED",
+            "period": "2020-2022",
+            "acceptance_date": "11/05/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Sustaining Vietnam's small-scale fisheries in the context of food security and poverty eradication",
+            "role": "Key Member",
+            "project_code": "MS-958",
+            "management_level": "Environment for Development (EfD) - SIDA",
+            "period": "2021-2022",
+            "acceptance_date": "12/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "A trans-Atlantic Assessment and Deep-water Ecosystem Based Spatial Management Plan for Europe (ATLAS)",
+            "role": "Key Member",
+            "project_code": "No 678760",
+            "management_level": "European Union's Horizon 2020 research and innovation programme",
+            "period": "2018-2020",
+            "acceptance_date": "07/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Participatory modelling of integrated ecosystem-based management regime for invasive crabs (PICO)",
+            "role": "Key Member",
+            "project_code": "No 302114",
+            "management_level": "the Norwegian Research Council (NRC)",
+            "period": "2020-2024",
+            "acceptance_date": "06/2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Phát triển kinh tế và bảo vệ môi trường: đánh đổi giữa phát triển du lịch và bảo tồn hệ sinh thái ven biển ở Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "MS: 502.01-2021.52",
+            "management_level": "Quỹ phát triển khoa học và công nghệ Quốc gia NAFOSTED",
+            "period": "2023-2026",
+            "acceptance_date": "Đang thực hiện",
+            "rating": "Đang thực hiện"
+        }
+    ],
+    "books": [
+        {
+            "title": "Fisheries responses to invasive species in a changing climate Lessons learned from case studies",
+            "type": "Reference Book",
+            "publisher": "FAO",
+            "publish_year": "2024",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p.129-138",
+            "verification_document_id": "Quyết định số 753/QĐ-ĐHNT ngày 02/06/2025"
+        }
+    ],
+    "patents": [],
+    "achievements": [
+        {
+            "title": "Trading off Tourism and Fisheries",
+            "certifying_organization": "19th Biennial Conference of the International Institute of Fisheries Economics & Trade (IIFET 2018 Seattle), U.S",
+            "certificate_document_id": "",
+            "award": "Bài báo sinh viên xuất sắc nhất",
+            "num_contributors": 2
+        },
+        {
+            "title": "Fisher Preferences for Marine Litter Interventions in Vietnam",
+            "certifying_organization": "The Economy & Environment Partnership for Southeast Asia (EEPSEA) Annual Conference 2021",
+            "certificate_document_id": "",
+            "award": "Bài báo xuất sắc nhất",
+            "num_contributors": 3
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo TS ngành Kinh tế và Quản lý Tài nguyên biển",
+            "applicant_role": "Participant",
+            "assignment_document_id": "Quyết định số 1322/QĐ-BGDĐT ngày 19/4/2021; Quyết định số 502/QĐ-ĐHNT ngày 12/5/2021; Quyết định số 881/QĐ-ĐHNT ngày 26/6/2024",
+            "certifying_authority": "Bộ GD&ĐT; Trường ĐHNT",
+            "implementation_document_id": "Quyết định số 1463/QĐ-ĐHNT ngày 16/9/2024",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo ngành Kinh tế phát triển, trình độ Đại học và Thạc sĩ",
+            "applicant_role": "Participant",
+            "assignment_document_id": "Quyết định số 20/QĐ-ĐHNT-KT ngày 18/4/2025; Quyết định số 1222/QĐ-ĐHNT ngày 2/10/2020",
+            "certifying_authority": "Trường ĐHNT",
+            "implementation_document_id": "Quyết định số 1236/QĐ-ĐHNT ngày 18/11/2021",
+            "notes": ""
+        }
+    ]
+}

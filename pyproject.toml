@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "KG_builder"
+version = "0.1.0"       
+description = "Build KG"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{ name="Nguyen Cong Huynh", email="hnc203204@gmail.com" }]
+dependencies = [
+  "requests>=2.32",
+]
+
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "mypy"]
+
+
+[project.scripts]
+your-cli = "your_package.cli:main"
+
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}

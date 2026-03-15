@@ -1,0 +1,447 @@
+{
+    "papers": [
+        {
+            "title": "Polymer-based Capacity Micromachined Ultrasonic Transducer for Surface Roughness Measurement",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Key Engineering Materials, ISSN: 1662-9795",
+            "journal_ranking": "Scopus (IF: 0.17, Q4)",
+            "citation_count": 5,
+            "volume_issue_pages": "661, 22-28",
+            "published_date": "2015"
+        },
+        {
+            "title": "Two Capacitive Micro-Machined Ultrasonic Transducers for Wind Speed Measurement",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sensors, ISSN: 1424-8220",
+            "journal_ranking": "SCIE (IF: 3.9, Q1)",
+            "citation_count": 17,
+            "volume_issue_pages": "16 (6), 814",
+            "published_date": "2016"
+        },
+        {
+            "title": "Research on the Measuring System of Polymer-based Capacitive Micromachined Ultrasonic Transducer Array for Circular Planar Target",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Engineering Research, (ICMMSE 2017), ISSN 2352-5401",
+            "journal_ranking": "Not ranked",
+            "citation_count": 1,
+            "volume_issue_pages": "134-140",
+            "published_date": "2017"
+        },
+        {
+            "title": "Optimization of Micropump Performance Utilizing a Single Membrane with an Active Check Valve",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Micromachines, ISSN: 2072-666X",
+            "journal_ranking": "SCIE (IF: 3.4, Q2)",
+            "citation_count": 18,
+            "volume_issue_pages": "9(1), 1",
+            "published_date": "2017"
+        },
+        {
+            "title": "Xây dựng mô hình QC ứng dụng trong dạy học tại trường đại học, cao đẳng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo KHQG, Cán bộ trẻ với đổi mới sáng tạo, nâng cao năng lực tiếp cận cách mạng công nghiệp 4.0, ISBN: 978-604-968-493-7",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "64-76",
+            "published_date": "2018"
+        },
+        {
+            "title": "Integrated design of control and diagnosis for visual feedback inverted pendulum system",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "13th IEEE Conference on Industrial Electronics and Applications (ICIEA), ISSN: 2158-2297",
+            "journal_ranking": "Scopus indexed",
+            "citation_count": 1,
+            "volume_issue_pages": "1574-1578",
+            "published_date": "2018"
+        },
+        {
+            "title": "Bộ phát sóng siêu âm vi cơ điện dung pôlyme dùng cho xác định độ nhám bề mặt",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học và Công nghệ toàn quốc về cơ khí lần thứ V - VCME 2018, ISSN: 1859-3585",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "1177-1183",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của các tham số công nghệ đến độ nhám bề mặt khi gia công thép C45 trên máy phay CNC",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học và Công nghệ toàn quốc về cơ khí lần thứ V - VCME 2018, ISSN: 1859-3585",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "213-221",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nghiên cứu xác định hệ số lực cản cắt của thép xám FC25 khi gia công bằng lưỡi phay ngón trên máy phay CNC",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học và Công nghệ toàn quốc về cơ khí lần thứ V - VCME 2018, ISSN: 1859-3585",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "465-474",
+            "published_date": "2018"
+        },
+        {
+            "title": "Xác định ngược thông lượng nhiệt cực đại và kích thước hàn điểm bằng laser",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học và Công nghệ toàn quốc về cơ khí lần thứ V - VCME 2018, ISSN: 1859-3585",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "717-724",
+            "published_date": "2018"
+        },
+        {
+            "title": "An Experimental Investigation of Dynamic Cutting Forces in the Stable Milling Processes",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture Notes in Networks and Systems, ISBN: 978-3-030-04791-7",
+            "journal_ranking": "Scopus (IF2023: 0.17, Q4)",
+            "citation_count": 2,
+            "volume_issue_pages": "63, 158-166",
+            "published_date": "2019"
+        },
+        {
+            "title": "Pneumatically-Driven Micropump Using Active Check-Valve for Liquid Transportation",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Networks and Systems, ISBN 978-3-030-37496-9",
+            "journal_ranking": "Scopus (IF2023: 0.17, Q4)",
+            "citation_count": 1,
+            "volume_issue_pages": "104, 599-606",
+            "published_date": "2020"
+        },
+        {
+            "title": "An Experimental Investigation of the Cutting Forces Coefficients in Flat-End Mill Processes",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture Notes in Networks and Systems, ISBN 978-3-030-37496-9",
+            "journal_ranking": "Scopus (IF2023: 0.17, Q4)",
+            "citation_count": 2,
+            "volume_issue_pages": "104, 599-606",
+            "published_date": "2020"
+        },
+        {
+            "title": "Study to Improve the Tensile Strength of Welding Seams When Extrusion Hollow Square Tube Aluminum Alloy by T6 Heat Treatment",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 2019 International Conference on Physics Mechanics of New Materials and Their Applications, ISBN: 978-1-53618-255-2",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "209-222",
+            "published_date": "2020"
+        },
+        {
+            "title": "Polymer-based capacitive micromachined ultrasonic transducers applied to identify object",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 2019 International Conference on Physics Mechanics of New Materials and Their Applications, ISBN: 978-1-53618-255-2",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "341-350",
+            "published_date": "2020"
+        },
+        {
+            "title": "Investigation of an Inset Micro Permanent Magnet Synchronous Motor Using Soft Magnetic Composite Material",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Energies, ISSN: 1996-1073",
+            "journal_ranking": "SCIE (IF: 3.2, Q1)",
+            "citation_count": 13,
+            "volume_issue_pages": "13 (17), 4445",
+            "published_date": "2020"
+        },
+        {
+            "title": "Investigation of an Interior Micro Permanent Magnet Synchronous Motor",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Energies, ISSN: 1996-1073",
+            "journal_ranking": "SCIE (IF: 3.2, Q1)",
+            "citation_count": 5,
+            "volume_issue_pages": "14 (14), 4172",
+            "published_date": "2020"
+        },
+        {
+            "title": "An algorithm of position correction using linear interpolation for two dimensional magnetic tracking",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "UTEHY Journal of Science and Technology, ISSN 2354-0575",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 30, 66-72",
+            "published_date": "2021"
+        },
+        {
+            "title": "Smart automatic parking system using robot",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "UTEHY Journal of Science and Technology, ISSN 2354-0575",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 31, 111-115",
+            "published_date": "2021"
+        },
+        {
+            "title": "Cutting Force Modeling in a Three-Axis Milling Process Based on Cutting Tool – Workpiece Interaction",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering, (AMAS 2021), ISBN 978-3-030-99665-9",
+            "journal_ranking": "Scopus (IF2023: 0.17, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "245-251",
+            "published_date": "2022"
+        },
+        {
+            "title": "New Capacitive Micro-machined Ultrasonic Transducer Applied to Two-Dimensional Wind Speed Detection",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering, (AMAS 2021), ISBN 978-3-030-99665-9",
+            "journal_ranking": "Scopus (IF2023: 0.17, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "883-887",
+            "published_date": "2022"
+        },
+        {
+            "title": "A Pneumatic Micropump Design for Patient-Controlled Analgesia (PCA)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering, (AMAS 2021), ISBN 978-3-030-99665-9",
+            "journal_ranking": "Scopus (IF2023: 0.17, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "877-882",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu máy vi trộn cho hệ thống phân tích vi mô",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Chí Khoa học Công nghệ Hàng hải, ISSN 1859-316X",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 72, 43–49",
+            "published_date": "2022"
+        },
+        {
+            "title": "Polymer-based capacitive micro-machined ultrasonic transducer for 3D proximity detection",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "UTEHY Journal of Science and Technology, ISSN 2354-0575",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 37, 7-12",
+            "published_date": "2023"
+        },
+        {
+            "title": "Điều khiển trượt tầng thích nghi mờ cho AUV thiếu cơ cấu chấp hành",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Trường Đại học Công nghiệp Hà Nội, ISSN: 2615-9619",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 59 (2B), 9-14",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu vi động cơ đồng bộ nam châm vĩnh cửu sử dụng các cuộn dây phân tán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Chí Khoa học Công nghệ Hàng hải, ISSN 1859-316X",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 74, 19–23",
+            "published_date": "2023"
+        },
+        {
+            "title": "Xây dựng mô hình hệ thống tự động tách sản phẩm khỏi khuôn đúc sử dụng PLC S7-300",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "UTEHY Journal of Science and Technology, ISSN 2354-0575",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 38",
+            "published_date": "2023"
+        },
+        {
+            "title": "Investigation of Capacitive Micro-Machined Ultrasonic Transducers using Transparent Conductive Film",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Advances in Engineering and Management (IJAEM), Vol 5 (6), ISSN 2395-5252",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 5 (6)",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu điều khiển lực căng cho hệ thống rút sợi thép",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Chí Khoa học Công nghệ Hàng hải, ISSN 1859-316X",
+            "journal_ranking": "Not ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 78, 36-41",
+            "published_date": "2024"
+        },
+        {
+            "title": "Recursion Based Control and Separation Sliding Manifold Based Control of Under-Actuated 4-DOF Autonomous",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Transport Development and Integration, ISSN: 2058-8313",
+            "journal_ranking": "Scopus (IF2023: 0.21, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 8, No. 1, pp. 189-196",
+            "published_date": "2024"
+        },
+        {
+            "title": "Multi-objective optimization for balancing surface roughness and material removal rate in milling hardened SKD11 alloy steel with SIO2 nanofluid MQL",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "EUREKA: Physics and Engineering, ISSN: 2461-4254",
+            "journal_ranking": "Scopus (Q3, IF2023: 0.25)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol 2, 157-169",
+            "published_date": "2024"
+        },
+        {
+            "title": "Research on Capacitive Micromachined Ultrasonic Transducer Array for the Wrist-type Suspension Control System",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering, (MMMS 2022), ISSN 2195-4364",
+            "journal_ranking": "Scopus (IF2023: 0.17, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 1, 107-116",
+            "published_date": "2024"
+        },
+        {
+            "title": "A Study on Determination of Coefficients of Cutting Force in Facing Process of SKD11 Steel using the Circle Inserts",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering, (MMMS 2022), ISSN 2195-4364",
+            "journal_ranking": "Scopus (IF2023: 0.17, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 2, 63-76",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "ĐT: Nghiên cứu, xây dựng mô hình cần cẩu QC",
+            "role": "Principal Investigator",
+            "project_code": "ĐT.CN.2018.09",
+            "management_level": "Trường Đại học Hải Phòng",
+            "period": "2017-2018",
+            "acceptance_date": "12/06/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "ĐT: Nghiên cứu xây dựng module thực hành đa năng tại Khoa Điện – Cơ, Trường ĐHHP",
+            "role": "Participant",
+            "project_code": "ĐT.CN.2018.10",
+            "management_level": "Trường Đại học Hải Phòng",
+            "period": "2017–2018",
+            "acceptance_date": "13/06/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "ĐT: Xây dựng mô hình điều khiển tốc độ động cơ sử dụng bộ PID của PLC S7-1200",
+            "role": "Principal Investigator",
+            "project_code": "ĐT.CN.2020.03",
+            "management_level": "Trường Đại học Hải Phòng",
+            "period": "2019 – 2020",
+            "acceptance_date": "17/07/2020",
+            "rating": "Tốt"
+        },
+        {
+            "title": "ĐT: Nghiên cứu, điều khiển mô hình hệ thống sản xuất linh hoạt phục vụ giảng dạy và nghiên cứu khoa học",
+            "role": "Participant",
+            "project_code": "ĐT.CN.2022.01",
+            "management_level": "Trường Đại học Hải Phòng",
+            "period": "2021 – 2022",
+            "acceptance_date": "23/02/2023",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Vẽ kỹ thuật Điện",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Hải Phòng, ISBN: 978-604-83-3264-8",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 83 to p. 159",
+            "verification_document_id": "Số 05/GXN-ĐHHP"
+        },
+        {
+            "title": "Phương pháp phần tử hữu hạn cơ bản trong phân tích một số bài toán kỹ thuật",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Huế, ISBN: 978-604-399-345-5",
+            "publish_year": "2023",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 1 to p. 86",
+            "verification_document_id": "Số 04/GXN-ĐHHP"
+        },
+        {
+            "title": "Điều khiển với PLC và Ứng dụng",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Khoa học và Kỹ thuật, ISBN: 978-604-67-2663-0",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 1 to p. 37, p. 180 to p. 288",
+            "verification_document_id": "Số 03/GXN-ĐHHP"
+        }
+    ],
+    "patents": [
+        {
+            "title": "Axial flux switching motor and rotor thereof capable of improving the characteristics of the motor and effectively reducing a torque dead zone",
+            "issuing_authority": "Intellectual Property Office - Taiwan",
+            "issue_date": "11/02/2023",
+            "is_main_inventor": false,
+            "num_inventors": 2
+        },
+        {
+            "title": "Radial flux switching motor and rotor thereof capable of improving motor characteristics and effectively reducing the dead torque zone",
+            "issuing_authority": "Intellectual Property Office - Taiwan",
+            "issue_date": "11/11/2023",
+            "is_main_inventor": false,
+            "num_inventors": 2
+        }
+    ],
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng chương trình đào tạo ngành trọng điểm",
+            "applicant_role": "Participant",
+            "assignment_document_id": "Số 682/QĐ-ĐHHP, ngày 11/12/2017",
+            "certifying_authority": "Trường Đại học Hải Phòng",
+            "implementation_document_id": "Số 207/TB-ĐHHP ngày 13/08/2019",
+            "notes": ""
+        },
+        {
+            "title": "Tự đánh giá chương trình đào tạo ngành Công nghệ kỹ thuật điện, điện tử",
+            "applicant_role": "Participant",
+            "assignment_document_id": "Số 1556/QĐ-ĐHHP, ngày 31/05/2021",
+            "certifying_authority": "TT Kiểm định chất lượng giáo dục, HH CTĐHCĐVN",
+            "implementation_document_id": "Số CTDDT2023.11/CEA-AUV&C ngày 14/02/2023",
+            "notes": ""
+        },
+        {
+            "title": "Rà soát, điều chỉnh chương trình đào tạo Ngành: CN kỹ thuật cơ điện tử, CN kỹ thuật điện – điện tử, CN chế tạo",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Số 3803/QĐ-ĐHHP, ngày 19/10/2022",
+            "certifying_authority": "Trường Đại học Hải Phòng",
+            "implementation_document_id": "Số 777/QĐ-ĐHHP ngày 10/02/2023",
+            "notes": ""
+        }
+    ]
+}

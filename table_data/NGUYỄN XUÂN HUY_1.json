@@ -1,0 +1,511 @@
+{
+    "papers": [
+        {
+            "title": "Immunogenicity of a Cholera Toxin B Subunit Porphyromonas gingivalis",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Biotechnology https://doi.org/10.1007/s12033-008-9102-3",
+            "journal_ranking": "SCIE, IF: 2.581; Q2",
+            "citation_count": 22,
+            "volume_issue_pages": "Volume 41, Issue 2, Pages 157-164",
+            "published_date": "2009"
+        },
+        {
+            "title": "Production of a Heat-labile Enterotoxin B Subunit-porcine Epidemic Diarrhea Virus-neutralizing Epitope Fusion Protein in Transgenic Lettuce (Lactuca sativa)",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biotechnology and Bioprocess Engineering https://doi.org/10.1007/s12257-009-3012-5",
+            "journal_ranking": "SCIE, IF: 1.252; Q2",
+            "citation_count": 18,
+            "volume_issue_pages": "Volume 14, Issue 6, Pages 731-737",
+            "published_date": "2009"
+        },
+        {
+            "title": "Expression of a Cholera Toxin B Subunit-Neutralizing Epitope of the Porcine Epidemic Diarrhea Virus Fusion Gene in Transgenic Lettuce (Lactuca sativa L.)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Molecular Biotechnology https://doi.org/10.1007/s12033-010-9359-1",
+            "journal_ranking": "SCIE, IF: 2.584; Q2",
+            "citation_count": 66,
+            "volume_issue_pages": "Volume 48, Issue 3, Pages 201-209",
+            "published_date": "2011"
+        },
+        {
+            "title": "Immunogenicity of a neutralizing epitope from porcine epidemic diarrhea virus: M cell targeting ligand fusion protein expressed in transgenic rice calli",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plant Cell Reports https://doi.org/10.1007/s00299-012-1306-0",
+            "journal_ranking": "SCIE, IF: 3.072; Q1",
+            "citation_count": 51,
+            "volume_issue_pages": "Volume 31, Issue 10, Pages 1933-1942",
+            "published_date": "2012"
+        },
+        {
+            "title": "M Cell-Targeting Ligand and Consensus Dengue Virus Envelope Protein Domain III",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Biotechnology https://doi.org/10.1007/s12033-012-9637-1",
+            "journal_ranking": "SCIE, IF: 2.61; Q2",
+            "citation_count": 25,
+            "volume_issue_pages": "Volume 54, Issue 3, Pages 880-807",
+            "published_date": "2013"
+        },
+        {
+            "title": "Fusion Protein Production in Transgenic Rice Calli Production of monoclonal antibody against FimA protein from Porphyromonas gingivalis in rice cell suspension culture",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture https://doi.org/10.1007/s11240-014-0481-9",
+            "journal_ranking": "SCIE, IF: 2.653; Q1",
+            "citation_count": 14,
+            "volume_issue_pages": "Volume 118, Issue 2, Pages 293-304",
+            "published_date": "2014"
+        },
+        {
+            "title": "Dengue Virus E Glycoprotein Production in Transgenic Rice Callus",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Biotechnology https://doi.org/10.1007/s12033-014-9787-4",
+            "journal_ranking": "SCIE, IF: 2.238; Q2",
+            "citation_count": 66,
+            "volume_issue_pages": "Volume 56, Issue 12, Pages 1069-1078",
+            "published_date": "2014"
+        },
+        {
+            "title": "Immunogenicity of an S1D epitope from porcine epidemic diarrhea virus and cholera toxin B subunit fusion protein transiently expressed in infiltrated Nicotiana benthamiana leaves",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture https://doi.org/10.1007/s11240-016-1059-5",
+            "journal_ranking": "SCIE, IF: 2.32; Q1",
+            "citation_count": 20,
+            "volume_issue_pages": "Volume 127, Issue 2, Pages 369-380",
+            "published_date": "2016"
+        },
+        {
+            "title": "Production of recombinant human acid α-glucosidase with high-mannose glycans in gnt1 rice for the treatment of Pompe disease",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Biotechnology https://doi.org/10.1016/j.jbiotec.2017.03.033",
+            "journal_ranking": "SCIE, IF: 2.848; Q1",
+            "citation_count": 23,
+            "volume_issue_pages": "Volume 249, Pages 42-50",
+            "published_date": "2017"
+        },
+        {
+            "title": "Overexpression and oral immunogenicity of a dengue antigen transiently expressed in Nicotiana benthamiana",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture https://doi.org/10.1007/s11240-017-1306-4",
+            "journal_ranking": "SCIE, IF: 2.399; Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "Volume 131, Issue 3, Pages 567-577",
+            "published_date": "2017"
+        },
+        {
+            "title": "Enhanced expression of dengue virus EDIII-based tetravalent antigen protein using transgenic rice callus",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Biotechnology Reports https://doi.org/10.1007/s11816-018-0487-6",
+            "journal_ranking": "SCIE, IF: 1.704; Q2",
+            "citation_count": 8,
+            "volume_issue_pages": "Volume 12, Issue 3, Pages 207-215",
+            "published_date": "2018"
+        },
+        {
+            "title": "Production of recombinant human acid β-glucosidase with high mannose-type N-glycans in rice gnt1 mutant for potential treatment of Gaucher disease",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Protein Expression and Purification https://doi.org/10.1016/j.pep.2019.02.014",
+            "journal_ranking": "SCIE, IF: 1.393; Q2",
+            "citation_count": 13,
+            "volume_issue_pages": "Volume 158, Pages 81-88",
+            "published_date": "2019"
+        },
+        {
+            "title": "Improved expression of porcine epidemic diarrhea antigen by fusion with cholera toxin B subunit and chloroplast transformation in Nicotiana tabacum",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture https://doi.org/10.1007/s11240-019-01562-1",
+            "journal_ranking": "SCIE, IF: 2.558; Q1",
+            "citation_count": 13,
+            "volume_issue_pages": "Volume 137, Issue 2, Pages 213-223",
+            "published_date": "2019"
+        },
+        {
+            "title": "A Meloidogyne graminicola C-type lectin, Mg01965, is secreted into the host apoplast to suppress plant defence and promote parasitism",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Plant Pathology https://doi.org/10.1111/mpp.12759",
+            "journal_ranking": "SCIE, IF: 4.731; Q1",
+            "citation_count": 40,
+            "volume_issue_pages": "Volume 20, Issue 3, Pages 346-355",
+            "published_date": "2019"
+        },
+        {
+            "title": "Cloning, expression, and purification of truncated S1 epitope and peptide CT24 fusion protein of porcine epidemic diarrhea virus in Escherichia coli",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plant Cell Biotechnology and Molecular Biology https://ikprress.org/index.php/PCBMB/article/view/4574",
+            "journal_ranking": "Scopus, IF: 0.229; Q4",
+            "citation_count": 2,
+            "volume_issue_pages": "Volume 2, Issue 20, Pages 112-118",
+            "published_date": "2019"
+        },
+        {
+            "title": "Effect of salicylic acid and yeast extract on curcuminoids biosynthesis gene expression and curcumin accumulation in cells of Curcuma zedoaria",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Plant Biotechnology https://doi.org/10.5010/JPB.2019.46.3.172",
+            "journal_ranking": "Scopus, IF: 0.543; Q3",
+            "citation_count": 11,
+            "volume_issue_pages": "Volume 46, Issue 3, Pages 172-179",
+            "published_date": "2019"
+        },
+        {
+            "title": "Transient expression of Chi42 genes from Trichoderma asperellum in Nicotiana benthamiana by Agroinfiltration",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Agriculture & Biology https://www.fspublishers.org/html_issue.php?iid=41656",
+            "journal_ranking": "Scopus, IF: 0.874; Q3",
+            "citation_count": 26,
+            "volume_issue_pages": "Pages 177-184",
+            "published_date": "2021"
+        },
+        {
+            "title": "Expression of 42 kDa Chitinase of Trichoderma asperellum (Ta-CHI42) from a synthetic gene in Escherichia coli",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "FEMS Microbiology Letters https://doi.org/10.1093/femsle/fnab110",
+            "journal_ranking": "SCIE, IF: 2.91; Q2",
+            "citation_count": 368,
+            "volume_issue_pages": "Pages 01-08",
+            "published_date": "2021"
+        },
+        {
+            "title": "De novo whole-genome assembly and discovery of genes involved in triterpenoid saponin biosynthesis of Vietnamese ginseng (Panax vietnamensis Ha et Grushv.)",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Physiology and Molecular Biology of Plants https://doi.org/10.1007/s12298-021-01076-1",
+            "journal_ranking": "SCIE, IF: 3.373; Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "Volume 27, Issue 10, Pages 2215-2229",
+            "published_date": "2021"
+        },
+        {
+            "title": "Optimizing the production of a functional type a recombinant endochitinase from Trichoderma asperellum in Escherichia coli",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Experimental Biology and Agricultural Sciences https://doi.org/10.18006/2021.9(6).871.880",
+            "journal_ranking": "Scopus, IF: 0.424; Q4",
+            "citation_count": 9,
+            "volume_issue_pages": "Volume 9, Issue 6, Pages 871-880",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tạo dòng gen mã hóa Chitinase 42 kDa của Trichoderma asperellum và dự đoán đặc tính của enzyme",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Khoa học Tự nhiên https://doi.org/10.26459/hueunijns.v130i1C.6275",
+            "journal_ranking": "HDGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 130, Issue 1C, Pages 105-112",
+            "published_date": "2021"
+        },
+        {
+            "title": "Growth and development of transgenic peanut (Arachis hypogaea) lines containing chitinase 42 kDa gene from Trichoderma asperellum SH16",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Experimental Biology and Agricultural Sciences https://doi.org/10.18006/2022.10(4).789.796",
+            "journal_ranking": "Scopus, IF: 0.471; Q4",
+            "citation_count": 10,
+            "volume_issue_pages": "Volume 10, Issue 4, Pages 789-796",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tạo dòng các gen mã hoá chitinase 42 kDa của Trichoderma asperellum vào vector biểu hiện thực vật pMYV719 để phục vụ chuyển gen",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Khoa học Tự nhiên https://doi.org/10.26459/hueunijns.v131i1C.6667",
+            "journal_ranking": "HDGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 131, Issue 1C, Pages 55-62",
+            "published_date": "2022"
+        },
+        {
+            "title": "Overexpression of 42 kDa chitinase genes from Trichoderma asperellum SH16 in peanut (Arachis hypogaea)",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Crop Improvement https://doi.org/10.1080/15427528.2022.211034",
+            "journal_ranking": "ESCI, Scopus, IF: 1.743; Q2",
+            "citation_count": 37,
+            "volume_issue_pages": "Volume 37, Issue 4, Pages 463-478",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phát hiện vi khuẩn Pasteurella multocida gây bệnh tụ huyết trùng ở cừu Phan Rang bằng kỹ thuật PCR",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Khoa học Tự nhiên https://doi.org/10.26459/hueunijns.v132i1A.6914",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 132, Issue 1A",
+            "published_date": "2023"
+        },
+        {
+            "title": "Cloning and characterization of the LvCTL genes encoding C-type lectin from white-leg shrimp (Litopenaeus vannamei)",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "F1000research https://doi.org/10.12688/f1000research.126044.3",
+            "journal_ranking": "Scopus, IF: 2.443; Q1",
+            "citation_count": 12,
+            "volume_issue_pages": "Volume 260",
+            "published_date": "2023"
+        },
+        {
+            "title": "Enhancement of resistance against fungal pathogens in peanut (Arachis hypogaea L.) cultivar L14 by heterologous expression of gene encoding chitinase 42 kDa from Trichoderma asperellum SH16",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "South African Journal of Botany https://doi.org/10.1016/j.sajb.2023.07.056",
+            "journal_ranking": "SCIE, IF: 3.542; Q2",
+            "citation_count": 160,
+            "volume_issue_pages": "Pages 673-681",
+            "published_date": "2023"
+        },
+        {
+            "title": "Thành phần loài và mật độ sinh vật phù du trong nước ao nuôi tôm thẻ chân trắng (Litopenaeus vannamei) công nghiệp",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Nông nghiệp và Phát triển Nông thôn http://tapchinongnghiep.vn/tapchi/detail/12501",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 132, Issue 3 D, Pages 5-22",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ảnh hưởng của mật độ ương đến tăng trưởng và tỷ lệ sông của cá dìa (Siganus guttatus) giai đoạn cá bột đến cá hương",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn http://tapchinongnghiep.vn/tapchi/lists/146?newpaperid=2",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 2, Issue 9, Pages 74-80",
+            "published_date": "2023"
+        },
+        {
+            "title": "Morphological characteristics and genetic diversity of Terapon jarbua (Forrskäl, 1775) in Central, Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Israeli Journal of Aquaculture - Bamidgeh https://doi.org/10.46989/001c.75406",
+            "journal_ranking": "SCIE, IF: 0.753; Q3",
+            "citation_count": 75,
+            "volume_issue_pages": "Volume 75, Issue 1, Pages 01-18",
+            "published_date": "2023"
+        },
+        {
+            "title": "First study on capsular serotypes and virulence factors of Pasteurella multocida isolates from Phan Rang sheep in Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Veterinary World https://doi.org/10.14202/vetworld.2023.281-290",
+            "journal_ranking": "ESCI, Scopus, IF: 2.224; Q2",
+            "citation_count": 16,
+            "volume_issue_pages": "Volume 16, Issue 2, Pages 281-290",
+            "published_date": "2023"
+        },
+        {
+            "title": "Investigation on growth and development of 42 kDa chitinase transgenic peanuts (Arachis hypogaea L.) cultivar L14 under in vivo condition",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Research Journal of Biotechnology https://doi.org/10.25303/1809rjbt1750181",
+            "journal_ranking": "Scopus, IF: 0.357; Q4",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 18, Issue 9, Pages 157-181",
+            "published_date": "2023"
+        },
+        {
+            "title": "Khảo sát một số yếu tố ảnh hưởng đến hiệu quả chuyển gen chitinase vào cây lạc (Arachis hypogaea L.) qua trung gian Agrobacterium tumefaciens",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Trường Đại học Khoa học, ĐH Huế https://jos.husc.edu.vn/articles.php?article=850",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 22, Issue 02, Pages 103-116",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm sinh học sinh sản của tôm đất (Metapenaeus ensis) phân bố vùng ven biển tỉnh Thừa Thiên Huế",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn http://tapchinongnghiep.vn/tapchi/detail/12669",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 1, Issue 4, Pages 74-80",
+            "published_date": "2024"
+        },
+        {
+            "title": "A First Look at Genetic Diversity of Metapenaeus ensis Populations in Tam Giang – Cau Hai Lagoon, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Israeli Journal of Aquaculture – Bamidgeh https://doi.org/10.46989/001c.117579",
+            "journal_ranking": "SCIE, IF: 0.753; Q3",
+            "citation_count": 76,
+            "volume_issue_pages": "Volume 76, Issue 2, Pages 01-9",
+            "published_date": "2024"
+        },
+        {
+            "title": "Effects of Iodine Treatment on the Development of Eggs and Larvae of Rabbitfish (Siganus guttatus Bloch, 1787)",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Jurnal Ilmiah Perikanan dan Kelautan https://e-journal.unair.ac.id/JIPK/article/view/46755/27790",
+            "journal_ranking": "Scopus, IF: 0.375; Q3",
+            "citation_count": 16,
+            "volume_issue_pages": "Volume 16, Issue 1, Pages 265-273",
+            "published_date": "2024"
+        },
+        {
+            "title": "Sản xuất giống cá dìa tại Thừa Thiên Huế",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam https://vjol.info.vn/index.php/khcn/article/view/90105",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 1+2, Pages 61-64",
+            "published_date": "2024"
+        },
+        {
+            "title": "Một số phương pháp phân tử trong chuẩn đoán Pasteurella multocida và Mannheimia haemolytica",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Khoa học Tự nhiên (ISSN (Online) 2615-9678) DOI: 10.26459/hueunijns.v133i1C.7380",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 133, Issue 1C, Pages 5-19",
+            "published_date": "2024"
+        },
+        {
+            "title": "Biểu hiện kháng nguyên dung hợp S1D-LL-37 ở tế bào mô sẹo lúa chuyển gen",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Báo cáo khoa học về nghiên cứu và giảng dạy Sinh học ở Việt Nam - Hội nghị khoa học Quốc gia lần thứ 6, 930-939. DOI: 10.15625/vap.2024.0093 ISBN: 978-604-357-275-9",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 930-939",
+            "published_date": "2024"
+        },
+        {
+            "title": "Ảnh hưởng của nhiệt độ đến thời gian biến thái và tỷ lệ sống của ấu trùng tôm đất (Metapenaeus ensis)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Báo cáo khoa học về nghiên cứu và giảng dạy Sinh học ở Việt Nam - Hội nghị khoa học Quốc gia lần thứ 6, 843-850. DOI: 10.15625/vap.2024.0083 ISBN: 978-604-357-275-9",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 843-850",
+            "published_date": "2024"
+        },
+        {
+            "title": "Phân tích trình tự và đánh giá mức độ biểu hiện các promoter của gen IGF2",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Báo cáo khoa học về nghiên cứu và giảng dạy Sinh học ở Việt Nam - Hội nghị khoa học Quốc gia lần thứ 6, 624-632. DOI: 10.15625/vap.2024.0060",
+            "journal_ranking": "HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 624-632",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu biểu hiện chitinase tái tổ hợp trong E.coli",
+            "role": "Principal Investigator",
+            "project_code": "DHH2019-03-119",
+            "management_level": "Đại học Huế",
+            "period": "01/01/2019 gia hạn đến tháng 12/2021",
+            "acceptance_date": "22/12/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu các chỉ tiêu sinh học sinh sản và ứng dụng kỹ thuật DNA mã vạch trong nghiên cứu đa dạng di truyền loài tôm đất (Metapenaeus ensis De Haan, 1844) phân bố ở đầm phá Thừa Thiên Huế",
+            "role": "Principal Investigator",
+            "project_code": "B2022-DHH-14",
+            "management_level": "Bộ GD&ĐT",
+            "period": "01/01/2022 gia hạn đến tháng 6/2024",
+            "acceptance_date": "31/05/2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Sản xuất thử nghiệm giống nguồn gen cá dìa (Siganus guttatus) (Thuộc: “Chương trình bảo tồn và sử dụng bền vững nguồn gen đến năm 2025, định hướng đến năm 2030”)",
+            "role": "Key Member",
+            "project_code": "NVQG-2019/DA.18",
+            "management_level": "Bộ Khoa học và Công nghệ",
+            "period": "9/2019 – 8/2022 gia hạn đến tháng 8/2023",
+            "acceptance_date": "07/11/2023",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Vi sinh vật học môi trường",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Bách khoa Hà Nội",
+            "publish_year": "",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 3: 70-95; Chương 7: 180-195; Chương 8: 197-207",
+            "verification_document_id": "Giấy xác nhận số 1192/GXN-ĐHSP"
+        },
+        {
+            "title": "Giáo trình Công nghệ Vi sinh vật trong xử lý ô nhiễm môi trường",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Huế",
+            "publish_year": "2023",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 2: 26-48; Chương 5: 135-160",
+            "verification_document_id": "Giấy xác nhận số 1193/GXN-ĐHSP"
+        },
+        {
+            "title": "Đặc điểm sinh học sinh sản và kỹ thuật sản xuất giống tôm đất (Metapenaeus ensis De Haan, 1844) ở Thừa Thiên Huế.",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Huế",
+            "publish_year": "2024",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1: 7-15; Chương 2: 16-25",
+            "verification_document_id": "Giấy xác nhận số 1228/GXN-ĐHSP"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Dự án CDAE",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 193/QĐ-ĐHH ngày 14/02/2020; Quyết định số 1073/QĐ-ĐHH ngày 22/7/2023",
+            "certifying_authority": "Đại học Huế",
+            "implementation_document_id": "Quyết định số 224/QĐ-ĐHH Ngày 01/03/2022",
+            "notes": "(mở ngành đào tạo Sinh thái Nông nghiệp trình độ thạc sĩ)"
+        },
+        {
+            "title": "Hội đồng Khoa học và Đào tạo, Đại học Huế nhiệm kỳ 2021-2026",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 1466/QĐ-ĐHH Ngày 13/10/2022",
+            "certifying_authority": "Đại học Huế",
+            "implementation_document_id": "Hội đồng Khoa học và Đào tạo được thành lập",
+            "notes": ""
+        },
+        {
+            "title": "Hội đồng đạo đức trong nghiên cứu Y sinh học giai đoạn 2021-2025",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 1138/QĐ-ĐHYD Ngày 10/5/2021",
+            "certifying_authority": "Trường ĐH YD, Đại học Huế",
+            "implementation_document_id": "Hội đồng nghiên cứu Y sinh học được thành lập và hoạt động",
+            "notes": ""
+        },
+        {
+            "title": "Hội đồng Tư vấn về đạo đức với động vật trong nghiên cứu nhiệm kỳ 2021-2026",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 451/QĐ-ĐHH ngày 22/4/2021",
+            "certifying_authority": "Đại học Huế",
+            "implementation_document_id": "Hội đồng được thành lập và hoạt động",
+            "notes": ""
+        }
+    ]
+}

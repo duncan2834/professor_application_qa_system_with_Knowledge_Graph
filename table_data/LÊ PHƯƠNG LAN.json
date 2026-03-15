@@ -1,0 +1,458 @@
+{
+    "papers": [
+        {
+            "title": "Tháo chạy vốn và những vấn đề cần được các quốc gia quan tâm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thị trường TCTT ISSN: 1859-2805",
+            "journal_ranking": "",
+            "citation_count": 12,
+            "volume_issue_pages": "36-41",
+            "published_date": "6/2008"
+        },
+        {
+            "title": "“Hiệu quả kinh tế nhờ quy mô” trong vấn đề mua bán sáp nhập doanh nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kinh tế đối ngoại ISSN: 1859-4050",
+            "journal_ranking": "",
+            "citation_count": 32,
+            "volume_issue_pages": "72-81",
+            "published_date": "10/2008"
+        },
+        {
+            "title": "Capital Flight and Matters of Concerns",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc tế “Global Finance and Banking Management\", NXB Bách Khoa ISBN: 978-604-911-030-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "IV: 114-119",
+            "published_date": "12/2011"
+        },
+        {
+            "title": "Restructuring Vietnam Security Market in the context of global economic recession",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc tế \"Macroeconomic Policy Financial Development and Financial Fragility\", NXB Bách Khoa ISBN: 978-604-911-066-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "264-271",
+            "published_date": "04/2012"
+        },
+        {
+            "title": "Portfolio management performance - a case study of PXP Vietnam Fund",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc tế “Financial markets and macroeconomic policy\", NXB Bách Khoa ISBN: 978-604-430-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "338-347",
+            "published_date": "03/2013"
+        },
+        {
+            "title": "An application of Z-score model in evaluating bankruptcy possibility of manufacturing companies listed on Vietnam stock exchanges in 2010-2012 period",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc tế “Financial Development and Social Enterprise\", NXB Bách Khoa ISBN: 978-604-911-518-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "108-126",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "An application of different methods in calculating expected rates of return of steel manufacturing firms listed on Vietnam stock exchanges in 2010-2013 period",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc tế “Public Finance and Financial Market Development », NXB Bách Khoa ISBN: 978-604-93-8876-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "108-119",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Áp dụng mô hình định giá tài sản để xác định lợi suất kỳ vọng của cổ phiếu: trường hợp các doanh nghiệp sản xuất thép niêm yết trên thị trường chứng khoán Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kinh tế đối ngoại ISSN: 1859-4050",
+            "journal_ranking": "",
+            "citation_count": 71,
+            "volume_issue_pages": "103-115",
+            "published_date": "5/2015"
+        },
+        {
+            "title": "A study of macroeconomic effects of M&As-Vietnam and international evidence",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc tế \"Development of emerging financial markets\", NXB Bách Khoa ISBN: 978-604-93-8877-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "198-220",
+            "published_date": "11/2015"
+        },
+        {
+            "title": "An empirical test of calendar effects in Vietnam Stock Market",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kinh tế đối ngoại ISSN: 1859-4050",
+            "journal_ranking": "",
+            "citation_count": 80,
+            "volume_issue_pages": "28-39",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Nghiên cứu các nhân tố ảnh hưởng tới khả năng có việc làm của sinh viên ĐH ngoại thương sau khi tốt nghiệp",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế đối ngoại ISSN: 1859-4050",
+            "journal_ranking": "",
+            "citation_count": 84,
+            "volume_issue_pages": "125-136",
+            "published_date": "8/2016"
+        },
+        {
+            "title": "Nghiên cứu các nhân tố ảnh hưởng đến giá trị doanh nghiệp ngành sản xuất công nghiệp niêm yết trên thị trường chứng khoán Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế đối ngoại ISSN: 1859-4050",
+            "journal_ranking": "",
+            "citation_count": 85,
+            "volume_issue_pages": "50-69",
+            "published_date": "9/2016"
+        },
+        {
+            "title": "Kinh nghiệm triển khai công tác cố vấn học tập ở một số trường đại học trên thế giới và bài học kinh nghiệm cho trường Đại học Ngoại thương",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế đối ngoại ISSN: 1859-4050",
+            "journal_ranking": "",
+            "citation_count": 97,
+            "volume_issue_pages": "172-181",
+            "published_date": "8/2017"
+        },
+        {
+            "title": "Ảnh hưởng của thông báo chi trả cổ tức đến lợi nhuận bất thường của công ty dược niêm yết trên thị trường chứng khoán Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756 (0868-3778)",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "224-229",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Ứng dụng công nghệ sinh trắc học của ngân hàng Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756 (0868-3778)",
+            "journal_ranking": "",
+            "citation_count": 15,
+            "volume_issue_pages": "277-281",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Tác động của chính sách tiền tệ đến bong bóng bất động sản tại Hà Nội",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý và Kinh tế quốc tế ISSN: 2615-9848",
+            "journal_ranking": "",
+            "citation_count": 150,
+            "volume_issue_pages": "35-49",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Toàn cảnh thị trường bất động sản Việt Nam 2022 và triển vọng 2023",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý và Kinh tế quốc tế ISSN:2615-9848",
+            "journal_ranking": "",
+            "citation_count": 151,
+            "volume_issue_pages": "1-18",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Testing for bubbles in Vietnamese stock market: An application of Augmented Dickey-Fuller test",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Finance and Accounting Research ISSN: 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "06(19): 72-76",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "A study on the impact of derivatives trading activity on the underlying asset returns in Vietnamese stock market",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí công thương ISSN: 0866-7756 (0868-3778)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12 05-2023: 396-402",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Factors affecting individual investors' trust in Vietnamese listed stock investments - an application of PLS-SEM model",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance and Accounting Research ISSN: 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "03 (22): 73-78",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Examining stock bubbles in Vietnam during the period 2005-2021",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Southeast Asian Studies ISSN: 0868-2739",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12-2023: 72-88",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Forecasting VN-Index on Ho Chi Minh Stock Exchange - An application of Machine Learning Models",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Economic Review ISSN: 0868-2984",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "347: 44-66",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Các nhân tố ảnh hưởng đến tỷ lệ tiền gửi không kỳ hạn tại các ngân hàng thương mại đã niêm yết trên thị trường chứng khoán Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Đông Nam Á ISSN: 0868-2739",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2 (287) 45-57",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Các yếu tố tác động đến chênh lệch lợi suất trái phiếu doanh nghiệp tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và dự báo ISSN: 1859-4972",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "10: 27-30",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Mối quan hệ giữa tỷ lệ sở hữu nước ngoài và quản trị nước ngoài và hiệu quả hoạt động của doanh nghiệp niêm yết tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và dự báo e-ISSN: 2734-9365",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "31/5/2024"
+        },
+        {
+            "title": "Vietnamese Individual Investors' Selection of Securities - What can influence it?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asia - Pacific Economic Review ISSN: 0868-3808",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5/2024: 149-151",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "So sánh độ tin cậy của các mô hình định giá",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "10: 386-392",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Ảnh hưởng của tỷ lệ đòn bẩy tài chính lên phương sai lợi nhuận tại các doanh nghiệp niêm yết trên HOSE",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính ISSN: 2615-8973",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "826: 144-148",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Investigating the influential factors on price bubbles of villas and row houses in Hanoi between 2017 - 2023",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asia - Pacific Economic Review ISSN:0868-3808",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số cuối tháng 6/2024: 147-150",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Impact of covered warrant issuance on underlying stocks of listed companies in Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Economic and Banking Studies ISSN:2734-9853",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7(4.1): 1-14",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Determinants of Real Estate Bubbles in Thach That, Hanoi, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNU Journal of Science Policy and Management Studies p-2615-9295 e-2588-1116",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "40(2): 68-82",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Examining the effect of entrepreneurial leadership on employees' innovative behavior in SME hotels: A mediated moderation model",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Hospitality Management ISSN: 0278-4319",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 102,
+            "volume_issue_pages": "103-142",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Factors Affecting the Volatility of Post-IPO Stock Prices: Evidence from State-Owned Enterprises in Hanoi Stock Exchange",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Journal of Asian Finance, Economics and Business ISSN: 2288-4637 (p) 2288-4645 (e)",
+            "journal_ranking": "ESCI-ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "9(5): 409-419",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Trading behaviours during stock market bubbles: evidence from Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Economics Letters ISSN: 1350-4851 (print) 1466-4291 (web)",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "31(7): 623-629",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Impacts of monetary policies on the real estate bubble in Hanoi, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Investment Management and Financial Innovations ISSN: 1810-4967 E-ISSN:1812-9358",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "20(1): 228-237",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "How microeconomic factors influence Vietnam listed manufacturing firm value from 2008 to 2015?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Investment Management and Financial Innovations ISSN:1810-4967 E-ISSN:1812-9358",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "30(2): 267-285",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Effects of employee stock ownership plans on firm performance - evidence from listed commercial banks of Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Banks and Bank System ISSN:1816-7403 E-ISSN:1991-7074",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "18(2): 202-213",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "What inluences apartment price bubble in Hanoi, Vietnam?",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Financial Studies ISSN: 2227-7072",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "11(3): 105-125",
+            "published_date": "8/2023"
+        },
+        {
+            "title": "Impacts of macroeconomic factors on real estate bubble in Vietnam's big cities with industrial zones",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Economics and Business Research, Inderscience Publishers ISSN e-1756-9869 ISSN p-1756-9850",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "27(3): 511-532",
+            "published_date": "4/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Các yếu tố ảnh hưởng đến khả năng có việc làm sau khi tốt nghiệp của sinh viên trường ĐH Ngoại thương",
+            "role": "Principal Investigator",
+            "project_code": "Mã: NT2015-60",
+            "management_level": "Cấp cơ sở",
+            "period": "7/2015-9/2016",
+            "acceptance_date": "27/10/2016",
+            "rating": "Khá"
+        },
+        {
+            "title": "Giải pháp thúc đẩy phát triển chuỗi cung ứng dịch vụ Logistics trên địa bàn tỉnh Quảng Ninh",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp Tỉnh Quảng Ninh",
+            "period": "5/2021-5/2023",
+            "acceptance_date": "5/9/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu mối quan hệ giữa bong bóng chứng khoán và bong bóng bất động sản tại Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "B2022-NTH-03",
+            "management_level": "Cấp Bộ GDĐT",
+            "period": "1/1/2022-31/12/2023",
+            "acceptance_date": "13/12/2023",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Quản trị danh mục đầu tư",
+            "type": "Reference Book",
+            "publisher": "NXB Bách Khoa",
+            "publish_year": "2020",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Quyết định số 2036/QĐ-ĐHNT của Hiệu trưởng trường ĐH Ngoại thương, ngày 24/6/2024 về việc phê duyệt danh mục sách phục vụ giảng dạy"
+        },
+        {
+            "title": "Các nhân tố vi mô ảnh hưởng tới giá trị doanh nghiệp niêm yết trong ngành sản xuất công nghiệp ở Việt Nam",
+            "type": "Monograph",
+            "publisher": "NXB Kinh tế quốc dân",
+            "publish_year": "2020",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Quyết định số 2036/QĐ-ĐHNT của Hiệu trưởng trường ĐH Ngoại thương, ngày 24/6/2024 về việc phê duyệt danh mục sách phục vụ giảng dạy"
+        },
+        {
+            "title": "Stock bubble and real estate bubble in Vietnam",
+            "type": "Reference Book",
+            "publisher": "NXB Kinh tế quốc dân",
+            "publish_year": "2023",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "105-186",
+            "verification_document_id": "Quyết định số 2036/QĐ-ĐHNT của Hiệu trưởng trường ĐH Ngoại thương, ngày 24/6/2024 về việc phê duyệt danh mục sách phục vụ giảng dạy"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

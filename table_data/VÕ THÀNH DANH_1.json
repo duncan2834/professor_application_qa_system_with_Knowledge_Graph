@@ -1,0 +1,1094 @@
+{
+    "papers": [
+        {
+            "title": "The role of prices in stimulating Vietnamese rice economy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Centre for ASEAN Studies, Universiteit Antwerpen, Belgium; (ISSN: 2031-0641)",
+            "journal_ranking": "",
+            "citation_count": 8,
+            "volume_issue_pages": "52, 1-12",
+            "published_date": "2007"
+        },
+        {
+            "title": "Ảnh hưởng của thay đổi lãi suất đến hoạt động tín dụng của các ngân hàng thương mại",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển kinh tế, Đại học Kinh tế TP. Hồ Chí Minh",
+            "journal_ranking": "",
+            "citation_count": 230,
+            "volume_issue_pages": "29-34",
+            "published_date": "2009"
+        },
+        {
+            "title": "Xuất khẩu nông sản Việt Nam trong bối cảnh tự do thương mại với Trung Quốc",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tê",
+            "journal_ranking": "",
+            "citation_count": 360,
+            "volume_issue_pages": "41-48",
+            "published_date": "2008"
+        },
+        {
+            "title": "Tổn thất kinh tế của ô nhiễm nước ngầm ở ĐBSCL",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 6,
+            "volume_issue_pages": "9, 132-141",
+            "published_date": "2008"
+        },
+        {
+            "title": "Khả năng tiếp cận tín dụng ngân hàng của các doanh nghiệp tư nhân ở ĐBSCL",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tê",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "367, 27-37",
+            "published_date": "2008"
+        },
+        {
+            "title": "Chính sách tiền tệ: Kiểm soát lượng cung tiền hay kiểm soát lạm phát?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển kinh tế, Đại học Kinh tế TP. Hồ Chí Minh",
+            "journal_ranking": "",
+            "citation_count": 216,
+            "volume_issue_pages": "37-40",
+            "published_date": "2008"
+        },
+        {
+            "title": "Đánh giá sự hài lòng của doanh nghiệp đối với cơ chế một cửa liên thông tại TP. Cần Thơ",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 10,
+            "volume_issue_pages": "185-194",
+            "published_date": "2008"
+        },
+        {
+            "title": "Duy trì nền sản xuất lúa bền vững",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "198-202",
+            "published_date": "2004"
+        },
+        {
+            "title": "Nguyên nhân hộ nông dân nghèo ở Trà Vinh và Sóc Trăng giảm diện tích đất canh tác",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế",
+            "journal_ranking": "",
+            "citation_count": 269,
+            "volume_issue_pages": "43-46",
+            "published_date": "2000"
+        },
+        {
+            "title": "Báo cáo lưu chuyển tiền tệ: Một công cụ phân tích vốn bằng tiền",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kế toán",
+            "journal_ranking": "",
+            "citation_count": 14,
+            "volume_issue_pages": "14 & 15, 200-202 & 248-250",
+            "published_date": "1997"
+        },
+        {
+            "title": "Investigating technical and scale efficiencies of the rice-shrimp system in the Mekong Delta, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Egyptian Journal of Aquatic Biology & Fisheries Zoology Department, Faculty of Science, Ain Shams University, Cairo, Egypt; (ISSN 1110 6131)",
+            "journal_ranking": "Scopus (IF: 0,29; Q3)",
+            "citation_count": 26,
+            "volume_issue_pages": "26(5), 897-909",
+            "published_date": "2022"
+        },
+        {
+            "title": "Intensive and extensive rice farm adaptations in salinity-prone areas of the Mekong Delta",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Climate and Development, Taylor & Francis Group (ISSN: (Print 1756-5529) (Online 1756-5537)",
+            "journal_ranking": "ISI (Q1)",
+            "citation_count": 1,
+            "volume_issue_pages": "1-15",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effect of climatic factors on farm income of rain-fed and irrigated farming households in Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Water and Environment Journal, (Print-ISSN: 17476585)",
+            "journal_ranking": "ISI (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "1-13",
+            "published_date": "2022"
+        },
+        {
+            "title": "An Economic Valuation of Forest Ecosystem Services: A Choice Modeling Application to the Mekong Delta Project in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business (Print ISSN: 2288-4637/ Online ISSN 2288-4645)",
+            "journal_ranking": "ISI",
+            "citation_count": 6,
+            "volume_issue_pages": "8(8), 465-474",
+            "published_date": "2021"
+        },
+        {
+            "title": "Drainage Improvement Project : Cost and Benefit Analysis in the Mekong Delta, Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "J. Fac. Agr., Kyushu Univ",
+            "journal_ranking": "ISI",
+            "citation_count": 1,
+            "volume_issue_pages": "62(1), 189-196",
+            "published_date": "2017"
+        },
+        {
+            "title": "Household demand and supply for clean groundwater in the Mekong Delta, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Renewables: Wind, Water, and Solar",
+            "journal_ranking": "Springer Open",
+            "citation_count": 12,
+            "volume_issue_pages": "2(4), 2-12",
+            "published_date": "2016"
+        },
+        {
+            "title": "Household economic losses of urban flooding: Case study of Can Tho City, Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Southeast Asia Review of Economics and Business (ISSN: 2472-9299 (Print); 2472-9302 (Online)",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "1",
+            "published_date": "2017"
+        },
+        {
+            "title": "Estimating residents' willingness to pay for groundwater protection in the Vietnamese Mekong Delta",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Water Science Journal (Print-ISSN: 2190-5487; e-ISSN: 2190-5495)",
+            "journal_ranking": "ISI (Q1)",
+            "citation_count": 13,
+            "volume_issue_pages": "7, 421-431",
+            "published_date": "2014"
+        },
+        {
+            "title": "Using a Risk Cost-Benefit Analysis for a Sea Dike to Adapt to the Sea Level in the Vietnamese Mekong River Delta",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Climate (ISSN 2225-1154)",
+            "journal_ranking": "ISI (Q2)",
+            "citation_count": 27,
+            "volume_issue_pages": "2, 78-102",
+            "published_date": "2014"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến kết quả phân hạng sản phẩm OCOP tỉnh An Giang",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Nông nghiệp Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 21,
+            "volume_issue_pages": "21(2), 246-254",
+            "published_date": "2023"
+        },
+        {
+            "title": "Khoa học – Công nghệ và tăng trưởng kinh tế: Bài học Quốc tế và trường hợp Việt Nam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học Quốc gia: Phát triển Khoa học và Công nghệ phục vụ sự nghiệp CNH-HĐH trong điều kiện Kinh tế thị trường định hướng xã hội chủ nghĩa và hội nhập Quốc tế, Đại học Quốc gia TP.HCM",
+            "journal_ranking": "",
+            "citation_count": 412,
+            "volume_issue_pages": "412-430",
+            "published_date": "2022"
+        },
+        {
+            "title": "Lựa chọn các kỹ thuật trồng nấm rơm của các nông hộ trồng nấm rơm ở Đồng bằng sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Đại học Mở TP.HCM-HCMCOUJS",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "17(1), 19-30",
+            "published_date": "2022"
+        },
+        {
+            "title": "Analysis of the technical efficiency of straw mushroom households in the Mekong Delta",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu khoa học: International Conference on Investment and Development for Agricultural Markets and Rural Tourism, Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 315,
+            "volume_issue_pages": "315-333",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu nhu cầu gạo an toàn của người dân tại thành phố Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 37,
+            "volume_issue_pages": "37, 8-15",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nhu cầu đối với sản phẩm rau thương hiệu sinh thái của người tiêu dùng ở Kiên Giang",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Đại học Mở TP.HCM-HCMCOUJS",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "17(4), 5-15",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phân tích mức độ tổn thương xã hội do xâm nhập mặn của các hộ sản xuất lúa ở Đồng bằng sông Cửu Long",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Tài nguyên và Môi trường",
+            "journal_ranking": "",
+            "citation_count": 40,
+            "volume_issue_pages": "40, 41-58",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tác động của lũ lụt đến thu nhập hộ trồng lúa tại huyện Châu Phú, tỉnh An Giang",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "3D, 184-191",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phân tích hiệu quả kinh doanh của doanh nghiệp tỉnh Vĩnh Long",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "1D, 252-258",
+            "published_date": "2022"
+        },
+        {
+            "title": "Thực trạng công nghiệp hoá, hiện đại hoá nông nghiệp, nông thôn ở Việt Nam và Đồng bằng sông Cửu Long",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số Chuyên đề, SDMD, 191-200",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phân tích mức độ tổn thương xã hội do xâm nhiễm mặn của các hộ sản xuất lúa tại tỉnh Bạc Liêu",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Đại học Cửu Long",
+            "journal_ranking": "",
+            "citation_count": 26,
+            "volume_issue_pages": "26, 3-21",
+            "published_date": "2022"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến tăng trưởng kinh tế tỉnh Vĩnh Long",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Đại học Cửu Long",
+            "journal_ranking": "",
+            "citation_count": 23,
+            "volume_issue_pages": "23, 26-37",
+            "published_date": "2021"
+        },
+        {
+            "title": "Lựa chọn mô hình sản xuất của hộ trồng lúa trong điều kiện xâm nhập mặn: Trường hợp Cà Mau và Sóc Trăng",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 37,
+            "volume_issue_pages": "37(3D), 271-280",
+            "published_date": "2021"
+        },
+        {
+            "title": "Lựa chọn mô hình sản xuất của hộ trồng lúa trong điều kiện xâm nhập mặn ở Đồng bằng sông Cửu Long",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tê & Phát triển",
+            "journal_ranking": "",
+            "citation_count": 297,
+            "volume_issue_pages": "297, 74-82",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phân tích mức độ tôn thương xã hội do xâm nhập mặn của các hộ sản xuất lúa tại tỉnh Kiên Giang",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 8,
+            "volume_issue_pages": "08(129), 89-98",
+            "published_date": "2021"
+        },
+        {
+            "title": "Hiệu quả kinh tế sản xuất nấm rơm ở Đồng bằng sông Cửu Long",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "2D, 211-219",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đề xuất cơ sở quy hoạch vùng trồng nấm rơm ở Đồng bằng sông Cửu Long",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Đại học Đồng Tháp",
+            "journal_ranking": "",
+            "citation_count": 10,
+            "volume_issue_pages": "10(1), 49-70",
+            "published_date": "2021"
+        },
+        {
+            "title": "Hiệu quả kinh tế của các hộ trồng lúa ở tỉnh Bến Tre",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo",
+            "journal_ranking": "",
+            "citation_count": 36,
+            "volume_issue_pages": "36(790), 31-35",
+            "published_date": "2021"
+        },
+        {
+            "title": "Selection of growing techniques for straw mushroom household in the Mekong, Delta: Marginal analysis approach",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the second international Conference in Business, Economics & Finance; Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "157-170",
+            "published_date": "2021"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến nhận thức rủi ro lũ lụt của nông hộ ở Đồng bằng sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "56(4D), 248-255",
+            "published_date": "June, 2020"
+        },
+        {
+            "title": "Kiểm định tính năng động dài hạn của các yếu tố ảnh hưởng đến tăng trưởng nông nghiệp Đồng bằng sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Đại học Mở TP.HCM (HCMCOUJS)",
+            "journal_ranking": "",
+            "citation_count": 15,
+            "volume_issue_pages": "15(1), 56-67",
+            "published_date": "2019"
+        },
+        {
+            "title": "Phân tích tăng trưởng năng suất các yếu tố tổng hợp của ngành nông nghiệp Đồng bằng sông Cửu Long giai đoạn 1990-2015",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "56(3D), 213-222",
+            "published_date": "June, 2020"
+        },
+        {
+            "title": "Giải pháp phát triển ngành công nghiệp hỗ trợ thành phố Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 56,
+            "volume_issue_pages": "56(1D), 222-230",
+            "published_date": "February, 2020"
+        },
+        {
+            "title": "Phân tích các yếu tố ảnh hưởng đến năng suất lúa vụ Đông Xuân tại vùng sinh thái nông nghiệp ven biển Tây Đồng bằng sông Cửu Long",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 55,
+            "volume_issue_pages": "55(3D), 99-108",
+            "published_date": "2019"
+        },
+        {
+            "title": "Phân tích các yếu tố ảnh hưởng đến tăng trưởng nông nghiệp thành phố Cần Thơ",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 54,
+            "volume_issue_pages": "54(6D), 206-214",
+            "published_date": "2018"
+        },
+        {
+            "title": "Các yếu tố tác động đến khả năng tiếp cận tín dụng thương mại: Trường hợp mua chịu vật tư nông nghiệp của hộ nuôi tôm trên địa bàn tỉnh Kiên Giang",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 54,
+            "volume_issue_pages": "54(1D), 193-202",
+            "published_date": "2018"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến tăng trưởng kinh tế thành phố Cần Thơ",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "54(4D), 200-211",
+            "published_date": "2018"
+        },
+        {
+            "title": "Giải pháp phát triển ngành công nghiệp dệt may thành phố Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 54,
+            "volume_issue_pages": "54(1D), 164-174",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nhận dạng các yếu tố hình thành văn hoá doanh nghiệp tại ngân hàng TMCP xuất nhập khẩu Việt Nam-Chi nhánh Cần Thơ",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 42,
+            "volume_issue_pages": "42, 31-41",
+            "published_date": "2016"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến hiệu quả hoạt động kinh doanh của doanh nghiệp nhỏ và vừa tại tỉnh Bạc Liêu",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 5,
+            "volume_issue_pages": "38, 34-40",
+            "published_date": "2015"
+        },
+        {
+            "title": "Những yếu tố ảnh hưởng đến cầu đầu tư máy móc thiết bị của doanh nghiệp tại thành phố Cần Thơ",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "40, 31-38",
+            "published_date": "2015"
+        },
+        {
+            "title": "Đánh giá năng lực thích nghi đối với xâm nhập mặn trong sản xuất nông nghiệp tại các vùng ven biển tỉnh Trà Vinh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "36, 64-71",
+            "published_date": "2015"
+        },
+        {
+            "title": "The impact of monitoring activities and social activitiess on the repayment problems of group lending program of Vietnam bank for social policy in Mekong Delta",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học: Phát triển kinh tế-xã hội Đồng bằng sông Cửu Long, Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 481,
+            "volume_issue_pages": "481-494",
+            "published_date": "2015"
+        },
+        {
+            "title": "Anh hưởng của văn hoá doanh nghiệp đến hiệu quả tổ chức của ngân hàng TMCP xuất nhập khẩu Việt Nam-Chi nhánh Cần Thơ",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học: Phát triển kinh tế-xã hội Đồng bằng sông Cửu Long, Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 254,
+            "volume_issue_pages": "254-275",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu và xây dựng khung năng lực cán bộ, công chức thành phố Cần Thơ",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 36,
+            "volume_issue_pages": "36, 74-83",
+            "published_date": "2015"
+        },
+        {
+            "title": "Đánh giá thực trạng năng lực cán bộ, công chức thành phố Cần Thơ",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "38, 130-142",
+            "published_date": "2015"
+        },
+        {
+            "title": "Đánh giá thực trạng và nhu cầu đào tạo cán bộ, công chức thành phố Cần Thơ",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 36,
+            "volume_issue_pages": "36, 52-63",
+            "published_date": "2015"
+        },
+        {
+            "title": "Ứng dụng mô hình Cấu trúc-Thực hiện-Kết quả thị trường (SCP) trong phân tích cấu trúc thị trường cá tra ở Đồng bằng sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "33, 45-51",
+            "published_date": "2014"
+        },
+        {
+            "title": "Thị trường cá tra Việt Nam phân phối thu nhập chuỗi-giá thành sản xuất cá tra nguyên liệu- giải pháp phát triển ngành",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 32,
+            "volume_issue_pages": "32, 38-44",
+            "published_date": "2014"
+        },
+        {
+            "title": "Thực trạng phát triên của doanh nghiệp nhỏ và vừa tại tỉnh Hậu Giang",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế",
+            "journal_ranking": "",
+            "citation_count": 5,
+            "volume_issue_pages": "5(432), 65-72",
+            "published_date": "2014"
+        },
+        {
+            "title": "Phân tích các yếu tố ảnh hưởng đến sự phát triển của kinh tế doanh nghiệp nhỏ và vừa tại tỉnh Hậu Giang",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "27, 33-44",
+            "published_date": "2013"
+        },
+        {
+            "title": "Phân tích cầu đầu tư và xu thế phát triển doanh nghiệp nhỏ và vừa tỉnh Hậu Giang",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "28, 7-16",
+            "published_date": "2013"
+        },
+        {
+            "title": "Farmer's willing-to-adopt on the alternate wetting-drying technology in Bac Lieu province",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học: Giải pháp khai thác tiềm năng kinh tế-xã hội các tỉnh Đồng bằng sông Cửu Long theo hướng liên kết vùng, Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 202,
+            "volume_issue_pages": "202-217",
+            "published_date": "2012"
+        },
+        {
+            "title": "Phân tích hoạt động kinh doanh của hệ thống ngân hàng thương mại cổ phần Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "21a, 158-168",
+            "published_date": "2012"
+        },
+        {
+            "title": "Phân tích các nhân tố ảnh hưởng đến hiệu quả hoạt động kinh doanh của hệ thống ngân hàng thương mại cổ phần Việt Nam giai đoạn 2006-2009",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 21,
+            "volume_issue_pages": "21a, 148-157",
+            "published_date": "2012"
+        },
+        {
+            "title": "So sánh hiệu quả hoạt động của hai hệ thống ngân hàng thương mại nhà nước và cổ phần Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học & đào tạo ngân hàng (ISN 1859-011X)",
+            "journal_ranking": "",
+            "citation_count": 116,
+            "volume_issue_pages": "116-117, 82-92",
+            "published_date": "2012"
+        },
+        {
+            "title": "Hàm cung mía đường ở Đồng bằng sông Cửu Long",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "17b, 43-52",
+            "published_date": "2011"
+        },
+        {
+            "title": "Hiệu quả sản xuất sầu riêng tại tỉnh Tiền Giang",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "20b, 237-247",
+            "published_date": "2011"
+        },
+        {
+            "title": "Phân tích các yếu tố tác động đến tăng trưởng của thành phố Cần Thơ: Cách tiếp cận Tổng năng suất các yếu tố",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 8,
+            "volume_issue_pages": "17b, 120-129",
+            "published_date": "2011"
+        },
+        {
+            "title": "Phân tích các yếu tố ảnh hưởng đến hành vi tiêu dùng rau an toàn tại thành phố Cần Thơ",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 7,
+            "volume_issue_pages": "17b, 113-119",
+            "published_date": "2011"
+        },
+        {
+            "title": "Đánh giá nhận thức của người dân về ô nhiễm nguồn nước sông",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "15b, 38-45",
+            "published_date": "2010"
+        },
+        {
+            "title": "Thiệt hại kinh tế do ô nhiễm nước sông ở ĐBSCL",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ",
+            "journal_ranking": "",
+            "citation_count": 15,
+            "volume_issue_pages": "15b, 264-273",
+            "published_date": "2010"
+        },
+        {
+            "title": "Hiệu quả hoạt động kinh doanh của doanh nghiệp nông nghiệp tỉnh Vĩnh Long",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Quản lý & Kinh tế-Trường Đại học Kinh tê-Đại học Huế",
+            "journal_ranking": "",
+            "citation_count": 24,
+            "volume_issue_pages": "24, 69-83",
+            "published_date": "2022"
+        },
+        {
+            "title": "Economic efficiency of straw mushrooms production at household level in the Mekong Delta",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế; IKSAD GLOBAL Publication; ISBN: 978-625-7464-17.8",
+            "journal_ranking": "",
+            "citation_count": 122,
+            "volume_issue_pages": "122-132",
+            "published_date": "2021"
+        },
+        {
+            "title": "Technical and scale efficiencies of the salinity-induced rice production system in the western coastal region of the Mekong delta, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "VMOST Journal of Social Sciences and Humanities; P-ISBN 2734-9748 – E-ISSN 2815-6471",
+            "journal_ranking": "",
+            "citation_count": 66,
+            "volume_issue_pages": "66 (1), 3-15",
+            "published_date": "April, 2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Cải thiện chuỗi giá trị nấm rơm ở Đồng bằng sông Cửu Long",
+            "role": "Principal Investigator",
+            "project_code": "TNB-DT/14-19/C09",
+            "management_level": "Cấp Nhà nước",
+            "period": "4/2017 - 12/2020",
+            "acceptance_date": "31/5/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tổn thất kinh tế do ô nhiễm nước sông ở ĐBSCL",
+            "role": "Principal Investigator",
+            "project_code": "B2007-16-78TĐ",
+            "management_level": "Cấp Bộ trọng điểm - BGD&ĐT",
+            "period": "8/2007 - 12/2008",
+            "acceptance_date": "24/06/2009",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Xác định nhu cầu tín dụng và phân tích các yếu tố ảnh hưởng đến khả năng tiếp cận tín dụng của các doanh nghiệp tư nhân ở ĐBSCL",
+            "role": "Principal Investigator",
+            "project_code": "B2007-16-67",
+            "management_level": "Cấp Bộ BGD&ĐT",
+            "period": "01/2008 - 12/2008",
+            "acceptance_date": "20/01/2009",
+            "rating": "Khá"
+        },
+        {
+            "title": "So sánh hiệu quả hoạt động của hệ thống ngân hàng thương mại quốc doanh và hệ thống ngân hàng thương mại cổ phần ở ĐBSCL: Cách tiếp cận tổng năng suất các yếu tố",
+            "role": "Principal Investigator",
+            "project_code": "B2010-16-153",
+            "management_level": "Cấp Bộ BGD&ĐT",
+            "period": "3/2010 - 3/2012",
+            "acceptance_date": "10/3/2012",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đánh giá tình trạng mực nước biển dâng và phân tích khả năng thích nghi dựa vào cộng đồng tại các vùng ven biển tỉnh Trà Vinh",
+            "role": "Principal Investigator",
+            "project_code": "40/HĐ-SKHCN",
+            "management_level": "Cấp tỉnh",
+            "period": "8/2011 - 11/2014",
+            "acceptance_date": "25/11/2014",
+            "rating": "Khá"
+        },
+        {
+            "title": "Xây dựng giải pháp phát triển doanh nghiệp nhỏ và vừa trên địa bàn tỉnh Hậu Giang",
+            "role": "Principal Investigator",
+            "project_code": "25/HĐ-SKHCN",
+            "management_level": "Cấp tỉnh",
+            "period": "11/2010 - 6/2013",
+            "acceptance_date": "21/6/2013",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xác định và đề xuất giải pháp phát triển ngành công nghiệp phụ trợ của thành phố Cần Thơ đến năm 2020",
+            "role": "Principal Investigator",
+            "project_code": "12/HĐ-SKHCN",
+            "management_level": "Cấp thành phố",
+            "period": "11/2015 - 11/2017",
+            "acceptance_date": "01/11/2017",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu xây dựng mô hình tăng trưởng kinh tế tỉnh Vĩnh Long đến năm 2030",
+            "role": "Principal Investigator",
+            "project_code": "03/HĐ-2020",
+            "management_level": "Cấp tỉnh",
+            "period": "5/2020 - 11/2021",
+            "acceptance_date": "19/11/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tính khả thi về kinh tế-xã hội của các giải pháp áp dụng giảm thiểu môi trường và tác động của biến đổi khí hậu (E10)",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp trường",
+            "period": "10/2018 - 9/2021",
+            "acceptance_date": "28/12/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Tổng kết 30 năm (1986-2016) phát triển kinh tế xã hội TP. Cần Thơ",
+            "role": "Assistant",
+            "project_code": "06/HĐ-SKHCN",
+            "management_level": "Cấp thành phố",
+            "period": "8/2014 - 7/2015",
+            "acceptance_date": "24/7/2015",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Đánh giá tác động chính sách đổi mới và chuyển giao kỹ thuật ở các vùng sản xuất lúa không thuận lợi ở Đông Nam Á (Chương trình CURE)",
+            "role": "Principal Investigator",
+            "project_code": "AMCOL00321NCKT",
+            "management_level": "Đề tài quốc tế & Cấp trường",
+            "period": "6/2018 – 5/2019",
+            "acceptance_date": "09/02/2022",
+            "rating": "Hoàn thành"
+        },
+        {
+            "title": "Tăng trưởng kinh tế TP. Cần Thơ giai đoạn 2000-2007: Từ góc độ phân tích đóng góp của các nhân tố sản xuất",
+            "role": "Principal Investigator",
+            "project_code": "27T/HĐ-QLKH 2009",
+            "management_level": "Cấp trường",
+            "period": "6/2009 - 5/2010",
+            "acceptance_date": "25/12/2010",
+            "rating": "Giải Ba SV NCKH"
+        },
+        {
+            "title": "Nghiên cứu xây dựng Bộ công cụ nhận dạng tiêu chí đánh giá và xếp hạng các sản phẩm tham gia Chương trình Mỗi xã một sản phẩm (OCOP) và các giải pháp phát triển đa dạng, kết hợp nâng hạng cho sản phẩm đạt chứng nhận OCOP tỉnh An Giang",
+            "role": "Principal Investigator",
+            "project_code": "373.2022.06",
+            "management_level": "Cấp tỉnh",
+            "period": "06/2022 - 05/2023",
+            "acceptance_date": "Đang thực hiện",
+            "rating": ""
+        },
+        {
+            "title": "Enhancing adaptive capacity to climate change of vulnerable communities in the Mekong Delta of Vietnam",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Đề tài quốc tế (SEAMEO-SEARCA)",
+            "period": "5/2017-3/2018",
+            "acceptance_date": "31/3/2018",
+            "rating": "Hoàn thành"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Kế toán phân tích",
+            "type": "Textbook",
+            "publisher": "NXB Thống kê",
+            "publish_year": "2000",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Tất cả các chương",
+            "verification_document_id": "1884/GXN-ĐHCT"
+        },
+        {
+            "title": "Phát triển kinh tế Đồng bằng sông Cửu Long: Thành tựu và thách thức",
+            "type": "Monograph",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2016",
+            "num_authors": 23,
+            "is_editor_in_chief": true,
+            "compiled_pages": "chương 9, 10",
+            "verification_document_id": "1879/GXN-ĐHCT"
+        },
+        {
+            "title": "Phân tích chuỗi giá trị các sản phẩm nông nghiệp ở Đồng bằng sông Cửu Long",
+            "type": "Monograph",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2016",
+            "num_authors": 14,
+            "is_editor_in_chief": true,
+            "compiled_pages": "chương 1, 3, 4, 8, 9, 10",
+            "verification_document_id": "1880/GXN-ĐHCT"
+        },
+        {
+            "title": "Groundwater and environment policies for Vietnam's Mekong delta",
+            "type": "Monograph",
+            "publisher": "Springer",
+            "publish_year": "2019",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Tất cả các chương",
+            "verification_document_id": "1878/GXN-ĐHCT"
+        },
+        {
+            "title": "Giáo trình Phân tích chi phí lợi ích",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2020",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "37-46, 113-127",
+            "verification_document_id": "1885/GXN-ĐHCT"
+        },
+        {
+            "title": "Chuỗi giá trị nấm rơm ở Đồng bằng sông Cửu Long",
+            "type": "Monograph",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2020",
+            "num_authors": 12,
+            "is_editor_in_chief": true,
+            "compiled_pages": "chương 1, 2, 6, 7, 8, 9",
+            "verification_document_id": "1881/GXN-ĐHCT"
+        },
+        {
+            "title": "Môi trường và nông nghiệp Đồng bằng sông Cửu Long: Phân tích kinh tế",
+            "type": "Monograph",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2021",
+            "num_authors": 13,
+            "is_editor_in_chief": true,
+            "compiled_pages": "chương 6, 7, 8, 9, 10, 11",
+            "verification_document_id": "1882/GXN-ĐHCT"
+        },
+        {
+            "title": "Tác động của xâm nhập mặn đến các mô hình sử dụng đất ĐBSCL",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "chương 3, 8",
+            "verification_document_id": "1883/GXN-ĐHCT"
+        },
+        {
+            "title": "Environmental Change and Agricultural Sustainability in the Mekong Delta (Chương sách)",
+            "type": "Monograph",
+            "publisher": "Springer",
+            "publish_year": "2011",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "chapter 11, 181-206",
+            "verification_document_id": "2169/GXN-ĐHCT"
+        },
+        {
+            "title": "Cost-Benefit Studies of Natural Resource Management in Southeast Asia (Chương sách)",
+            "type": "Monograph",
+            "publisher": "Springer",
+            "publish_year": "2015",
+            "num_authors": 1,
+            "is_editor_in_chief": false,
+            "compiled_pages": "chapter 16, 345-368",
+            "verification_document_id": "2170/GXN-ĐHCT"
+        },
+        {
+            "title": "Giáo trình Kinh tế vùng",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "20-165",
+            "verification_document_id": "2035/GXN-ĐHCT"
+        },
+        {
+            "title": "Lợi thế cạnh tranh ngành: Cách tiếp cận kinh tế vùng",
+            "type": "Monograph",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bản",
+            "verification_document_id": "2222/GXN-ĐHCT"
+        }
+    ],
+    "patents": [
+        {
+            "title": "Giấy chứng nhận đăng ký quyền tác giả do Cục Bản quyền tác giả về “Ứng dụng 2_Ứng dụng đánh giá, phân hạng sản phẩm OCOP tỉnh An Giang (thuộc Bộ công cụ nhận dạng sản phẩm OCOP tỉnh An Giang)\"",
+            "issuing_authority": "Cục bản quyền tác giả",
+            "issue_date": "23/11/2023",
+            "is_main_inventor": true,
+            "num_inventors": 2
+        }
+    ],
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng CTĐT đại học ngành Kinh tế nông nghiệp (theo chuẩn AUN)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "",
+            "certifying_authority": "Asean University Network",
+            "implementation_document_id": "AP08CTUJUN13; ký ngày 14/7/2017",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng CTĐT đại học ngành Kinh tế quốc tế (Chương trình chất lượng cao)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Xác nhận Đề án đào tạo chất lượng cao trình độ đại học, số 2897/BGDĐT-GDĐH; ký ngày 16/6/2016",
+            "certifying_authority": "Bộ Giáo dục và Đào tạo thẩm định, Trường Đại học học Cần Thơ",
+            "implementation_document_id": "Thông báo số 1610/TB-ĐHCT v/v xét tuyển Chương trình chất lượng cao; ký ngày 23/7/2019",
+            "notes": ""
+        },
+        {
+            "title": "Tiểu ban Kinh tế trực thuộc Hội đồng Khoa học và Đào tạo Trường Đại học ; Cần Thơ",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định thành lập các tiểu ban chuyên môn trực thuộc Hội đồng Khoa học và Đào tạo Trường Đại học Cần Thơ, số 4170/QĐ-ĐHCT; ký ngày 28/12/2012",
+            "certifying_authority": "Trường Đại học học Cần Thơ",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh các CTĐT đại học",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định thành lập Ban chỉ đạo, tổ thư ký, tổ điều chỉnh CTĐT, số 4946/QĐ-ĐHCT; ký ngày 30/10/2013",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng CTĐT ngành Quản lý kinh tế trình độ thạc sĩ",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định thành lập Tổ soạn thảo CTĐT, số 971/QĐ-ĐHCT; ký ngày 08/4/2016",
+            "certifying_authority": "Quyết định số 667/QĐ-BGDĐT, ký ngày 07/3/2017",
+            "implementation_document_id": "Quyết định ban hành CTĐT trình độ thạc sĩ, số 4802/QĐ-ĐHCT ký ngày 31/10/2016",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh CTĐT đại học ngành Kinh tế Tài nguyên thiên nhiên",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "học ngành Kinh tế tài nguyên thiên nhiên, số 4235/QĐ-ĐHCT; ký ngày 26/9/2018; và văn bản số 800/QĐ-ĐHCT, ký ngày 02/3/2023",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Quyết định số 3334/QĐ-ĐHCT; ký ngày 24/8/2022",
+            "notes": ""
+        },
+        {
+            "title": "Thẩm định CTĐT cao học Chính sách công",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định thành lập Hội đồng thẩm định CTĐT trình độ thạc sĩ ngành Chính sách công, số 5520/QĐ-ĐHCT; ký ngày 15/12/2021",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Quyết định ban hành CTĐT trình độ thạc sĩ, số 4682/QĐ-ĐHCT ký ngày 16/10/2019",
+            "notes": ""
+        },
+        {
+            "title": "Thẩm định CTĐT cao học Kinh tế học",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định thành lập Hội đồng thẩm định CTĐT trình độ thạc sĩ ngành Kinh tế học, số 1231/QĐ-ĐHCT; ký ngày 07/5/2014",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Quyết định ban hành CTĐT trình độ thạc sĩ, số 3670/QĐ-ĐHCT ký ngày 10/10/2015",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng CTĐT tiến sĩ Quản trị kinh doanh",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Văn bản số758/QĐ-ĐHCT về thành lập tổ soạn thảo để án mở ngành tiến sĩ QTKD, ngày 27/02/2013",
+            "certifying_authority": "Quyết định số 2119/QĐ-BGDĐT, ký ngày 17/6/2013",
+            "implementation_document_id": "Quyết định ban hành CTĐT trình độ tiến sĩ, số 4194/QĐ-ĐHCT ký ngày 12/11/2015",
+            "notes": ""
+        },
+        {
+            "title": "Nghiên cứu tính khả thi về mặt kinh tế-xã hội của các giải pháp áp dụng giảm thiểu ô nhiễm môi trường và tác động của biến đổi khí hậu-E10",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Hợp đồng thực hiện Chương trình NCKH trong Dự án Nâng cấp trường Đại học Cần Thơ số 49/HĐ.VN14P6-NCKH-2018; ký ngày 31/10/2018",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Đánh giá vai trò của cộng đồng và thể chế đối với chính sách quản lý nước của hệ thống canh tác nông nghiệp trong bối cảnh thời tiết cực đoan và suy thoái môi trường ở ĐBSCL (đề tài cấp trường-E11)",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Hợp đồng thực hiện Chương trình NCKH trong Dự án Nâng cấp trường Đại học Cần Thơ số 50/HĐ.VN14P6-NCKH-2018; ký ngày 31/10/2018",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "",
+            "notes": ""
+        }
+    ]
+}

@@ -1,0 +1,1372 @@
+{
+    "papers": [
+        {
+            "title": "Hiệu quả phục hồi liệt sau đột quỵ của phương pháp châm cứu cải tiến",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 11, số 2, trang 26-34",
+            "published_date": "4/2007"
+        },
+        {
+            "title": "Hiệu quả phục hồi vận động sau đột quỵ của thể châm cải tiến phối hợp tập vận động chủ động",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 12, số 4, trang 18-27",
+            "published_date": "10/2008"
+        },
+        {
+            "title": "Hiệu quả phục hồi vận động của phương pháp châm cải tiến kết hợp vận động trị liệu trên bệnh nhân nhồi máu não trên lều",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 1, trang 25-33",
+            "published_date": "01/2013"
+        },
+        {
+            "title": "Tỷ lệ đáp ứng điều trị phục hồi vận động của phương pháp châm cải tiến kết hợp vận động trị liệu trên bệnh nhân nhồi máu não trên lều và yếu tố liên quan",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 2, trang 105-112",
+            "published_date": "4/2013"
+        },
+        {
+            "title": "Hiệu quả thể châm cải tiến kết hợp tái học hỏi vận động trong phục hồi vận động trên bệnh nhân sau đột quỵ tại tỉnh Sóc Trăng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 19, Số 5, trang 129-136",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Khảo sát vai trò của dầu mù u trong quá trình hồi phục vết thương trên mô hình chuột",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Chuyên đề Khoa học cơ bản – Y tế công cộng, phụ bản tập 20, Số 1, trang 67-74",
+            "published_date": "02/2016"
+        },
+        {
+            "title": "Điện di protein hai chiều trong nghiên cứu sàng lọc thuốc trích từ cây dừa cạn lên tế bào u nguyên bào thần kinh",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Chuyên đề nội khoa II, phụ bản tập 20, Số 1, trang 129-135",
+            "published_date": "02/2016"
+        },
+        {
+            "title": "Khảo sát các yếu tố liên quan đến hiệu quả phòng ngừa bán trật khớp vai sau đột quỵ của phương pháp châm cứu cải tiến cơ trên gai và cơ mũ vai",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Chuyên đề ngoại khoa, phụ bản tập 20, Số 1, trang 349-355",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Hiệu quả dự phòng bán trật khớp vai sau đột quỵ bằng châm cứu cải tiến cơ trên gai và cơ mũ vai",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Chuyên đề ngoại khoa, phụ bản tập 20, số 1, trang 356-363",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Xác định vai trò của phương pháp điện châm 2 cặp huyệt Bỉnh phong, Kiên ngung, Kiên liêu – Tý nhu trong phục hồi vận động chi trên sau đột quỵ giai đoạn liệt mềm",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 6, trang 50-56",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Đánh giá hiệu quả giảm đau vai sau đột quỵ giai đoạn liệt mềm bằng phương pháp điện châm các huyệt Bỉnh phong, Kiên ngung, Kiên liêu, Tý nhu",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 6, trang 57-64",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Đánh giá đáp ứng của thần kinh tự chủ trên người bình thường sau khi nhĩ châm huyệt Tâm – Can ở vùng xoắn tai hai bên",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ ISSN 1859 - 1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, trang 108-110",
+            "published_date": "6/2017"
+        },
+        {
+            "title": "Nghiên cứu so sánh kích thước các thốn phân đoạn vùng căng chân với thốn ngón tay giữa ở người trưởng thành",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ ISSN 1859 - 1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, trang 214-217",
+            "published_date": "6/2017"
+        },
+        {
+            "title": "Khảo sát sự thay đổi nhiệt độ da vùng cổ gáy khi châm tả huyệt Liệt khuyết thuộc nhóm lục tổng huyệt",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ ISSN 1859 - 1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, trang 166-169",
+            "published_date": "6/2017"
+        },
+        {
+            "title": "Nghiên cứu so sánh kích thước các thốn ngón tay hai bên ở người trưởng thành",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ ISSN 1859 - 1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, trang 179-182",
+            "published_date": "6/2017"
+        },
+        {
+            "title": "Xây dựng tiêu chuẩn chẩn đoán dựa trên y văn và ý kiến chuyên gia bệnh cảnh thận âm dương lưỡng hư giai đoạn di chứng sau đột quỵ",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 4, trang 169-177",
+            "published_date": "7/2017"
+        },
+        {
+            "title": "Xây dựng tiêu chuẩn chẩn đoán dựa trên y văn và ý kiến chuyên gia bệnh cảnh đàm thấp trên bệnh đột quỵ giai đoạn di chứng",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 4, trang 178-187",
+            "published_date": "7/2017"
+        },
+        {
+            "title": "Đánh giá hiệu quả của thể châm cải tiến các cơ tứ đầu đùi, cơ Hamstring, cơ mông lớn kêt hợp tái học hỏi vận động trên bệnh nhân chưa đứng lên được sau đột quy",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 4, trang 199-205",
+            "published_date": "7/2017"
+        },
+        {
+            "title": "Khảo sát sự thay đổi nhiệt độ da vùng thắt lưng khi châm tả huyệt Ủy trung thuộc nhóm lục tổng huyệt",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ ISSN 1859 - 1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7, trang 107-109",
+            "published_date": "7/2017"
+        },
+        {
+            "title": "Nghiên cứu so sánh kích thước các thốn phân đoạn vùng cẳng tay với thốn ngón tay giữa ở người trưởng thành",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ ISSN 1859 - 1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7, trang 162-166",
+            "published_date": "7/2017"
+        },
+        {
+            "title": "So sánh hiệu quả giảm đau do thoái hóa cột sống cổ của phương pháp cấy chỉ với phương pháp điện châm",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản Tập 21, số 4, trang 515-520",
+            "published_date": "8/2017"
+        },
+        {
+            "title": "Đánh giá tác dụng kháng viêm của dầu mù u trong quá trình làm lành vết thương",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 5, trang 34-39",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Đánh giá hiệu quả của thể châm cải tiến các cơ tứ đầu đùi, cơ hamstring, cơ chày trước kết hợp tái học hỏi vận động trên bệnh nhân chưa đi lại được sau đột quỵ",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 5, trang 116-123",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Xác định tiêu chuẩn chẩn đoán bệnh cảnh can thận âm hư trên bệnh nhân sau đột quỵ tại bệnh viện Y học cổ truyền Thành phố Hồ Chí Minh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 5, trang 97-107",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Xây dựng tiêu chuẩn chẩn đoán dựa trên y văn và ý kiến chuyên gia bệnh cảnh can thận âm hư giai đoạn di chứng sau đột quỵ",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 5, trang 23-33",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Anti-inflammatory and wound healing activities of calophyllolide isolated from Calophyllum inophyllum Linn. https://doi.org/10.1371/journal.pone.0185674",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "PLOS ONE ISSN: 1932-6203",
+            "journal_ranking": "ISI/SCOPUS Q1",
+            "citation_count": 96,
+            "volume_issue_pages": "Tập 12, số 10, số ID e0185674",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Bước đầu đánh giá hiệu quả giảm đường huyết sau ăn trên người bệnh đái tháo đường týp 2 của bài thuốc nam sưu tầm trên địa bàn tỉnh Sóc Trăng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản Tập 22, số 3, trang 417-423",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Bước đầu đánh giá hiệu quả điều trị Thoái hóa khớp gối của bài thuốc nam sưu tầm trên địa bàn tỉnh Sóc Trăng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản Tập 22, số 3, trang 424-430",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Bước đầu đánh giá hiệu quả giảm đường huyết sau ăn trên người tình nguyện khỏe mạnh của bài thuốc nam sưu tầm trên địa bàn tỉnh Sóc Trăng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 22, số 3, trang 255-260",
+            "published_date": "5/2018"
+        },
+        {
+            "title": "Khảo sát độc tính đường uống và tác động giảm đau, kháng viêm trên chuột nhắt của bài thuốc phối hợp một số dược liệu ở Sóc Trăng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dược học/ISSN 0866 - 7861",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 59, số 513, trang 53-57",
+            "published_date": "01/2019"
+        },
+        {
+            "title": "Initial evaluating of the efficiency of HuaTuojiaji acupuncture on treating Trigeminal neuralgia",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Scientific reports The 9th International conference on traditional medicine and folk medicine in greater Mekong",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 192-197",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "A survey on the situation of using STRICTA criteria in reporting acupuncture clinical researches in Viet Nam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Scientific reports The 9th International conference on traditional medicine and folk medicine in greater Mekong",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 214-220",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "The effects of Manual Auricular Acupuncture and 2Hz Auricular Electroacupuncture on heart rate and blood pressure response to Cold Pressor Test in healthy volunteers",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Scientific reports The 9th International conference on traditional medicine and folk medicine in greater Mekong",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 244-250",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "The efficiency of combining modified acupuncture and motor relearning method on post-stroke patients https://doi.org/10.32895/UMP.MPR.3.1.17",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, số 1, trang 17-21",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "Effect of auricular acupuncture on exam anxiety in first-year medical students https://doi.org/10.32895/UMP.MPR.3.2.3",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, số 2, trang 15-18",
+            "published_date": "8/2019"
+        },
+        {
+            "title": "Tổng quan các bộ công cụ hướng dẫn viết báo cáo thử nghiệm lâm sàng châm cứu trên thế giới",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 1-5",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Hiệu quả điều trị mất ngủ bằng phương pháp nhĩ châm các huyệt Thần môn, Tâm, Tỳ, Thận, vùng dưới đồi kết hợp với thể châm trên bệnh nhân mất ngủ không thực tổn",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 12-19",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Đánh giá hiệu quả của châm cứu huyệt Hoa Đà giáp tích trong điều trị đau thần kinh sau nhiễm zona vùng âm đạo",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 29-34",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Kết quả thử nghiệm trên dòng tê bào thận của người HEK-293 của 20 bài thuốc dân gian thu thập tại tỉnh Sóc Trăng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 68-74",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Độc tính cấp và tác động giảm đau ngoại biên, kháng viêm cấp của bài thuốc thu thập tại tỉnh Sóc Trăng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 75-81",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Đánh giá khả năng gây chết tế bào theo chương trình của bài thuốc Cây lược vàng và Bạch hoa xà thiệt thảo thu thập tại tỉnh Sóc Trăng trên dòng tế bào ung thư",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 82-90",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Hiệu quả trên biểu hiện IL-1ẞ và IL-10 của năm bài thuốc dân gian thu thập tại tỉnh Sóc Trăng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 166-173",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Đánh giá khả năng ức chế chu kỳ tế bào của bài thuốc Lá dâu, Dừa cạn thu thập tại tỉnh Sóc Trăng trên dòng tế bào u nguyên bào thần kinh SKN-DZ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 174-178",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Độc tính cấp và tác động lên trọng lượng, đường huyết của chuột khỏe mạnh của cao nước lá mật gấu thu thập tại tỉnh Sóc Trăng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 179-184",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Tác động lên trọng lượng, đường huyết của chuột bị đái tháo đường của cao nước lá mật gấu thu thập tại tỉnh Sóc Trăng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 185-191",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Đánh giá khả năng gây chết tế bào theo chương trình của bài thuốc Lá đu đủ và Bạch hoa xà thiệt thảo thu thập tại tỉnh Sóc Trăng trên dòng tế bào ung thư",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 192-200",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Xây dựng tiêu chuẩn chẩn đoán bệnh cảnh đàm thấp trên bệnh nhân sau đột quỵ tại bệnh viện Y học cổ truyền TP. Hồ Chí Minh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23, số 4, trang 228-235",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Đánh giá hiệu quả giảm đau bằng phương pháp nhĩ châm ở các huyệt tử cung, nội tiết, giao cảm, gan, bụng trên bệnh nhân đau bụng kinh",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học công nghệ Việt Nam/ ISSN 1859 - 4794",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 61, số 9, trang 21-25",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "A novel nonsense mutation of ERCC2 in a Vietnamese family with xeroderma pigmentosum syndrome group D https://doi.org/10.1038/s41439-020-0089-z",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Human Genome Variation/ ISSN 2054-345X",
+            "journal_ranking": "ISI/SCOPUS Q3",
+            "citation_count": 6,
+            "volume_issue_pages": "Tập 7, số ID 2",
+            "published_date": "2/2020"
+        },
+        {
+            "title": "Comparing the analgesic efficacy between 100 Hz and 2 Hz electroacupuncture on patients with lumbar osteoarthritis https://doi.org/10.32895/UMP.MPR.4.3.2",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 4, số 3, trang 6-11",
+            "published_date": "8/2020"
+        },
+        {
+            "title": "Tác dụng giảm đau của châm a thị huyệt (điểm kích hoạt đau) trên bệnh nhân đau cơ cấp vùng cổ gáy",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 78-83",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "So sánh hiệu quả giảm đau của quang châm laser với siêu âm trị liệu trên bệnh nhân hội chứng ống cổ tay",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 113-119",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "So sánh giá trị trung bình thốn tỉ lệ (thốn B) và thốn ngón tay (thốn F)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 120-124",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "So sánh chiều dài 3 thốn F và 3 thốn B vùng lưng ở hai tư thế đứng và nằm sấp",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 125-129",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "Khảo sát tình trạng lo âu thi cử của sinh viên năm thứ 1 khoa Y học cổ truyền",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 130-134",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "Hiệu quả giảm đau sau phẫu thuật nhổ răng khôn bằng phương pháp nhĩ châm huyệt Thần môn, đau răng, dạ dày ở loa tai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 135-140",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "Đánh giá hiệu quả giảm đau của cài nhĩ hoàn huyệt cổ (AH13) kết hợp với điện châm trên bệnh nhân thoái hóa cột sống cổ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 141-145",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "Khảo sát tác dụng phòng ngừa say xe khi dung hạt dán loa tai trên người tình nguyện khỏe mạnh dễ bị say xe",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 151-156",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "Hiệu quả của nhĩ châm trong điều trị rối loạn lo âu",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 21-26",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "Y học cổ truyền Việt Nam điều trị viêm mũi xoang: tổng quan y văn và tiếp cận dược lý in silico",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 24, số 4, trang 12-20",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "Cơ sở lý luận trong thẩm mỹ Y học cổ truyền",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25, số 5, trang 1-5",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Khảo sát các thể lâm sàng Y học cổ truyền trên bệnh nhân đái tháo đường type II",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25, số 5, trang 20-26",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Khảo sát biến thiên nhịp tim khi nhĩ áp huyệt Giao cảm bên trái trên người tình nguyện khỏe mạnh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25, số 5, trang 27-32",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Khảo sát sự thay đổi biến thiên nhịp tim khi sử dụng hạt dán loa tai tại huyệt thư giãn bên trái trên người tình nguyện khỏe mạnh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25, số 5, trang 112-118",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Tỷ lệ xuất hiện điểm kích hoạt hoạt động trên bệnh nhân đau cổ gáy mạn tính tại bệnh viện YHCT TP. HCM",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25, số 5, trang 173-178",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Đánh giá hiệu quả giảm đau của nhĩ châm huyệt Thần môn và điểm đau lưng trên loa tai kết hợp với điện châm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh/ ISSN 1859 - 1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25, số 5, trang 179-184",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Discovery of small molecular inhibitors for interleukin-33/ST2 protein-protein interation: a virtual screening, molecular dynamics stimulations and binding free energy calculations https://doi.org/10.1007/s11030-021-10359-4",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Diversity/ ISSN: 1381-1991 (print); 1573-501X (web)",
+            "journal_ranking": "ISI/SCOPUS Q2",
+            "citation_count": 11,
+            "volume_issue_pages": "Tập 26, trang 2659-2678",
+            "published_date": "1/2022"
+        },
+        {
+            "title": "Identification of potential interleukin-8 inhibitors acting on the interactive site between chemokine and CXCR2 receptor: a computational approach https://doi.org/10.1371/journal.pone.0264385",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "PLOS ONE ISSN: 1932-6203",
+            "journal_ranking": "ISI/SCOPUS Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "Tập 17, số 2, số ID e0264385",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Xây dựng quy trình định lượng acid ganoderic A trong bào tử Linh chi đã phá vách bằng kỹ thuật sắc ký lỏng hiệu năng cao",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kiểm nghiệm thuốc/ISSN 1859-0055",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 76, trang 9-14",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Chalcone derivatives as potential inhibitors of P-glycoprotein and NorA: an in silico and in vitro study https://doi.org/10.1155/2022/9982453",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biomed Research International/ ISSN: 2314-6133 (print); 2314-6141 (web)",
+            "journal_ranking": "ISI/SCOPUS Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "Tập 2022, số ID 9982453",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Survey the proportions of TCM symptoms and patterns in stable COPD patients at University Medical Center HCMC https://doi.org/10.32895/UMP.MPR.6.4.2",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 6, số 4, trang 11-16",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "A Review of Traditional Uses, Phytochemistry and Pharmacological Properties of Some Vietnamese Wound-Healing Medicinal Plants https://doi.org/10.1177/1934578X221088379",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Communication s/ ISSN: 1934-578X",
+            "journal_ranking": "ISI/SCOPUS Q3",
+            "citation_count": 4,
+            "volume_issue_pages": "Tập 17, số 4, trang 1-11",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Pharmacists' Perspectives on the Use of Telepharmacy in Response to COVID-19 Pandemic in Ho Chi Minh City, Vietnam https://doi.org/10.1177/87551225221076327",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Pharmacy Technology/ 1549-4810",
+            "journal_ranking": "ISI/SCOPUS Q3",
+            "citation_count": 13,
+            "volume_issue_pages": "Tập 38, số 2, trang 106-114",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Heart rate variability during auricular acupressure at heart point in healthy volunteers: a pilot study https://doi.org/10.1155/2022/1019029",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Evidence-Based Complementary and Alternative Medicine/ISSN 1741-4288",
+            "journal_ranking": "ISI/SCOPUS Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "Tập 2022, số ID 1019029",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Structure-Based 3D-Pharmacophore Modeling to discover novel Interleukin 6 Inhibitors: An in silico screening, molecular dynamics",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "PLOS ONE ISSN: 1932-6203",
+            "journal_ranking": "ISI/SCOPUS Q1",
+            "citation_count": 23,
+            "volume_issue_pages": "Tập 17, số 4, số ID e0266632",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "The effects of auricular acupuncture at Lung, Shenmen, Endocrine, Adrenal points on adult eczema: a randomized trial https://doi.org/10.32895/UMP.MPR.7.1.7",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 1, trang 47-52",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Nghiên cứu tác dụng dược lý in silico của các chất tự nhiên trong dịch thuốc sắc của bài thuốc Sâm thảo can khương thang trên các mục tiêu của virus SARS-COV-2",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dược học/ISSN 0866 - 7861",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 48, trang 4 - 13",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Developing diagnostic criteria of illness of traditional medicine on patients with carpal tunnel syndrome by a descriptive cross-sectional survey https://doi.org/10.32895/UMP.MPR.7.2.1",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 2, trang 1-12",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Exploration of chalcones as 3 chymotrypsin like protease (3CLpro) inhibitors of SARS CoV 2 using computational approaches https://doi.org/10.1007/s11224-022-02000-3",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Structural Chemistry/ISSN 1572-9001, 1040-0400",
+            "journal_ranking": "ISI/SCOPUS Q3",
+            "citation_count": 4,
+            "volume_issue_pages": "Tập 33, trang 1707-1725",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "Identification of Diosmin and Flavin Adenine Dinucleotide as Repurposing Treatments for Monkeypox Virus: A Computational Study https://doi.org/10.3390/ijms231911570",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Molecular Sciences/ ISSN 1422-0067",
+            "journal_ranking": "ISI/SCOPUS Q1",
+            "citation_count": 12,
+            "volume_issue_pages": "Tập 23, số 19, số ID 11570",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "Đánh giá hiệu quả giảm đau bụng kinh nguyên phát bằng nhĩ hoàn các huyệt Tử cung, Nội tiết, Thần môn, Dưới vỏ, Gan, Thận",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Đặc san Châm cứu Việt Nam (thuộc Tạp chí châm cứu Việt Nam), ISSN 1859-0705.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 123-130",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "The effectiveness of thread embedding acupuncture in reducing wrinkles at nose and mouth https://doi.org/10.32895/UMP.MPR.7.3.2",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 3, trang 9-14",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Electroacupuncture at Trigger point gains better pain relief effectiveness than Electroacupuncture at Meridian point: A non-blind randomized trial of chronic neck pain treatment among patients at Traditional Medicine Hospital https://doi.org/10.32895/UMP.MPR.7.3.4",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 3, trang 23-31",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "LY3041658/ Interleukin-8 complex structure as targets for IL-8 small molecule",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "SAR and QSAR in Environmental",
+            "journal_ranking": "ISI/SCOPUS Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 33, số 10, trang 753-778",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Identification of small molecules as potential inhibitors of interleukin 6: a multi computational investigation https://doi.org/10.1007/s11030-022-10558-7",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Diversity/ ISSN: 1381-1991 (print); 1573-501X (web)",
+            "journal_ranking": "ISI/SCOPUS Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "Tập 27, trang 2315-2330",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Hiệu quả lâm sàng của phương pháp cấy chỉ trong hỗ trợ điều trị bệnh nhân viêm da cơ địa",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 520, số 1B, trang 46-52",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Đánh giá độc tính cấp và độc tính bán trường diễn của chế phẩm Sâm thảo can khương thang",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859 - 1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 520, số 1B, trang 119-123",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Đặc điểm triệu chứng y học cổ truyền Can Tỳ Vị trên người bệnh trào ngược dạ dày thực quản",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859 - 1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 520, số 1B, trang 133-137",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Đánh giá hiệu quả bài thuốc Sâm tô ẩm điều trị người bệnh nhiễm COVID-19 mức độ nhẹ: Một nghiên cứu đoàn hệ tiên cứu",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859 - 1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 520, số 1B, trang 234-238",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Khảo sát các thể lâm sàng y học cổ truyền của hội chứng đau bụng kinh nguyên phát trên sinh viên nữ tại các trường đại học trên địa bàn thành phố Hồ Chí Minh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859 - 1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 520, số 1B, trang 326-331",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Khảo sát sự thay đổi nhiệt độ bề mặt da khi cài kim tại huyệt răng mỗi bên tai trên người bình thường",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 520, số 1B, trang 348-352",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Auricular Acupressure Effect on Autonomic Responses Evoked by a Cold Pressor Test in Healthy Volunteers: A Pilot Study https://doi.org/10.1155/2022/5703760",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Evidence - Based Complementary and Alternative Medicine/ISSN 1741-4288",
+            "journal_ranking": "ISI/SCOPUS Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 2022, số 1, số ID 5703760",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Anti-inflammatory activity via NO production inhibition of compounds from Vietnamese Lycopodium casuarinoides Spring https://doi.org/10.1016/j.phytol.2023.09.004",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry Letters/ISSN 1874-3900",
+            "journal_ranking": "ISI/SCOPUS Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 58, trang 42-48",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Telepharmacy: A Systematic Review of Field Application, Benefits, Limitations, and Applicability During the COVID-19 Pandemic https://www.liebertpub.com/doi/abs/10.1089/tmj.2021.0575 (doi:10.1089/tmj.2021.0575)",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Telemedicine and eHealth/ ISSN : 1556-3669",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "Tập 29, số 2, trang 209-221",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Discovery of AcrAB-TolC pump inhibitors: Virtual screening and molecular dynamics simulation approach https://doi.org/10.1080/07391102.2023.2175381",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Biomolecular Structure and Dynamics/ ISSN 1538-0254",
+            "journal_ranking": "ISI/SCOPUS Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "Tập 41, số 22, trang 12503-12520",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Survey on change temperature of skin surface when using auricular acupuncture at the Jaw point in each side of the ear in healthy people: A cross-over study https://doi.org/10.32895/UMP.MPR.7.3.8",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 7, số 3, trang 55-61",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Laser Acupucture versus Electroacupucture for Non-severe carpal tunnel syndrome: a randomized controlled trial https://doi.org/10.1089/acu.2023.0107",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medical acupuncture/IS SN 1933-6594",
+            "journal_ranking": "ISI/SCOPUS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Số ID 0107",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Auricular acupuncture prior to menstruation can reduce primary dysmenorrhea: A randomized controlled trial https://doi.org/10.1089/acu.2023.0062",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Medical acupuncture/IS SN 1933-6594",
+            "journal_ranking": "ISI/SCOPUS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 36, số 1, trang 12-20",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Khảo sát sự thay đổi nhiệt độ bề mặt da khi nhĩ châm huyệt Nhĩ thần môn trên người tình nguyện khỏe mạnh",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537, số 2, trang 359-364",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "So sánh sự thay đổi ngưỡng đau giữa phương pháp điện châm và châm tả tại huyệt Nội quan, Hợp cốc ở bên phải trên người khỏe mạnh",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537, số 2, trang 376-381",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "The therapeutic potential of carpal tunnel syndrome by laser acupuncture: a before-after interventional study https://doi.org/10.32895/UMP.MPR.7.3.13",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 3, trang 90-98",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Evaluation of postoperative analgesic effect of auricular acupuncture therapy after surgical extraction of mandibular third molar https://doi.org/10.32895/UMP.MPR.7.4.2",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 4, trang 11-18",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "An investigation of the change in facial pain threshold after auricular acupuncture in healthy volunteers: a pilot study https://doi.org/10.32895/UMP.MPR.7.4.4",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 4, trang 30-40",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Khảo sát đặc điểm các hình thái đắc khí khi nhĩ châm huyệt Giao cảm trên người tình nguyện khỏe mạnh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 525, số chuyên đề, trang 30-38",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Efficacy of auricular acupuncture combined with electro- acupuncture and physiotherapy exercise in motor rehabilitation after ischemic stroke https://doi.org/10.32895/UMP.MPR.7.4.3",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 4, trang 19-29",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Correlation of the Fugl Meyer assessment, Motricity Index and Barthel Index scales in the assessment of rehabilitation in post-stroke patients https://doi.org/10.32895/UMP.MPR.7.4.1",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 4, trang 1-10",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Heart rate variability during auricular acupressure at the left sympathetic point on healthy volunteers: a pilot study https://doi.org/10.3389/fnins.2023.1116154",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Neuroscience/ISSN 1662-453X, 1662-4548",
+            "journal_ranking": "ISI/SCOPUS Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 17, số ID 1116154",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "The traditional medicine patterns in GERD patients at University Medical Center",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharmRes/ ISSN 2615-9139",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 4, trang 82-86",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Survey the change of skin surface temperature at the face when using tonifying or dispersing acupuncture manipulations at dazhui acupoint in healthy volunteers https://doi.org/10.1007/s13596-024-00762-1",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Traditional Medicine/ISSN 2662-4060",
+            "journal_ranking": "SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Adding thread-embedding acupuncture to auricular acupuncture enhances short-term weight reduction in overweight and obesity: A Double blinded, randomized, sham-controlled trial https://doi.org/10.1016/j.imr.2024.101050",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Integrative Medicine Research/ISSN 2213-4220",
+            "journal_ranking": "ISI/SCOPUS Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 13, số 3, số ID 101050",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "HCMC: a cross-sectional survey https://doi.org/10.32895/UMP.MPR.7.4.10",
+            "num_authors": 0,
+            "is_main_author": false,
+            "journal_name_ISSN": "",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": ""
+        },
+        {
+            "title": "Vai trò của châm cứu trong điều trị hỗ trợ ung thư",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859 - 1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 530, số chuyên đề, trang 3-9",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Tổng quan về một số dược liệu tiềm năng trong hỗ trợ điều trị ung thư vú tại Việt Nam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859 - 1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 530, số chuyên đề, trang 10-19",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Khảo sát sự thay đổi nhiệt độ và cảm giác cứu khi cứu âm huyệt Mệnh môn bằng điếu ngải cứu",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859 - 1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 530, số chuyên đề, trang 20-28",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Khảo sát mối tương quan giữa nhiệt độ bề mặt da vùng cổ gáy khi nhĩ áp huyệt Cột sống cổ trên người tình nguyện khỏe mạnh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 530, số chuyên đề, trang 45-54",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Khảo sát đặc điểm các hình thái đắc khí khi nhĩ châm huyệt Nhĩ thần môn trên người tình nguyện khỏe mạnh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 530, số chuyên đề, trang 323-330",
+            "published_date": "9/2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Đánh giá hiệu quả phục hồi vận động sau đột quỵ bằng thể châm cải tiến kết hợp tái học hỏi vận động",
+            "role": "Principal Investigator",
+            "project_code": "30/HĐ-SKHCN-QLKHCN",
+            "management_level": "Sở Khoa học và công nghệ Tỉnh Sóc Trăng",
+            "period": "09/2014-09/2015",
+            "acceptance_date": "08/9/2015",
+            "rating": "A"
+        },
+        {
+            "title": "Sưu tầm các bài thuốc Y học cổ truyền trên địa bàn tỉnh Sóc Trăng để bảo tồn và sử dụng trong điều trị bệnh",
+            "role": "Co-Investigator",
+            "project_code": "21/HĐ-SKHCN-QLKHCN",
+            "management_level": "Sở Khoa học và công nghệ Tỉnh Sóc Trăng",
+            "period": "8/2015 - 10/2018",
+            "acceptance_date": "18/9/2018",
+            "rating": "XUẤT SẮC"
+        },
+        {
+            "title": "Đánh giá hiệu quả điều trị của bài thuốc Sâm Thảo Can khương thang trên bệnh nhân mắc",
+            "role": "Principal Investigator",
+            "project_code": "24/2021/HD-QKHCN",
+            "management_level": "Sở Khoa học và công nghệ Tỉnh Sóc Trăng",
+            "period": "10/2021 – 10/2022",
+            "acceptance_date": "17/10/2022",
+            "rating": ""
+        },
+        {
+            "title": "Covid-19 thể bệnh nhẹ và trung bình bằng thử dược lý in silico và thử nghiệm lâm sàng",
+            "role": "Principal Investigator",
+            "project_code": "641/QĐ-SKHCN",
+            "management_level": "Sở Khoa học và công nghệ TP. HCM",
+            "period": "",
+            "acceptance_date": "11/10/2021",
+            "rating": "ĐẠT"
+        }
+    ],
+    "books": [
+        {
+            "title": "Châm cứu học 1",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2018",
+            "num_authors": 9,
+            "is_editor_in_chief": true,
+            "compiled_pages": "9-22, 72-86",
+            "verification_document_id": "Quyết định số: 5569/QĐ-ĐHYD, ngày 12/12/2018, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Châm cứu học 2",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Hà Nội",
+            "publish_year": "2019",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "9-19, 132-155",
+            "verification_document_id": "Quyết định số: 1836/QĐ-ĐHYD, ngày 21/6/2019, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Châm cứu học ứng dụng",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2019",
+            "num_authors": 9,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-29, 41-50, 110-126",
+            "verification_document_id": "Quyết định số: 1981/QĐ-ĐHYD, ngày 01/7/2019, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Y học cổ truyền",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2020",
+            "num_authors": 18,
+            "is_editor_in_chief": true,
+            "compiled_pages": "53-90, 121-133",
+            "verification_document_id": "Quyết định số: 1322/QĐ-ĐHYD, ngày 08/7/2020, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Cấy chỉ cơ bản trong thực hành lâm sàng",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2020",
+            "num_authors": 9,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-11, 41-49",
+            "verification_document_id": "Quyết định số: 1323/QĐ-ĐHYD, ngày 08/7/2020, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Bệnh học và điều trị thần kinh kết hợp Đông Tây y",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2021",
+            "num_authors": 8,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-34, 59-87",
+            "verification_document_id": "Quyết định số: 2415/QĐ-ĐHYD, ngày 12/10/2021, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Chẩn đoán Y học cổ truyền",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2021",
+            "num_authors": 26,
+            "is_editor_in_chief": true,
+            "compiled_pages": "3-17, 215-245, 249-271",
+            "verification_document_id": "Quyết định số: 260/QĐ-ĐHYD, ngày 03/02/2021, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Bệnh học Y học cổ truyền",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2021",
+            "num_authors": 25,
+            "is_editor_in_chief": true,
+            "compiled_pages": "3-19, 105-120",
+            "verification_document_id": "Quyết định số: 261/QĐ-ĐHYD, ngày 03/02/2021, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Sổ tay lâm sàng châm cứu",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2022",
+            "num_authors": 8,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-16, 98-112",
+            "verification_document_id": "Quyết định số: 2414/QĐ-ĐHYD, ngày 12/10/2021, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Bệnh học và điều trị Nôi khoa kết hợp Đông Tây y (tập 1)",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2022",
+            "num_authors": 17,
+            "is_editor_in_chief": false,
+            "compiled_pages": "284-308",
+            "verification_document_id": "Quyết định số: 644/QĐ-ĐHYD, ngày 05/4/2022, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Bệnh học và điều trị Nội khoa kết hợp Đông Tây y (tập 2)",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2022",
+            "num_authors": 16,
+            "is_editor_in_chief": false,
+            "compiled_pages": "19-41",
+            "verification_document_id": "Quyết định số: 645/QĐ-ĐHYD, ngày 05/4/2022, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Châm cứu phục hồi vận động sau đột quỵ",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-180",
+            "verification_document_id": "Quyết định số: 996/QĐ-ĐHYD, ngày 21/4/2023, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Sinh học thần kinh",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2024",
+            "num_authors": 9,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-16",
+            "verification_document_id": "Quyết định số: 5597/QĐ-ĐHYD, ngày 16/11/2023, Đại học Y Dược TP. HCM"
+        },
+        {
+            "title": "Bệnh học điều trị kết hợp hệ thần kinh",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học Thành phố Hồ Chí Minh",
+            "publish_year": "2024",
+            "num_authors": 9,
+            "is_editor_in_chief": true,
+            "compiled_pages": "32-58, 96-138",
+            "verification_document_id": "Quyết định số: 5598/QĐ-ĐHYD, ngày 16/11/2023, Đại học Y Dược TP. HCM"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo trình độ Thạc sĩ định hướng ứng dụng, ngành YHCT",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số: 2083/QĐ-ĐHYD, ngày 07/10/2021",
+            "certifying_authority": "Đại học Y Dược TP. HCM",
+            "implementation_document_id": "Quyết định số: 409/QĐ-ĐHYD, ngày 15/3/2022, Đại học Y Dược TP. HCM",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo BSNT, ngành YHCT",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số: 3708/QĐ-ĐHYD, ngày 25/10/2022",
+            "certifying_authority": "Đại học Y Dược TP. HCM",
+            "implementation_document_id": "Quyết định số: 422/QĐ-ĐHYD, ngày 24/2/2023, Đại học Y Dược TP. HCM",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo đại học ngành Y học cổ truyền",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số: 3661/QĐ-ĐHYD, ngày 14/9/2023",
+            "certifying_authority": "Đại học Y Dược TP. HCM",
+            "implementation_document_id": "Quyết định số: 4036/QĐ-ĐHYD, ngày 25/9/2023, Đại học Y Dược TP. HCM",
+            "notes": ""
+        }
+    ]
+}

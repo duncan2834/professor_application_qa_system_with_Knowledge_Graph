@@ -1,0 +1,635 @@
+{
+    "papers": [
+        {
+            "title": "Vai trò giải thích pháp luật của Tòa án Hiến pháp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp, ISSN 1859 - 2953",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 24, tr. 11-15, 27",
+            "published_date": "2009"
+        },
+        {
+            "title": "Một số điểm tiến bộ và bất cập của Luật Cán bộ, công chức năm 2008 và những văn bản hướng dẫn thi hành",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý, ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 3, tr. 10-17",
+            "published_date": "2010"
+        },
+        {
+            "title": "Hiến pháp mới với vị trí, vai trò của nguyên thủ quốc gia - Chủ tịch nước",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp, ISSN 1859 - 2953",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 22, tr. 29-34",
+            "published_date": "2011"
+        },
+        {
+            "title": "Bàn về những nghịch lý trong việc ban hành các văn bản hướng dẫn thi hành luật",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 2, tr. 31-39",
+            "published_date": "2012"
+        },
+        {
+            "title": "Pháp luật về xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ - Những bất cập và hướng hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học, ISSN 0866 - 7462",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 9, tr. 41-46, 63",
+            "published_date": "2013"
+        },
+        {
+            "title": "Một số vấn đề về trách nhiệm bồi thường, hoàn trả của viên chức",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học, ISSN 0866 - 7462",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 5, tr. 28-36",
+            "published_date": "2014"
+        },
+        {
+            "title": "Những bất cập và kiến nghị hoàn thiện các quy định pháp luật về biện pháp đưa vào cơ sở giáo dục bắt buộc",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 6, tr. 3-11",
+            "published_date": "2015"
+        },
+        {
+            "title": "Hoàn thiện các biện pháp ngăn chặn và bảo đảm xử lý vi phạm hành chính trong Luật Xử lý vi phạm hành chính năm 2012 theo tinh thần Công ước của Liên hợp quốc về chống tra tấn và các hình thức đối xử",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 11, tr. 25-34",
+            "published_date": "2015"
+        },
+        {
+            "title": "Hoàn thiện quy định pháp luật về biện pháp đưa vào cơ sở cai nghiện bắt buộc",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học, ISSN 0866 - 7462",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 2, tr. 43-51",
+            "published_date": "2016"
+        },
+        {
+            "title": "Thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh theo Luật tổ chức chính quyền địa phương năm 2015",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 9, tr. 3-9",
+            "published_date": "2016"
+        },
+        {
+            "title": "Tòa án với việc xem xét, xử lý văn bản quy phạm pháp luật có liên quan trong vụ án hành chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 1, tr. 9-13",
+            "published_date": "2017"
+        },
+        {
+            "title": "Bảo đảm quyền của người nước ngoài khi bị áp dụng hình thức xử phạt trục xuất",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý, ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 8, tr. 10-16",
+            "published_date": "2017"
+        },
+        {
+            "title": "Hoàn thiện các quy định pháp luật về hình thức kỷ luật hạ bậc lương",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý, ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 1, tr. 16-23",
+            "published_date": "2018"
+        },
+        {
+            "title": "Sự chồng chéo giữa biện pháp khắc phục hậu quả với các hình thức xử phạt trong pháp luật về xử phạt vi phạm hành chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 10, tr. 38-47",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nhận định về các biện pháp khắc phục hậu quả do Chính phủ quy định",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 1, tr. 3-11",
+            "published_date": "2019"
+        },
+        {
+            "title": "Những nội dung cần sửa đổi trong Luật Xử lý vi phạm hành chính năm 2012",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 1, tr. 3-12",
+            "published_date": "2019"
+        },
+        {
+            "title": "Hoàn thiện các quy định pháp luật về hình thức kỷ luật giáng chức đối với công chức",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 7, tr. 8-17",
+            "published_date": "2019"
+        },
+        {
+            "title": "Hoàn thiện các quy định pháp luật về chưa xử lý và miễn xử lý kỷ luật đối với công chức",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 6, tr. 3-15",
+            "published_date": "2019"
+        },
+        {
+            "title": "Sự tương thích giữa pháp luật cạnh tranh với Luật Xử lý vi phạm hành chính năm 2012 về xử phạt vi phạm hành chính trong lĩnh vực cạnh tranh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 1, tr. 3-17",
+            "published_date": "2020"
+        },
+        {
+            "title": "Cơ sở xây dựng các tình tiết giảm nhẹ và tình tiết tăng nặng trách nhiệm hành chính.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 3, tr. 12-26",
+            "published_date": "2020"
+        },
+        {
+            "title": "Pháp luật về hình thức xử phạt tịch thu tang vật, phương tiện vi phạm hành chính - bất cập và kiến nghị hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học, ISSN 0866 - 7462",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 3, tr. 52-66",
+            "published_date": "2020"
+        },
+        {
+            "title": "Hình thức xử phạt tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn trong pháp luật xử phạt vi phạm hành chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 5, tr. 10-21,58",
+            "published_date": "2020"
+        },
+        {
+            "title": "Xử lý kỷ luật đối với người đã nghỉ việc, nghỉ hưu mới phát hiện có hành vi vi phạm trong thời gian công tác",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 8, tr. 1-15",
+            "published_date": "2020"
+        },
+        {
+            "title": "Thẩm quyền của các cơ quan nhà nước trong tình trạng khẩn cấp và những vấn đề cần hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 2, tr. 3-15",
+            "published_date": "2021"
+        },
+        {
+            "title": "Bất cập trong các quy định pháp luật về xử lý kỷ luật cán bộ, công chức",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 3, tr. 1-14",
+            "published_date": "2021"
+        },
+        {
+            "title": "Điều động công chức trong pháp luật Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 6, tr. 44-57",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xử lý kỷ luật viên chức và những quy định pháp luật cần hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 11, tr. 22-32",
+            "published_date": "2021"
+        },
+        {
+            "title": "Minh định bản chất của các biện pháp khắc phục hậu quả trong các nghị định về xử phạt vi phạm hành chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 7, tr. 3-15",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tính nhân đạo trong các quy định pháp luật về xử phạt vi phạm hành chính và định hướng hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 8, tr. 1-15",
+            "published_date": "2022"
+        },
+        {
+            "title": "Biên bản vi phạm hành chính và những nội dung pháp lý cần hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 1, tr. 16-26",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đánh giá, xếp loại công chức và những nội dung pháp lý cần hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 1, tr. 1-11",
+            "published_date": "2023"
+        },
+        {
+            "title": "Biện pháp đưa vào cơ sở cai nghiện bắt buộc và kiến nghị hoàn thiện pháp luật",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Pháp luật và phát triển, ISSN 0866 - 7500",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 2+3, tr. 18-23",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tình tiết giảm nhẹ trong áp dụng trách nhiệm hành chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học, ISSN 0866 - 7462",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 8, tr. 3-18",
+            "published_date": "2023"
+        },
+        {
+            "title": "Hoàn thiện nội dung pháp lý về khuyến khích, bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 12, tr. 1-13",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tình tiết tăng nặng trách nhiệm hành chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), ISSN 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 1, tr. 1-13",
+            "published_date": "2024"
+        },
+        {
+            "title": "Anti-Corruption and Conflicts Around Sanctions for Removal of their Previous Posts of Retired Civil Servants. The Case of Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Prawo i więź (Law and Social Bonds), ISSN 2299-405X, E-ISSN 2719-3594",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 49, No. 2, pp. 223 - 256",
+            "published_date": "2024"
+        },
+        {
+            "title": "The difference and relationship between Administrative Violations and Criminal Offenses under Vietnamese Law",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tunghai University Law Review, ISSN 1026-7247",
+            "journal_ranking": "Tạp chí quốc tế uy tín thuộc danh mục Tạp chí được HĐGS ngành Luật công nhận, ban hành kèm theo Quyết định số 22/2023/QĐ HĐGSNN",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 67, pp. 1-32",
+            "published_date": "2024"
+        },
+        {
+            "title": "Thẩm quyền quy định trách nhiệm hành chính của Ủy ban Thường vụ Quốc hội",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật, ISSN 0866 - 7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 8, tr. 16-26",
+            "published_date": "2024"
+        },
+        {
+            "title": "Biện pháp trừ điểm giấy phép lái xe trong pháp luật giao thông đường bộ",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), p-ISSN 3030-4423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 9, tr. 1-16",
+            "published_date": "2024"
+        },
+        {
+            "title": "Biện pháp tư pháp đối với pháp nhân thương mại phạm tội và một số kiến nghị hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học, ISSN 0866 - 3522",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 8, tr. 27-40",
+            "published_date": "2024"
+        },
+        {
+            "title": "Vietnamese Legislation Regarding Juveniles Sent to Reformatories: Evaluating Compliance with the United Nations Rules for the Protection of Juveniles Deprived of Liberty and Offering Recommendations",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Revista Jurídica Portucalense, ISSN-e: 2183-5705, ISSN: 2183-5799",
+            "journal_ranking": "Web of Science/ESCI, Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 36, pp. 499 - 523",
+            "published_date": "2024"
+        },
+        {
+            "title": "Áp dụng trách nhiệm hành chính đối với tổ chức và định hướng hoàn thiện pháp luật",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam (tên cũ: Tạp chí Khoa học pháp lý), p-ISSN 3030-4423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 3, tr. 8-21",
+            "published_date": "2025"
+        },
+        {
+            "title": "Asset Recovery via Non-Conviction based Forfeiture: Rationale for Regulation and Recommendations for Implementation in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Law and Development Review, De Gruyter, ISSN 1943-3867",
+            "journal_ranking": "Web of Science/ESCI, Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 1, pp. 97 - 122",
+            "published_date": "2025"
+        },
+        {
+            "title": "Biện pháp đưa vào cơ sở cai nghiện bắt buộc đối với người chưa thành niên trong pháp luật phòng, chống ma túy và kiến nghị hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học, ISSN 0868 - 3522",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "số 4, tr. 31-45",
+            "published_date": "2025"
+        },
+        {
+            "title": "Freedom of Association in Vietnam: The Journey, Challenges, and Prospects for Legal Reform",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Prawo i więź (Law and Social Bonds), ISSN 2299-405X, E-ISSN 2719-3594",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 54, No. 1, pp. 251 - 277",
+            "published_date": "2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Đề tài nghiên cứu khoa học cấp Trường: Xử lý vi phạm hành chính trong lĩnh vực giao thông đường bộ tại Thành phố Hồ Chí Minh - Thực trạng và hướng hoàn thiện",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Trường Đại học Luật Tp. HCM",
+            "period": "2011 - 2012",
+            "acceptance_date": "17/01/2013",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đề tài nghiên cứu khoa học cấp Bộ: Hoàn thiện pháp luật về quản lý hoạt động xuất nhập cảnh, cư trú, lao động của người nước ngoài tại Việt Nam",
+            "role": "Assistant",
+            "project_code": "B2016-LPS-02",
+            "management_level": "cấp Bộ Giáo dục và đào tạo",
+            "period": "2016 - 2018",
+            "acceptance_date": "19/12/2018",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nhiệm vụ khoa học và công nghệ cấp Nhà nước: Nghiên cứu luận cứ khoa học sửa đổi, bổ sung Luật Giáo dục",
+            "role": "Key Member",
+            "project_code": "KHGD/16-20.DA.001",
+            "management_level": "cấp Nhà nước",
+            "period": "2017 - 2020",
+            "acceptance_date": "28/01/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đề tài nghiên cứu khoa học cấp Trường: Thực trạng và hướng hoàn thiện một số biện pháp khắc phục hậu quả trong xử phạt vi phạm hành chính",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Trường Đại học Luật Tp. HCM",
+            "period": "2017 - 2018",
+            "acceptance_date": "22/01/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đề tài nghiên cứu khoa học cấp Trường: Xử phạt vi phạm hành chính đối với người chưa thành niên ở Việt Nam - Thực trạng và hướng hoàn thiện",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Trường Đại học Luật Tp. HCM",
+            "period": "2020 - 2021",
+            "acceptance_date": "07/12/2021",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Quyết định quản lý nhà nước của Chính phủ - Lý luận và thực tiễn",
+            "type": "Monograph",
+            "publisher": "Chính trị quốc gia - Sự thật",
+            "publish_year": "2017",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ sách 355 trang",
+            "verification_document_id": "Có văn bản xác nhận sử dụng sách kèm theo"
+        },
+        {
+            "title": "Hình thức xử phạt trục xuất trong pháp luật Việt Nam",
+            "type": "Monograph",
+            "publisher": "Chính trị quốc gia - Sự thật",
+            "publish_year": "2018",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ sách 235 trang",
+            "verification_document_id": "Có văn bản xác nhận sử dụng sách kèm theo"
+        },
+        {
+            "title": "Một số biện pháp khắc phục hậu quả trong xử phạt vi phạm hành chính - Thực trạng và hướng hoàn thiện",
+            "type": "Monograph",
+            "publisher": "Chính trị quốc gia - Sự thật",
+            "publish_year": "2019",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 1: từ trang 11-44; 63-89. Chương 2: từ trang 127-224. Chương 3: từ trang 233-238; 251-262.",
+            "verification_document_id": "Có văn bản xác nhận sử dụng sách kèm theo"
+        },
+        {
+            "title": "Tố cáo nặc danh, tố cáo mạo danh trong pháp luật hành chính Việt Nam",
+            "type": "Monograph",
+            "publisher": "Chính trị quốc gia - Sự thật",
+            "publish_year": "2021",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ sách 170 trang",
+            "verification_document_id": "Có văn bản xác nhận sử dụng sách kèm theo"
+        },
+        {
+            "title": "Xử phạt vi phạm hành chính đối với người chưa thành niên - Thực trạng và hướng hoàn thiện",
+            "type": "Monograph",
+            "publisher": "Chính trị quốc gia - Sự thật",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 1: từ trang 17-65; 79-110. Chương 2: từ trang 118-204. Chương 3: từ trang 245-280.",
+            "verification_document_id": "Có văn bản xác nhận sử dụng sách kèm theo"
+        },
+        {
+            "title": "Xử lý kỷ luật viên chức, lý luận và thực tiễn",
+            "type": "Monograph",
+            "publisher": "Tư pháp",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "328/328 trang viết chung với tác giả Nguyễn Nhật Khanh",
+            "verification_document_id": "Có văn bản xác nhận sử dụng"
+        },
+        {
+            "title": "Kỹ năng lập luận, tư duy phản biện và tư duy pháp lý",
+            "type": "Monograph",
+            "publisher": "Công an nhân dân",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ sách 259 trang",
+            "verification_document_id": "Có văn bản xác nhận sử dụng sách kèm theo"
+        },
+        {
+            "title": "Biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc: Thực trạng và hướng hoàn thiện",
+            "type": "Monograph",
+            "publisher": "Công an nhân dân",
+            "publish_year": "2025",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ sách 255 trang",
+            "verification_document_id": "Có văn bản xác nhận sử dụng sách kèm theo"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Tổ xây dựng đề án thành lập Bộ môn Luật Hành chính - Nhà nước",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 570/QĐ-ĐHKTL của Hiệu trưởng Trường Đại học Kinh tế - Luật",
+            "certifying_authority": "Trường Đại học Kinh tế - Luật",
+            "implementation_document_id": "Quyết định số 1841/QĐ-DHKTL của Hiệu trưởng Trường Đại học Kinh tế - Luật thành lập Bộ môn Luật Hành chính - Nhà nước thuộc khoa Luật",
+            "notes": ""
+        },
+        {
+            "title": "Nghiên cứu đề án khuyến nghị một số chính sách vượt trội phát triển Đại học Quốc gia Tp. Hồ Chí Minh",
+            "applicant_role": "Co-Investigator",
+            "assignment_document_id": "Quyết định của Hiệu trưởng Trường Đại học Kinh tế - Luật",
+            "certifying_authority": "Đại học Quốc gia Tp. Hồ Chí Minh và Trường Đại học Kinh tế - Luật",
+            "implementation_document_id": "Quyết định của Hiệu trưởng Đại học Quốc gia Tp. Hồ Chí Minh về Tổ xây dựng Đại “Đề án khuyến nghị một số chính sách vượt trội phát triển ĐHQG-HCM”",
+            "notes": ""
+        },
+        {
+            "title": "Tổ xây dựng và Tổ phản biện Quy định về đánh giá, xếp loại kết quả thực hiện nhiệm vụ của viên chức, người lao động Trường Đại học Kinh tế - Luật",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 1891/QĐ-ĐHKTL ngày 10 tháng 8 năm 2024 của Trường Đại học Kinh tế - Luật",
+            "certifying_authority": "Trường Đại học Kinh tế - Luật",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Thành viên Đề án cấp Đại học quốc gia Tp.HCM: Chính sách vượt trội cho ĐHQG-HCM theo Nghị quyết số 45-NQ/TW của Ban chấp hành Trung ương Đảng khóa XIII về xây dựng và phát huy vai trò của đội ngũ trí thức",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 685/QĐ-ĐHQG ngày 22/06/2025 của Giám đốc Đại học quốc gia Tp. Hồ Chí Minh",
+            "certifying_authority": "Đại học Quốc gia Tp. Hồ Chí Minh",
+            "implementation_document_id": "Quyết định số 424/QĐ-ĐHQG ngày 18/04/2025 của Giám đốc Đại học quốc gia Tp. Hồ Chí Minh",
+            "notes": ""
+        },
+        {
+            "title": "Đề án cấp Đại học quốc gia Tp.HCM: Nghiên cứu đề xuất chính sách vượt trội về nghiên cứu khoa học tại Đại học quốc gia Tp.HCM",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "DA2024-34-03, cấp Đại học quốc gia Tp.HCM",
+            "certifying_authority": "Đại học Quốc gia Tp. Hồ Chí Minh",
+            "implementation_document_id": "Quyết định số 416/QĐ-ĐHQG ngày 04/05/2024 của Giám đốc Đại học quốc gia Tp. Hồ Chí Minh",
+            "notes": ""
+        },
+        {
+            "title": "Thành viên Hội đồng tư vấn tuyển chọn Đề án khoa học “Đánh giá việc triển khai Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia của các địa phương ở vùng Đông Nam Bộ so với các địa phương ở vùng đồng bằng sông Cửu Long”.",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 500/QĐ-ĐHQG ngày 10/5/2025 của Trường Đại học Kinh tế - Luật",
+            "certifying_authority": "Đại học Quốc gia Tp. Hồ Chí Minh và Trường Đại học Kinh tế - Luật",
+            "implementation_document_id": "Quyết định số 623/QĐ-ĐHQG ngày 24/05/2025 của Giám đốc Đại học Kinh tế - Luật, Đại học quốc gia TP.HCM",
+            "notes": ""
+        }
+    ]
+}

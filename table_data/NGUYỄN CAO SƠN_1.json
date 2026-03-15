@@ -1,0 +1,317 @@
+{
+    "papers": [
+        {
+            "title": "Nâng cao độ bền của thép kết cấu hợp kim có chứa nguyên tố di truyền đồng.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học - Công nghệ Kim loại (ISSN 1859-4344)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 38, pp 6-10",
+            "published_date": "2010"
+        },
+        {
+            "title": "Microstructure and strength of the CMn steels.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology – Technical Universities, (ISSN 2354-1083)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 85, pp 95-98",
+            "published_date": "2011"
+        },
+        {
+            "title": "Tính chất của thép các bon cực thấp sau khi tinh luyện trong chân không.",
+            "num_authors": 0,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học - Công nghệ Kim loại (ISSN 1859-4344)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 57, pp 42-46",
+            "published_date": "2014"
+        },
+        {
+            "title": "Effect of carbon dissolution reaction on wetting behavior between liquid iron and carbonaceous material",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "ISIJ International, (ISSN 0915-1559)",
+            "journal_ranking": "SCI (Q1, IF = 1,321)",
+            "citation_count": 14,
+            "volume_issue_pages": "Vol. 55, pp 1252-1258",
+            "published_date": "2015"
+        },
+        {
+            "title": "Role of Al2O3 in interfacial morphology and reactive wetting behaviour between carbon-unsaturated liquid iron and simulant coke substrate",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "ISIJ International, (ISSN 0915-1559)",
+            "journal_ranking": "SCI (Q1, IF = 1,412)",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol. 56, pp 1325-1332",
+            "published_date": "2016"
+        },
+        {
+            "title": "Effect of carbon dissolution reaction on wetting behaviour of molten Fe-C alloy on graphite substrate in the initial contact period",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "ISIJ International, (ISSN 0915-1559)",
+            "journal_ranking": "SCI (Q1, IF = 1,552)",
+            "citation_count": 13,
+            "volume_issue_pages": "Vol. 57, pp 1491-1498",
+            "published_date": "2017"
+        },
+        {
+            "title": "Experimental processing of ultralow carbon steel using vacuum treatment",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Acta Metallurgica Slovaca (ISSN 1335-1532)",
+            "journal_ranking": "Scopus (Q3, IF = 0,623)",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol.24, No. 1, pp 4-12",
+            "published_date": "2018"
+        },
+        {
+            "title": "Influence of working condition on properties of superheater steel pipe (ASTM grade P11)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 1st Inter. Conference on Mater., Machines and Methods for Sustainable Development (ISBN 978-604-95-0502-7)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp 70-76",
+            "published_date": "2018"
+        },
+        {
+            "title": "Effect of simulant ash on carbon dissolution reaction and wettability between iron carbon sample and simulant coke substrate in the early stage of contact period.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chiang Mai Journal of Science (ISSN 0125-2526)",
+            "journal_ranking": "SCIE (Q4, IF = 0,518)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 47, No. 2, pp 259-269",
+            "published_date": "2020"
+        },
+        {
+            "title": "Microstructural characterization of ULC steel",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Materials Science (ISSN 2083-4799)",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.20, No. 1, pp 71-81",
+            "published_date": "2020"
+        },
+        {
+            "title": "Change in the strength of steel grade 11 loaded at room temperature",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Science Forum (ISSN 1662-9752)",
+            "journal_ranking": "Scopus (Q4, IF = 0,501)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.985, pp 185-192",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nghiên cứu định hướng tinh thể của thép cacbon siêu thấp bằng phương pháp hiển vi điện tử quét và nhiễu xạ điện tử tán xạ ngược",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học - Công nghệ Kim loại (ISSN 1859-4344)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 90, pp 2-6",
+            "published_date": "2020"
+        },
+        {
+            "title": "Bake hardening effect of the low strength interstitial free steel",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Metallurgical and Materials Engineering (ISSN 2217-8961)",
+            "journal_ranking": "ESCI (Q4, IF = 0,435)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 26, No. 3, pp 293-301",
+            "published_date": "2020"
+        },
+        {
+            "title": "Ảnh hưởng của nhiệt độ đến cơ tính của thép P22 chịu ứng suất kéo không đổi",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học - Công nghệ Kim loại (ISSN 1859-4344)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 93, pp 2-6",
+            "published_date": "2020"
+        },
+        {
+            "title": "Hardening effect of the interstitial free steel due to cold rolling",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering (ISSN 2195-4356)",
+            "journal_ranking": "Scopus (Q4, IF = 0,667)",
+            "citation_count": 1,
+            "volume_issue_pages": "pp 113-117",
+            "published_date": "2021"
+        },
+        {
+            "title": "Desulphurization of hot metal in pretreatment process with a flux containing basic oxygen furnace slag and CaO",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering (ISSN 2195-4356)",
+            "journal_ranking": "Scopus (Q4, IF = 0,667)",
+            "citation_count": 3,
+            "volume_issue_pages": "pp 541-546",
+            "published_date": "2021"
+        },
+        {
+            "title": "Study on the reducibility of iron ore pellets at high temperature",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Science, Technology and Engineering (ISSN 2525-2461)",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol.6 3, No. 4, pp3-7",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu khả năng sử dụng xỉ luyện thép làm chất trợ dung khử tạp chất của gang lỏng trong quy trình tiền xử lý",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam (ISSN 1859-4794)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3, pp 55-58",
+            "published_date": "2022"
+        },
+        {
+            "title": "The formation of Al-Cu-Fe quasicrystal phase by mechanical alloying and subsequent heat treatment",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Vật lý chất rắn và Khoa học Vật liệu Toàn Quốc (ISBN 978-604-316-838-9)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp 939-942",
+            "published_date": "2022"
+        },
+        {
+            "title": "Amorphization of Al82Fe12Ni2Y4 alloy induced by mechanical alloying and thermal stability of the amorphous upon heat treating",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science and Technology (ISSN 2734-9381)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 60 (6A) pp 48-54",
+            "published_date": "2022"
+        },
+        {
+            "title": "Improving the strength of prestressed steel ASTM A633 grade C by combination of the Cr-Ti alloying and heat treatment.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology: Engineering and Technology for Sustainable Development (ISSN 2734-9381)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 32, Issue 3, pp 59-66",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effect of temperature on desulphurization of liquid iron using basic oxygen furnace slag.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Science and Technology (ISSN 1662-0356)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 116, pp 35-41",
+            "published_date": "2022"
+        },
+        {
+            "title": "Study on a Recycling Solution of Basic Oxygen Furnace Slag in Pelletizing Process",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Science and Technology (ISSN 1662-0356)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 116, pp 29-34",
+            "published_date": "2022"
+        },
+        {
+            "title": "Decreasing mechanical properties of the superheater steel grade P22 heated at elevated temperature under constant stress.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Acta Metallurgica Slovaca (ISSN 1335-1532)",
+            "journal_ranking": "ESCI (Q3, IF = 0,961)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 28, No. 4, pp 197-202",
+            "published_date": "2022"
+        },
+        {
+            "title": "Synthesis and magnetic properties of Al-Cu-Fe quasicrystals prepared by mechanical alloying and heat treatment",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Material Research (ISSN 2044-5326)",
+            "journal_ranking": "SCIE (Q2, IF=2,59)",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol 38, pp 644-653",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effect of copper on the grain size and tensile strength of ultra-low carbon steel.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology: Engineering and Technology for Sustainable Development (ISSN 2734-9381)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 33, Issue. 2, pp 36-43",
+            "published_date": "2023"
+        },
+        {
+            "title": "Study on structure and reducibility of iron ore sinter containing basic oxygen furnace slag",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology: Engineering and Technology for Sustainable Development (ISSN 2734-9381)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 34, issue. 2 pp 1-8",
+            "published_date": "2024"
+        },
+        {
+            "title": "Influence of annealing temperature on microstructure and magnetic properties of high Silicon electric steel",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering (ISSN 2195-4356)",
+            "journal_ranking": "Scopus (Q4, IF = 0,16)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2, pp 179-185",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu ảnh hưởng của lưu huỳnh tới thép dễ cắt gọt",
+            "role": "Principal Investigator",
+            "project_code": "T2010-98",
+            "management_level": "",
+            "period": "Tháng 4/2010 đến 12/2010",
+            "acceptance_date": "15/12/2010",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu tính chất thâm ướt của pha lỏng Fe-C trên vật liệu các bon nhằm giảm khí thải CO2 trong công nghệ sản xuất gang lò cao",
+            "role": "Principal Investigator",
+            "project_code": "T2017-LN-09",
+            "management_level": "",
+            "period": "12/2017 đến 11/2018",
+            "acceptance_date": "10/3/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Ảnh hưởng của một số nhân tố đến khả năng khử tạp chất Lưu Huỳnh (S) trong gang khi sử dụng xỉ luyện thép lò thổi",
+            "role": "Principal Investigator",
+            "project_code": "T2020-PC-27",
+            "management_level": "",
+            "period": "4/2020 đến 4/2021",
+            "acceptance_date": "28/9/2022",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

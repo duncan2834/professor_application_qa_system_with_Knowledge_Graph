@@ -1,0 +1,912 @@
+{
+    "papers": [
+        {
+            "title": "Phylogeny and species identification of the family Enterobacteriaceae based on dnaJ sequences",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Systematic and Applied Microbiology /ISSN: 1466-5026",
+            "journal_ranking": "ISI (IF: 2.866) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 58, issue 2, page: 153-161",
+            "published_date": "3/2007"
+        },
+        {
+            "title": "dnaJ gene sequence-based assay for species identification and phylogenetic grouping in the genus Staphylococcus",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Systematic and Evolutionary Microbiology /ISSN: 0723-2020; eISSN: 1618-0987",
+            "journal_ranking": "ISI (IF: 2.662) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 57, issue 1, page: 25-30",
+            "published_date": "1/2007"
+        },
+        {
+            "title": "The dnaJ gene as a novel phylogenetic marker for identification of Vibrio species",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Systematic and Applied Microbiology /ISSN: 0723-2020; eISSN: 1618-0984",
+            "journal_ranking": "ISI (IF: 2.481) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 30, issue 3, page: 309-315",
+            "published_date": "1/2007"
+        },
+        {
+            "title": "Mycobacterium kumamotonense sp. nov recovered from clinical specimen and the first isolation report of Mycobacterium arupense in Japan: Novel slowly growing, nonchromogenic clinical isolates related to Mycobacterium terrae complex",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Microbiology and Immunology/ISSN: 0385-5600",
+            "journal_ranking": "ISI (IF: 1.502) Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 50, issue 11, page: 889-897",
+            "published_date": "9/2006"
+        },
+        {
+            "title": "dnaJ and gyrB gene sequence relationship among species and strains of genus Streptococcus",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Systematic and Applied Microbiology /ISSN: 0723-2020; eISSN: 1618-0984",
+            "journal_ranking": "ISI (IF: 2.689) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 29, issue 5, page: 368-374",
+            "published_date": "7/2006"
+        },
+        {
+            "title": "Xác định độ nhạy và độ đặc hiệu của phản ứng PCR chẩn đoán ETEC",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 3, trang 30 - 34",
+            "published_date": "12/2001"
+        },
+        {
+            "title": "Ceftriaxone resistance in Neisseria gonorrhoeae associated with the penA-60.001 allele in Hanoi, Viet Nam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lancet Infectious Disease/ISSN: 1473-3099",
+            "journal_ranking": "ISI (IF: 56.3) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 24, issue 6, page E351-E352",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Antibiotic resistance, biofilm formation, ans persistent phenotype of Klebsiella pneumoniae in a Vietnamese tertiary hospital: A focus on amikacin",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Microbial Drug Resistance/ISSN: 1076-6294; eISSN: 1931-8448",
+            "journal_ranking": "ISI (IF: 2.706) Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 30, No 5, page: 203-209",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "High Prevalence of Panton-Valentine Leukocidin Among Staphylococcus aureus Causing Acute Hematogenous Bone and Joint Infections From a Tertiary Children's Hospital in Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Pediatric Infectious Disease Journal/ISSN: 0891-3668;e-ISSN: 1532-0987",
+            "journal_ranking": "Pubmed (IF: 3.6) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "doi: 10.1097/1NF.0000000000004305",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Molecular Epidemiology of Escherichia coli Resistant to Carbapenems, Fluoroquinolones, and Aminoglycosides Isolated from One of the Largest Hospitals in Vietnam in 2014–2019",
+            "num_authors": 16,
+            "is_main_author": false,
+            "journal_name_ISSN": "Canadian Journal of Infectious Diseases and Medical Microbiology /ISSN: 1712-9532; eISSN: 1918-1493",
+            "journal_ranking": "ISI (IF: 2.585) Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 2024, 2711353, 6 pages",
+            "published_date": "1/2024"
+        },
+        {
+            "title": "Optimizing Meropenem in Highly Resistant Klebsiella pneumoniae Environments: Population Pharmacokinetics and Dosing Simulations in Critically Ill Patients",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Antimicrobial Agents and Chemotherapy/ISSN: 0066-4804; eISSN: 1098-6596",
+            "journal_ranking": "ISI (IF: 5.938) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 66, issue 11, page e0032122",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Predicting mortality in intensive care unit patients infected with Klebsiella pneumoniae: A retrospective cohort study",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Infection and Chemotherapy/ISSN: 1341-321X; eISSN: 1437-7780",
+            "journal_ranking": "ISI (IF: 2.065) Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 28, page 10-18",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Activity of moxifloxacin against biofilms formed by clinical isolates of Staphylococcus aureus differing by their resistant or persistaner character to fluoroquinolones",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Frontiers in Microbiology /eISSN:1664-302X",
+            "journal_ranking": "ISI (IF: 6.064) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 12, 785573",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "The persister character of clinical isolates of Staphylococcus aureus contributes to faster evolution to resistance and higher survival in THP-1 monocytes: A study with moxifloxacin",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Frontiers in Microbiology /eISSN:1664-302X",
+            "journal_ranking": "ISI (IF: 5.640) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 11, 587364",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Epidemiology of Enterobacter cloacae strains producing a carbapenemase or metallo-beta-lactamase in Vietnamese clinical settings in 2014–2017",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medical Microbiology /ISSN: 0022-2615; eISSN: 1473-5644",
+            "journal_ranking": "Pubmed (IF: 2.472) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 69, issu4 4, page 530-536",
+            "published_date": "4/2020"
+        },
+        {
+            "title": "Antibiotic resistance, biofilm formation, and intracellular survival as possible determinats of persistent or recurrent infections by Staphylococcus aureus in a Vietnamese tertiary hospital: Focus on bacterial response to moxifloxacin",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Microbial Drug Resistance/ISSN: 1076-6294; eISSN: 1931-8448",
+            "journal_ranking": "ISI (IF: 3.431) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 26, issue 6, page 537-544",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "Determination of optimal loading and maintenance doses for continuous infusion of vancomycin in critically ill patients: Population pharmacokinetic modelling and simulations for improved dosing schemes",
+            "num_authors": 24,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Antimicrobial Agents/ISSN: 0924-8579; eISSN: 1872-7913",
+            "journal_ranking": "ISI (IF: 10.8) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 54, issue 6, page 702-708",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "High prevalence of colinization with carbapenem-resistant Enterobacteriaceae among patients admitted to Vietnamese hospitals: Risk factors and burden of disease",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Infection/ISSN: 0163-4453; eISSN: 1532-2742",
+            "journal_ranking": "ISI (IF: 4.842) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 79, issue 2, page 115-122",
+            "published_date": "8/2019"
+        },
+        {
+            "title": "Antimicrobial susceptibility of Burkholderia pseudomallei isolates in Northern Vietnam",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Global Antimicrobial Resistance/ISSN: 2213-7165; eISSN: 2213-7173",
+            "journal_ranking": "ISI (IF: 4.6) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 18, page 34-36",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Occurrence of antibiotic residues and antibiotic-resistant bacteria in effluents of pharmaceutical manufacturers and other sources around Hanoi, Vietnam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science of the Total Environment/ISSN:0048-9697; eISSN:1879-1026",
+            "journal_ranking": "ISI (IF: 5.589) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 645, page 393-400",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Emergence of colistin-resistant Escherichia coli clinical isolates harboring mcr-1 in Vietnam",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Infectious Diseases/ISSN: 1201-9712; ISSN:1878-3511",
+            "journal_ranking": "ISI (IF: 3.202) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 63, page 72-73",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Antibiotic resistance and antibiotic resistance genes in Escherichia coli isolates from hospital wastewater in Vietnam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Environmental Research and Public Health/ISSN: 0868-2836",
+            "journal_ranking": "ISI (IF: 2.145) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 14, issue 7, page 699-710",
+            "published_date": "7/2017"
+        },
+        {
+            "title": "DNA-magnetic bead detection using disposable cards and the anisotropic magnetoresistive sensor",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology/ISSN: 2043-6262",
+            "journal_ranking": "ISI (IF: 1.36) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 14, No 4 page 045006 (8pp)",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Multidrug-resistant ST235 Pseudomonas aeruginosa clinical isolates producing IMP-26 with increased carbapenem hydrolyzing activities in Vietnam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Antimicrobial Agents and Chemotherapy/ISSN: 0066-4804; eISSN: 1098-6596",
+            "journal_ranking": "ISI (IF: 4.302) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 60, issue 11, page: 6853-6858",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "IMP-51, a Novel IMP-Type Metallo-B-Lactamase with Increased Doripenem- and Meropenem-Hydrolyzing Activities, in a Carbapenem-Resistant Pseudomonas aeruginosa Clinical Isolate",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Antimicrobial Agents and Chemotherapy/ISSN: 0066-4804; eISSN: 1098-6597",
+            "journal_ranking": "ISI (IF: 4.415) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 59, issue 11, page: 7090-7093",
+            "published_date": "11/2015"
+        },
+        {
+            "title": "Evaluation the Etest method for detecting colistin suceptibility of multi-drug resistant Gram-negative isolates in Vietnam",
+            "num_authors": 17,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Infection and Chemotherapy/ISSN: 1341-321X; eISSN: 1437-7780",
+            "journal_ranking": "ISI (IF: 2.065) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 21, issue 8, page: 617-619",
+            "published_date": "8/2015"
+        },
+        {
+            "title": "The efficacy and nephrotoxicity associated with colistin use in an intensive care unit in Vietnam: Use of colistin in a population of lower body weight",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Infectious Diseases/ISSN: 1201-9712; eISSN: 1878-3511",
+            "journal_ranking": "ISI (IF: 2.229) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 35, page: 18-23",
+            "published_date": "6/2015"
+        },
+        {
+            "title": "Epidemiology of fungal keratitis in North Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Clinical and Experimental Ophthalmology/ISSN: 2155-9570",
+            "journal_ranking": "IF: 1.353, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 3, No 7 page: 238-242",
+            "published_date": "8/2012"
+        },
+        {
+            "title": "Rapid and specific identification of 5 human pathogenic Vibrio species by multiplex polymerase chain reaction targeted to dnaJ gene",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Diagnostic Microbiology and Infectious Disease/ISSN: 20732-8893",
+            "journal_ranking": "ISI (IF: 2.866) Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 59, issue 3, page: 251-257",
+            "published_date": "11/2007"
+        },
+        {
+            "title": "Use of the novel phylogenetic marker dnaJ and DNA-DNA hybridization to clarify interrelationships within the genus Aeromonas",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Systematic and Evolutionary Microbiology /ISSN: 0723-2020; eISSN: 1618-0986",
+            "journal_ranking": "ISI (IF: 2.662) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 57, issue 6, page: 1232-1237",
+            "published_date": "6/2007"
+        },
+        {
+            "title": "Mycobacterium species identification – a new approach via dnaJ gene sequencing",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Systematic and Applied Microbiology /ISSN: 0723-2020; eISSN: 1618-0984",
+            "journal_ranking": "ISI (IF: 2.481) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 30, issue 6, page: 453-462",
+            "published_date": "9/2007"
+        },
+        {
+            "title": "Rapid multiplex immunofluorescent assay to detect antibodies against Burkholderia pseudomallei and taxonomically closely related nonfermenters",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Systematic and Evolutionary Microbiology /ISSN: 0723-2020; eISSN: 1618-0990",
+            "journal_ranking": "Pubmed (IF: 1.212) Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 60, issue 4, page: 230-234",
+            "published_date": "7/2007"
+        },
+        {
+            "title": "Mức độ đề kháng và tỉ lệ vi khuẩn dai dẳng với colistin của các chủng Klebsiella pneumoniae",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 178, số 5, trang: 9-16",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Mức độ nhạy cảm với kháng sinh mới imipenem/relebactam của các chủng Klebsiella pneumoniae và Pseudomonas aeruginosa kháng carbapenem",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 178, số 5, trang: 24-31",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Nhiễm trùng do các trực khuẩn Gram âm thường gặp tại Trung tâm Hồi sức tích cực, Bệnh viện Bạch Mai năm 2023",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354-080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 178, số 5, trang: 43-51",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, vi sinh của nhiễm khuẩn huyết do Staphylococcus aureus ở trẻ em tại Bệnh viện Nhi Trung ương",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 178, số 5, trang: 52-60",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Mức độ nhạy cảm với kháng sinh và kiểu gene carbapenemase của các chủng Pseudomonas aeruginosa phân lập tại Bệnh viện Đại học Y Hà Nội, 2029-2022",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 178, số 5, trang: 61-69",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Mức độ nhạy cảm với kháng sinh của một số loài vi khuẩn gây nhiễm trùng huyết thường gặp phân lập tại Bệnh viện Bạch Mai năm 2023",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 178, số 5, trang: 70-81",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Hoạt tính kháng khuẩn in vitro của Daptomycin với cac chủng Staphylococcus aureus",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 170, số 9, trang: 86-95",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Xác định hiệu quả kháng khuẩn của ceftolozane/tazobactam với các chủng Pseudomonas aeruginosa tại Bệnh viện Bạch Mai",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 168, số 7, trang 86-93",
+            "published_date": "8/2023"
+        },
+        {
+            "title": "Thử nghiệm phối hợp colistin và amikacin trên các chủng Klebsiella pneumoniae kháng carbapenem",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 163, số 2, trang 136-144",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Phân bố của các chủng Klebsiella pneumoniae theo giá trị nồng độ ức chế tối thiểu của amikacin",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN 2354-080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 160, số 12V1, trang 26-32",
+            "published_date": "1/2023"
+        },
+        {
+            "title": "Xác định kiểu gen mã hóa carbapenemase của các chủng Klebsiella pneumoniae sinh carbapenemase chưa phân nhóm được bằng hệ thống phoenix M50",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 160, số 12V1, trang 1-7",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Nồng độ ức chế tối thiểu và mức độ dai dẳng kháng sinh với vancomycin của các chủng Staphylococcus aureus",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN 2354-080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 160, số 12V2, trang 12-18",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng, tính nhạy cảm kháng sinh, kết quả điều trị và một số yếu tố tiên lượng tử vong ở bệnh nhân nhiễm trùng huyết do nấm Candida tại Bệnh viện Bạch Mai (6/2019 – 6/2022)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 128, trang 78-90",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Định danh đến cấp độ loài một số chủng mycobacteria bằng phương pháp giải trình tự gen",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 157, số 9, trang 17-25",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "Xác định hiệu quả phối hợp hai carbapenem in vitro trên các chủng K. pneumoniae sinh carbapenemase",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 157, số 9, trang 1-8",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "Xác định mức độ nhạy cảm với thuốc kháng nấm của chủng nấm Aspergillus phân lập được ở bệnh nhân nhiễm nấm phổi xâm lấn tại Bệnh viện Bạch Mai từ tháng 7/2020 – 6/2021",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 120, trang 39-45",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Thử nghiệm phối hợp hai carbapenem trên các chủng K. pneumoniae sinh carbapenemase bằng phương pháp checkerboard.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 120, trang 24-29",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Phân loại carbapenemase và kiểu cách đề kháng của chủng Klebsiella kháng carbapenem",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 119, trang 115-120",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Mối liên quan giữa mức độ kháng carbapenem và sự xuất hiện gen mã hóa carbapenemase của các chủng Acinetobacter baumannii phân lập tại một số bệnh viện",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Việt Nam/ISSN: 2615-9759",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 62, số 7, trang 35-39",
+            "published_date": "7/2020"
+        },
+        {
+            "title": "Nghiên cứu kiểu hình carbapenemase và tình hình đề kháng kháng sinh của các chủng Enterobacteriaceae kháng carbapenem",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 116, trang 53-59",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "Xác định mức độ nhạy cảm kháng sinh và kiểu gene PFGE của các chủng Staphylococcus aureus phân lập tại khoa Thận Tiết niệu, Bệnh viện Bạch Mai năm 2017 – 2018",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 116, trang 23-28",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, vi sinh và phác đồ điều trị nhiễm khuẩn do Klebsiella pneumoniae",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 115, trang 47-55",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Thực trạng giám sát nồng độ vancomycin trong máu",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 115, trang 56-63",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Tình hình nhiễm khuẩn Pseudomonas aeruginosa tại khoa Hồi sức tích cực, Bệnh viện Bạch Mai từ năm 2016 đến năm 2018",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN: 1859-1872",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 483, số 1, trang 161-164",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, cận lâm sàng và một số yếu tố tiên lượng tử vong ở bệnh nhân nhiễm khuẩn huyết Burkholderia pseudomallei",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 107, trang 54-62",
+            "published_date": "3/2019"
+        },
+        {
+            "title": "Mối liên hệ kiểu gen và kiểu hình đề kháng kháng sinh của các chủng Acinetobacter baumannii phân lập tại một số bệnh viện ở Việt Nam năm 2016.",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN: 1859-1873",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 2, trang 120-124",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Đặc điểm viêm phổi liên quan thở máy tại khoa Hồi sức tích cực, Bệnh viện Bạch Mai giai đoạn 2017-2018",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN: 1859-1868",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 470, số 1, trang 198-201",
+            "published_date": "9/2018"
+        },
+        {
+            "title": "Căn nguyên gây nhiễm trùng huyết và tình hình nhạy cảm kháng sinh của một số vi khuẩn gây bệnh phân lập được tại khoa Hồi sức tích cực, Bệnh viện Bạch Mai",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN: 1859-1869",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 470, số 1, trang 143-146",
+            "published_date": "9/2018"
+        },
+        {
+            "title": "Xác định nồng độ ức chế tối thiểu của tigecycline với một số chủng vi khuẩn phân lập tại Bệnh viện Bạch Mai",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 113, số 4, trang 10-16",
+            "published_date": "9/2018"
+        },
+        {
+            "title": "Tình hình đề kháng kháng sinh của Klebsiella pneumoniae, Pseudomonas aeruginosa và Acinetobacter baumannii phân lập tại Khoa Hồi sức tích cực và Trung tâm Hô hấp Bệnh viện Bạch Mai giai đoạn 2012-2016",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 101, trang 43-51",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Tỷ lệ nhiễm và mức độ nhạy cảm kháng sinh của Streptococcus agalactiae ở phụ nữ mang thai đến khám tại Bệnh viện Bạch Mai năm 2015",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí truyền nhiễm Việt Nam/ISSN: 0866-7529",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2 (22), trang 56-60",
+            "published_date": "2018"
+        },
+        {
+            "title": "Mức độ kháng kháng sinh của một số vi khuẩn thường gặp gây nhiễm trùng da và mô mềm ở bệnh nhân đái tháo đường phân lập tại Bệnh viện Bạch Mai.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 109, số 4, trang 27-34",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Mức độ nhạy cảm với kháng sinh của các trực khuẩn Gram âm phân lập tại Khoa Điều trị tích cực Bệnh viện Bạch Mai",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 109, số 4, trang 19-26",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Tình hình nhiễm nấm máu tại Bệnh viện Bạch Mai từ tháng 1/2016 đến tháng 10/2016",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 107, số 2, trang 72-78",
+            "published_date": "4/2017"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm dịch tễ học, lâm sàng và các yếu tố tiên lượng ở bệnh nhân nhiễm Streptococcus suis điều trị tại Bệnh viện Bệnh Nhiệt đới Trung ương (2015-2016)",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí truyền nhiễm Việt Nam/ISSN: 0866-7529",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4 (16), trang 25-29",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Thử nghiệm phối hợp kháng sinh bằng phương pháp E-test trên một số chủng A. baumannii và P. aeruginosa đa kháng thuốc phân lập tại Bệnh viện Bạch Mai năm 2013",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 94, trang 61-67",
+            "published_date": "6/2016"
+        },
+        {
+            "title": "Khảo sát nồng độ ức chế tối thiểu (MIC) của vancomycin đối với Staphylococcus aureus tại Bệnh viện Bạch Mai",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1, số 92, trang 271-278",
+            "published_date": "1/2016"
+        },
+        {
+            "title": "Tình hình kháng kháng sinh của Burkholderia pseudomallei phân lập tại Bệnh viện Bạch Mai từ 6/2011 đến 9/2015",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí truyền nhiễm Việt Nam/ISSN: 0866-7529",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4 (12), trang 51-55",
+            "published_date": "12/2015"
+        },
+        {
+            "title": "Thử nghiệm hoạt tính diệt khuẩn của các kháng sinh đường uống trên các chủng Haemophilus influenzae phân lập ở đường hô hấp trên của các bệnh nhân người lớn tại khoa khám bệnh – Bệnh viện Bạch Mai, 2013",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868-2836",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24, số 11, trang 20-25",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Thử nghiệm hoạt tính diệt khuẩn của các kháng sinh đường uống trên các chủng Streptococcus pneumoniae phân lập ở đường hô hấp trên của các bệnh nhân người lớn tại khoa khám bệnh – Bệnh viện Bạch Mai, 2013",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868-2837",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24, số 11, trang 14-19",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Mức độ kháng kháng sinh của Staphyloccoccus aureus phân lập tại bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 90, số 5, trang 66-73",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Nồng độ ức chế tối thiểu của colistin với các chủng A. baumannii và P. aeruginosa đa kháng thuốc tại Bệnh viện Bạch Mai năm 2012",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học lâm sàng/ISSN: 1859-395X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 71, trang 125-131",
+            "published_date": "5/2013"
+        },
+        {
+            "title": "Ứng dụng kỹ thuật PCR và giải trình tự trong chẩn đoán định danh nguyên nhân viêm mủ nội nhãn nội sinh do vi khuẩn.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nhãn khoa Việt Nam/ISSN: 1859-3593",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 20, trang 5-11",
+            "published_date": "11/2010"
+        },
+        {
+            "title": "Giá trị của kỹ thuật PCR khuếch đại vùng gen D1/D2 trong chẩn đoán nhanh viêm loét giác mạc do nấm",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 61, số 2, trang 6-11",
+            "published_date": "4/2009"
+        },
+        {
+            "title": "Đặc điểm genotype của các chủng virus dại lưu hành ở một số tỉnh miền Bắc Việt Nam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354-080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 60, số 1, trang 25-30",
+            "published_date": "2/2009"
+        },
+        {
+            "title": "Chẩn đoán nhanh viêm loét giác mạc do nấm bằng kỹ thuật semi-nested PCR",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 56, số 4, trang 46-49",
+            "published_date": "8/2008"
+        },
+        {
+            "title": "Xác định tần suất mang các gen β-lactamase phổ rộng thường gặp ở các chủng EAEC",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 52, số 5, trang 52-56",
+            "published_date": "11/2007"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Xác định nồng độ ức chế tối thiểu của colistin với các chủng A. baumannii và P. aerugnosa đa kháng phân lập tại bệnh viện Bạch Mai năm 2012",
+            "role": "Principal Investigator",
+            "project_code": "BM-2012-4",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2012 - 2013",
+            "acceptance_date": "19/7/2013",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Thử nghiệm phối hợp kháng sinh bằng phương pháp E-test trên một số chủng A. baumannii và P. aeruginosa đa kháng thuốc phân lập tại bệnh viện Bạch Mai năm 2013",
+            "role": "Principal Investigator",
+            "project_code": "BM-2013-4",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2013-2014",
+            "acceptance_date": "30/8/2016",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Thử nghiệm môi trường ChromID®MRSA SMART phát hiện chủng Staphylococcus aureus kháng methicillin",
+            "role": "Principal Investigator",
+            "project_code": "BM-2014-173",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2014-2015",
+            "acceptance_date": "30/8/2016",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đánh giá giá trị của phương pháp Etest xác định MIC colistin trên các chủng trực khuẩn Gram âm đa kháng",
+            "role": "Principal Investigator",
+            "project_code": "BM-2015-219",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2015 -2016",
+            "acceptance_date": "8/1/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Tìm hiểu cơ chế đề kháng carbapenem do carbapenemase ở một số chủng Enterobacteriaceae kháng carbapenem bằng kỹ thuật bất hoạt carbapenem cải tiến khoanh giấy phối hợp và PCR",
+            "role": "Principal Investigator",
+            "project_code": "BM-2017-802-219",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2017-2018",
+            "acceptance_date": "8/1/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xác định các nhóm carbapenemase ở một số chủng K. pneumoniae kháng carbapenem bằng BD Phoenix CPO Detect",
+            "role": "Principal Investigator",
+            "project_code": "BM-2019-1120-189",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2018 - 2019",
+            "acceptance_date": "12/4/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xác định hiệu quả phối hợp hai carbapenem invitro trên các chủng K. pneumoniae sinh carbapenemase",
+            "role": "Principal Investigator",
+            "project_code": "BM-2020-1329",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2020 - 2021",
+            "acceptance_date": "29/7/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xác định tỉ lệ dai dẳng kháng sinh, khả năng hình thành biofilm của các chủng Staphylococcus aureus gây nhiễm trùng huyết phân lập tại Bệnh viện Bạch Mai",
+            "role": "Principal Investigator",
+            "project_code": "BM-2022-128",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2022 - 2023",
+            "acceptance_date": "15/11/2023",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Thử nghiệm phối hợp colistin và amikacin invitro trên các chủng Klebsiella pneumoniae kháng carbapenem phân lập tại Trung tâm Hồi sức tích cực, Bệnh viện Bạch Mai - lập tại Bệnh viện Bạch Mai",
+            "role": "Principal Investigator",
+            "project_code": "BM-2022-127",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2022 - 2023",
+            "acceptance_date": "15/11/2023",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Vi khuẩn y học",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Giáo dục Việt Nam",
+            "publish_year": "2012",
+            "num_authors": 11,
+            "is_editor_in_chief": false,
+            "compiled_pages": "180-197; 382-393",
+            "verification_document_id": "1576/QĐ-YHN, 22/6/2010"
+        },
+        {
+            "title": "Vi sinh - Ký sinh trùng lâm sàng Tập 1",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản y học",
+            "publish_year": "2014",
+            "num_authors": 15,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Not specified",
+            "verification_document_id": "Not specified"
+        },
+        {
+            "title": "Vi sinh - Ký sinh trùng lâm sàng Tập 2",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản y học",
+            "publish_year": "2014",
+            "num_authors": 15,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Not specified",
+            "verification_document_id": "Not specified"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

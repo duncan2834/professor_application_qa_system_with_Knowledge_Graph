@@ -1,0 +1,471 @@
+{
+    "papers": [
+        {
+            "title": "To enhance VNPT'S competitiveness in the transition period",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc tế AIC (Asian Info-communications Council) lần thứ 25, 23-27 April 2001,",
+            "journal_ranking": "International Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p42, 82, 89",
+            "published_date": "April, 2001"
+        },
+        {
+            "title": "Tái cấu trúc các công ty chứng khoán ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo, Giấy phép xuất bản số: 1348-2012/CXB/01-178/ĐHKTQ D",
+            "journal_ranking": "Domestic Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p177-192",
+            "published_date": "2012"
+        },
+        {
+            "title": "Giải pháp về tăng vốn điều lệ đối với các công ty chứng khoán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo, Số QĐ xuất bản: 114/QĐ-NXB TTTT ngày 23/4/2014, Mã số: KK 32 Hm 14",
+            "journal_ranking": "Domestic Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p19-25",
+            "published_date": "April, 2014"
+        },
+        {
+            "title": "Đổi mới giảng dạy song hành với đổi mới nghiên cứu khoa học tại Trường Đại học Đại Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo, QĐ xuất bản: 93/QĐ-NXBĐHKT QĐ 21/05/2015, ISBN: 978-604-927-967-6",
+            "journal_ranking": "Domestic Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p155-163",
+            "published_date": "May, 2015"
+        },
+        {
+            "title": "Thực trạng kinh doanh của khối công ty tài chính cổ phần có vốn góp của các tập đoàn/tổng công ty ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo, QĐ xuất bản: 66/QĐ-NXBĐHKT QD ngày 14/04/2016, ISBN: 978-604-946-086-9",
+            "journal_ranking": "Domestic Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "p390-395",
+            "published_date": "April, 2016"
+        },
+        {
+            "title": "Hoạt động của các công ty tài chính trong năm 2008: Chưa hết khó khăn",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dự báo và Kinh tế (ISSN: 0866-7120)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "16, p20-22",
+            "published_date": "2008"
+        },
+        {
+            "title": "Cơ hội và thách thức đối với kinh doanh tín dụng tiêu dùng của các công ty tài chính Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính - Kế toán (ISSN: 1859-4093)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "09 (146), p52-55",
+            "published_date": "2015"
+        },
+        {
+            "title": "Cách khắc phục điểm yếu của công ty tài chính có vốn góp từ tập đoàn, tổng công ty nhà nước",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dự báo và Kinh tế (ISSN: 0866-7120)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "18, p16-18",
+            "published_date": "2015"
+        },
+        {
+            "title": "Sinh viên đầu tư chứng khoán: “Học đi đôi với hành\"",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dự báo và Kinh tế (ISSN: 0866-7120)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số chuyên đề 6/2015, p4-5",
+            "published_date": "2015"
+        },
+        {
+            "title": "Thực trạng phát triển hoạt động bảo hiểm tiền gửi tại Việt Nam hiện nay",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Châu Phi và Trung Đông (ISSN: 1859-0519)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "06 (118), p47-55",
+            "published_date": "2015"
+        },
+        {
+            "title": "Bàn về vấn đề nâng cao năng lực tài chính đối với Bảo hiểm Tiền gửi Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kế toán và Kiểm toán (ISSN: 1859-1914)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "143, p37-40",
+            "published_date": "2015"
+        },
+        {
+            "title": "Hoàn thiện cơ sở pháp lý về tổ chức và hoạt động của công ty tài chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính (ISSN: 005-56)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "1 (632), p72-74",
+            "published_date": "2016"
+        },
+        {
+            "title": "Sáp nhập doanh nghiệp trước sức ép cạnh tranh và hội nhập.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính, ISSN: 005-56",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "1 (634), p77-79",
+            "published_date": "2016"
+        },
+        {
+            "title": "An assessment of key factors affecting farm households' livelihood diversification strategies using a novel approach of multivariate probit: A case of rural Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Indian Journal of Economics and Development (ISSN 2277-5412, eISSN 2322-0430)",
+            "journal_ranking": "Scopus Q4, H-index =5",
+            "citation_count": 0,
+            "volume_issue_pages": "18 (1), 3/1/2022, https://doi.org/10.35716/IJED/22010, P01-10",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "Diversification, government support, and firm performance",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management Journal (ISSN & eISSN: 2331-1975)",
+            "journal_ranking": "Scopus Q2, IF: 3, H-index =3.5",
+            "citation_count": 0,
+            "volume_issue_pages": "10 (2), 19/5/2023, https://doi.org/10.1080/23311975.2023.2215072",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "How does digital transformation impact bank performance?",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Economics & Finance (ISSN: 2332-2039)",
+            "journal_ranking": "Scopus Q2, IF: 2.3, H-index =2.4",
+            "citation_count": 0,
+            "volume_issue_pages": "11 (1), Published online: 05/30/2023 https://doi.org/10.1080/23322039.2023.2217582",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Financial Development and Economic Growth: Credit Distribution in Southeast Asian Countries",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Journal of Distribution Science (ISSN: 1738-3110, eISSN 2093-7717)",
+            "journal_ranking": "Scopus Q4, H-index: 15",
+            "citation_count": 0,
+            "volume_issue_pages": "03/30/2024, Link: https://koreascience.kr/article/JAKO202408143212918.page, DOI: https://doi.org/10.15722/jds.22.03.202403.49, P49-58",
+            "published_date": "March, 2024"
+        },
+        {
+            "title": "Risks from M&A between Commercial Banks and Financial Companies in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc tế, Annual Vietnam Academic Research Conference on Global Business, Economics, Finance and Social Sciences, ISBN: 978-1-943579-92-1",
+            "journal_ranking": "International Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "Link: https://globalbizresearch.org/Vietnam_Conference_2016_Aug/conference_paper.html",
+            "published_date": "2016"
+        },
+        {
+            "title": "Impact of sensory marketing on consumer behavior in Vietnam: A case study of Starbucks",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc tế, The 11th Conference on international economic cooperation and integration (CEICI 2023), ISBN: 978-604-369-860-2",
+            "journal_ranking": "International Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "Link: https://drive.google.com/drive/folders/1PoTF04pyEKrQ14ZMHTF7z5KlVuyGoOg4?usp=sharing",
+            "published_date": "2023"
+        },
+        {
+            "title": "Động lực học tập của sinh viên khối ngành kinh tế trước cuộc cách mạng công nghiệp 4.0.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính (ISSN: 005-56)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "2 (663), p24-27",
+            "published_date": "2017"
+        },
+        {
+            "title": "Enhancing responsibility and innovating the operation of the Supervisory Board in joint stock companies.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Riview of Finance (ISSN: 2615-8973)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "2 (1+2), P37-40",
+            "published_date": "2019"
+        },
+        {
+            "title": "Management solutions for consumer credit business activities in Vietnam market",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Review of Finance (ISSN: 2615-8973)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "3 (1), p22-24",
+            "published_date": "2020"
+        },
+        {
+            "title": "Enhancing skills of civil servants to adapt to the requirements of digital government and economy in Vienam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Review of Finance (ISSN: 2615-8973)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "3 (4), P48-51",
+            "published_date": "2020"
+        },
+        {
+            "title": "The development of consumer credit market in Viet Nam and some recommendations",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Review of Finance (ISSN: 2615-8973)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "4 (2), P37-39",
+            "published_date": "2021"
+        },
+        {
+            "title": "Thiếu hụt vốn sinh kế của các hộ gia đình miền núi phía Bắc: Bằng chứng từ tỉnh Thái Nguyên",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á - Thái Bình Dương (ISSN: 0868-3808)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "604, P25-27",
+            "published_date": "2022"
+        },
+        {
+            "title": "Extent to which people perceive and accept Covid-19 vaccines in north central Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "VMOST Journal of Social Sciences and Humanities (P-ISSN: 2734-9748, E-ISSN: 2815-6471)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "64 (2), Doi: 10.31276/VMOSTJOSS.H.64(2).63-74",
+            "published_date": "2022"
+        },
+        {
+            "title": "Factors affecting successful digital transformation of Vietnamese enterprise: The case of Postmart e-commerce platform - Vietnam Post",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asia Pacific Economic Review (ISSN: 0868-3808)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "1 (626+627), p61-63",
+            "published_date": "2023"
+        },
+        {
+            "title": "Electricity consumption and economic growth of Vietnam in 1986 - 2020",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNU Journal of Economics and Business. DOI: https://doi.org/10.57110/vnujeb.v3i2.151,",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "3 (2), Link: https://jeb.ueb.edu.vn/index.php/jeb/article/view/151",
+            "published_date": "2023"
+        },
+        {
+            "title": "Hoàn thiện công tác quản lý dự án đầu tư xây dựng tại Ban Quản lý dự án Trường Đại học Việt Nhật",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo (ISSN: 1859-4972)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 24, p49-53",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tác động của Hiệp định Thương mại Tự do Việt Nam - Hàn Quốc (VKFTA) đến xuất khẩu hàng may mặc của Việt Nam sang Hàn Quốc",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính - Kế toán (ISSN: 1859-4093)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "1 (263), p79-82,",
+            "published_date": "2024"
+        },
+        {
+            "title": "Phát triển bền vững thị trường chứng khoán Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo (ISSN: 1859-4972)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "9, p52-56",
+            "published_date": "2024"
+        },
+        {
+            "title": "Exploring the determinants of digital banking: perspective on barriers to change",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research (ISSN: 2588-1493)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "02 (27), p103-106,",
+            "published_date": "2024"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến hành vi đọc báo điện tử của sinh viên",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo (ISSN: 1859-4972)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "10, p130-133",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đẩy mạnh phát triển trái phiếu xanh tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính - Kế toán (ISSN: 1859-4093)",
+            "journal_ranking": "Domestic Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "1 (261), p5-9",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Dự án: Enhancing Access to Basic Infrastructure (Cải thiện việc tiếp cận cơ sở hạ tầng thiết yếu).",
+            "role": "Key Member",
+            "project_code": "null",
+            "management_level": "Dự án hợp tác giữa JBIC (Nhật Bản), Ngân hàng Thế giới tại Việt Nam",
+            "period": "2002",
+            "acceptance_date": "June, 2002",
+            "rating": "Nhóm hành động chống đói nghèo, Chiến lược thực hiện các mục tiêu phát triển của Việt Nam"
+        },
+        {
+            "title": "ĐT: Xây dựng chương trình khách hàng thân thiết đối với dịch vụ điện thoại di động.",
+            "role": "Principal Investigator",
+            "project_code": "MS: 019-2005-TCT-RDP-QL-74",
+            "management_level": "Institutional Level",
+            "period": "01/2005-12/2005",
+            "acceptance_date": "December, 2005",
+            "rating": "Good"
+        },
+        {
+            "title": "ĐT: Xây dựng phương án tổ chức và phát triển kinh doanh dịch vụ bưu phẩm quảng cáo của Tổng Công ty Bưu chính Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "MS: 06-NV-VKT-2006-TĐ-DADDMB",
+            "management_level": "Institutional Level",
+            "period": "06/2006-12/2007",
+            "acceptance_date": "December, 2007",
+            "rating": "Good"
+        },
+        {
+            "title": "ĐT: Giải pháp phát triển hoạt động bảo hiểm tiền gửi ở Việt Nam hiện nay",
+            "role": "Principal Investigator",
+            "project_code": "589/QĐ-ĐN",
+            "management_level": "Institutional Level",
+            "period": "02/2014-12/2014",
+            "acceptance_date": "June, 2015",
+            "rating": "Excellent"
+        },
+        {
+            "title": "ĐT: Nghiên cứu xây dựng khoá đào tạo ngắn hạn về kỹ năng thích ứng với những yêu cầu của Chính phủ số và kinh tế số",
+            "role": "Principal Investigator",
+            "project_code": "KT.19.08",
+            "management_level": "Institutional Level",
+            "period": "01/2020-06/2020",
+            "acceptance_date": "June, 2021",
+            "rating": "Good"
+        },
+        {
+            "title": "ĐT: Các yếu tố quyết định chiến lược đa dạng hóa sinh kế của các hộ gia đình ở miền núi phía Bắc Việt Nam:",
+            "role": "Principal Investigator",
+            "project_code": "KT.21.10",
+            "management_level": "Institutional Level",
+            "period": "09/2021-08/2022",
+            "acceptance_date": "May, 2022",
+            "rating": "Good"
+        },
+        {
+            "title": "ĐT: Nhân tố ảnh hưởng đến thu hút FDI vào các tỉnh vùng ven biển Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "KT.23.31",
+            "management_level": "Institutional Level",
+            "period": "11/2023-10/2024",
+            "acceptance_date": "June, 2024",
+            "rating": "Good"
+        }
+    ],
+    "books": [
+        {
+            "title": "Mô hình tổ chức và hoạt động của công ty tài chính",
+            "type": "Monograph",
+            "publisher": "NXB Công thương",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Trường Đại học Kinh tế - ĐHQGHN"
+        },
+        {
+            "title": "Quản lý Nhà nước về kinh tế",
+            "type": "Textbook",
+            "publisher": "NXB ĐHQGHN",
+            "publish_year": "2024",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "53-118, 152-205",
+            "verification_document_id": "Trường Đại học Kinh tế - ĐHQGHN"
+        },
+        {
+            "title": "Kinh tế Chính trị Mác - Lê nin",
+            "type": "Textbook",
+            "publisher": "NXB ĐHQGHN",
+            "publish_year": "2021",
+            "num_authors": 17,
+            "is_editor_in_chief": false,
+            "compiled_pages": "327-334",
+            "verification_document_id": "Trường Đại học Kinh tế - ĐHQGHN"
+        },
+        {
+            "title": "Chương 2 “Tác động của công bố thông tin trách nhiệm xã hội trực tuyến đến hiệu quả hoạt động của doanh nghiệp trong ngành ngân hàng: Bằng chứng từ Việt Nam”",
+            "type": "Monograph",
+            "publisher": "NXB Springer",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "CEIAC 2022, Volume 2; DOI: 10.1007/978-981-99-0490-7_2; Link: https://link.springer.com/chapter/10.1007/978-981-99-0490-7_2",
+            "verification_document_id": "Trường Đại học Kinh tế - ĐHQGHN"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo trình độ Tiến sĩ Ngành Quản lý Kinh tế",
+            "applicant_role": "Secretary",
+            "assignment_document_id": "Quyết định số 4287/HĐ-ĐHKT ngày 01/12/2022",
+            "certifying_authority": "Trường Đại học Kinh tế - ĐHQGHN",
+            "implementation_document_id": "Quyết định ban hành chương trình đào tạo tiến sĩ Số 2102/QĐ-ĐHKT ngày 21/06/2023 của Hiệu trưởng Trường Đại học Kinh tế, ĐHQGHN",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ Thạc sỹ Ngành Quản lý Kinh tế",
+            "applicant_role": "Member",
+            "assignment_document_id": "Quyết định số 91/HĐ-ĐHKT ngày 10/01/2023",
+            "certifying_authority": "Trường Đại học Kinh tế - ĐHQGHN",
+            "implementation_document_id": "Quyết định ban hành chương trình đào tạo thạc sĩ Số 2147/QĐ-ĐHKT ngày 23/06/2023 của Hiệu trưởng Trường Đại học Kinh tế, ĐHQGHN",
+            "notes": ""
+        }
+    ]
+}

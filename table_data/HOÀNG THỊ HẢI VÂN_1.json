@@ -1,0 +1,1228 @@
+{
+    "papers": [
+        {
+            "title": "Môi trường lao động và thai dị tật",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 38, số 5, trang 90-96",
+            "published_date": "Tháng 10/2005"
+        },
+        {
+            "title": "Trải nghiệm và nhu cầu về sức khỏe sinh sản và sức khỏe tình dục của nam tiêm chích ma túy tại Hà Nội",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 695, trang 169-174",
+            "published_date": "Năm 2009"
+        },
+        {
+            "title": "Trải nghiệm, nhu cầu và khả năng tiếp cận về sức khỏe sinh sản và sức khỏe tình dục ở gái mại dâm tại Hà Nội",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 695, trang 175-180",
+            "published_date": "Năm 2009"
+        },
+        {
+            "title": "Tử vong mẹ và trẻ sơ sinh trước thời hạn của mục tiêu thiên niên kỷ năm 2015",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 84, số 4, trang 162-167",
+            "published_date": "Tháng 9/2013"
+        },
+        {
+            "title": "Kiến thức và thái độ của học sinh PTTH huyện Hoài Đức, Hà Nội về chăm sóc sức khỏe sinh sản vị thành niên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập số XXIV, số 3 (152), trang 76-81",
+            "published_date": "Tháng 6/2014"
+        },
+        {
+            "title": "Độ tin cậy của bộ câu hỏi và một số yếu tố ảnh hưởng đến kiến thức về bệnh tăng huyết áp của người trưởng thành tại Hải Phòng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 91, số 5, trang 97-105",
+            "published_date": "Tháng 12/2014"
+        },
+        {
+            "title": "Mối liên quan giữa việc tiếp cận và sử dụng các phương tiện thông tin đại chúng và kiến thức về HIV/AIDS của học sinh phổ thông trung học huyện Hoài Đức, Hà Nội",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXIV, số 7 (156), trang 53-58",
+            "published_date": "Năm 2014"
+        },
+        {
+            "title": "Kinh nghiệm ứng dụng thống kê y sinh học của các học viên cao học và nội trú Trường Đại học Y Hà Nội",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chính Minh/ISSN: 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 18, số 6, trang 226-232",
+            "published_date": "Tháng 11/2014"
+        },
+        {
+            "title": "Tình trạng sức khỏe và chất lượng cuộc sống của bệnh nhân bắt đầu điều trị Methadone tại Điện Biên, Lai Châu và Yên Bái năm 2014",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXV, số 10, trang 328-336",
+            "published_date": "Tháng 11/2015"
+        },
+        {
+            "title": "Kiến thức, thực hành về bệnh sốt xuất huyết Dengue của người dân tại hai xã, huyện Chư Sê, tỉnh Gia Lai năm 2013",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXV, số 6, trang 445-451",
+            "published_date": "Tháng 8/2015"
+        },
+        {
+            "title": "Nhu cầu đào tạo về thống kê, phương pháp nghiên cứu khoa học của học viên sau đại học Trường Đại học Y Hà Nội",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 974, số 8, trang 51-55",
+            "published_date": "Tháng 8/2015"
+        },
+        {
+            "title": "Mortality rate and early predictors among patients on antiretroviral therapy at several outpatients clinics in Hanoi",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Preventive Medicine",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập XXV, số 7, trang 90-95",
+            "published_date": "Tháng 9/2015"
+        },
+        {
+            "title": "Thực trạng lo lắng, buồn phiền của người cao tuổi tại một vùng nông thôn",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1000, số 3, trang 116-118",
+            "published_date": "Tháng 3/2016"
+        },
+        {
+            "title": "Ứng dụng bảng và biểu đồ trình bày số liệu trong các luận văn cao học và bác sĩ nội trú Trường Đại học Y Hà Nội trước và sau một số biện pháp can thiệp",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1013, số 6, trang 28-31",
+            "published_date": "Tháng 6/2016"
+        },
+        {
+            "title": "Sự hài lòng của người bệnh và người nhà người bệnh điều trị nội trú tại Bệnh viện Y học cổ truyền trung ương",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1041, số 5, trang 129-133",
+            "published_date": "Tháng 5/2017"
+        },
+        {
+            "title": "Methadone Maintenance Treatment Reduces the Vulnerability of Drug Users on HIV/AIDS in Vietnamese Remote Settings: Assessing the Changes in HIV Knowledge, Perceived Risk, and Testing Uptake after a 12-Month Follow-Up",
+            "num_authors": 22,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal Int. J. Environ. Res. Public Health/ISSN: 1660-4601",
+            "journal_ranking": "ISI (IF: 3,390)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 15, số 2567",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "HIV knowledge and risk behaviors among drug users in three Vietnamese mountainous provinces",
+            "num_authors": 22,
+            "is_main_author": false,
+            "journal_name_ISSN": "Substance Abuse Treatment, Prevention, and Policy",
+            "journal_ranking": "ISI (IF: 3,615)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14, số 3 trang 1-8",
+            "published_date": "Năm 2019"
+        },
+        {
+            "title": "Factors associated with the duration of hospitalization among COVID-19 patients in Vietnam: A survival analysis",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Epidemiology and Infection/ISSN: 0950-2688 (Print), 1469-4409 (Online)",
+            "journal_ranking": "IF: 4,434",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 148, số el14, trang 1-7",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "An adaptive design to screen, treat, and retain people with opioid use disorders who use methamphetamine in methadone clinics (STAR-OM): study protocol of a clinical trial",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Trials/ISSN: 1745-6215",
+            "journal_ranking": "ISI (IF: 2,728)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 23, số 342 trang 1-14",
+            "published_date": "Năm 2022"
+        },
+        {
+            "title": "Knowledge, Attitudes and Practices toward Hepatitis B VirusInfection among Students of Medicine in Vietnam",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Int. J. Environ. Res. Public Health",
+            "journal_ranking": "ISI (IF: 3,390)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 18, số 7081 trang 1-13",
+            "published_date": "7/2021"
+        },
+        {
+            "title": "Population Size Estimation of Female Sex Workers in Hai Phong, Vietnam: Use of Three Source Capture-Recapture Method",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Epidemiology and Global Health/e-ISSN: 2210-6014",
+            "journal_ranking": "ISI (IF: 5,959)",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "Năm 2021"
+        },
+        {
+            "title": "Knowledge and Attitude Related to Hepatitis C among Medical Students in the Oral Direct Acting Antiviral Agents Era in Vietnam",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Environmental Research and Public Health",
+            "journal_ranking": "ISI (IF: 3,390)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19, số 12298 trang 1-10",
+            "published_date": "Tháng 9/2022"
+        },
+        {
+            "title": "Factors associated with depression, anxiety, and stress symptoms among men in a rural area in Vietnam during COVID-19.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Psychiatry/e-ISSN: 1664-0640",
+            "journal_ranking": "ISI (IF: 4,6)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, số 987686 trang 1-9",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Prevalence of Post-Traumatic Stress Disorder in General Population During COVID-19 Pandemic: An Umbrella Review and Meta-Analysis",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "OBM Neurobiology/ISSN: 2573-4407",
+            "journal_ranking": "Scopus, IF: 0,35",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 3, trang 81-94",
+            "published_date": "Tháng 7/2023"
+        },
+        {
+            "title": "Estimated population size of the people who inject drugs in Thai Nguyen, Vietnam: A two survey capture-recapture study using respondent driven sampling",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plos global public health/ISSN: 2767-3375",
+            "journal_ranking": "ISI",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7 trang 1-12",
+            "published_date": "Tháng 12/2022"
+        },
+        {
+            "title": "Case Report of 59-Year-Old Woman with Bilateral Upper Limb Musculoskeletal Amyloid, Initially Diagnosed as Rheumatoid Arthritis",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Am J Case Rep/eISSN: 1941-5923",
+            "journal_ranking": "ISI (IF: 2,3)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24, số e93858 trang 1-8",
+            "published_date": "Tháng 1/2023"
+        },
+        {
+            "title": "Using ADAPT-ITT framework to tailor evidence-based interventions for addressing methamphetamine use among methadone patients in Vietnam",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Drug Alcohol Rev. Online ISSN:1465-3362 Print ISSN:0959-5236",
+            "journal_ranking": "Scopus (IF: 4,8)",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.1111/dar.13739 trang 1-13",
+            "published_date": "Tháng 7/2023"
+        },
+        {
+            "title": "Consortium for violence prevention research, leadership training, and implementation for excellence (CONVERGE): a protocol to train science leaders in gender-based-violence and violence-against-children research for impact",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Front. Public Health 11:1181543",
+            "journal_ranking": "Scopus (IF: 5,2)",
+            "citation_count": 0,
+            "volume_issue_pages": "doi: 10.3389/fpubh.2023.1181543",
+            "published_date": "Tháng 6/2023"
+        },
+        {
+            "title": "Validity of self-reported hypertension and associated factors among Vietnamese adults: a cross-sectional study",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Blood Pressure Print ISSN: 0803-7051 Online ISSN: 1651-1999",
+            "journal_ranking": "Scopus (IF: 2,1)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 32, số 1 DOI: 10.1080/08037051.2023.2288313",
+            "published_date": "Tháng 11/2023"
+        },
+        {
+            "title": "Association between Posttraumatic Stress Symptoms and Resilience in Frontline Healthcare Workers during the COVID-19 Pandemic in Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "OBM Neurobiology/ISSN: 2573-4407",
+            "journal_ranking": "Scopus, IF: 0,35",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 4 doi:10.21926/obm.neurobiol.2304199",
+            "published_date": "Tháng 11/2023"
+        },
+        {
+            "title": "The relationship between HIV-related stigma and quality of life among HIV infected outpatients: A cross-sectional study in Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Public Health Research ISSN: 2279-9036; Online ISSN: 2279-9036.",
+            "journal_ranking": "Scopus, (IF: 2,3)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, số 1 DOI: 10.1177/22799036241238667",
+            "published_date": "Tháng 2/2024"
+        },
+        {
+            "title": "Innovations for Building Implementation Science Capacity among Researchers and Policymakers: The Depth and Diffusion Model",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Global Implementation Research and Application S ISSN: 2662-9275",
+            "journal_ranking": "The official journal of the Global Implementation Society",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.1007/s43477-024-00121-X",
+            "published_date": "Tháng 5/2024"
+        },
+        {
+            "title": "Đặc điểm dịch tễ học bệnh sởi tại Hà Nội năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1112, số 10, trang 193-195",
+            "published_date": "Tháng 10/2019"
+        },
+        {
+            "title": "Physical activity and cognative impairment among the elderly in some districts of Ha Nam province in 2018",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Preventive Medicine/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 30, số 4, trang 35-41",
+            "published_date": "Tháng 4/2020"
+        },
+        {
+            "title": "Nutritional status of breast cancer patients and the related factors at Vietnam National Cancer hospital in 2019-2020",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Preventive Medicine/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 30, số 4, trang 42-51",
+            "published_date": "Tháng 4/2020"
+        },
+        {
+            "title": "Kiến thức, thái độ, thực hành về sử dụng kháng sinh của bà mẹ có con dưới 5 tuổi tại Hà Nam năm 2019",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 126, số 2, trang 154-162",
+            "published_date": "Tháng 5/2020"
+        },
+        {
+            "title": "Kiến thức, thái độ, thực hành của người dân Việt Nam về bệnh cúm A/H1N1",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 129, số 5, trang 23-29",
+            "published_date": "Tháng 7/2020"
+        },
+        {
+            "title": "Tình trạng suy giảm nhận thức ở người cao tuổi qua sàng lọc tại một số huyện thuộc tỉnh Hà Nam năm 2018",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 129, số 5, trang 121-128",
+            "published_date": "Tháng 7/2020"
+        },
+        {
+            "title": "Sự hài lòng của người bệnh nội trú về dịch vụ y tế tại Bệnh viện Mittaphab, Lào năm 2019",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 130, số 6, trang 157-164",
+            "published_date": "Tháng 9/2020"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến bệnh sởi tại Hà Nội năm 2018",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 30, số 3, trang 34-40",
+            "published_date": "Tháng 6/2020"
+        },
+        {
+            "title": "Đánh giá tồn lưu kháng thể phòng bệnh sởi ở trẻ từ 5 đến 7 tuổi tại huyện Trấn Yên, tỉnh Yên Bái năm 2020",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 30, số 8, trang 58-65",
+            "published_date": "Tháng 12/2020"
+        },
+        {
+            "title": "Tình hình tử vong do ung thư tại tỉnh Điện Biên năm 2017",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 138, số 2, trang 173-180",
+            "published_date": "Tháng 3/2021"
+        },
+        {
+            "title": "Thực trạng nhân lực bác sĩ và kỹ thuật viên chuyên ngành phục hồi chức năng làm việc tại bệnh viện tuyến tỉnh và tuyến huyện ở các vùng sinh thái",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 140, số 4, trang 211-219",
+            "published_date": "Tháng 5/2021"
+        },
+        {
+            "title": "Thực trạng các vấn đề sức khoẻ có can thiệp phục hồi chức năng tại một số bệnh viện tuyến tỉnh và tuyến huyện ở các vùng sinh thái Việt Nam",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 503, số 1, trang 24-28",
+            "published_date": "Tháng 6/2021"
+        },
+        {
+            "title": "Năng lực chuyên môn và nhu cầu đào tạo của bác sĩ chuyên ngành phục hồi chức năng công tác tại tuyến tỉnh, huyện ở các vùng sinh thái, năm 2020 - 2021",
+            "num_authors": 15,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 31, số 6, trang 154-163",
+            "published_date": "Tháng 6/2021"
+        },
+        {
+            "title": "Thái độ của học sinh về bữa ăn bán trú tại một số trường tiểu học trên địa bàn Hà Nội",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam/ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 503, số 1, trang 191-196",
+            "published_date": "Tháng 6/2021"
+        },
+        {
+            "title": "Nguyên nhân tử vong theo nhóm tuổi tại tỉnh Điện Biên năm 2017",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 144, số 8, trang 341-349",
+            "published_date": "Tháng 8/2021"
+        },
+        {
+            "title": "Kiến thức về bệnh tăng huyết áp và thực hành quản lý bệnh tăng huyết áp của người trưởng thành tại huyện Quảng Xương, Thanh Hoá năm 2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 144, số 8, trang 196-206",
+            "published_date": "Tháng 8/2021"
+        },
+        {
+            "title": "Phản hồi của sinh viên đại học Y Hà Nội về giảng dạy thực địa cộng đồng trong điều kiện dịch bệnh covid-19 năm 2020",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 144, số 8, trang 119-129",
+            "published_date": "Tháng 8/2021"
+        },
+        {
+            "title": "Đặc điểm tự kỳ thị ở người tiêm chích ma túy tại Hà Nội và một số yếu tố liên quan",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 144, số 8, trang 35-44",
+            "published_date": "Tháng 8/2021"
+        },
+        {
+            "title": "Chất lượng cuộc sống và một số yếu tố liên quan ở người bệnh HIV/AIDS điều trị ARV ngoại trú tại bệnh viện đa khoa thành phố vinh, nghệ an năm 2021",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 31, số 8, trang 132-138",
+            "published_date": "Tháng 9/2021"
+        },
+        {
+            "title": "Nghiên cứu tổng quan tuân thủ điều trị dự phòng trước phơi nhiễm HIV (PrEP) ở nhóm nam quan hệ tình dục đồng giới (MSM)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng/ISSN: 1859-3593",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 123, trang 20-31",
+            "published_date": "Tháng 10/2021"
+        },
+        {
+            "title": "Sự hài lòng với công việc của nhân viên y tế tại các bệnh viện tư nhân ở Việt Nam năm 2018",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, số 151, trang 188-199",
+            "published_date": "Tháng 3/2022"
+        },
+        {
+            "title": "Association between depression and participation in the frontline in the fourth wave of COVID – 19 among medical students in Vietnam: A cross sectional study",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Health and Development Studies/ISSN: 2588-1442",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 06, số 02, trang 95-106",
+            "published_date": "Tháng 4/2022"
+        },
+        {
+            "title": "Patterns of mortality associated with non - communicable diseases in Vietnam from 2008 to 2016",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Preventive Medicine/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 32, số 4, trang 24-31",
+            "published_date": "Tháng 6/2022"
+        },
+        {
+            "title": "Patterns of zoonotic diseases and associated socio-economic factors in tanzania: a scoping review",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 154 E10, số 6, trang 108-120",
+            "published_date": "Tháng 6/2022"
+        },
+        {
+            "title": "Depression, anxiety and associated factors among young people during the second wave of Covid-19 in vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medical Research/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 154 E10, số 6, trang 121-130",
+            "published_date": "Tháng 6/2022"
+        },
+        {
+            "title": "Effects of COVID-19 on mental health of health care workers in the context of COVID-19 Pandemic: A scoping review",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Preventive Medicine/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 32, số 4, trang 12-23",
+            "published_date": "Tháng 6/2022"
+        },
+        {
+            "title": "Community health care workers knowledge on hypertension and diabetes in a mountainous province in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Health and Development Studies/ISSN: 2588-1442",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 06, số 04, trang 29-36",
+            "published_date": "Tháng 8/2022"
+        },
+        {
+            "title": "Thực trạng trầm cảm và một số yếu tố liên quan ở người nhiễm HIV/AIDS tại việt nam, giai đoạn 2012-2022",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868-2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 32, số 8, trang 12-19",
+            "published_date": "Tháng 12/2022"
+        },
+        {
+            "title": "Thực trạng sử dụng bao cao su trong quan hệ tình dục và một số yếu tố liên quan đến hành vi không sử dụng bao cao su ở nhóm tiêm chích ma tuý tại Thái Nguyên năm 2019",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 32, số 8, trang 20-28",
+            "published_date": "Tháng 12/2022"
+        },
+        {
+            "title": "Đặc điểm nhóm tiêm chích ma túy và một số yếu tố liên quan đến hành vi sử dụng chung bơm kim tiêm tại Thái Nguyên năm 2019",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 32, số 8, trang 29-37",
+            "published_date": "Tháng 12/2022"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh HIV/AIDS tại phòng khám ngoại trú, trung tâm bệnh nhiệt đới bệnh viện Bạch Mai năm 2019 - 2020",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 32, số 8, trang 38-45",
+            "published_date": "Tháng 12/2022"
+        },
+        {
+            "title": "Tổng quan các lỗi thống kê thường gặp trong giai đoạn thiết kế nghiên cứu và phân tích số liệu",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 112, số 3, trang 110-119",
+            "published_date": "Tháng 7/2018"
+        },
+        {
+            "title": "Đặc điểm đối tượng bị súc vật cắn đến điều trị dự phòng bệnh dại tại Trung tâm y tế dự phòng Nghệ An năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1080, số 9, trang 105-108",
+            "published_date": "Tháng 9/2018"
+        },
+        {
+            "title": "Một số sai sót thống kê thường gặp trong trình bày và phiên giải kết quả nghiên cứu",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 117, số 1, trang 166-174",
+            "published_date": "Tháng 2/2019"
+        },
+        {
+            "title": "Thực trạng và xu hướng của bệnh không lây nhiễm cùng các yếu tố nguy cơ tại Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1095, số 4, trang 80-82",
+            "published_date": "Tháng 4/2019"
+        },
+        {
+            "title": "Kiến thức, thực hành phòng bệnh cúm A/H5N1 của người dân tại 16 xã thuộc 8 tỉnh của Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1097, số 5, trang 1822",
+            "published_date": "Tháng 5/2019"
+        },
+        {
+            "title": "Kiểm định bộ công cụ đo lường sự hài lòng của bệnh nhân tại bệnh viện Mittaphab, Lào",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1095, số 4, trang 122-125",
+            "published_date": "Tháng 4/2019"
+        },
+        {
+            "title": "Kiến thức, thực hành về phòng chống bệnh dại của người điều trị dự phòng bệnh dại tại Trung tâm Y tế dự phòng Nghệ An năm 2018",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng/ISSN: 0868 - 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1097, số 5, trang 63-66",
+            "published_date": "Tháng 5/2019"
+        },
+        {
+            "title": "Nhận thức về bệnh đột quỵ của người dân tại Hà Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1092, số 3, trang 6-8",
+            "published_date": "Tháng 3/2019"
+        },
+        {
+            "title": "Kiến thức, thái độ, thực hành về bệnh tay-chân-miệng của người dân Cần Thơ.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1094, số 4, trang 32-34",
+            "published_date": "Tháng 4/2019"
+        },
+        {
+            "title": "Kiến thức về bệnh tăng huyết áp và một số yếu tố liên quan đến việc điều trị tăng huyết áp của người dân tại Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1094, số 4, trang 62-66",
+            "published_date": "Tháng 4/2019"
+        },
+        {
+            "title": "Đánh giá động lực làm việc của nhân viên y tế tại bệnh viện tỉnh Attapeu, Lào năm 2018",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1095, số 4, trang 116-119",
+            "published_date": "Tháng 4/2019"
+        },
+        {
+            "title": "Thực trạng chất lượng cuộc sống của thành viên câu lạc bộ người nhiễm HIV/AIDS Bệnh viện 09, Hà Nội năm 2019",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/ISSN: 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1106, số 8, trang 29-32",
+            "published_date": "Tháng 8/2019"
+        },
+        {
+            "title": "Thực trạng sử dụng thuốc chống viêm ở bệnh nhân viêm khớp dạng thấp đang điều trị thuốc sinh học",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 164, số 3, trang 93-100",
+            "published_date": "Tháng 3/2023"
+        },
+        {
+            "title": "Tỷ lệ mắc/nghi mắc covid-19 ở cán bộ y tế tham gia phòng chống dịch tại một số tỉnh/thành và trường đại học của Việt Nam năm 2021 – 2022 và một số yếu tố liên quan",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 165, số 4, trang 197-207",
+            "published_date": "Tháng 4/2023"
+        },
+        {
+            "title": "Thực trạng tái nhiễm SARS-CoV-2 trong nhóm nhân viên y tế tại Bệnh viện Đa khoa Tỉnh Bắc Ninh và Bệnh viện hữu nghị đa khoa Nghệ An năm 2022-2023",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 165, số 4, trang 240-253",
+            "published_date": "Tháng 4/2023"
+        },
+        {
+            "title": "Tỷ lệ nhiễm SARS-COV-2 sau tiêm vắc xin phòng COVID-19 tại tỉnh bắc ninh, việt nam, năm 2021",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu y học/issn: 2354-080x",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 167, số 6, trang 283-295",
+            "published_date": "Tháng 6/2023"
+        },
+        {
+            "title": "Health risk behaviors among vietnamese students aged 13-18 in two districts in ha nam province and some associated factors",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of health and development studies",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 2, trang 93-100",
+            "published_date": "Tháng 2/2023"
+        },
+        {
+            "title": "Global health officers' competency gaps on knowledge and skills and its associated factors in vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of health and development studies",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 2, trang 23-33",
+            "published_date": "Tháng 2/2023"
+        },
+        {
+            "title": "Thực trạng tham gia phòng chống dịch COVID-19 của nhân viên y tế tại một số bệnh viện tuyến tỉnh/thành phố năm 2021 - 2022",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 169, số 8, trang 310-318",
+            "published_date": "Tháng 8/2023"
+        },
+        {
+            "title": "Thực trạng tiêm vắc xin phòng COVID-19 và một số yếu tố liên quan của người bệnh nhiễm SARS-COV-2 nhập viện tại bắc ninh và nghệ an năm 2022",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu y học/ISSN: 2354 - 080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 175, số 2, trang 194-204",
+            "published_date": "Tháng 3/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu thực trạng, xây dựng mô hình dự báo, kiểm soát một số nhóm bệnh có liên quan đến biến đổi khí hậu tại Việt Nam (2012-2016)",
+            "role": "Assistant",
+            "project_code": "ĐTĐL.2012-G/32",
+            "management_level": "Nhà nước",
+            "period": "từ tháng 4/2012 đến tháng 4/2016",
+            "acceptance_date": "18/10/2016",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Nghiên cứu thực trạng bệnh tật, nhu cầu nhân lực, năng lực đào tạo và xây dựng chuẩn năng lực nghề nghiệp bác sĩ Chuyên khoa Phục hồi chức năng Việt Nam",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp Bộ",
+            "period": "từ tháng 6/2020 đến tháng 6/2021",
+            "acceptance_date": "30/6/2021",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Thái độ sinh viên chuyên khoa y học dự phòng và y tế công cộng đối với môn học thống kê",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2015-2017",
+            "acceptance_date": "03/07/2018",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Suy giảm trí nhớ ở người cao tuổi tại một số huyện thuộc tỉnh Hà Nam",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2018",
+            "acceptance_date": "12/11/2019",
+            "rating": "khá"
+        },
+        {
+            "title": "Ước tính quy mô quần thể những người tiêm chích ma tuý tại Thái Nguyên",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2019",
+            "acceptance_date": "",
+            "rating": ""
+        },
+        {
+            "title": "Kiến thức, thái độ, thực hành về sử dụng thuốc kháng sinh của bà mẹ có con dưới 5 tuổi tại Hà Nam năm 2019",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2020",
+            "acceptance_date": "07/07/2020",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Đặc điểm dịch tễ học bệnh Sởi tại Hà Nội năm 2018 và một số yếu tố liên quan",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2019",
+            "acceptance_date": "07/07/2020",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Thực trạng sức khoẻ tâm thần của nam giới trưởng thành tại tỉnh Thanh Hóa trong đại dịch COVID-19",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2021",
+            "acceptance_date": "13/1/2022",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Sự hài lòng của nhân viên y tế tại các bệnh viện trên toàn quốc năm 2018",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2020",
+            "acceptance_date": "13/1/2022",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Thực trạng giảng dạy thực địa cộng đồng 1 trong điều kiện dịch bệnh COVID-19 tại trường Đại học Y Hà Nội năm 2020",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2021",
+            "acceptance_date": "13/1/2022",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Thực trạng, kiến thức về tăng huyết áp và thực hành phòng chống quản lý tăng huyết áp của người dân huyện Quảng Xương, tỉnh Thanh Hoá năm 2019",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2021",
+            "acceptance_date": "13/1/2022",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Tổng quan hệ thống về sức khỏe tâm thần của cán bộ y tế trong đại dịch COVID-19",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2022",
+            "acceptance_date": "29/06/2023",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Sức khỏe tâm thần của sinh viên đại học y hà nội tham gia chồng dịch covid-19 và một số yếu tố liên quan năm 2021",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2022",
+            "acceptance_date": "29/06/2023",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Kiến thức và kỹ năng cần thiết để làm việc hiệu quả trong các lĩnh vực liên quan đến sức khỏe toàn cầu",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2023",
+            "acceptance_date": "29/12/2023",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Đánh giá nồng độ kháng thể kháng vi rút SARS-CoV-2 ở nhóm người trên 60 tuổi sau tiêm vắc xin AZ và Pfizer năm 2021-2022",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2023",
+            "acceptance_date": "29/06/2023",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Tỷ lệ tái nhiễm COVID-19 ở nhân viên y tế tại Việt Nam và một số yếu tố liên quan",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2023",
+            "acceptance_date": "29/12/2023",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Thực trạng các hành vi nguy cơ đối với sức khỏe của học sinh 13-18 tuổi tại Hà Nam năm 2022",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2023",
+            "acceptance_date": "29/12/2023",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Nhu cầu nhân lực tại bệnh viện/khu điều trị COVID-19 ở một số tỉnh thành phố Việt Nam trong năm 2022",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2023",
+            "acceptance_date": "29/12/2023",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Tỷ lệ nhiễm SARS-CoV-2 ở những người đã được tiêm vắc xin COVID-19 tại huyện Quế Võ và Tiên Du tỉnh Bắc Ninh năm 2021",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2023",
+            "acceptance_date": "29/12/2023",
+            "rating": "suất sắc"
+        },
+        {
+            "title": "Đánh giá hiệu quả thực tế của vắc xin AstraZeneca và các yếu tố liên quan trong dự phòng lây nhiễm SARS-CoV-2 trong một số cộng đồng có nguy cơ tại Việt Nam",
+            "role": "Assistant",
+            "project_code": "",
+            "management_level": "Cấp Bộ",
+            "period": "2023",
+            "acceptance_date": "02/04/2024",
+            "rating": ""
+        }
+    ],
+    "books": [
+        {
+            "title": "Thống kê Y học cơ bản",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2013",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "161-236",
+            "verification_document_id": "Quyết định số 2523/QĐ-DHYHN ngày 04/07/2014"
+        },
+        {
+            "title": "Thực hành Thống kê Tin học",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2013",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Sách không ghi rõ",
+            "verification_document_id": "Quyết định số 2523/QĐ-DHYHN ngày 04/07/2014"
+        },
+        {
+            "title": "Phương pháp nghiên cứu Sức khỏe cộng đồng",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2013",
+            "num_authors": 11,
+            "is_editor_in_chief": false,
+            "compiled_pages": "249-262",
+            "verification_document_id": "Quyết định số 2523/QĐ-DHYHN ngày 04/07/2014"
+        },
+        {
+            "title": "Một sức khỏe trong Y học dự phòng và Y tế công cộng",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2014",
+            "num_authors": 25,
+            "is_editor_in_chief": false,
+            "compiled_pages": "249-276",
+            "verification_document_id": "Quyết định số 2620/QĐ-DHYHN ngày 17/07/2014"
+        },
+        {
+            "title": "Hướng dẫn sử dụng phần mềm Zotero trong quản lý và trích dẫn tài liệu tham khảo",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2015",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Quyết định số 187/QĐPH-XBYH ngày 17/09/2015"
+        },
+        {
+            "title": "Phương pháp nghiên cứu khoa học",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2018",
+            "num_authors": 9,
+            "is_editor_in_chief": true,
+            "compiled_pages": "49-55; 90-105; 136-155; 182-197",
+            "verification_document_id": "Quyết định số 323/QĐ-VSR ngày 08/05/2023"
+        },
+        {
+            "title": "Thống kê Y sinh học ứng dụng",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2017",
+            "num_authors": 10,
+            "is_editor_in_chief": false,
+            "compiled_pages": "134-165",
+            "verification_document_id": "Quyết định số 313/QĐ-VSR ngày 05/05/2023"
+        },
+        {
+            "title": "Phương pháp tính cỡ mẫu và chọn mẫu trong nghiên cứu y sinh học",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2019",
+            "num_authors": 13,
+            "is_editor_in_chief": true,
+            "compiled_pages": "36-51; 84-93",
+            "verification_document_id": "Quyết định số 313/QĐ-VSR ngày 05/05/2023"
+        },
+        {
+            "title": "Phương pháp nghiên cứu can thiệp: Thiết kế và phân tích thống kê",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2019",
+            "num_authors": 29,
+            "is_editor_in_chief": false,
+            "compiled_pages": "301-329",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Hướng dẫn cơ bản trong phòng, chống dịch bệnh viêm đường hô hấp cấp (COVID-19)",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2020",
+            "num_authors": 9,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Sách không ghi rõ",
+            "verification_document_id": "Quyết định số 53/QĐ-K2ĐT ngày 09/04/2020"
+        },
+        {
+            "title": "Phương pháp nghiên cứu trong y sinh học tập 2",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2021",
+            "num_authors": 18,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Sách không ghi rõ",
+            "verification_document_id": "Quyết định 3367/QĐ-DHYHN ngày 25/08/2020"
+        },
+        {
+            "title": "Phương pháp nghiên cứu trong y sinh học tập 1: Lập kế hoạch nghiên cứu",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2022",
+            "num_authors": 18,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Sách không ghi rõ",
+            "verification_document_id": "Quyết định số 3070/QĐ-DHYHN ngày 28/06/2018"
+        },
+        {
+            "title": "Tài liệu hướng dẫn giảng dạy Phòng chống một số bệnh không lây nhiễm",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản Giáo dục Việt Nam",
+            "publish_year": "",
+            "num_authors": 9,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Sách không ghi rõ",
+            "verification_document_id": "Quyết định số 3633/QĐ-BGDĐT ngày 10/11/2022"
+        },
+        {
+            "title": "Tài liệu truyền thông nâng cao năng lực phòng, chống dịch Covid-19 cho cán bộ, giáo viên, nhân viên và người lao động trong trường học",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản giáo dục Việt Nam",
+            "publish_year": "",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Sách không ghi rõ",
+            "verification_document_id": "Quyết định số 3822/QĐ-BGDĐT ngày 23/11/2020"
+        },
+        {
+            "title": "Số tay đảm bảo an toàn phòng, chống dịch COVID-19 trong trường học",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản giáo dục Việt Nam",
+            "publish_year": "",
+            "num_authors": 9,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Sách không ghi rõ",
+            "verification_document_id": "Quyết định số 406/QĐ-BGDĐT ngày 27/01/2022"
+        }
+    ],
+    "patents": null,
+    "achievements": [
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm 2020",
+            "certifying_organization": "Trường Đại học Y Hà Nội",
+            "certificate_document_id": "659/QĐ-ĐHYHN ngày 7/4/2021",
+            "award": "Chiến sĩ thi đua cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Hướng dẫn sinh viên đạt giải nhất Hội nghị khoa học Tiếng Anh lần thứ 7 cho Sinh viên đại học Y Hà Nội",
+            "certifying_organization": "Trường Đại học Y Hà Nội",
+            "certificate_document_id": "Số 28/QĐ-ĐHYHN ngày 7/1/2021",
+            "award": "Giải nhất Hội nghị khoa học Tiếng Anh",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm 2021",
+            "certifying_organization": "Trường Đại học Y Hà Nội",
+            "certificate_document_id": "Quyết định số 560/QĐ-ĐHYHN ngày 25/3/2022",
+            "award": "Chiến sĩ thi đua cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Bộ trưởng Bộ Y tế đã có thành tích xuất sắc thực hiện nhiệm vụ, kế hoạch công tác năm học 2019-2020",
+            "certifying_organization": "Bộ trưởng Bộ Y tế",
+            "certificate_document_id": "Quyết định số 1917/QĐ-BYT, ngày 19/4/2021",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Bộ Y tế đã có thành tích xuất sắc trong công tác hỗ trợ phòng, chống dịch COVID-19",
+            "certifying_organization": "Bộ Y tế",
+            "certificate_document_id": "QĐ số 2802/QĐ-BYT ngày 12/10/2022",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở năm 2022",
+            "certifying_organization": "Trường Đại học Y Hà Nội",
+            "certificate_document_id": "QĐ số 186/QĐ-ĐHYHN ngày 28/01/2023",
+            "award": "Chiến sĩ thi đua cấp cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Hướng dẫn sinh viên đạt giải nhì Hội nghị khoa học Tiếng Anh lần thứ 9 cho Sinh viên đại học Y Hà Nội",
+            "certifying_organization": "Trường Đại học Y Hà Nội",
+            "certificate_document_id": "QĐ số 264/QĐ-DDHYHn ngày 09/02/2023",
+            "award": "Giải nhì Hội nghị khoa học Tiếng Anh",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm 2023",
+            "certifying_organization": "Trường Đại học Y Hà Nội",
+            "certificate_document_id": "QĐ số 69/QĐ-ĐHYHN ngày 9/01/2024",
+            "award": "Chiến sĩ thi đua cơ sở",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": null
+}

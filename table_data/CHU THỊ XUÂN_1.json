@@ -1,0 +1,849 @@
+{
+    "papers": [
+        {
+            "title": "Comparison between measurements of elasticity and free amino group content of ovalbumin microcapsule membranes: discrimination of the cross-linking degree",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "J. Colloid Interf. Sci.",
+            "journal_ranking": "SCIE IF: 3.070, Q1",
+            "citation_count": 46,
+            "volume_issue_pages": "355, 1, 81-88",
+            "published_date": "03/2011"
+        },
+        {
+            "title": "Fabrication and online characterization of microcapsules in a microfluidic system",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Microfluid Nanofluid",
+            "journal_ranking": "SCIE IF: 3.81, Q1",
+            "citation_count": 18,
+            "volume_issue_pages": "14 309-317",
+            "published_date": "09/2012"
+        },
+        {
+            "title": "Highly sensitive DNA sensor based on polypyrrole nanowire",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Surface Science",
+            "journal_ranking": "SCIE IF: 2.714, Q1",
+            "citation_count": 27,
+            "volume_issue_pages": "309 285-289",
+            "published_date": "08/2014"
+        },
+        {
+            "title": "Effective immobilization of DNA for development of polypyrrole nanowires based biosensor",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Surface Science",
+            "journal_ranking": "SCIE IF: 2.714, Q1",
+            "citation_count": 24,
+            "volume_issue_pages": "314 260-265",
+            "published_date": "09/2014"
+        },
+        {
+            "title": "In-Channel-Grown Polypyrrole Nanowire for the Detection of DNA Hybridization in an Electrochemical Microfluidic Biosensor",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Nanomaterials",
+            "journal_ranking": "SCIE IF: 1.378, Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "2015, 458629",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Improvements in Fabrication of 3D SU-8 Prisms for Low-Coupling-Loss Interconnections Between Fibers and Waveguides",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "SCIE IF: 1.746, Q2",
+            "citation_count": 45,
+            "volume_issue_pages": "5630-5637",
+            "published_date": "07/2016"
+        },
+        {
+            "title": "Carbon Nanotube Field-Effect Transistor for DNA Sensing",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "ELECTRONIC MATERIALS",
+            "journal_ranking": "SCIE IF: 1.672, Q2",
+            "citation_count": 24,
+            "volume_issue_pages": "46 3507-3511",
+            "published_date": "01/2017"
+        },
+        {
+            "title": "Development of a DNA Sensor Based on Nanoporous Pt-Rich Electrodes",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "SCIE IF: 1.672, Q2",
+            "citation_count": 46,
+            "volume_issue_pages": "3491-3498",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "Detection analysis limit of nonlinear characteristics of DNA sensors with the surface modified by polypyrrole nanowires and gold nanoparticles",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science: Advanced Materials and Devices",
+            "journal_ranking": "SCIE IF: 5.469, Q1",
+            "citation_count": 20,
+            "volume_issue_pages": "3 129-138",
+            "published_date": "04/2018"
+        },
+        {
+            "title": "Possible Monitoring and Removal of As(III) by an Integrated System of Electrochemical Sensor and Nanocomposite Materials",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Nanomaterials",
+            "journal_ranking": "SCIE IF: 1.409, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "2018 1-9",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Simple Label-Free Electrochemical Immunosensor in a Microchamber for Detecting Newcastle Disease Virus",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Nanomaterials",
+            "journal_ranking": "SCIE IF: 1.672, Q2",
+            "citation_count": 14,
+            "volume_issue_pages": "2019 1-9",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Molecularly Imprinted Polyaniline Nanowire-Based Electrochemical Biosensor for Chloramphenicol Detection: A Kinetic Study of Aniline Electropolymerization",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of The Electrochemical Society",
+            "journal_ranking": "SCIE IF: 4.316, Q1",
+            "citation_count": 45,
+            "volume_issue_pages": "167 027527",
+            "published_date": "01/2020"
+        },
+        {
+            "title": "High-performance acetone gas sensor based on Pt–Zn2SnO4 hollow octahedra for diabetic diagnosis",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds",
+            "journal_ranking": "SCIE IF: 5316, Q1",
+            "citation_count": 69,
+            "volume_issue_pages": "886 161284",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "Enhanced NO2 gas-sensing performance at room temperature using exfoliated MoS2/ nanosheets",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sensors and Actuators A: Physical",
+            "journal_ranking": "SCIE IF: 4.291, Q1",
+            "citation_count": 46,
+            "volume_issue_pages": "332 113137",
+            "published_date": "09/2021"
+        },
+        {
+            "title": "A highly sensitive non-enzymatic glucose electrochemical sensor based on NiO nanohives",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Adv. Nat. Sci.: Nanosci. Nanotechnol",
+            "journal_ranking": "ESCI IF: 1.7, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "12 045012",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Preparation and Gas Sensing Properties of rGO/CuO Nanocomposites",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "ECS Journal of Solid State Science and Technology",
+            "journal_ranking": "SCIE IF: 4.291, Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "11 035009",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Arc-discharge deposition of SWCNTs over SnO2 nanowires for highly sensitive NO2 gas sensor",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology",
+            "journal_ranking": "ESCI IF: 1.7, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "13 035007",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "A novel design and fabrication of self-heated In2O3 nanowire gas sensor on glass for ethanol detection",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sensors and Actuators A: Physical",
+            "journal_ranking": "SCIE IF: 4.291, Q1",
+            "citation_count": 60,
+            "volume_issue_pages": "345 113769",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Novel Synthesis of a PANI/ZnO Nanohybrid for Enhanced NO2 Gas Sensing Performance at Low Temperatures",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "ELECTRONIC MATERIALS",
+            "journal_ranking": "SCIE IF: 2.047, Q2",
+            "citation_count": 10,
+            "volume_issue_pages": "2022 1-16",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Instant Facile Method for the In Situ Growth of Ni(OH)2 Nanohives on Nickel Foam for Non-Enzymatic Electrochemical Glucose Sensor",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of The Electrochemical Society",
+            "journal_ranking": "SCIE IF: 4.386, Q1",
+            "citation_count": 10,
+            "volume_issue_pages": "169 117506",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Porous CoFe2O4 nanorods: VOC gas-sensing characteristics and DFT calculation",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sensors and Actuators B: Chemical",
+            "journal_ranking": "SCIE IF: 9.221, Q1",
+            "citation_count": 25,
+            "volume_issue_pages": "379 133286-133296",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "A sigh-performance hydrogen gas sensor based on Ag/Pd nanoparticle-functionalized ZnO nanoplate",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "RSC Advances",
+            "journal_ranking": "SCIE IF: 4.036, Q1",
+            "citation_count": 25,
+            "volume_issue_pages": "13 13017-13029",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Eco-friendly facile synthesis of Co3O4–Pt nanorods for ethylene detection towards fruit quality monitoring",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sensors and Actuators A: Physical",
+            "journal_ranking": "SCIE IF: 6.3, Q1",
+            "citation_count": 8,
+            "volume_issue_pages": "362 114607",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Electrochemical synthesis and characterization of high-purity cobalt nanostructures from CoCl2·6H2O dissolved in ethylene glycol-based nonaqueous solutions",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Solid State Electrochemistry",
+            "journal_ranking": "SCIE IF: 2.552, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "28 255-271",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "One-Step Method for the Direct Growth of NiO Nanoflowers on Pencil Graphite Electrode for Highly Sensitive Non-Enzymatic Glucose Sensing",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of The Electrochemical Society",
+            "journal_ranking": "SCIE IF: 3.1, Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "171 117505",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Hydrogen gas sensor based on self-heating effect of SnO2/Pt thin film with ultralow power consumption",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Hydrogen Energy",
+            "journal_ranking": "SCIE IF: 8.1, Q1",
+            "citation_count": 21,
+            "volume_issue_pages": "61 774-782",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Enhanced response characteristics of NO2 gas sensor based on ultrathin SnS2 nanoplates: Experimental and DFT study",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sensors and Actuators A: Physical",
+            "journal_ranking": "SCIE IF: 4.1, Q1",
+            "citation_count": 7,
+            "volume_issue_pages": "373 115384",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Ultra-thin V2O5 nanowires: synthesis and gas sensing characteristics",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology",
+            "journal_ranking": "ESCI IF: 2.374, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "15 045008",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Metal-decorated indium oxide nanofibers used as nanosensor for triethylamine sensing towards seafood quality monitoring",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+            "journal_ranking": "SCIE IF: 4.9, Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "703 135268",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Enhanced acetone gas-sensing characteristics of Pd-NiO nanorods/SnO2 nanowires sensors",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "RSC Advances",
+            "journal_ranking": "SCIE IF: 3.9, Q1",
+            "citation_count": 8,
+            "volume_issue_pages": "14 12438-12448",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Cố định trực tiếp ADN lên cảm biến sinh học trên cơ sở dây nano polypyrrole",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "52, 3B, 166-173",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng kỹ thuật điện hóa trong tổng hợp dây nano polypyrrole định hướng ứng dụng trong cảm biến sinh học",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "52, 5A, 61-65",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Fabrication of PDMS-based Microfluidic Devices Toward Biomedical Applications",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ các trường Đại học Kỹ thuật",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "105A 38-42",
+            "published_date": "05/2015"
+        },
+        {
+            "title": "Development of electrochemical biosensors integrated with microchambers for DNA detection",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "53 169-173",
+            "published_date": "12/2015"
+        },
+        {
+            "title": "Possible removal of heavy metal and selective rare-earth ions by polymeric and nano-composite materials",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "54 401-415",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "Fabrication of Sub-Micro Thin Layer Structures Using Cyclopentanone Mix Solution as a Modified SU-8 3050",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "118 060-064",
+            "published_date": "05/2017"
+        },
+        {
+            "title": "Formation of microdroplet in T-junction microfluidic system: experiment and simulation",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in Physics",
+            "journal_ranking": "N/A",
+            "citation_count": 3,
+            "volume_issue_pages": "28 225-235",
+            "published_date": "08/2018"
+        },
+        {
+            "title": "Possible detection of antibiotic residue using molecularly imprinted polyaniline-based sensor",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry",
+            "journal_ranking": "N/A",
+            "citation_count": 7,
+            "volume_issue_pages": "57 328-333",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Non-enzymatic glucose sensor based on CuO nanoplates",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of science and technology-Technique universities",
+            "journal_ranking": "N/A",
+            "citation_count": 1,
+            "volume_issue_pages": "146 54-57",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Methodological aspects for the study of nucleation and growth mechanisms of metals from deep eutectic solvents based on choline chloride",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science and Technology",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "60 424-435",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Non-Enzymatic Glucose Sensor Based on Ni(OH)2/NF Materials Using Different Pulse Voltammetry Technique",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "JST: Engineering and Technology for Sustainable Developmenty",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "34 024-030",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Size control and characterization of monodispersed micro-capsules using flow-focusing microfluidic system",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Advanced Materials and Nanotechnology (ICAMN2012)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "18-23",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Carbon Nanotubes Field Effect Transistor for Rapid Detection of DNA",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "ASEAN+ 2013 The 2nd Regional Symposium on Biosensors, Biodiagnostics and Biochips",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "2-5",
+            "published_date": "12/2013"
+        },
+        {
+            "title": "Automatic Evaluation of the Elastic Modulus of a Capsule Membrane",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Springer, Cham,",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "245 389-398",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Easy immobilization of DNA for development of polypyrrole nanowires based biosensor",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 15th International Symposium on Eco-materials Processing and Design (ISEPD2014)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "88-91",
+            "published_date": "01/2014"
+        },
+        {
+            "title": "Design and fabrication of microfluidic biosensor composed of a PDMS microchannel and three electrode platform for electrochemical measurement",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 2nd International Conference on Advanced Materials and Nanotechnology (ICAMN2014)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "254-260",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Thiết kế chế tạo cảm biến điện hóa vi dòng chảy tích hợp điện cực giả so sánh để chế tạo dây nano polypyrrole nhằm cố định AND",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "SPMS2015",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "460-463",
+            "published_date": "11/2015"
+        },
+        {
+            "title": "Nanoporous P- rich electrode fabrication using dealloying method",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "THE THIRD INTERNATIONAL CONFERENCE ON ADVANCED MATERIALS AND NANOTECHNOLOGY (ICAMN2016)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "149-153",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "An immobilized method of the IgY antibody based the immunosensor detecting the Newcastle disease virus",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "THE THIRD INTERNATIONAL CONFERENCE ON ADVANCED MATERIALS AND NANOTECHNOLOGY (ICAMN2016)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "214-218",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Fabrication of Optical band-pass filter by electron beam ion assisted deposition evaporation technique",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "THE THIRD INTERNATIONAL CONFERENCE ON ADVANCED MATERIALS AND NANOTECHNOLOGY (ICAMN2016)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "178-181",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Fabrication of microdroplets using PDMS-based T-junction microfluidic system",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "INTERNATIONAL CONFERENCE ON ADVANCED MATERIALS AND NANOTECHNOLOGY (ICAMN2016)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "182-186",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "simple anodic stripping voltammetry method for the determination of As3+",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "THE THIRD INTERNATIONAL CONFERENCE ON ADVANCED MATERIALS AND NANOTECHNOLOGY (ICAMN2016)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "191-194",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Fabrication of Back Gate CNTFET Toward the DNA Sensor Application",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Conference on the Development of Biomedical Engineering in Vietnam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "375-379",
+            "published_date": "06/2018"
+        },
+        {
+            "title": "An Electrochemical DNA Sensor Based on Conducting Polymer Electrode",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "BME 2018: 7th International Conference on the Development of Biomedical Engineering in Vietnam (BME7)",
+            "journal_ranking": "N/A",
+            "citation_count": 1,
+            "volume_issue_pages": "353-357",
+            "published_date": "06/2019"
+        },
+        {
+            "title": "A Label-Free Electrochemical Immunosensor for Detection of Newcastle Disease Virus",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "BME 2018: 7th International Conference on the Development of Biomedical Engineering in Vietnam (BME7)",
+            "journal_ranking": "N/A",
+            "citation_count": 7,
+            "volume_issue_pages": "699-703",
+            "published_date": "06/2019"
+        },
+        {
+            "title": "Fabrication of polyaniline nanowires using cyclic voltammetry and chronoamperometry methods",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 4th International Conference on Advanced Materials and Nanotechnology",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "276-280",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Recent Advances in Development of Microfluic Systems in Viet Nam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 4th International Conference on Advanced Materials and Nanotechnology (ICAMN2019)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "263-266",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Design and fabrication of printing based microlens",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in optics, photonics, spectroscopy, and applications XI",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "164-167",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Enzyme-free glucose electrochemical sensor based on Ni(OH)2 nanostructures synthesized on nickel foam substrate",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 10th International Workshop on Advanced Materials Science and Nanotechnology (IWAMSN 2021)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "86-90",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "A Simple Chemical Procedure for Direct Synthesis of NiO on Nickel Foam Electrode Applied in Non-enzymatic Glucose Electrochemical Measurements",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "ICERA 2021: Advances in Engineering Research and Application",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "N/A",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Fabrication of microlenses based on silicon mold",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of The 7th International Conference on Applied and Engineering Physics (CAEP-7)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "80-85",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Non-enzymatic glucose sensing of Ni(OH)2 nanowalls on nickel foam substrate",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu toàn quốc lần thứ 12 (SPMS 2021)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "730-733",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Electrochemical synthesis of polyaniline nanowires for triethanolamine (tea) sensing",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu toàn quốc lần thứ 12 (SPMS 2021)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "413-416",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Fabrication gas sensor based on multilayer metal oxide thin films for exhaled breath analysis",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu toàn quốc lần thứ 12 (SPMS 2021)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "553-557",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Chế tạo và nghiên cứu tính chất của tổ hợp thanh nano RGO/WO3",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu toàn quốc lần thứ 12 (SPMS 2021)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "709-712",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Diffusion-controlled growth of Tin electrodeposition from nonaqueous solvents",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 5th International Conference on Advanced Materials and Nanotechnology (ICAMN2022)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "176-180",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "The influence of ZnO capping layer on the gas sensing properties of Pt catalyzed SnO2 thin film",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 5th International Conference on Advanced Materials and Nanotechnology (ICAMN2022)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "307-311",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Effect of NaOH concentration on electrochemical properties of Ni(OH)2 nanomaterials for non-enzymatic glucose measurement",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 5th International Conference on Advanced Materials and Nanotechnology (ICAMN2022)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "86-90",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Fabrication Of Microlens Based On Photoresist Mold",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 5th International Conference on Advanced Materials and Nanotechnology (ICAMN2022)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "14-17",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "On Zn electrodeposition from Zn(CH3COO)2-2H2O salt dissolved in an organic solvent for gas sensing applications",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 5th International Conference on Advanced Materials and Nanotechnology (ICAMN2022)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "180-187",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Synthesis of Bi2O3-ZnO heterostructured nanosheets using hydrothermal method",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 5th International Conference on Advanced Materials and Nanotechnology (ICAMN2022)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "203-206",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Study and Fabrication of SU-8 Mold For Shaping Microlenses",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 5th International Conference on Advanced Materials and Nanotechnology (ICAMN2022)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "38-41",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Study of parameters affecting farication process of PDMS microlenses based on photoresist mold",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy & Applications XII 2022",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "87-91",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Directional synthesis of nickel oxide materials on pencil graphite electrode for sensitive non-enzymatic glucose sensor",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2023",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "239-244",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Chemical method for direct synthesis of Ni(OH)2 nanomaterials on niken foam electrode",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 11th International Workshop on Advanced Materials Science and Nanotechnology (IWAMSN 2024)",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "230-235",
+            "published_date": "09/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu chế tạo hệ thống vi lưu ứng dụng trong nhận biết virut gây bệnh",
+            "role": "Principal Investigator",
+            "project_code": "103.02-2012.78",
+            "management_level": "cấp Bộ",
+            "period": "01/02/2013 đến 31/12/2015",
+            "acceptance_date": "14,01,2016",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Thiết kế chế tạo cảm biến điện hóa vi dòng chảy tích hợp điện cực giả/so sánh dùng cho chế tạo vật liệu cấu trúc nano nhằm cố định ADN",
+            "role": "Principal Investigator",
+            "project_code": "103.02-2015.44",
+            "management_level": "cấp Bộ",
+            "period": "01/08/2016 đến 28/02/2020",
+            "acceptance_date": "3,7,2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu chế tạo vật liệu nano Ni(OH)2 mọc trực tiếp trên điện cực định hướng ứng dụng trong cảm biến đo nồng độ glucose",
+            "role": "Principal Investigator",
+            "project_code": "B2022-BKA-25 CTVL",
+            "management_level": "cấp Bộ",
+            "period": "03/01/2022 đến 28/06/2024",
+            "acceptance_date": "30,8,2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu quá trình trộn SU-8 3050/cyclopentanone nhằm chế tạo các vi cấu trúc với chiều dày cỡ nano mét",
+            "role": "Principal Investigator",
+            "project_code": "T2016-PC-125",
+            "management_level": "cấp Cơ sở",
+            "period": "01/08/2016 đến 31/07/2017",
+            "acceptance_date": "17,7,2017",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu chế tạo và khảo sát đặc trưng điện hóa CuO cấu trúc nano định hướng ứng dụng trong cảm biến sinh học",
+            "role": "Principal Investigator",
+            "project_code": "T2018-PC-220",
+            "management_level": "cấp Cơ sở",
+            "period": "01/11/2019 đến 30/10/2020",
+            "acceptance_date": "16,10,2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu chế tạo và khảo sát đặc trưng điện hóa của cấu trúc nano ô xít kim loại bán dẫn định hướng ứng dụng trong cảm biến sinh học",
+            "role": "Principal Investigator",
+            "project_code": "T2020-SAHEP-1025",
+            "management_level": "cấp Cơ sở",
+            "period": "01/09/2020 đến 31/12/2021",
+            "acceptance_date": "22,01,2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Chế tạo vật liệu nano bên trongcảm biến sinh học vi dòng chảy tích hợp điện cực giả so sánh dùng để cố định DNA lên bề mặt điện cực",
+            "role": "Principal Investigator",
+            "project_code": "16-169 RG/PHYS/AS_I-FR3240293345, TWAS",
+            "management_level": "cấp Khác",
+            "period": "01/12/2016 đến 31/12/2018",
+            "acceptance_date": "7,1,2019",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Nucleation and growth in applied materials",
+            "type": "Monograph",
+            "publisher": "Elsevier",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 10: Nucleation in polymer",
+            "verification_document_id": "N/A"
+        }
+    ],
+    "patents": [
+        {
+            "title": "Procédé et système de production de microcapsules calibrées, No. EP 2699339 B1, 2015",
+            "issuing_authority": "European patent Office",
+            "issue_date": "21/10/2015",
+            "is_main_inventor": false,
+            "num_inventors": 4
+        },
+        {
+            "title": "Method and system for producing calibrated microcapsules, No.US 9,737,864 B2 (2017)",
+            "issuing_authority": "U.S. Patent",
+            "issue_date": "22/08/2017",
+            "is_main_inventor": false,
+            "num_inventors": 4
+        }
+    ],
+    "achievements": null,
+    "training_programs": null
+}

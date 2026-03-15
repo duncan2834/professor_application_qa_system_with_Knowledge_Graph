@@ -1,0 +1,589 @@
+{
+    "papers": [
+        {
+            "title": "Thin film polypyrrole/SWCNTs nanocomposites-based NH3 sensor operated at room temperature",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sensors and Actuators B/ ISSN: 0925-4005. https://doi.org/10.1016/j.snb.2009.04.061",
+            "journal_ranking": "SCIE (3.661, Q1)",
+            "citation_count": 120,
+            "volume_issue_pages": "Vol. 140, pp. 500-507",
+            "published_date": "5/2009"
+        },
+        {
+            "title": "Synthesis of p-type semiconducting cupric oxide thin films and their application to hydrogen detection",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sensors and Actuators B /ISSN: 0925-4005. https://doi.org/10.1016/j.snb.2010.02.045",
+            "journal_ranking": "SCIE (3.854, Q1)",
+            "citation_count": 143,
+            "volume_issue_pages": "Vol. 146, pp. 239-244",
+            "published_date": "2/2010"
+        },
+        {
+            "title": "Enhanced Photoelectrochemical Activity of the TiO2 /ITO Nanocomposites Grown onto Single-Walled Carbon Nanotubes at a Low Temperature by Nanocluster Deposition",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advanced Materials/ ISSN: 1521-4095. https://doi.org/10.1002/adma.201103030",
+            "journal_ranking": "SCIE (13.877, Q1)",
+            "citation_count": 39,
+            "volume_issue_pages": "Vol. 23, pp. 5557-5562",
+            "published_date": "11/2011"
+        },
+        {
+            "title": "An amperometric glucose biosensor based on GOx entrapped TiO2-SWCNT composite",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sensors and Actuators B/ISSN: 0925-4005. https://doi.org/10.1016/j.snb.2012.01.008",
+            "journal_ranking": "SCIE (4.013, Q1)",
+            "citation_count": 51,
+            "volume_issue_pages": "Vol. 166-167, pp. 103-109",
+            "published_date": "1/2012"
+        },
+        {
+            "title": "Enzymatic glucose biosensor based on CeO2 nanorods synthesized by non-isothermal precipitation",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biosensors and Bioelectronics/ ISSN: 0956-5663. https://doi.org/10.1016/j.bios.2011.10.013",
+            "journal_ranking": "SCIE (6.081, Q1)",
+            "citation_count": 108,
+            "volume_issue_pages": "Vol. 31, pp. 176-181",
+            "published_date": "10/2012"
+        },
+        {
+            "title": "High performance nonezymatic glucose sensor made of CuO-SWCNT nanocomposites",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biosensors and Bioelectronics/ISSN: 0956-5663. https://doi.org/10.1016/j.bios.2012.10.044",
+            "journal_ranking": "SCIE (6.835, Q1)",
+            "citation_count": 147,
+            "volume_issue_pages": "Vol. 42, pp. 280-286",
+            "published_date": "10/2012"
+        },
+        {
+            "title": "Urchin-like nanowire array: a strategy for high-performance ZnO-based electrode utilized in photoelectrochemistry",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nanoscale/ISSN: 2040-3372. https://doi.org/10.1039/C3NR00889D",
+            "journal_ranking": "SCIE (6.739, Q1)",
+            "citation_count": 51,
+            "volume_issue_pages": "Vol. 5, pp. 5530-5538",
+            "published_date": "4/2013"
+        },
+        {
+            "title": "NiO-decorated single-walled carbon nanotubes for high performance nonenzymatic glucose sensing",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sensors and Actuators B/ISSN: 0925-4005. https://doi.org/10.1016/j.snb.2013.04.018",
+            "journal_ranking": "SCIE (4.257, Q1)",
+            "citation_count": 81,
+            "volume_issue_pages": "Vol. 183, pp. 381-387",
+            "published_date": "4/2013"
+        },
+        {
+            "title": "Hấp phụ As (III) trong môi trường nước bằng vật liệu hấp phụ bã chè biến tính KOH",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí phân tích Hóa, Lý và Sinh học/ ISSN: 0868-3224. https://vjol.info.vn/index.php/TCPTHLS/article/view/26850",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, Số 3, tr. 131-140",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Origin of Room Temperature Ferromagnetism in Cr-Doped Lead-Free Ferroelectric Bi0.5Na0.5TiO3 Materials",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials/ ISSN: 1543-186X. https://doi.org/10.1007/s11664-016-5248-0",
+            "journal_ranking": "SCIE (1.654, Q2)",
+            "citation_count": 60,
+            "volume_issue_pages": "Vol. 46, 3367-3372",
+            "published_date": "2/2017"
+        },
+        {
+            "title": "Phương pháp quét thế vòng xác định nồng độ Glucose dựa trên điện cực CuO/ITO",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phân tích Hóa, Lý và Sinh học/ ISSN: 0868-3224. https://vjol.info.vn/index.php/TCPTHLS/article/view/29513",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 22, Số 3, tr.98-105",
+            "published_date": "3/2017"
+        },
+        {
+            "title": "Hấp phụ Cd(II) trong môi trường nước bằng vật liệu hấp phụ bã chè biến tính KOH",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học/ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 55, số 5E12, pp 54-58",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Kĩ thuật Chronoamperometry trong cảm biến glucose dựa trên điện cực CuO/ITO",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học/ISSN: 0866-7144.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3E12-2018, tr. 15-20",
+            "published_date": "7/2018"
+        },
+        {
+            "title": "Tunable magnetic properties of Bi0.5Na0.5TiO3 materials via solid solution of NiTiO3",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Physic A/ISSN: 1432-0630. https://doi.org/10.1007/s00339-018-2002-x",
+            "journal_ranking": "SCIE (1.784, Q2)",
+            "citation_count": 24,
+            "volume_issue_pages": "Vol. 588, pp. 1-7",
+            "published_date": "8/2018"
+        },
+        {
+            "title": "Magnetic properties of (1-x)Bi0.5Na0.5TiO3+xMnTiO3 materials",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Magnetism and Magnetic Materials/ISSN: 1873-4766. https://doi.org/10.1016/j.jmmm.2018.09.087",
+            "journal_ranking": "SCIE (2.683, Q2)",
+            "citation_count": 20,
+            "volume_issue_pages": "Vol. 471, pp.164-168",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "A Facile Synthesis, Characterization, and Photocatalytic Activity of Magnesium Ferrite Nanoparticles via the Solution Combustion Method",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Jounal of Chemistry/ISSN: 2090-9071. https://doi.org/10.1155/2019/3428681",
+            "journal_ranking": "SCIE (2.683, Q2)",
+            "citation_count": 51,
+            "volume_issue_pages": "Vol. 2019, pp. 1-7,",
+            "published_date": "3/2019"
+        },
+        {
+            "title": "Tunable Magnetism of Na0.5Bi0.5TiO3 Materials via Fe Defects",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Superconductivity and Novel Magnetism/ISSN: 1557-1947. https://doi.org/10.1007/s10948-019-05163-z",
+            "journal_ranking": "SCIE (1.44, Q3)",
+            "citation_count": 24,
+            "volume_issue_pages": "Vol. 32, pp. 3011-3018",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "A simple route for electrochemical glucose sensing using background current subtraction of cyclic voltammetry technique",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Electroanalytical Chemistry/ISSN: 1572-6657. https://doi.org/10.1016/j.jelechem.2019.113323",
+            "journal_ranking": "SCIE (3.807, Q1)",
+            "citation_count": 16,
+            "volume_issue_pages": "Vol. 848, pp. 113323",
+            "published_date": "7/2019"
+        },
+        {
+            "title": "Hấp phụ xanh metylen trong nước sử dụng vật liệu tổ hợp nano Fe3O4/bentonit chế tạo bằng phương pháp hoạt hóa siêu âm",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học/ISSN: 0866-7144",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 57(4e1,2) 181-187",
+            "published_date": "7/2019"
+        },
+        {
+            "title": "Role of Co dopants on the structural, optical and magnetic properties of lead-free ferroelectric Na0.5Bi0.5TiO3 materials",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science: Advanced Materials and Devices/ISSN: 2468-2179. https://doi.org/10.1016/j.jsamd.2019.08.007",
+            "journal_ranking": "SCIE (3.783, Q1)",
+            "citation_count": 38,
+            "volume_issue_pages": "Vol. 4, pp. 584-590",
+            "published_date": "8/2019"
+        },
+        {
+            "title": "Structural, optical, and magnetic properties of a new system of Bi(Mn0.5T10.5)O3-modified Bi0.5Na0.5TiO3 materials",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Research Express/ISSN: 2053-1591. https://doi.org/10.1088/2053-1591/ab3ce0",
+            "journal_ranking": "SCIE (1.95, Q2)",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol. 4, pp. 584-590",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Effect of pH on the adsorption behaviour of Congo Red Dye on the Mg-Al layered double hydroxide",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "IOP Conf. Ser.: Mater. Sci. Eng. /ISSN: 1757-899X. https://doi.org/10.1088/1757-899X/736/2/022077",
+            "journal_ranking": "SCIE (0.536)",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol. 736, pp. 022077",
+            "published_date": "2020"
+        },
+        {
+            "title": "Defect-Mediated Room Temperature Ferromagnetism in Lead-Free Ferroelectric Na0.5Bi0.5TiO3 Materials",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Superconductivity and Novel Magnetism/ISSN: 1557-1947. https://doi.org/10.1007/s10948-019-05399-9",
+            "journal_ranking": "SCIE (1.48, Q3)",
+            "citation_count": 20,
+            "volume_issue_pages": "Vol. 33, pp. 911-920",
+            "published_date": "1/2020"
+        },
+        {
+            "title": "Enhancing room-temperature ferromagnetism in Bi0.5Na0.5TiO3 via FeTiO3 solid solution",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electroceramics/ISSN: 1573-8663. https://doi.org/10.1007/s10832-020-00203-w",
+            "journal_ranking": "SCIE (1.785, Q1)",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol. 44, pp. 129-135",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Influenced of Bi(Ti1/2Ni1/2)O3 concentration on the structural, optical and magnetic properties of lead-free Bi1/2Na1/2TiO3 materials",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vacuum/ISSN: 1879-2715. https://doi.org/10.1016/j.vacuum.2020.109306",
+            "journal_ranking": "SCIE (3.63, Q1)",
+            "citation_count": 11,
+            "volume_issue_pages": "Vol. 177, pp. 109306",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Facile Synthesis of CuO/ITO Film Via the Chronoamperometric Electrodeposition for Nonenzymatic Glucose Sensing",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in Physics/ISSN: 2815-5947. https://doi.org/10.15625/0868-3166/30/2/14801",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol. 30, No. 2, pp. 161-170",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "Experimental and theoretical studies on the room-temperature ferromagnetism in new (1-x)Bi1/2Na1/2TiO3+xCoTiO3 solid solution materials",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vacuum/ISSN: 1879-2715. https://doi.org/10.1016/j.vacuum.2020.109551",
+            "journal_ranking": "SCIE (3.63, Q1)",
+            "citation_count": 14,
+            "volume_issue_pages": "Vol. 179, pp.109551",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "Study on the degradation for Rhodamine-B in water using Cu2+ doped hydrotalcite compounds",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ISSN: 2615-9562. https://doi.org/10.34238/tnu-jst.2840",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 225(13), pp. 3-10",
+            "published_date": "8/2020"
+        },
+        {
+            "title": "Nghiên cứu chế tạo vật liệu tổ hợp Mn3O4/graphen bằng phương pháp điện hóa plasma dưới sự hỗ trợ của siêu âm định hướng ứng dụng làm điện cực cho siêu tụ",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry/ISSN: 2572-8288",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 58(5E12), pp. 265-269",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Equilibrium, Kinetic and Thermodynamic Studies for Sorption of Phosphate from Aqueous Solutions Using ZnO Nanoparticles",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Processes/ISSN: 2227-9717. https://doi.org/10.3390/pr8111397",
+            "journal_ranking": "SCIE (3.04, Q2)",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol. 8, pp.1397",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Communication—A Simple Empirical Method for Determination of CuOOH/CuO Redox Couple in Electrochemical Nonenzymatic Glucose Sensing",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of The Electrochemical Society/ISSN: 1945-7111. https://doi.org/10.1149/1945-7111/abdb02",
+            "journal_ranking": "SCIE (4.386, Q1)",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol. 168, pp.017506",
+            "published_date": "1/2021"
+        },
+        {
+            "title": "Study on methylene blue adsorption of activated carbon made from Moringa oleifera leaf",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Today: Proceedings/ISSN: 2214-7853 https://doi.org/10.1016/j.matpr.2020.10.834",
+            "journal_ranking": "Scopus (1.50, Q2)",
+            "citation_count": 74,
+            "volume_issue_pages": "Vol. 38, pp. 3405-3413",
+            "published_date": "3/2021"
+        },
+        {
+            "title": "The role of copper nanoparticles decorating polydopamine/graphene film as catalyst in the enhancement of uric acid sensing",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electroanalytical Chemistry/ISSN: 1572-6657. https://doi.org/10.1016/j.jelechem.2021.115322",
+            "journal_ranking": "SCIE (4.21, Q1)",
+            "citation_count": 18,
+            "volume_issue_pages": "Vol. 893, pp. 115322",
+            "published_date": "5/2021"
+        },
+        {
+            "title": "Glucose sensor using cyclic voltammetric method based on NiO/ITO electrode",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ISSN: 2615-9562. https://doi.org/10.34238/tnu-jst.4337",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 226(09): 79-86",
+            "published_date": "5/2021"
+        },
+        {
+            "title": "Design and characterization of a new (1-x)Na1/2Bi1/2TiO3+xBi(Ti1/2Fe1/2)O3 solid solution",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vacuum/ISSN: 1879-2715. https://doi.org/10.1016/j.vacuum.2020.109815",
+            "journal_ranking": "SCIE (3.90, Q1)",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 183, pp.109815",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Nghiên cứu tổng hợp và khảo sát tính chất điện hóa của vật liệu Graphene/MoS2 bằng phương pháp tổng trở",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu Khoa học và công nghệ quân sự/ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số Đặc san Hội thảo Quốc gia FEE, pp.266-270",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Cảm biến formaldehyde phi enzyme sử dụng điện cực dựa trên vật liệu niken oxit chế tạo bằng phương pháp điện hóa",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Catalysis and Adsorption/ISSN: 0866-7411. https://doi.org/10.51316/jca.2021.100",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "10-special issue 1 103-107",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Ảnh hưởng của polyme siêu hấp thụ nước ASM-1 đến khả năng hấp thu Cadimi của cỏ vetiver trồng trên đất ô nhiễm",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí phân tích Hóa, Lý và Sinh học/ISSN: 0868-3224",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 26, Số 4B/2021",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Structural, optical, and magnetic properties of a new complex (1-x)Bi1/2Na1/2TiO3+xMgNiO3-8 solid solution system",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Physics A/ISSN: 1432-0630. https://doi.org/10.1007/s00339-021-05255-5",
+            "journal_ranking": "SCIE (2.983, Q2)",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol. 128 (2), pp. 129",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Magnetic Properties of a (1-x)Bi0.5Na0.5TiO3+xCaNiO3-8 Solid Solution",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials/ISSN: 1543-186X.",
+            "journal_ranking": "SCIE (2.047, Q3)",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 51, pp. 1905-1921",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Determination of Glucose in Human Serum Using Background Subtraction of Cyclic Voltammetry of a Low Oxidation Peak at NiO Based Electrode",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of The Electrochemical Society/ISSN: 1945-7111. https://doi.org/10.1149/1945-7111/ac4e5a",
+            "journal_ranking": "SCIE (4.371, Q1)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 169, pp. 027503",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Synthesis and Characterization of (1-x)Bi1/2Na1/2TiO3+xSrNiO3-8 Solid Solution System",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials/ISSN: 1543-186X. https://doi.org/10.1007/s11664-022-09534-6",
+            "journal_ranking": "SCIE (2.047, Q3)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 51, 2716-2731",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Enhanced Photocatalytic Degradation of Rhodamine-B under Led Light Using CuZnAl Hydrotalcite Synthesized by Co-Precipitation Technique",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Inorganics/ISSN: 2304-6740. https://doi.org/10.3390/inorganics10070089",
+            "journal_ranking": "SCIE (2.9, Q2)",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol. 89, pp. 1-15",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "A nonenzymatic uric acid sensor based on electrophoretically deposited Graphene/ITO electrode",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry/ISSN: 2572-8288. https://doi.org/10.1002/vjch.202200071",
+            "journal_ranking": "Scopus (0.74, Q3)",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 60, pp. 60-65",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "A one-stage sono-coprecipitation synthesis of porous Fe3O4/bentonite nanocomposite as an adsorbent for methylene blue removal in water",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry/ISSN: 2572-8288. https://doi.org/10.1002/vjch.202200062",
+            "journal_ranking": "Scopus (0.74, Q3)",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 60, pp. 41-45",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "Enhanced Adsorption, Photocatalytic Degradation Efficiency of Phenol Red Using CuZnAl Hydrotalcite Synthesized by Co-Precipitation Technique",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Processes/ISSN: 2227-9717. https://doi.org/10.3390/pr10081555",
+            "journal_ranking": "SCIE (3.352, Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol. 10, pp.1555",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Combination of superabsorbent polymer and vetiver grass as a remedy for lead-polluted soil",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Geography, Environment, Sustainability/ISSN: 2542-1565. https://doi.org/10.24057/2071-9388-2022-054",
+            "journal_ranking": "Scopus (0.323, Q3)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 1(16), pp.181-188",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Adsorption of direct red 79 in wastewater on Fe2Fe1-xMnXO4 (x = 0-1) nanoparticles prepared by co-precipitation method",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Science and Technology/ISSN: 2815-5874.",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol., pp. 61 (1) 91-107",
+            "published_date": "1/2023"
+        },
+        {
+            "title": "Nonenzymatic glucose sensor based on CuS/ITO electrode fabricated by electrophoresis method",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ISSN: 2615-9562",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "228(S2): 54-61",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Application of multivariate standard addition method based on molecular absorption spectroscopy for simultaneous quantification of caffeine and theobromine in Vietnamese tea",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ISSN: 2615-9562",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "228(S2): 62-69",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Enhanced room temperature ferromagnetism in YMnO3-modifed lead-free ferroelectric Bi0.5Na0.5TiO3 materials",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Physics A/ISSN: 0947-8396. https://doi.org/10.1007/s00339-023-06820-w",
+            "journal_ranking": "SCIE (2.983, Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol. 129, pp. 547-557",
+            "published_date": "7/2023"
+        },
+        {
+            "title": "Synthesis of Porous Carbon Nanomaterials from Vietnamese Coal: Fabrication and Energy Storage Investigations",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Sciences/ISSN: 2076-3417. https://doi.org/10.3390/app14030965",
+            "journal_ranking": "SCIE (2.7, Q2)",
+            "citation_count": 14,
+            "volume_issue_pages": "Vol. 14, 965",
+            "published_date": "1/2024"
+        },
+        {
+            "title": "Facile route for preparation of cuprous oxide/copper/cupric oxide nanoparticles by using simultaneous electrochemical and reduction reaction",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Heliyon/ISSN: 2405-8440. https://doi.org/10.1016/j.heliyon.2024.e25195",
+            "journal_ranking": "SCIE (4.45, Q1)",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 10, e25195",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Straightforward method for the electrochemical identification of dopamine in the presence of uric acid and ascorbic acid",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Measurement Science and Technology/ISSN: 1361-6501. https://doi.org/10.1088/1361-6501/ad282d",
+            "journal_ranking": "SCIE (2.63, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 35, 0555114 (11pp)",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Chế vật liệu nano carbon từ than cốc định hướng ứng dụng làm anode trong pin li-ion",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí phân tích Hóa, Lý và Sinh học/ ISSN: 0868-3224. https://vjol.info.vn/index.php/TCPTHLS/article/view/92791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.3, pp. 102-107",
+            "published_date": "3/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu chế tạo điện cực CuO/ITO ứng dụng trong cảm biến điện hóa",
+            "role": "Principal Investigator",
+            "project_code": "CS2016-SP-13",
+            "management_level": "Cơ Sở",
+            "period": "2/2017-12/2017",
+            "acceptance_date": "22/11/2017",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu chế tạo đồng oxit dạng nanowire và nanotube bằng phương pháp điện hóa và ứng dụng trong cảm biến điện hóa và quang điện hóa để chế tạo hiđro từ năng lượng Mặt Trời",
+            "role": "Principal Investigator",
+            "project_code": "103.02-2016.63",
+            "management_level": "Nhà nước: Quỹ phát triển Khoa học và Công nghệ Quốc gia (NAFOSTED)",
+            "period": "3/2017 - 2/2021",
+            "acceptance_date": "12/5/2021",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Thực hành hóa lí",
+            "type": "Textbook",
+            "publisher": "Đại học Thái Nguyên",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Bài 1 (trang 1-15); bài 3 (trang 22-26); bài 4 (trang 27-33); bài 9 (trang 57-63); bài 10 (trang 64-69); bài 11 (70-77); bài 12 (78-84).",
+            "verification_document_id": "Số 429/QĐ-ĐHSP ngày 28/2/2023"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

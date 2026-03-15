@@ -1,0 +1,737 @@
+{
+    "papers": [
+        {
+            "title": "Phân lập và định danh các dòng vi khuẩn bản địa có khả năng phân hủy thuốc kích thích ra hoa paclobutrazol từ đất vườn trồng cây ăn trái ở một số tỉnh đồng bằng sông Cửu Long",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "(32): 80-86",
+            "published_date": "2014"
+        },
+        {
+            "title": "Phân lập và định danh một số dòng vi khuẩn bản địa phân hủy chuyên biệt hoạt chất propoxur từ nền đất bảo quản hành tím tại thị xã Vĩnh Châu, tỉnh Sóc Trăng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "(34): 92-99",
+            "published_date": "2014"
+        },
+        {
+            "title": "Phân lập và tuyển chọn chủng vi khuẩn phân hủy thuốc trừ sâu diazinon trên đất chuyên màu ở một số tỉnh Đồng bằng sông Cửu Long",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn, ISSN: 2815-6153",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(12): 56-61",
+            "published_date": "2015"
+        },
+        {
+            "title": "Phân lập và tuyển chọn một số dòng nấm bản địa phân hủy một số vật liệu hữu cơ từ nền đất thâm canh lúa tại xã Phong Hòa, huyện Lai Vung, tỉnh Đồng Tháp",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 5,
+            "volume_issue_pages": "(36): 1-11",
+            "published_date": "2015"
+        },
+        {
+            "title": "Đặc tính bùn thải từ hệ thống xử lý nước thải của nhà máy sản xuất bia và chế biến thủy sản",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 5,
+            "volume_issue_pages": "(45): 74-81",
+            "published_date": "2016"
+        },
+        {
+            "title": "Khảo sát sự xâm nhiễm và sự hiện diện của bào tử nấm rễ nội cộng sinh (arbuscular mycorrhiza) trong mẫu rễ và đất vùng rễ của cây bắp, mè và ớt được trồng ở thành phố Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "(46): 47-53",
+            "published_date": "2016"
+        },
+        {
+            "title": "Phylogenetic and functional characterisation of cultured and cloned bacteria inhabiting rice stubble and their potential biocontrol effects",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asia-Pacific Journal of Food Safety and Security, ISSN: 2422-9555",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2(4): 30-46",
+            "published_date": "2016"
+        },
+        {
+            "title": "Soil diazotrophic community structure altered in rice crop rotated with mungbean or maize in Cai Lay district, Tien Giang province",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(7): 6-12",
+            "published_date": "2017"
+        },
+        {
+            "title": "Sử dụng bùn thải từ hệ thống xử lý nước thải của nhà máy sản xuất bia trong ủ phân hữu cơ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học đất, ISSN: 2525-2216",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(50): 54-61",
+            "published_date": "2017"
+        },
+        {
+            "title": "Sử dụng bùn thải từ hệ thống xử lý nước thải của nhà máy chế biến thủy sản trong ủ phân hữu cơ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn, ISSN: 2815-6153",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(5): 54-61",
+            "published_date": "2017"
+        },
+        {
+            "title": "Hiệu quả của phân hữu cơ vi sinh bùn thải thủy sản lên sự sinh trưởng và năng suất cây bí đao",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học đất, ISSN: 2525-2216",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "(53): 19-24",
+            "published_date": "2018"
+        },
+        {
+            "title": "Đánh giá hiện trạng sử dụng sự lưu tồn của paclobutrazol trên đất trồng xoài cát hòa lộc (Mangifera indica L.) tại huyện Châu Thành A, tỉnh Hậu Giang",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học đất, ISSN: 2525-2216",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(53): 152-157",
+            "published_date": "2018"
+        },
+        {
+            "title": "Ảnh hưởng của kỹ thuật xử lý ra hoa trái vụ lên một số đặc tính sinh học đất và năng suất xoài cát hòa lộc tại huyện Châu Thành, tỉnh Hậu Giang",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học đất, ISSN: 2525-2216",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(53): 171-175",
+            "published_date": "2018"
+        },
+        {
+            "title": "Khảo sát, phân lập và đánh giá sự hỗ trợ của nấm rễ nội cộng sinh trên cây mè và cây bắp ở điều kiện nhà lưới",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và phát triển nông thôn, ISSN: 2815-6153",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "(16): 70-77",
+            "published_date": "2018"
+        },
+        {
+            "title": "Khảo sát khả năng hỗ trợ sinh trưởng của cộng đồng nấm rễ trên cây bắp trong điều kiện nhà lưới",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "(54), 4: 91-99",
+            "published_date": "2018"
+        },
+        {
+            "title": "Đánh giá khả năng hỗ trợ sinh trưởng của quần thể nấm rễ từ đất vùng rễ cây bắp trên cây mè ở điều kiện nhà lưới",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Khoa học và Công nghệ, ISBN: 978-604-973-176-1",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "491-497",
+            "published_date": "2018"
+        },
+        {
+            "title": "Sản xuất và đánh giá hiệu quả phân hữu cơ vi sinh từ bùn thải nhà máy sản xuất bia và nhà máy chế biến thủy sản trên năng suất cây rau",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "(54): 81-89",
+            "published_date": "2018"
+        },
+        {
+            "title": "Ảnh hưởng của tính chất hóa học và sinh học đất lên sự hiện diện và sự xâm nhiễm của nấm rễ nội cộng sinh trong mẫu đất vùng rễ và rễ bắp trồng tại thành phố Cần Thơ",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(54), 4: 72-79",
+            "published_date": "2018"
+        },
+        {
+            "title": "Reviews and syntheses: anthropogenic perturbations to carbon fluxes in asian river systems concepts, emerging trends, and research challenges",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biogeosciences, ISSN: 1726-4189",
+            "journal_ranking": "Scopus, Scimago: Q1, SJR 2023: 1.77, IF (2022): 4.9",
+            "citation_count": 70,
+            "volume_issue_pages": "15: 3049-3069",
+            "published_date": "2018"
+        },
+        {
+            "title": "Ảnh hưởng của phân hữu cơ vi sinh từ nguồn bùn thải bia, thủy sản lên sinh trưởng và năng suất cây đậu bắp",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Nông nghiệp Việt Nam, ISSN: 1859-1558",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2(87): 7-10",
+            "published_date": "2018"
+        },
+        {
+            "title": "Phân lập và tuyển chọn dòng vi khuẩn có khả năng cố định đạm trong đất trồng lúa bị nhiễm mặn tại một số huyện của tỉnh Sóc Trăng",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Công nghệ sinh học toàn quốc, ISBN: 978-604-73-7266-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "286-290",
+            "published_date": "2019"
+        },
+        {
+            "title": "Xác định công thức phối trộn giá thể phù hợp cho hoa đồng tiền trồng chậu",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn, ISSN: 2815-6153",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "30-35",
+            "published_date": "2019"
+        },
+        {
+            "title": "Sử dụng vật liệu hữu cơ cải thiện dinh dưỡng và đặc tính sinh học đất nhiễm mặn trồng lúa tại huyện Trần Đề, tỉnh Sóc Trăng",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học đất, ISSN: 2815-6153",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(56): 35-38",
+            "published_date": "2019"
+        },
+        {
+            "title": "Phân lập và tuyển chọn dòng vi khuẩn có khả năng hòa tan lân từ đất trồng lúa bị nhiễm mặn tại tỉnh Sóc Trăng",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu khoa học HN Công nghệ sinh học toàn quốc 2020, ISBN: 978-604-73-7266-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "377-383",
+            "published_date": "2020"
+        },
+        {
+            "title": "Khảo sát ảnh hưởng của một số tính chất hóa học đất lên sự hiện diện của nấm rễ nội cộng sinh trong đất trồng lúa tại tỉnh Hậu Giang",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "(56):24-31",
+            "published_date": "2020"
+        },
+        {
+            "title": "Ảnh hưởng của hai loại biochar trấu đến sự phát thải khí CH4 và N2O từ đất phù sa trong điều kiện phòng thí nghiệm",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(56):109-118",
+            "published_date": "2020"
+        },
+        {
+            "title": "Microbial diversity analysis using 16S RNA gene amplicon sequencing of rhizosphere soils from double-cropping rice and rice-shrimp farming systems in Soc Trang, Vietnam",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Microbiology Resource Announcements, E-ISSN: 2576-098X",
+            "journal_ranking": "Scopus, Scimago: Q4, SJR 2023: 0.27, IF(2021): 0.886",
+            "citation_count": 4,
+            "volume_issue_pages": "10. e00595-21; 1-3",
+            "published_date": "2021"
+        },
+        {
+            "title": "Effect of feeding diet with paddy (Oryza sativa) and redworm (Perionyx excavates) on growth performance of free range Go Cong chicken",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Research in Animal and Veterinary Sciences",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "(8): 29-34",
+            "published_date": "2021"
+        },
+        {
+            "title": "Localized pollution impacts on greenhouse gas dynamics in three anthropogenically modified asian river systems",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "JGR-Biogeosciences, ISSN: 2169-8961",
+            "journal_ranking": "Scopus, Scimago: Q1, SJR 2023: 1.46, IF: 3.7",
+            "citation_count": 32,
+            "volume_issue_pages": "126. e2020JG006124",
+            "published_date": "2021"
+        },
+        {
+            "title": "Two strains of Luteovulum sphaeroides (purple nonsulfur bacteria) promote rice cultivation in saline soils by increasing available phosphorus",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Rhizosphere, ISSN: 2452-2198",
+            "journal_ranking": "Scopus, Scimago: Q2, SJR 2023: 0.74, IF: 3.7",
+            "citation_count": 12,
+            "volume_issue_pages": "20. 100456",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của quần thể nấm rễ nội cộng sinh lên sự sinh trưởng và phát triển của cây lúa trong điều kiện nhà lưới",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn, ISSN: 2815-6153",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(414): 54-60",
+            "published_date": "2021"
+        },
+        {
+            "title": "Sử dụng vi khuẩn quang dưỡng không lưu huỳnh màu tía có khả năng cung cấp exopolymeric để cải thiện sinh trưởng và năng suất lúa trong điều kiện đất mặn Thạnh Phú-Bến Tre",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học đất, ISSN: 2525-2216",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(64): 22-28",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của bổ sung nấm Trichoderma spp. phân hủy cellulose, đối kháng nấm Fusarium spp. đến sinh trưởng và năng suất quýt đường trồng trên đất phèn tại xã Long Trị, thị xã long Mỹ, tỉnh Hậu Giang",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn, ISSN: 2815-6153",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(18): 48-57",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của biochar và kỹ thuật quản lý nước lên một số đặc tính hóa học và sinh học đất cuối vụ lúa tại quận Bình Thủy- thành phố Cần Thơ",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(57): 67-78",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của biochar và phân hữu cơ kết hợp với phân hóa học lên một số đặc tính sinh học, hóa học đất trong mô hình chuyên lúa vụ đông xuân tại huyện Trần Đề, Sóc Trăng",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(57): 191-199",
+            "published_date": "2021"
+        },
+        {
+            "title": "Phân lập và tuyển chọn vi khuẩn có khả năng phân hủy protein và cellulose từ các nguồn rác thải hữu cơ được thu tại thành phố Cần Thơ",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(57): 34-41",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đánh giá hiệu quả xử lý rác thải hữu cơ của vi khuẩn tồn trữ trong các chất mang",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ, ISSN: 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(57):42-50",
+            "published_date": "2021"
+        },
+        {
+            "title": "Khảo sát hiệu quả phòng trừ bệnh đôm văn trên cây lúa của quần thể nấm rễ nội cộng sinh - thí nghiệm nhà lưới",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội Thảo bệnh cây toàn quôc, ISBN: 978-604-60-3373-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "362-372",
+            "published_date": "2021"
+        },
+        {
+            "title": "Khảo sát một số đặc tính hóa học và sinh học trong quá trình ủ phân hữu cơ từ phụ phế phẩm rơm chất nấm",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị công nghệ sinh học toàn quốc tại Trường Đại học Tây Nguyên, tháng 1/2022, ISBN: 978-604-357-052-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "755-761",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ảnh hưởng của quần thể nấm rễ nội cộng sinh (arbuscular mycorrhizal fungi) và loại phân bón lên sự sinh trưởng và năng suất của hành lá (Allium fistulosum L.) trong điều kiện thí nghiệm nhà lưới",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn, ISSN: 2815-6153",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(442): 41-49",
+            "published_date": "2022"
+        },
+        {
+            "title": "Hoạt tính kháng nấm của tinh dầu vỏ cam và vỏ bưởi lên nấm Botryosphaeria dothidea gây bệnh thối trái xoài",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Nấm học toàn quốc lần thứ IV, ISBN: 978-604-357-081-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "35-46",
+            "published_date": "2022"
+        },
+        {
+            "title": "Khảo sát ảnh hưởng của cơ chất gỗ cao su đến sản lượng và chất lượng nấm linh chi (Ganoderma lucidum)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Nấm học toàn quốc lần thứ IV, ISBN: 978-604-357-081-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "91-102",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ảnh hưởng của nấm Trichoderma spp. đến sinh trưởng và năng suất khóm trên đất phèn tại thành phố Vị Thanh, tỉnh Hậu Giang",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Nấm học toàn quốc lần thứ IV, ISBN: 978-604-357-081-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "155-166",
+            "published_date": "2022"
+        },
+        {
+            "title": "Enhancement of green soybean growth and yield in alluvial soil by potent N2-fixing rhizospheric bacteria",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Pakistan Journal of Biological Sciences, ISSN: 1028-8880",
+            "journal_ranking": "Scopus, ISI, Scimago: Q3",
+            "citation_count": 1,
+            "volume_issue_pages": "25(6): 549-559",
+            "published_date": "2022"
+        },
+        {
+            "title": "Use of potent acid resistant strains of Rhodopseudomonas spp. in Mn-contaminated acidic paddies to produce safer rice and improve soil fertility",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Soil & Tillage Research, ISSN: 0167-1987",
+            "journal_ranking": "Scopus, ISI, Scimago: Q1, SJR 2023: 1.73, IF: 6.5",
+            "citation_count": 5,
+            "volume_issue_pages": "(221): 105393",
+            "published_date": "2022"
+        },
+        {
+            "title": "Improvement of green soybean growth and yield in alluvial soil by endophytic nitrogen-fixing bacteria",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Plant Sciences, ISSN: 1682-3974",
+            "journal_ranking": "Scopus, ISI, Scimago: Q4, SJR 2023:0.2, IF (2023): 1.4",
+            "citation_count": 0,
+            "volume_issue_pages": "21 (2); 272-282",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effects of nitrogen fertilization and nitrogen fixing endophytic bacteria supplementation on soil fertility, N uptake, growth, and yield of sesame (Sesamum indicum L.) cultivated on alluvial soil in dykes",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied and Environmental Soil Science, ISSN: 1687-7667",
+            "journal_ranking": "Scopus, ISI, Scimago: Q2, SJR 2023: 0.47, IF: 2.2",
+            "citation_count": 3,
+            "volume_issue_pages": "(1): p.1972585",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effects of nitrogen fertilizer levels and N2-fixing rhizosphere bacteria supplements, enterobacter asburiae, on soil fertility, N uptake, growth and yield of sesame (Sesamum indicum L.) cultivated on alluvial soil in dyke",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Agricultural Technology, ISSN: 26300192",
+            "journal_ranking": "Scopus, Scimago: Q4, SJR 2023: 0.18, IF: 0.46",
+            "citation_count": 0,
+            "volume_issue_pages": "(18): 1567-1586",
+            "published_date": "2022"
+        },
+        {
+            "title": "Potential of endophytic phosphorus solubilizing bacteria to improve soil fertility, P uptake, and yield of maize (Zea mays L.) cultivated in alluvial soil in dikes in Vietnam",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bulgarian Journal of Agricultural Science, ISSN: 1310-0351",
+            "journal_ranking": "Scopus, Scimago: Q3, SJR 2023: 0.2, IF: 1.2",
+            "citation_count": 0,
+            "volume_issue_pages": "(28): 217-228",
+            "published_date": "2022"
+        },
+        {
+            "title": "Potential of N2-fixing endophytic bacteria isolated from maize roots as biofertiliser to enhance soil fertility, N uptake, and yield of Zea mays L. cultivated in alluvial soil in dykes",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Australian Journal of Crop Science, ISSN: 1835-2707",
+            "journal_ranking": "Scopus, Scimago: Q3, SJR: 0.21, IF (2022): 1.4",
+            "citation_count": 1,
+            "volume_issue_pages": "(16): 461-470",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effects of phosphorus fertilizers and phosphorus solubilizing rhizosphere bacteria on soil fertility, phosphorus uptake, growth, and yield of sesame (Sesamum indicum L.) cultivated on alluvial soil in dike",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Geomicrobiology Journal, ISSN: 0149-0451",
+            "journal_ranking": "Scopus, ISI, Scimago: Q2, SJR 2023: 0.53, IF (2022): 2.3",
+            "citation_count": 1,
+            "volume_issue_pages": "40(6): 527-537",
+            "published_date": "2023"
+        },
+        {
+            "title": "Evaluation of the antagonistic potential of Trichoderma spp. against Fusarium oxysporum F. 28.1 A",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Plant Protection Research, ISSN: 1427-4345",
+            "journal_ranking": "Scopus, ISI, Scimago: Q3, SJR: 0.31, IF (2022): 1.1",
+            "citation_count": 1,
+            "volume_issue_pages": "63(1):13-26",
+            "published_date": "2023"
+        },
+        {
+            "title": "Potential of potent purple nonsulfur bacteria isolated from rice-shrimp systems to ameliorate rice (Oryza sativa L.) growth and yield in saline acid sulfate soil",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Plant Nutrition, ISSN: 0190-4167",
+            "journal_ranking": "Scopus, ISI, Scimago: Q2, SJR 2023: 0.49, IF (2022): 2.1",
+            "citation_count": 2,
+            "volume_issue_pages": "46(3): 473-494",
+            "published_date": "2023"
+        },
+        {
+            "title": "Arbuscular mycorrhizal fungi driven phosphorus nutrients in paddy soil under the greenhouse condition",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Journal of Plant Sciences, ISSN: 1682-3974",
+            "journal_ranking": "Scopus, ISI, Scimago: Q4, SJR 2023: 0.2, IF: 1.4",
+            "citation_count": 0,
+            "volume_issue_pages": "22(2): 414-422",
+            "published_date": "2023"
+        },
+        {
+            "title": "Effect of some soil chemical properties on the occurrence of arbuscular mycorrhizal fungi in soils low pH growing rice plant in the Mekong Delta, Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Agricultural Technology, ISSN: 2630-0192",
+            "journal_ranking": "Scopus, Scimago: Q3, SJR 2023: 0.18, IF(2023): 0.49",
+            "citation_count": 0,
+            "volume_issue_pages": "19(3): 1407-1420",
+            "published_date": "2023"
+        },
+        {
+            "title": "Straw microorganisms with combined cellulolytic and chitinolytic activities drive decomposition of rice straw and antagonism against Rhizoctonia solani causing rice sheath blight",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Agricultural Technology, ISSN: 2630-0192",
+            "journal_ranking": "Scopus, Scimago: Q3, SJR 2023: 0.18, IF: 0.46",
+            "citation_count": 0,
+            "volume_issue_pages": "19(2): 833-848",
+            "published_date": "2023"
+        },
+        {
+            "title": "Khảo sát các yếu tố ảnh hưởng đến quy trình vi nhân giống măng tây (Asparagus officinalis)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ISSN: 1859-3828",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(1): 41-48",
+            "published_date": "2023"
+        },
+        {
+            "title": "Isolation and characterization of novel potassium solubilizing purple nonsulfur bacteria from acidic paddy soils using culture-dependent and culture-independent techniques",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Brazilian Journal of Microbiology, ISSN: 1517-8382",
+            "journal_ranking": "Scopus, ISI, Scimago: Q3, SJR 2023: 0.51, IF (2022): 2.2",
+            "citation_count": 2,
+            "volume_issue_pages": "54(3): 2333-2348",
+            "published_date": "2023"
+        },
+        {
+            "title": "Using Trichoderma asperellum to antagonize Lasiodiplodia theobromae causing stem-end rot disease on pomelo (Citrus maxima)",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Fungi, ISSN: 2309-608X",
+            "journal_ranking": "Scopus, ISI; Scimago: Q1; SJR 2023: 0.93; IF: 5.72",
+            "citation_count": 3,
+            "volume_issue_pages": "9(981): 1-15",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ảnh hưởng của nấm rễ nội cộng sinh và kỹ thuật tưới nước đến năng suất và một số chỉ tiêu hóa học đất trồng lúa trong điều kiện thí nghiệm nhà lưới",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn, ISSN: 2815-6153",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(469): 3-16",
+            "published_date": "2023"
+        },
+        {
+            "title": "Arbuscular mycorrhizal fungi (AMF) product for enhancing plant growth promotion and plant protection in Piper longum L., Zea mays L. and Coffea arabica L.",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Agricultural Technology, ISSN: 2630-0192",
+            "journal_ranking": "Scopus, Scimago: Q3, SJR 2023: 0.18, IF: 0.46",
+            "citation_count": 0,
+            "volume_issue_pages": "19(4):1591-1604",
+            "published_date": "2023"
+        },
+        {
+            "title": "Effects of biofertilizer supplementation, Rhodopseudomonas spp., on nitrogen and phosphorus uptakes, growth, and yield of sesame (Sesamum indicum L.) on salt-affected soil",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Plant Nutrition, ISSN: 0190-4167",
+            "journal_ranking": "Scopus; ISI; Scimago: Q2, SJR 2023: 0.49, IF (2022): 2.1",
+            "citation_count": 0,
+            "volume_issue_pages": "47(1): 1-17",
+            "published_date": "2024"
+        },
+        {
+            "title": "Methanotrophic inoculation reduces methane emissions from rice cultivation supplied with pig-livestock biogas digestive effluent",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Agronomy, ISSN: 2073-4395",
+            "journal_ranking": "Scopus, ISI, Web of Science, Scimago: Q1, SJR 2023: 0.69, IF (2022): 3.7",
+            "citation_count": 0,
+            "volume_issue_pages": "14(6): 1140",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nitrogen-fixing purple nonsulfur bacteria originating from acid saline soils of a rice-shrimp farm",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Indonesian Journal of Agricultural Research, ISSN: 1411982X, 23548509",
+            "journal_ranking": "ISI; Scimago: Q4, SJR 2023: 0.18, IF: 0.1",
+            "citation_count": 0,
+            "volume_issue_pages": "7(1): 14-28",
+            "published_date": "2024"
+        },
+        {
+            "title": "Effects of P-solubilizing bacteria Cereibacter sphaeroides ST16 and ST26 on soil fertility, P uptake, and rice yield grown on salt-affected soils under greenhouse conditions",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Crop Science and Biotechnology, ISSN: 2005-8276",
+            "journal_ranking": "ISI, Scimago: Q2, SJR 2023: 0.36, IF: 1.6",
+            "citation_count": 0,
+            "volume_issue_pages": "1-15",
+            "published_date": "2024"
+        },
+        {
+            "title": "Potential of nitrogen-fixing purple non-sulfur bacteria isolated from acid sulfate soil in rice-shrimp systems",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bulgarian Journal of Agricultural Science",
+            "journal_ranking": "WoS, Scopus; Scimago: Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "30(2): 234-246",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Phân lập và tạo sản phẩm sinh học nấm rễ (arbuscular mycorrhiza) giúp cây trồng đối kháng với nấm bệnh và đáp ứng được điều kiện bất lợi của môi trường canh tác",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Đề tài hợp tác địa phương",
+            "period": "24 tháng",
+            "acceptance_date": "23/02/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Phân lập các dòng nấm bản địa có khả năng phân hủy các vật liệu hữu cơ và ức chế nấm bệnh R. solani trong điều kiện invitro",
+            "role": "Principal Investigator",
+            "project_code": "T2016-53",
+            "management_level": "Đề tài cấp trường",
+            "period": "12 tháng",
+            "acceptance_date": "24/10/2017",
+            "rating": "Khá"
+        },
+        {
+            "title": "Khảo sát khả năng hỗ trợ của chế phẩm nấm rễ nội cộng sinh thô lên sự sinh trưởng và phát triển của cây lúa trong điều kiện thí nghiệm nhà lưới",
+            "role": "Principal Investigator",
+            "project_code": "T2020-61",
+            "management_level": "Đề tài cấp trường",
+            "period": "12 tháng",
+            "acceptance_date": "20/07/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ảnh hưởng của nấm rễ nội cộng sinh (Arbuscular mycorrhiza) lên sự sinh trưởng của cây lúa trồng trong chậu ở điều kiện bất lợi về pH và nước tưới",
+            "role": "Principal Investigator",
+            "project_code": "T2022-130",
+            "management_level": "Đề tài cấp trường",
+            "period": "12 tháng",
+            "acceptance_date": "12/08/2023",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Quy trình kỹ thuật đánh giá sự hiện diện của nấm rễ nội cộng sinh (arbuscular mycorrhizal fungi) và phương pháp chủng nấm rễ nội cộng sinh cho lúa",
+            "type": "Guide Book",
+            "publisher": "Đại học Cần Thơ",
+            "publish_year": "2021",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-15",
+            "verification_document_id": "Số 1837/GXN-ĐHCT Ngày 31/05/2024"
+        },
+        {
+            "title": "Thâm canh nông nghiệp và các tác động đến hệ sinh thái",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Nông nghiệp",
+            "publish_year": "2021",
+            "num_authors": 13,
+            "is_editor_in_chief": false,
+            "compiled_pages": "113-135",
+            "verification_document_id": "Số 1838/GXN-ĐHCT Ngày 31/05/2024"
+        },
+        {
+            "title": "Cây bắp: biện pháp canh tác cải thiện năng suất bắp ở Đồng bằng sông Cửu Long",
+            "type": "Monograph",
+            "publisher": "Đại học Cần Thơ",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "78-127; 152-183",
+            "verification_document_id": "Số 1836/GXN-ĐHCT Ngày 31/05/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

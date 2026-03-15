@@ -1,0 +1,687 @@
+{
+    "papers": [
+        {
+            "title": "Nghiên cứu các yếu tố kinh tế và thể chế ảnh hưởng đến hoạt động của hệ thống ngân hàng thương mại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển, ISSN: 1859-0012",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "94",
+            "published_date": "November, 2014"
+        },
+        {
+            "title": "Các nhân tố ảnh hưởng đến hoạt động mua lại doanh nghiệp tại một số nền kinh tế khu vực Châu Á - Thái Bình Dương",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển Kinh tế, ISSN: 1859-1116",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "281, 76-93",
+            "published_date": "March, 2014"
+        },
+        {
+            "title": "Nâng cao hiệu quả đầu tư công tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngân hàng, ISSN: 0866-7462",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "19, 7-14",
+            "published_date": "October, 2013"
+        },
+        {
+            "title": "Hoạt động mua lại doanh nghiệp tại một số nước Đông Nam Á nhìn từ lợi tức cổ phiếu",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài chính, ISSN: 2615-8973",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "581, 58-62",
+            "published_date": "March, 2013"
+        },
+        {
+            "title": "Tác động đầu tư công đến tăng trưởng tại vùng Trung Bộ Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "1(416), 64-69",
+            "published_date": "January, 2013"
+        },
+        {
+            "title": "Kinh nghiệm đầu tư công Hàn Quốc",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Những vấn đề kinh tế & chính trị thế giới, ISSN 0868-2984",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "10(210), 32-41",
+            "published_date": "October, 2013"
+        },
+        {
+            "title": "Domestic and cross-border partial acquisitions: An empirical investigation on target firms in South-East Asian economies",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam's Socio-Economic Development, ISSN: 0868-359X",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "72, 18-31",
+            "published_date": "December, 2012"
+        },
+        {
+            "title": "Đánh giá hiệu quả đầu tư công tại vùng Bắc Trung Bộ",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thị trường Tài chính Tiền Tệ, ISSN: 1859-2805",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "18(363), 37-39",
+            "published_date": "September, 2012"
+        },
+        {
+            "title": "Một số giải pháp nhằm nâng cao hiệu quả đầu tư công tại vùng Bắc Trung Bộ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển, ISSN: 1859-0012",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "183(II), 37-42",
+            "published_date": "September, 2012"
+        },
+        {
+            "title": "Mô hình hóa dao động bằng mô hình GARCH(1,1): Nghiên cứu thực nghiệm trên danh mục chỉ số VN-Index",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngân hàng, ISSN: 0866-7462",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "22, 53-58",
+            "published_date": "November, 2011"
+        },
+        {
+            "title": "Chất lượng dự báo rủi ro thị trường của các mô hình Value-at-Risk. Nghiên cứu thực nghiệm trên danh mục chỉ số VN-Index",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 2,
+            "volume_issue_pages": "6(397), 19-27",
+            "published_date": "June, 2011"
+        },
+        {
+            "title": "Hierarchical complexity and seasoned equity offerings",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Review of Behavioral Finance, ISSN: 1940-5979",
+            "journal_ranking": "WoS/ESCI, Q2, IF: 1.9",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.1108/RBF-03-2024-0058",
+            "published_date": "June, 2024"
+        },
+        {
+            "title": "Do prospector firms pay more dividends in times of high policy uncertainty?",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management, ISSN: 2331-1975",
+            "journal_ranking": "WOS/ESCI, Q2, IF: 3.0",
+            "citation_count": 2,
+            "volume_issue_pages": "11(1) https://doi.org/10.1080/23311975.2024.2332496",
+            "published_date": "March, 2024"
+        },
+        {
+            "title": "Lottery mindsets and the cross sectional returns in the Vietnam stock market",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Global Business & Finance Review, ISSN: 1088-6931",
+            "journal_ranking": "Scopus, Q4, IF: 0.41",
+            "citation_count": 0,
+            "volume_issue_pages": "29 https://doi.org/10.17549/gbfr.2024.29.4.134",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Does managerial tone matter for stock liquidity? Evidence from textual disclosures",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Finance Research Letters, ISSN: 1544-6123",
+            "journal_ranking": "WOS/SSCI, Q1, IF: 5.596",
+            "citation_count": 9,
+            "volume_issue_pages": "48, 102917 https://doi.org/10.1016/j.frl.2022.102917",
+            "published_date": "August, 2022"
+        },
+        {
+            "title": "Does media attention lower debt financing? International evidence",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Emerging Markets Finance and Trade, ISSN: 1558-0938",
+            "journal_ranking": "WOS/SSCI, Q1, IF: 2.315",
+            "citation_count": 1,
+            "volume_issue_pages": "58(5), 1233-1261 https://doi.org/10.1080/1540496X.2020.1861936",
+            "published_date": "March, 2022"
+        },
+        {
+            "title": "Country uncertainty, power distance and payment methods in acquisitions",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Journal of Finance, ISSN: 1466-4364",
+            "journal_ranking": "WOS/SSCI, Q1, IF: 1.845",
+            "citation_count": 8,
+            "volume_issue_pages": "03, 1-31 https://doi.org/10.1080/1351847X.2021.1971731",
+            "published_date": "September, 2021"
+        },
+        {
+            "title": "Institutional ownership and commonality in liquidity",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Research in International Business and Finance, ISSN: 0275-5319",
+            "journal_ranking": "WOS/SSCI, Q1, IF: 4.091",
+            "citation_count": 11,
+            "volume_issue_pages": "57, 101422 https://doi.org/10.1016/j.ribaf.2021.101422",
+            "published_date": "October, 2021"
+        },
+        {
+            "title": "Monetary consequences of fiscal stress in a game theoretic framework",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Central Banking Theory and Practice, ISSN: 1800-9581",
+            "journal_ranking": "WOS/ESCI, Scopus, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "SI, 125-164 https://doi.org/10.2478/jcbtp-2020-0026",
+            "published_date": "July, 2020"
+        },
+        {
+            "title": "Cross-country determinants of ownership choices in cross-border acquisitions: Evidence from emerging markets",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Multinational Financial Management, ISSN: 1042-444X",
+            "journal_ranking": "WOS/SSCI, Q2, IF: 3.945",
+            "citation_count": 27,
+            "volume_issue_pages": "44, 14-35 https://doi.org/10.1016/j.mulfin.2018.01.001",
+            "published_date": "March, 2018"
+        },
+        {
+            "title": "Target CEO age, ownership decisions, and takeover outcomes",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Research in International Business and Finance, ISSN: 0275-5319",
+            "journal_ranking": "WOS/SSCI, Q1, IF: 4.091",
+            "citation_count": 14,
+            "volume_issue_pages": "42(C), 769-783 https://doi.org/10.1016/j.ribaf.2017.07.0",
+            "published_date": "December, 2017"
+        },
+        {
+            "title": "What drives target status decision in emerging markets acquisitions?",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Economics and Development, ISSN: 1859-0020",
+            "journal_ranking": "ACI",
+            "citation_count": 5,
+            "volume_issue_pages": "23, 203-218",
+            "published_date": "June, 2021"
+        },
+        {
+            "title": "Who cares about your green reputation? Evidence from \"Financial watchdogs\"",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology, ISSN: 1859-1531",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "22(5), 122-128",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Nợ công và đầu tư: bằng chứng thực nghiệm tại các nước trên thế giới",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ, ISSN: 1859-1531",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "22(2), 32-36",
+            "published_date": "February, 2024"
+        },
+        {
+            "title": "Quản lý Ngân sách Nhà nước tại Việt Nam: Thực trạng và khuyến nghị",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kinh tế và Dự báo, ISSN: 1859-4972",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "01, 35-38",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Quản trị công ty và giá trị cộng hưởng tạo ra trong các thương vụ sáp nhập và mua bán (M&A) tại Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ, ISSN: 1859-1531",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "21(2), 38-43",
+            "published_date": "February, 2023"
+        },
+        {
+            "title": "Ảnh hưởng của sự phức tạp công ty đến quyết định phát hành cổ phiếu bổ sung",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ, ISSN: 1859-1531",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "20(8), 1-6",
+            "published_date": "August, 2022"
+        },
+        {
+            "title": "Minh bạch thể chế và giá trị thương vụ trong thị trường sáp nhập và mua lại xuyên biên giới",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "12, 71-83",
+            "published_date": "December, 2022"
+        },
+        {
+            "title": "Country-level determinants, takeover locations, and the gains to target firms",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology, ISSN: 1859-1531",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "20(6.1), 69-77",
+            "published_date": "June, 2022"
+        },
+        {
+            "title": "Xu hướng mua lại cùng ngành của các công ty công nghệ cao: Bằng chứng đa quốc gia",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ, ISSN: 1859-1531",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "20(2), 62-66",
+            "published_date": "February, 2022"
+        },
+        {
+            "title": "Tuổi của Giám đốc điều hành và hành vi quản trị lợi nhuận ở Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển, ISSN: 1859-0012",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "7(289), 23-32",
+            "published_date": "July, 2021"
+        },
+        {
+            "title": "FDI và Thất nghiệp - Phân tích thực nghiệm tại các quốc gia đang phát triển",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "3(514), 109-116",
+            "published_date": "March, 2021"
+        },
+        {
+            "title": "Tuổi của Giám đốc điều hành và rủi ro thị trường: Bằng chứng tại Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "9(520), 111-120",
+            "published_date": "September, 2021"
+        },
+        {
+            "title": "The impacts of corporate social responsibility practices on firm financial performance: empirical evidence from Asian oil and gas industry",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology, ISSN: 1859-1531",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "19,12.1,52-56",
+            "published_date": "December, 2021"
+        },
+        {
+            "title": "Tác động của nợ công đến đầu tư của các doanh nghiệp: Bằng chứng thực nghiệm tại một số nước ASEAN",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển, ISSN: 1859-0012",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "293,67-76",
+            "published_date": "November, 2021"
+        },
+        {
+            "title": "Corporate governance and firm performance: An evidence from Vietnamese companies listed on Hanoi stock exchange",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology, ISSN: 1859-1531",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "18, 4.1, 41-46",
+            "published_date": "April, 2020"
+        },
+        {
+            "title": "Giám đốc điều hành và tỷ suất sinh lời của doanh nghiệp: bằng chứng thực nghiệm tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "12(499), 57-63",
+            "published_date": "December, 2019"
+        },
+        {
+            "title": "Quản trị lợi nhuận và quyết định khu vực sáp nhập ở Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển, ISSN: 1859-0012",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "268, 23-32",
+            "published_date": "October, 2019"
+        },
+        {
+            "title": "Môi trường thông tin của công ty và hành vi nâng giá cổ phiếu trong thị trường M&A Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "9(496), 28-39",
+            "published_date": "September, 2019"
+        },
+        {
+            "title": "Nhà đầu tư tổ chức và thanh khoản cổ phiếu",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "2(489), 21-31",
+            "published_date": "February, 2019"
+        },
+        {
+            "title": "Quản trị công ty và chính sách nắm giữ tiền mặt ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "1(488), 69-79",
+            "published_date": "January, 2019"
+        },
+        {
+            "title": "Quản trị công ty và chính sách cổ tức ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển, ISSN: 1859-0012",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "12(258), 12-22",
+            "published_date": "December, 2018"
+        },
+        {
+            "title": "Môi trường thể chế và chiến lược đa dạng hóa trong sáp nhập qua biên giới: Bằng chứng từ 41 thị trường mới nổi",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "9(484), 15-25",
+            "published_date": "September, 2018"
+        },
+        {
+            "title": "Môi trường thể chế quốc gia và lợi tức cổ phiếu trong các thương vụ sáp nhập và mua lại. Nghiên cứu thực nghiệm tại các quốc gia Đông và Đông Nam Á",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển, ISSN: 1859-0012",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "248,52-61",
+            "published_date": "February, 2018"
+        },
+        {
+            "title": "Nhà đầu tư nước ngoài và đồng biến động giá cổ phiếu",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Những vấn đề kinh tế & chính trị thế giới",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "3(251),58-66",
+            "published_date": "March, 2017"
+        },
+        {
+            "title": "Kiểm định tính bền vững của chính sách tài khóa Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "5(468), 20-26",
+            "published_date": "May, 2017"
+        },
+        {
+            "title": "Hiệu quả và mối quan hệ giữa các loại hình đầu tư tại Việt Nam giai đoạn 1990-2015",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "12(475), 19-28",
+            "published_date": "December, 2017"
+        },
+        {
+            "title": "Lượng hóa tác động đầu tư công và đầu tư tư nhân đến tăng trưởng kinh tế tại tỉnh Nam Định",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "10(473), 60-66",
+            "published_date": "October, 2017"
+        },
+        {
+            "title": "Lựa chọn hình thức mua lại trong thị trường M&A ngành ngân hàng Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển, ISSN: 1859-0012",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "235, 22-31",
+            "published_date": "January, 2017"
+        },
+        {
+            "title": "Vai trò của đầu tư, công nghệ đến tăng trưởng kinh tế tại vùng Trung Bộ Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "2(453), 73-77",
+            "published_date": "February, 2016"
+        },
+        {
+            "title": "Năng lực cạnh tranh cấp tỉnh trong sự phát triển kinh tế của vùng Trung bộ Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế & Phát triển, ISSN: 1859-0012",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "228(II), 44-50",
+            "published_date": "June, 2016"
+        },
+        {
+            "title": "Ảnh hưởng của nhà đầu tư nước ngoài đến biến động giá cổ phiếu trên thị trường chứng khoán Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế, ISSN: 0866-7489",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "9(460), 38-43",
+            "published_date": "September, 2016"
+        },
+        {
+            "title": "Kinh nghiệm phát triển và ươm tạo khởi nghiệp tại Anh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Những vấn đề kinh tế & chính trị thế giới, ISSN 0868-2984",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "6(242), 37-47",
+            "published_date": "June, 2016"
+        },
+        {
+            "title": "Tác động của nợ công đến tăng trưởng kinh tế: Nghiên cứu thực nghiệm tại các quốc gia đang phát triển",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo Khoa học Quốc gia (DCFB, 2020), ISBN: 978-604-84-5312-1",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "381-388",
+            "published_date": "July, 2020"
+        },
+        {
+            "title": "Inflation Threshold And Economic Development In Developing Countries",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Econometrics and Statistical Methods - Application in Economics and Finance (ESM-AEM 2019), ISBN: 978-604-80-3675-1",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "11-24",
+            "published_date": "January, 2019"
+        },
+        {
+            "title": "Đo lường và dự báo biến động chứng khoán bằng mô hình ARFIMA: Nghiên cứu thực nghiệm trên danh mục chỉ số VN-INDEX",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học Quốc gia Thống kê và Tin học ứng dụng (tháng 11), ISBN: 978-604-84-1862-5",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "1, 42-51",
+            "published_date": "November, 2016"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Chất lượng dự báo rủi ro thị trường chứng khoán của các mô hình Value-at-Risk. Nghiên cứu thực nghiệm trên chỉ số Vn-Index (ĐT)",
+            "role": "Principal Investigator",
+            "project_code": "T2010-04-36",
+            "management_level": "Cấp Cơ sở",
+            "period": "12 tháng",
+            "acceptance_date": "11/01/2012",
+            "rating": "Khá"
+        },
+        {
+            "title": "Ảnh hưởng của rủi ro chính sách và sự phức tạp trong cấu trúc công ty đến quyết định phát hành cổ phiếu bổ sung và kết quả xếp hạng tín nhiệm:",
+            "role": "Principal Investigator",
+            "project_code": "B2021-DN04-02",
+            "management_level": "Cấp ĐH Đà Nẵng",
+            "period": "24 tháng",
+            "acceptance_date": "07/03/2024",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Ảnh hưởng của quản trị công ty đến các quyết định tài chính của các công ty niêm yết trên thị trường chứng khoán Việt Nam (ĐT)",
+            "role": "Principal Investigator",
+            "project_code": "B2018-DN04-07",
+            "management_level": "Cấp ĐH Đà Nẵng",
+            "period": "24 tháng",
+            "acceptance_date": "03/02/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Ảnh hưởng của rủi ro chính sách đối với thanh khoản cổ phiếu và quyết định thâu tóm công ty trong thị trường mua bán & sáp nhập ở Việt Nam (ĐT)",
+            "role": "Assistant",
+            "project_code": "B2020-DNA-11",
+            "management_level": "cấp Bộ",
+            "period": "24 tháng",
+            "acceptance_date": "16/02/2023",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu tác động của hệ thống tài chính đến hoạt động đầu tư của doanh nghiệp Việt Nam giai đoạn 2000-2015 (ĐT)",
+            "role": "Assistant",
+            "project_code": "B2016-DNA-16-TT",
+            "management_level": "Cấp Bộ",
+            "period": "24 tháng",
+            "acceptance_date": "15/01/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Ảnh hưởng của môi trường thông tin và cơ chế quản trị bên ngoài đến các quyết định tài chính và thâu tóm công ty (ĐT)",
+            "role": "Key Member",
+            "project_code": "502.02-2018.10",
+            "management_level": "đề tài NAFOSTED",
+            "period": "24 tháng",
+            "acceptance_date": "31/05/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Kiểm định tính bền vững của chính sách tài khóa Việt Nam (ĐT)",
+            "role": "Assistant",
+            "project_code": "T2017-04-15",
+            "management_level": "cấp Cơ sở",
+            "period": "12 tháng",
+            "acceptance_date": "11/12/2017",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Đầu tư công nhằm góp phần phát triển bền vững vùng Trung Bộ",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Khoa học xã hội",
+            "publish_year": "2015",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Cả sách",
+            "verification_document_id": "Giấy xác nhận sử dụng sách của Trường ĐH Kinh tế, ĐH Đà Nẵng ngày 22 tháng 6 năm 2020"
+        },
+        {
+            "title": "Vietnam and the Global Economy: Recent Developments in Vietnamese Business and Finance (Vol 1)",
+            "type": "Reference Book",
+            "publisher": "World Scientific Publishing",
+            "publish_year": "2021",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chapter 1: Test of the Strategic Market-Entry Hypothesis: Evidence from Corporate Governance in Vietnam (p. 3 to p. 26)",
+            "verification_document_id": "*Chương sách (Book Chapter) thuộc Nhà xuất bản quốc tế có uy tín, ISBN: 978-981-122-714-1"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Tham gia hội đồng xây dựng Chương trình đào tạo trình độ đại học ngành Tài chính – Ngân hàng",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 421/QĐ-ĐHKT ngày 16 tháng 04 năm 2015",
+            "certifying_authority": "Trường ĐH Kinh tế - ĐHĐN",
+            "implementation_document_id": "Chương trình đào tạo trình độ đại học ngành Tài chính – Ngân hàng",
+            "notes": "N/A"
+        },
+        {
+            "title": "Tham gia hội đồng tự đánh giá Chương trình đào tạo trình độ đại học chuyên ngành Ngân hàng theo tiêu chuẩn đánh giá chất lượng AUN-QA",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số 562/QĐ-ĐHKT ngày 10 tháng 04 năm 2020",
+            "certifying_authority": "AUN-QA, Trường ĐH Kinh tế - ĐHĐN",
+            "implementation_document_id": "Chương trình đào tạo trình độ đại học chuyên ngành Ngân hàng",
+            "notes": "N/A"
+        },
+        {
+            "title": "Tham gia Tổ rà soát, cập nhật chương trình đào tạo trình độ đại học ngành Tài chính - Ngân hàng",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 267/QĐ-ĐHKT ngày 03 tháng 02 năm 2021",
+            "certifying_authority": "Trường ĐH Kinh tế - ĐHĐN",
+            "implementation_document_id": "Chương trình đào tạo trình độ đại học ngành Tài chính - Ngân hàng",
+            "notes": "N/A"
+        },
+        {
+            "title": "Tham gia Tổ xây dựng, cập nhật chương trình đào tạo trình độ thạc sĩ ngành Tài chính - Ngân hàng",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 761/QĐ-ĐHKT ngày 17 tháng 05 năm 2021",
+            "certifying_authority": "Trường ĐH Kinh tế - ĐHĐN",
+            "implementation_document_id": "Chương trình đào tạo trình độ thạc sĩ ngành Tài chính - Ngân hàng",
+            "notes": "N/A"
+        }
+    ]
+}

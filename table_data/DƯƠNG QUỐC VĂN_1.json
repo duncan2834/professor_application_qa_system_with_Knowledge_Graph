@@ -1,0 +1,619 @@
+{
+    "papers": [
+        {
+            "title": "A visible light activity of TiO2 based photocatalysts",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science of HNUE",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "56, 1, 11-20",
+            "published_date": "11/2011"
+        },
+        {
+            "title": "Investigation of anatase TiO2 properties using generalized Gradient Approximation",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy & Application VII, ISSN 1859-4271",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "VII 247-252",
+            "published_date": "11/2012"
+        },
+        {
+            "title": "An improvement of photocatalyst of TiO2:V4+ nanoparticles",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy & Application VII, ISSN 1859-4271",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "VII 378-384",
+            "published_date": "11/2012"
+        },
+        {
+            "title": "The solvent influent of the properties of TiO2:V4+ nanoparticles prepared by hydrothermal method",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advanced Materials Research",
+            "journal_ranking": "x - ISI IF: Q4",
+            "citation_count": 15,
+            "volume_issue_pages": "548 105-109",
+            "published_date": "07/2012"
+        },
+        {
+            "title": "The visible light activity of the TiO2 and TiO2:V4+ photocatalyst",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nanomaterials and Nanotechnology",
+            "journal_ranking": "x - ISI IF: Q3",
+            "citation_count": 51,
+            "volume_issue_pages": "2 1-8",
+            "published_date": "01/2012"
+        },
+        {
+            "title": "Band Alignment Parameters of Al2O3/InSb Metal-Oxide-Semiconductor Structure and Their Modification with Oxide Deposition Temperatures",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Physics Express",
+            "journal_ranking": "x - ISI IF: 2.567, Q1",
+            "citation_count": 25,
+            "volume_issue_pages": "6, 6, 1-3",
+            "published_date": "05/2013"
+        },
+        {
+            "title": "Demonstrating 1nm-oxide-equivalent-thickness HfO2/InSb structure with unpinning Fermi level and low gate leakage current density",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Physics Letters",
+            "journal_ranking": "x - ISI IF: 3.515, Q1",
+            "citation_count": 15,
+            "volume_issue_pages": "103, 142903, 1-3",
+            "published_date": "09/2013"
+        },
+        {
+            "title": "Electronic structure of N-doped TiO2 layers",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu SPMS 2013",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "152-156",
+            "published_date": "11/2014"
+        },
+        {
+            "title": "A study on carbon nanotube titanium dioxide hybrids: experiment and calculation",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology",
+            "journal_ranking": "x - ESCI IF: Q2",
+            "citation_count": 27,
+            "volume_issue_pages": "5, 4, 045018",
+            "published_date": "11/2014"
+        },
+        {
+            "title": "An influence of the preparation conditions on the structure and optical properties of the TiO2 and TiO2:N thin films",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "52, 3B, 174-182",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "A DFT study on structural and electronic properties of N-doped anatase TiO2 layers",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science of HNUE",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "59, 7, 150-156",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Remarkably enhanced photocatalytic activity by sulfur-doped titanium dioxide in nanohybrids with carbon nanotubes",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Physics and Chemistry of Solids",
+            "journal_ranking": "x - ISI IF: 2,059; Q2",
+            "citation_count": 15,
+            "volume_issue_pages": "99 119-123",
+            "published_date": "06/2016"
+        },
+        {
+            "title": "Enhanced photocatalytic efficiency of TiO2 with doped Ni-immobilized on silica gel",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science of HNUE",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "61, 7, 151-156",
+            "published_date": "09/2016"
+        },
+        {
+            "title": "A DFT study on N-doped TiO2 anatase",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science of HNUE",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "61, 7, 157-164",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "V-doped TiO2: calculation and experiment",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science of HNUE",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "62, 8, 127-134",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "A TDDFT study on TiO2 clusters",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "HNUE Journal of Science",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "63, 11, 52-58",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "A TDDFT study on TiO2/Graphene hybrids",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "HNUE Journal of Science",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "63, 11, 77-81",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "First-principles investigation of structural and electronic properties of pure bismuth tungstate",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "HNUE Journal of Science",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "63, 11, 71-76",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Density Functional theory calculations for formation energies and structural characteristics of La or Gd doped Bi2WO6 systems",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "HNUE Journal of Science",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "64, 6, 102-107",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Structural, optical and photocatalytic activities of Mn-doped ZnO nanoparticles",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu SPMS 2019",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "222-225",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Investigation of origin optical properties of TiO2/graphene hybrids",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Letters",
+            "journal_ranking": "x - ISI IF: 3,574; Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "276, 128402, 5 pages",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Ab initio calculation of the structural and electronic properties of AgAu alloys",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "ACS Omega",
+            "journal_ranking": "x - ISI IF: 3,7; Q1",
+            "citation_count": 28,
+            "volume_issue_pages": "5 31391-31397",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Một số tính chất của nano ZnO pha tạp Mn và ứng dụng trong quang xúc tác xanh methylen",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy & Application",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XI 465-470",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Synthesization of ZnO/Fe3O4 nanocomposite and some properties and application in photocatalyst",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy & Application",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XI 503-507",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Tổng hợp và nghiên cứu hoạt tính quang xúc tác của ZnO pha tạp Mn",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu SPMS 2021",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "327-331",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Magnetic Ni-doped TiO2 photocatalysts for disinfection of Escherichia coli bacteria",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "x - ISI IF: 4,111; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "50, 4, 1942-1948",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Tunable optical properties of Bi1/2Na1/2TiO3 via Sm1/2Na1/2TiO3 solid solution system",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vacuum",
+            "journal_ranking": "x - ISI IF: 4,111; Q2",
+            "citation_count": 10,
+            "volume_issue_pages": "191, 130381, 4 pages",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Optical properties of a new (1-x)Bi1/2Na1/2TiO3 + xPr1/2Na1/2TiO3 solid solution system",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Letters",
+            "journal_ranking": "x - ISI IF: 3,574; Q2",
+            "citation_count": 9,
+            "volume_issue_pages": "302, 130381, 4 pages",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Fabrication and optical properties of rare-earth-Sm-doped lead-free ferroelectric Bi0.5Na0.5TiO3 materials",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị AMAS 2021, LNME",
+            "journal_ranking": "x - Scopus IF: Q4",
+            "citation_count": 3,
+            "volume_issue_pages": "592-598",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "Structural, magnetic, and optical properties of complex lead-free ferroelectric 0.97Bi0.5Na0.5TiO3 + 0.03AMnO3 (A = Mg, Sr, Ca, Ba) Materials",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị AMAS 2021, LNME",
+            "journal_ranking": "x - Scopus IF: Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "599-603",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "Optical and Magnetic Properties of Lead-Free Ferroelectric (Bi0.5Na0.5)0.97A0.03Ti0.97Fe0.03O3 (A = Mg, Sr, Ca, Ba) Materials",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị AMAS 2021, LNME",
+            "journal_ranking": "x - Scopus IF: Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "604-609",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "Magnetic and optical properties of transition metal (Cr, Mn, Fe, Co and Ni) doped lead-free ferroelectric Bi0.5Na0.5TiO3 materials",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị AMAS 2021, LNME",
+            "journal_ranking": "x - Scopus IF: Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "610-614",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "Structural, optical and magnetic properties of a new complex (1-x)Bi1/2Na1/2TiO3 + xMgNiO3-8 solid solution system",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Physics A",
+            "journal_ranking": "x - ISI IF: 2,584; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "128 129",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Magnetic properties of new (1-x)Bi1/2Na1/2TiO3 + xBaNiO3-8 solid solution materials",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Physics A",
+            "journal_ranking": "x - ISI IF: 2,584; Q2",
+            "citation_count": 14,
+            "volume_issue_pages": "128, 168",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Optical properties of a new binary lead-free ferroelectric semiconductor Bi1/2Na1/2TiO3 - Nd1/2Na1/2TiO3 solid solution system",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Physics A",
+            "journal_ranking": "x - ISI IF: 2,584; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "128, 798",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Electronic structure of polymorphisms phases of lead-free ferroelectric Bi0.5Na0.5TiO3 materials",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hong Duc University",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "E7, 12, 31-38",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Magnetic properties of a (1-x)Bi0.5Na0.5TiO3 + xCaNiO3-8 solid solution system prepared by sol-gel technique",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "x - ISI IF: 2,047; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "51 1905-1921",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Synthesis and characterization of (1-x)Bi0.5Na0.5TiO3 + xSrNiO3-8 solid solution system",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "x - ISI IF: 2,047; Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "51 2716-2731",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Effect of Ni doping and silica gel bead support on characteristics of TiO2 catalyst",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "x - ISI IF: 2,047; Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "51 6204-6212",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Fabrication and optical properties of (1-x)Bi1/2Na1/2TiO3 + xHo1/2Na1/2TiO3 solid solution materials",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical Materials",
+            "journal_ranking": "x - ISI IF: 3,754; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "132, 112750, 8 pages",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Design and optical properties of Bi1/2Na1/2TiO3 + Eu1/2Na1/2TiO3 solid solution system",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical Materials",
+            "journal_ranking": "x - ISI IF: 3,574; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "134, 113083, 9 pages",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Fabrication and optical properties of (1-x)Bi1/2Na1/2TiO3 + xEr1/2Na1/2TiO3 solid solution system",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "x - ISI IF: 2,047; Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "52 1564-1574",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Surface ferromagnetism of complex defects lead-free ferroelectric Bi0.5Na0.5TiO3 materials",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Surface and Interface Analysis",
+            "journal_ranking": "x - ISI IF: 1,607; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "55, 4, 243-255",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Study on the nanocomposites of polyaniline and Zn doped Fe3O4 using for arsenic absorption in water",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Science: Nanoscience and Nanotechnology",
+            "journal_ranking": "x - ESCI IF: 2,1; Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "15, 3, 8 pages",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "Surface ferromagnetism of lead-free ferroelectric bismuth sodium titanate materials",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communication in Physics",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34, 1, 83-97",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Hydrogen defects on the surface of lead-free ferroelectric Na0.5Bi0.5TiO3 materials",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Dalat University Journal of Science",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14, 3S, 30-50",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "Theoretical studies on the magnetic, electrical, and optical properties of lead-free ferroelectric Ba(Zr0.2Ti0.2)O3 materials with manganese doping",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Dalat University Journal of Science",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14, 3S, 95-112",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "Investigation of structural and electronic properties of ZnO using first principle calculations",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "HPU2 Journal of Sciences: Natural Science and Technology",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "3, 1, 78-87",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "An ab initio calculation on the structural, electronic and magnetic properties of Ni-doped Bi0.5Na0.5TiO3",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "HPU2 Journal of Sciences: Natural Science and Technology",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3, 3",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Optical, magnetic, and electrical properties of new binary CoTiO3-modified Ba(Zr0.2Ti0.8)O3 system as solid solution",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "x - ISI IF: 2,047; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "53 7819-7838",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Comparative electronic structure, magnetic and optical properties of cubic perovskite BaXO3 (X = Ti, Sn) with self-defects: A first-principles calculation",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materials Today Communications",
+            "journal_ranking": "x - ISI IF: 3,7; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "40, 109686, 14 pages",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "First-principles calculation of self-defects on the structural, electronic and optical properties of BaXO3 (X = Ti, Zr and Hf) perovskite oxide materials",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materials Today Communications",
+            "journal_ranking": "x - ISI IF: 3,7; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "41, 110641, 16 pages",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Structural, electronic and optical properties of complex lead-free ferroelectric Ba0.7Ca0.3TiO3 materials: A DFT study",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "MRS Communication",
+            "journal_ranking": "x - ISI IF:",
+            "citation_count": 1,
+            "volume_issue_pages": "14 667-675",
+            "published_date": "07/2024"
+        },
+        {
+            "title": "Optical, magnetic and electrical properties of new binary MnTiO3-modified Ba(Zr,Ti)O3 materials as solid solution",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Physica B: Condensed Matter",
+            "journal_ranking": "x - ISI IF: 2,8; Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "694, 416444, 13 pages",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Role of substitution Zr-site on the electronic structure and magnetic properties of BaTiO3 materials: A first principle calculation",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Computational and Theoretical Chemistry",
+            "journal_ranking": "x - ISI IF: 3,0; Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "1243, 114989, 11 pages",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Magnetic properties of new binary compounds lead-free ferroelectric (1-x) Ba(Zr0·2Ti0.8)O3+xFeTiO3 as solid solution",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Solid State Chemistry",
+            "journal_ranking": "x - ISI IF: 3,2; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "350, 125495, 11 pages",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Effect of doped H, Br, Cu, Kr, Ge, As and Fe on structural features and bandgap of poly C13H8OS-X: a DFT calculation",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Designed Monomers and Polymers",
+            "journal_ranking": "x - ISI IF: 3,718; Q2",
+            "citation_count": 9,
+            "volume_issue_pages": "24, 1, 53-62",
+            "published_date": "02/2021"
+        },
+        {
+            "title": "First-Principles Calculations of Crystallographic and Electronic Structural Properties of Au-Cu Alloys",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Composites Science",
+            "journal_ranking": "x - ESCI IF: 3,486; Q2",
+            "citation_count": 12,
+            "volume_issue_pages": "6, 383, 11 pages",
+            "published_date": "12/2022"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu vật liệu nano TiO2 bằng phương pháp bán thực nghiệm",
+            "role": "Principal Investigator",
+            "project_code": "SPHN-12-115",
+            "management_level": "cấp Cơ sở",
+            "period": "1/1/2012 đến 31/12/2013",
+            "acceptance_date": "25/12/2013",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu chế tạo vật liệu tổ hợp TiO2 và nano carbon nhằm nâng cao tính quang xúc tác trong vùng khả kiến",
+            "role": "Principal Investigator",
+            "project_code": "SPHN-16-12",
+            "management_level": "cấp Cơ sở",
+            "period": "01/01/2016 đến 30/06/2017",
+            "acceptance_date": "06/06/2022",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Thực hành Cơ sở Vật lý - Tập một",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Sư phạm (Hà Nội)",
+            "publish_year": "2021",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 8-33",
+            "verification_document_id": "427/GXN-ĐHSPHN"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

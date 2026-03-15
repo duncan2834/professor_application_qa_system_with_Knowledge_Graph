@@ -1,0 +1,660 @@
+{
+    "papers": [
+        {
+            "title": "Thị trường trái phiếu chính phủ ở Việt Nam sau 5 năm chính thức triển khai thực hiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Tài chính Kế toán / 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "(139)2015, tr. 14-18",
+            "published_date": "02, 2015"
+        },
+        {
+            "title": "Phân tích tác động của chính sách thuế đối với hoạt động đầu tư và kinh doanh chứng khoán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính / 2615-8973",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ 2, 11/2017, tr. 15-18",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Hoàn thiện chính sách thuế đối với TTCK Việt Nam Tạp chí Tài chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính / 2615-8973",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ 1, 12/2017, tr. 60-63",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Nâng cao Năng lực thu hút và quản lý vốn đầu tư gián tiếp nước ngoài ở Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính / 2615-8973",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4, tr. 47-58",
+            "published_date": "08, 2018"
+        },
+        {
+            "title": "The securites market restructuring in Vietnam and the development of the system of investors",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research /1859-4093 & 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 02 (4), Tr 70-75",
+            "published_date": "2018"
+        },
+        {
+            "title": "Kinh nghiệm quốc tế phát triển quỹ đầu tư xanh;",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Đặc san phát triển kinh tế. Xã hội -ISBN 2615-9449",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8 tháng 10 năm 2020 trang 39",
+            "published_date": "2020"
+        },
+        {
+            "title": "Các nhân tố ảnh hưởng đến công tác quản lý thuế trong hoạt động đầu tư, kinh doanh chứng khoán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo” cơ chế, chính sách. Bảo hiểm, chứng khoán thực trạng và kiến nghị, Kỷ yếu HTKH Khoa Ngân hàng Bảo hiểm & Viện nghiên cứu Tài chính,",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 28 trang 180",
+            "published_date": "tháng 9 năm 2017"
+        },
+        {
+            "title": "Chính sách tiền tệ và hoạt động cung cấp dịch vụ của công ty chứng khoán Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu HTKH “hiệu quả của chính sách tiền tệ Việt Nam nhìn từ góc độ các doanh nghiệp” Học viện tài chính và Viện hàn lâm KHXH Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 24 trang 151-159",
+            "published_date": "tháng 12/2015"
+        },
+        {
+            "title": "Unleashing the Role of Green Finance, Clean Energy, and Environmental Responsibility in Emission Reduction",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Assessment Policy and Management 1464-3332; 1757-5605 https://doi.org/10.1142/51464333222500338",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 24, No. 3 (September 2022)",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "The Relationship Between Capital Structure and Performance of Securities Brokerage Firms – a Case Study in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Professional Business Review ISBN:2525-3654 https://doi.org/10.26668/businessreview/2023.v8i1.1208",
+            "journal_ranking": "ISI (SSCI, IF: 5,596); Scopus (Q4, IF: 8,81)",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol. 8 No. 5 (2023)",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Financial Strategies for Rural Development: Lessons from Japan and South Korea for Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Economic Letters (ABDC) Financial Strategies for Rural Development: Lessons from Japan and South Korea for Vietnam | European Economic Letters (EEL) (eelet.org.uk) https://doi.org/10.52783/eel.v13i4.700",
+            "journal_ranking": "(ABDC)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13 No. 4 (2023)",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "The relationship between risk and profitability of securities companies",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Data and Metadata 2953-4917 https://doi.org/10.56294/dm2024.360",
+            "journal_ranking": "Scopus (Q3, IF: 8,81)",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol. 3 (360)",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Impact of financial capability on the sustainable growth of securities companies: A case study",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Risk Governance and Control: Financial Markets & Institutions 2077-429X; 2077-4303 https://doi.org/10.22495/rgcv14i1p4",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 14, Issue 1, (53-62)",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Enhancing operational efficiency in Vietnamese securities companies: Lessons from global practices and strategic recommendations",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Advanced and Applied Sciences 2313-626X; 2313-3724",
+            "journal_ranking": "Scopus Q4/ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11, No. 1, pp. 40-45",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Choosing a securities brokerage on the stock market: the risk governance perspective",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Salud, Ciencia y Tecnología - Serie de Conferencias https://doi.org/10.56294/sctconf2024.115",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 3, No. 1175",
+            "published_date": "2024"
+        },
+        {
+            "title": "Human Resource Management Factors in Financial Analysis of Securities Companies",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Economics and Financial Issues https://doi.org/10.32479/ijefi.16348",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 4, No. 4, pp. 154-162",
+            "published_date": "2024"
+        },
+        {
+            "title": "The relationship between satisfaction, engagement, and organizational performance in securities companies",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Virtus Interpress https://doi.org/10.22495/cgobrv8i2p3",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 8, No. 2, pp. 28-38",
+            "published_date": "2024"
+        },
+        {
+            "title": "Advantages of capital Scale of listed enterprises in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Remittances Review ISSN: 2059-6588 (Print) | ISSN 2059-6596 (Online) https://doi.org/10.47059/rr.v8i4.44",
+            "journal_ranking": "BBQT",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 8, No. 4, pp. 643-651",
+            "published_date": "2023"
+        },
+        {
+            "title": "The Impact of Corporate Culture on Employee Satisfaction in Vietnamese Securities Companies",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "ECONOMICS - Innovative and Economics Research Journal 2303-5005; 2303-5013 https://doi.org/10.2478/eoik-2025-0022",
+            "journal_ranking": "ISI (SSCI, IF: 5,596); Scopus (Q1, IF: 8,81)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13, No. 1, pp. 387-404",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Role of universities in start up and innovation",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research / 1859-4093 & 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2, No. 6, 2019",
+            "published_date": "6, 2019"
+        },
+        {
+            "title": "Assessment of Hanoi City's Economic Growth during the Covid-19 Pandemic Period",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research / 1859-4093 & 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 5 (18)2022, tr. 32-39",
+            "published_date": "05, 2022"
+        },
+        {
+            "title": "Kinh nghiệm về hoạt động giám sát của ủy ban chứng khoán Nhà nước đối với sở giao dịch chứng khoán và bài học cho Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Tài chính Kế toán / 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1 (224)2023, tr. 30-35",
+            "published_date": "01, 2023"
+        },
+        {
+            "title": "Upgrading Vietnamese stock market using MSCI criteria",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research / 1859-4093 & 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1 (20)2023, tr. 17-23",
+            "published_date": "01, 2023"
+        },
+        {
+            "title": "Research on the factors affecting foreign direct investment attaction",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research / 1859-4093 & 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2 (21)2023, tr. 55-60",
+            "published_date": "02, 2023"
+        },
+        {
+            "title": "Nghiên cứu Lý thuyết tài chính hành vi đối với nhà đầu tư cá nhân trên Thị trường chứng khoán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Tài chính Kế toán / 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3 (236)2023, tr. 20-24",
+            "published_date": "03, 2023"
+        },
+        {
+            "title": "Theoretical exploration of the impact mechanisms of selected macroeconomic factors on the corporate bond market",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research / 1859-4093 & 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4 (24)2023, tr. 79-88",
+            "published_date": "05, 2023"
+        },
+        {
+            "title": "Research the role of business credit rating organizations globally and in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research / 1859-4093 & 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1 (26)2024, tr. 26-30",
+            "published_date": "01, 2024"
+        },
+        {
+            "title": "Nghiên cứu nhằm phát triển thị trường vốn xanh tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kế toán & Kiểm toán/ 1859-1914",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11/2021, Số 218, tr. 38-43",
+            "published_date": "11, 2021"
+        },
+        {
+            "title": "Nghiên cứu mối lien hệ ESG với sự phát triển của thị trường tài chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kế toán & Kiểm toán/ 1859-1914",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12/2022, Số 231, tr. 30-35",
+            "published_date": "12, 2022"
+        },
+        {
+            "title": "Nghiên cứu hiệu ứng momentum trên thị trường chứng khoán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kế toán & Kiểm toán/ 1859-1914",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2/2023, Số 232-233, tr. 44-50",
+            "published_date": "1-2, 2023"
+        },
+        {
+            "title": "Ảnh hưởng của công bố thông tin trách nhiệm xã hội (CSR) lên lợi nhuận kỳ vọng của một số công ty niêm yết trên sở giao dịch chứng khoán TP. Hồ Chí Minh",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kế toán & Kiểm toán/ 1859-1914",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "09/2024, Số 252, tr. 125-132",
+            "published_date": "09, 2024"
+        },
+        {
+            "title": "Lộ trình nâng hạng thị trường chứng khoán: Kinh nghiệm quốc tế và chiến lược cho Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính / 2615-8973",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ 7, Số 2(829), 2024, tr. 22-25",
+            "published_date": "7/2024"
+        },
+        {
+            "title": "Blockchain với thị trường tài chính tại Việt Nam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kế toán & Kiểm toán/ 1859-1914",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12/2024, Số 252, tr. 79-88",
+            "published_date": "12, 2024"
+        },
+        {
+            "title": "Human Resource Risk Management in Printing Enterprises",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International conference sedbm - 4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 452-465",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Derivatives market development model towards sustainable development",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings the fifth international conference on sustainable economic development and business management in the context of globalisation (sedbm-5)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 711-720",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "The role of fund management company in the sustainable development of the stock market",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 4th international conference on finance and accounting for the promotion of sustainable development in private sector (fasps-4)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 199-209",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Theoretical study on the development of credit rating market for corporations",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the sixth international conference on sustainable economic development and business management in the context of globalisation (sedbm6)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 86 trang 867-878",
+            "published_date": "8/2023"
+        },
+        {
+            "title": "Impact of sustainable bond issuance in latin american and caribbean countries: lessons for vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the fifth international conference on finance and accounting for the promotion of sustainable development in the private sector (fasps5)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 45 Trang 507-520",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Application of ppf and dea in financial analysis: factors influencing the efficiency of analysis in commercial banks",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the fifth international conference on finance and accounting for the promotion of sustainable development in the private sector (fasps5)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 90 Trang 957-966",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "The Influence of Free Cash Flow (FCF) on the Performance of Securities Companies in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 4th International Conference on Research in Management and Technovation (ICRMAT 2023) https://doi.org/10.1007/978-981-99-8472-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, pp. 315-322",
+            "published_date": "2024"
+        },
+        {
+            "title": "Analysis of Factors Affecting the Capital Structure of Industrial Enterprises Listed on Vietnam Stock Market",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 4th International Conference on Research in Management and Technovation (ICRMAT 2023) https://doi.org/10.1007/978-981-99-8472-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, pp. 429-438",
+            "published_date": "2024"
+        },
+        {
+            "title": "Developing Vietnam's carbon market for sustainable growth: Insights from China's experience",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "FASPS6- (Finance and Accounting for the Promotion of Sustainable Development in the Private Sector, lần thứ 6)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 115, Tr 1321-1333",
+            "published_date": "2024"
+        },
+        {
+            "title": "Factors affecting customer satisfaction with the quality of brokerage services: evidence from Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainable economic development and business management in the context of globalisation (SEDBM7)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 73, tr 803-813",
+            "published_date": "2024"
+        },
+        {
+            "title": "Kinh nghiệm phát triển sở giao dịch hàng hóa trên thế giới và bài học cho Việt Nam,",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học: sức bật của thị trường giao dịch hàng hóa trong bối cảnh Việt Nam hội nhập quốc tế sâu rộng và tác động của covid-19(ISBN: 978-604-79-2653-4) năm 2020",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 7 trang 49-61",
+            "published_date": "2020"
+        },
+        {
+            "title": "Những vấn đề lý luận về hệ thống giao dịch phái sinh hàng hóa",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học: Phát triển hoạt động giao dịch phái sinh hàng hóa – Kinh nghiệm quốc tế và bài học cho Việt Nam ISBN: 978-604-79-2997-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH Tr 60-67",
+            "published_date": "2021"
+        },
+        {
+            "title": "Giải pháp về chính sách thuế thu nhập cá nhân đối với nhà đầu tư trên thị trường chứng khoán",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học Quốc gia 2019: Thúc đẩy phát triển tài chính toàn diện tại Việt Nam: Những vấn đề lý luận, kinh nghiệm nhằm tiếp cận nền tài chính toàn diện; thực tiễn của các nước ISBN: 978-604-343-319-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 3.6 trang 363-370",
+            "published_date": "2019"
+        },
+        {
+            "title": "Xuất khẩu xanh gắn với trách nhiệm xã hội của doanh nghiệp (CSR)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội Thảo khoa học quốc gia: Vai trò của tài chính hỗ trợ doanh nghiệp xuất nhập khẩu trong tình hình mới ISBN: 978-604-79-3869-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 43. Tr 418-428",
+            "published_date": "8/2023"
+        },
+        {
+            "title": "Chuỗi cung ứng xanh trong việc nâng cao năng lực xuất khẩu của các doanh nghiệp Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội Thảo khoa học quốc gia: Vai trò của tài chính hỗ trợ doanh nghiệp xuất nhập khẩu trong tình hình mới ISBN: 978-604-79-3869-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 52 trang 503-514",
+            "published_date": "8/2023"
+        },
+        {
+            "title": "Chặng đường 20 năm xây dựng và phát triển- Chuyên ngành đầu tư tài chính",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội Thảo khoa học quốc gia: Chiến lược phát triển Học viện Tài chính ISBN: 978-604-79-3870-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Bài 53 trang 473-485",
+            "published_date": "11/2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Chương trình nông thôn mới tại vùng bắc trung bộ: Thực trạng và giải pháp tài chính",
+            "role": "Assistant",
+            "project_code": "2015-21",
+            "management_level": "Cấp Bộ Tài chính",
+            "period": "1/12/2015-12/2016",
+            "acceptance_date": "28/12/2016",
+            "rating": "Giỏi"
+        },
+        {
+            "title": "Giải pháp nâng cao năng lực thu hút và quản lý vốn đầu tư gián tiếp nước ngoài ở Việt Nam",
+            "role": "Assistant",
+            "project_code": "2017-26",
+            "management_level": "Cấp Bộ Tài chính",
+            "period": "7/2017-07/2018",
+            "acceptance_date": "18/06/2018",
+            "rating": "Giỏi"
+        },
+        {
+            "title": "Giải pháp tăng cường hoạt động giám sát của Ủy ban chứng khoán Nhà nước đối với Sở giao dịch chứng khoán ở Việt Nam",
+            "role": "Co-Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở (HVTC)",
+            "period": "01/01/2018-03/01/2019",
+            "acceptance_date": "31/12/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu mô hình phát triển thị trường chứng khoán phái sinh",
+            "role": "Co-Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở (HVTC)",
+            "period": "01/01/2019-05/11/2019",
+            "acceptance_date": "31/12/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Hiệu quả hoạt động kinh doanh của các công ty quản lý quỹ đầu tư",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở (HVTC)",
+            "period": "01/01/2020-21/12/2020",
+            "acceptance_date": "31/12/2020",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu phát triển thị trường phái sinh hàng hóa tại Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở (HVTC)",
+            "period": "01/01/2021-27/12/2022",
+            "acceptance_date": "31/12/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu phát triển thị trường vốn xanh tại Việt Nam",
+            "role": "Co-Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở (HVTC)",
+            "period": "01/01/2021-11/12/2022",
+            "acceptance_date": "31/12/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu các giải pháp nhằm nâng hạng thị trường chứng khoán Việt Nam",
+            "role": "Co-Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở (HVTC)",
+            "period": "01/01/2022-29/11/2022",
+            "acceptance_date": "31/12/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Quản lý tài sản công tại cơ sở giáo dục đại học công lập",
+            "role": "Assistant",
+            "project_code": "BTC/ĐT/2021-28",
+            "management_level": "Cấp Bộ Tài chính",
+            "period": "2021-2022",
+            "acceptance_date": "22/06/2021",
+            "rating": "Giỏi"
+        },
+        {
+            "title": "Hiệu quả huy động vốn trên thị trường chứng khoán Việt Nam.",
+            "role": "Key Member",
+            "project_code": "BTC/ĐT/2022-08",
+            "management_level": "Cấp Bộ Tài chính",
+            "period": "2022-2023",
+            "acceptance_date": "29/8/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Luận cứ khoa học và thực tiễn phát triển hoạt động định mức tín nhiệm trên thị trường tài chính Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "BTC/ĐT/2024-30",
+            "management_level": "Cấp Bộ Tài chính",
+            "period": "2024-2025",
+            "acceptance_date": "15/03/2025",
+            "rating": "Khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Thị trường Tài chính",
+            "type": "",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2015",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "207-282",
+            "verification_document_id": "10/GCN-HVTC"
+        },
+        {
+            "title": "Giáo trình Phân tích định giá tài sản tài chính",
+            "type": "Textbook",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2021",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "187-270",
+            "verification_document_id": "09/GCN-HVTC"
+        },
+        {
+            "title": "Giáo trình quản lý danh mục đầu tư",
+            "type": "Textbook",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2017",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "179-274",
+            "verification_document_id": "08/GCN-HVTC"
+        },
+        {
+            "title": "Financial market",
+            "type": "Textbook",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2021",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 1: tr 03-35",
+            "verification_document_id": "07/GCN-HVTC"
+        },
+        {
+            "title": "Kinh doanh chứng khoán",
+            "type": "Textbook",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2021",
+            "num_authors": 10,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 5:144-181",
+            "verification_document_id": "03/GCN-HVTC"
+        },
+        {
+            "title": "Chiến lược đầu tư tài chính",
+            "type": "Monograph",
+            "publisher": "NXB Tài chính",
+            "publish_year": "2021",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1,2,3,5,6,9 - Từ trang 1- trang 316",
+            "verification_document_id": "11/GCN-HVTC"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

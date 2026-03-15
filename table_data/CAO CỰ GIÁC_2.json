@@ -1,0 +1,1152 @@
+{
+    "papers": [
+        {
+            "title": "Phát triển khả năng tư duy và thực hành thí nghiệm qua các bài tập hoá học thực nghiệm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục (ISSN 21896-0866-7470)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 88 (34-35)",
+            "published_date": "6/2004"
+        },
+        {
+            "title": "Sử dụng internet để khai thác phần mềm phục vụ cho nghiên cứu và giảng dạy hoá học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục (ISSN 21896-0866-7470)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 99 (37-38)",
+            "published_date": "10/2004"
+        },
+        {
+            "title": "Sử dụng các hình vẽ mô phỏng thí nghiệm để thiết kế bài tập hoá học thực nghiệm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 139 (37-38)",
+            "published_date": "6/2006"
+        },
+        {
+            "title": "Xây dựng các bài tập hoá học có nội dung liên hệ với thực tế cuộc sống",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hoá học và Ứng dụng (ISSN 0866-7004)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6(54) (1-3)",
+            "published_date": "2006"
+        },
+        {
+            "title": "Một số điểm yếu của học sinh trong học tập và việc xây dựng câu nhiễu cho bài tập trắc nghiệm khách quan nhiều lựa chọn môn hoá học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 179 (39-40)",
+            "published_date": "12/2007"
+        },
+        {
+            "title": "Xây dựng một số dạng bài tập bồi dưỡng năng lực tư duy hoá học cho học sinh trung học phổ thông",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 191 (48-50)",
+            "published_date": "6/2008"
+        },
+        {
+            "title": "Xây dựng bài tập trắc nghiệm hoá học có nội dung thực nghiệm để kiểm tra kĩ năng thực hành hoá học của học sinh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 205 (48-50)",
+            "published_date": "1/2009"
+        },
+        {
+            "title": "Thiết kế bảng tuần hoàn các nguyên tố hóa học bằng Flash 2004",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hoá học và Ứng dụng (ISSN 0866-7004)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 24(108) (4-9)",
+            "published_date": "2009"
+        },
+        {
+            "title": "Một số kĩ năng xây dựng và sử dụng bài tập trắc nghiệm khách quan nhiều lựa chọn phần kim loại (Hoá học 12)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 237 (45-47)",
+            "published_date": "5/2010"
+        },
+        {
+            "title": "Thiết kế và sử dụng bài tập hóa học thực nghiệm trong dạy học hóa học ở trường phổ thông”",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 259 (52-54)",
+            "published_date": "4/2011"
+        },
+        {
+            "title": "Xây dựng thí nghiệm mô phỏng hỗ trợ dạy học thí nghiệm điều chế halogen ở trường THPT",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hoá học và ứng dụng (Số chuyên đề kết quả nghiên cứu khoa học) (ISSN 1859-4069)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4(14) (32-34)",
+            "published_date": "2012"
+        },
+        {
+            "title": "Một số biện pháp tạo hứng thú trong dạy học hóa học ở trường phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt 8/2013 (124-126)",
+            "published_date": "8/2013"
+        },
+        {
+            "title": "Sử dụng thí nghiệm mô phỏng trong dạy học hóa học ở trường THPT",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt 3/2014 (155-156)",
+            "published_date": "3/2014"
+        },
+        {
+            "title": "Một số biện pháp nâng cao hiệu quả dạy học hóa học bằng tiếng Anh ở trường THPT",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt 3/2014 (171-173)",
+            "published_date": "3/2014"
+        },
+        {
+            "title": "Bồi dưỡng học sinh giỏi hóa học qua việc vận dụng thuyết liên kết hóa trị giải bài tập về phức chất ở trường phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt 3/2014 (153-154)",
+            "published_date": "3/2014"
+        },
+        {
+            "title": "Thực trạng và giải pháp dạy học các môn khoa học tự nhiên bằng tiếng Anh ở trường trung học phổ thông Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt 4/2014 (205-207)",
+            "published_date": "4/2014"
+        },
+        {
+            "title": "Ứng dụng phần mềm Macromedia Flash MX thiết kế thí nghiệm mô phỏng dạy học các bài tốc độ phản ứng và cân bằng hóa học thuộc chương trình hóa học THPT",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt 4/2014 (176-178)",
+            "published_date": "4/2014"
+        },
+        {
+            "title": "Thiết kế và sử dụng hệ thống bài tập hóa học lớp 10 trung học phổ thông trong dạy học hóa học bằng tiếng Anh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 21896-0866-7476)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt 6/2014 (207-209)",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "Xây dựng hệ thống bài tập hóa học ở trung học phổ thông theo hướng tiếp cận chương trình đánh giá học sinh quốc tế (PISA)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt 10/2015 (144-146)",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Thiết kế bài giảng hóa học bằng tiếng Anh dạy học ở trường Trung học phổ thông",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục (ISSN 0868-3662)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 124 (18-20)",
+            "published_date": "1/2016"
+        },
+        {
+            "title": "Thực trạng phát triển năng lực thực hành thí nghiệm hóa học cho sinh viên sư phạm hóa học ở trường đại học",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 378 (50-52)",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Thực trạng phát triển năng lực tổ chức dạy học thí nghiệm hóa học cho sinh viên ngành cử nhân sư phạm hóa học",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Vinh (ISSN 1859-2228)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 45, số 2A, (14-19)",
+            "published_date": "7/2016"
+        },
+        {
+            "title": "Một số phương pháp dạy học hóa học phần hữu cơ lớp 11 bằng tiếng Anh gây hứng thú cho học sinh ở trường Trung học phổ thông",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường ĐHSP Hà Nội (ISSN 2354-1075)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 61, số 6A, (116-123)",
+            "published_date": "9/2016"
+        },
+        {
+            "title": "Một số biện pháp phát hiện và bồi dưỡng học sinh giỏi hóa học ở trường Trung học phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục (ISSN 0868-3662)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 135 (38-42)",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Training Skills to Solve Some Inorganic Chemistry Exercises by Using the Graphic Method of Calculation for Teaching Chemistry in High School",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "World Journal of Chemical Education ISSN (Online): 2375-1657",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 5, No. 1 (12-19)",
+            "published_date": "2017"
+        },
+        {
+            "title": "Designing Exercises to Determine the Structural Formula of Organic Compounds Based on the Experimental Data",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "World Journal of Chemical Education ISSN (Online): 2375-1657 DOI: 10.12691/wjce-5-2-1",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 5, No. 2 (23-28)",
+            "published_date": "2017"
+        },
+        {
+            "title": "Thiết kế công cụ đánh giá năng lực tổ chức dạy học thí nghiệm hóa học trong dạy học vi mô cho sinh viên sư phạm hóa học",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục (ISSN 0868-3662)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 141 (30-34)",
+            "published_date": "6/2017"
+        },
+        {
+            "title": "Thực trạng phát triển năng lực tự học của học sinh ở một số trường THPT đối với môn hóa học",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 414 (40-42)",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Designing Experimental Exercises Used for Teaching Chemistry in High School. Effective strategies for teaching chemistry in high school",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "World Journal of Chemical Education ISSN (Online): 2375-1657 DOI: 10.12691/wjce-5-5-5",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 5, No. 5 (168-174)",
+            "published_date": "2017"
+        },
+        {
+            "title": "Effective strategies for teaching chemistry in high school",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vienam Journal of Education (English Version) (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 01 (42-46)",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Thực trạng thiết kế và sử dụng bài tập đánh giá năng lực khoa học tự nhiên cho học sinh trung học cơ sở theo tiếp cận PISA",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế “Phát triển năng lực sư phạm đội ngũ giáo viên khoa học tự nhiên đáp ứng yêu cầu đổi mới giáo dục phổ thông”. Nxb Khoa học tự nhiên và công nghệ (ISBN: 978-604-913-655-9)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(575-582)",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Khảo sát mức độ biểu hiện năng lực tự học môn Hóa học của học sinh THPT",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 421 (36-38)",
+            "published_date": "1/2018"
+        },
+        {
+            "title": "Thực trạng dạy học hóa học bằng tiếng Anh ở trường THPT tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 424 (37-42)",
+            "published_date": "2/2018"
+        },
+        {
+            "title": "Một số biện pháp phát triển năng lực dạy học thực hành thí nghiệm cho sinh viên Sư phạm Hóa học",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam (ISSN 2615-8957)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 04 (63-67)",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Thực trạng hiểu biết về năng lực khoa học tự nhiên của học sinh trung học cơ sở - Góc nhìn từ giáo viên",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Vinh (ISSN 1859-2228)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 47, Số 3B (55-62)",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Designing and Testing Electronic Coursebook to Develop Student's Competence in Experimental Practical Methods in Teaching Chemistry at the Universities of Education in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "World Journal of Chemical Education ISSN (Online): 2375-1657 DOI: 10.12691/wjce-6-4-1",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 6, No. 4 (145-153)",
+            "published_date": "2018"
+        },
+        {
+            "title": "Xây dựng bài tập tự học phần hóa đại cương cho học sinh THPT",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "HNUE Journal of Science, Educational Sciences (ISSN 2354-1075) DOI: 10.18173/2354-1075.2018-0014",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 63, Iss. 2 (74-82)",
+            "published_date": "2018"
+        },
+        {
+            "title": "Xây dựng khung năng lực thực hành và năng lực tổ chức dạy học thí nghiệm cho sinh viên sư phạm hóa học",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "HNUE Journal of Science, Educational Sciences (ISSN 2354-1075) DOI: 10.18173/2354-1075.2018-0063",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 63, Iss. 5 (74-82)",
+            "published_date": "2018"
+        },
+        {
+            "title": "Phát triển năng lực khoa học tự nhiên cho học sinh THCS trong dạy học môn Khoa học tự nhiên thông qua sử dụng bài tập tiếp cận theo chương trình đánh giá học sinh quốc tế PISA",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt (200-204)",
+            "published_date": "6/2018"
+        },
+        {
+            "title": "Thiết kế bộ công cụ đánh giá năng lực tự học môn hóa học của học sinh trường Trung học phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học giáo dục (ISSN 2615-8957)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 13 (54-59)",
+            "published_date": "1/2019"
+        },
+        {
+            "title": "Xây dựng phần mềm tra cứu kiến thứ hoá học hỗ trợ việc phát triển năng lực tự học hoá học cho học sinh trung học phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Vinh (ISSN 1859-2228)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 48, Số 4B (19-29)",
+            "published_date": "4/2019"
+        },
+        {
+            "title": "Techniques for Writing Learning Objectives in Teaching Chemistry in High School",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "American Journal of Educational Research ISSN (Online): 2327-6150 DOI: 10.12691/education-7-4-4",
+            "journal_ranking": "International journal, online publication",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 7, No. 4 (320-327)",
+            "published_date": "4/2019"
+        },
+        {
+            "title": "Analyzing Some of the Students' Mistakes through Solving Multiple Choice Questions of Chemistry in Vietnamese High School",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "American Journal of Educational Research ISSN (Online): 2327-6150 DOI: 10.12691/education-7-9-3",
+            "journal_ranking": "International journal, online publication",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 7, No. 9 (618-623)",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Xây dựng khung năng lực khoa học tự nhiên của học sinh trung học cơ sở theo cách đánh giá của PISA",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 463 (25-29)",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Khảo sát mức độ biểu hiện năng lực tự học của học sinh trung học phổ thông đối với môn Hoá học thông qua sử dụng phần mềm “Tra cứu kiến thức hoá học”",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 470 (35-39)",
+            "published_date": "1/2020"
+        },
+        {
+            "title": "Sử dụng bài tập tự học phần tốc độ phản ứng và cân bằng hoá học nhằm bồi dưỡng năng lực tự học cho học sinh lớp 10 trung học phổ thông",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường ĐHSP TP Hồ Chí Minh (ISSN 1859-3100)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, Số 2 (235-253)",
+            "published_date": "2/2020"
+        },
+        {
+            "title": "Compilation the Type of Exercise: \"Using the Information from the Text\" to Improve Reading Comprehension Skill in Teaching Chemistry in English at High School",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "American Journal of Educational Research ISSN (Online): 2327-6150 DOI: 10.12691/education-8-4-5",
+            "journal_ranking": "International journal, online publication",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 8, No. 4 (221-231)",
+            "published_date": "4/2020"
+        },
+        {
+            "title": "Thiết kế bài tập điền từ rèn luyện kĩ năng đọc hiểu trong dạy học hoá học bằng tiếng Anh ở trường Trung học phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "HNUE Journal of Science, Educational Sciences (ISSN 2354-1075) DOI: 10.18173/2354-1075.2020-0070",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 65, Iss. 4 (197-209)",
+            "published_date": "4/2020"
+        },
+        {
+            "title": "Thiết kế bài tập tính toán định lượng rèn luyện kĩ năng đọc hiểu trong dạy học hoá học bằng tiếng Anh ở trường trung học phổ thông",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học giáo dục (ISSN 2615-8957)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 31 (16-22)",
+            "published_date": "7/2020"
+        },
+        {
+            "title": "Một số dạng bài tập đánh giá năng lực khoa học tự nhiên cho học sinh trung học cơ sở theo tiếp cận PISA",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học giáo dục (ISSN 2615-8957)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 33 (35-42)",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "The Actual Situation of Practising Reading Skills in Teaching Chemistry in English at Vietnamese High School",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Education and Practice Online ISSN: 2310-3868 DOI: 10.18488/journal.61.2021.93.468.486",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 9, No. 3 (468-486)",
+            "published_date": "2021"
+        },
+        {
+            "title": "Khảo sát thực trạng năng lực thực hành thí nghiệm hoá học của sinh viên ngành Sư phạm Hoá học trường Đại học Vinh theo tiếp cận CDIO",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam (ISSN 2615-8957) DOI: https://doi.org/10.15625/2615-8957/12210110",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 01, Tập 18 (55-62)",
+            "published_date": "1/2022"
+        },
+        {
+            "title": "Vận dụng phương pháp giải quyết vấn đề trong dạy học khoa học tự nhiên: Thiết kế và thực hiện chủ đề STEM mô phỏng túi khí",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam (ISSN 2615-8957) DOI: https://doi.org/10.15625/2615-8957/12310206",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 02, Tập 19 (35-41)",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Thực trạng vận dụng mô hình giáo dục STEM trong dạy học môn Khoa học tự nhiên cho học sinh THCS trên địa bàn Thành phố Hồ Chí Minh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, Tập 23 (121-127)",
+            "published_date": "7/2023"
+        },
+        {
+            "title": "Thiết kế công cụ đánh giá năng lực thực hành thí nghiệm hoá học trong dạy học vi mô cho sinh viên sư phạm hoá học theo tiếp cận CDIO",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, (ISSN 2354-0753)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 23, Số 16 (15-21)",
+            "published_date": "8/2023"
+        },
+        {
+            "title": "Phát triển năng lực thực hành thí nghiệm hoá học theo tiếp cận CDIO cho sinh viên sư phạm hoá học thông qua việc sử dụng phương pháp dạy học vi mô kết hợp với phương pháp đóng vai",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam (ISSN 2615-8957) DOI: https://doi.org/10.15625/2615-8957/12310903",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 09, Tập 19 (14-20)",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Designing a Learning Project on Thermodynamics for Chemistry Students According to the CDIO Teaching Mode",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "World Journal of Chemical Education ISSN (Online): 2375-1657 DOI: 10.12691/wjce-12-1-2",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12, No. 1 (6-12)",
+            "published_date": "1/2024"
+        },
+        {
+            "title": "Creating CDIO-Based Chemistry Research Activities for Students: A Case Study in Organic Compound Structure",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "World Journal of Chemical Education ISSN (Online): 2375-1657 DOI: 10.12691/wjce-12-1-6",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12, No. 1 (39-44)",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Compound Structure Organizing Activities for Students of Chemistry Pedagogy to Research According to the CDIO Approach in Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Education and E-Learning Research ISSN(E) 2410-9991 DOI: 10.20448/jeelr.v11i2.5451",
+            "journal_ranking": "Scopus, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11, No. 2 (253-262)",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Organizing Activities for Chemistry Pedagogy Students to Research and Practice Extracting Cajeput Essential Oils from Melaleuca Leaves Using the CDIO Approach",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Education ISSN 2588-1477 https://doi.org/10.52296/vje.2024.383",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 8, Iss. 2, (121-137)",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Some Applications of Latimer Diagrams in Teaching Oxidation-Reduction Reactions for Chemistry Students at Pedagogical Universities",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "World Journal of Chemical Education ISSN (Online): 2375-1657 DOI: 10.12691/wjce-12-2-2",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12, No. 2, (49-59)",
+            "published_date": "6/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Thiết kế bài tập hoá học dựa trên các thí nghiệm mô phỏng",
+            "role": "Principal Investigator",
+            "project_code": "T2005-03-02",
+            "management_level": "Trường Đại học Vinh",
+            "period": "1/2005 - 12/2005",
+            "acceptance_date": "12/12/2005",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Xây dựng bài tập hoá học phổ thông có nội dung liên hệ đến thực tiễn",
+            "role": "Principal Investigator",
+            "project_code": "T2006-03-02",
+            "management_level": "Trường Đại học Vinh",
+            "period": "1/2006 – 12/2006",
+            "acceptance_date": "05/12/2006",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Xây dựng các dạng bài tập trắc nghiệm hoá học",
+            "role": "Principal Investigator",
+            "project_code": "T2007-03-02",
+            "management_level": "Trường Đại học Vinh",
+            "period": "1/2007 - 12/2007",
+            "acceptance_date": "01/12/2007",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Kĩ thuật biên soạn câu nhiễu trong bài tập trắc nghiệm hoá học",
+            "role": "Principal Investigator",
+            "project_code": "T2008-03-02",
+            "management_level": "Trường Đại học Vinh",
+            "period": "1/2008 – 12/2008",
+            "acceptance_date": "18/12/2008",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Xây dựng hệ thống bài tập trắc nghiệm khách quan bồi dưỡng học sinh",
+            "role": "Principal Investigator",
+            "project_code": "T2009-03-02",
+            "management_level": "Trường Đại học Vinh",
+            "period": "1/2009 – 12/2009",
+            "acceptance_date": "05/12/2009",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Thiết kế và sử dụng bài tập hoá học thực nghiệm nhằm rèn luyện kĩ năng thực hành hoá học cho học sinh trung học phổ thông",
+            "role": "Principal Investigator",
+            "project_code": "B2010-27-92",
+            "management_level": "Bộ Giáo dục và Đào tạo",
+            "period": "1/2010 - 12/2011",
+            "acceptance_date": "28/4/2012",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu một số giải pháp nâng cao hiệu quả dạy học hóa học ở trường trung học phổ thông chuyên bằng tiếng Anh (Áp dụng phần Hóa đại cương)",
+            "role": "Principal Investigator",
+            "project_code": "T2015-19",
+            "management_level": "Trường Đại học Vinh",
+            "period": "1/2015 – 12/2015",
+            "acceptance_date": "07/12/2015",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu xây dựng chuẩn đầu ra chương trình đào tạo ngành Sư phạm Hóa học tiếp cận CDIO (Đề tài trọng điểm cấp trường)",
+            "role": "Principal Investigator",
+            "project_code": "T2016-31TĐ",
+            "management_level": "Trường Đại học Vinh",
+            "period": "1/2016 – 12/2016",
+            "acceptance_date": "23/12/2016",
+            "rating": "Đạt yêu cầu khá"
+        },
+        {
+            "title": "Nghiên cứu đổi mới nội dung, phương pháp giảng dạy và đánh giá khối kiến thức Lí luận và Phương pháp dạy học hoá học theo tiếp cận CDIO (Đề tài trọng điểm cấp trường)",
+            "role": "Principal Investigator",
+            "project_code": "T2019-58TĐ",
+            "management_level": "Trường Đại học Vinh",
+            "period": "7/2019 – 7/2020",
+            "acceptance_date": "30/6/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Phát triển năng lực thực hành thí nghiệm cho sinh viên sư phạm hoá học theo tiếp cận CDIO",
+            "role": "Principal Investigator",
+            "project_code": "B2022-TDV-02",
+            "management_level": "Bộ Giáo dục và Đào tạo",
+            "period": "1/2022 - 12/2023",
+            "acceptance_date": "04/6/2024",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Các phương pháp chọn lọc giải nhanh bài tập trắc nghiệm hóa học.",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2009",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bài tập lí thuyết và thực nghiệm hoá học, Tập 1 (Hoá học vô cơ)",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2010",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bài tập lí thuyết và thực nghiệm hoá học, Tập 2 (Hoá học hữu cơ)",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2010",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Phát triển năng lực thực hành thí nghiệm cho sinh viên sư phạm hoá học theo tiếp cận CDIO",
+            "type": "Monograph",
+            "publisher": "Nxb Đại học Vinh",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1 (7-28) và một phần Chương 3 (90-135)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Ứng dụng công nghệ thông tin trong dạy học hóa học (Giáo trình đào tạo Sau đại học)",
+            "type": "Textbook",
+            "publisher": "Nxb Đại học Vinh",
+            "publish_year": "2013",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bồi dưỡng học sinh giỏi hóa học trung học phổ thông (Giáo trình đào tạo Sau đại học)",
+            "type": "Textbook",
+            "publisher": "Nxb Đại học Vinh",
+            "publish_year": "2014",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Phương pháp dạy học hóa học những vấn đề cụ thể trong chương trình hóa học trung học phổ thông",
+            "type": "Textbook",
+            "publisher": "Nxb Đại học Vinh",
+            "publish_year": "2015",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 3, 4 (99-235)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Thí nghiệm thực hành phương pháp dạy học hóa học (Trung học phổ thông)",
+            "type": "Textbook",
+            "publisher": "Nxb Đại học Vinh",
+            "publish_year": "2015",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Bài 10, 11, 12 (159-220) và cùng biên soạn Bài 1, 2, 3 (11-75)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Phương pháp dạy học hóa học bằng tiếng Anh ở trường Trung học phổ thông (Giáo trình đào tạo Sau đại học)",
+            "type": "Textbook",
+            "publisher": "Nxb Đại học Vinh",
+            "publish_year": "2018",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần 1 (7-46), Phần III (137-300) và cùng biên soạn Phần II",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Khoa học tự nhiên 6",
+            "type": "Textbook",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2021",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần Mở đầu (6-17) và Chủ đề 2, 3, 4, 5 (35-84)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Khoa học tự nhiên 7",
+            "type": "Textbook",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2022",
+            "num_authors": 12,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần Mở đầu và Chủ đề 1 (6-30)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Khoa học tự nhiên 9",
+            "type": "Textbook",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2024",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần Mở đầu (6-9) và Chủ đề 10 (135-149)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Hoá học 10",
+            "type": "Textbook",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần Mở đầu và Chương 1, (6-34)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Chuyên đề học tập Hoá học 10",
+            "type": "Textbook",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chuyên đề 1 (22-32)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Hoá học 11",
+            "type": "Textbook",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1 (5-19) Chương 3 (46-65)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Chuyên đề học tập Hoá học 11",
+            "type": "Textbook",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chuyên đề 1 (5-20)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Hoá học 12",
+            "type": "Textbook",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2024",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 5 (64-74)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Chuyên đề học tập Hoá học 12",
+            "type": "Textbook",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2024",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Bài 2 (10-15)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Khoa học tự nhiên 6 (Sách giáo viên)",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2021",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần 1 (7-38) Mở đầu (39-52) Chủ đề 2, 3, 4 và 5 (73-145)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bài tập Khoa học tự nhiên 6",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2021",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Mở đầu (6-10) Chủ đề 4, 5 (28-41)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Khoa học tự nhiên 7 (Sách giáo viên)",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2022",
+            "num_authors": 12,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần 1 (7-36) Phần 2 (37-65)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bài tập Khoa học tự nhiên 7",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2022",
+            "num_authors": 12,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Mở đầu (4-5) Chủ đề 1",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Hoá học 10 (Sách giáo viên)",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần 1 (5-29) Phần 2 (30-58)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Chuyên đề Hoá học 10 (Sách giáo viên)",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần 1 (5-10) Phần 2 (29-37)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bài tập Hoá học 10",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Mở đầu và Chương 1 (5-18)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Hoá học 11 (Sách giáo viên)",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần 1 (6-34) Phần 2 (35-68)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Chuyên đề Hoá học 11 (Sách giáo viên)",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần 1 (5-11) Phần 2 (22-23)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bài tập Hoá học 11",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1 (7-15) Chương 3 (33-48)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Kế hoạch bài dạy môn Khoa học tự nhiên lớp 6",
+            "type": "Reference Book",
+            "publisher": "Nxb Giáo dục Việt Nam",
+            "publish_year": "2021",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Mở đầu (6-31) Chủ đề 4, 5 (113-182)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Phát triển năng lực khoa học tự nhiên 6",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chủ đề 4 (53-73)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Phát triển năng lực khoa học tự nhiên 7",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2024",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chủ đề 1 (4-21)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Phát triển năng lực khoa học tự nhiên 8",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2024",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chủ đề 2 (22-41)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bồi dưỡng học sinh giỏi khoa học tự nhiên 6",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chủ đề 4 (41-52)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bồi dưỡng học sinh giỏi khoa học tự nhiên 7",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chủ đề 1 (4-14)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Bồi dưỡng học sinh giỏi khoa học tự nhiên 8",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2023",
+            "num_authors": 8,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chủ đề 2 (8-17)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Tuyển tập đề kiểm tra định kì Khoa học tự nhiên 6",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2021",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chủ đề 4,5 (26-37)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Tuyển tập đề kiểm tra định kì Khoa học tự nhiên 7",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chủ đề 1 (5-11)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Tuyển tập đề kiểm tra định kì Khoa học tự nhiên 8",
+            "type": "Reference Book",
+            "publisher": "Nxb Đại học Sư phạm",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chủ đề 1 (5-22)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Tuyển tập đề kiểm tra môn Hoá học 10",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 5, 6 (92-130)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        },
+        {
+            "title": "Tuyển tập đề kiểm tra môn Hoá học 11",
+            "type": "Reference Book",
+            "publisher": "Nxb ĐHQG Hà Nội",
+            "publish_year": "2023",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1 (7-28) Chương 3 (49-72)",
+            "verification_document_id": "216/ĐHV-TV ngày 21/6/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng chuẩn đầu ra chương trình đào tạo ngành Sư phạm Hoá học tiếp cận CDIO",
+            "applicant_role": "Chủ trì",
+            "assignment_document_id": "Hợp đồng số 31/2016/KHCNTĐ ngày 16/6/2016 của Trường Đại học Vinh",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "QĐ số 747/QĐ-ĐHV, ngày 27/04/2017 về Ban hành chương trình đào tạo đại học hệ chính quy tiếp cận CDIO theo hệ",
+            "notes": ""
+        },
+        {
+            "title": "Nghiên cứu đổi mới nội dung, phương pháp giảng dạy và đánh giá khối kiến thức Lí luận và Phương pháp dạy học hoá học theo tiếp cận CDIO",
+            "applicant_role": "Chủ trì",
+            "assignment_document_id": "Hợp đồng số 58/2019/KHCNTr-CB ngày 19/7/2019 của Trường Đại học Vinh",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "QĐ số 2033/QĐ-ĐHV, ngày 10/9/2021 về Ban hành chương trình đào tạo đại học hệ chính quy tiếp cận CDIO theo hệ thống tín chỉ",
+            "notes": ""
+        },
+        {
+            "title": "Ngành “Sư phạm Khoa học tự nhiên” trình độ Đại học",
+            "applicant_role": "Chủ trì",
+            "assignment_document_id": "Quyết định thành lập tổ soạn thảo số 952/QĐ-ĐHV ngày 30/4/2023 của Hiệu trưởng Trường Đại học Vinh",
+            "certifying_authority": "Bộ Giáo dục và Đào tạo",
+            "implementation_document_id": "Quyết định cho phép Trường Đại học Vinh đào tạo ngành “Sư phạm Khoa học tự nhiên” số 566/QĐ-BGDĐT ngày 19/02/2024 của Bộ trưởng Bộ Giáo dục và Đào tạo",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng và tổ chức thực hiện chương trình đào tạo ngành “Lí luận và PPDH bộ môn Hoá học” trình độ Thạc sĩ",
+            "applicant_role": "Chủ trì",
+            "assignment_document_id": "QĐ số 1089/QĐ-ĐHV ngày 08/5/2024 của Hiệu trưởng Trường Đại học Vinh",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "Đang thực hiện",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng và tổ chức thực hiện chương trình đào tạo ngành “Lí luận và PPDH bộ môn Hoá học” trình độ Tiến sĩ",
+            "applicant_role": "Chủ trì",
+            "assignment_document_id": "QĐ số 1088/QĐ-ĐHV ngày 08/5/2024 của Hiệu trưởng Trường Đại học Vinh",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "Đang thực hiện",
+            "notes": ""
+        }
+    ]
+}

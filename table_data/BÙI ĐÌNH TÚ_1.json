@@ -1,0 +1,812 @@
+{
+    "papers": [
+        {
+            "title": "Planar Hall bead array counter microchip with NiFe/IrMn bilayers",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Applied Physics",
+            "journal_ranking": "X-SCIE IF: 2.251, Q1",
+            "citation_count": 26,
+            "volume_issue_pages": "Volume 104, No.7",
+            "published_date": "10/2008"
+        },
+        {
+            "title": "Optimization of planar Hall effect sensor for magnetic bead detection using spin-valve NiFe/Cu/NiFe/IrMn structures",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Physics: Conference Series",
+            "journal_ranking": "X-Scopus",
+            "citation_count": 9,
+            "volume_issue_pages": "Volume 187",
+            "published_date": "09/2009"
+        },
+        {
+            "title": "Optimization of spin-valve structure NiFe/Cu/NiFe/IrMn for planar Hall effect based biochips",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "IEEE Transactions on Magnetics",
+            "journal_ranking": "X-SCIE IF: 1.3, Q2",
+            "citation_count": 27,
+            "volume_issue_pages": "Volume 45, No. 6",
+            "published_date": "06/2009"
+        },
+        {
+            "title": "Sensitivity dependence of the planar Hall effect sensor on the free layer of the spin-valve structure",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "IEEE Transactions on Magnetics",
+            "journal_ranking": "x - ISI IF: 1.3, Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "Volume 45, No. 6, 2374 - 2377",
+            "published_date": "05/2009"
+        },
+        {
+            "title": "Influence of CoFe and NiFe pinned layers on sensitivity of planar Hall biosensors based on spin-valve structures",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology",
+            "journal_ranking": "X-ESCI IF: 0.97, Q2",
+            "citation_count": 8,
+            "volume_issue_pages": "Volume 3, No. 4",
+            "published_date": "10/2012"
+        },
+        {
+            "title": "Metglas/PZT-magnetoelectric 2-D geomagnetic device for computing precise angular position",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "IEEE Transactions on Magnetics",
+            "journal_ranking": "X-SCIE IF: 1.957, Q2",
+            "citation_count": 34,
+            "volume_issue_pages": "Volume 49, No. 8,4839-4842",
+            "published_date": "08/2013"
+        },
+        {
+            "title": "High-sensitivity planar Hall sensor based on simple gaint magneto resistance NiFe/Cu/NiFe structure for biochip application",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology",
+            "journal_ranking": "X-SCIE IF: 1.17, Q2",
+            "citation_count": 10,
+            "volume_issue_pages": "Volume 4, No. 1",
+            "published_date": "02/2013"
+        },
+        {
+            "title": "Detection of magnetic nanoparticles using simple AMR sensors in Wheatstone bridge",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science: Advanced Materials and Devices",
+            "journal_ranking": "X-SCIE",
+            "citation_count": 9,
+            "volume_issue_pages": "Volume 1, No. 1, 98-102",
+            "published_date": "03/2016"
+        },
+        {
+            "title": "DNA-magnetic bead detection using disposable cards and the anisotropic magnetoresistive sensor",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Sciences:",
+            "journal_ranking": "X-SCIE IF:",
+            "citation_count": 34,
+            "volume_issue_pages": "Volume 7, No. 4",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Mô phỏng, tính toán độ dày tối ưu của vật liệu tổ hợp cấu trúc nano hấp thụ năng lượng sóng điện từ",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2017, ISBN: 978-604-95-0326-9",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "710-173",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Nghiên cứu chế tạo mạch giám sát hệ thống chiếu sáng led dùng trong nông nghiệp",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2017, ISBN: 978-604-95-0326-9",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "714-717",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Nghiên cứu chế tạo các nguồn vi năng lượng vĩnh cửu dưa trên vât liêu FePt",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2017, ISBN: 978-604-95-0326-9",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "707-709",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Chế tạo thiết bị đo đặc trưng một số linh kiện bán dẫn phục vụ trong học tập và giảng dạy",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2017, ISBN: 978-604-95-0326-9",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "473-475",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Nghiên cứu, chế tạo cảm biến từ dựa trên hiệu ứng hall phẳng (PHE)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2017",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "51-55",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Design optimization of an anisotropic magnetoresistance sensor for detection of magnetic nanoparticles",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "x IF: 1.676, Q2",
+            "citation_count": 26,
+            "volume_issue_pages": "Volume 48 997-1004",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Effect of crystallization temperature on energy-storage density and efficiency of lead-free Bi0. 5 (Na0. 8K0. 2) 0.5 TiO3 thin films prepared by sol-gel method",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science: Advanced Materials and Devices",
+            "journal_ranking": "X-SCIE IF: 4.2, Q1",
+            "citation_count": 16,
+            "volume_issue_pages": "Volume 4, No. 3, 370-375",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Simple planar Hall effect based sensors for low-magnetic field detection",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology",
+            "journal_ranking": "X - SCIE IF: 3.2, Q2",
+            "citation_count": 11,
+            "volume_issue_pages": "Volume 10, No. 2",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Microstructure, magnetic and electrical properties of (La, Ni) co-doped BiFeO3 materials",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 4th International Conference on Advanced Materials and Nanotechnology",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "PROCEEDINGS ICAMN 20 12-16",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Structural, magnetic and electrical properties of Ho and Ni co-doped BiFeo3 materials",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science and Technology",
+            "journal_ranking": "- SCIE IF: 0.327",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 58, No. 2, 152-161",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Meander anisotropic magnetoresistance bridge geomagnetic sensors",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science: Advanced Materials and Devices",
+            "journal_ranking": "X-SCIE IF: 4.2, Q1",
+            "citation_count": 17,
+            "volume_issue_pages": "Volume 4, No. 2, 327-332",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Absorption of electromagnetic waves by Fe3O4/Paraffin composite materials",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Communications in Physics",
+            "journal_ranking": "- ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 29, No. 1, 63-69",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Structural, Optical, Ferroelectric and Ferromagnetic Properties of Bi 1- x Gd x FeO 3 Materials",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "X - SCIE IF: 1.9, Q2",
+            "citation_count": 33,
+            "volume_issue_pages": "Volume 49 4839-4842",
+            "published_date": "05/2020"
+        },
+        {
+            "title": "Structural evolution and magnetic properties of Bi0.86Nd0.14Fe1-xTixO3 ceramics",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Chemistry and Physics",
+            "journal_ranking": "- SCIE IF: 4.778, Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "Volume 270",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Ứng dụng từ trường trong thúc đẩy sinh trưởng, phát triển và sinh khối của cây trồng",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp Việt Nam",
+            "journal_ranking": "- ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "số chuyên đề (133)/2, 74-80",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "Tiềm năng ứng dụng từ trường trong nghiên cứu cây trồng",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam",
+            "journal_ranking": "- ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 10 năm 2021, ISSN, 61-64",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Effect of Eu Doping on Structural, Optical and Magnetic Properties of BiFeO3 Materials",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNU Journal of Science: Mathematics – Physics",
+            "journal_ranking": "VNU Journal of Science",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 38, No. 1, 58-64",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Characterization and Microwave Absorption Properties of Lead-Free Bi0. 5 (Na0. 80K0. 20) 0.5 TiO3 Synthesized by Sol-Gel Method",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNU Journal of Science: Mathematics – Physics",
+            "journal_ranking": "VNU Journal of Science",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 38, No. 1, 76-87",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Instability of the crystal and electronic structures due to hydrogenation influenced the magnetic properties of a La2/3Ca1/3MnO3 manganite",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materials Transactions",
+            "journal_ranking": "X - SCIE IF: 1.2, Q3",
+            "citation_count": 4,
+            "volume_issue_pages": "Volume 64, No. 9, 2070-2076",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Fabrication and Electrical Properties of PSZT Piezoelectric Ceramic Ring for Ultrasonic Welding Application",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materials Transactions",
+            "journal_ranking": "X - SCIE IF: 1.2, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 65, No. 1, 11-17",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Investigating the magnetic and magnetocaloric behaviors of LiSm (PO 3) 4",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Royal Society of Chemistry Advances",
+            "journal_ranking": "X-SCIE IF: 3.9, Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "Volume 13 5753-5761",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "First-principles investigation of divalent ion sensing with cesium lead trihalides",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical Materials: X",
+            "journal_ranking": "X-SCIE IF: 2.69, Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "Volume 19, July 2023",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Synthesis and microwave absorption properties of Novel Bi1/2 (Na0. 8K0. 2) 1/2TiO3/Fe3O4 composite",
+            "num_authors": 15,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materials Transactions",
+            "journal_ranking": "X - SCIE IF: 1.18, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 64, No. 10, 2450-2456",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Multiferroic Property of 2D Hybrid Organic-(C6H5C2H4NH3) 2NiCl4 Perovskite Single Crystals",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Transactions",
+            "journal_ranking": "X - SCIE IF: 1.18, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 64, No. 9, 2168-2173",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Investigating the effects of solvent and concentration of ZnO nanoparticles on the properties of Green-qdleds for display applications",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Kỹ thuật",
+            "journal_ranking": "Tạp chí Khoa học và Kỹ thuật",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 1, No. 2",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Enhancement of Magnetic Field Strength and Gradient Produced by an Array of Micro-sized Parallelepiped Magnets",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNU Journal of Science: Mathematics – Physics",
+            "journal_ranking": "VNU Journal of Science",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 39, No. 1, 74-82",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Research and synthesis of conductive PPY/CNC polymer for flexible electronics applications",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology",
+            "journal_ranking": "- ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 228, No. 10, 436-442",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Nguồn phát cho máy hàn siêu âm sử dụng màng rung gốm áp điện ứng dụng hàn trên chất liệu vải không dệt",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam",
+            "journal_ranking": "Tạp chí Khoa học và Công nghệ Việt Nam",
+            "citation_count": 0,
+            "volume_issue_pages": "65(10ĐB) 10.2023, Trang 24-29",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Electronic structure, and dielectric, magnetic and reflection-loss behaviors of BaFe12-xMnxO19 (0< x<2) hexaferrites",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Magnetism and Magnetic Materials",
+            "journal_ranking": "X - SCIE IF: 2.5, Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "Volume 588, Part B",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Nghiên cứu, chế tạo máy phát thủy điện mini lắp đặt cho hệ thống ống dẫn nước của tòa nhà",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2023, ISBN: 978-604-316-308-7",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "495-499",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Simulation of electromagnetic wave absorption capability of nanostructured materials with optimal thickness",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2023, ISBN: 978-604-316-308-7",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "481-485",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Nghiên cứu, khảo sát tính chất của dung dịch chuyển pha ứng dụng trong lưu trữ nhiệt lạnh",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2023, ISBN: 978-604-316-308-7",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "500-504",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Nghiên cứu, chế tạo cảm biến xác định độ mặn của nước bằng phương pháp không tiếp xúc",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2023, ISBN: 978-604-316-308-7",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "510-514",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Fabrication process of ceramic capacitor derived from lead-free Bi0.5(Na0.8K0.2)0.5TiO3 bulk and powder synthesized via sol-gel method",
+            "num_authors": 14,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Physics A",
+            "journal_ranking": "X-SCIE IF: 2.5, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 131, No. 36",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Enhanced photocatalytic activity and ferromagnetic ordering in hydrogenated Zn1-x Co x O",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Materials Science",
+            "journal_ranking": "X-SCIE IF: 3.5, Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "Volume 59 9217-9236",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Comparative Study on Magnetic and Electromagnetic Behaviors of ZnFe2O4 and CoFe204 Nanoparticles Synthesized by Hydrothermal Method",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials",
+            "journal_ranking": "X-SCIE IF: 2.2, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 54 977-984",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Enhanced magnetic ordering, and microwave-shielding and photocatalytic performance in hydrogenated ZnO nanoparticles",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Surface Science",
+            "journal_ranking": "X-SCIE IF: 6.3, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 690",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "Nghiên cứu khả năng hấp thụ năng lượng sóng điện từ của vật liệu tổ hợp chứa hạt nano Fe3O4",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2017, 978-604-95-0326-9",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "718-722",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Thiết kế, chế tạo nguồn nuôi cho LED chiếu sáng theo tiêu chuẩn Nhật Bản",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2019",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "366-369",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Size - controlled synthesis of superparamagnetic Fe3O4 Nanoparticles",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2019",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "469-473",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Hiện tượng bất ổn định trong các đường đo I-V của pin mặt trời cấu trúc ITO/Si:H/Ti/Au",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2021, ISBN: 978-604-316-839-6",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "310-313",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Thiết kế, chế tạo hệ biến đổi cơ - điện sử dụng thạch anh",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2021",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "699-703",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Nghiên cứu thử nghiệm buồng sấy nhiệt trên cơ sở hấp thụ năng lượng mặt trời",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2021",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "704-708",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Effect of annealing temperature on I-V curves of ITO/aSi:H junction",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 4th International Workshop on Advanced Materials and Devices IWAMD 2023",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "ISBN: 978-604-350-27",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Magnetic, ferroelectric and energy storage properties of bismuth sodium-potassium titanate lead-free ceramic and thin film prepared by sol-gel method",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 4th International Workshop on Advanced Materials and Devices IWAMD 2023",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "ISBN: 978-604-350-27",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Broadband microwave absorption properties of Fe3O4-BNKT composites in 2-18 GHz",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 4th International Workshop on Advanced Materials and Devices IWAMD 2023",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "ISBN: 978-604-350-27",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Magnetic anisotropy in 2D hybrid organic-inorganic (C6H5C2H4NH3)2(Ni1-xMnx)Cl4 Perovskite crystals",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 4th International Workshop on Advanced Materials and Devices IWAMD 2023",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "ISBN: 978-604-350-27",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Nghiên cứu đáp ứng của cảm biến không tiếp xúc với sự thay đổi của nồng độ ion kim loại Cu2+ trong môi trường nước",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2023, ISBN: 978-604-316-308-7",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "510-514",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "La bàn 2D ứng dụng trong các trạm thu vệ tinh di động",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học ĐHQGHN: Khoa học Tự nhiên và Công nghệ",
+            "journal_ranking": "- ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 31, No. 4, dec.",
+            "published_date": "07/2015"
+        },
+        {
+            "title": "Nghiên cứu tổng hợp vật liệu nano GO/Fe3O4 trên nền than hoạt tính ứng dụng loại bỏ ASEN trong nước",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology",
+            "journal_ranking": "- ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 226, No. 16, 45-52",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Tăng cường độ nhạy cảm biến từ điện trở dị hướng dựa trên màng Ni20Fe80 sử dụng cấu hình dạng cầu wheatstone đa thanh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Vật lý Chất rắn và Khoa học Vật liệu Toàn quốc – SPMS 2021",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "0",
+            "published_date": "08/2022"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu các vật liệu nano có tính chất từ tối ưu cho các sensor dựa trên kỹ thuật spintronics",
+            "role": "Principal Investigator",
+            "project_code": "QC 09.13",
+            "management_level": "Cấp Cơ sở",
+            "period": "30/06/2009 đến 20/06/2010",
+            "acceptance_date": "30/12/2010",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Thiết kế chế tạo cảm biến đo từ trường nhỏ dạng cầu Wheatstone dựa trên các hiệu ứng từ điện trở, ứng dụng trong cảm biến sinh học và các thiết bị đo sử dụng từ trường trái đất",
+            "role": "Principal Investigator",
+            "project_code": "CN.12.09",
+            "management_level": "Cấp Cơ sở",
+            "period": "20/07/2012 đến 20/07/2013",
+            "acceptance_date": "16/07/2013",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu và chế tạo thiết bị đo nhịp tim và chẩn đoán các bệnh về tim mạch cầm tay bằng phương pháp không xâm lấn thông qua đo từ trường nhiễu loạn trong mạch máu.",
+            "role": "Principal Investigator",
+            "project_code": "QG 16.26",
+            "management_level": "cấp Bộ",
+            "period": "4/1/2016 đến 4/4/2019",
+            "acceptance_date": "4/1/2019",
+            "rating": ""
+        },
+        {
+            "title": "Nghiên cứu chế tạo thiết bị hỗ trợ giám sát, cảnh báo và kiểm soát độ mặn của nước sông phục vụ trong nông nghiệp, ứng phó biến đổi khí hậu",
+            "role": "Principal Investigator",
+            "project_code": "QG21.31",
+            "management_level": "cấp Bộ",
+            "period": "5/4/2021 đến 5/4/2024",
+            "acceptance_date": "6/6/2024",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Điện gió nguyên lý và ứng dụng",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc gia Hà Nội",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Từ trang 21-121",
+            "verification_document_id": ""
+        }
+    ],
+    "patents": [
+        {
+            "title": "Hệ thống chiếu sáng bằng đèn Led cho cây rau mầm",
+            "issuing_authority": "Cục sở hữu trí tuệ - Bộ Khoa học và Công nghệ",
+            "issue_date": "24/01/2022",
+            "is_main_inventor": true,
+            "num_inventors": 1
+        },
+        {
+            "title": "Thiết bị đo nồng độ ion muối trong dung dịch chất lỏng",
+            "issuing_authority": "Cục sở hữu trí tuệ - Bộ Khoa học và Công nghệ",
+            "issue_date": "27/02/2025",
+            "is_main_inventor": true,
+            "num_inventors": 1
+        },
+        {
+            "title": "Quy trình chế tạo hạt nano oxit sắt từ Fe3O4 cấu trúc tinh thể đơn tà bằng phương pháp thuỷ nhiệt với sự hỗ trợ của nguồn năng lượng điện từ",
+            "issuing_authority": "Cục sở hữu trí tuệ - Bộ Khoa học và Công nghệ",
+            "issue_date": "4/4/2024",
+            "is_main_inventor": true,
+            "num_inventors": 1
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Bằng Khen Đạt thành tích xuất sắc trong năm học 2020-2021",
+            "certifying_organization": "Đại Học Quốc Gia Hà Nội",
+            "certificate_document_id": "2021",
+            "award": "Bằng Khen Đạt thành tích xuất sắc trong năm học 2020-2021",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen thành tích xuất sắc trong công tác nghiên cứu khoa học và đổi mới sáng tạo năm 2022",
+            "certifying_organization": "Đại Học Quốc Gia Hà Nội",
+            "certificate_document_id": "2022",
+            "award": "Bằng khen thành tích xuất sắc trong công tác nghiên cứu khoa học và đổi mới sáng tạo năm 2022",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen thành tích xuất sắc trong công tác nghiên cứu khoa học và đổi mới sáng tạo năm 2023",
+            "certifying_organization": "Đại Học Quốc Gia Hà Nội",
+            "certificate_document_id": "2023",
+            "award": "Bằng khen thành tích xuất sắc trong công tác nghiên cứu khoa học và đổi mới sáng tạo năm 2023",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đạt thành tích xuất sắc trong hoạt động công đoàn năm 2009-2010",
+            "certifying_organization": "Công Đoàn Đại Học Quốc Gia Hà Nội",
+            "certificate_document_id": "2010",
+            "award": "Đạt thành tích xuất sắc trong hoạt động công đoàn năm 2009-2010",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp bộ",
+            "certifying_organization": "Bộ Giáo dục và Đào tạo",
+            "certificate_document_id": "2020",
+            "award": "Chiến sĩ thi đua cấp bộ",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở năm học 2016-2017",
+            "certifying_organization": "Cơ sở",
+            "certificate_document_id": "2017",
+            "award": "Chiến sĩ thi đua cấp cơ sở năm học 2016-2017",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở năm học 2017-2018",
+            "certifying_organization": "Cơ sở",
+            "certificate_document_id": "2018",
+            "award": "Chiến sĩ thi đua cấp cơ sở năm học 2017-2018",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở năm học 2018-2019",
+            "certifying_organization": "Cơ sở",
+            "certificate_document_id": "2019",
+            "award": "Chiến sĩ thi đua cấp cơ sở năm học 2018-2019",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở năm học 2019-2020",
+            "certifying_organization": "Cơ sở",
+            "certificate_document_id": "2020",
+            "award": "Chiến sĩ thi đua cấp cơ sở năm học 2019-2020",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở năm học 2020-2021",
+            "certifying_organization": "Cơ sở",
+            "certificate_document_id": "2021",
+            "award": "Chiến sĩ thi đua cấp cơ sở năm học 2020-2021",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp ĐHQG Hà Nội",
+            "certifying_organization": "ĐHQG Hà Nội",
+            "certificate_document_id": "2019",
+            "award": "Chiến sĩ thi đua cấp ĐHQG Hà Nội",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đảng viên hoàn thành xuất sắc nhiệm vụ năm 2019",
+            "certifying_organization": "Cơ sở",
+            "certificate_document_id": "2019",
+            "award": "Đảng viên hoàn thành xuất sắc nhiệm vụ năm 2019",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giấy chứng nhận: Hướng dẫn sinh viên thực hiện đề tài đạt giải Ba, Giải thưởng khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục đại học năm 2024",
+            "certifying_organization": "Bộ Giáo dục và Đào tạo",
+            "certificate_document_id": "2024",
+            "award": "Giấy chứng nhận: Hướng dẫn sinh viên thực hiện đề tài đạt giải Ba, Giải thưởng khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục đại học năm 2024",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Công nghệ Vật liệu và Vi điện tử",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "2368/QĐ-ĐHCN ngày 13/09/2024",
+            "certifying_authority": "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+            "implementation_document_id": "3078/QĐ-ĐHCN",
+            "notes": "Xây dựng chương trình đào tạo"
+        },
+        {
+            "title": "Kỹ sư kỹ thuật năng lượng",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "326A/QĐ-ĐHCN, ngày 14/4/2023",
+            "certifying_authority": "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+            "implementation_document_id": "876/QĐ-ĐHCN",
+            "notes": "Cập nhật chương trình đào tạo"
+        },
+        {
+            "title": "Cử nhân ngành Vật lý kỹ thuật",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "326A/QĐ-ĐHCN, ngày 14/4/2023",
+            "certifying_authority": "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+            "implementation_document_id": "874/QĐ-ĐHCN",
+            "notes": "Cập nhật chương trình đào tạo"
+        },
+        {
+            "title": "Thạc sĩ chuyên ngành Vật liệu và Linh kiện nano",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "1076/QĐ-ĐHCN, ngày 27/10/2023",
+            "certifying_authority": "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+            "implementation_document_id": "1947/QĐ-ĐHCN",
+            "notes": "Cập nhật chương trình đào tạo"
+        },
+        {
+            "title": "Tiến sĩ Vật liệu và Linh kiện nano",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "1076/QĐ-ĐHCN, ngày 27/10/2023",
+            "certifying_authority": "Trường Đại học Công nghệ - ĐHQG Hà Nội",
+            "implementation_document_id": "1957/QĐ-ĐHCN",
+            "notes": "Cập nhật chương trình đào tạo"
+        }
+    ]
+}

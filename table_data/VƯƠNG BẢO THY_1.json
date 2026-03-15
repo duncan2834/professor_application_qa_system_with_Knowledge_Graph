@@ -1,0 +1,994 @@
+{
+    "papers": [
+        {
+            "title": "Nghiên cứu thu nhận chế phẩm enzym từ gan và tụy cá Tra (Pangasius) bằng phương pháp kết tủa",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa Học và Công Nghệ, Bộ Khoa Học và Công Nghệ, ISSN: 0866-708X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 52 (5C), trang 133-138",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nghiên cứu thu nhận enzym lipase từ gan tụy cá Tra (Pangasius) bằng phương pháp lọc màng membrane",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa Học và Công Nghệ, Bộ Khoa Học và Công Nghệ, ISSN: 0866-708X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 51 (5C), trang 21-25",
+            "published_date": "2013"
+        },
+        {
+            "title": "Thông số động học và tính chất của protease tinh sạch từ gan tụy cá Tra (Pangasius)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và phát triển nông thôn, Bộ Nông nghiệp và phát triển nông thôn, ISSN: 1859-4581",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 23 (1), trang 60-63",
+            "published_date": "2013"
+        },
+        {
+            "title": "Tính chất động học và đặc điểm thủy phân của lipase tinh sạch từ gan tụy cá Tra (Pangasius)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phát triển Khoa Học và Công Nghệ, NXB Đại Học Quốc Gia TP.HCM, ISSN: 1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, K4, trang 85-91",
+            "published_date": "2013"
+        },
+        {
+            "title": "Nghiên cứu tách lấy pancreatin từ gan tụy cá Tra (Pangasius)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa Lý và Sinh học, Hội Khoa học Kỹ thuật Phân tích Hoá lý và Sinh học VN, ISSN: 0868-3224",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 18 (4), trang 178-186",
+            "published_date": "2013"
+        },
+        {
+            "title": "Preparation, purification and properties of Lipase from hepatopancreas of Tra (Pangasius) catfish",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phát triển Khoa Học và Công Nghệ, NXB Đại Học Quốc Gia TP.HCM, ISSN: 1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14, K3, trang 5-11",
+            "published_date": "2011"
+        },
+        {
+            "title": "Properties of digestive enzymes from visceral organs of Tra (Pangasius) catfish",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phát triển Khoa Học và Công Nghệ, NXB Đại Học Quốc Gia TP.HCM, ISSN: 1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14, K4, trang 34-43",
+            "published_date": "2011"
+        },
+        {
+            "title": "Purification and characterization of proteases from hepatopancreas of Tra(Pangasius hypophthalmus) catfish",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa Học và Công Nghệ, Bộ Khoa Học và Công Nghệ, ISSN: 0866-708X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 49, 5A, trang 290-297",
+            "published_date": "2011"
+        },
+        {
+            "title": "Study on antibacterial and antioxidant activity of extracts from hydroponic pennywort tubers (Centella asiatica (L.) Urban)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Life Science and Agriculture Research, ISSN(Print): 2833-2091, ISSN(Online): 2833-2105",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 3 (06), trang 497-502",
+            "published_date": "2024"
+        },
+        {
+            "title": "Protein from plants and algae: potential trends of replacing animal protein for public health",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Life Science and Agriculture Research, ISSN(Print): 2833-2091, ISSN(Online): 2833-2105",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 3 (06), trang 503-506",
+            "published_date": "2024"
+        },
+        {
+            "title": "Bioactive compounds and potential applications of Aloe vera (l.) in the food industry",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Ukrainian Food Journal, DOI: 10.24263/2304-974X-2023-12-4-6",
+            "journal_ranking": "ESCI, Scopus, IF 0.576, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 12 (4), trang 556-577",
+            "published_date": "2023"
+        },
+        {
+            "title": "Traditional Fermented Foods in Vietnamese Diet: A Potential Source of Probiotics",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nutritional & Food Science International Journal, ISSN 2474-767X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 12 (4), trang 001-0011",
+            "published_date": "2023"
+        },
+        {
+            "title": "Chemical profiles and biological activities of essential oil of Citrus hystrix DC. peels",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Korean Journal of Food Preservation, pISSN: 1738-7248, eISSN: 2287-7428",
+            "journal_ranking": "Scopus, IF 0.545, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 30 (3), trang 395-404",
+            "published_date": "2023"
+        },
+        {
+            "title": "Evaluation of the physical and biological properties of chitosan film combined with CHÚC (Citrus hystrix DC.) peel essential oil",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Acta Sci. Pol. Technol. Aliment. pISSN 1644-0730 eISSN 1898-9594",
+            "journal_ranking": "Scopus, IF 1.723, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 22(4), trang 455-465",
+            "published_date": "2023"
+        },
+        {
+            "title": "Determination of extracellular enzyme activities of Bacillus spp. Spores isolated from raw milk",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of current Microbiology and Applied Sciences (IJCMAS)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 11 (10), trang 78-84",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu hoạt tính sinh học của bột nha đam (Aloe vera) ứng dụng sản xuất dược mỹ phẩm và thực phẩm chức năng",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 13, trang 356-361",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng chế phẩm enzyme pectinase để nâng cao hiệu suất thu hồi dịch chanh dây (Passiflora edulis)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11, trang 424-429",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu quy trình chế biến sữa chua collagen bổ sung bột khoai lang tím (Solanum Andigenum)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11, trang 452-457",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu đa dạng hóa các sản phẩm trà túi lọc từ bột củ rau má thủy canh (Centella Asiatica (L.) Urban)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11, trang 486-491",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu quy trình chế biến bột gel nha đam (Aloe vera)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12, trang 396-402",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu hoạt tính sinh học bột củ rau má (Centella Asiatica (L.) Urban) thuỷ canh, định hướng ứng dụng sản xuất thực phẩm bảo vệ sức khoẻ",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12, trang 403-409",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của nhiệt độ và thời gian đến quá trình lên men trong sản xuất rượu vang khóm (Ananas Comosus L.)",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12, trang 410-415",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu công nghệ sản xuất nước uống sâm - collagen",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 3, trang 422-428",
+            "published_date": "2023"
+        },
+        {
+            "title": "Assessment of nutritional status - related factors among students at Cuu Long University, Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Preventive Medicine, ISSN: 0868 – 2836",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 33(8), trang 32 - 40",
+            "published_date": "2023"
+        },
+        {
+            "title": "Thực trạng kiến thức, thái độ, hành vi về an toàn thực phẩm của sinh viên Trường Đại học Cửu Long từ tháng 7/2022 - 12/2022",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kiểm nghiệm và An toàn thực phẩm P-ISSN: 2615-9252 E-ISSN: 2734-9152",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 6, Số 3, trang 304 - 312",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu tỷ lệ Klebsiella pneumoniae sinh AMPC beta-lactamase và gen mã hoá enzyme AMPC beta-lactamase",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2(524), trang 369-373",
+            "published_date": "2023"
+        },
+        {
+            "title": "The global harmonization of food safety regulations from perspectives in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 18 (2), trang 178-184",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu sản xuất trà thảo dược nhụy hoa nghệ tây (Crocus Sativus) và cỏ ngọt (Stevia Rebaudiana) đóng chai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 5, số 3, trang 352-357",
+            "published_date": "2022"
+        },
+        {
+            "title": "Antioxidant capacities of the extracts from Perilla frutescens L. leaves using pressurized liquid extraction and conventional techniques",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology, ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 20 (1), trang 73-80",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu sản xuất nước nha đam (Aloe vera) và hạt chia (Salvia hispanica) đóng chai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1, số 1, trang 360-366",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu yếu tố ảnh hưởng đến quá trình sản xuất trà thảo mộc tía tô - cỏ ngọt",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương, ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 2, số 1, trang 257-262",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu chế biến sản phẩm nước ép nghệ mật ong bổ sung hương liệu",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Đồng Tháp",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 33, trang 82-88",
+            "published_date": "2019"
+        },
+        {
+            "title": "Health benefits of traditional plant based foods in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"Health literacy in the revolution of the digital age\", Can Tho University Publishing, ISBN: 978-604-4984-04-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 388-395",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu hoạt tính kháng khuẩn và chống oxy hóa của dịch chiết xuất từ củ cây rau má thủy canh (Centella asiatica (L.) Urban)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"Health literacy in the revolution of the digital age\", Can Tho University Publishing, ISBN: 978-604-4984-04-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 543-550",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu hoạt tính kháng khuẩn của bột nha đam (Aloe vera)",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"Health literacy in the revolution of the digital age\", Can Tho University Publishing, ISBN: 978-604-4984-04-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 491-497",
+            "published_date": "2024"
+        },
+        {
+            "title": "Food poisoning - Case study",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"Health literacy in the revolution of the digital age\", Can Tho University Publishing, ISBN: 978-604-4984-04-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 473-481",
+            "published_date": "2024"
+        },
+        {
+            "title": "Subcritical water modified gelatin-fucoidan microspheres: in vitro degradation, drug absorption, and physical properties",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"Health literacy in the revolution of the digital age\", Can Tho University Publishing, ISBN: 978-604-4984-04-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 333-349",
+            "published_date": "2024"
+        },
+        {
+            "title": "Effects of Bacillus spp. And Pseudomonas spp. on human health and dairy products",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"Health literacy in the revolution of the digital age\", Can Tho University Publishing, ISBN: 978-604-4984-04-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 350-357",
+            "published_date": "2024"
+        },
+        {
+            "title": "Bioactive constituents and potential application of Aloe vera in the pharmaceutical and cosmetic industries",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"Health literacy in the revolution of the digital age\", Can Tho University Publishing, ISBN: 978-604-4984-04-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 412-420",
+            "published_date": "2024"
+        },
+        {
+            "title": "Co-design approach in public health nutrition Application for research of the vulnerable population in the Vietnamese Mekong Delta",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"Health literacy in the revolution of the digital age\", Can Tho University Publishing, ISBN: 978-604-4984-04-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 58-70",
+            "published_date": "2024"
+        },
+        {
+            "title": "Probiotic foods and health benefits: An overview",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"International cooperation between Indian and Vietnamese Universities on training medical human resourses in post-Covid-19 pandemic: Realities and Solutions\", Can Tho University Publishing, ISBN: 978-604-965-715-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 143-153",
+            "published_date": ""
+        },
+        {
+            "title": "Insight on cross-border higher education, research, technology transfer in the pharmaceutical and nutraceutical food sectors between India and Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"International cooperation between Indian and Vietnamese Universities on training medical human resourses in post-Covid-19 pandemic: Realities and Solutions\", Can Tho University Publishing, ISBN: 978-604-965-715-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 125-133",
+            "published_date": ""
+        },
+        {
+            "title": "Dietary recommendations to support for prevention of SARS-CoV-2 disease",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"International cooperation between Indian and Vietnamese Universities on training medical human resourses in post-Covid-19 pandemic: Realities and Solutions\", Can Tho University Publishing, ISBN: 978-604-965-715-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 326-335",
+            "published_date": "2024"
+        },
+        {
+            "title": "Antioxidant, antihypertensive, and anticancer activities of Pseuderanthemum palatiferum (Nees) Radlk. leaf extracts using pressurized liquids",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"International cooperation between Indian and Vietnamese Universities on training medical human resourses in post-Covid-19 pandemic: Realities and Solutions\", Can Tho University Publishing, ISBN: 978-604-965-715-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 154-169",
+            "published_date": ""
+        },
+        {
+            "title": "COVID-19: Global outlook in the healthy food sector",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of International scientific conference \"International cooperation between Indian and Vietnamese Universities on training medical human resourses in post-Covid-19 pandemic: Realities and Solutions\", Can Tho University Publishing, ISBN: 978-604-965-715-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 197-208",
+            "published_date": ""
+        },
+        {
+            "title": "Food safety issues in food production of animal origin from farm to plate",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceeding of the International Conference on Food safety and sanitation in the supply chain in the Mekong Delta. Can Tho University Publishing ISBN 978-604-965-415-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 263-269",
+            "published_date": "2020"
+        },
+        {
+            "title": "The trends and drivers effecting to food safety in developing countries",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding of the International Conference on Food safety and sanitation in the supply chain in the Mekong Delta. Can Tho University Publishing ISBN 978-604-965-415-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 71-77",
+            "published_date": "2020"
+        },
+        {
+            "title": "Food safety regulations based on real science",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding of the International Conference on Food safety and sanitation in the supply chain in the Mekong Delta. Can Tho University Publishing ISBN 978-604-965-415-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 234-240",
+            "published_date": "2020"
+        },
+        {
+            "title": "Study on the storage of strawberry by Aloe vera gel coating",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding of the International Conference on Food safety and sanitation in the supply chain in the Mekong Delta. Can Tho University Publishing ISBN 978-604-965-415-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 177-185",
+            "published_date": "2020"
+        },
+        {
+            "title": "Green synthesis of silver nanoparticles from aloe vera extract and their application in anti-bacteria chitosan film",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding of the International Conference on Food safety and sanitation in the supply chain in the Mekong Delta. Can Tho University Publishing ISBN 978-604-965-415-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu Hội thảo khoa học Quốc tế, trang 225-233",
+            "published_date": "2020"
+        },
+        {
+            "title": "Bệnh đái tháo đường mới khởi phát sau nhiễm COVID-19",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN: 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 33, trang 88-95",
+            "published_date": "2024"
+        },
+        {
+            "title": "Probiotics – Lợi khuẩn tốt cho sức khỏe",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN: 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 32, trang 23-34",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ảnh hưởng của một số yếu tố đến quá trình trích ly nhuỵ hoa nghệ tây (Crocus sativus) và cỏ ngọt (Stevia rebaudiana)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 23 (9), trang 58-68",
+            "published_date": "2021"
+        },
+        {
+            "title": "Covid-19: An toàn thực phẩm trong chuỗi cung ứng thực phẩm toàn cầu",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 22 (6), trang 26-36",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của loại nguyên liệu và điều kiện xử lý nha đam (Aloe vera) đến chất lượng nước nha đam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 22 (6), trang 55-62",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xây dựng hệ thống HACCP tại công ty sản xuất nước uống đóng chai Đại Học Cửu Long",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 21 (3), trang 65-72",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tại sao cần hòa hợp toàn cầu các qui định về thực phẩm và phương pháp triển khai hoạt động",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 21 (3), trang 56-61",
+            "published_date": "2021"
+        },
+        {
+            "title": "Công nghệ sản xuất nước uống bổ sung vi chất dinh dưỡng tại Đại học Cửu Long",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN: 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 18 trang 51-57",
+            "published_date": "2020"
+        },
+        {
+            "title": "Công nghệ sản xuất nước uống đóng chai Đại học Cửu Long",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN: 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 17 trang 36-42",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nghiên cứu tách đường khử của lòng trắng trứng gia cầm bằng phương pháp sinh học để nâng cao chất lượng bột trứng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN: 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 15, trang 55-61",
+            "published_date": "2019"
+        },
+        {
+            "title": "Xác định hoạt lực của enzyme lipolitic trong bột lòng trắng trứng đà điểu nuôi ở tỉnh Quảng Nam-Đà Nẵng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN: 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 15, trang 20-26",
+            "published_date": "2019"
+        },
+        {
+            "title": "Thanh trùng sốt cà chua",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cửu Long, ISSN: 2354-1423",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 15, trang 3-9",
+            "published_date": "2019"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu sản xuất viên puree chanh dây (Passiflora edulis) bổ sung vi chất dinh dưỡng cấp đông",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Institutional level",
+            "period": "10/2023-6/2024",
+            "acceptance_date": "31/5/2024",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu qui trình sản xuất bột gel nha đam (Aloe vera) ứng dụng trong mỹ phẩm",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Institutional level",
+            "period": "10/2023-6/2024",
+            "acceptance_date": "31/5/2024",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu hoạt tính sinh học saponin từ củ rau má thủy canh (Centella asiatica (L.) urban) ứng dụng sản xuất thực phâm bảo vệ sức khoẻ",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Institutional level",
+            "period": "10/2023-6/2024",
+            "acceptance_date": "31/5/2024",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu tỷ lệ Klebsiella pneumoniae sinh AmpC beta-lactamase và gen mã hoá enzym AmpC beta-lactamase",
+            "role": "Participant/Member",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Institutional level",
+            "period": "3/2022-2/2023",
+            "acceptance_date": "06/01/2023",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu công nghệ sản xuất nước sâm-collagen ĐHCL",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Institutional level",
+            "period": "10/2021-6/2022",
+            "acceptance_date": "21/03/2023",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu sản xuất trà thảo dược nhuy hoa nghệ tây (Crocus sativus) và cỏ ngọt (Stevia rebaudiana) đóng chai",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Institutional level",
+            "period": "12/2020-8/2021",
+            "acceptance_date": "16/09/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu sản xuất nước nha đam (Aloe vera) đóng chai",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Institutional level",
+            "period": "12/2020-8/2021",
+            "acceptance_date": "16/09/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu hệ enyme tiêu hóa cá hô (Catlocarpio siamensis)",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Institutional level",
+            "period": "9/2016-5/2017",
+            "acceptance_date": "28/12/2017",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Công nghệ enzyme và ứng dụng trong sản xuất thực phẩm",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 25 đến trang 167",
+            "verification_document_id": "Quyết định Số 1694/QĐ-ĐHCL ngày 26/6/2024"
+        },
+        {
+            "title": "Phụ gia thực phẩm",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 20 đến trang 135",
+            "verification_document_id": "Quyết định Số 1693/QĐ-ĐHCL ngày 26/6/2024"
+        },
+        {
+            "title": "Hóa phân tích",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 43 đến trang 168",
+            "verification_document_id": "Quyết định Số 1525/QĐ-ĐHCL ngày 13/6/2024"
+        },
+        {
+            "title": "Hóa vô cơ",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 30 đến trang 177",
+            "verification_document_id": "Quyết định Số 1474/QĐ-ĐHCL ngày 04/6/2024"
+        },
+        {
+            "title": "Hóa hữu cơ",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 44 đến trang 152",
+            "verification_document_id": "Quyết định Số 1463/QĐ-ĐHCL ngày 03/6/2024"
+        },
+        {
+            "title": "Kiểm nghiệm đông dược và thực phẩm chức năng",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 54 đến trang 179",
+            "verification_document_id": "Quyết định Số 2833/QĐ-ĐHCL ngày 27/12/2023"
+        },
+        {
+            "title": "Kiểm nghiệm thực phẩm",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 28 đến trang 214",
+            "verification_document_id": "Quyết định Số 2821/QĐ-ĐHCL ngày 26/12/2023"
+        },
+        {
+            "title": "Dinh dưỡng Tiết chế",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2023",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 1-23, từ trang 175 đến trang 274",
+            "verification_document_id": "Quyết định Số 2570/QĐ-ĐHCL ngày 27/11/2023"
+        },
+        {
+            "title": "Vi sinh (Tập 2)",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 24 đến trang 131",
+            "verification_document_id": "Quyết định Số 1974/QĐ-ĐHCL ngày 06/10/2023"
+        },
+        {
+            "title": "Vi sinh (Tập 1)",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 1 đến trang 63",
+            "verification_document_id": "Quyết định Số 1705/QĐ-ĐHCL ngày 14/9/2022"
+        },
+        {
+            "title": "Hóa sinh (Tập 2)",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 32 đến trang 124",
+            "verification_document_id": "Quyết định Số 1701/QĐ-ĐHCL ngày 13/9/2022"
+        },
+        {
+            "title": "An toàn thực phẩm",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2022",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 19 đến trang 110",
+            "verification_document_id": "Quyết định Số 1548/QĐ-ĐHCL ngày 22/8/2022"
+        },
+        {
+            "title": "Hóa sinh (Tập 1)",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 20 đến trang 137",
+            "verification_document_id": "Quyết định Số 681/QĐ-ĐHCL ngày 09/5/2022"
+        },
+        {
+            "title": "Thực phẩm chức năng",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 14 đến trang 103",
+            "verification_document_id": "Quyết định Số 558/QĐ-ĐHCL ngày 07/4/2022"
+        },
+        {
+            "title": "Dinh dưỡng",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2021",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 9 đến trang 131",
+            "verification_document_id": "Quyết định Số 1025/QĐ-ĐHCL ngày 01/11/2021"
+        },
+        {
+            "title": "Anh văn chuyên ngành Công nghệ Thực phẩm (Tập 2)",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2021",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 1 đến trang 62",
+            "verification_document_id": "Quyết định Số 694/QĐ-ĐHCL ngày 11/8/2021"
+        },
+        {
+            "title": "Anh văn chuyên ngành Công nghệ Thực phẩm (Tập 1)",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2021",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 9 đến trang 86",
+            "verification_document_id": "Quyết định Số 576/QĐ-ĐHCL ngày 24/6/2021"
+        },
+        {
+            "title": "Laboratory Microbiology",
+            "type": "Monograph",
+            "publisher": "LAP Lambert Academic Publishing",
+            "publish_year": "2023",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 7 đến trang 141",
+            "verification_document_id": "Xác nhận Số 109/GXN-ĐHCL ngày 20/10/2023"
+        },
+        {
+            "title": "A textbook of nutrition for Vietnamese students",
+            "type": "Monograph",
+            "publisher": "LAP Lambert Academic Publishing",
+            "publish_year": "2021",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 5 đến trang 133",
+            "verification_document_id": "Xác nhận Số 20/GXN-ĐHCL ngày 24/02/2021"
+        },
+        {
+            "title": "English for nutrition and food science: A guide for Vietnamese students",
+            "type": "Reference Book",
+            "publisher": "Latvia, Lambert Academic Publishing",
+            "publish_year": "2020",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 16 đến trang 84",
+            "verification_document_id": "Xác nhận Số 18/GXN-ĐHCL ngày 24/2/2021"
+        },
+        {
+            "title": "English for techno-food processing: A practical guide for Vietnamese students",
+            "type": "Reference Book",
+            "publisher": "Latvia, Lambert Academic Publishing",
+            "publish_year": "2020",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 7 đến trang 67",
+            "verification_document_id": "Xác nhận Số 22/GXN-ĐHCL ngày 24/2/2021"
+        },
+        {
+            "title": "An English-Vietnamese textbook for science of nutrition: A healthy food guide for students",
+            "type": "Monograph",
+            "publisher": "Latvia, Lambert Academic Publishing",
+            "publish_year": "2020",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 21 đến trang 273",
+            "verification_document_id": "Xác nhận Số 19/GXN-ĐHCL ngày 24/02/2021"
+        },
+        {
+            "title": "Chapter Seven: Hygiene: risks and controls; Chapter Nine: Dangerous products - or are they?",
+            "type": "Reference Book",
+            "publisher": "Ethics Press Publishing",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 223 đến trang 225, trang 254-259, trang 264-265",
+            "verification_document_id": "Xác nhận Số 387/GXN-ĐHCL ngày 24/02/2024"
+        },
+        {
+            "title": "Consumer perception of food safety in Asia and Pacific region",
+            "type": "Monograph",
+            "publisher": "NXB Springer",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 3 đến trang 26",
+            "verification_document_id": "Chấp nhận đăng Dự kiến xuất bản cuối năm 2024"
+        },
+        {
+            "title": "Insight on the health and nutritional aspects of traditional and ethnic plant-based foods in Vietnam",
+            "type": "Monograph",
+            "publisher": "NXB IGI Global, USA",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 5 đến trang 18",
+            "verification_document_id": "Chấp nhận đăng Dự kiến xuất bản cuối năm 2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo trình độ Tiến sĩ ngành Công nghệ thực phẩm",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số: 909/QĐ-ĐHCL ngày 24/5/2023",
+            "certifying_authority": "Trường Đại học Cửu Long",
+            "implementation_document_id": "Quyết định số: 2491/QĐ-ĐHCL ngày 16/11/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ Thạc sĩ ngành Công nghệ thực phẩm (định hướng nghiên cứu)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số: 1595/QĐ-ĐHCL ngày 25/8/2022",
+            "certifying_authority": "Trường Đại học Cửu Long",
+            "implementation_document_id": "Quyết định số: 682/QĐ-ĐHCL ngày 24/4/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ đại học ngành Điều dưỡng chuyên ngành Dinh dưỡng",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số: 1093/QĐ-ĐHCL ngày 24/10/2020",
+            "certifying_authority": "Trường Đại học Cửu Long",
+            "implementation_document_id": "Quyết định số: 1005/QĐ-ĐHCL ngày 20/10/2021",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ Thạc sĩ ngành Công nghệ thực phẩm",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số: 318/QĐ-DCL ngày 24/4/2019",
+            "certifying_authority": "Bộ Giáo dục và Đào tạo",
+            "implementation_document_id": "Quyết định số: 4686/QĐ-BGDĐT ngày 5/12/2019",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ đại học ngành Kỹ thuật xét nghiệm y học chuyên ngành Kiểm nghiệm thuốc, mỹ phẩm, thực phẩm",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số: 142/QĐ-ĐHCL ngày 6/3/2021",
+            "certifying_authority": "Trường Đại học Cửu Long",
+            "implementation_document_id": "Quyết định số: 1005/QĐ-ĐHCL ngày 20/10/2021",
+            "notes": ""
+        }
+    ]
+}

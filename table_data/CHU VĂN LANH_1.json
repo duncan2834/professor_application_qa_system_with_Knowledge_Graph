@@ -1,0 +1,1319 @@
+{
+    "papers": [
+        {
+            "title": "Mollow spectrum influenced by collisional fluctuations described by a stochastic model of collisions",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3, Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "48, 45, 1-13",
+            "published_date": "12/2015"
+        },
+        {
+            "title": "Dispersion engineering in soft glass photonic crystal fibers infiltrated with liquids",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proc. of SPIE: Optical Fibers and Their Applications/ ISSN: 1996-756X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 0.26",
+            "citation_count": 3,
+            "volume_issue_pages": "9816, 98160N, 1-6",
+            "published_date": "12/2015"
+        },
+        {
+            "title": "Temperature sensitivity of photonic crystal fibers infiltrated with ethanol solutions",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proc. of SPIE: Optical Fibers and Their Applications/ ISSN: 1996-756X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 0.26",
+            "citation_count": 3,
+            "volume_issue_pages": "9816, 98160O, 1-6",
+            "published_date": "12/2015"
+        },
+        {
+            "title": "Stretching Process of Plasmid DNA Molecule in Optical Tweezers using CW",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Advances in Biology/ISSN: 2347-6893",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 8,
+            "volume_issue_pages": "1, 1456-1461",
+            "published_date": "09/2015"
+        },
+        {
+            "title": "Dynamic of Polystyrene Microsphere Linking to DNA Molecule under Optical Tweezer",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Physical Science and Application/ ISSN: 2159-5348",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 3,
+            "volume_issue_pages": "4, 5, 33-338",
+            "published_date": "05/2014"
+        },
+        {
+            "title": "Trapping capability of microlens 2D array by acoustic modulation",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Advances in Physics/ISSN: 2347-3487",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 2,
+            "volume_issue_pages": "6, 2, 1072-1078",
+            "published_date": "11/2014"
+        },
+        {
+            "title": "Competition of Forces on Trapped Capabilityand Stability of DNA molecules in Optical Tweezer",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Engineering and Innovative Technology/ISSN: 2277-3754",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 3,
+            "volume_issue_pages": "3, 10, 159-163",
+            "published_date": "04/2014"
+        },
+        {
+            "title": "Recorrection Stretch Function of the Spring-Like Elastic DNA Molecules",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Engineering and Innovative Technology/ISSN: 2277-3754",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 8,
+            "volume_issue_pages": "3, 10, 1-4",
+            "published_date": "04/2014"
+        },
+        {
+            "title": "The Stokes laser in the different pump regimes",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Computational methods in science and technology/ ISSN: 2353-9453",
+            "journal_ranking": "Hệ thống CSDL quốc tế khác",
+            "citation_count": 2,
+            "volume_issue_pages": "Special Issue, 101-105",
+            "published_date": "09/2010"
+        },
+        {
+            "title": "An exactly soluble equation for the stationnary probability distribution in a nonlinear system under the influence of two-telegraph noise: application to the noise reduction in a Raman ring laser",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 26,
+            "volume_issue_pages": "1, 73-80",
+            "published_date": "07/2016"
+        },
+        {
+            "title": "Influence of the air hole's diameter on optical properties of BK7-glass photonic crystal fiber",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "44, 99-104",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "Ultrasonic-controlled micro-lens arrays in germanium for optical tweezers to sieve the micro-particles",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 5,
+            "volume_issue_pages": "25, 2, 157-163",
+            "published_date": "09/2015"
+        },
+        {
+            "title": "Lực đàn hồi của phân tử AND",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 30,
+            "volume_issue_pages": "109-112",
+            "published_date": "04/2014"
+        },
+        {
+            "title": "Ảnh hưởng của tỷ số chiết suất lên phân bố lực trong kìm quang học tuyến tính",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự, số/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 30,
+            "volume_issue_pages": "101-108",
+            "published_date": "04/2014"
+        },
+        {
+            "title": "Optimization of Trio-cavity Raman Laser Pumped by Pulsed Gaussian Beam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 22,
+            "volume_issue_pages": "4, 343-347",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Khảo sát tương tác của xung dạng Secant Hyperbole có chirp trong môi trường hấp thụ bão hòa",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 20,
+            "volume_issue_pages": "68-72",
+            "published_date": "08/2012"
+        },
+        {
+            "title": "Multi-trips pulse compression by the system of nonlinear coupler and optical amplification fiber",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 18,
+            "volume_issue_pages": "97-103",
+            "published_date": "04/2012"
+        },
+        {
+            "title": "Optical Pulse Self-compressor Combined the Nonlinear Coupler with Backward Raman Fiber Amplifier",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 22,
+            "volume_issue_pages": "3, 254-262",
+            "published_date": "09/2012"
+        },
+        {
+            "title": "Chuyển bước sóng bằng hiệu ứng trộn bốn sóng phân bố Gauss trong khuếch đại quang",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy and Applications VI/ ISSN: 1859 - 4271",
+            "journal_ranking": "",
+            "citation_count": 766,
+            "volume_issue_pages": "773",
+            "published_date": "09/2010"
+        },
+        {
+            "title": "Influence of coherent length of Gaussian beam on optical force in Radom medium",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 7,
+            "volume_issue_pages": "62-66",
+            "published_date": "06/2010"
+        },
+        {
+            "title": "Spacial distribution of the laser intensity and the force acting on dielectric nano particle in the 2D optical trap using counter propagating pulsed laser beams",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy and Applications VI/ ISSN 1859 - 4271",
+            "journal_ranking": "",
+            "citation_count": 296,
+            "volume_issue_pages": "302",
+            "published_date": "09/2010"
+        },
+        {
+            "title": "Photoelectron Spectra Induced by Broad-Band Chaotic Light from the double Fano Continuum",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the 35th national conference on theoretical physics, Ho Chi Minh city",
+            "journal_ranking": "",
+            "citation_count": 35,
+            "volume_issue_pages": "42-49",
+            "published_date": "10/2010"
+        },
+        {
+            "title": "Distributuion of the Laser Intensity and the Force acting on Dielectric Nano-Particle in the 3D-Optical Trap using Counter-propagating Pulsed Laser Beams",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of the 35th national conference on theoretical physics, Ho Chi Minh city",
+            "journal_ranking": "",
+            "citation_count": 35,
+            "volume_issue_pages": "243-249",
+            "published_date": "10/2010"
+        },
+        {
+            "title": "Reduction Thermo-optic Nonlinearity in the Raman laser generating Stokes and anti - Stokes waves pumped by CW Gaussian beam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "18, 4, 250-256",
+            "published_date": "12/2008"
+        },
+        {
+            "title": "Nonlinear Characteristics of the Pulse-pumped Anti-Stokes laser",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "18, 2, 119 - 128",
+            "published_date": "06/2008"
+        },
+        {
+            "title": "The Frequency Pulling in Pulsed Anti-Stokes Raman Laser",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 19,
+            "volume_issue_pages": "3, 176-180",
+            "published_date": "09/2009"
+        },
+        {
+            "title": "Competition between Stokes and anti-Stokes waves in Raman Fiber laser",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 22,
+            "volume_issue_pages": "58-63",
+            "published_date": "03/2008"
+        },
+        {
+            "title": "Tạo laser ở vùng hồng ngoại trung bằng máy phát thông số quang học",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 23,
+            "volume_issue_pages": "94-101",
+            "published_date": "06/2008"
+        },
+        {
+            "title": "Competition between Stokes and anti-Stokes waves in CW-Raman Fiber laser",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "17, 4, 227-233",
+            "published_date": "12/2007"
+        },
+        {
+            "title": "Influence of Designing Parameters on Generated - energy Efficiency of the Stokes Laser",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "2, 70-76",
+            "published_date": "06/2007"
+        },
+        {
+            "title": "Pulsing Process of Raman Waves in Pulse-pumped Raman Fiber Laser with Trio-cavity",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "3, 150-157",
+            "published_date": "09/2007"
+        },
+        {
+            "title": "Hiệu suất lượng tử trong laser Raman quang sợi cộng hưởng bội ba đơn xung",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 19,
+            "volume_issue_pages": "76-83",
+            "published_date": "06/2007"
+        },
+        {
+            "title": "Tối ưu các tham số chuẩn hoá cho laser Stokes",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 18,
+            "volume_issue_pages": "90-95",
+            "published_date": "03/2007"
+        },
+        {
+            "title": "The Stokes laser in the different pump powers",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy and Applications/ ISSN: 1859 - 4271",
+            "journal_ranking": "",
+            "citation_count": 356,
+            "volume_issue_pages": "360",
+            "published_date": "08/2007"
+        },
+        {
+            "title": "Tán xạ Raman cưỡng bức tiếp cận ba chiều",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học kỹ thuật và công nghệ quân sự/ ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 21,
+            "volume_issue_pages": "99-103",
+            "published_date": "12/2007"
+        },
+        {
+            "title": "Ultraflat-top supercontinuum generation in large-core Ge20Sb5Se75-based photonic crystal fiber with different lattice structures",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optics and laser technology/ ISSN: 0030-3992",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.6, Q1",
+            "citation_count": 189,
+            "volume_issue_pages": "113168",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Supercontinuum generation in a few-mode liquid-core fiber",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Physica D: Nonlinear Phenomena/ISSN: 1872-8022",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.7, Q1",
+            "citation_count": 476,
+            "volume_issue_pages": "134633",
+            "published_date": "03/2025"
+        },
+        {
+            "title": "All normal dispersion supercontinuum generation in a liquid-core fiber under noninstantaneous nonlinearity",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optics Express/ ISSN: 1094-4087",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.2, Q1",
+            "citation_count": 33,
+            "volume_issue_pages": "5, 10198",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "Modelling of octagonal Ga8Sb32S60-photonic crystal fiber for LWIR broadband supercontinuum generation",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3, Q2",
+            "citation_count": 57,
+            "volume_issue_pages": "33, 1-28",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Comparative study of supercontinuum spectra generated by As2S3 chalcogenide photonic crystal fibers with different lattice types",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3, Q2",
+            "citation_count": 57,
+            "volume_issue_pages": "86, 1-16",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Mid-infrared supercontinuum generation based on hexagonal core silica-photonic crystal fiber with low peak power",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical Fiber Technology/ ISSN: 1095-9912",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.6, Q2",
+            "citation_count": 91,
+            "volume_issue_pages": "104143",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Mid-infrared supercontinuum generation in As2S3-circular photonic crystal fibers pumped by 4.5 µm and 6 µm femtosecond lasers",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of the Optical Society of America B/ ISSN: 1520-8540",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.8, Q2",
+            "citation_count": 41,
+            "volume_issue_pages": "12, E1-E7",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "A new design of photonic crystal fibre based on Ge20Sb5Se75 with three zero dispersion wavelengths in mid-infrared range",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Nanotechnology, ISSN: 1741-8151",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 0.3, Q4",
+            "citation_count": 21,
+            "volume_issue_pages": "7/8/9/10/11/12, 769-776",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Design on-Chip GaAs Waveguide Towards Supercontinuum Generation",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Advanced Technologies for Communications, ISSN: 979-8-3503-5398-3",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus",
+            "citation_count": 489,
+            "volume_issue_pages": "492",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Ultra-broadband mid-infrared supercontinuum generation in square lattice As2S3 chalcogenide photonic crystal fibers",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optik/ISSN: 1618-1336",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 3.1, Q2",
+            "citation_count": 319,
+            "volume_issue_pages": "172113",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "A new type of supercontinuum generation in hexagonal lattice C6H6-core PCF with broadband and low-power pump",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Modern Physics B/ ISSN: 1793-6578",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.6, Q3",
+            "citation_count": 4,
+            "volume_issue_pages": "38, 26, 2450353",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Chalcogenide Ge20Sb5Se75 photonic crystal fiber with seven air-hole rings for ultraflat mid-infrared supercontinuum generation",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Laser Physics/ ISSN: 1555-6611",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.2, Q3",
+            "citation_count": 34,
+            "volume_issue_pages": "10, 5403",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "Flat-top and broadband supercontinuum generation in CCl4-filled circular photonic crystal fiber",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Nonlinear Optical Physics & Materials/ ISSN: 1793-6624",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.9, Q3",
+            "citation_count": 8,
+            "volume_issue_pages": "33, 3, 2350042",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Optimization of dispersions in benzene-core square photonic crystal fibers for mid-infrared supercontinuum generation with very low peak power",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optik/ISSN: 1618-1336",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 3.1, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "304 171754",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Supercontinuum generation in all-normal dispersion regime of C7H8 - core photonic crystal fibers with different lattices",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Modern Physics Letters B/ ISSN: 1793-6640",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.8, Q3",
+            "citation_count": 1,
+            "volume_issue_pages": "38, 14, 2450112",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Broadband supercontinuum generation in different lattices of As3Se3 photonic crystal fibers with all normal dispersion and low peak power",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3, Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "56, 367, 1-23",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Circular lattice benzene-core PCFs with flat near-zero dispersion for the low-power broad-spectrum supercontinuum generation",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Physica Scripta/ ISSN: 1402-4896",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.6, Q3",
+            "citation_count": 3,
+            "volume_issue_pages": "99, 4, 045527",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Flattened and broadband mid-infrared supercontinuum generation in As2S3 photonic crystal fibers with a square air-hole lattice",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Indian Journal of Physics/ ISSN: 0974-9845",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.6, Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "98 4145-4153",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Design of large core As2S3 chalcogenide PCF pumped at all-normal and anomalous dispersion regimes for supercontinuum generation",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Modern Physics Letters B/ISSN: 1793-6640",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.8, Q3",
+            "citation_count": 3,
+            "volume_issue_pages": "38, 31, 2450326",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Broadband supercontinuum generation in hollow-core photonic crystal fibers infiltrated with chloroform",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Modern Physics Letters B/ISSN: 1793-6640",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.8, Q3",
+            "citation_count": 5,
+            "volume_issue_pages": "38, 3, 2350233",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "Broadband supercontinuum generation with low peak power in controllable C7H8-core photonic crystal fibers of characteristic quantities",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Indian Journal of Physics/ISSN: 0974-9845",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.6, Q3",
+            "citation_count": 4,
+            "volume_issue_pages": "98 1061-1071",
+            "published_date": "07/2024"
+        },
+        {
+            "title": "Simultaneous Optimization of Optical Characteristics of Square-Shaped Benzene-Core Photonic Crystal Fiber Based on Non-uniform Air Holes",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Majlesi Journal of Electrical Engineering/ ISSN: 1844-7600",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 0.23, Q4",
+            "citation_count": 1,
+            "volume_issue_pages": "18, 1, 241-251",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Design and analysis of the C6H6-filled circular photonic crystal fiber with ultra-flat dispersion for broadband supercontinuum generation with peak power of 130W and 250W",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Laser Physics Letters/ ISSN: 1612-202X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.4, Q3",
+            "citation_count": 1,
+            "volume_issue_pages": "21, 7, 5101",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Supercontinuum generation based on suspended core fiber infiltrated with butanol",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Optics/ ISSN: 0974-6900",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 1.6, Q3",
+            "citation_count": 25,
+            "volume_issue_pages": "52 2296-2305",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Supercontinuum spectra above 2700 nm in circular lattice photonic crystal fiber infiltrated chloroform with the low peak power",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Computational Electronics/ ISSN: 1572-8137",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: (2.2, Q3",
+            "citation_count": 7,
+            "volume_issue_pages": "22 1507-1521",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Comparison of supercontinuum spectral widths in CC14-core PCF with square and circular lattices in the claddings",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Laser Physics/ ISSN: 1555-6611",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.2, Q3",
+            "citation_count": 12,
+            "volume_issue_pages": "33, 5, 5102",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Supercontinuum generation in ultra flattened near zero dispersion PCF with C7H8 infiltration",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: (3.3, Q2",
+            "citation_count": 19,
+            "volume_issue_pages": "55, 93, 1-22",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Supercontinuum generation in C6H5NO2-core photonic crystal fibers with various air-hole size",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Modern Physics Letters B/ ISSN: 1793-6640",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.8, Q3",
+            "citation_count": 9,
+            "volume_issue_pages": "37, 22, 2350063",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Design and optimization of C6H5NO2-core photonic crystal fibers of broadband supercontinuum generation with low peak power",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Crystal Research and Technology/ ISSN: 1521-4079",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.5, Q3",
+            "citation_count": 4,
+            "volume_issue_pages": "58, 9, 2300085",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Broadband supercontinuum generation with low peak power in a circular lattice nitrobenzene-core photonic crystal fiber",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bulletin of the Lebedev Physics Institute/ISSN: 1934-838X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 0.6, Q4",
+            "citation_count": 2,
+            "volume_issue_pages": "50, 8, 318-331",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Broadband supercontinuum generation in a square lattice photonic crystal fiber with C6H6-core using low pump power",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The European Physical Journal D/ ISSN: 1434-6079",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.5, Q3",
+            "citation_count": 3,
+            "volume_issue_pages": "77, 90, 1-11",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Low peak power broadband supercontinuum spectra generated in a square lattice toluene-core photonic crystal fiber with different air hole diameters",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Laser Physics/ ISSN: 1555-6611",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.2, Q3",
+            "citation_count": 4,
+            "volume_issue_pages": "33, 9, 5102",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Supercontinuum generation in a square-lattice photonic crystal fiber using carbon disulfide infiltration",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optik/ISSN: 1618-1336",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 3.1, Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "286 171049",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Broadband supercontinuum generation in cascaded tapered liquid core fiber",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optics Communications/ ISSN: 1873-0310",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.2, Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "537 129441",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Supercontinuum generation in chalcogenide photonic crystal fiber infiltrated with liquid",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optical Materials/ ISSN: 1873-1252",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.8, Q2",
+            "citation_count": 27,
+            "volume_issue_pages": "137 113547",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Supercontinuum generation in highly birefringent fiber infiltrated with carbon disulfide",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optical Fiber Technology/ ISSN: 1095-9912",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.6, Q2",
+            "citation_count": 16,
+            "volume_issue_pages": "75 103151",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Optical properties of circular photonic crystal fibers filled with carbon tetrachloride",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science and Technology/ ISSN: 2815-5874",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 0.29, Q4",
+            "citation_count": 61,
+            "volume_issue_pages": "6, 984-999",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Comparison of supercontinuum generation spectral intensity in Benzene-core PCFs with different types of lattices in the claddings",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3, Q2",
+            "citation_count": 19,
+            "volume_issue_pages": "54, 840, 1-16",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Comparison of chromatic dispersion of circular and hexagonal photonic crystal fibers with chloroform-core",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Majlesi Journal of Electrical Engineering/ ISSN: 1844-7600",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 0.23, Q4",
+            "citation_count": 5,
+            "volume_issue_pages": "16, 3, 55-61",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "Optimization of optical properties of toluene-core photonic crystal fibers with circle lattice for supercontinuum generation",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Optics ISSN: 0974-6900",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 1.6, Q3",
+            "citation_count": 37,
+            "volume_issue_pages": "51 678-688",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Modelling of lead-bismuth gallate glass ultra-flatted normal dispersion photonic crystal fiber infiltrated with tetrachloroethylene for high coherence mid-infrared supercontinuum generation",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Laser Physics/ ISSN: 1555-6611",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.2, Q3",
+            "citation_count": 12,
+            "volume_issue_pages": "32, 5, 5102",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Comparison of supercontinuum spectrum generating by hollow core PCFs filled with nitrobenzene with different lattice types",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3, Q2",
+            "citation_count": 30,
+            "volume_issue_pages": "54, 300, 1-17",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Multi-octave supercontinuum generation in As2Se3 chalcogenide photonic crystal fiber",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Photonics and Nanostructures - Fundamentals and Applications/ ISSN: 1569-4429",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.7, Q2",
+            "citation_count": 26,
+            "volume_issue_pages": "48 100986",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Broadband laser-driven creation of entangled state for a nonlinear coupling coupler pumped in one mode",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "54, 42, 1-12",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Supercontinuum generation in benzene-filled hollow-core fibers",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optical Engineering/ ISSN: 1560-2303",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.1, Q3",
+            "citation_count": 25,
+            "volume_issue_pages": "60, 11, 116109",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Spectrum Broadening of Supercontinuum Generation by fill Styrene in core of Photonic Crystal Fibers",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Indian Journal of Pure & Applied Physics/ ISSN: 0975-1041",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 0.6, Q3",
+            "citation_count": 6,
+            "volume_issue_pages": "59, 7, 522-527",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "Measuring the refractive index of a methanol -water mixture according to the wavelength",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Photonics Letters of Poland/ ISSN: 2080-2242",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 0.5, Q4",
+            "citation_count": 3,
+            "volume_issue_pages": "13, 1, 10-12",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Analysis of dispersion characteristics of solid-core PCFs with different types of lattice in the claddings, infiltrated with ethanol",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Photonics Letters of Poland/ISSN: 2080-2242",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 0.5, Q4",
+            "citation_count": 18,
+            "volume_issue_pages": "12, 4, 106-108",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Supercontinuum generation in photonic crystal fibers infiltrated with nitrobenzene",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Laser Physics/ ISSN: 1555-6611",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.2, Q3",
+            "citation_count": 64,
+            "volume_issue_pages": "30, 3, 5105",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "Generation of entangled states by a nonlinear coupler pumped in one mode induced by broadband laser",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3, Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "52, 13, 1-12",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Generation of entangled states by a linear coupling coupler pumped in two modes induced by broadband laser",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optik/ISSN: 1618-1336",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 3.1, Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "208 164028",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "Optimization of optical properties of photonic crystal fiber infiltrated with chloroform for supercontinuum generation",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Laser Physics/ ISSN: 1555-6611",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.2, Q3",
+            "citation_count": 62,
+            "volume_issue_pages": "29, 7, 5107",
+            "published_date": "05/2019"
+        },
+        {
+            "title": "Supercontinuum generation in photonic crystal fibres with core filled with toluene",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Optics/ ISSN: 2040-8986",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2, Q2",
+            "citation_count": 84,
+            "volume_issue_pages": "19, 12, 5604",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Influence of temperature on dispersion properties of photonic crystal fibers infiltrated with water",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical and Quantum Electronics/ ISSN: 1572-817X",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3, Q2",
+            "citation_count": 29,
+            "volume_issue_pages": "49, 87, 1-12",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "Dispersion characteristics of a suspended-core optical fiber infiltrated with water",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Optics/ ISSN 2155-3165",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.7, Q2",
+            "citation_count": 25,
+            "volume_issue_pages": "56, 4, 1012-1019",
+            "published_date": "01/2017"
+        },
+        {
+            "title": "Dispersion engineering in nonlinear soft glass photonic crystal fibers infiltrated with liquids",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Optics/ ISSN 2155-3165",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.7, Q2",
+            "citation_count": 48,
+            "volume_issue_pages": "55, 19, 5033-5040",
+            "published_date": "06/2016"
+        },
+        {
+            "title": "Electromagnetically induced transparency for A-like systems with degenerate autoionizing levels and a broadband coupling laser",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optica Applicata/ ISSN 1899-7015",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 0.7, Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "XLVI, 1, 93-102",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Kerr nonlinear coupler and entanglement induced by broadband laser light",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Photonics Letters of Poland/ ISSN: 2080-2242",
+            "journal_ranking": "Tạp chí quốc tế uy tín - Scopus IF: 0.5, Q4",
+            "citation_count": 3,
+            "volume_issue_pages": "8, 3, 64-66",
+            "published_date": "09/2016"
+        },
+        {
+            "title": "Comparison of optical features in nitrobenzene-core photonic crystal fiber with hexagonal and square lattices in the claddings",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 35,
+            "volume_issue_pages": "1, 75-86",
+            "published_date": "03/2025"
+        },
+        {
+            "title": "Study on optical properties of hexagonal lattice photonic crystal fibers infiltrated with heavy water",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "",
+            "citation_count": 34,
+            "volume_issue_pages": "2, 179-191",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Structure optimization of large-solid-core photonic crystal fibers based on GeSbSe for optical applications",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "- ACI",
+            "citation_count": 33,
+            "volume_issue_pages": "4, 411-420",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Characteristics factors affecting supercontinuum generation process in As2S3 large-core PCFs for square, circular, and hexagonal lattices",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of CASEAN-8/ ISBN: 978-604-357-225-4",
+            "journal_ranking": "",
+            "citation_count": 563,
+            "volume_issue_pages": "570",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Comparison of optical properties of square lattice photonic crystal fibers with Ge20Sb5Se75/As2S3 chalcogenide glasses",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of CASEAN-8/ ISBN: 978-604-357-225-4",
+            "journal_ranking": "",
+            "citation_count": 463,
+            "volume_issue_pages": "470",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Optimization of optical properties of Ge20Sb5Se75-based photonic crystal fibers",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vinh University Journal of Science/ISSN: 1859-2228",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "51, 3A/2022, 12-21",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "Analysis of the effective mode area characteristics of square solid-core photonic crystal fibers with As2S3 substrate",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy & Applications XII/ ISSN: 978-604-357-120-2",
+            "journal_ranking": "",
+            "citation_count": 266,
+            "volume_issue_pages": "271",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Optimization of the optical properties of circular lattice As2Se3 photonic crystal fibers over a wide range of wavelengths",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science and Technology Development Journal/ ISSN:1859-0128",
+            "journal_ranking": "",
+            "citation_count": 6,
+            "volume_issue_pages": "25, 4, 2581-2593",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Comparison of effective mode area and confinement loss of chloroform-core photonic crystal fibers with circular and hexagonal lattices",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vinh University, Journal of Science/ISSN: 1859-2228",
+            "journal_ranking": "",
+            "citation_count": 51,
+            "volume_issue_pages": "3A/2022, 34-43",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Numerical study of linear optical properties of As2S3 glass PCF taking into account the difference in structural parameters",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy & Applications XII/ ISSN: 978-604-357-120-2",
+            "journal_ranking": "",
+            "citation_count": 305,
+            "volume_issue_pages": "312",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Study on dispersion characteristic of square solid-core photonic crystal fibers with As2S3",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vinh University, Journal of Science/ISSN: 1859-2228",
+            "journal_ranking": "",
+            "citation_count": 51,
+            "volume_issue_pages": "3A/2022, 44-51",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "Dispersion and nonlinearity properties of small solid-core photonic fibers with As2Se3 substrate",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hue University Journal of Science: Natural Science/ISSN: 2615-9678",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "130, 1D, 55-64",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Characteristic analysis of hexagonal silica-based photonic crystal fibers with different rings structures",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of CASEAN-7/ ISBN: 978-604-357-003-8",
+            "journal_ranking": "",
+            "citation_count": 309,
+            "volume_issue_pages": "316",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Comparison nonlinearity properties of large and small solid core photonic crystal fiber with As2Se3 substrate",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy & Applications XI/ISBN: 978-604-9988-20-2",
+            "journal_ranking": "",
+            "citation_count": 217,
+            "volume_issue_pages": "220",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Comparison of dispersion characteristics of hollow-core photonic crystal fibers filled with aromatic compounds",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hue University Journal of Science: Natural Science/ISSN: 2615-9678",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "130, 1D, 65-73",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Study on dispersion characteristics of large solid core photonic crystal fibers with As2Se3 substrate",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Optics, Photonics, Spectroscopy & Applications XI/ISBN: 978-604-9988-20-2",
+            "journal_ranking": "",
+            "citation_count": 221,
+            "volume_issue_pages": "224",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Numerical analysis of the characteristics of glass photonic crystal fibers infiltrated with alcoholic liquids",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "- ACI",
+            "citation_count": 4,
+            "volume_issue_pages": "30, 3, 209-220",
+            "published_date": "07/2020"
+        },
+        {
+            "title": "Analysis effective mode area of solid-core PCFs with hexagonal lattice infiltrated with methanol for optical fiber tecnology",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Applied and Engineering Physics - CAEP VI/ ISSN:978-604-9985-13-3",
+            "journal_ranking": "",
+            "citation_count": 283,
+            "volume_issue_pages": "287",
+            "published_date": "03/2020"
+        },
+        {
+            "title": "Dispersion of solid-core silica PCFS infiltrated with water and ethanol for supercontinuum generation",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Applied and Engineering Physics - CAEP VI/ ISSN:978-604-9985-13-3",
+            "journal_ranking": "",
+            "citation_count": 288,
+            "volume_issue_pages": "291",
+            "published_date": "03/2020"
+        },
+        {
+            "title": "The feature properties of photonic crystal fiber with hollow core filled Nitrobenzene",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "- ACI",
+            "citation_count": 3,
+            "volume_issue_pages": "30, 4, 331-344",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Generation of Maximally Entangled States by a Kerr-like Nonlinear Coupler Interacting with External Fields",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Communications in Physics/ ISSN: 2815-5947",
+            "journal_ranking": "- ACI",
+            "citation_count": 29,
+            "volume_issue_pages": "3, 223-240",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Optimization of characteristic parameters of photonic crystal fiber with core infiltrated by Carbon disulfide liquid for supercontinuum generation",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Applied and Engineering Physics - CAEP V/ ISSN: 978-604-913-232-2",
+            "journal_ranking": "",
+            "citation_count": 206,
+            "volume_issue_pages": "211",
+            "published_date": "03/2018"
+        },
+        {
+            "title": "Photonic crystal fiber with core infiltrated Carbon tetrachloride for nonlinear effects generation",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Applied and Engineering Physics - CAEP V/ ISSN: 978-604-913-232-2",
+            "journal_ranking": "",
+            "citation_count": 200,
+            "volume_issue_pages": "205",
+            "published_date": "03/2018"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu tính ổn định của bẫy quang học và ảnh hưởng của các tham số động học",
+            "role": "Principal Investigator",
+            "project_code": "B2010-27-83",
+            "management_level": "cấp Bộ",
+            "period": "01/1/2010 đến 01/12/2011",
+            "acceptance_date": "Ngày 03 tháng 4 năm 2012",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Khảo sát quá trình tán xạ Raman cưỡng bức trong không gian 3 chiều",
+            "role": "Principal Investigator",
+            "project_code": "T2006-02-03",
+            "management_level": "cấp Cơ sở",
+            "period": "01/1/2006 đến 01/12/2006",
+            "acceptance_date": "Ngày 04 tháng 12 năm 2006",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Tối ưu hoá các tham số chuẩn hoá cho laser Stokes",
+            "role": "Principal Investigator",
+            "project_code": "T2008-02-03",
+            "management_level": "cấp Cơ sở",
+            "period": "01/1/2008 đến 01/12/2008",
+            "acceptance_date": "Ngày 10 tháng 12 năm 2008",
+            "rating": "Tốt"
+        },
+        {
+            "title": "So sánh mối quan hệ giữa sóng Stokes và sóng đối Stokes trong laser Raman",
+            "role": "Principal Investigator",
+            "project_code": "T2009-02-01",
+            "management_level": "cấp Cơ sở",
+            "period": "01/1/2009 đến 01/12/2009",
+            "acceptance_date": "Ngày 14 tháng 12 năm 2009",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Tối ưu hóa độ tán sắc của PCF ứng dụng trong chế tạo cảm biến có độ nhạy cao",
+            "role": "Principal Investigator",
+            "project_code": "B2017-TDV-03",
+            "management_level": "cấp Bộ",
+            "period": "01/01/2017 đến 01/12/2018",
+            "acceptance_date": "Ngày 22 tháng 10 năm 2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu các đại lượng đặc trưng của PCF được thẩm thấu các chất lỏng khác nhau ứng dụng cho SCG",
+            "role": "Principal Investigator",
+            "project_code": "103.03-2020.03",
+            "management_level": "cấp Bộ",
+            "period": "01/01/2021 đến 01/01/2023",
+            "acceptance_date": "Ngày 04 tháng 4 năm 2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu thiết kế các PCF phi tuyến với các loại mạng khác nhau ứng dụng cho SCG",
+            "role": "Principal Investigator",
+            "project_code": "B2023-TDV-07",
+            "management_level": "cấp Bộ",
+            "period": "01/01/2023 đến 01/12/2024",
+            "acceptance_date": "Ngày 03 tháng 3 năm 2025",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình điện từ học",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Vinh",
+            "publish_year": "2014",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "81-124; 205-226; 299-342",
+            "verification_document_id": "Số 1031/QĐ-ĐHV, ngày 20/3/2025"
+        },
+        {
+            "title": "Cơ sở quang tử học",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc gia",
+            "publish_year": "2013",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "101-205",
+            "verification_document_id": "Số 661/QĐ-ĐHV, ngày 20/3/2025"
+        },
+        {
+            "title": "Quang học hiện đại",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc gia",
+            "publish_year": "2012",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "51-124",
+            "verification_document_id": "Số 661/QĐ-ĐHV, ngày 20/3/2025"
+        },
+        {
+            "title": "Nhập môn bẫy quang học",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc gia",
+            "publish_year": "2011",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "72-207",
+            "verification_document_id": "Số 752/QĐ-ĐHV, ngày 28/3/2025"
+        },
+        {
+            "title": "Thông tin quang",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Vinh",
+            "publish_year": "2024",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "73-82; 263-280",
+            "verification_document_id": "Số 1031/QĐ-ĐHV, ngày 20/3/2025"
+        },
+        {
+            "title": "Vật lý đại cương, 2 tập",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Vinh",
+            "publish_year": "2024",
+            "num_authors": 13,
+            "is_editor_in_chief": true,
+            "compiled_pages": "15-54; 147-196",
+            "verification_document_id": "Số 1031/QĐ-ĐHV, ngày 20/3/2025"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Nghiên cứu đổi mới nội dung, phương pháp giảng dạy và đánh giá khối kiến thức Vật lí học hiện đại theo tiếp cận CDIO",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Hợp đồng số 68/2018/KHCNT r-CB ngày 16 tháng 4 năm 2018",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "Biên bản họp Hội đồng đánh giá, nghiệm thu đề tài KH&CN trọng điểm cấp Trường, ngày 21/7/2019; QĐ số 2033/QĐ-ĐHV, ngày 10/9/2021 về Ban hành chương trình đào tạo đại học hệ chính quy tiếp cận CDIO theo hệ thống tín chỉ",
+            "notes": "Không"
+        },
+        {
+            "title": "Phát triển CTĐT trình độ ThS ngành QH theo tiếp cận CDIO",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Hợp đồng số 14/2023/KHCNT r-CS ngày 20 tháng 6 năm 2023",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "Biên bản họp Hội đồng đánh giá, nghiệm thu đề tài KH&CN trọng điểm cấp Trường, ngày 13/12/2024; QĐ số 3537/QĐ-ĐHV, ngày 22/12/2023 về Ban hành chương trình đào tạo đại học hệ chính quy tiếp cận CDIO theo hệ thống tín chỉ",
+            "notes": "Không"
+        },
+        {
+            "title": "Nghiên cứu đổi mới nội dung, phương pháp giảng dạy và đánh giá khối kiến thức Điện - Quang theo tiếp cận CDIO",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Hợp đồng số 71/2019/KHCNT r-CS ngày 19 tháng 7 năm 2019",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "Biên bản họp Hội đồng đánh giá, nghiệm thu đề tài KH&CN trọng điểm cấp Trường, ngày 25/6/2020; QĐ số 2033/QĐ-ĐHV, ngày 10/9/2021 về Ban hành chương trình đào tạo đại học hệ chính quy tiếp cận CDIO theo hệ thống tín chỉ",
+            "notes": "Không"
+        }
+    ]
+}

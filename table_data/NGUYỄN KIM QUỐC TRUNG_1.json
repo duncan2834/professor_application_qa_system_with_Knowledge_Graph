@@ -1,0 +1,475 @@
+{
+    "papers": [
+        {
+            "title": "Teaching and Learning of Professional Ethics in Accounting: A Study of a Vietnamese University.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo quốc tế - International Conference on Accounting, 2015; ISBN: 978-604-84-0781-0",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 4,
+            "volume_issue_pages": "1-5",
+            "published_date": "2015"
+        },
+        {
+            "title": "On Developing Model of Credit Risk Management Information System: Case Study from State-Owned Banks in Vietnam.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo quốc tế - Vietnam's Business and Economics Research Conference; ISBN: 978-049-66-9983",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "33-55",
+            "published_date": "2017"
+        },
+        {
+            "title": "Tác động của kiểm soát nội bộ đối với rủi ro tín dụng – Trường hợp tại ngân hàng thương mại cổ phần có vốn nhà nước ở Việt Nam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học; ISSN: 1859-3453",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "13(1), 99-114",
+            "published_date": "2018"
+        },
+        {
+            "title": "Chuỗi giá trị trong hoạt động của ngành ngân hàng Việt Nam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học Quốc gia – Liên kết chuỗi giá trị giữa ngân hàng, doanh nghiệp và trường đại học tại Việt Nam 2018",
+            "journal_ranking": "National Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "73-89",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nghiên cứu các nhân tố ảnh hưởng đến tính kịp thời của báo cáo tài chính.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "685 (Tháng 7) 11-15",
+            "published_date": "July, 2018"
+        },
+        {
+            "title": "Determinants of Non-performing loan in commercial banks: Evidence in Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "(01), 72-89",
+            "published_date": "2019"
+        },
+        {
+            "title": "The macro-factors affect securities market: case in Vietnam.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo quốc tế - 12th NEU-KKU Socio-economic & environmental issues in development at NEU (Vietnam); ISBN: 978-604-65-5031-0",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "1-10",
+            "published_date": "2020"
+        },
+        {
+            "title": "Environmental management accounting affects environmental costs - Case study in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo quốc tế - Hội thảo UEL-SEB 2024: Innovation & Sustainability: Impact on Economy & Business; ISBN: 978-604-479-598-0",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "845-863",
+            "published_date": "2024"
+        },
+        {
+            "title": "Factors affect consumers' online shopping behaviour via a mediator factor.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Economics and Business Research; ISSN online: 1756-9869",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 27,
+            "volume_issue_pages": "27(4), 693-711",
+            "published_date": "2024"
+        },
+        {
+            "title": "Drivers of Intention and Decision to Use E-banking Services in Ho Chi Minh City, Vietnam During the COVID-19 Pandemic.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of System and Management Sciences; E-ISSN:1818-0523",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "14(1), 141-158",
+            "published_date": "2024"
+        },
+        {
+            "title": "Corporate governance, corporate social responsibility and bank performance in Vietnam with mediators.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; Online ISSN: 2331-1975",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "11(1), 1-13",
+            "published_date": "2024"
+        },
+        {
+            "title": "Financial statements' reliability affects firms' performance: a case of Vietnam.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Eastern European and Central Asian Research; Online ISSN: 2328-8280",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "11(1), 143-155",
+            "published_date": "2024"
+        },
+        {
+            "title": "The effect of liquidity on firm's performance: Case of Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Eastern European and Central Asian Research; Online ISSN: 2328-8280",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "11(1), 176-187",
+            "published_date": "2024"
+        },
+        {
+            "title": "Does COVID-19 affect non-performing loans at commercial banks in Vietnam?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Procurement Management; ISSN online: 1753-8440",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "20(1); 33-46",
+            "published_date": "2024"
+        },
+        {
+            "title": "Các yếu tố tác động đến khả năng vỡ nợ của khách hàng cá nhân tại các ngân hàng thương mại nhà nước tại khu vực TP. Hồ Chí Minh.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo; ISSN: 0866-7120",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 33 (Tháng 11); 3-6",
+            "published_date": "November, 2023"
+        },
+        {
+            "title": "Nghiên cứu các yếu tố ảnh hưởng đến hành vi mua sắm trực tuyến của người tiêu dùng.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo; ISSN: 0866-7120",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 30 (Tháng 10); 45-48",
+            "published_date": "October, 2023"
+        },
+        {
+            "title": "Foreign ownership and national governance quality affect liquidity risk case in Vietnam.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; Online ISSN: 2331-1975",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "10(2), 1-17",
+            "published_date": "2023"
+        },
+        {
+            "title": "The influence of dividends on investment: evidence from Vietnamese listed firms.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Procurement Management; ISSN online: 1753-8440",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "18(1), 105-123",
+            "published_date": "2023"
+        },
+        {
+            "title": "Corporate social responsibility and Board of Directors' characteristics affect financial performance – Case in Vietnam.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "The International Conference on Accounting and Finance; ISBN: 978-604-84-6652-7",
+            "journal_ranking": "Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2023"
+        },
+        {
+            "title": "Factors affecting supply chain efficiency in commercial banks' operations - Case in Vietnam.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; Online ISSN: 2331-1975",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "10(1), 1-26",
+            "published_date": "2023"
+        },
+        {
+            "title": "Accounting information quality moderates the effect of dividends on investment decisions: Evidence in Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Economics & Finance; Online ISSN: 2332-2039",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "11(2), 1-13",
+            "published_date": "2023"
+        },
+        {
+            "title": "Does COVID-19 affect small and medium enterprises' capital structure in Vietnam?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Economics & Finance; Online ISSN: 2332-2039",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "11(1), 1-18",
+            "published_date": "2023"
+        },
+        {
+            "title": "Does National Governance Affect the Capital Structure of Listed Firms during the COVID-19 Pandemic?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Emerging Science Journal; ISSN: 2610-9182",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "7 (Special issue), 55-69",
+            "published_date": "2023"
+        },
+        {
+            "title": "Độ tin cậy của báo cáo tài chính tác động đến hiệu quả kinh doanh của các doanh nghiệp niêm yết.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính; ISSN: 2615-8973",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "813 (Tháng 11), 72-75",
+            "published_date": "November, 2023"
+        },
+        {
+            "title": "Factors of Value Chain Affect Bank Efficiency.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Emerging Science Journal; ISSN: 2610-9182",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "7(6), 2005-2021",
+            "published_date": "2023"
+        },
+        {
+            "title": "Các nhân tố ảnh hưởng đến chất lượng thông tin tín dụng - trường hợp các ngân hàng thương mại nhà nước tại Việt Nam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế; ISSN: 0866-7489",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "9(532), 13-22",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nhân tố ảnh hưởng đến cấu trúc kỳ hạn nợ của các doanh nghiệp xây dựng trên sàn chứng khoán Việt Nam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính; ISSN: 2615-8973",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "782 (Tháng 8), 62-69",
+            "published_date": "August, 2022"
+        },
+        {
+            "title": "Board of directors characteristics affect commercial banks' performance-evidence in Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; Online ISSN: 2331-1975",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "9(1), 1-34",
+            "published_date": "2022"
+        },
+        {
+            "title": "The fit of dividends on investment decisions in the Vietnam capital market.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Eastern European and Central Asian Research; ISSN online: 2328-8280",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "9(3), 486-499",
+            "published_date": "2022"
+        },
+        {
+            "title": "Determinants of debt maturity structure: Evidence in Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; Online ISSN: 2331-1975",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "9(1), 1-28",
+            "published_date": "2022"
+        },
+        {
+            "title": "Does leverage fit non-performing loans in the COVID-19 pandemic-evidence from the Vietnamese banking system.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; Online ISSN: 2331-1975",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "9(1), 1-18",
+            "published_date": "2022"
+        },
+        {
+            "title": "The Effect of Agency Problem and Internal Control on Credit Risk at Commercial Banks in Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Asian Business and Information Management; ISSN online: 1947-9646",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "13(1), 1-20",
+            "published_date": "2022"
+        },
+        {
+            "title": "Does Financial Leverage Fit Firm Performance During the COVID-19 Pandemic: Evidence From Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Asian Business and Information Management; ISSN online: 1947-9646",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "13(1), 1-20",
+            "published_date": "2022"
+        },
+        {
+            "title": "Corporate Social Responsibility and Bank's Performance under the Mediating Role of Customer Satisfaction and Bank Reputation.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Emerging Science Journal; ISSN: 2610-9182",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "6(6), 1409-1429",
+            "published_date": "2022"
+        },
+        {
+            "title": "Determinants of stock market modern development: Evidence from Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Eastern European and Central Asian Research; Online ISSN: 2328-8280",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "9(6), 951-964",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ảnh hưởng của các nhân tố thuộc chất lượng dịch vụ cho vay đến sự hài lòng của khách hàng DNNVV tại các ngân hàng thương mại nhà nước ở TP. Hồ Chí Minh.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo; ISSN: 0866-7120",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "30 (Tháng 10), 117-120",
+            "published_date": "October, 2021"
+        },
+        {
+            "title": "The relationship between internal control and credit risk – The case of commercial banks in Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; Online ISSN: 2331-1975",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 18,
+            "volume_issue_pages": "8(1), 1-17",
+            "published_date": "2021"
+        },
+        {
+            "title": "Determinants of bank performance in Vietnamese commercial banks: an application of the CAMELS model.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; Online ISSN: 2331-1975",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 30,
+            "volume_issue_pages": "8(1), 1-35",
+            "published_date": "2021"
+        },
+        {
+            "title": "Determinants of small and medium-sized enterprises performance: The evidence from Vietnam.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; Online ISSN: 2331-1975",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 20,
+            "volume_issue_pages": "8(1), 1-26",
+            "published_date": "2021"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Phòng ngừa rủi ro tín dụng ở các ngân hàng thương mại trên địa bàn Thành phố Hồ Chí Minh.",
+            "role": "",
+            "project_code": "CT-1211-35",
+            "management_level": "Trường",
+            "period": "2013",
+            "acceptance_date": "11/10/2013",
+            "rating": ""
+        },
+        {
+            "title": "Tổ chức và hoạt động của các TCTD phi ngân hàng: Thực trạng và giải pháp.",
+            "role": "",
+            "project_code": "DTNH.28/2013-Ngành",
+            "management_level": "Ngành",
+            "period": "2014",
+            "acceptance_date": "22/05/2015",
+            "rating": "Giỏi"
+        },
+        {
+            "title": "Tác động của độ tin cậy báo cáo tài chính đến hiệu quả kinh doanh của các doanh nghiệp niêm yết trên sở giao dịch chứng khoán Thành phố Hồ Chí Minh.",
+            "role": "Principal Investigator",
+            "project_code": "CS-08-23",
+            "management_level": "Trường",
+            "period": "2024",
+            "acceptance_date": "08/05/2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến hành vi mua căn hộ chung cư của khách hàng cá nhân tại thành phố Hồ Chí Minh và gợi ý những hàm ý chính sách liên quan.",
+            "role": "",
+            "project_code": "10/2022/HĐ-KHCNT-VƯ",
+            "management_level": "Thành phố (Tương đương cấp Bộ)",
+            "period": "2023",
+            "acceptance_date": "",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Các yếu tố thuộc đặc điểm hội động quản trị tác động đến hiệu quả kinh doanh của các ngân hàng thương mại niêm yết tại Việt Nam.",
+            "role": "Principal Investigator",
+            "project_code": "CS-12-22",
+            "management_level": "Trường",
+            "period": "2022",
+            "acceptance_date": "17/08/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Hiệu quả hoạt động và Tăng trưởng kinh tế - Nghiên cứu thực nghiệm các doanh nghiệp vừa và nhỏ Thành phố Hồ Chí Minh.",
+            "role": "",
+            "project_code": "20/2020/HĐ-KHCNT-VƯ",
+            "management_level": "Thành phố (Tương đương cấp Bộ)",
+            "period": "2021",
+            "acceptance_date": "30/12/2021",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Marketing dịch vụ tài chính",
+            "type": "Reference Book",
+            "publisher": "NXB Kinh tế Tp.HCM",
+            "publish_year": "2015",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 2 (27-48). Chương 14 (313-337).",
+            "verification_document_id": "Giấy Xác nhận mục đích sử dụng sách phục vụ đào tạo ngày 22/08/2022."
+        },
+        {
+            "title": "Kiểm soát nội bộ",
+            "type": "Textbook",
+            "publisher": "NXB Tài Chính",
+            "publish_year": "2024",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1 (3-41) Chương 3 (79–137) Chương 4 (141–178) Chương 5 (179-219)",
+            "verification_document_id": "Giấy Xác nhận mục đích sử dụng sách ngày 20/06/2024."
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

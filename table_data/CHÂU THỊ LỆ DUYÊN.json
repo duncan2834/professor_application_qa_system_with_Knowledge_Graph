@@ -1,0 +1,553 @@
+{
+    "papers": [
+        {
+            "title": "Human Resource for Development of Tourism Business in Can Tho",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Economic Development ISSN 1859-1116",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "155(16-17)",
+            "published_date": "7/2007"
+        },
+        {
+            "title": "Trách nhiệm xã hội đối với nguồn nhân lực của doanh nghiệp nhỏ và vừa tại TP. Cần Thơ.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo khoa học về Quản trị Kinh doanh (ComB2012) ISBN 978-6044-84-1045-2",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "(381-396)",
+            "published_date": "8/2012"
+        },
+        {
+            "title": "Thực trạng nhận thức đạo đức kinh doanh của sinh viên chuyên ngành kinh tế tại khoa Kinh tế & Quản trị kinh doanh trường Đại học Cần Thơ",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học trường Đại học Cần Thơ ISSN 1859-2333, e-ISSN 2815-5599",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "21a(190-197)",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Những nhân tố thúc đẩy việc thực hiện trách nhiệm xã hội của các doanh nghiệp nhỏ và vừa ở thành phố Cần Thơ.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học trường Đại học Cần Thơ ISSN 1859-2333, e-ISSN 2815-5599",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "25(9-16)",
+            "published_date": "3/2013"
+        },
+        {
+            "title": "Nhận thức và mức độ thực hiện trách nhiệm xã hội của doanh nghiệp - Trường hợp các doanh nghiệp tại Tp Cần Thơ.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "HT Tăng trưởng xanh trong thời kỳ toàn cầu hóa ISBN 978-604-922-020-3",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "1(312-331)",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Nghiên cứu mối quan hệ giữa Trách nhiệm xã hội, Lợi ích kinh doanh và Hiệu quả tài chính của doanh nghiệp khu vực thành phố Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học trường Đại học Cần Thơ ISSN 1859-2333, e-ISSN 2815-5599",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "32(7-18)",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "Mối quan hệ giữa trách nhiệm xã hội, lãnh đạo và hiệu quả tài chính: trường hợp doanh nghiệp khu vực thành phố Cần Thơ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học trường Đại học Cần Thơ ISSN 1859-2333, e-ISSN 2815-5599",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "38(75-82)",
+            "published_date": "6/2015"
+        },
+        {
+            "title": "Các nhân tố ảnh hưởng đến ý định khởi sự doanh nghiệp của người dân thành phố Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kinh tế và dự báo ISSN: 1859-4972",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "27(30-34)",
+            "published_date": "9/2018"
+        },
+        {
+            "title": "Trách nghiệm xã hội doanh nghiệp: Mối quan hệ với hiệu quả hoạt động ở các doanh nghiệp Đồng bằng sông Cửu long, Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học trường Đại học Cần Thơ ISSN 1859-2333, e-ISSN 2815-5599",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "55(88-100)",
+            "published_date": "2/2019"
+        },
+        {
+            "title": "Vai trò đặc điểm cá nhân và ý định khởi nghiệp của người dân Đồng Bằng Sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu kinh tế ISSN: 0866-7489",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "04 (70-81)",
+            "published_date": "4/2019"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến ý định khởi nghiệp của người dân Đồng Bằng Sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài chính ISSN:2615-8973",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "2(78-81)",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Mối quan hệ giữa lợi nhuận tối ưu, lượng đặt hàng tối ưu và giá mua lại trong chuỗi cung ứng xem xét mức lo ngại hao hụt: trường hợp chuỗi cung ứng tôm sú ở tỉnh Cà Mau",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ. ISSN: 1859-2333 e-ISSN 2815-5599",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "55.3D(149-157)",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Tác động của kết quả thực hành trách nhiệm xã hội đến thành tích kinh doanh của các doanh nghiệp niêm yết trên sàn giao dịch chứng khoán Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ. ISSN: 1859-2333 e-ISSN 2815-5599",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "55(148-156",
+            "published_date": "7/2019"
+        },
+        {
+            "title": "Ảnh hưởng của kết quả học tập đến cơ hội việc làm: trường hợp sinh viên bậc đại học, hệ chính quy",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí công thương ISSN:0866-7756",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "05(205-210)",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "Thực trạng tiêu dùng các sản phẩm được phát triển từ cá lóc tại Đồng Bằng Sông Cửu Long",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ. ISSN: 1859-2333 e-ISSN 2815-5599",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "57(59-70)",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Study On Corporate Culture Of Vietnamese Enterprises: An Approach Of Denison's Model",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "CTU Journal of Innovation and Sustainable Development. ISSN 2588-1418, e-ISSN 2815-6412",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "13-2 (12-19)",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Environmental Efficiency Of Intensive Shrimp Farming In Transforming Areas Of The Coastal Mekong Delta",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal Of The Faculty Of Agriculture Kyushu University ISSN/eISSN 0023-6152",
+            "journal_ranking": "ISI IF:0.17/SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "66-2(277-289)",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "The role of opportunity exploration, exploitation and corporate social responsibilities on sustainable manufacturing business performance in Mekong River delta",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Studies of Applied Economics ISSN: 1133-3197",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "40-1(3-20)",
+            "published_date": "1/2022"
+        },
+        {
+            "title": "The impact of corporate social responsibility on financial performance of the enterprises listed on the stock market in Viet Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Third International Conference in Business, Economics & Finance ISSN: 978-604-965-832-7.",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "1(252-267)",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Hiệu quả hoạt động kinh doanh của doanh nghiệp nông nghiệp tỉnh Vĩnh Long",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Quản lý & Kinh tế Đại học Huế ISSN: 2354-1350",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "24(69-84)",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến quyết định mua lại bảo hiểm y tế hộ gia đình của người dân trên địa bàn TP. Cần Thơ",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và dự báo ISSN: 1859-4972",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "3(65-68)",
+            "published_date": "1/2023"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến chi tiêu cho giáo dục của hộ gia đình ở thành phố Cần Thơ",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và dự báo ISSN: 1859-4972",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "6(25-28)",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Tác động gián tiếp của quản trị nguồn nhân lực định hướng trách nhiệm xã hội đến kết quả làm việc của người lao động thông qua cam kết tổ chức",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế và Kinh doanh Châu Á ISSN: 2615-9104",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "34-2(39-56)",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Công bố thông tin trách nhiệm xã hội doanh nghiệp: trường hợp các doanh nghiệp ngành sản xuất thực phẩm niêm yết trên sở giao dịch chứng khoán Tp Hồ Chí Minh.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển ISSN: 1859-0012",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "309-2(41-51)",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Factors Affecting The Entrepreneurial Orientations Of The Chinese-Vietnamese In Can Tho City",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Startup and Techopreneurship Ecosystem ISBN: 978-604-965-130-4",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "(1-13)",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Factors Affecting Entrepreneurial Intention Of Students Of Can Tho University",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Startup and Techopreneurship Ecosystem ISBN: 978-604-965-130-4",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "(66-84)",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Corporate culture - externally committed values: The case study of a technology and telecommunications enterprise listed on the Vietnam stock market",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Membrane Science and Technology ISSN: 2410-1869",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "914-924",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "The Impact Of Corporate Social Responsibility Practices On The Performance Of Listed Companies On The Vietnam Stock Exchange",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "TAR UMT International Researcher and Student Conference e ISBN 978-967-0115-14-6",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "10D(498-511)",
+            "published_date": "7/2023"
+        },
+        {
+            "title": "Nghiên cứu các yếu tố ảnh hưởng đến ý định mua mỹ phẩm thuần chay của người tiêu dùng thế hệ Z.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế và Kinh doanh Châu Á ISSN: 2615-9104",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "34-8(39-51)",
+            "published_date": "8/2023"
+        },
+        {
+            "title": "Các yếu tố tác động đến chi tiêu chi tiêu y tế của hộ gia đình ở thành phố Cần Thơ",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và dự báo ISSN: 1859-4972",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "26(68-71)",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Impact of corporate social responsibility on the corporate brand of small and medium-sized service businesses in Can Tho city",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Social Science and Economic Research eISSN: 2455-8834",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "8(3320-3234)",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Impact Of Corporate Social Responsibility On Financial Performance Of Production Enterprises Listed on Ho Chi Minh Stock Exchange (HOSE) - Viet Nam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Law and Sustainable Development eISSN 2764-4170 (Online)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "11 (1-25)",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Ảnh hưởng của văn hóa doanh nghiệp và chất lượng dịch vụ đến ý định hành vi của người tiêu dùng khi mua sắm tại hệ thống bán lẻ hiện đại: trường hợp siêu thị Go Cần Thơ",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ. ISSN: 1859-2333 e-ISSN 2815-5599",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "59-6(198-210)",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "The Impact Of The Covid-19 Pandemic On The Business Performance Of Construction Industry Enterprises In Can Tho City",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Law and Sustainable Development eISSN 2764-4170 (Online)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "7(357-366)",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Impact of leadership styles on organizational commitment: empirical evidence from small and medium enterprises in Can Tho - Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Migration Letters ISSN: 1741-8984 ISSN: 1741-8992(Online)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "(751-764)",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "The impact of corporate governance and ownership structure on the level of corporate social responsibility disclosure of listed manufacturing companies on the Ho Chi Minh stock exchange - Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Law and Sustainable Development eISSN 2764-4170",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "11(1-25)",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Impact of organizational culture on the financial performance of listed companies in Vietnam - A case study of the Logistics And Transportation - Warehouse Sector",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Migration Letters ISSN: 1741-8984 ISSN: 1741-8992(Online)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "21(2) (190-205)",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Impact of external cultural values on the financial performance of listed companies on the Ho Chi Minh stock exchange (HOSE), Vietnam.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kurdish Studies ISSN: 2051-4883 ISSN: 2051-4891(Online)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "12 (3330-3346)",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Corporate culture - externally committed values: The case study of DHG joint stock company on the Vietnam stock exchange",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "HCMCOUJS-Economics and Business Administration ISSN: 2734-9314 eISSN: 2734-9586",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "14(3-15)",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Entrepreneurial ecosystem and intentions of students in multidisciplinary universities: A study in Can Tho, Mekong Delta, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Advanced And Applied Science eISSN:2313-3724 ISSN: 2313-626X",
+            "journal_ranking": "SCOPUS (IF:0,16/Q3); H-Index 15",
+            "citation_count": 0,
+            "volume_issue_pages": "11(8) (33-43)",
+            "published_date": "8/2024"
+        },
+        {
+            "title": "Unpacking the unintended consequences of socially responsible human resource management: a role stress perspective",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Organizational Analysis ISSN: 1934-8835",
+            "journal_ranking": "SCOPUS (IF: 0.87/Q2); H-Index 47",
+            "citation_count": 0,
+            "volume_issue_pages": "3(1-13)",
+            "published_date": "8/2024"
+        },
+        {
+            "title": "Opportunities and challenges of spin-off enterprises and Law framework improvement proposals for operating Spin-off enterprises in multidisciplinary universities",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of law and political sciences ISSN: 2222-7288 eISSN: 2518-5551",
+            "journal_ranking": "ISI (IF:2.71/ESCI)",
+            "citation_count": 0,
+            "volume_issue_pages": "43 (4) (486-522)",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Xây dựng mô hình vườn ươm doanh nghiệp hỗ trợ sinh viên khởi nghiệp cho trường đại học đa ngành",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và dự báo ISSN: 1859-4972",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt (91-95)",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Policy implications for Vietnam's coffee exports to The European union market",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of law and political sciences ISSN: 2222-7288 eISSN: 2518-5551",
+            "journal_ranking": "ISI (IF:2.71/ESCI)",
+            "citation_count": 0,
+            "volume_issue_pages": "44 (1) (229-254)",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "A moderated mediation model of the relationship between socially responsible human resource management and employee workplace green behaviour",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asia-Pacific Journal of Business Administration eISSN:1757-4331 pISSN:1757-4323",
+            "journal_ranking": "SCOPUS (IF:0.961/Q1); H-Index 35",
+            "citation_count": 0,
+            "volume_issue_pages": "(1-12)",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "Relationship between corporate culture, service quality, and customer satisfaction of food and beverage franchise enterprises",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "F1000Research ISSN: 2046-1402",
+            "journal_ranking": "SCOPUS (IF:0.537/Q1); H-Index 119",
+            "citation_count": 0,
+            "volume_issue_pages": "14:267 (1-19)",
+            "published_date": "05/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Thực trạng thực hành trách nhiệm xã hội của doanh nghiệp Thành phố Cần Thơ.",
+            "role": "Principal Investigator",
+            "project_code": "T2013-54",
+            "management_level": "Cấp cơ sở (ĐHCT)",
+            "period": "12 tháng (2013-2014)",
+            "acceptance_date": "03/03/2014",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu mối quan hệ giữa kết quả học tập với cơ hội tìm được việc làm của sinh viên trường Đại học Cần Thơ.",
+            "role": "Principal Investigator",
+            "project_code": "T2019-29",
+            "management_level": "Cấp cơ sở (ĐHCT)",
+            "period": "12 tháng (2019-2020)",
+            "acceptance_date": "31/05/2020",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đánh giá và đề xuất mô hình hệ sinh thái khởi nghiệp trong trường Đại học Cần Thơ.",
+            "role": "Principal Investigator",
+            "project_code": "T2023-126",
+            "management_level": "Cấp cơ sở (ĐHCT)",
+            "period": "12 tháng (2023-2024)",
+            "acceptance_date": "29/05/2024",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Đạo đức kinh doanh và Văn hóa doanh nghiệp.",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2021",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 6 (138-162)",
+            "verification_document_id": "Số 2239/GXN-ĐHCT, 18/06/2025."
+        },
+        {
+            "title": "Khởi nghiệp: lý thuyết và thực tiễn.",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2020",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 2 (12-63) Chương 9 (154-161) Chương 10 (162-177)",
+            "verification_document_id": "Số 2240/GXN-ĐHCT, 18/06/2025."
+        },
+        {
+            "title": "Trách nhiệm xã hội của doanh nghiệp và văn hóa doanh nghiệp: Những nghiên cứu thực nghiệm tại Việt Nam. (tái bản lần 1)",
+            "type": "Reference Book",
+            "publisher": "NXB Giáo dục Việt Nam",
+            "publish_year": "2024",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Phần I Chương 1, Chương 2 (11-96) Phần II Chương 3 (100-128) Chương 5 (131-148) Chương 6 (150-172) Chương 7 (174-190) Chương 10 (230-243)",
+            "verification_document_id": "Số: 2241/GXN-ĐHCT, 18/06/2025."
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Tổ điều chỉnh chương trình đào tạo Đại học ngành Quản trị Kinh doanh năm 2018",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Số 4235/QĐ-ĐHCT ban hành ngày 26/09/2018",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Số 3019/QĐ-ĐHCT ban hành ngày 31/0/2019",
+            "notes": "null"
+        },
+        {
+            "title": "Tổ điều chỉnh chương trình đào tạo Đại học ngành Kinh doanh nông nghiệp năm 2023",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "SỐ 800/QĐ-ĐHCT ban hành ngày 02/03/2023",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Số 2423/QĐ-ĐHCT ban hành ngày 05/06/2023",
+            "notes": "null"
+        },
+        {
+            "title": "Thành lập Hội đồng xây dựng, điều chỉnh chương trình đào tạo trình độ thạc sỹ ngành Quản trị Kinh doanh.",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Số 5128/QĐ-ĐHCT ban hành ngày 29/11/2021",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Số 889/QĐ-ĐHCT ban hành ngày 31/03/2022",
+            "notes": "null"
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "papers": [
+        {
+            "title": "Hepatitis B Birth Dose among Children in District 2 Hospital, Ho Chi Minh City, Vietnam: Prevalence and Associated Factors",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Canadian Journal of Infectious Diseases and Medical Microbiology ISSN 1712-9532",
+            "journal_ranking": "Q2 Scopus 3 IF= 2,6",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 20",
+            "published_date": "2020"
+        },
+        {
+            "title": "Treatment outcomes, antibiotic selection, and related factors in the management of diabetic foot infections in Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Endocrine and Metabolic Science ISSN 2666-3961",
+            "journal_ranking": "Q3, IF = 1.33",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 15",
+            "published_date": "2024"
+        },
+        {
+            "title": "Indoor aeroallergen sensitization and associated factors in hospitalized children with asthma exacerbations",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medical Archives",
+            "journal_ranking": "Q3, IF = 0.941",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 77 (Issue 5) Page 338 - 344",
+            "published_date": "2023"
+        },
+        {
+            "title": "Stress reduction intervention for preventive medicine students in vietnam's limited resources setting",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Archives of the Balkan Medical Union ISSN: 15849244",
+            "journal_ranking": "Q4 IF = 0.234",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 58, Issue 2",
+            "published_date": "2023"
+        },
+        {
+            "title": "Epidemiology and antibiotic resistance assessment of acinetobacter baumannii isolates from respiratory specimens collected at Can Tho General Hospital",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Applied Biology and Biotechnology ISSN: 2455-7005",
+            "journal_ranking": "Q4 IF = 0.929",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 12 (1), pp 1-7, Jan-Feb",
+            "published_date": "Jan-Feb, 2024"
+        },
+        {
+            "title": "Features of mesenchymal stem cells derived from umbilical cord lining membranes and their potential use in burn injury therapy",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Southwest Jiaotong University ISSN 0258-2724",
+            "journal_ranking": "Q2, IF = 0.717",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 58, No 4",
+            "published_date": "2023"
+        },
+        {
+            "title": "Application of free flaps in reconstruction defects after head and neck cancer resection at hanoi central odonto-stomatology hospital",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Southwest Jiaotong University",
+            "journal_ranking": "Q2, IF = 0.717",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 58, No 4",
+            "published_date": "2023"
+        },
+        {
+            "title": "Evaluation of the effectiveness of low-level laser therapy on proliferation of fibroblasts isolated from chronic wounds in human in vitro",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Advanced Biotechnology And Experimental Therapeutics",
+            "journal_ranking": "Q3 IF = 0.925",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 7 (no 2) Page 290 - 302",
+            "published_date": "2024"
+        },
+        {
+            "title": "The predictive value of body mass index, waist circumference, and triglycerides/ high-density lipoprotein cholesterol ratio in assessing severity in patients with knee osteoarthritis and metabolic syndrome",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Endocrine and Metabolic Science ISSN 2666-3961",
+            "journal_ranking": "Q3, IF = 1.33",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 16",
+            "published_date": "2024"
+        },
+        {
+            "title": "Low-dose computed tomography scan and biopsy for assessing lung cancer prevalence and related factors in high-risk populations",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Heliyon ISSN 2405 - 8440",
+            "journal_ranking": "Q1, IF = 3,918",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 10, Issue 11",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng bệnh nhân COVID-19 nhập viện",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 517 Số 1 (2022), trang 5-10",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá kết quả mô hình “Quản lý và điều trị F0 của bệnh viện dã chiến số 6 tại thành phố Hồ Chí Minh\"",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN.1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 513 - Tháng 4 - Số 2/",
+            "published_date": "2022"
+        },
+        {
+            "title": "Kết quả điều trị nhiễm COVID-19 ở bệnh nhân suy thận mạn giai đoạn cuối lọc máu chu kỳ tại Bệnh viện Dã chiến số 6, Thành phố Hồ Chí Minh",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược Học Quân Sự/ ISSN 1859-0748",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 47, N1 - 2022, trang 57-66",
+            "published_date": "2022"
+        },
+        {
+            "title": "Độ phổ biến, thái độ, yếu tố ảnh hưởng đến sử dụng các phương pháp thở trong hỗ trợ điều trị Covid-19 tại bệnh viện Phục hồi chức năng- Điều trị Bệnh nghề nghiệp",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Thái Bình",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 6 - Tháng 3",
+            "published_date": "March, 2023"
+        },
+        {
+            "title": "Bệnh Covid-19: Tác Nhân, Lâm Sàng, Các Thang Điểm Đánh Giá Độ Nặng Trên X Quang Ngực Thẳng",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Phạm Ngọc Thạch ISSN 2815-6366",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1 số 1, trang 47-55",
+            "published_date": "2022"
+        },
+        {
+            "title": "Liệu pháp oxy lưu lượng cao qua ống thông mũi (High flow nasal cannula-HFNC)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Phạm Ngọc Thạch",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1 số 2 trang 30-41",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá kết quả tạo hình thẩm mỹ thành bụng tại khoa tạo hình – Thẩm Mỹ Bệnh viện Chợ Rẫy",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 527 số 1B, trang 42-46",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đặc điểm lâm sàng bệnh nhân khe hở xương ổ răng điều trị ghép xương có sử dụng fibrin",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tháng 8 số 1 Trang 366-370",
+            "published_date": "August, 2023"
+        },
+        {
+            "title": "Rối loạn lo âu và các yếu tố liên quan ở sinh viên trường đại học y khoa phạm ngọc thạch",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học cộng đồng ISSN 2354-0613",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 65, tập đặc biệt 5, Trang 304-310",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mạng lưới nhân viên sức khỏe cộng đồng tại quận 10 Thành phố Hồ Chí Minh: nghiên cứu định lượng kết hợp định tính",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học cộng đồng ISSN 2354-0613",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 65, tập đặc biệt 5",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đánh giá hiệu quả quản lý cải thiện lực cơ và giảm co cứng trên đối tượng khuyết tật vận động tại thành phố Hồ Chí Minh",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 538- Tháng 5 số 1 Trang 84 - 88",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Độc lập chức năng trong sinh hoạt và các yếu tố liên quan ở người bệnh sau đột quỵ tại bệnh viện phục Hồi chức năng – Điều trị bệnh nghề nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 538 - Tháng 5 số 3 Trang 209 - 213",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Tỷ lệ suy dinh dưỡng và một số yếu tố liên quan của người bệnh bệnh phổi tắc nghẽn mạn tính tại bệnh viện Phạm Ngọc Thạch",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học cộng đồng ISSN 2354-0613",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 65 Số 3 Trang 282 - 289",
+            "published_date": "2024"
+        },
+        {
+            "title": "Mức độ cải thiện chất lượng cuộc sống ở bệnh nhân đau cột sống thắt lưng do thoái hóa cột sống tại bệnh viện Phục hồi chức năng - Điều trị bệnh nghề nghiệp",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537 số 1, trang 248 - 251",
+            "published_date": "2024"
+        },
+        {
+            "title": "Thực trạng bệnh nhân liệt nửa người do đột quỵ não tại khoa phục hồi chức năng – vật lý trị liệu, bệnh viện Phục hồi chức năng – Điều trị bệnh nghề nghiệp năm 2022 – 2023",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537 số 1, trang 341 - 344",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đánh giá bước đầu kết quả điều trị gãy xương bàn tay bằng phương pháp kết hợp xương nẹp vít",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 63 trang 43 - 48",
+            "published_date": "2023"
+        },
+        {
+            "title": "Thực trạng bệnh nhồi máu não tại khoa thần kinh sọ não, bệnh viện Phục hồi chức năng – Điều trị bệnh nghề nghiệp năm 2022 - 2023",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 536 số 2 Trang 366 - 369",
+            "published_date": "2024"
+        },
+        {
+            "title": "Hiệu quả lọc máu và các yếu tố liên quan ở người bệnh thận lọc máu chu kỳ tại Bệnh viện Phục hồi chức năng – Điều trị bệnh nghề nghiệp",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 539 số 1B Trang 346 - 351",
+            "published_date": "2024"
+        },
+        {
+            "title": "Hiệu quả phục hồi chức năng từ xa trong cải thiện mức độ độc lập chức năng ở bệnh nhân tai biến mạch máu não tại Bệnh viện Phục hồi chức năng – Điều trị bệnh nghề nghiệp",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 539 số 1B trang 371 - 378",
+            "published_date": "2024"
+        },
+        {
+            "title": "Kết quả bước đầu Phục hồi chức năng đi trên bệnh nhân liệt nửa người do đột quỵ não tại Bệnh viện Phục hồi chức năng – Điều trị bệnh nghề nghiệp năm 2022 - 2023",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537 số 1B, trang 375 - 377",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đánh giá hiệu quả quản lý cải thiện chức năng sinh hoạt độc lập trên đối tượng khuyết tật vận động tại Thành phố Hồ Chí Minh",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 538, số 1, trang 172 - 175",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Công tác đào tạo bồi dưỡng cán bộ, nhân viên giai đoạn 2016-2020 tại BV Quận 2",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2016-2020",
+            "acceptance_date": "21/11/2016",
+            "rating": "đạt"
+        },
+        {
+            "title": "Giải pháp nâng cao chất lượng khám chữa bệnh tại Bệnh viện Quận 2, TP.HCM giai đoạn 2019-2023",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2019-2023",
+            "acceptance_date": "15/10/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Đánh giá sự hài lòng người bệnh về dịch vụ chăm sóc sức khỏe tại phòng khám Bác sĩ gia đình ở Quận 2 năm 2018",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2018",
+            "acceptance_date": "29/10/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Tiêm ngừa viêm gan B liều sơ sinh ở trẻ em tạo Bệnh viện Quận 2, TP Hồ Chí Minh, Việt Nam: Tỷ lệ và các yếu tố liên quan",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở, Bệnh viện Lê Văn Thịnh",
+            "period": "2020",
+            "acceptance_date": "1/10/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Mối tương quan giữa khả năng đi bộ 2 phút, 6 phút với mức độ hoạt động, tham gia và chất lượng cuộc sống của người bệnh đột quỵ não giai đoạn bán cấp.",
+            "role": "Principal Investigator",
+            "project_code": "CS/PHCN/22/14",
+            "management_level": "Cấp cơ sở",
+            "period": "Từ tháng 3/2022 đến tháng 10/2022",
+            "acceptance_date": "Ngày 8 tháng 11 năm 2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Mức độ phổ biến, thái độ và các yếu tố ảnh hưởng đến lựa chọn sử dụng các phương pháp thở trong hỗ trợ điều trị COVID-19 tại Bệnh viện Phục hồi chức năng – Điều trị bệnh nghề nghiệp",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "Tháng 2/2022 đến tháng 5/2023",
+            "acceptance_date": "Ngày 23 tháng 6 năm 2023",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phục hồi chức năng cho bệnh nhân sau bỏng",
+            "type": "Monograph",
+            "publisher": "NXB Y học",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "2304/QĐ-ĐHYDCT Ngày 26 tháng 6 năm 2023"
+        },
+        {
+            "title": "Phục hồi chức năng trong Y học Thể thao (tên cũ Phục hồi chức năng bài giảng dành cho bác sĩ)",
+            "type": "Reference Book",
+            "publisher": "NXB Y học",
+            "publish_year": "",
+            "num_authors": 20,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "2345/QĐ – ĐHYDCT"
+        },
+        {
+            "title": "Ứng dụng Botulinum Toxin trong thực hành lâm sàng",
+            "type": "Reference Book",
+            "publisher": "NXB Y học",
+            "publish_year": "",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": ""
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

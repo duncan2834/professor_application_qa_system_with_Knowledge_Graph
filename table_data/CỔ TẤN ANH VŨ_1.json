@@ -1,0 +1,523 @@
+{
+    "papers": [
+        {
+            "title": "Mô phỏng số xâm thực cục bộ trên bánh lái tàu thuỷ.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 11, pp. 89-91",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu tính bất ổn định của lực bẻ lái tàu thuỷ trong một số chế độ điều động.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Giao thông vận tải, ISSN 1859-4263",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 18, pp. 07-09",
+            "published_date": "2016"
+        },
+        {
+            "title": "Calculation and simulation of the current effects on maritime safety in Haiphong fairway, Vietnam.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "2016 International Association of Maritime Universities - 17th Annual, General Assembly, ISBN 978-604-937-120-2",
+            "journal_ranking": "SCOPUS H-index 2",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 01, pp. 170-179",
+            "published_date": "2016"
+        },
+        {
+            "title": "Tính toán mô phỏng và đề xuất giải pháp giảm thiểu hiện tượng xâm thực tại mép thoát bánh lái tàu thủy.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Quốc tế KHCN Hàng hải, ISBN 978-604-937-127-1",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 02, pp. 8-13",
+            "published_date": "2016"
+        },
+        {
+            "title": "Study on building a system evaluating fundemental reasons leading to sea-going ship accidents to enhance maritime training and educationin Vietnam.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "The Asia Maritime & Fisheries Universities Forum (AMFUF), the 16th Annnual Conference, ISSN 2508-5247",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 01, pp. 191-200",
+            "published_date": "2017"
+        },
+        {
+            "title": "Ứng dụng CFD phân tích đặc tính làm việc chân vịt",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học công nghệ Giao thông vận tải, ISSN 1859-4263",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 32 (May 2019), pp. 26-29",
+            "published_date": "May, 2019"
+        },
+        {
+            "title": "Nghiên cứu thực nghiệm tác động dòng chảy đến tàu thủy trong quá trình thay đổi hướng chuyển động",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 09 (Sep 2019), pp. 113-116",
+            "published_date": "Sep, 2019"
+        },
+        {
+            "title": "Study on synchronous effects of free surface and propeller rotation on vessel rudder force",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "IOP Conference Series: Earth and Environmental Science; ISSN 1755-1315",
+            "journal_ranking": "SCOPUS H-index 34",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 527, pp. 69-78",
+            "published_date": "2020"
+        },
+        {
+            "title": "Building a tidal stream chart on navigation fairway - Applying of Haiphong fairway, Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Mechanical Engineering Research and Development S ISSN: 1024-1752",
+            "journal_ranking": "SCOPUS H-index 24",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 43, Issue 3, pp. 367-375",
+            "published_date": "2020"
+        },
+        {
+            "title": "Ứng dụng CFD tính toán mô phỏng xâm thực trên một số profil cánh trong lĩnh vực hàng hải và hàng không",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 4 (Apr 2022), pp. 75-78",
+            "published_date": "Apr, 2022"
+        },
+        {
+            "title": "Tính toán mô phỏng lực tác động lên tàu thủy ở chế độ đầy tải và không tải khi thay đổi tốc độ dòng chảy bao",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học công nghệ hàng hải, ISSN 1859-316X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 72 (Nov 2022), pp. 9-14",
+            "published_date": "Nov, 2022"
+        },
+        {
+            "title": "Tính toán lực bẻ lái tàu thủy bằng phương pháp CFD khi thay đổi góc bẻ lái",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 732 (Aug 2023), pp. 61-63",
+            "published_date": "Aug, 2023"
+        },
+        {
+            "title": "Đánh giá nguy cơ đâm va tàu biển sử dụng kết hợp thuật toán phân cụm và lý thuyết hàm tin cậy",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học công nghệ hàng hải, ISSN 1859-316X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 75 (Aug 2023), pp. 68-73",
+            "published_date": "Aug, 2023"
+        },
+        {
+            "title": "Phân tích tai nạn hàng hải trên thế giới và đánh giá các xu hướng nghiên cứu",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 733 (Sep 2023), pp. 121-123",
+            "published_date": "Sep, 2023"
+        },
+        {
+            "title": "Khảo sát, phân tích và đánh giá một số khu vực tiềm ẩn nguy cơ mất an toàn hàng hải trên tuyến luồng Sài Gòn",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 734 (Oct 2023), pp. 128-131",
+            "published_date": "Oct, 2023"
+        },
+        {
+            "title": "Bộ điều khiển trượt dựa trên mạng nơ-ron cho thiết bị ổn định giảm lắc ngang tàu thủy Roto Magnus",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 735 (Nov 2023), pp. 107-110",
+            "published_date": "Nov, 2023"
+        },
+        {
+            "title": "Đánh giá kết quả nghiên cứu thực nghiệm và tính toán bằng CFD lực căng lin neo khi tàu neo đậu",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 736 (Dec 2023), pp. 89-91",
+            "published_date": "Dec, 2023"
+        },
+        {
+            "title": "Heat Transfer in Turbine Blade Cooling System: A Numerical Investigation of Recessed Endwalls in Ribbed Cooling Channel",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Aeronautics, Astronautics and Aviation ISSN: 1990-7710",
+            "journal_ranking": "ESCI, SCOPUS Q3 H-index 12",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 55, Issue 4, pp. 583-601",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ứng dụng kết quả nghiên cứu thực nghiệm về lực căng lỉn neo, lực giữ neo và khuyến nghị an toàn hàng hải khi tàu neo tại Vũng Tàu",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 737+738 (Jan-Feb 2024), pp. 63-66",
+            "published_date": "Jan-Feb, 2024"
+        },
+        {
+            "title": "Phân tích, đánh giá kết quả nghiên cứu thực nghiệm và tính toán mô phỏng xâm thực bánh lái tàu thủy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 64, Issue 3/2024 (739), pp. 94-96",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đánh giá kết quả nghiên cứu thực nghiệm và tính toán mô phỏng lực bẻ lái khi xuất hiện xâm thực bánh lái tàu thủy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 64, Issue 4/2024 (740), pp. 121-123",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tính toán lực bẻ lái trung bình đến hướng chuyển động tàu thủy khi tồn tại xâm thực cục bộ tại bánh lái",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 64, Issue 5/2024 (741), pp. 153-155",
+            "published_date": "2024"
+        },
+        {
+            "title": "Effect of Bleeding Dual Discharge Port on Aerodynamic Performance of a Single-stage Transonic Axial Compressor",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Fluid Machinery and Systems ISSN: 1882-9554",
+            "journal_ranking": "SCOPUS Q3 H-index 19",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 17, Issue 2, pp. 88-101",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tính toán mô phỏng kích thước túi hơi xâm thực cục bộ trên bánh lái tàu thủy trong một chu kỳ",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 24, Issue 6/2024 (742), pp. 138-140",
+            "published_date": "2024"
+        },
+        {
+            "title": "Heat transfer characteristics of an internal cooling channel with pin-fins and ribbed endwalls in gas turbine blade",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Aircraft and Spacecraft Science. ISSN: 2287-528X (Print), 2287-5271 (Online)",
+            "journal_ranking": "ESCI, SCOPUS Q3/Q4 H-index 19",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 11, Issue 2 (2024), pp. 153-175",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tính toán độ sâu và bán kính vòng quay trở đảm bảo an toàn hàng hải khi điều động tàu tại khu neo đậu Vũng Tàu",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 64, Issue 11/2024 (747), pp. 100-102",
+            "published_date": "2024"
+        },
+        {
+            "title": "Xác định quán tính tàu theo trọng tải và chủng loại nhằm nâng cao tính năng điều động khi tàu đầy tải",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 64, Issue 12/2024 (748), pp. 118-120",
+            "published_date": "2024"
+        },
+        {
+            "title": "Improving energy efficiency for fishing vessels using two-pitch propellers",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of International Maritime Safety, Environmental Affairs, and Shipping E-ISSN: 2572-5084",
+            "journal_ranking": "SCOPUS Q2 H-index 13",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 9, Issue 1",
+            "published_date": "2025"
+        },
+        {
+            "title": "Phân tích một số nguyên nhân cơ bản tai nạn hàng hải tuyến luồng Vũng Tàu - Thị Vải",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 65, Issue 1+2-2025 (749+750), pp. 106-108",
+            "published_date": "2025"
+        },
+        {
+            "title": "Nâng cao nghiệp vụ điều động tàu tại một số khu vực tiềm ẩn mất an toàn hàng hải trên tuyến luồng Sài Gòn",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN 2354-0818 E-ISSN 2615-9791",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 65, Issue 3/2025 (751), pp. 112-114",
+            "published_date": "2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Xây dựng chương trình tính toán mô phỏng và thử nghiệm một số nguyên nhân cơ bản dẫn đến tai nạn hàng hải trên tuyến luồng Sài Gòn phục vụ công tác đào tạo, huấn luyện thuyền viên.",
+            "role": "Principal Investigator",
+            "project_code": "DT 174030",
+            "management_level": "Bộ Giao thông vận tải",
+            "period": "01/2017 - 12/2017",
+            "acceptance_date": "29/12/2017",
+            "rating": "Loại A"
+        },
+        {
+            "title": "Nghiên cứu thiết kế và chế tạo thử nghiệm hệ thống đánh giá tác động của tổ hợp chân vịt - bánh lái đến đặc tính điều khiển hướng chuyển động tàu thủy",
+            "role": "Key Member",
+            "project_code": "DT 174003",
+            "management_level": "Bộ Giao thông vận tải",
+            "period": "01/2017 - 12/2017",
+            "acceptance_date": "07/11/2017",
+            "rating": "Loại A"
+        },
+        {
+            "title": "Nghiên cứu thiết kế và chế tạo mô hình chân vịt tàu thủy CLT nhằm nâng cao hiệu quả khai thác - Áp dụng thử nghiệm cho đội tàu SB của Việt Nam",
+            "role": "Key Member",
+            "project_code": "DT 194036",
+            "management_level": "Bộ Giao thông vận tải",
+            "period": "01/2019 - 12/2019",
+            "acceptance_date": "25/12/2019",
+            "rating": "Loại A"
+        },
+        {
+            "title": "Nghiên cứu thiết kế và chế tạo thử nghiệm hệ thống đánh giá ảnh hưởng đồng thời của mặt thoáng và chiều quay chân vịt đến điều khiển hướng chuyển động tàu thủy",
+            "role": "Key Member",
+            "project_code": "DT 194037",
+            "management_level": "Bộ Giao thông vận tải",
+            "period": "04/2019 - 03/2020",
+            "acceptance_date": "11/05/2020",
+            "rating": "Loại A"
+        }
+    ],
+    "books": [
+        {
+            "title": "Ứng dụng CFD trong khoa học hàng hải",
+            "type": "Monograph",
+            "publisher": "Khoa học và Kỹ thuật",
+            "publish_year": "2017",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tham gia biên soạn",
+            "verification_document_id": "16/6/2025 (Trường ĐH Hàng hải Việt Nam)"
+        },
+        {
+            "title": "Ứng dụng CFD xây dựng bản đồ dòng chảy tuyến luồng hàng hải",
+            "type": "Monograph",
+            "publisher": "Hàng hải",
+            "publish_year": "2020",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tham gia biên soạn",
+            "verification_document_id": "16/6/2025 (Trường ĐH Hàng hải Việt Nam)"
+        },
+        {
+            "title": "Ứng dụng CFD tính toán động lực học dòng chảy bao",
+            "type": "Monograph",
+            "publisher": "Khoa học và Kỹ thuật",
+            "publish_year": "2025",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tham gia biên soạn",
+            "verification_document_id": "16/6/2025 (Trường ĐH Hàng hải Việt Nam)"
+        }
+    ],
+    "patents": [],
+    "achievements": [
+        {
+            "title": "Huân chương Lao động hạng 3",
+            "certifying_organization": "Chủ tịch nước",
+            "certificate_document_id": "2234/QĐ-CTN (18/11/2013)",
+            "award": "National Prize",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Thủ tướng Chính phủ",
+            "certifying_organization": "Thủ tướng Chính phủ",
+            "certificate_document_id": "2043/QĐ-TTg (16/11/2011)",
+            "award": "National Prize",
+            "num_contributors": 1
+        },
+        {
+            "title": "Kỷ niệm chương Vì sự nghiệp giáo dục",
+            "certifying_organization": "Bộ trưởng Bộ Giáo dục và Đào tạo",
+            "certificate_document_id": "3494 QĐ/BGD&ĐT (25/8/2008)",
+            "award": "National Recognition",
+            "num_contributors": 1
+        },
+        {
+            "title": "Kỷ niệm chương Vì thế hệ trẻ",
+            "certifying_organization": "Trung ương Đoàn TNCS Hồ Chí Minh",
+            "certificate_document_id": "169 NQ/TWĐTN (09/4/2010)",
+            "award": "National Recognition",
+            "num_contributors": 1
+        },
+        {
+            "title": "Kỷ niệm chương Vì sự nghiệp phát triển GTVT Việt Nam",
+            "certifying_organization": "Bộ trưởng Bộ Giao thông vận tải",
+            "certificate_document_id": "2476/QĐ-BGTVT (30/06/2014)",
+            "award": "National Recognition",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sỹ thi đua ngành GTVT giai đoạn 2004-2006",
+            "certifying_organization": "Bộ trưởng Bộ Giao thông vận tải",
+            "certificate_document_id": "753/QĐ-BGTVT (06/04/2007)",
+            "award": "National Recognition",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sỹ thi đua ngành GTVT giai đoạn 2007-2009",
+            "certifying_organization": "Bộ trưởng Bộ Giao thông vận tải",
+            "certificate_document_id": "3298/QĐ-BGTVT (17/11/2010)",
+            "award": "National Recognition",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Bộ trưởng Bộ GTVT vì đã có thành tích xuất sắc trong công tác, giảng dạy năm học 2003-2004",
+            "certifying_organization": "Bộ trưởng Bộ Giao thông vận tải",
+            "certificate_document_id": "1728/QĐ-BGTVT (19/5/2005)",
+            "award": "National Prize",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Bộ trưởng Bộ GTVT vì đã có thành tích xuất sắc trong công tác, giảng dạy năm học 2004-2005",
+            "certifying_organization": "Bộ trưởng Bộ Giao thông vận tải",
+            "certificate_document_id": "4298/QĐ-BGTVT (14/11/2005)",
+            "award": "National Prize",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen vì đã có thành tích xuất sắc trong công tác, giảng dạy năm học 2010-2011",
+            "certifying_organization": "Bộ trưởng Bộ Giao thông vận tải",
+            "certificate_document_id": "433/QĐ-BGTVT (01/3/2012)",
+            "award": "National Prize",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen vì đã có thành tích xuất sắc trong công tác liên kết đào tạo nguồn nhân lực của tỉnh Cà Mau",
+            "certifying_organization": "Chủ tịch Ủy ban nhân dân tỉnh Cà Mau",
+            "certificate_document_id": "996/QĐ-UBND (16/6/2009)",
+            "award": "National Prize",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen vì đã có thành tích xuất sắc trong phong trào thi đua và hoạt động công đoàn năm học 2005-2006",
+            "certifying_organization": "Ban Chấp hành Liên đoàn Lao động TP. Hồ Chí Minh",
+            "certificate_document_id": "168/QĐ-KT-LĐLĐ (13/11/2006)",
+            "award": "National Prize",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen vì đã có thành tích xuất sắc trong phong trài thi đua lao động giỏi và hoạt động công đoàn năm học 2010-2011",
+            "certifying_organization": "BCH Liên đoàn Lao động TP. Hồ Chí Minh",
+            "certificate_document_id": "118/QĐ-KT-LĐLĐ (06/9/2011)",
+            "award": "National Prize",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở các năm: 1999, 2001, 2002, 2004, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013.",
+            "certifying_organization": "Trường Đại học GTVT TP. Hồ Chí Minh",
+            "certificate_document_id": "Các QĐ liên quan của Trường",
+            "award": "Institutional Recognition (Various Years)",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giáo viên dạy giỏi năm học 1997-1998",
+            "certifying_organization": "Trường Đại học GTVT TP. Hồ Chí Minh",
+            "certificate_document_id": "357/TCCB (18/11/1998)",
+            "award": "Institutional Recognition",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giải Nhất công trình khoa học xuất sắc tại Diễn đàn Hội nghị Khoa học quốc tế các trường Đại học Hàng hải và nghề cá Châu Á",
+            "certifying_organization": "AMFUF",
+            "certificate_document_id": "Ngày 10/11/2017",
+            "award": "International First Prize",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo ngành Công nghệ kỹ thuật xây dựng trình độ đại học",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "921/QĐ-HVHKVN (23/12/2021)",
+            "certifying_authority": "Học viện Hàng không Việt Nam",
+            "implementation_document_id": "242/QĐ-HVHK (04/04/2022)",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo ngành Kinh doanh quốc tế trình độ đại học",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "188/QĐ-HVHKVN (28/02/2024)",
+            "certifying_authority": "Học viện Hàng không Việt Nam",
+            "implementation_document_id": "257/QĐ-HVHK (15/03/2024)",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo độ đại học chuyên ngành Hệ thống kỹ thuật quản lý bay thuộc ngành Quản lý hoạt động bay của Học viện Hàng không Việt Nam",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "799/QĐ-HVHKVN (12/05/2025)",
+            "certifying_authority": "Học viện Hàng không Việt Nam",
+            "implementation_document_id": "1015/QĐ-HVHK (16/06/2025)",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo độ đại học chuyên ngành Quản lý và khai thác bay thuộc ngành Quản lý hoạt động bay của Học viện Hàng không Việt Nam",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "800/QĐ-HVHKVN (12/05/2025)",
+            "certifying_authority": "Học viện Hàng không Việt Nam",
+            "implementation_document_id": "1015/QĐ-HVHK (16/06/2025)",
+            "notes": ""
+        }
+    ]
+}

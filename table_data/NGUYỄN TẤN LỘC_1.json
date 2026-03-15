@@ -1,0 +1,326 @@
+{
+    "papers": [
+        {
+            "title": "Lồng ghép dạy phát âm vào bài giảng cho sinh viên Trường Đại học Kinh tế Thành phố Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học Ban Ngoại ngữ, Trường Đại học Kinh tế Thành phố Hồ Chí Minh",
+            "journal_ranking": "Kỷ yếu hội thảo khoa học trong nước",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang: 111-116",
+            "published_date": "2011"
+        },
+        {
+            "title": "Pronunciation and its implications in language teaching and learning",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học Khoa Ngoại ngữ, Trường Đại học Kinh tế Thành phố Hồ Chí Minh",
+            "journal_ranking": "Kỷ yếu hội thảo khoa học trong nước",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang: 167-171",
+            "published_date": "2014"
+        },
+        {
+            "title": "Towards improving UEH undergraduates' pronunciation using the Pronunciation Power software",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học Khoa Ngoại ngữ, Trường Đại học Kinh tế Thành phố Hồ Chí Minh",
+            "journal_ranking": "Kỷ yếu hội thảo khoa học trong nước",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang: 172-183",
+            "published_date": "2014"
+        },
+        {
+            "title": "Towards improving UEH's undergraduates' listening and speaking skills via video-inserted lectures",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of The International TESOL Symposium 2015",
+            "journal_ranking": "Kỷ yếu hội thảo khoa học quốc tế có phản biện kín",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang: 235-242",
+            "published_date": "2015"
+        },
+        {
+            "title": "Corrective feedback in pronunciation teaching: A Vietnamese perspective",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of The 10th PSLLT Conference (ISSN: 2380-9566)",
+            "journal_ranking": "Kỷ yếu hội thảo khoa học quốc tế có phản biện kín",
+            "citation_count": 8,
+            "volume_issue_pages": "Trang: 201-212",
+            "published_date": "2019"
+        },
+        {
+            "title": "Vietnamese EFL learners' pronunciation needs: A teaching and learning perspective https://www.tesolanz.org.nz/publications/tesolanz-journal/volume-27-2019/",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "The TESOLANZ Journal (ISSN: 1172-9694, TESOLANZ Association)",
+            "journal_ranking": "Tạp chí quốc tế của Hiệp hội TESOL Úc-New Zealand",
+            "citation_count": 10,
+            "volume_issue_pages": "Tập: 27 Số: 2019 Trang: 16-31",
+            "published_date": "2019"
+        },
+        {
+            "title": "Pronunciation teaching in tertiary EFL classes: Vietnamese teachers' beliefs and practices https://tesl-ej.org/wordpress/issues/volume24/ej93/ej93a2/",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "TESL-EJ (ISSN:1072-4303, TESL-EJ Publications)",
+            "journal_ranking": "Scopus Q1 IF = 1.21 Cite score = 2.2",
+            "citation_count": 42,
+            "volume_issue_pages": "Tập: 24 Số: 1 Trang: 1-20",
+            "published_date": "2020"
+        },
+        {
+            "title": "Enhancing EFL teachers' pronunciation pedagogy through professional learning: A Vietnamese case study https://doi.org/10.1177/0033688220952476",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "RELC Journal (ISSN: 0033-6882 / 1745-526X, SAGE)",
+            "journal_ranking": "ISI (SSCI), Scopus Q1 IF = 3.0 Cite score = 8.0",
+            "citation_count": 24,
+            "volume_issue_pages": "Tập 52 Số: 1 Trang: 77-93",
+            "published_date": "2021"
+        },
+        {
+            "title": "A Cross-Linguistic Approach to Analyzing Cohesive Devices in Expository Writing by Asian EFL Teachers http://doi.org/10.17576/3L-2021-2702-02",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "3L: Language, Linguistics, Literature (ISSN: 0128-5157, National University of Malaysia)",
+            "journal_ranking": "ISI (ESCI), Scopus Q1 IF = 1.732 Cite score = 1.8",
+            "citation_count": 4,
+            "volume_issue_pages": "Tập: 27 Số: 2 Trang: 16-30",
+            "published_date": "2021"
+        },
+        {
+            "title": "Communicative pronunciation teaching: Insights from the Vietnamese",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "System (ISSN: 0346-251X, Elsevier)",
+            "journal_ranking": "ISI (SSCI), Scopus Q1 IF = 6.0 Cite score = 8.8",
+            "citation_count": 25,
+            "volume_issue_pages": "Tập: 101 Trang: 1-12",
+            "published_date": "2021"
+        },
+        {
+            "title": "Targets and sources of oral corrective feedback in English as a foreign language classrooms: Are students' and teachers' beliefs aligned? https://doi.org/10.3389/fpsyg.2021.697160",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Frontiers in Psychology (ISSN: 16641078, Frontiers Media SA)",
+            "journal_ranking": "ISI (SSCI), Scopus Q1 IF = 3.8 Cite score = 5.3",
+            "citation_count": 57,
+            "volume_issue_pages": "Tập: 12 Số: Tháng 6/2021 Trang: 1-10",
+            "published_date": "2021"
+        },
+        {
+            "title": "Oral corrective feedback in English as a foreign language classrooms: A teaching and learning perspective https://doi.org/10.1016/j.heliyon.2021.e07550",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Heliyon (ISSN: 2405-8440, Elsevier)",
+            "journal_ranking": "ISI (SCIE), Scopus Q1 IF = 4.0 Cite score = 4.5",
+            "citation_count": 73,
+            "volume_issue_pages": "Tập: 7 Số: 7 Trang: 1-8",
+            "published_date": "2021"
+        },
+        {
+            "title": "Teachers' and learners' beliefs about pronunciation instruction in tertiary English as a foreign language education https://doi.org/10.3389/fpsyg.2021.739842",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Psychology (ISSN: 16641078, Frontiers Media SA)",
+            "journal_ranking": "ISI (SSCI), Scopus Q1 IF = 3.8 Cite score = 5.3",
+            "citation_count": 16,
+            "volume_issue_pages": "Tập: 12 Số: 8/2021 Trang: 1-11",
+            "published_date": "2021"
+        },
+        {
+            "title": "Pronunciation pedagogy in English as a foreign language teacher education programs in Vietnam https://doi.org/10.1515/iral-2022-0126",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "IRAL-International Review of Applied Linguistics in Language Teaching (ISSN: 0019-042X/1613-4141, De Gruyter)",
+            "journal_ranking": "ISI (SSCI), Scopus Q1 IF = 1.69 Cite score = 3.2",
+            "citation_count": 4,
+            "volume_issue_pages": "Tập: 62 Số: 2 Trang: 675-691",
+            "published_date": "2022"
+        },
+        {
+            "title": "Scaffolding Language Learning in the Online Classroom https://doi.org/10.1007/978-3-030-99329-0_8",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Springer (ISBN: 978-3-030-99328-3) Scopus-indexed",
+            "journal_ranking": "Chương sách chuyên khảo của NXB quốc tế uy tín",
+            "citation_count": 31,
+            "volume_issue_pages": "Trang: 109-122",
+            "published_date": "2022"
+        },
+        {
+            "title": "An investigation into EFL pre-service teachers' academic writing strategies https://doi.org/10.1016/j.heliyon.2023.e13743",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Heliyon (ISSN: 2405-8440, Elsevier)",
+            "journal_ranking": "ISI (SCIE), Scopus Q1 IF = 4.0 Cite score = 4.5",
+            "citation_count": 11,
+            "volume_issue_pages": "Tập: 9 Số: 3 Mã bài: E13743",
+            "published_date": "2023"
+        },
+        {
+            "title": "Pragmatics and Instructional Pragmatics in Second/Foreign Language Preservice Teacher Education: A Case Study in Australia and Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "RELC Journal (ISSN: 0033-6882 / 1745-526X, SAGE)",
+            "journal_ranking": "ISI (SSCI) Q1 IF = 3.0 Cite score = 8.0",
+            "citation_count": 1,
+            "volume_issue_pages": "",
+            "published_date": "2023"
+        },
+        {
+            "title": "Contextual effects on phoneme quality and implications for English pronunciation teaching",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngôn ngữ và Đời sống (ISSN: 0868-3409, Hội Ngôn ngữ học Việt Nam)",
+            "journal_ranking": "Tạp chí khoa học trong nước (thuộc danh mục Tạp chí 1 điểm của HĐGSNN)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập: 347-2023 Số: 11b Trang: 225-232",
+            "published_date": "2023"
+        },
+        {
+            "title": "Teacher education and secondary EFL teachers' pronunciation teaching: Initial findings from Vietnam https://www.tesolanz.org.nz/publications/tesolanz-journal/volume-31-2023/",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "The TESOLANZ Journal (ISSN: 1172-9694, TESOLANZ Association)",
+            "journal_ranking": "Tạp chí quốc tế của Hiệp hội TESOL Úc-New Zealand",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập: 31 Số: 2023 Trang: 33-46",
+            "published_date": "2023"
+        },
+        {
+            "title": "Scaffolding in genre-based L2 writing classes: Vietnamese EFL teachers' beliefs and practices https://doi.org/10.1515/iral-2023-0125",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "IRAL-International Review of Applied Linguistics in Language Teaching (ISSN: 0019042X/1613-4141, De Gruyter)",
+            "journal_ranking": "ISI (SSCI), Scopus Q1 IF = 1.69 Cite score = 3.2",
+            "citation_count": 1,
+            "volume_issue_pages": "",
+            "published_date": "2024"
+        },
+        {
+            "title": "Lỗi ngữ âm-âm vị tiếng Anh phổ biến của học viên người Việt Nam và giải pháp đề xuất",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngôn ngữ và Đời sống (ISSN: 0868-3409, Hội Ngôn ngữ học Việt Nam)",
+            "journal_ranking": "Tạp chí khoa học trong nước (thuộc danh mục Tạp chí 1 điểm của HĐGSNN)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập: 350-2024 Số: 2 Trang: 30-36",
+            "published_date": "2024"
+        },
+        {
+            "title": "Professional learning for CALL teachers: A research-based approach",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Taylor & Francis (ISBN: 978-1-032-56073-1)",
+            "journal_ranking": "Chương sách chuyên khảo của NXB quốc tế uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang: 3-19",
+            "published_date": "2024"
+        },
+        {
+            "title": "Pronunciation teaching innovation in the English as a foreign language classroom",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Palgrave Macmillan (ISBN: 978-3-031-46079-1)",
+            "journal_ranking": "Chương sách chuyên khảo của NXB quốc tế uy tín",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang: 115-133",
+            "published_date": "2024"
+        },
+        {
+            "title": "Conceptualizing assessment for learning in Asian L2 classrooms",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 9th international conference proceedings: Interdisciplinary research in linguistics and language education (ISBN:978-604-489-031-9)",
+            "journal_ranking": "Kỷ yếu hội thảo khoa học quốc tế có phản biện kín",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang: 516-529",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Integrating scaffolding strategies into genre-based L2 writing pedagogy",
+            "role": "Principal Investigator",
+            "project_code": "CS-2021-05",
+            "management_level": "Institutional Level",
+            "period": "2021-2023",
+            "acceptance_date": "11/5/2023",
+            "rating": "Achieved"
+        },
+        {
+            "title": "How well English as a foreign language teacher education prepares teachers to teach pronunciation: A case study in Vietnam",
+            "role": "Principal Investigator",
+            "project_code": "CS-2022-02",
+            "management_level": "Institutional Level",
+            "period": "2022-2023",
+            "acceptance_date": "24/11/2023",
+            "rating": "Excellent"
+        }
+    ],
+    "books": [
+        {
+            "title": "New Trends & Applications in Internet of Things (IoT) and Big Data Analytics (Chương 8: Scaffolding Language Learning in the Online Classroom)",
+            "type": "Monograph",
+            "publisher": "Springer",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang: 109-122",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "English Phonetics and Phonology – An Introductory Course",
+            "type": "Textbook",
+            "publisher": "Lao Động",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang: 1-239",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "Innovation in Language Learning & Teaching: The Case of Vietnam and Cambodia (Chương 7: Pronunciation teaching innovation in the English as a foreign language classroom)",
+            "type": "Monograph",
+            "publisher": "Palgrave Macmillan",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang: 115-133",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "Innovations and Applications of Technology in Language Education (Chương 1: Professional learning for CALL teachers: A research-based approach)",
+            "type": "Monograph",
+            "publisher": "Taylor & Francis",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang: 3-19",
+            "verification_document_id": "null"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Chương trình Đại học chính quy ngành Ngôn ngữ Anh",
+            "applicant_role": "Participant",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Kinh tế Thành phố Hồ Chí Minh",
+            "implementation_document_id": "4041/QĐ-ĐHKT-ĐBCL",
+            "notes": "Đưa vào sử dụng năm 2015"
+        },
+        {
+            "title": "Chương trình Tiên tiến quốc tế đại học chính quy ngành Ngôn ngữ Anh",
+            "applicant_role": "Participant",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Kinh tế Thành phố Hồ Chí Minh",
+            "implementation_document_id": "529/QĐ-ĐHKT-ĐBCLPTCT",
+            "notes": "Đưa vào sử dụng năm 2023"
+        }
+    ]
+}

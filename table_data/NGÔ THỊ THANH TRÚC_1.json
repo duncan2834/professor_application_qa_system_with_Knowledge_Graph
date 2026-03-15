@@ -1,0 +1,593 @@
+{
+    "papers": [
+        {
+            "title": "Farmers' Awareness and Factors Affecting Adoption of Rapid Composting in Mekong Delta, Vietnam and Central Luzon, Philippines",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Science and Management ISSN 0119-1144",
+            "journal_ranking": "WoS (SCIE), IF=0,34, Scopus, Q4, SJR2012 = 0,124, H-index = 12",
+            "citation_count": 30,
+            "volume_issue_pages": "Volume 15, Issue 2, Pages 59-73",
+            "published_date": "2012"
+        },
+        {
+            "title": "Methane generation from untreated rice straw used as ruminant feeds: A comparative assessment of methane emission from rice straw by different utilization methods",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceeding of International Conference Agricultural Publishing House ISBN: 978-604-60-0055-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 590-596",
+            "published_date": "2012"
+        },
+        {
+            "title": "Farmers' Awareness and Factors Affecting Farmers' Acceptance to Grow Straw Mushroom in Mekong Delta, Vietnam and Central Luzon, Philippines",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Environment and Rural Development Print ISSN: 2185-159X Online ISSN: 2433-3700",
+            "journal_ranking": "",
+            "citation_count": 10,
+            "volume_issue_pages": "Volume 4, Issue 2, Pages 179-184",
+            "published_date": "2013"
+        },
+        {
+            "title": "Phân tích ảnh hưởng của tín dụng chính thức đến thu nhập của hộ nghèo ở tỉnh Hậu Giang",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học: Phát triển kinh tế - xã hội Đồng Bằng Sông Cửu Long năm 2015 Tổ chức tại Trường Đại học Cần Thơ ISBN: 978-604-919-513-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 221-238",
+            "published_date": "2015"
+        },
+        {
+            "title": "Factors Affecting Householders' Acceptance to Adopt Reduce, Reuse and Recycle-3Rs Program in Domestic Waste Management in Mekong Delta, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Environmental and Rural Development Print ISSN: 2185-159X Online ISSN: 2433-3700",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 7, Issue 2, Pages 162-168",
+            "published_date": "2016"
+        },
+        {
+            "title": "Factors Influencing the Adoption of Small-scale Biogas Digesters in Developing Countries - Empirical Evidence from Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Business Research ISSN: 1913-9004, E-ISSN: 1913-9012",
+            "journal_ranking": "Google based IF = 1,41 H-index = 81",
+            "citation_count": 7,
+            "volume_issue_pages": "Volume 10, Issue 2, Pages 1-8",
+            "published_date": "2017"
+        },
+        {
+            "title": "Hiệu quả kinh tế sản xuất nấm rơm (Volvariella Volvacea) ngoài trời ở Huyện Long Mỹ, Hậu Giang",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Nông nghiệp Việt Nam ISSN: 1859-0004",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 15, Issue 1, Pages 118-127",
+            "published_date": "2017"
+        },
+        {
+            "title": "Yếu tố ảnh hưởng đến nhu cầu du lịch học tập của học sinh: Nghiên cứu trường hợp tại trung tâm nông nghiệp Mùa Xuân và khu bảo tồn thiên nhiên Lung Ngọc Hoàng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Nông nghiệp Việt Nam ISSN: 1859-0004",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "Volume 15, Issue 8, Pages 1115-1126",
+            "published_date": "2017"
+        },
+        {
+            "title": "A social cost-benefit analysis of biogas technologies using rice straw and water hyacinths as feedstock",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Energy Journal ISSN:1513-718X",
+            "journal_ranking": "WoS (ESCI), IF = 1,03, Scopus, Q3, SJR2018 = 0,24",
+            "citation_count": 11,
+            "volume_issue_pages": "Volume 18, Issue 4, Pages 311-320",
+            "published_date": "2018"
+        },
+        {
+            "title": "Proposed program on improving domestic solid waste management through segregation of waste at source: An empirical research in Mekong Delta, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The UHD-CTU-UEL International Economics and Business Conference 2018 ISSN: 2472-9329 (Print) and 2472-9310 (Online)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 58-67",
+            "published_date": "2018"
+        },
+        {
+            "title": "Quantification of direct and indirect greenhouse gas emissions from rice field cultivation with different rice straw management practices-A study in the autumn-winter season in An Giang Province, Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Vietnamese Environment ISSN: 2193-6471",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 10, Issue 1, Pages 49-55",
+            "published_date": "2018"
+        },
+        {
+            "title": "Phát triển du lịch học tập của sinh viên tại Trung tâm Nông nghiệp Mùa xuân và Khu Bảo tồn thiên nhiên Lung Ngọc Hoàng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ ISSN: 1859 - 2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 55, Issue 1, Pages 102-108",
+            "published_date": "2019"
+        },
+        {
+            "title": "Đánh giá thực trạng sản xuất và tiêu thụ cua biển ở Đồng Bằng Sông Cửu Long",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo. ISSN: 0866 - 7120",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 15, Pages 2-15",
+            "published_date": "2019"
+        },
+        {
+            "title": "Phương pháp tiếp cận chuỗi cung ứng ngành hàng thủy sản ở Đồng bằng sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài chính ISSN: 2615-8973",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 726, Pages 155-158",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đề xuất cơ sở quy hoạch vùng trồng nấm rơm ở Đồng bằng sông Cửu Long.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Đồng Tháp ISSN: 0866-7675",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 10, Issue 1, Pages 49-70",
+            "published_date": "2021"
+        },
+        {
+            "title": "Hiệu quả kinh tế sản xuất nấm rơm ở đồng bằng sông Cửu Long",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ ISSN: 1859 - 2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 57, Issue 2D, Pages 211-219",
+            "published_date": "2021"
+        },
+        {
+            "title": "Phân tích hiệu quả kinh tế mô hình nuôi cua-tôm quảng canh vùng Đồng bằng Sông Cửu Long.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông Nghiệp và Phát Triển Nông Thôn ISSN: 1859 – 4581",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 14, Pages 105-112",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của chương trình VietGAP đến hiệu quả sản xuất của hộ trồng nhãn Idor ở đồng bằng sông Cửu Long",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông Nghiệp và Phát Triển Nông Thôn ISSN: 1859 – 4581",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 15, Pages 156-164",
+            "published_date": "2021"
+        },
+        {
+            "title": "Lựa chọn mô hình sản xuất của hộ trồng lúa trong điều kiện xâm nhập mặn: trường hợp Cà Mau và Sóc Trăng.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ ISSN: 1859 - 2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 57, Issue 5D, Pages 271-280",
+            "published_date": "2021"
+        },
+        {
+            "title": "So sánh hiệu quả kỹ thuật mô hình nuôi cua - tôm ở tỉnh Kiên Giang và Cà Mau",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ Đại học Đà Nẵng. Mục Khoa học xã hội ISSN: 1859-1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 19, Issue 10, Pages 20-24",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ứng dụng mô hình đánh giá tổng hợp DPSIR trong nghiên cứu thực trạng quản lý chất thải rắn sinh hoạt ở đồng bằng sông Cửu Long.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ ISSN: 1859 - 2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 57, Issue 1, Pages 108-120",
+            "published_date": "2021"
+        },
+        {
+            "title": "Phân tích mức độ tổn thương xã hội do xâm nhập mặn của các hộ sản xuất lúa tại tỉnh Kiên Giang",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp Việt Nam ISSN: 1859-1558",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 8 (129), Pages 89-98",
+            "published_date": "2021"
+        },
+        {
+            "title": "Farmers' behavior and intention to adopt integrated pest management in fruit: Case study in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Austrin Society of Agricultural Economics ISSN:1815-8129 E-ISSN: 1815-1027",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 17, Issue 11, Pages 755-769",
+            "published_date": "2021"
+        },
+        {
+            "title": "Analysis of factors affecting the consumption intention of processed sea crabs in big cities in Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Austrin Society of Agricultural Economics ISSN:1815-8129 E-ISSN: 1815-1027",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 18, Issue 1, Pages 841-849",
+            "published_date": "2022"
+        },
+        {
+            "title": "Impacts of adopting specialized agricultural programs relying on “good practice”-Empirical evidence from fruit growers in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Open Agriculture ISSN: 2391-9531 (De Gruyter)",
+            "journal_ranking": "WoS (ESCI), IF=1,64, Scopus, Q2, SJR2022=0,42, Citescore2022=3,2, H-index=20",
+            "citation_count": 7,
+            "volume_issue_pages": "Volume 7, Issue 1, Pages 39-49",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phân tích mức độ tổn thương xã hội do xâm ngập mặn của các hộ sản xuất lúa ở Đồng Bằng Sông Cửu Long",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường ISSN: 0866-7608",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 40, Pages 41-58",
+            "published_date": "2022"
+        },
+        {
+            "title": "Impact of saltwater intrusion on relation to fruit growing households in Ben Tre, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Agricultural and Resource Economics: International Scientific E-Journal ISSN: 2414-584X",
+            "journal_ranking": "WoS (ESCI), Scopus, Q3, Citescore2022 = 0,2, H-index=5",
+            "citation_count": 8,
+            "volume_issue_pages": "Volume 8, Issue 1, Pages 133-151",
+            "published_date": "2022"
+        },
+        {
+            "title": "Lựa chọn mô hình sản xuất của hộ trồng lúa trong điều kiện xâm nhập mặn ở Đồng Bằng Sông Cửu Long",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển ISSN: 1859-0012",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume (297), Pages 74-82",
+            "published_date": "2022"
+        },
+        {
+            "title": "Quản lý chuỗi cung ứng ngành hàng cua biển vùng Đồng bằng Sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại ISSN: 1859-3666",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 162, Pages 12-22",
+            "published_date": "2022"
+        },
+        {
+            "title": "The Tourism-Poverty Nexus: Does Tourism Spending Influence Poverty Rates? Empirical Evidence from Regional Vietnamese Data",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Poverty Print ISSN: 1087-5549 Online ISSN: 1540-7608 (Taylor & Francis)",
+            "journal_ranking": "WoS (ESCI), IF=1,71, Scopus, Q2, SJR2023= 0,395",
+            "citation_count": 27,
+            "volume_issue_pages": "Volume 27 (2), Pages 153-165",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ảnh hưởng của chiến lược sinh kế ứng phó với xâm nhập mặn và kinh tế đến thu nhập hộ trồng măng cụt ở tỉnh Bến Tre",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ ISSN: 1859 - 2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 59, Issue 2, Pages 221-229",
+            "published_date": "2023"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến chiến lược sinh kế của hộ gia đình vùng xâm nhập mặn vùng Đồng bằng Sông Cửu Long",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn ISSN: 1859-4581",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 14, Pages 92-101",
+            "published_date": "2023"
+        },
+        {
+            "title": "Impact of saltwater intrusion on poverty in rural households in the Mekong Delta, Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nature, 17(04), 557-570. E-ISSN: 1994-1633",
+            "journal_ranking": "Scopus, Q4, SJR2023=0,16",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 17(04), Pages 557-570",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đa dạng hóa sinh kế và nghèo đói ở vùng bị xâm nhập mặn của vùng Đồng bằng Sông Cửu Long",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Kinh tế và kinh doanh Châu Á. ISSN: 2615-9104",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 34(09), Pages 04-19",
+            "published_date": "2023"
+        },
+        {
+            "title": "Impact of saltwater intrusion on the livelihood outcomes of rural households in the Mekong Delta",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding ICYREB 2023 the 17th International Conference for Young Researchers in Economics and Business. NXB Kinh tế TP.HCM. ISBN: 978-604-346-251-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 169-176",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mechanism of impact of salinity intrusion on rural household livelihoods in the Mekong Delta",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceeding of 19th NEU-KKU International Conference in Socio-economic and Environmental Issues in Development. Finance and Publishing House. ISBN: 978-604-79-4446-0.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 1719-1731",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Phân tích hiệu quả kinh tế các hình thức sử dụng trấu ở Đồng bằng sông Cửu Long",
+            "role": "Principal Investigator",
+            "project_code": "T51/2015",
+            "management_level": "Cấp cơ sở (ĐHCT)",
+            "period": "2015-2016",
+            "acceptance_date": "31/8/2016",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Phát triển nông nghiệp và vấn đề suy thoái tài nguyên thiên nhiên ở Đồng Bằng Sông Cửu Long",
+            "role": "Principal Investigator",
+            "project_code": "TCN2016-26",
+            "management_level": "Cấp cơ sở (ĐHCT)",
+            "period": "2016",
+            "acceptance_date": "31/8/2016",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Lồng ghép giới trong nghiên cứu phát triển bền vững chuỗi giá trị nhãn Idor ở Đồng Bằng Sông Cửu Long.",
+            "role": "Principal Investigator",
+            "project_code": "B2019-TCT-07",
+            "management_level": "Cấp bộ",
+            "period": "2019-2022",
+            "acceptance_date": "23/10/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Cải thiện chuỗi giá trị nấm rơm ở Đồng Bằng Sông Cửu Long",
+            "role": "Key Member",
+            "project_code": "KHCN-TNB.ĐT/14-19/C09",
+            "management_level": "",
+            "period": "2017-2021",
+            "acceptance_date": "29/12/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Du lịch có đóng góp vào bảo tồn đa dạng sinh học và phúc lợi kinh tế cộng đồng tại vườn quốc gia Tràm Chim, Việt Nam không? (Does Tourism Contribute to the Biodiversity Conversation and Community Well-being in Tram Chim National Park, Vietnam?)",
+            "role": "Principal Investigator",
+            "project_code": "DAKT062017",
+            "management_level": "Đề tài quốc tế",
+            "period": "2015-2016",
+            "acceptance_date": "26/4/2017",
+            "rating": "Hoàn thành"
+        },
+        {
+            "title": "Lồng ghép giới và phân tích chuỗi giá trị để phát triển sản xuất nấm rơm ở Đồng Bằng Sông Cửu Long: Tình huống ở huyện Vĩnh Lợi, tỉnh Bạc Liêu (Including gender issues and value chain analysis to develop straw mushroom production in the Mekong Delta: Case study Vinh Loi district, Bac Lieu province)",
+            "role": "Principal Investigator",
+            "project_code": "ASPHIL00618NCKT",
+            "management_level": "Đề tài quốc tế",
+            "period": "2015-2016",
+            "acceptance_date": "26/6/2022",
+            "rating": "Hoàn thành"
+        },
+        {
+            "title": "Nghiên cứu tính khả thi về kinh tế - xã hội của các giải pháp áp dụng giảm thiểu ô nhiễm môi trường và tác động của biến đổi khí hậu (To study the socio - economic feasibilikty of the climate change and environment – related solutions)",
+            "role": "Key Member",
+            "project_code": "E-10",
+            "management_level": "Đề tài ODA",
+            "period": "2018-2021",
+            "acceptance_date": "01/12/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu ổn định các hệ thống canh tác khác nhau trong bối cảnh xuất hiện các sự kiện thời tiết khắc nghiệt và hủy hoại môi trường (To study on the resilience of different farming systems in the context of extreme weather events and environmental degradation)",
+            "role": "Key Member",
+            "project_code": "E-11",
+            "management_level": "Đề tài ODA",
+            "period": "2018-2021",
+            "acceptance_date": "30/12/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Áp dụng các giải pháp khí sinh học bền vững ở Đồng bằng sông Cửu Long, Việt Nam: Các phương án và rào cản để tăng cường sử dụng sinh khối làm nguyên liệu cho khí sinh học của nông dân và hộ gia đình nhằm giảm phát thải khí nhà kính và giảm chi phí năng lượng (Adopting sustainable biogas solutions in the Mekong Delta, Vietnam: Options and barriers for increased usage of biomass as feedstock for biogas among farmers and households in order to reduce greenhouse gas emissions and lower energy costs)",
+            "role": "Principal Investigator",
+            "project_code": "ASPHIL00618NCKT",
+            "management_level": "Đề tài quốc tế",
+            "period": "2017-2019",
+            "acceptance_date": "10/6/2024",
+            "rating": "Hoàn thành"
+        }
+    ],
+    "books": [
+        {
+            "title": "Chương sách trong \"Bases for Territory-based Rural Development in the Mekong Delta, Vietnam\"",
+            "type": "Reference Book",
+            "publisher": "Agricultural Publishing House",
+            "publish_year": "2006",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 100-143",
+            "verification_document_id": "Giấy xác nhận số 2209/GXN-ĐHCT, 20/06/2024"
+        },
+        {
+            "title": "Chương sách trong \"Based for small and medium sized enterprises and farming household development in the Mekong Delta\"",
+            "type": "Reference Book",
+            "publisher": "Vietnam Education Publishing House",
+            "publish_year": "2008",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 242-275 (02 lần trích dẫn)",
+            "verification_document_id": "Giấy xác nhận số 2210/GXN-ĐHCT, 20/06/2024"
+        },
+        {
+            "title": "Delta",
+            "type": "Reference Book",
+            "publisher": "",
+            "publish_year": "",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 493-529",
+            "verification_document_id": "Giấy xác nhận số 1912/GXN-ĐHCT, 27/06/2022"
+        },
+        {
+            "title": "Chương sách trong Cost-Benefit Studies of Natural Resource Management in Southeast Asia",
+            "type": "Monograph",
+            "publisher": "Spinger",
+            "publish_year": "2015",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 157-175 (02 lần trích dẫn)",
+            "verification_document_id": "Giấy xác nhận số 2211/GXN-ĐHCT, 20/06/2024"
+        },
+        {
+            "title": "Phát triển kinh tế Đồng Bằng Sông Cửu Long: Thành tựu và thách thức",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Đại học Cần Thơ",
+            "publish_year": "2016",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 176-195",
+            "verification_document_id": "Giấy xác nhận số 2224/GXN-ĐHCT, 20/06/2024"
+        },
+        {
+            "title": "Chương sách trong \"Sustainable rice straw management\"",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Spinger",
+            "publish_year": "2020",
+            "num_authors": 11,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 93-109 (26 lần trích dẫn)",
+            "verification_document_id": "Giấy xác nhận số 2212/GXN-ĐHCT, 20/06/2024"
+        },
+        {
+            "title": "Chương sách trong \"Sustainable rice straw management\"",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Spinger",
+            "publish_year": "2020",
+            "num_authors": 10,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 175-192 (05 lần trích dẫn)",
+            "verification_document_id": "Giấy xác nhận số 2212/GXN-ĐHCT, 20/06/2024"
+        },
+        {
+            "title": "Chuỗi giá trị nấm rơm ở Đồng Bằng Sông Cửu Long",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Đại học Cần Thơ",
+            "publish_year": "2020",
+            "num_authors": 13,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 1 – 42, 113 – 159 và",
+            "verification_document_id": "Giấy xác nhận số 1881/GXN-ĐHCT, 4/06/2024"
+        },
+        {
+            "title": "Môi trường và nông nghiệp Đồng Bằng Sông Cửu Long: Phân tích kinh tế",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Đại học Cần Thơ",
+            "publish_year": "2021",
+            "num_authors": 13,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 5. Các yếu tố ảnh hưởng đến mức độ chấp nhận áp dụng mô hình biogas – thực vật. Trang 66-83; Chương 8. Hiệu quả kinh tế của sản xuất lúa Trang 128-139",
+            "verification_document_id": "Giấy xác nhận số 1882/GXN-ĐHCT, 4/06/2024"
+        },
+        {
+            "title": "Tác động của xâm nhập mặn đến các mô hình sử dụng đất vùng Đồng Bằng Sông Cửu Long",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Cần Thơ",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 2. Chiến lược sinh kế thích ứng với xâm ngập mặn đến thu nhập hộ trồng măng cụt và lúa tại tỉnh Bến Tre. Trang 28-38; Chương 3. Phân tích hiệu quả kinh tế các hộ trồng lúa ở Bến Tre. Trang 39-47",
+            "verification_document_id": "Giấy xác nhận số 1883/GXN-ĐHCT, 4/6/2024"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "CTĐT đại học ngành Kinh tế tài nguyên thiên nhiên",
+            "applicant_role": "Secretary for curriculum adjustment",
+            "assignment_document_id": "QĐ số 4946/QĐ-ĐHCT 30/10/2013",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "QĐ 2975/QĐ-ĐHCT ngày 28/8/2014 (Khóa 40)",
+            "notes": ""
+        },
+        {
+            "title": "CTĐT đại học ngành Kinh tế tài nguyên thiên nhiên",
+            "applicant_role": "Member of curriculum adjustment board",
+            "assignment_document_id": "QĐ số 4235/QĐ-ĐHCT, 26/09/2018",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "QĐ số 3019/QĐ-ĐHCT ngày 31/7/2019 (Khóa 45); QĐ số 1063/QĐ-ĐHCT ngày 29/05/2020 (Từ Khóa 46)",
+            "notes": "Minh chứng ở mục III, tập 2A"
+        },
+        {
+            "title": "CTĐT đại học ngành Kinh tế tài nguyên thiên nhiên",
+            "applicant_role": "Member of curriculum adjustment board",
+            "assignment_document_id": "QĐ số 4788/QĐ-ĐHCT, 19/11/2021",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "QĐ số 3334/QĐ-ĐHCT, 24/8/2022 (Khóa 48)",
+            "notes": ""
+        },
+        {
+            "title": "CTĐT đại học ngành Kinh tế tài nguyên thiên nhiên từ khóa 48",
+            "applicant_role": "Deputy head of curriculum adjustment board",
+            "assignment_document_id": "QĐ số 800/QĐ-ĐHCT, 02/03/2023",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "QĐ số 2423/QĐ-ĐHCT, 5/6/2023 (Khóa 49)",
+            "notes": ""
+        },
+        {
+            "title": "Dự án Nâng cấp trường Đại học Cần Thơ",
+            "applicant_role": "Member",
+            "assignment_document_id": "QĐ số 4201/QĐ-ĐHCT, 15/10/2013",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Thực hiện chương trình nghiên cứu khoa học E10 và E11",
+            "notes": ""
+        }
+    ]
+}

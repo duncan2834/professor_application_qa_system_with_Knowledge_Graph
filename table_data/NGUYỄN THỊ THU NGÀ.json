@@ -1,0 +1,620 @@
+{
+    "papers": [
+        {
+            "title": "Ảnh hưởng của hạn sinh lý đến một số chi tiêu sinh hóa ở giai đoạn nảy mầm của một số giống lạc",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn, ISSN: 0866-7020",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, tr. 34-39",
+            "published_date": "06/2007"
+        },
+        {
+            "title": "Đánh giá tính đa hình ADN của một số giống lạc",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học, số đặc biệt, ISSN: 1811-4989",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8(3A) tr.533-538",
+            "published_date": "10/2010"
+        },
+        {
+            "title": "Phân nhóm các giống lạc theo khả năng chịu hạn khác nhau",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và phát triển nông thôn, ISSN: 0866-7020",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 167, tr. 48-54.",
+            "published_date": "08/2011"
+        },
+        {
+            "title": "Nghiên cứu khả năng tái sinh và biến nạp gen ở cây lạc (Arachis hypogaea L.) thông qua mô sẹo hóa và phôi soma",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh học, ISSN: 0866-7160",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "T34(3), tr. 370-376.",
+            "published_date": "09/2012"
+        },
+        {
+            "title": "Tách dòng, giải trình tự và đặc điểm của transcription factor NAC2 trên cây lạc (Arachis hypogaea L.)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh học, ISSN: 0866-7160",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "T35(2), tr. 234-242.",
+            "published_date": "06/2013"
+        },
+        {
+            "title": "Đánh giá khả năng chịu hạn ở mức độ mô sẹo và giai đoạn cây non của các giống lạc L12, L14, L15, L25, V79",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "National Conference Proceedings: Những vấn đề nghiên cứu cơ bản trong khoa học sự sống",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 805-808",
+            "published_date": "08/2007"
+        },
+        {
+            "title": "Thiết kế vector chuyển gen mang gen mã hóa nhân tố phiên mã NAC2 điều khiển tính chống chịu hạn của cây lạc",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học Công nghệ Sinh học toàn quốc, ISBN: 978-604-913-759-4",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "tr. 935-939",
+            "published_date": "09/2013"
+        },
+        {
+            "title": "Two new spirostanol glycosides from the aerial part of Cordyline fruticosa https://link.springer.com/article/10.1007/s10600-024-04353-z",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemistry of Natural Compounds",
+            "journal_ranking": "SCIE; IF 0.8; Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 60, No. 3",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Chemical constituents of Adinandra glischroloma Hand.-Mazz. and their chemotaxonomic significance https://doi.org/10.1016/j.bse.2024.104803",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biochemical Systematics and Ecology",
+            "journal_ranking": "SCIE; IF 1.6; Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 113 /104803",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Pollen and Seed Morphology of Cleome Species (Cleomaceae) in Vietnam http://doi.org/10.17576/jsm-2023-5207-07",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sains Malaysiana",
+            "journal_ranking": "SCIE; IF 0.8; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 52(7), 1977-1984",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Chemical constituents and biological activities of the leaves of Adinandra megaphylla https://doi.org/10.1016/j.phytol.2023.06.002",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry Letters",
+            "journal_ranking": "SCIE; IF 1.7 Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 56, 19-23",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Characteristics of the Chloroplast Genome of Adinandra bockiana and Comparative Analysis with Species of Pentaphylacaceae Family https://link.springer.com/article/10.1007/s11105-023-01389-3",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plant Molecular Biology Reporter",
+            "journal_ranking": "SCIE; IF 2.1; Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.41, 611-621",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Chemical composition and cytotoxic effects of essential oils from Capparis trinervia Hook. F. & Thomson on cancer cell lines https://doi.org/10.1080/13102818.2022.2028578",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biotechnology & Biotechnological Equipment",
+            "journal_ranking": "SCIE; IF 1.4; Q3",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol. 35(1), 1926-1933",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Complete chloroplast genome of novel Adrinandra megaphylla Hu species: molecular structure, comparative and phylogenetic analysis https://www.nature.com/articles/s41598-021-91071-z",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientific Reports",
+            "journal_ranking": "SCIE; IF 4.6; Q1",
+            "citation_count": 37,
+            "volume_issue_pages": "11 (11731)",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Antibacterial, Antioxidant, and Anti-Cancerous Activities of Adiandra megaphylla Hu Leaf Extracts http://dx.doi.org/10.21786/bbrc/13.3/5",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioscience Biotechnology Research Communications",
+            "journal_ranking": "International Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "13(3)",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Identification of Paris species from Sa pa and Pu luong in Viet Nam using DNA barcodes",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 5th Academic Conference on Natural Science",
+            "journal_ranking": "International Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "190-196",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Đặc điểm hình thái và trình tự rps16-trnQ loài Cẩm cù lộc (Hoya lockii V.T.Pham & Aver.) https://jst.tnu.edu.vn/jst/article/view/10222/pdf",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "229(09): 298-305",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Thành phần hóa học và thử nghiệm hoạt tính sinh học của cây Trà hoa vàng (Camellia chrysantha) thu thập tại Thái Nguyên https://jst.tnu.edu.vn/jst/article/view/9963/pdf",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "229(09): 167-175",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Đặc điểm hình thái, giải phẫu và vùng gene matk của cây muồng hoàng yến (Cassia fistula L.) https://jst.tnu.edu.vn/jst/article/view/9291/pdf",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "229(05): 259-266",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Đặc điểm hình thái, giải phẫu và trình tự gen rbcL của loài Sum lông (Adinandra glischromola)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "228(13): 289-297",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Nghiên cứu phân lập saponin steroid từ rễ loài Huyết dụ (Cordyline fruticosa (L.) A. Chev) https://jst.tnu.edu.vn/jst/article/view/8346/pdf",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "228(13): 199-206",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Đặc điểm giải phẫu và trình tự chỉ thị trnH-psbA phân lập từ mẫu cây Trà hoa vàng thu thập tại Thái Nguyên https://jst.tnu.edu.vn/jst/article/view/7587/pdf",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "228(05): 439-447",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Thành phần hóa học và hoạt tính sinh học của cao chiết từ lá loài Dương đồng bốc (Adinandra bockiana E. Pritz. ex Diels) https://doi.org/10.31276/VJST.64(12).34-38",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và công nghệ Việt Nam, ISSN: 1859-4794; e-ISSN 2615-9929",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "64(12): 34-38",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Nghiên cứu cảm ứng và nuôi cấy tạo rễ tơ cây Vú bò (Ficus simplicissima Lour.) https://jst.tnu.edu.vn/jst/article/view/6552/pdf",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "228(01): 175-183",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Thành phần hóa học và hoạt tính sinh học của cao chiết từ thân của loài Sum lông https://jst.tnu.edu.vn/jst/article/view/5561/pdf",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "227(05): 232-239",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Đặc điểm của gene rrn16S, trnK-UUU và sự phát sinh loài Adinandra megaphylla Hu thu tại tỉnh Lào Cai, Việt Nam https://jst.tnu.edu.vn/jst/article/view/5795/pdf",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "227(05): 186-194",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Nghiên cứu tạo nang micro curcumin bằng phương pháp tạo gel ion https://jst.tnu.edu.vn/jst/article/view/5115/pdf",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "226(14): 222-229",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Đặc điểm trình tự đoạn gen ndhF của loài Cáp Đắk nông (Capparis daknongenesis D.T. Sy, G.C. Tucker, Cornejo & Joongku Lee) https://nsti.vista.gov.vn/publication/download/hE/qFPsUqFIDP.html",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn, ISSN: 0866-7020",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "417(2): 82-90",
+            "published_date": "09/2021"
+        },
+        {
+            "title": "Nghiên cứu nuôi cấy in vitro cây Cẩm cù tên lửa (Hoya multiflora) https://jst.tnu.edu.vn/jst/article/view/4571/pdf",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "226(10): 154-162",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "Nghiên cứu hình thái, giải phẫu và phương pháp khử trùng tạo mẫu sạch phục vụ nhân giống in vitro cây Dương đồng Adinandra sp. https://jst.tnu.edu.vn/jst/article/view/3064/pdf",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "225(08): 134-141",
+            "published_date": "07/2020"
+        },
+        {
+            "title": "Sử dụng mã vạch DNA trong việc định loại mẫu cây Dây tấm cám (Stixis ovata (Korth.) Hall. f. subsp. fasciculata (King) Jacobs)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn, ISSN: 0866-7020",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "9-14",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Tách dòng, phân tích trình tự đoạn gen mã hóa độc tố Apx la từ Actinobacillus pleuropneumoniae https://jst.tnu.edu.vn/jst/article/view/579/pdf",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "180(04): 176-180",
+            "published_date": "04/2018"
+        },
+        {
+            "title": "Nghiên cứu cơ chế nhân rộng trong tiến hóa của các gen mã hóa nhân tố phiên mã nuclear factor NF-YB ở cây cam ngọt (Citrus sinensis)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "180(04): 37-41",
+            "published_date": "04/2018"
+        },
+        {
+            "title": "Sử dụng mã vạch DNA để định loại loài Màn màn vàng (Cleome viscosa L.) ở Việt Nam https://jst.tnu.edu.vn/jst/article/view/1299/pdf",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "164(04): 147-152",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "Sử dụng mã vạch DNA trong việc định loại loài cây dược liệu Thất diệp nhất chi hoa ở Việt Nam https://jst.tnu.edu.vn/jst/article/view/1532/pdf",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "161(01): 81-87",
+            "published_date": "01/2017"
+        },
+        {
+            "title": "Tách dòng phân tử mang đoạn gen B hoạt hóa sinh tổng hợp anthocyanin ở cây ngô nếp địa phương (Zea mays subsp. ceratina (Kuelshov) Zhuk) https://vjs.ac.vn/index.php/vjbt/article/view/9299/7584",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "14(1): 97-103",
+            "published_date": "03/2016"
+        },
+        {
+            "title": "Nghiên cứu môi trường nhân giống in vitro cây Xạ đen (Celastrus hindsii Benth)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "153(08): 135-139",
+            "published_date": "07/2016"
+        },
+        {
+            "title": "Đặc điểm của trình tự gen rpoC1 phân lập từ cây thất diệp nhất chi hoa (Phipolyphylla sm.) thu tại Lạng Sơn, Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "146(01): 165-168",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Biểu hiện protein NAC2 liên quan đến khả năng chống chịu hạn của giống lạc L12 trong cây thuốc lá",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "13(4): 1101-1106",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Phân tích trình tự nucleotide của gen mã hóa nhân tố phiên mã NAC3 phân lập từ giống lạc L14",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology, ISSN: 2374-9098; e-ISSN 2615-9562",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "142(12): 113-117",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Nghiên cứu môi trường nuôi cấy in vitro cây Nhàu (Morinda Citrifolia L.)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học Công nghệ sinh học toàn quốc, ISBN: 978-604-913-759-4",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "1987-1996",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Đặc điểm trình tự gen trnL phân lập từ mẫu cây thuộc chi Cẩm cù phục vụ mục đích định danh loài",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học Công nghệ sinh học toàn quốc, ISBN: 978-604-913-759-4",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "125-130",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Định danh loài Cáp gai nhỏ Capparis sp. ở khu bảo tồn thiên nhiên Tà kóu huyện Hàm Thuận Nam, tỉnh Bình Thuận bằng mã vạch DNA",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học Công nghệ sinh học toàn quốc, ISBN: 978-604-913-759-4",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "143-148",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Nghiên cứu nhân giống cây bưởi Diễn (Citrus grandis L.) bằng kỹ thuật nuôi cấy in vitro",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học Công nghệ sinh học toàn quốc, ISBN: 978-604-913-759-4",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "411-416",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Một số đặc điểm hình thái, giải phẫu, và trình tự gen matk của mẫu lá bảy lá một hoa thu tại Lào Cai",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học Công nghệ sinh học toàn quốc, ISBN: 978-604-913-759-4",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "1665-1671",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Isolation and characterizion of a NF-YB gene in soybean (Glycine max L.) var. DT2008",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học Công nghệ sinh học toàn quốc, ISBN: 978-604-913-759-4",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "1646-1651",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Nghiên cứu môi trường nuôi cấy in vitro cây măng tây (Asparagus officinalis (1.)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học toàn quốc về nghiên cứu và giảng dạy Sinh học ở Việt Nam lần thứ 3.",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "1034-1040",
+            "published_date": "05/2018"
+        },
+        {
+            "title": "Sử dụng mã vạch DNA trong việc định loại hai loài thuộc họ Màn màn",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học toàn quốc về nghiên cứu và giảng dạy Sinh học ở Việt Nam lần thứ 3.",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "1132-1139",
+            "published_date": "05/2018"
+        },
+        {
+            "title": "Sử dụng mã vạch DNA trong việc định loại loài Hồng trâu (Capparis versicolor Griff)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Báo cáo khoa học về sinh thái và tài nguyên",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "62-66",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Sưu tập và phân tích đặc điểm trình tự đoạn gen rpoC1 của cây Bảy lá một hoa (Paris polyphylla Sm.)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "sinh vật – Hội nghị Khoa học Toàn quốc lần thứ 7, ISBN: 978-604-913-615-3",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "971-978",
+            "published_date": "10/2016"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu kỹ thuật chuyển gen nhằm cải tạo tính chịu hạn của cây lạc",
+            "role": "Principal Investigator",
+            "project_code": "B2009-TN04-24",
+            "management_level": "Cấp Bộ Giáo dục và Đào tạo",
+            "period": "2009-2011",
+            "acceptance_date": "25/07/2011",
+            "rating": "Khá"
+        },
+        {
+            "title": "Sử dụng phương pháp hình thái học truyền thống kết hợp với phương pháp sinh học phân tử trong nghiên cứu đa dạng và hệ thống học họ Màn màn (Capparaceae) ở Việt Nam",
+            "role": "Key Member",
+            "project_code": "106-NN.03-2015.20",
+            "management_level": "Quỹ phát triển Khoa học và Công nghệ Quốc gia",
+            "period": "2015-2019",
+            "acceptance_date": "26/01/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu môi trường nhân nhanh cây Xạ đen (Celastrus Hindsii Benth)",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2015-2016",
+            "acceptance_date": "18/07/2016",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu bảo tồn cây Bảy lá một hoa (Paris polyphylla Sm.) tại tỉnh Thái Nguyên",
+            "role": "Assistant",
+            "project_code": "B2017-TNA-04-QG",
+            "management_level": "Cấp Bộ Giáo dục và Đào tạo",
+            "period": "2017",
+            "acceptance_date": "09/02/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu bảo tồn cây Bảy lá một hoa (Paris polyphylla Sm.) tại tỉnh Thái Nguyên",
+            "role": "Assistant",
+            "project_code": "B2018-TNA-04-Gen",
+            "management_level": "Cấp Bộ Giáo dục và Đào tạo",
+            "period": "2018",
+            "acceptance_date": "06/08/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tính đa dạng và mối quan hệ phát sinh chủng loại của các họ thuộc bộ Cải (Brassicales) ở Việt Nam",
+            "role": "Key Member",
+            "project_code": "106.03-2019.10",
+            "management_level": "Quỹ phát triển Khoa học và Công nghệ Quốc gia",
+            "period": "2019-2023",
+            "acceptance_date": "08/12/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tìm kiếm hợp chất thứ cấp có khả năng kháng viêm, kháng ung thư và nuôi cấy in vitro một số loài thực vật thuộc chi Dương đồng (Adinandra), họ chè (Theaceae) ở Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "B2019-TNA-08",
+            "management_level": "Cấp Bộ Giáo dục và Đào tạo",
+            "period": "2019-2020",
+            "acceptance_date": "17/06/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu tác dụng kháng khuẩn, chống oxy hóa và chống ung thư của các hợp chất phân lập được từ loài Sum lông (Adinandra glischroloma) thu tại miền Bắc Việt Nam",
+            "role": "Assistant",
+            "project_code": "B2022-TNA-43",
+            "management_level": "Cấp Bộ Giáo dục và Đào tạo",
+            "period": "2022-2023",
+            "acceptance_date": "21/03/2024",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Thực hành công nghệ sinh học nâng cao",
+            "type": "Textbook",
+            "publisher": "Nxb Hà Nội",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Sinh học tế bào",
+            "type": "Textbook",
+            "publisher": "Nxb Đại học Quốc gia Hà Nội",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "Số 687/QĐ-ĐHSP, ngày 28/03/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo thạc sĩ ngành Di truyền học, ngành Sinh học thực nghiệm",
+            "applicant_role": "Participant",
+            "assignment_document_id": "Số 781/KH-ĐHSP ngày 19/02/2021 của Hiệu trưởng Trường ĐH Sư phạm - ĐH Thái Nguyên",
+            "certifying_authority": "Trường ĐH Sư phạm - ĐH Thái Nguyên",
+            "implementation_document_id": "QĐ 4168/QĐ-ĐHSP ngày 15/10/2021",
+            "notes": "Rà soát, cập nhật, điều chỉnh chương trình đào tạo thạc sĩ năm 2021"
+        },
+        {
+            "title": "Chương trình đào tạo tiến sĩ ngành Di truyền học",
+            "applicant_role": "Participant",
+            "assignment_document_id": "Số 257/KH-ĐHSP ngày 22/2/2022 của Hiệu trưởng Trường ĐH Sư phạm - ĐH Thái Nguyên",
+            "certifying_authority": "Trường ĐH Sư phạm - ĐH Thái Nguyên",
+            "implementation_document_id": "QĐ 1854/QĐ-ĐHSP ngày 29/7/2022",
+            "notes": "Rà soát, cập nhật, điều chỉnh chương trình đào tạo"
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "papers": [
+        {
+            "title": "Phát triển doanh nghiệp vừa và nhỏ ở nước ta: Thực trạng và Giải pháp",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị ISSN: 0868-2771",
+            "journal_ranking": "",
+            "citation_count": 10,
+            "volume_issue_pages": "63-66",
+            "published_date": "10/2004"
+        },
+        {
+            "title": "Cổ phần hóa doanh nghiệp nhà nước – những vướng mắc và giải pháp tháo gỡ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Chính trị ISSN: 0868-3840",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "38-43",
+            "published_date": "2005"
+        },
+        {
+            "title": "Hoạt động của khu vực kinh tế không chính thức ở Việt Nam: Các hình thái và tác động",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển kinh tế ISSN: 1859-1124",
+            "journal_ranking": "",
+            "citation_count": 189,
+            "volume_issue_pages": "31-33",
+            "published_date": "7/2006"
+        },
+        {
+            "title": "Múc độ hoạt động của kinh tế không chính thức ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Chính trị ISSN: 1859-0187",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "36-39",
+            "published_date": "8/2006"
+        },
+        {
+            "title": "Về phát triển bền vững ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Chính trị ISSN: 1859-0187",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "16-23",
+            "published_date": "8/2007"
+        },
+        {
+            "title": "Vấn đề hội nhập kinh tế quốc tế của doanh nghiệp Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Chính trị ISSN: 1859-0187",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "47-52",
+            "published_date": "8/2008"
+        },
+        {
+            "title": "Đào tạo nguồn nhân lực y tế ở Đồng bằng sông Cửu Long hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển nhân lực ISSN: 1859-2732",
+            "journal_ranking": "",
+            "citation_count": 5,
+            "volume_issue_pages": "42, 23-27",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Đào tạo nguồn nhân lực ở Đồng bằng sông Cửu Long: Thực trạng và giải pháp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển và Hội nhập ISSN: 1859-428X",
+            "journal_ranking": "",
+            "citation_count": 21,
+            "volume_issue_pages": "31, 78-81",
+            "published_date": "03-04/2015"
+        },
+        {
+            "title": "Các nhân tố tác động đến mức độ hài lòng của sinh viên các trường Đại học tại Đồng bằng sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Trường Đại học Cần Thơ ISSN: 1859-2333 e-ISSN: 2815-5599",
+            "journal_ranking": "",
+            "citation_count": 40,
+            "volume_issue_pages": "19-30",
+            "published_date": "04/2015"
+        },
+        {
+            "title": "Factors affecting MICE travel in Ho Chi Minh city",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Turkish Online Journal of Qualitative Inquiry ISSN: 1309-6591 e-ISSN: 1309-6591",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12, Issue 6, pp. 5195-5201",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "The Role of Corporate Social Responsibilities and Personnel Risk Management in Business Management in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Construction Supply Chain Management ISSN: 1179-0776",
+            "journal_ranking": "Scopus (IF: 0,8; Q4) H-Index: 7",
+            "citation_count": 11,
+            "volume_issue_pages": "Vol. 12, No. 1, pp. 114-126",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Impact of Energy Consumption and Agriculture Growth on the Environmental Degradation: Evidence from ASEAN Countries",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "AgBioForum ISSN: 1522-936X",
+            "journal_ranking": "Scopus (IF: 4,111; Q3) H-Index: 44",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 24, No. 1, pp. 116-128",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "The influence of economic factors on the sustainable energy consumption: evidence from China",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Economic Research-Ekonomska Istraživanja ISSN: 1848-9664 e-ISSN: 1331-677X",
+            "journal_ranking": "ISI, Scopus (IF: 3,544; Q2) H-Index: 53",
+            "citation_count": 80,
+            "volume_issue_pages": "Vol. 36, No. 1, pp. 1751-1773",
+            "published_date": "07/2022"
+        },
+        {
+            "title": "The role of ecological consequences of green energy in developed and developing economies",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Economic Research-Ekonomska Istraživanja ISSN: 1848-9664 e-ISSN: 1331-677X",
+            "journal_ranking": "ISI, Scopus (IF: 3,544; Q2) H-Index: 53",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 36, No. 1, pp. 906-929",
+            "published_date": "07/2022"
+        },
+        {
+            "title": "Association Between Post-Covid Socio-Economic Development and Energy-Growth-Environment Nexus from Developing Economy",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Economics and Finance Studies ISSN: 1309-8055",
+            "journal_ranking": "Scopus (IF: 2,064; Q3) H-Index: 13",
+            "citation_count": 32,
+            "volume_issue_pages": "Vol. 14, No. 02, pp. 247-270",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "Commodity dynamism in the COVID-19 crisis: Are gold, oil, and stock commodity prices, symmetrical?",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Resources Policy ISSN: 0301-4207",
+            "journal_ranking": "ISI, Scopus (IF: 8,018; Q1) H-Index: 114",
+            "citation_count": 37,
+            "volume_issue_pages": "Vol. 79",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Factors influencing the sustainable energy technologies adaptation in ASEAN countries",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sustainable Energy Technologies and Assessments ISSN: 2213-1388",
+            "journal_ranking": "ISI, Scopus (IF: 7,8; Q1) H-Index: 77",
+            "citation_count": 15,
+            "volume_issue_pages": "Vol 53, Part C",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "Sharing economy benefits and sustainable development goals: Empirical evidence from the transportation industry of Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Innovation & Knowledge ISSN: 2530-7614",
+            "journal_ranking": "ISI, Scopus (IF: 12,2; Q1) H-Index: 54",
+            "citation_count": 70,
+            "volume_issue_pages": "Vol. 8, Issue 1, pp. 1-10",
+            "published_date": "01-03/2023"
+        },
+        {
+            "title": "The Impact of Information Technology Adoption, Government Policies, and Effective Labor Force on the Financial Performance of Manufacturing Companies in Vietnam: Moderating Role of Organizational Support",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cuadernos de Economia (Spain) ISSN: 0210-0266",
+            "journal_ranking": "ESCI, Scopus (IF: 1,075; Q2) H-Index: 15",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 46, Issue 130, pp. 87-95",
+            "published_date": "01-04/2023"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến chiến lược sinh kế của hộ gia đình vùng xâm nhập mặn Đồng bằng sông Cửu Long",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn ISSN: 1859-4581",
+            "journal_ranking": "",
+            "citation_count": 7,
+            "volume_issue_pages": "2, 92-101",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Đánh giá nguồn vốn sinh kế của hộ gia đình bị xâm nhập mặn ở Đồng bằng sông Cửu Long: Phương pháp trọng số entropy",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo Chính sách và thực trạng kinh tế nông nghiệp Việt Nam ISBN: 978-604-474-145-1",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42-54",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "What role economic growth and sustainability-orientedinnovation play on the level of carbon emission: case of China",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Economic Research-Ekonomska Istraživanja ISSN: 1848-9664 e-ISSN: 1331-677X",
+            "journal_ranking": "Scopus (IF: 3,544; Q2) H-Index: 53",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 36, No. 3",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Impact of saltwater intrusion on poverty in rural households in the Mekong Delta",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nurture ISSN: 1994-1625 e-ISSN: 1994-1633",
+            "journal_ranking": "Scopus (Q4) H-Index: 3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, No. 4, pp. 557-570",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Đa dạng hóa sinh kế và nghèo đói ở vùng bị xâm nhập mặn của Đồng bằng sông Cửu Long",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế và Kinh doanh Châu Á ISSN: 2615-9104",
+            "journal_ranking": "",
+            "citation_count": 34,
+            "volume_issue_pages": "9, 4-19",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "The impact of productivity on export transitions: revisited evidence from the Vietnamese manufacturing sector",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Economic Research-Ekonomska Istraživanja ISSN: 1848-9664 e-ISSN: 1331-677X",
+            "journal_ranking": "Scopus (IF: 3,544; Q2) H-Index: 53",
+            "citation_count": 1,
+            "volume_issue_pages": "36, 3, 2263532",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "The Role of Community Participation and Digital Technologies in Sustainable Development of Coastal Areas in Vietnam: Assessment of The National Tourism Development Strategy and Green Social Awareness",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Economics and Finance Studies ISSN: 1309-8055",
+            "journal_ranking": "Scopus (IF: 2,064; Q2) H-Index: 6",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 15, No. 4, pp. 81-102",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Do ecotourism, green construction, environmental education, and sustainable behaviour lead to sustainable development? A mediation-moderation approach",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environment, Development and Sustainability ISSN: 1573-2975 e-ISSN: 1387-585X",
+            "journal_ranking": "Scopus (IF: 4,349; Q2) H-Index: 82",
+            "citation_count": 0,
+            "volume_issue_pages": "Online First",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Kinh tế tuần hoàn trong phát triển nông nghiệp bền vững ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước ISSN 2815-5831",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Mechanism of Impact of Salinity Intrusion on Rural Household Livelihoods in the Mekong Delta",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of 19th NEU-KKU International Conference Socio-Economic and Environmental Issues in Development ISBN: 978-604-79-4446-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1719-1731",
+            "published_date": "06/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Các nhân tố tác động đến mức độ hài lòng của sinh viên đến các trường đại học tại Đồng bằng sông Cửu Long.",
+            "role": "Principal Investigator",
+            "project_code": "VTTU/2013-2014/01",
+            "management_level": "Cấp Trường",
+            "period": "11/2013-01/2015",
+            "acceptance_date": "14/01/2015",
+            "rating": "Xếp loại Giỏi"
+        },
+        {
+            "title": "Phân tích các yếu tố ảnh hưởng đến quyết định chọn trường Đại học, Cao đẳng của học sinh THPT ở Đồng bằng sông Cửu Long.",
+            "role": "Principal Investigator",
+            "project_code": "VTTU/2014-2015/01",
+            "management_level": "Cấp Trường",
+            "period": "05/2015-11/2015",
+            "acceptance_date": "19/11/2015",
+            "rating": "Xếp loại Khá"
+        },
+        {
+            "title": "Mức độ ảnh hưởng của các nhân tố đến sự hài lòng của bệnh nhân đối với chất lượng dịch vụ khám, chữa bệnh theo mô hình nhân quả tại các bệnh viện khu vực Đồng bằng sông Cửu Long năm 2016",
+            "role": "Principal Investigator",
+            "project_code": "VTTU/2015-2016/01",
+            "management_level": "Cấp Trường",
+            "period": "03/2016-10/2016",
+            "acceptance_date": "22/10/2016",
+            "rating": "Xếp loại Giỏi"
+        }
+    ],
+    "books": [
+        {
+            "title": "Kinh tế không chính thức ở Thành phố Hồ Chí Minh (Lý luận và thực tiễn)",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Quốc gia Thành phố Hồ Chí Minh",
+            "publish_year": "2009",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": "Giấy xác nhận sử dụng sách làm tài liệu tham khảo (sách chuyên khảo) Số: 16/GXN-ĐHVTT-KTL, 01/6/2024"
+        },
+        {
+            "title": "Mô hình tăng trưởng kinh tế và an sinh xã hội cấp tỉnh từ thực nghiệm tại tỉnh Cà Mau",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Quốc gia Thành phố Hồ Chí Minh",
+            "publish_year": "2015",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "Giấy xác nhận sử dụng sách làm tài liệu tham khảo (sách chuyên khảo) Số: 17/GXN-ĐHVTT-KTL, 01/6/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Rà soát, đánh giá và cập nhật chương trình đào tạo ngành Tài chính – Ngân hàng trình độ Đại học, hình thức đào tạo chính quy của Khoa Kinh tế Trường Đại học Võ Trường Toản và triển khai đề án tổ chức đào tạo từ năm học 2017-2018",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Kế hoạch 419/KH-KKT ngày 09/09/2017",
+            "certifying_authority": "Trường Đại học Võ Trường Toản",
+            "implementation_document_id": "Quyết định số 522/QĐ-ĐHVTT-ĐT&CTSV ngày 30/10/2017",
+            "notes": "Áp dụng từ năm học 2017-2018"
+        },
+        {
+            "title": "Rà soát, đánh giá và cập nhật chương trình đào tạo ngành Tài chính – Ngân hàng trình độ Đại học, hình thức đào tạo chính quy của Khoa Kinh tế Trường Đại học Võ Trường Toản và triển khai đề án tổ chức đào tạo từ năm học 2017-2018",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Kế hoạch 419/KH-KKT ngày 09/09/2017",
+            "certifying_authority": "Trường Đại học Võ Trường Toản",
+            "implementation_document_id": "Quyết định số 527/QĐ-ĐHVTT-ĐT&CTSV ngày 19/10/2017",
+            "notes": "Áp dụng từ năm học 2017-2018"
+        },
+        {
+            "title": "Rà soát, đánh giá và cập nhật chương trình đào tạo ngành Quản trị kinh doanh trình độ Đại học, hình thức đào tạo chính quy của Khoa Kinh tế Trường Đại học Võ Trường Toản và triển khai đề án tổ chức đào tạo từ năm học 2017-2018",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Kế hoạch 419/KH-KKT ngày 09/09/2017",
+            "certifying_authority": "Trường Đại học Võ Trường Toản",
+            "implementation_document_id": "Quyết định số 521/QĐ-ĐHVTT-ĐT&CTSV ngày 19/10/2017",
+            "notes": "Áp dụng từ năm học 2017-2018"
+        },
+        {
+            "title": "Rà soát, đánh giá và cập nhật chương trình đào tạo ngành Kế toán trình độ Đại học, hình thức đào tạo chính quy của Khoa Kinh tế",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Kế hoạch 44/KH-KKT ngày 15/02/2019",
+            "certifying_authority": "Trường Đại học Võ Trường Toản",
+            "implementation_document_id": "Quyết định số 214/QĐ-ĐHVTT-ĐT&CTSV ngày 10/05/2019",
+            "notes": "Áp dụng từ năm học 2019-2020"
+        },
+        {
+            "title": "Rà soát, đánh giá và cập nhật chương trình đào tạo ngành Tài chính – Ngân hàng trình độ Đại học, hình thức đào tạo chính quy của Khoa Kinh tế Trường Đại học Võ Trường Toản và triển khai đề án tổ chức đào tạo từ năm học 2019-2020",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Kế hoạch 44/KH-KKT ngày 15/02/2019",
+            "certifying_authority": "Trường Đại học Võ Trường Toản",
+            "implementation_document_id": "Quyết định số 215/QĐ-DHVTT-ĐT&CTSV ngày 11/05/2019",
+            "notes": "Áp dụng từ năm học 2019-2020"
+        },
+        {
+            "title": "Rà soát, đánh giá và cập nhật chương trình đào tạo ngành Quản trị kinh doanh trình độ Đại học, hình thức đào tạo chính quy của Khoa Kinh tế Trường Đại học Võ Trường Toản và triển khai đề án tổ chức đào tạo từ năm học 2019-2020",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Kế hoạch 44/KH-KKT ngày 15/02/2019",
+            "certifying_authority": "Trường Đại học Võ Trường Toản",
+            "implementation_document_id": "Quyết định số 213/QĐ-DHVTT-ĐT&CTSV ngày 09/05/2019",
+            "notes": "Áp dụng từ năm học 2019-2020"
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo ngành Tài chính – Ngân hàng, trình độ đại học, hệ chính quy tại Trường Đại học Võ Trường Toản",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định 133/QĐ-ĐHVTT ngày 09/05/2022",
+            "certifying_authority": "Trường Đại học Võ Trường Toản",
+            "implementation_document_id": "Quyết định số 224/QĐ-ĐHVTT ngày 11/07/2022",
+            "notes": "Năm học 2022-2023, áp dụng khóa tuyển sinh từ năm 2022"
+        }
+    ]
+}

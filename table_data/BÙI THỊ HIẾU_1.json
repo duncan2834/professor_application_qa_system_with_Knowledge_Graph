@@ -1,0 +1,369 @@
+{
+    "papers": [
+        {
+            "title": "Nghiên cứu giải pháp thông gió làm mát đoạn nhiệt áp suất dương để chống nóng, cải thiện môi trường lao động",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học công nghệ xây dựng; ISSN: 1859 – 1566",
+            "journal_ranking": "Vietnamese Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4, 7-9.",
+            "published_date": "2009"
+        },
+        {
+            "title": "Evaluation of potential error in mean areal precipitation and its impact on rainfall-runoff simulation using satellite precipitation product",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Japan Society of Civil Engineers, Ser. B1; ISSN: 2185 -467X",
+            "journal_ranking": "International Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 70 (4), 199-204. https://doi.org/10.2208/jscejhe.70.1_199",
+            "published_date": "2014"
+        },
+        {
+            "title": "Evaluation of satellite-gauge merging precipitation methods for rainfall-runoff simulation",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Japan Society of Civil Engineers, Ser. B1; ISSN: 2185 -467X",
+            "journal_ranking": "International Journal",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 71 (4), 79-84. https://doi.org/10.2208/jscejhe.71.1_79",
+            "published_date": "2015"
+        },
+        {
+            "title": "Evaluation of appropriate precipitation data for stream flow simulation in data sparse catchment",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Japan Society of Civil Engineers, Ser.G; ISSN: 2185 - 6648",
+            "journal_ranking": "International Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 72 (5), 13-20. https://doi.org/10.2208/jscejer.72.1_13",
+            "published_date": "2016"
+        },
+        {
+            "title": "Evaluation of water resources in mountainous region of Kathmandu using high resolution satellite precipitation product",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Japan Society of Civil Engineers, Ser.G; ISSN: 2185 - 6648",
+            "journal_ranking": "International Journal",
+            "citation_count": 19,
+            "volume_issue_pages": "Vol. 72 (5), 27-33. https://doi.org/10.2208/jscejer.72.1_27",
+            "published_date": "2016"
+        },
+        {
+            "title": "Quantification of mapping of areal mean precipitation error using satellite observation for improvement of rain gauge network in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Japan Society of Civil Engineers, Ser. B1; ISSN: 2185 - 467X",
+            "journal_ranking": "International Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 74 (4), 67-72. https://doi.org/10.2208/jscejhe.74.1_67",
+            "published_date": "2018"
+        },
+        {
+            "title": "Đánh giá độ tin cậy của thiết bị giám sát chất lượng môi trường không khí trong công tác quan trắc môi trường không khí xung quanh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Công nghệ Xây dựng KHCNXD)- ĐHXDHN ISSN:2615-9058",
+            "journal_ranking": "Vietnamese Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12 (4V), 106-114.https://doi.org/10.31814/stce.nuce2018-12(4)-12",
+            "published_date": "May, 2018"
+        },
+        {
+            "title": "Hydrological model using ground and satellite-based data for river flow simulation towards supporting water resource management in the Red River Basin, Vietnam.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Environmental Management; ISSN:1095-8630;0301-4797",
+            "journal_ranking": "SCOPUS, SCIE (IF = 8, Q1)",
+            "citation_count": 57,
+            "volume_issue_pages": "Vol. 217, 346-355. https://doi.org/10.1016/j.jenvman.2018.03.100",
+            "published_date": "July, 2018"
+        },
+        {
+            "title": "Concentration of arsenic in groundwater, vegetables, human hair and nails in mining site in the Northern Thai Nguyen province, Vietnam: Human exposure and risk assessment",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Human and Ecological Risk Assessment: An International Journal, ISSN: 1080-7039, 1549-7860",
+            "journal_ranking": "SCIE (IF = 3, Q2)",
+            "citation_count": 20,
+            "volume_issue_pages": "Vol. 25, 602-613. https://doi.org/10.1080/10807039.2018.1483189",
+            "published_date": "November, 2018"
+        },
+        {
+            "title": "Evaluation of the use of global satellite-gauge and satellite-only precipitation products in the stream flow simulation",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied water science, Print ISSN: 2190-5487, Electronic ISSN: 2190-5495",
+            "journal_ranking": "SCOPUS, SCIE (IF = 5.7, Q1)",
+            "citation_count": 56,
+            "volume_issue_pages": "Vol. 9, No.53. https://doi.org/10.1007/s13201-019-0931-y",
+            "published_date": "March, 2019"
+        },
+        {
+            "title": "Characterisation and human health risk assessment of trace metal in PM10 in Bac Giang, short-term study in a developing province in Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Human and Ecological Risk Assessment: An International Journal, ISSN: 1080-7039, 1549-7860",
+            "journal_ranking": "SCIE (IF = 3, Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 26, 1927-1946. https://doi.org/10.1080/10807039.2019.1623652",
+            "published_date": "June, 2019"
+        },
+        {
+            "title": "Xây dựng phương pháp tính toán tải lạnh tải nhiệt theo chế độ không ổn định",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Công nghệ Xây dựng KHCNXD)-DHXDHN ISSN:2615-9058",
+            "journal_ranking": "Vietnamese Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14 (2V), 140-151. https://doi.org/10.31814/stce.nuce2020-14(2V)-13",
+            "published_date": "May, 2020"
+        },
+        {
+            "title": "Evaluating the potential for application of MODIS satellite data for urban air quality monitoring in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conference Series: Materials Science and Engineering",
+            "journal_ranking": "SCOPUS",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 869. DOI 10.1088/1757-899X/869/2/022035",
+            "published_date": "September, 2020"
+        },
+        {
+            "title": "Impact of Covid-19 partial lockdown on PM2.5, SO2, NO2, O3, and trace elements in PM2.5 in Hanoi, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research, ISSN: 0944-1344; 1614-7499",
+            "journal_ranking": "SCOPUS, SCIE (IF = 5.8, Q1)",
+            "citation_count": 56,
+            "volume_issue_pages": "Vol. 29, 41875-41885. https://doi.org/10.1007/s11356-021-13792-y",
+            "published_date": "April, 2021"
+        },
+        {
+            "title": "Study of aerosol optical properties at two urban areas in the north of Vietnam with the implication for biomass burning impacts",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research, ISSN: 0944-1344; 1614-7499",
+            "journal_ranking": "SCOPUS, SCIE (IF = 5.8, Q1)",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 29, 41923-41940. https://doi.org/10.1007/s11356-021-15608-5",
+            "published_date": "April, 2021"
+        },
+        {
+            "title": "Investing the spatio-temporal variation of soil moisture and agricultural drought towards supporting water resources management in the Red river basin of Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sustainability, ISSN: 2071-1050",
+            "journal_ranking": "SCOPUS, SCIE (IF = 3.3, Q1)",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol. 13, 4926. https://doi.org/10.3390/su13094926",
+            "published_date": "April, 2021"
+        },
+        {
+            "title": "Contrasting seasonal pattern between ground-based PM2.5 and MODIS satellite-based aerosol optical depth (AOD) at an urban site in Hanoi, Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Science and Pollution Research, ISSN: 0944-1344; 1614-7499",
+            "journal_ranking": "SCOPUS, SCIE (IF = 5.8, Q1)",
+            "citation_count": 12,
+            "volume_issue_pages": "Vol. 29, 41971-41982. https://doi.org/10.1007/s11356-021-16464-z",
+            "published_date": "September, 2021"
+        },
+        {
+            "title": "Ảnh hưởng của nhiệt độ ngoài nhà đến nhiệt độ trong nhà và năng lượng tiêu thụ tại hộ gia đình: Nghiên cứu",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Công nghệ Xây dựng KHCNXD)-DHXDHN ISSN:2615-9058",
+            "journal_ranking": "Vietnamese Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 15 (4V), 30-38. https://doi.org/10.31814/stce.huce(nuce)2021-15(4V)-04",
+            "published_date": "September, 2021"
+        },
+        {
+            "title": "Đánh giá ảnh hưởng của thành phần kim loại và các bon trong bụi PM10 tại một khu vực dô thị ở Hà Nội trong giai đoạn mùa hè",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Công nghệ Xây dựng KHCNXD)-DHXDHN ISSN:2615-9058",
+            "journal_ranking": "Vietnamese Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 15 (4V), 62-70. https://doi.org/10.31814/stce.huce(nuce)2021-15(4V)-07",
+            "published_date": "September, 2021"
+        },
+        {
+            "title": "Investigation of sources and processes influencing variation of PM2.5 and its chemical composition during a summer period of 2020 in an urban area of Hanoi city, Vietnam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Air Quality, Atmosphere and Health, Online ISSN: 1873-9326, Print ISSN: 1873-9318",
+            "journal_ranking": "SCOPUS, SCIE (IF = 2.9, Q2)",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 15, 235-253. https://doi.org/10.1007/s11869-021-01100-z",
+            "published_date": "September, 2021"
+        },
+        {
+            "title": "Assessing pollution characteristics and human health risk of exposure to PM2.5 bound trace metals in a suburban area in Hanoi, Vietnam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Human and Ecological Risk Assessment: An International Journal, ISSN: 1080-7039, 1549-7860",
+            "journal_ranking": "SCIE (IF = 3, Q2)",
+            "citation_count": 14,
+            "volume_issue_pages": "Vol. 28, 433-454. https://doi.org/10.1080/10807039.2022.2056872",
+            "published_date": "April, 2022"
+        },
+        {
+            "title": "Chemical characterisation, source apportionment, and human health risk assessment of PM2.5 in an urban area in Hanoi, Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Air Quality, Atmosphere and Health, Online ISSN: 1873-9326, Print ISSN: 1873-9318",
+            "journal_ranking": "SCOPUS, SCIE (IF = 2.9, Q2)",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol. 16, 149-163. https://doi.org/10.1007/s11869-022-01266-0",
+            "published_date": "October, 2022"
+        },
+        {
+            "title": "Characterisation of PM10 bound trace metals in industrial, traffic, and residential areas in Bac Giang, Vietnam: Environmental and health implication",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Human and Ecological Risk Assessment: An International Journal, ISSN: 1080-7039, 1549-7860",
+            "journal_ranking": "SCIE (IF = 3, Q2)",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol. 29, 58-79. https://doi.org/10.1080/10807039.2022.2140644",
+            "published_date": "November, 2022"
+        },
+        {
+            "title": "Seasonal characteristics of atmosphere PM2.5 in an urban area of Vietnam and influence of Regional fire activities",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Atmosphere, ISSN: 2073-4433",
+            "journal_ranking": "SCOPUS, SCIE (IF = 2.5, Q2)",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 13, 1911 https://doi.org/10.3390/atmos13111911",
+            "published_date": "November, 2022"
+        },
+        {
+            "title": "Factor influencing the spatial and temporal variation of surface runoff coefficient in the Red river basin of Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Earth Science, Online ISSN: 1866-6299, Print ISSN: 1866-6280",
+            "journal_ranking": "SCOPUS, SCIE (IF = 2.8, Q1)",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 82. No.56. https://doi.org/10.1007/s12665-022-10726-w",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Source identification and health risk assessment of PM2.5 in urban districts ò Hanoi using PCA/APCS and UNMIX",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research, ISSN: 0944-1344; 1614-7499",
+            "journal_ranking": "SCOPUS, SCIE (IF = 5.8, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 31, 11815-11831. https://doi.org/10.1007/s11356-023-31751-7",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Nghiên cứu các mô hình mô phỏng năng lượng: Phân loại, ứng dụng kỹ thuật, xu hướng nghiên cứu và phát triển",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Vật liệu Xây dựng, Bộ Xây dựng, ISSN: 1859-381X",
+            "journal_ranking": "Vietnamese Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14 (2), 125-133. https://doi.org/10.54772/jomc.02.2024.661",
+            "published_date": "April, 2024"
+        },
+        {
+            "title": "Assessing the effect of Covid-19 lockdowns on the composition of organic compounds and potential source of PM2.5 in Hanoi, Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Science and Pollution Research, ISSN: 0944-1344; 1614-7499",
+            "journal_ranking": "SCOPUS, SCIE (IF = 5.8, Q1)",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 31, 34675-34688. https://doi.org/10.1007/s11356-024-33497-2",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Investigating the impacts of passive design solutions on building energy consumption using Openstudio: Case study of a primary school Hanoi, Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE)-HUCE, ISSN: 1859-2996",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "tce.huce2024-18(4)-10",
+            "published_date": "2024"
+        },
+        {
+            "title": "Characteristics of water-soluble inorganic ions and carbonaceous compounds in PM2.5 in the urban area of Hanoi, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Earth Science, Online ISSN: 1866-6299, Print ISSN: 1866-6280",
+            "journal_ranking": "SCOPUS, SCIE (IF = 2.8, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.84. No.74. https://doi.org/10.1007/s12665-024-12077-0",
+            "published_date": "January, 2025"
+        },
+        {
+            "title": "Integration of variable refrigerant flow system and energy recovery ventilator in different construction climate zones in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE)-HUCE, ISSN: 1859-2996",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19 (1), 109-119. DOI:10.31814/stce.huce2025-19(1)-09",
+            "published_date": "March, 2025"
+        },
+        {
+            "title": "Investigating chiller's energy consumption and energy saving analysis of a primary school in Ho Chi Minh City, Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Materials and Construction, ISSN: 2734-9438",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 15 (2), 65-70. https://doi.org/10.54772/jomc.v15i01.1019",
+            "published_date": "May, 2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Đánh giá độ tin cậy của thiết bị giám sát chất lượng môi trường không khí của đề tài B2014-03-12 trong công tác quan trắc môi trường không khí xung quanh",
+            "role": "Principal Investigator",
+            "project_code": "19-2018/KHXD",
+            "management_level": "Trường Đại học Xây dựng Hà Nội",
+            "period": "2018-2019",
+            "acceptance_date": "null",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu xác định nguồn gốc và đánh giá hiện trạng ô nhiễm, rủi ro sức khoẻ con người do phơi nhiễm với thành phần kim loại",
+            "role": "Principal Investigator",
+            "project_code": "12-2019/KHXD-TĐ",
+            "management_level": "Trường Đại học Xây dựng Hà Nội",
+            "period": "2019-2021",
+            "acceptance_date": "null",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Hệ thống kỹ thuật trong công trình",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Xây dựng",
+            "publish_year": "2019",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "chương 2: 8-45",
+            "verification_document_id": "2521-2019/CXBIPH/205/XD"
+        },
+        {
+            "title": "Các giải pháp thiết kế cơ-điện trong công trình xanh",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Xây dựng",
+            "publish_year": "2019",
+            "num_authors": 9,
+            "is_editor_in_chief": false,
+            "compiled_pages": "chương 2:50 - 96",
+            "verification_document_id": "3762-2019/CXBIPH/02-279/XD"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

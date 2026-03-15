@@ -1,0 +1,612 @@
+{
+    "papers": [
+        {
+            "title": "Ứng dụng kỹ thuật bình phản ứng sinh học trong vi nhân giống cây Cỏ Vetiver (Vetiveria zizanioides L.)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7,203-211",
+            "published_date": "2007"
+        },
+        {
+            "title": "Khả năng gây đột biến nhân tạo hoa lan cắt cành Dendrobium bằng tia gamma",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu hội nghị khoa học Công nghệ sinh học thực vật trong công tác nhân giống và chọn tạo giống hoa",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "175-188",
+            "published_date": "2007"
+        },
+        {
+            "title": "Vi nhân giống khóm Queen (Ananas comosus (L.) Merr) bằng kỹ thuật bình phản ứng sinh học.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học Cây ăn trái quan trọng ở Đồng bằng Sông Cửu Long",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "277-284",
+            "published_date": "2008"
+        },
+        {
+            "title": "Nhân giống cây gấc (Momordica cochinchinensis (Lour.) Spreng) bằng kỹ thuật nuôi cây mô",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11, 163-172",
+            "published_date": "2009"
+        },
+        {
+            "title": "Vi nhân giống cây hoa hồng nhung",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tuyển tập hội nghị Công nghệ Sinh học toàn quốc khu vực phía Nam năm 2009",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "241-246",
+            "published_date": "2010"
+        },
+        {
+            "title": "Nhân giống cây tre rồng (Dendrocalamus giganteus Wallich ex Munro) bằng kỹ thuật nuôi cấy mô",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu HNKH Phát triển nông nghiệp bền vững thích ứng với biến đổi khí hậu",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "298-306",
+            "published_date": "2010"
+        },
+        {
+            "title": "Nhân giống cây hoa hồng nhung (Rosa chinensis jacq. cv. Nhung) bằng phương pháp giâm cành",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu HNKH Phát triển nông nghiệp bền vững thích ứng với biến đổi khí hậu",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "307-316",
+            "published_date": "2010"
+        },
+        {
+            "title": "Sự tạo phôi soma và tái sinh chồi tre Rồng (Dendrocalamus giganteus Wall. ex Munro) từ nuôi cấy lớp mỏng tế bào",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21b, 68-77",
+            "published_date": "2012"
+        },
+        {
+            "title": "Nhân giống cây Vạn niên tùng (Podocarpus chinensis Wall. Ex J.Forbes) và cây Hồng lộc (Syzygium oleinum) bằng phương pháp giâm cành",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị khoa học Phát triển nông nghiệp bền vững thích ứng với biến đổ khí hậu",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "230-238",
+            "published_date": "2012"
+        },
+        {
+            "title": "Nhân giống cây Thủy xương bồ (Acorus calamus L.) bằng kỹ thuật nuôi cấy mô",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28, 96-102",
+            "published_date": "2013"
+        },
+        {
+            "title": "Hiệu quả sử dụng bóng đèn compact trong việc xử lý ra hoa cây thanh long (Hylocereus undatus)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí NN và PTNT/ISSN 1859-4581",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6, 19-23",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nhân giống cây bằng lăng nhiều hoa (Lagerstroemia floribunda Jack) bằng kỹ thuật nuôi cấy mô",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31, 64-70",
+            "published_date": "2014"
+        },
+        {
+            "title": "Plant regeneration of Kamchatic Plantain (Plantago camtschatica Link) through callus induction https://doi.org/10.5564/mjas.v19i3.734",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Mongolian Journal of Agricultural Sciences/ISSN 2310-6212 (Print)/ISSN 2524-0722 (Online)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19(03), 41-48",
+            "published_date": "2017"
+        },
+        {
+            "title": "Anti-cancer effect of Plantago depressa ethanolic extract in B16F10 skin cancer cells https://doi.org/10.5564/mjas.v21i02.902",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Mongolian Journal of Agricultural Sciences/ISSN 2310-6212 (Print)/ISSN 2524-0722 (Online)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21(02), 29-34",
+            "published_date": "2017"
+        },
+        {
+            "title": "Anti-inflammatory effect of Plantago sp ethanolic extract in murine Raw264.7 macrophage cells. https://doi.org/10.5564/mjas.v21i02.903",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Mongolian Journal of Agricultural Sciences/ISSN 2310-6212 (Print)/ISSN 2524-0722 (Online)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21(02), 35-42",
+            "published_date": "2017"
+        },
+        {
+            "title": "Comparative analysis on aucubin content in different ecotyes of plantain plant (Plantago sp.).",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "An Giang University Journal of Science/ ISSN 0866-8086",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5(2), 9-18",
+            "published_date": "2017"
+        },
+        {
+            "title": "Propagation of Plantago major L. by plant tissue culture technique.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Agricultural Sciences / ISSN 2588-1299-E.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "15(3), 382-389",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khảo sát hoạt tính kháng cỏ của bột nghiền từ cây bồ công anh (Hypochaeris radicata L.)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh học/ ISSN 0866-7160",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "40(2se), 83-87",
+            "published_date": "2018"
+        },
+        {
+            "title": "ITS1 locus: a major determinant of genetic diversity of Plantago spp. (Plantaginaceae). https://pakbs.org/pjbot/papers/1515796691.pdf",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Pakistan Journal of Botany/ISSN: 0556-3321 (print), 2070-3368 (online)",
+            "journal_ranking": "ISI/Scopus (IF=0.672, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "50(1), 67-71",
+            "published_date": "2018"
+        },
+        {
+            "title": "Ảnh hưởng của điều kiện ánh sáng và thời gian sinh trưởng lên hàm lượng một số hợp chất trong cây mã đề (Plantago major)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "55(5A), 66-73",
+            "published_date": "2019"
+        },
+        {
+            "title": "Phytotoxic effects of aqueous extracts from Mimosa pigra L. on barnyardgrass (Echinochloa crus-galli) https://ijoabs.com/publications-of-internationaljournalofagricultureandbiologicalsciences/article/111/",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Agriculture and Biological Sciences/ ISSN 2522-6584",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3(06), 66-71",
+            "published_date": "2019"
+        },
+        {
+            "title": "Anticancer and antioxidant of chloroform extracts from medical plants in the Mekong delta, Vietnam",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Plant Sciences/ ISSN 1682-3974",
+            "journal_ranking": "Scopus (IF=0.894, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "19(4), 398-405",
+            "published_date": "2020"
+        },
+        {
+            "title": "Effects of extraction methods on allelopathic activity of Mimosa pigra L. leaf extract https://ijoabs.com/publications-of-internationaljournalofagricultureandbiologicalsciences/article/539/",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Agriculture and Biological Sciences/ ISSN 2522-6584",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4, 33-40",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đa dạng di truyền các giống bưởi ở đồng bằng sông Cửu Long dựa trên trình tự ADN mã vạch và dấu phân tử ISSR",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp Việt Nam/ ISSN 1859-1558",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "05(126), 19-24",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tiềm năng ức chế thực vật của cao phân đoạn từ cây sài đất ba thùy (Wedilia trilobata)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp Việt Nam/ ISSN 1859-1558",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "06(127), 95-101",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đa dạng di truyền các giống sầu riêng (Durio zibethinus) dựa trên trình tự DNA mã vạch và chỉ thị phân tử ISSR.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "57(4B), 109-118",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ứng dụng công nghệ tiên tiến để kéo dài thời gian bảo quản trái cây.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "57, 32-47",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của quá trình tiền xử lý đến chất lượng cam sành (Citrus sinensis) sấy dẻo.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "57, 151-160",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của nhiệt độ sấy đến các hợp chất có hoạt tính sinh học trong vỏ bưởi da xanh (Citrus maxima Burm. Merr.).",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "57, 177-182",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu điều kiện chiết xuất naringin từ vỏ bưởi năm roi (Citrus grandis (L.) Osbeck).",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "57, 183-188",
+            "published_date": "2021"
+        },
+        {
+            "title": "Thành phần hóa học và hoạt tính kháng vi sinh vật gây bệnh của tinh dầu vỏ bưởi Năm Roi (Citrus grandis (L.) Osbeck).",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "57, 189-195",
+            "published_date": "2021"
+        },
+        {
+            "title": "DNA barcode: a potential tool for identifying ‘Hoa Loc' mango cultivar in Vietnam https://doi.org/10.35495/ajab.2020.05.272",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Agriculture and Biology/ ISSN 2307-8553",
+            "journal_ranking": "ISI/Scopus (IF=0.61, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "2, 1-8",
+            "published_date": "2021"
+        },
+        {
+            "title": "Genetic diversity analysis of rambutan (Nephelium lappaceum L.) using DNA barcode and ISSR markers. https://zenodo.org/records/5141551",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Agriculture and Biological Sciences/ ISSN 2522-6584",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5, 7-14",
+            "published_date": "2021"
+        },
+        {
+            "title": "Morphological Characteristics and Genetic Relations of the Star Apple Varieties (Chrysophyllum cainito L.) https://scialert.net/abstract/?doi=ajps.2021.380.388",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Plant Sciences/ISSN 1682-3974",
+            "journal_ranking": "Scopus (IF=0.87, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "20(3), 380-388",
+            "published_date": "2021"
+        },
+        {
+            "title": "The major and minor components of Kaffir Lime (Citrus hystrix DC) essential oil in the steam distillation process https://iopscience.iop.org/article/10.1088/1757-899X/1092/1/012082/meta",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conference Series: Materials Science and Engineering/ ISSN: 17578981, 1757899X",
+            "journal_ranking": "Scopus (IF=0.505)",
+            "citation_count": 0,
+            "volume_issue_pages": "1092, 1-6",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của benzyl adenine và loại phân lân lên sự ra hoa của cây lan hồ điệp (Phalaenopsis spp.) tại Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn/ ISSN 1859-4581",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "430, 32-38",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phân tích hàm lượng dược chất và đa dạng di truyền của một số giống đinh lăng thuộc chi Polyscias",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "58 (2), 9-17",
+            "published_date": "2022"
+        },
+        {
+            "title": "Khảo sát hoạt tính sinh học của cao chiết trái bụp giấm (Hibiscus sabdariffa L.)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "58 (2), 28-37",
+            "published_date": "2022"
+        },
+        {
+            "title": "Một số yếu tố ảnh hưởng lên khả năng ly trích vitamin C băng enzyme pectinase từ quả ổi nữ hoàng (Psidium guajava)",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công Thương/ ISSN 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "26, 428-433",
+            "published_date": "2022"
+        },
+        {
+            "title": "The insecticidal capacity of ethanol extract from Cascabela peruviana (L.) Lippold against fruit fly https://doi.org/10.1016/j.heliyon.2022.e09313",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Heliyon/ISSN 2405-8440",
+            "journal_ranking": "ISI/Scopus (IF=2.85, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "8, 1-8",
+            "published_date": "2022"
+        },
+        {
+            "title": "Identification of Pathogens Causing Anthracnose on King Oranges (Citrus nobilis var. Typica Hassk) https://scialert.net/fulltext/?doi=pjbs.2022.137.143",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Pakistan Journal of Biological Sciences/ ISSN: 1028-8880",
+            "journal_ranking": "ISI/Scopus (IF=1.036, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "25(2), 137-143",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tái sinh chồi cây dưa lưới (Cucumis melo L.) in vitro từ tử diệp",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường Đại học Cần Thơ/ ISSN 1859-2333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "59(2B), 114-122",
+            "published_date": "2023"
+        },
+        {
+            "title": "Isolation and purification of potential weed inhibitors from Mimosa pigra L. https://doi.org/10.1016/j.heliyon.2023.e18205",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Heliyon/ISSN 2405-8440",
+            "journal_ranking": "ISI/Scopus (IF=2.85, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "9, 1-9",
+            "published_date": "2023"
+        },
+        {
+            "title": "Potential use of Balanophora latisepala (V. Tiegh.) Lec. extract for the treatment of diabetes https://journals.lww.com/iphr/fulltext/2023/55040/potential_use_of_balanophora_latisepala_v_.5.aspx",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Indian Journal of Pharmacology/ ISSN: 0253-7613",
+            "journal_ranking": "Scopus (IF=2.4, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "55(4), 237-242",
+            "published_date": "2023"
+        },
+        {
+            "title": "Spray drying conditions of lime juice prepared by freeze-concentration https://iopscience.iop.org/article/10.1088/1755-1315/1155/1/012017",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "IOP Conference Series: Earth and Environmental Science/ISSN: 1755-1315",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1155, 1-10",
+            "published_date": "2023"
+        },
+        {
+            "title": "Vi nhân giống cây trầu bà lá xẻ (Monstera deliciosa)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp Việt Nam/ ISSN 1859-1558",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1(152), 21-28",
+            "published_date": "2024"
+        },
+        {
+            "title": "Khảo sát khả năng sinh trưởng và năng suất của cây đương quy Nhật Bản (Angelica acutiloba Kiatagawa) trồng chậu",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Đại học Cần Thơ, ISSN 1859-2333, e-ISSN 2815-5599",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "60(2B), 113-124",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu thành phần hóa học và hoạt tính sinh học của cây Xuyên tâm liên (Andrographis paniculata)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Đại học Cần Thơ, ISSN 1859-2333, e-ISSN 2815-5599",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "60 (3A), 73-80",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nhân giống cây Hàm hương (Nashia inaguensis) bằng kỹ thuật nuôi cấy mô",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp Việt Nam/ ISSN 1859-1558",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4(155), 19-26",
+            "published_date": "2024"
+        },
+        {
+            "title": "Acute Toxicity and Antioxidant and Antibacterial Activities of Kyllinga polyphylla Willd. ex Kunth, Cyperaceae Family https://doi.org/10.1155/2024/3543828",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Toxicology/ ISSN 1687-8191",
+            "journal_ranking": "ISI/Scopus (IF=3.05, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "13 trang",
+            "published_date": "2024"
+        },
+        {
+            "title": "Antibacterial and Antioxidant Abilities of Extracts and Essential Oil of Perilla frutescens https://ansinet.com/abstract.php?doi=ajps.2024.184.192",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Journal of Plant Sciences/ ISSN 1682-3974",
+            "journal_ranking": "Scopus (IF=0.85, Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "23(2), 184-192",
+            "published_date": "2024"
+        },
+        {
+            "title": "Changes in quality parameters and bioactive components of seedless lime fruit (Citrus latifolia) during cold storage https://doi.org/10.26656/fr.2017.8(2).619",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Food Research/eISSN: 2550-2166",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "8(2), 268-279",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "ĐT: Quy trình cứu phôi lai giữa hai loài đậu nành (Glycine max X Glycine mekongensis)",
+            "role": "Principal Investigator",
+            "project_code": "T2008-20",
+            "management_level": "Cấp cơ sở",
+            "period": "Từ tháng 10 năm 2008 đến tháng 9 năm 2010",
+            "acceptance_date": "ngày 19 tháng 9 năm 2010",
+            "rating": "Tốt"
+        },
+        {
+            "title": "ĐT: Phân tích hàm lượng dược chất và khảo sát hoạt tính chống oxy hóa và kháng viêm của dịch trích cây mã đề (Plantago sp.).",
+            "role": "Principal Investigator",
+            "project_code": "T2018-61",
+            "management_level": "Cấp cơ sở",
+            "period": "Từ tháng 5 năm 2018 đến tháng 8 năm 2019",
+            "acceptance_date": "ngày 07 tháng 8 năm 2019",
+            "rating": "Tốt"
+        },
+        {
+            "title": "ĐT: Nghiên cứu dung dịch dinh dưỡng lên sự ra hoa của cây lan Hồ điệp (Phalaenopsis spp.)",
+            "role": "Principal Investigator",
+            "project_code": "T2021-97",
+            "management_level": "Cấp cơ sở",
+            "period": "Từ tháng 4 năm 2021 đến tháng 3 năm 2022",
+            "acceptance_date": "ngày 31 tháng 3 năm 2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "CT: Nghiên cứu ứng dụng và phát triển công nghệ tiên tiến trong bảo quản, chế biến nông thủy sản vùng Đồng bằng sông Cửu Long",
+            "role": "Assistant",
+            "project_code": "CT2020-01",
+            "management_level": "Cấp bộ",
+            "period": "Từ tháng 01 năm 2020 đến tháng 12 năm 2023",
+            "acceptance_date": "ngày 03 tháng 12 năm 2023",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Nuôi cấy mô Thực vật: Nguyên lý và Thực hành",
+            "type": "Reference Book",
+            "publisher": "Nhà Xuất bản Đại học Cần Thơ",
+            "publish_year": "2019",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "09 - 163",
+            "verification_document_id": "Số 2217/GXN-ĐHCT, ngày 20 tháng 6 năm 2024."
+        },
+        {
+            "title": "Sinh học Ứng dụng đại cương",
+            "type": "Textbook",
+            "publisher": "Nhà Xuất Bản Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "01 - 09 và - 69 - 166",
+            "verification_document_id": "Số 2218/GXN-ĐHCT, ngày 20 tháng 6 năm 2024."
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo ngành Sinh học ứng dụng",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định thành lập tổ thư ký và các tổ điều chỉnh chương trình đào tạo trình độ đại học (4235/QĐ-ĐHCT, ngày 26/09/2018)",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Quyết định số 3019/QĐ-ĐHCT ngày 31/7/2019",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo ngành Công nghệ rau hoa quả và cảnh quan",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định thành lập tổ thư ký và các tổ điều chỉnh chương trình đào tạo trình độ đại học (4235/QĐ-ĐHCT, ngày 26/09/2018)",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Quyết định số 3019/QĐ-ĐHCT ngày 31/7/2019",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo ngành Sinh học ứng dụng",
+            "applicant_role": "Co-coordinator",
+            "assignment_document_id": "Quyết định thành lập tổ thư ký và các tổ điều chỉnh chương trình đào tạo trình độ đại học (4788/QĐ-ĐHCT, ngày 19/11/2021)",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Quyết định số 3334/QĐ-ĐHCT ngày 24/8/2022",
+            "notes": ""
+        }
+    ]
+}

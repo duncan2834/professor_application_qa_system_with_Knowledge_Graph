@@ -1,0 +1,1639 @@
+{
+    "papers": [
+        {
+            "title": "A Primate Model of Schizophrenia Using Chronic PCP Treatment. DOI: 10.1515/revneuro.2008.19.2-3.83",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Reviews in the Neurosciences ISSN 0334-1763",
+            "journal_ranking": "SCI, IF: 3,188 (Q1)",
+            "citation_count": 14,
+            "volume_issue_pages": "19 (2-3), 83-89",
+            "published_date": "2008"
+        },
+        {
+            "title": "Sweating from dog footpads measured by simplified patch correlated with cardiovascular autonomic response. DOI: 10.1016/j.autneu.209.09.007",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "The Autonomic Nervous System (Journal of the Japan Society of Neurovegetative Research). ISSN 0288-9250",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "46 (6), 223-232",
+            "published_date": "12/2008"
+        },
+        {
+            "title": "Nghiên cứu điện thế đáp ứng thính giác thân não trên người Việt Nam bình",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "8 (3), 23-29",
+            "published_date": "03/2004"
+        },
+        {
+            "title": "a-Glucosidase inhibitors from the leaves of Embelia ribes. DOI: 10.1016/j.fitote.2014.12.004",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Fitoterapia. ISSN 0367-326X",
+            "journal_ranking": "Scopus, SCIE, IF: 2,408 (Q2)",
+            "citation_count": 40,
+            "volume_issue_pages": "100, 201-207",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Cassane diterpenes from the seed kernels of Caesalpinia sappan. DOI: 10.1016/j.phytochem.2015.12.018",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry. ISSN 00319422",
+            "journal_ranking": "Scopus, SCIE, IF: 3.205 (Q1)",
+            "citation_count": 44,
+            "volume_issue_pages": "122, 286-293",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "A New Cassane-type Diterpene from the Seed of Caesalpinia sappan. DOI:10.1177/1934578X1601100606",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural product communications. ISSN 1934-578X",
+            "journal_ranking": "Scopus, SCIE, IF: 0.773 (Q3)",
+            "citation_count": 11,
+            "volume_issue_pages": "11(6), 723-724",
+            "published_date": "02/2016"
+        },
+        {
+            "title": "Anti-cholinesterases and memory improving effects of Vietnamese Xylia xylocarpa. DOI: 10.1186/s13065-016-0197-5",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry Central Journal. ISSN 1752153X",
+            "journal_ranking": "SCIE, IF: 2,422 (Q2)",
+            "citation_count": 20,
+            "volume_issue_pages": "10 (48)",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "Pregenual Anterior Cingulate Gyrus Involvement in Spontaneous Social Interactions in Primates-Evidence from Behavioral, Pharmacological, Neuropsychiatric, and Neurophysiological Findings. DOI: 10.3389/fnins.2017.00034",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Neuroscience ISSN 1662-453X",
+            "journal_ranking": "Scopus, IF: 3,566 (Q1)",
+            "citation_count": 27,
+            "volume_issue_pages": "11 (34)",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "Đánh giá hiệu quả chống viêm của điện châm qua các chỉ số huyết học và chức năng gan, thận lách trên thực nghiệm",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "15 (1), 48-57",
+            "published_date": "04/2011"
+        },
+        {
+            "title": "Nghiên cứu một số yếu tố môi trường và trạng thái căng thẳng cảm xúc ở bộ đội tác chiến điện tử.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "36 (5), 98-105",
+            "published_date": "05/2011"
+        },
+        {
+            "title": "Đánh giá tác dụng của Clozapin lên một số hoạt động vận động tương tác xã hội của chuột nhắt gây mô hình bệnh tâm thần phân liệt",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "16 (2), 22-31",
+            "published_date": "08/2012"
+        },
+        {
+            "title": "Nghiên cứu hoạt động vận động tương tác xã hội trên chuột nhắt được tiêm thuốc tác động lên hệ glutamatergic",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "16 (2), 32-40",
+            "published_date": "08/2012"
+        },
+        {
+            "title": "Nghiên cứu học tập, trí nhớ trên động vật được tiêm thuốc gây mô hình tâm thần phân liệt",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "16 (3), 43-49",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Tác dụng của bài thuốc tiêu dao tán địch đàm thang lên hoạt động học tập, trí nhớ trên động vật được tiêm ketamine",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "16 (3), 49-56",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Hoạt động tương tác xã hội trên khỉ được gây mô hình bệnh tâm thần phân liệt bằng sử dụng phencyclidine trường diễn",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "16 (3), 57-65",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Nghiên cứu tác dụng của hỗn hợp cao chiết từ dược liệu Bạch quả, Hoàng kỳ, Đan sâm và Đương quy lên một số chỉ tiêu tim mạch, huyết áp và đông máu trên động vật thực nghiệm",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dược liệu. ISSN 1859-4735",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "18 (1), 49-55",
+            "published_date": "01/2013"
+        },
+        {
+            "title": "Đánh giá tác dụng của Ketamine lên chức năng vận động và tương tác xã hội của khỉ",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17 (1), 36-43",
+            "published_date": "04/2013"
+        },
+        {
+            "title": "Study on neuronal activities of anterior cingulated during social behavior in monkeys",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "38 (7), 14-22",
+            "published_date": "09/2013"
+        },
+        {
+            "title": "Study on visual scanpath in schizophrenia",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "39 (7), 48-53",
+            "published_date": "09/2014"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của Ketamin lên trí nhớ không gian của chuột nhắt trắng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "18 (3), 49-54",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Nghiên cứu phản xạ đồng tử ánh sáng trên bệnh nhân đột quị chảy máu não",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "18 (4), 38-44",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Tác dụng trường diễn của ketamin lên hoạt động vận động và tương tác xã hội trên chuột nhắt trắng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19 (1), 13-19",
+            "published_date": "03/2015"
+        },
+        {
+            "title": "Mối liên quan giữa mức độ hôn mê, độ liệt với các thông số về đường kính đồng tử, phản xạ đồng tử ánh sáng ở bệnh nhân đột quị chảy máu não trên lều tiểu não có hôn mê",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19 (1), 20-25",
+            "published_date": "03/2015"
+        },
+        {
+            "title": "Đánh giá liên quan giữa hình ảnh cắt lớp vi tính và phản xạ đồng tử ánh sáng trên bệnh nhân đột quị chảy máu não có hôn mê",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859-2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19 (3), 66-72",
+            "published_date": "09/2015"
+        },
+        {
+            "title": "Đánh giá tác dụng gây loạn nhịp của Calcium Chloride",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "436 (1), 133-138",
+            "published_date": "11/2015"
+        },
+        {
+            "title": "Tác dụng của Haloperidol lên hoạt động vận động, tương tác xã hội và học tập trên chuột được dùng ketamin trường diễn.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859-2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19 (4), 75-83",
+            "published_date": "12/2015"
+        },
+        {
+            "title": "Thuốc trúng phong hoàn làm giảm thể tích khối đột quị nhồi máu trên mô hình chuột nhắt",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Thực hành. ISSN 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1002, 70-73",
+            "published_date": "04/2016"
+        },
+        {
+            "title": "Đánh giá tác dụng chống viêm, giảm đau của nọc ong trên chuột được gây mô hình viêm khớp",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học và Công nghệ. ISSN 1859-0128",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19, 64-70",
+            "published_date": "05/2016"
+        },
+        {
+            "title": "Khảo sát nồng độ Glucagon huyết tương và mối liên quan với một số yếu tố nguy cơ tim mạch ở bệnh nhân đái tháo đường týp 2",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "445 (1), 6-9",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "Khảo sát nồng độ amyloid beta 1-42 huyết tương và mối liên quan với yếu tố nguy cơ tim mạch ở bệnh nhân đái tháo đường typ II",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "445 (2), 26-30",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "Đánh giá sự biến đổi áp lực thể hang khi kích thích dây thần kinh hang bằng hệ thống Powerlab",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "445 (1), 123-128",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "Môi trường phong phú cải thiện hành vichuột nhắt gây đã gây mô hình bệnh tự kỷ (Enriched enviroment ameliorates behaviors in autism-modelled mice)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "446 (số chuyên đề), 322-333",
+            "published_date": "09/2016"
+        },
+        {
+            "title": "Gây mô hình bệnh tự kỷ trên chuột nhắt trắng bằng acid Valproic",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "446 (số chuyên đề), 311-321",
+            "published_date": "09/2016"
+        },
+        {
+            "title": "Đặc điểm phát âm trên chuột nhắt 3 đến 10 ngày tuổi",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "20 (4), 136-143",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Hiệu quả can thiệp cải thiện thói quen ăn uống, rèn luyện thể lực của người mắc hội chứng chuyển hóa tại thị xã phú thọ, tỉnh phú thọ.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "41 (9), 64-69",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Đánh giá tác dụng của Scopolamin lên khả năng học tập, trí nhớ không gian của chuột nhắt qua bài tập mê lộ nước.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "41 (9), 25-31",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Thay đổi tình trạng toàn thân và tại chỗ của động vật thực nghiệm khi đặt nẹp vít phủ Hydroxyl Apatit trên xương đùi",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "319 (11-12/2016), 49-52",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Đánh giá tác dụng gây suy giảm trí nhớ của scopolamine trên chuột nhắt trắng qua bài tập nhận thức đồ vật và mê lộ chữ Y",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42 (1), 27-33",
+            "published_date": "01/2017"
+        },
+        {
+            "title": "Nghiên cứu biến đổi lâm sàng và điện cơ ở bệnh nhân đau thắt lưng dưới ảnh hưởng của điện châm",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42 (2), 92-99",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "Đánh giá sự biến đổi một số chỉ số huyết học trên động vật thực nghiệm khi đặt nẹp vít phủ hydroxylapatit lên xương đùi.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "320 (1-2/2017), 49-53",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "Xây dựng mô hình tăng huyết áp trên chuột cống",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42 (3), 10-16",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Đánh giá tác dụng giảm đau, giảm phù nề và cải thiện vận động của nọc ong trên chuột được gây mô hình viêm khớp",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42 (3), 33-41",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Khảo sát mối liên quan của nhiệt độ bàn chân với một số biến chứng ở bệnh nhân đái tháo đường typ II",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42 (3), 88-92",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Biến đổi một số chỉ số điện tim sau 1 tuần phẫu thuật đặt vật liệu Hydroxylapatit (HAP) lên xương đùi chó.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859-2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21 (1), 45-48",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Xây dựng mô hình nhồi máu não trên chuột nhắt bằng phương pháp quang hóa",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859-2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21 (1), 48-56",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Nghiên cứu độc tính bán trường diễn của phức hợp nanochitosan/PLA mang Nifedipine trên động vật thực nghiệm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42 (4), 39-45",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "Đánh giá sự biến đổi các mediator viêm trong máu của chuột được gây mô hình viêm khớp bàn chân và điều trị bằng nọc ong",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42 (4), 54-61",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "Nghiên cứu độc tính cấp, bán trường diễn của nọc ong trên động vật thực nghiệm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "453 (2), 162-165",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "Nghiên cứu tác dụng của vật liệu tổ hợp Nanochitosan/PLA mang thuốc nifedipin lên chức năng hô hấp của chuột cống",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "453 (2), 206-209",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "Mối liên quan của chỉ số ABI với tổn thương cơ quan đích ở bệnh nhân đái tháo đường typ II",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "453 (2), 27-30",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "Biến đổi chức năng gan thận trên động vật thực nghiệm khi đặt nẹp vít không rỉ phủ hydroxylapatit lên xương đùi",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "321 (3-4/2017), 58-61",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "Khảo sát mối liên quan của chỉ số kháng insulin với một số yếu tố nguy cơ tim mạch ở bệnh nhân gút",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "454 (1), 05-08",
+            "published_date": "05/2017"
+        },
+        {
+            "title": "Nghiên cứu tác dụng của phức hợp nanochitosan/pla mang nifedipine lên hệ thần kinh trung ương",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "454 (1), 223-227",
+            "published_date": "05/2017"
+        },
+        {
+            "title": "Willughbeia cochinchinensis ameliorates locomotor disorders in model of alzheimers disease mice",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42 (7), 16-21",
+            "published_date": "09/2017"
+        },
+        {
+            "title": "Amelioration of learning and memory deficites by willughbeia cochinchinensis in mice",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42 (7), 42-47",
+            "published_date": "09/2017"
+        },
+        {
+            "title": "Tác dụng hạ Glucosse máu của phấn hoa rong biển trên chuột nhắt gây mô hình đái tháo đường",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh lý học. ISSN 1859 - 2376",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21 (3), 65-69",
+            "published_date": "09/2017"
+        },
+        {
+            "title": "In vitro and in vivo tests of PLA/d-Hap nanocomposite. DOI 10.1088/2043-6254/aa92b0",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology. ISSN 2043-6262",
+            "journal_ranking": "Scopus, IF: 2.09 (Q2)",
+            "citation_count": 15,
+            "volume_issue_pages": "8 (4)",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Willughbeia cochinchinensis prevents scopolamine-induced deficits in memory, spatial learning, and object recognition in rodents. DOI:",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Ethnopharmacology. ISSN 0378-8741",
+            "journal_ranking": "SCI, IF: 2,981 (Q1)",
+            "citation_count": 17,
+            "volume_issue_pages": "214, 99-105",
+            "published_date": "03/2018"
+        },
+        {
+            "title": "Polylactic Acid/Chitosan Nanoparticles Loading Nifedipine: Characterization Findings and In Vivo Investigation in Animal. DOI: 10.1166/jnn.2018.14537",
+            "num_authors": 17,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Nanoscience and Nanotechnology. ISSN 1533-4880",
+            "journal_ranking": "SCIE, IF: 1.093 (Q4)",
+            "citation_count": 12,
+            "volume_issue_pages": "8 (4), 2294-2303",
+            "published_date": "04/2018"
+        },
+        {
+            "title": "Gamma oscillations in the superior colliculus and pulvinar in response to faces support discrimination performance in monkeys. DOI: 10.1016/j.neuropsychologia.2017.10.015",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Neuropsychologia. ISSN 0028-3932",
+            "journal_ranking": "Scopus, SCIE, IF: 2.652 (Q1)",
+            "citation_count": 22,
+            "volume_issue_pages": "128, 87-95",
+            "published_date": "05/2019"
+        },
+        {
+            "title": "Combination of Vaccine Strain Measles Virus and Nimotuzumab in the Treatment of Laryngeal Cancer. DOI: 10.21873/anticanres.13521",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Anticancer Research. ISSN 0250-7005",
+            "journal_ranking": "Scopus, IF: 1.994 (Q3)",
+            "citation_count": 12,
+            "volume_issue_pages": "39 (7), 3727-3737",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Serum IgG Level and IgG/IgM Ratio on Admission Predict Steroid-Resistant Response in Vietnamese Children with Idiopathic Nephrotic Syndrome. DOI:10.5812/numonthly.93248",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nephro-Urology Monthly. ISSN 2251-7006",
+            "journal_ranking": "Scopus, IF: 0.39 (Q3)",
+            "citation_count": 3,
+            "volume_issue_pages": "11 (3), e93248",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Regulation of dendritic cell function by A20 through high glucose-induced Akt2 signaling. DOI: 10.1080/10799893.2019.1690511",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Receptors and Signal Transduction. ISSN 1532-4281",
+            "journal_ranking": "Scopus, SCI, IF: 1.466 (Q3)",
+            "citation_count": 2,
+            "volume_issue_pages": "39 (5-6), 434-441",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Characterization of chitosan/alginate/lovastatin nanoparticles and investigation of their toxic effects in vitro and in vivo. DOI:10.1038/s41598-020-57666-8",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientific Reports. ISSN 2045-2322",
+            "journal_ranking": "Scopus, IF: 4.379 (Q1)",
+            "citation_count": 149,
+            "volume_issue_pages": "10 (909)",
+            "published_date": "01/2020"
+        },
+        {
+            "title": "Association of FCN2 polymorphisms and Ficolin-2 levels with dengue fever in Vietnamese patients. DOI: 10.1016/j.ijid.2020.02.029",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Infectious Diseases. ISSN 1201-9712",
+            "journal_ranking": "Scopus, SCIE, IF: 3.623 (Q1)",
+            "citation_count": 18,
+            "volume_issue_pages": "95, 253-261",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "Development of ibuprofen-loaded solid lipid nanoparticle-based hydrogels for enhanced in vitro dermal permeation and in vivo topical anti-inflammatory activity. DOI:10.1016/j.jddst.2020.101758",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Drug Delivery Science and Technology. ISSN 1773-2247",
+            "journal_ranking": "SCIE, IF: 3.981 (Q1)",
+            "citation_count": 42,
+            "volume_issue_pages": "57 (101758)",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Complement protein levels and MBL2 polymorphisms are associated with dengue and disease severity. DOI:10.1038/s41598-020-71947-2",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientific Reports. ISSN 2045-2322",
+            "journal_ranking": "Scopus, IF: 4.379 (Q1)",
+            "citation_count": 20,
+            "volume_issue_pages": "10 (14923)",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Isolation and Differentiation of Amniotic Membrane Stem Cells Into Keratinocytes. DOI: 10.1177/0963689720964381",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cell Transplantation. ISSN 0963-6897",
+            "journal_ranking": "Scopus, SCIE, IF: 4.064 (Q1)",
+            "citation_count": 10,
+            "volume_issue_pages": "29 (2), 01-07",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Maternal Vaginal Colonization and Extended-Spectrum Beta-Lactamase-Producing Bacteria in Vietnamese Pregnant Women. DOI: 10.3390/antibiotics10050572",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Antibiotics. ISSN 2079-6382",
+            "journal_ranking": "Scopus, SCIE, IF: 4.99 (Q1)",
+            "citation_count": 10,
+            "volume_issue_pages": "10 (5)",
+            "published_date": "05/2021"
+        },
+        {
+            "title": "Serum hs-CRP measured prior transplantation predicts of new-onset diabetes after transplantation in renal transplant recipients. DOI: 10.1016/j.trim.2021.101392",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Transplant Immunology. ISSN 0966-3274",
+            "journal_ranking": "Scopus, SCIE, IF: 2.032 (Q2)",
+            "citation_count": 11,
+            "volume_issue_pages": "66 (101392)",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Preclinical toxicological evaluation of measles virus vaccine strain in non-human primates: A two-month intravenous study. DOI:10.15419/bmrat.v8i6.676",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biomedical Research and Therapy. ISSN 2198-4093",
+            "journal_ranking": "SCIE, IF: 0.6 (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "8 (6)",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Serum osteoprotegerin level in hemodialysis patients using low-flux reused dialyzer in relation to atherosclerosis.",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Clinical Laboratory Analysis. ISSN 0887-8013",
+            "journal_ranking": "Scopus, IF: 3.124 (Q1)",
+            "citation_count": 1,
+            "volume_issue_pages": "35 (8)",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Association of serum adiponectin and leptin levels with renal function in kidney transplant recipients with or without new-onset diabetes after transplantation. DOI: 10.1002/jcla.24000",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Clinical Laboratory Analysis. ISSN 0887-8013",
+            "journal_ranking": "Scopus, IF: 3.124 (Q1)",
+            "citation_count": 2,
+            "volume_issue_pages": "35 (10)",
+            "published_date": "09/2021"
+        },
+        {
+            "title": "Antimicrobial resistance in colonizing group B Streptococcus among pregnant women from a hospital in Vietnam. DOI:10.1038/s41598-021-00468-3",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientific Reports. ISSN 2045-2322",
+            "journal_ranking": "Scopus, IF: 4.996 (Q1)",
+            "citation_count": 24,
+            "volume_issue_pages": "11 (20845)",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Low Prevalence of HEV Infection and No Associated Risk of HEV Transmission from Mother to Child among Pregnant Women in Vietnam. DOI: 10.3390/pathogens10101340",
+            "num_authors": 17,
+            "is_main_author": false,
+            "journal_name_ISSN": "Pathogens. ISSN 2076-0817",
+            "journal_ranking": "Scopus, IF: 4.46 (Q1)",
+            "citation_count": 10,
+            "volume_issue_pages": "10 (10)",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Nanosized-Loratadine Embedded Orodispersible Films for Enhanced Bioavailability: Scalable Preparations and Characterizations. DOI: 10.1208/s12249-022-02230-y",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "AAPS PharmSciTech. ISSN 1530-9932",
+            "journal_ranking": "Scopus, SCIE, IF: 3.3 (Q1)",
+            "citation_count": 9,
+            "volume_issue_pages": "23 (78)",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "A ternary biocomposite based on modified fish scale collagen and ginsenoside Rb1: preparation, properties and bioactivities. DOI: 10.1002/pi.6389",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Polymer International. ISSN 0959-8103",
+            "journal_ranking": "Scopus, IF: 3.52 (Q2)",
+            "citation_count": 5,
+            "volume_issue_pages": "71 (8), 1039-1050",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Nucleobindin-2 (NUCB2) gene transcription activity and nesfatin-1 levels in correlation with anthropometric and biochemical parameters in type 2 diabetes mellitus patient groups in Vietnam. DOI: 10.1101/2021.09.27.21263999",
+            "num_authors": 1,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal Dental and Medical Sciences Research. ISSN 2582-6018",
+            "journal_ranking": "ISSN IF: 6,18 (Q1)",
+            "citation_count": 2,
+            "volume_issue_pages": "4 (3), 212-219",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Effects of Vinblastine and Vincristine on the function of chronic myeloid leukemic cells through expression of A20 and CYLD. DOI: 10.14715/cmb/2022.68.10.7",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cellular and Molecular Biology. ISSN 0145-5680",
+            "journal_ranking": "Scopus, IF: 1.6 (Q4)",
+            "citation_count": 8,
+            "volume_issue_pages": "68 (10), 47-53",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "Association of PSORS1C3, CARD14 and TLR4 genotypes and haplotypes with psoriasis susceptibility. DOI: 10.1590/1678-4685-GMB-2022-0099",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Genetics and Molecular Biology. ISSN 1415-4757",
+            "journal_ranking": "ISI, SCIE, IF: 2.1 (Q3)",
+            "citation_count": 8,
+            "volume_issue_pages": "45 (4)",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Prognostic significance of the angiopoietin-2 for early prediction of septic shock in severe sepsis patients. DOI: 10.2144/fsoa-2022-0077",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Future Science OA. ISSN 2056-5623",
+            "journal_ranking": "Scopus, IF: 2.4 (Q2)",
+            "citation_count": 11,
+            "volume_issue_pages": "8 (10)",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "On-screen keyboard controlled by gaze for Vietnamese people with amyotrophic lateral sclerosis. DOI: 10.3233/TAD-220391",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Technology and Disability. ISSN 1055-4181",
+            "journal_ranking": "Scopus, IF: 0.9 (Q4)",
+            "citation_count": 8,
+            "volume_issue_pages": "35 (1), 53-65",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "X-ray-irradiated K562 feeder cells for expansion of functional CAR-T cells. DOI: 10.1016/j.bbrep.2022.101399",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biochemistry and Biophysics Reports. ISSN 2405-5808",
+            "journal_ranking": "Scopus, IF: 2.79 (Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "33 (101399)",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "The safety of CAR-T cells and PD-1 antibody combination on an experimental model. DOI: 10.1016/j.bbrc.2023.01.096",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biochemical and Biophysical Research Communication. ISSN 0006-291X",
+            "journal_ranking": "Scopus, SCIE, IF: 2.5 (Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "649, 25-31",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Anti-inflammatory effects of Solanum procumbens on a low dose complete Freund's adjuvant-induced arthritis rat model. DOI: 10.4103/2221-1691.377408",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Pacific Journal of Tropical Biomedicine. ISSN 2221-1691",
+            "journal_ranking": "Scopus, SCIE, IF: 1.51 (Q3)",
+            "citation_count": 4,
+            "volume_issue_pages": "13 (5), 214-221",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Effect of substituting glutamine with lysine on structural and biological properties of antimicrobial peptide Polybia-MP1. DOI: 10.1007/s00726-023-03276-3",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Amino Acids. ISSN 0939-4451",
+            "journal_ranking": "Scopus, SCIE, IF: 3.0 (Q2)",
+            "citation_count": 12,
+            "volume_issue_pages": "55 (7), 881-890",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Establishment of cancer cell line originating from a patient with high-grade serous ovarian carcinoma. DOI:10.2144/fsoa-2023-0025",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Future Science OA. ISSN 2056-5623",
+            "journal_ranking": "Scopus, IF: 2.4 (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "9 (8)",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "The diagnostic and prognostic value of neutrophil-to-lymphocyte ratio and platelet-to-lymphocyte ratio on gastric cancer patients. DOI: 10.1097/MD.0000000000034357",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medicine (Baltimore). ISSN 0025-7974",
+            "journal_ranking": "Scopus, SCIE, IF: 1.4 (Q3)",
+            "citation_count": 15,
+            "volume_issue_pages": "102 (31)",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Complement receptor type 1 and 2 (CR1 and CR2) gene polymorphisms and plasma protein levels are associated with the Dengue disease severity. DOI: 10.1038/s41598-023-44512-w",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientific Reports. ISSN 2045-2322",
+            "journal_ranking": "Scopus, IF: 3.88 (Q1)",
+            "citation_count": 5,
+            "volume_issue_pages": "13 (17377)",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Effects of the multi-strain probiotic preparation LabMix on some immune indices and intestinal microbiota in an antibiotic associated diarrhea rat mode. DOI: 10.35495/ajab.2023.241",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Agriculture and Biology. ISSN 2307-8553",
+            "journal_ranking": "Scopus, IF: 1.6 (Q1)",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol 2",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "A20 promoted the phagocytosis of lymphoma cells by dendritic cells from activated B-cell-like non-Hodgkin lymphoma. DOI: 10.14715/cmb/2024.70.5.2",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cellular and Molecular Biology. ISSN 0145-5680",
+            "journal_ranking": "Scopus, IF: 1.5 (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "70 (5), 01-09",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "An EEG & eye-tracking dataset of ALS patients & healthy people during eye-tracking-based spelling system usage. DOI: 10.1038/s41597-024-03501-y",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientific Data. ISSN 2052-4463",
+            "journal_ranking": "Scopus, IF: 5.8 (Q1)",
+            "citation_count": 7,
+            "volume_issue_pages": "11 (664)",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Expression of SUMO and NF-kB genes in hepatitis B virus-associated hepatocellular carcinoma patients: An observational study. DOI: 10.1097/MD.0000000000038737",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medicine (Baltimore). ISSN 0025-7974",
+            "journal_ranking": "Scopus, SCIE, IF: 1.4 (Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "103 (26), e38737",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Characterizations and bioactivities of novel biocomposites based on modified fish collagen, ginsenoside Rb1, and polyphenols. DOI: 10.1002/app.55877",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Applied Polymer Science. ISSN 0021-8995",
+            "journal_ranking": "Scopus, IF: 3.0 (Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "141 (35), e55877",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Associations of CYLD, JAK2 and TLR4 Ge notypes with PSA Levels and Immunophenotype in Benign Prostatic Hyperplasia and Prostate Cancer. DOI: 10.31083/j.fbl2907256",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Bioscience-Landmark. ISSN 2768-6701",
+            "journal_ranking": "Scopus, SCIE, IF: 3.3 (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "29 (7), 256",
+            "published_date": "07/2024"
+        },
+        {
+            "title": "Early impaired insulin tolerance among Vietnamese diabetes with or without dyslipidemia. DOI: 10.1097/MD.0000000000040212",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Medicine (Baltimore). ISSN 0025-7974",
+            "journal_ranking": "Scopus, SCIE, IF: 1.4 (Q3)",
+            "citation_count": 2,
+            "volume_issue_pages": "103 (44), e40212",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Anti-inflammatory, Analgesic, and Motor Improvement Effects of Bee Venom Acupuncture on Freund's Complete Adjuvant-Induced Spinal Degeneration in Rats. DOI: 10.26538/tjnpr/v8i11.27",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tropical Journal of Natural Product Research. ISSN 2616-0684",
+            "journal_ranking": "Scopus, IF: 0.82 (Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "8 (11), 9166-9173",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Tác dụng gây hoạt tử tế bào ung thư của virus vaccin sởi và nimotuzumab",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "498 (1), 27-30",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Effects of high-fat diet consumption on locomotion, exploration, and novel object recogniton.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "46 (2), 104-111",
+            "published_date": "02/2021"
+        },
+        {
+            "title": "Nghiên cứu tác dụng sinh cytokine của khối tế bào CAR-T",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "500 (3), 214-218",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Đánh giá tác dụng phụ của tế bào CAR-T trên động vật thực nghiệm",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "500 (3), 224-228",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Nghiên cứu tối ưu hóa quá trình tách tế bào đơn nhân máu ngoại vi và chuyển nạp tạo khối tế bào CAR-T cho điều trị Lơ-xê-mi cấp dòng lympho",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "46 (4), 87-94",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Effect of A20 on glucose dependent cell migration in acute lymphoblastic leukemia",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology. ISSN 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19 (2), 229-236",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Đánh giá tác dụng của nano Alginate/Chitosan/Lovastatin lên rối loạn chuyển hóa lipid trên chuột cống",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "505 (1), 84-89",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Nghiên cứu sự thay đổi nồng độ Cytokine trong huyết tương của bệnh nhân bệnh phổi tắc ngẽn mạn tính được điều trị bằng ghép tế bào gốc trung mô đồng loài từ dây rốn",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "509 (2), 344-350",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Đánh giá ảnh hưởng lên huyết áp của cao chiết hạt cà phê xanh Việt nam trên động vật thực nghiệm",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "509 (1), 17-21",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Đánh giá độc tính của cao chiết hạt cà phê xanh việt nam trên động vật thực nghiệm",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "509 (2), 30-33",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Đánh giá tác dụng của cao chiết hạt cà phê xanh Việt nam lên tim chuột nhắt khi thực hiện vận động gắng sức",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "355 (11-12/2021), 46-33",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Research on plasma erythropoietin concentration in type 2 diabetic patients with kidney injury",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "48 (2), 64-72",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Khảo sát đặc điểm thiếu máu ở bệnh nhân đái tháo đường típ 2 có tổn thương thận",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "48 (3), 25-35",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Evaluating the plasma interleukin-1 beta and interleukin-8 levels in patients with chronic obstructive pulmonary diseases following treatment with allogeneic mesenchymal stem cell derived from umbilical cord tissues and platelet rich plasma.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology. ISSN 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21 (1), 01-13",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Nghiên cứu thông số kĩ thuật sấy thu hồi và đánh giá độc tính bán trường diễn trên thỏ với bột anthocyanin chiết tách từ củ hành tím",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "363 (3-4/2023), 49-55",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Khảo sát biến đổi nồng độ osteoprotegerin huyết tương ở bệnh nhân sau ghép thận",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "527 (2), 286-289",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Pre-clinical research on the application of CAR-T therapy in the treatment of acute lymphoblastic leukemia",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "48 (7), 133-143",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Đánh giá hiệu quả điều trị của tế bào CAR-T trên chuột mang tế bào u lympho dòng B lan tỏa",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu y học. ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "168 (7), 197-205",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Đặc điểm một số chỉ số bạch cầu và nồng độ il-6 sau điều trị bằng liệu pháp tế bào car-t phối hợp với kháng thể đơn dòng ức chế pd-1 trên thực nghiệm",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "530 (1), 111-115",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Thiết lập quy trình đánh giá năng lực gây độc dòng tế bào ung thư của tế bào giết tự nhiên (nk) sau nuôi cấy tăng sinh",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "530 (1), 345-350",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Sự biến đổi điện cơ bề mặt và nồng độ một số cytokine huyết tương dưới tác dụng của thủy châm chế phẩm nọc ong apitoxin trên bệnh nhân đau thắt lương do thoái hóa cột sống",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "535 (1B), 63-69",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Đánh giá khả năng ly giải các dòng tế bào ung thư CD19(+) của liệu pháp điều trị kết hợp tế bào CAR-T với kháng thể đơn dòng ức chế PD-1 trên thực nghiệm",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "535 (1B), 265-269",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Tác dụng giảm đau, cải thiện vận động của thủy châm chế phẩm nọc ong apitoxin trên bệnh nhân đau thắt lưng do thoái hóa cột sống",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "535 (1B), 146-150",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Nghiên cứu mối tương quan giữa hoạt tính chế tiết tế bào NK máu ngoại vi và khả năng gây độc của tế bào nk sau nuôi cấy tăng sinh trên đối tượng bệnh nhân ung thư tuyến tiền liệt",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "535 (1), 383-387",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Đánh giá khả năng gây chết tế bào ung thư phổi của virus vaccine sởi phối hợp cisplatin in vitro",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "49 (3), 87-95",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Khảo sát nồng độ TNF-a và mối tương quan với các chỉ số bạch cầu trên chuột điều trị kết hợp ức chế PD-1 và tế bào CAR-T",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu y học. ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "175 (2), 167-171",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Ảnh hưởng của chế độ ăn giàu chất béo lên học tập và trí nhớ của chuột cống",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "49 (3), 96-102",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Nghiên cứu tác dụng tăng cường trí nhớ của viên nang mềm Hup A bằng mô hình Scopolamine trên chuột nhắt trắng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Community. ISSN 2354-0613",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "65, special issue 2, 296-302",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Nghiên cứu mối tương quan giữa HOMA-IR và một số chỉ số lipid huyết tương trên bệnh nhân đái tháo đường týp 2",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "538 (1), 343-347",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Mối liên quan giữa nồng độ alpha-fetoprotein huyết tương với mô bệnh học ở bệnh nhân ung thư biểu mô tế bào gan nhiễm HBV có chỉ định phẫu thuật cắt gan",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "542 (3), 109-113",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "Mối tương quan giữa nồng độ nesfatin-1 huyết tương với một số chỉ số lâm sàng trên nhóm bệnh nhân đái tháo đường (mới phát hiện) chưa điều trị và đã điều trị tại bệnh viện 19-8",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "544 (3), 283-287",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Tác dụng chống oxy hóa của cao chiết hạt cà phê xanh việt nam trên mô hình chuột nhắt trắng gây lão suy bằng D Galactose",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu y học. ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "183 (10), 366-372",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Nghiên cứu tác dụng không mong muốn của chế phẩm chứa nọc ong apitoxin thủy châm điều trị đau trên bệnh nhân thoái hóa cột sống",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "373 (11-12/2024), 46-49",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Nghiên cứu nồng độ nesfatin-1 huyết tương ở bệnh nhân đái tháo đường típ 2 tại Bệnh viện 198",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "546 (2), 383-388",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Đánh giá tác dụng kháng khuẩn, kháng nấm và tan máu của hoạt chất IND-411 được tạo ra dựa trên peptide tự nhiên indolicidin",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "546 (3), 374-379",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Nghiên cứu phân tích trình tự xác định đột biến và mức độ biểu hiện của gen NUCB2 và SLC2A2 liên quan đến nồng độ nesfatin - 1 trên bệnh nhân đái tháo đường típ 2",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "547 (2), 355-360",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "Tạo dòng tế bào K562 đồng biểu hiện các thụ thể kháng nguyên tạo CD137L, CD86, CD64, CD19 và IL15",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "375 (03-04/2025), 47-52",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Evaluating the elimination of iCasp9-IL15 CAR-T cells using photosensitizers AP20187 in vitro",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Community. ISSN 2354-0613",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "66 (3), 107-112",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Đánh giá chất lượng của tế bào CAR-T nhận biết protein CD19 để điều trị bệnh bạch cầu lympho cấp",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Community. ISSN 2354-0613",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "66 (3), 269-275",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Research on the production of mRNA encoding sleeping beauty transposase in CAR-T cell engineering",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "376, 44-49",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Khảo sát đặc điểm thiếu máu ở bệnh nhân đái tháo đường típ 2 có tổn thương thận",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nghiên cứu y học. ISSN 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "50 (1), 17-25",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Hepatitis E Virus Infection in Vietnamese Pregnant Women with Hepatitis B: Prevalence and Clinical Outcomes. DOI: 10.1093/ofid/ofaf081",
+            "num_authors": 17,
+            "is_main_author": false,
+            "journal_name_ISSN": "Open Forum Infectious Diseases. ISSN 2328-8957",
+            "journal_ranking": "Scopus, SCIE IF: 3.8 (Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "12 (3), ofaf081",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "The Association Between Plasma Metrnl and Insulin Resistance Among Vietnamese Type 2 Diabetes Patients",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bratislava Medical Journal. ISSN 0006-9248",
+            "journal_ranking": "SCIE IF: 1.5 (Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "126, 818-828",
+            "published_date": "03/2025"
+        },
+        {
+            "title": "The importance role of central proline to the antimicrobial potency and selectivity of indolicidin. DOI: 10.1007/s00203-025-04299-y",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of Microbiology. ISSN 0302-8933",
+            "journal_ranking": "Scopus, SCIE IF: 2.3 (Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "207 (97)",
+            "published_date": "03/2025"
+        },
+        {
+            "title": "Tác dụng chống viêm của chế phẩm nọc ong trên mô hình động vật gây viêm quanh khớp vai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y Dược Lâm sàng 108. ISSN 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13, special issue, 221-225",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Tính tương thích sinh học của vật liệu kết xương titan trên động vật thực nghiệm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học quân sự. ISSN 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "44(2), 44-49",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Nghiên cứu tác dụng của bài thuốc Phong thấp thang trên mô hình chuột gây viêm khớp thực nghiệm",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "338 (7-8/2019), 56-59",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Nghiên cứu tác giảm đau và bảo vệ niêm mạc dày tá tràng của bào thuốc An vị thang trên thực nghiệm",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự. ISSN 1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "338 (7-8/2019), 49-52",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Đánh giá mối liên quan giữa các yế tố nguy cơ với tình trạng nhiễm virus viêm gan e ở phụ nữ có thai",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Thực hành. ISSN 1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9 (1109), 196-200",
+            "published_date": "09/2019"
+        },
+        {
+            "title": "Gây mô hình béo phì trên chuột cống bằng thức ăn giàu chất béo",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam. ISSN 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "493 (1), 07-13",
+            "published_date": "08/2020"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Xây dựng mô hình thực nghiệm cho chứng bệnh tâm thần phân liệt và xác định thay đổi nhận thức, hành vi trên mô hình động vật gây bệnh.",
+            "role": "Principal Investigator",
+            "project_code": "2013-66-226/KQNC",
+            "management_level": "Đề tài Nhánh cấp nhà nước Thuộc đề tài: NĐT Việt Nam - Nhật Bản",
+            "period": "05/2011-08/2012",
+            "acceptance_date": "14/12/2012",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu sự biến đổi sinh lý, hóa sinh dưới tác dụng của điện từ trường kết hợp đại trường châm trong điều trị một số bệnh lý cột sống",
+            "role": "Principal Investigator",
+            "project_code": "KC10.01/11-15",
+            "management_level": "Đề tài Nhánh cấp nhà nước",
+            "period": "01/2012-12/2013",
+            "acceptance_date": "31/3/2013",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tác dụng kháng men acetylcholinesterase và cải thiện trí nhớ của hai dược liệu guồi đỏ (willughbeia conchinchinensis) và chiêu liều cườm (xylia xylocarpa)",
+            "role": "Principal Investigator",
+            "project_code": "Nafosted 106-YS.05-2013.24",
+            "management_level": "Đề tài nghiên cứu cơ bản",
+            "period": "3/2014-3/2018",
+            "acceptance_date": "11/03/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu hiệu quả chống viêm, giảm đau của thủy châm nọc ong trên động vật thực nghiệm gây thoái hóa cột sống",
+            "role": "Principal Investigator",
+            "project_code": "KC10.14/16-20",
+            "management_level": "Đề tài nhánh thuộc đề tài cấp nhà nước",
+            "period": "7/2017-12/2019",
+            "acceptance_date": "25/1/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng liệu pháp CAR-T trong điều trị bệnh bạch cầu nguyên bào lympho cấp",
+            "role": "Principal Investigator",
+            "project_code": "KC10.39/16-20",
+            "management_level": "Đề tài cấp nhà nước",
+            "period": "06/2019-06/2021",
+            "acceptance_date": "15/7/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu mối liên quan giữa nồng độ và tính đa hình gen của một số dấu ấn sinh học với chỉ số Lipid máu và kháng insulin ở bệnh nhân đái tháo đường type 2 tại các bệnh viện trên địa bàn Hà Nội",
+            "role": "Assistant",
+            "project_code": "01C-08/04-2020-3",
+            "management_level": "Đề tài Sở KHCN Hà Nội",
+            "period": "2020-2024",
+            "acceptance_date": "20/11/2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tạo peptid tổng hợp và bào chế kem chứa peptid có tác dụng kháng khuẩn, kháng nấm ngoài da hay gặp ở bộ đội",
+            "role": "Principal Investigator",
+            "project_code": "2022.75.50",
+            "management_level": "Đề tài cấp Bộ Quốc Phòng",
+            "period": "2022-2025",
+            "acceptance_date": "",
+            "rating": "Đang chờ nghiệm thu chính thức"
+        }
+    ],
+    "books": [
+        {
+            "title": "Bệnh Alzheimer và bệnh Tâm thần phân liệt, cơ chế bệnh sinh, mô hình thực nghiệm và các phương pháp đánh giá hành vi trên động vật thực nghiệm",
+            "type": "Monograph",
+            "publisher": "NXB Khoa học Kỹ thuật",
+            "publish_year": "2017",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Từ trang 9 đến 225",
+            "verification_document_id": "Quyết định số 5560/QĐ-HVQY ngày 30 tháng 12 năm 2022 về phê duyệt và đưa vào sử dụng tài liệu chuyên khảo dùng trong giảng dạy chuyên ngành Sinh lý bệnh năm học 2022-2023"
+        },
+        {
+            "title": "Giáo trình Sinh lý bệnh cơ quan (dùng cho đào tạo trình độ đại học)",
+            "type": "Textbook",
+            "publisher": "NXB Quân đội Nhân Dân",
+            "publish_year": "2019",
+            "num_authors": 14,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Từ trang 32 đến trang 67",
+            "verification_document_id": "Quyết định số 4152/QĐ-HVQY ngày 01 tháng 11 năm 2019 về việc ban hành tài liệu dạy học “Sinh lý bệnh cơ quan\""
+        },
+        {
+            "title": "Giáo trình Triệu chứng và bệnh học thận (dùng cho đào tạo trình độ đại học)",
+            "type": "Textbook",
+            "publisher": "NXB Quân đội Nhân Dân",
+            "publish_year": "2020",
+            "num_authors": 22,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Từ trang 34 đến trang 58",
+            "verification_document_id": "Quyết định số 568/QĐ-HVQY ngày 18 tháng 02 năm 2021 về việc ban hành giáo trình dạy học “Triệu chứng và bệnh học thận”"
+        },
+        {
+            "title": "Giáo trình Module từ tế bào đến cơ quan (dùng cho đào tạo bác sĩ y khoa)",
+            "type": "Textbook",
+            "publisher": "NXB Quân đội Nhân Dân",
+            "publish_year": "2024",
+            "num_authors": 16,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Từ trang 165 đến trang 182",
+            "verification_document_id": "Quyết định số 1523/QĐ-HVQY ngày 06 tháng 05 năm 2024 về việc ban hành giáo trình dạy học “Module Từ tế bào đến cơ quan”"
+        },
+        {
+            "title": "Giáo trình Module Hệ Hô hấp (dùng cho đào tạo bác sĩ y khoa)",
+            "type": "Textbook",
+            "publisher": "NXB Quân đội Nhân Dân",
+            "publish_year": "2025",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Từ trang 97 đến trang 112 Từ trang 121 đến trang 131 Từ trang 132 đến trang 149 Từ trang 194 đến trang 210",
+            "verification_document_id": "Quyết định số 1271/QĐ-HVQY ngày 16 tháng 04 năm 2025 về việc ban hành giáo trình dạy học \"Module Hệ hô hấp\""
+        },
+        {
+            "title": "Giáo trình Module Huyết học cơ bản (dùng cho đào tạo trình độ đại học)",
+            "type": "Textbook",
+            "publisher": "NXB Quân đội Nhân Dân",
+            "publish_year": "2025",
+            "num_authors": 1,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Từ trang 117 đến trang 129",
+            "verification_document_id": "Quyết định số 1272/QĐ-HVQY ngày 16 tháng 04 năm 2025 về việc ban hành giáo trình dạy học “Huyết học cơ bản\""
+        },
+        {
+            "title": "Liệu pháp tế bào CAR-T trong điều trị bệnh bạch cầu cấp dòng Lympho",
+            "type": "Monograph",
+            "publisher": "NXB Y học",
+            "publish_year": "2025",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Từ trang 15 đến trang 301",
+            "verification_document_id": "Quyết định số 1947/QĐ-HVQY ngày 26 tháng 05 năm 2025 về phê duyệt và đưa vào sử dụng tài liệu chuyên khảo dùng trong giảng dạy chuyên ngành Sinh lý bệnh năm học 2024-2025"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình, đề cương chi tiết các môn học trong chương trình đào tạo trình độ Thạc sĩ chuyên ngành Sinh lý bệnh",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định 2458/QĐ-HVQY ngày 22/06/2023",
+            "certifying_authority": "Quyết định 4857/QĐ-HVQY ngày 06/11/2023",
+            "implementation_document_id": "Quyết định 5946/QĐ-HVQY ngày 29/12/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình, đề cương chi tiết các môn học trong chương trình đào tạo trình độ Tiến sĩ chuyên ngành Sinh lý bệnh",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định 2459/QĐ-HVQY ngày 22/06/2023",
+            "certifying_authority": "Quyết định 4856/QĐ-HVQY ngày 06/11/2023",
+            "implementation_document_id": "Quyết định 5948/QĐ-HVQY ngày 29/12/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình khung đào tạo bác sĩ y khoa quân y theo hướng tích hợp tại Học viện Quân y",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định 2871/QĐ-HVQY ngày 16/08/2019",
+            "certifying_authority": "Quyết định 655/QĐ-HVQY ngày 24/02/2021, Quyết định 662/QĐ-HVQY ngày 24/02/2021",
+            "implementation_document_id": "Quyết định 4216/QĐ-HVQY ngày 10/09/2021, Quyết định 1765/QĐ-HVQY ngày 28/04/2021, Quyết định 1812/QĐ-HVQY ngày 29/04/2021",
+            "notes": ""
+        }
+    ]
+}

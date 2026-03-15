@@ -1,0 +1,377 @@
+{
+    "papers": [
+        {
+            "title": "Dự đoán cực đại hấp thụ của các phức đồng Cu2+ sử dụng mạng thần kinh nhân tạo đa lớp",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, số 1, trang 13-17",
+            "published_date": "01/2008"
+        },
+        {
+            "title": "Xác định đồng thời các ion Zn2+ và Pb2+ bằng phương pháp trắc quang và mạng nơtron đa lớp",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học và ứng dụng, ISSN: 1859-4069",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 6, số 78, trang 46-48",
+            "published_date": "2008"
+        },
+        {
+            "title": "Xác định hàm lượng Cu, Zn, Cd, Hg, Se và As trong một số loại nhuyễn thể bằng phương pháp quang phổ hấp thụ nguyên tử",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14, số 3, trang 77-82",
+            "published_date": "2009"
+        },
+        {
+            "title": "Nghiên cứu sự hấp thu cạnh tranh giữa Cd2+ và Pb2+ lên cây rau bó xôi (Spinacia oleracea L.)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19, số 2, trang 9-15",
+            "published_date": "2014"
+        },
+        {
+            "title": "Khảo sát chất lượng nước giếng trong các hộ dân xung quanh khu công nghiệp Phú Hội, huyện Đức Trọng, tỉnh Lâm Đồng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19, số 3, trang 40-45",
+            "published_date": "2014"
+        },
+        {
+            "title": "Study on competitive absorption between Cu2+ and Pb2+ in lettuce (Lactuca sativa L. var. Capitala L.)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19, số 4, trang 86-91",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nghiên cứu sự tích lũy Cu2+, Pb2+, Zn2+ từ đất trồng bị ô nhiễm lên sinh khối cây rau bó xôi (Spinacia oleracea L.)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 1, trang 68-73",
+            "published_date": "2015"
+        },
+        {
+            "title": "Study on competitive absorption between Cu2+ and Pb2+ in lettuce (Lactuca sativa L.) and spinach (Spinacia oleracea L.)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 3, trang 362-369",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu sự phân bố hàm lượng của Cu2+ và Zn2+ trên cây rau xà lách mỡ (Lactuca sativa L.) và cà rốt (Daucus carota L.) được trồng trên nền đất ô nhiễm kim loại nặng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 3, trang 117-122",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu sự tích lũy Cu khi có mặt Pb và Zn lên sinh khối củ khoai tây (Solanum tuberosum)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 4, trang 203-209",
+            "published_date": "2015"
+        },
+        {
+            "title": "Study on the accumulation of Zinc from soil to the biomass of lettuce (Lactuca sativa L. var. capitala L.).",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry, ISSN: 2525-2323",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 54, số 2, trang 205-209",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "Study on the accumulation of copper from soil to biomass of some vegetables",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Dalat University Journal of Science, ISSN: 0866-787X",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 6, số 3, trang 316-323",
+            "published_date": "2016"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của việc sử dụng các loại phân khoáng trong quá trình canh tác đến sự hấp thụ đồng và kẽm ở một số cây trồng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry, ISSN: 2525-2323",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 55, số 3e12, trang 80-84",
+            "published_date": "2017"
+        },
+        {
+            "title": "Chiết rút và định lượng các acid mùn có trong nguồn than bùn của Tỉnh Lâm Đồng",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 24, số 2, trang 147-151",
+            "published_date": "2019"
+        },
+        {
+            "title": "Sử dụng kỹ thuật chiết điểm mù kết hợp với phương pháp quang phổ hấp thụ phân tử để xác định hàm lượng kẽm trong một số mẫu rau thương phẩm tại Đà Lạt",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ và Thực phẩm, ISSN: 0866-8132",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 1, trang 117-126",
+            "published_date": "2020"
+        },
+        {
+            "title": "Tối ưu hóa quy trình phân tích tổng protein thô trong mẫu thực phẩm bằng phương pháp Kjeldahl trên thiết bị DNP- 2000MP",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25, số 3, trang 169-174",
+            "published_date": "2020"
+        },
+        {
+            "title": "Facile synthesis of novel nano curcuminoids sacha inchi oil using the phase inversion temperature (PIT) method: Characterization and antioxidant activity",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Food Processing and Preservation, ISSN: 0145-8892 (Print); 1745-4549 (Online)",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "e15402",
+            "published_date": "2021"
+        },
+        {
+            "title": "Study on the Effect of Cu (II) and Zn (II) on the Accumulation of Pb (II) from Soil to the Biomass of Vegetable",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Agronomy, ISSN: 1687-8159 (Print), ISSN: 1687-8167 (Online)",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "ID6687566",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Difluoroboron Curcumin Complex: A Study on Determination of Acidity Constants and Quantitative Analysis of Arsenic(III)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Indonesian Journal of Chemistry, ISSN: 1411-9420",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "21, 5, 1271-1280",
+            "published_date": "2021"
+        },
+        {
+            "title": "Định lượng đồng thời Kaempferol và Kaemprefitrin trong lá cây Aralia hiepiana J. Wen & Lowry bằng phương pháp sắc ký lỏng hiệu năng cao (HPLC)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 26, số 4A, trang 57-61",
+            "published_date": "2021"
+        },
+        {
+            "title": "Định lượng asen, cadimi, chì và thủy ngân trong một số thuốc y học cổ truyền",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "27, 2, 120-125",
+            "published_date": "2022"
+        },
+        {
+            "title": "Optimizing Primary Nutrient Requirements in Vegetable Cultivation using Response Surface Methodology for Lead Contaminated Soils",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Agriculture and Biology, ISSN: 1560-8530, 1814-9596",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "28, 49-58",
+            "published_date": "07/2022"
+        },
+        {
+            "title": "The effect of Cadmium, Copper, and Lead on Brassica juncea in Hydroponic Growth Medium",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Pertanika Journal of Tropical Agricultural Science, ISSN: 1511-3701",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "46, 1, 253-264",
+            "published_date": "2023"
+        },
+        {
+            "title": "Chemical composition, anti-inflammatory and cytotoxic activity of essential oils from two Luvunga species (L. scandens and L. hongiaoensis) from Vietnam",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research, ISSN: 1478-6419, 1478-6427",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Public online",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Chemical composition, anti-microbial, anti-inflammatory, and cytotoxic activities of essential oils from Melicope pteleifolia (Cham. Ex Benth.) T.G.Hartley Leaves and Stems collected in Lam Dong Province",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medicinal Materials, ISSN: 1859-4735",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 28, số 4, trang 205-211",
+            "published_date": "2023"
+        },
+        {
+            "title": "Comparison of Lemna minor and Spirodela polyrhiza duckweed's ability to remove cadmium and lead from heavy metals polluted water",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Chemical Bulletin, ISSN: 2063-5346",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "12, 10, 12012-12027",
+            "published_date": "2023"
+        },
+        {
+            "title": "Exploring Plant Species in Vietnam for the Production of pH Indicator Paper",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tropical Journal of Natural Product Research, ISSN: 2616-0684, 2616-0692",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "7, 10, 4889-4893",
+            "published_date": "2023"
+        },
+        {
+            "title": "Chemical composition, anti-inflammatory and cytotoxic activities of essential oils from Zanthoxylum myriacanthum Wall. Ex Hook. F. Friuts, Leaves and Stems collected in Lam Dong Province",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medicinal Materials, ISSN: 1859-4735",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 28, số 6, trang 343-351",
+            "published_date": "2023"
+        },
+        {
+            "title": "Essential oils from Acronychia pedunculata (L.) Miq. in Vietnam: chemical composition, antimicrobial, cytotoxicity and nitric oxide inhibition activities",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Essential Oil Bearing Plants, ISSN: 0972-060X",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "26",
+            "published_date": "2023"
+        },
+        {
+            "title": "Khảo sát khả năng tích lũy đồng từ đất trồng và nguy cơ rủi ro sức khỏe khi sử dụng một số loại thảo mộc trồng trên đất ô nhiễm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học, ISSN: 0868-3224",
+            "journal_ranking": "Local journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 29, số 3, trang 123-129",
+            "published_date": "2023"
+        },
+        {
+            "title": "Three diterpene lactones from Andrographis Paniculata (Burm. F) nees in vitro, in silico assessment of the anticancer and novel liposomal encapsulation efficiency",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Current Organic Chemistry, ISSN: 1385-2728",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "28, 16",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu sự phân bố hàm lượng của Cu2+ và Zn2+ lên cây rau xà lách mỡ (Lactuca sativa L.) và cây cà rốt (Daucus carota L.) được trồng trên nền đất chuyên canh rau Đà Lạt.",
+            "role": "Principal Investigator",
+            "project_code": "null",
+            "management_level": "Cấp trường",
+            "period": "01/2015-12/2015",
+            "acceptance_date": "14/12/2015",
+            "rating": "Xếp loại Tốt"
+        },
+        {
+            "title": "Nghiên cứu sự tích lũy của Cu2+ từ đất trồng bị ô nhiễm lên cây rau bó xôi (Spinacia oleracea L. Chenopodiaceae).",
+            "role": "Principal Investigator",
+            "project_code": "null",
+            "management_level": "Cấp trường",
+            "period": "01/2016-12/2016",
+            "acceptance_date": "12/12/2016",
+            "rating": "Xếp loại Tốt"
+        },
+        {
+            "title": "Nghiên cứu mức độ hấp thu chì và các yếu tố ảnh hưởng đến sự hấp thu chì từ đất lên một số loại rau",
+            "role": "Principal Investigator",
+            "project_code": "08TĐ",
+            "management_level": "Cấp trường trọng điểm",
+            "period": "2021-2023",
+            "acceptance_date": "27/08/2022",
+            "rating": "Xếp loại Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Hóa phân tích",
+            "type": "Textbook",
+            "publisher": "NXB Khoa học tự nhiên và Công nghệ",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ giáo trình",
+            "verification_document_id": "Quyết định số 347/QĐ-ĐHĐL ngày 18/05/2020"
+        },
+        {
+            "title": "Giáo trình Các phương pháp phân tích quang",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Quốc gia Hà Nội",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ giáo trình",
+            "verification_document_id": "Quyết định số 732/QĐ-ĐHĐL ngày 31/08/2022"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo Cao học ngành Hóa phân tích",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 560/QĐ-ĐHĐL ngày 06/07/2022",
+            "certifying_authority": "Trường Đại học Đà Lạt",
+            "implementation_document_id": "Quyết định số 1270/QĐ-ĐHĐL ngày 08/11/2023",
+            "notes": ""
+        }
+    ]
+}

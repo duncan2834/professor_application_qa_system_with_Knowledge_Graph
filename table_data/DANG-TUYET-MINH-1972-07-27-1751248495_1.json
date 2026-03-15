@@ -1,0 +1,397 @@
+{
+    "papers": [
+        {
+            "title": "Định hướng nghiên cứu đánh giá tác động của quá trình tăng nóng sản lượng khai thác than tới môi trường và thủy hệ vùng than Đông Bắc",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn (ISSN 0866-8744)",
+            "journal_ranking": "",
+            "citation_count": 577,
+            "volume_issue_pages": "Tr, 13-18",
+            "published_date": "01/2009"
+        },
+        {
+            "title": "Nghiên cứu mối tương quan giữa thành phần cơ giới của đất đá thải với dịch chuyển và biến dạng đất đá thải phục vụ quy hoạch hoàn thổ đất mỏ",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học đất (ISSN 0868-3743)",
+            "journal_ranking": "",
+            "citation_count": 35,
+            "volume_issue_pages": "Tr.23-25",
+            "published_date": "12/2010"
+        },
+        {
+            "title": "Nghiên cứu thuật toán hàm mũ xác định thông số dịch chuyển đứng đất đá thải phục vụ quy hoạch hoàn thổ bãi thải, phát triển tài nguyên môi trường vùng khai thác bền vững",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đo đạc và Bản đồ (ISSN 0866-7705)",
+            "journal_ranking": "",
+            "citation_count": 7,
+            "volume_issue_pages": "Tr.19-23",
+            "published_date": "03/2011"
+        },
+        {
+            "title": "Nghiên cứu đánh giá sự ổn định sườn dốc bãi thải mỏ lộ thiên do tác động của các yếu tố ngoại sinh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ địa chất (ISSN 1859-1469)",
+            "journal_ranking": "",
+            "citation_count": 39,
+            "volume_issue_pages": "Tr. 17-22",
+            "published_date": "7/2012"
+        },
+        {
+            "title": "Nghiên cứu xây dựng quy trình công nghệ đo đạc bản đồ địa hình đáy biển",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khí tượng Thủy văn (ISSN 0866-8744)",
+            "journal_ranking": "",
+            "citation_count": 623,
+            "volume_issue_pages": "Tr.17-21",
+            "published_date": "11/2012"
+        },
+        {
+            "title": "Phương pháp mô hình hoá và ứng dụng trong xây dựng mô hình phân vùng nguy cơ lũ.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Mỏ địa chất (ISSN 1859-1469)",
+            "journal_ranking": "",
+            "citation_count": 58,
+            "volume_issue_pages": "kỳ 4, Tr. 128-135",
+            "published_date": "08/2017"
+        },
+        {
+            "title": "Flood Hazard zoning in Lam river basin, Vietnam, using GIS and analytic hierarchy process (AHP)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International Conference on Geo-Spatial Technologies and Earth Resources, Vietnam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 837-843",
+            "published_date": "09/2017"
+        },
+        {
+            "title": "Ứng dụng công nghệ GIS xây dựng bản đồ phân cấp lớp phủ phục vụ phân vùng nguy cơ lũ lụt trên lưu vực sông Lam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghiệp mỏ (ISSN 0868-7052)",
+            "journal_ranking": "",
+            "citation_count": 5,
+            "volume_issue_pages": "Tr. 37-39",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Đánh giá ảnh hưởng của các yếu tố trong phân vùng nguy cơ lũ",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghiệp mỏ (ISSN 0868-7052)",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "Tr.91-95",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Construction of digital surface model and orthophoto map using UAV photogrammetry technology. A case study in IAM'LAH reservoir, Krongpa, Gialai province, Vietnam.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of International Workshop Natural resources and risk management in context of climate change, Hanoi, Vietnam, 9-10 January 2020 (ISBN: 978-604-913-968-0)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr.376-383",
+            "published_date": "01/2020"
+        },
+        {
+            "title": "Ứng dụng công nghệ WebGIS quản lý dữ liệu phục vụ nghiên cứu và quản lý tài nguyên nước lưu vực sông Ba",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghiệp mỏ (ISSN 0868-7052)",
+            "journal_ranking": "",
+            "citation_count": 6,
+            "volume_issue_pages": "Tr.81-86",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Ứng dụng phương pháp phân tích thứ bậc và công nghệ GIS phân vùng nguy cơ lũ trên lưu vực sông Ngàn Sâu và Ngàn Phố tỉnh Hà Tĩnh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học, Trường Đại học Sư phạm Hà Nội (ISSN 2354-1075)",
+            "journal_ranking": "",
+            "citation_count": 66,
+            "volume_issue_pages": "tập 1, Tr.198-212",
+            "published_date": "3/2021"
+        },
+        {
+            "title": "Multi-geospatial flood hazard modelling for a large and complex river basin with data sparsity: a case study of the Lam river Basin, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Earth Systems and Environment ISSN: 2509-9426, E-ISSN: 2509-9434",
+            "journal_ranking": "WoS, Scopus Q1",
+            "citation_count": 30,
+            "volume_issue_pages": "Vol. 6 pp. 715-731",
+            "published_date": "3/2021"
+        },
+        {
+            "title": "The Role of Factor Affecting Flood Hazard Zoning Using Analytical Hierarchy Process: A Review",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Earth Systems and Environment ISSN: 2509-9426, E-ISSN: 2509-9434",
+            "journal_ranking": "WoS, Scopus Q1",
+            "citation_count": 60,
+            "volume_issue_pages": "Vol. 6 pp. 697-713",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Assessment of vulnerability in agricultural land in flood prone areas and application of mobile smart phone in providing flood hazard information in Lam river basin (Vietnam)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainable Development of Mountain Territories ISSN: 19984502, 2499975X",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "T.13 Nº2(48) pp. 254-264",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Assessment of flood influence criteria in the Lam River basin using a combined Delphi-AHP method",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainable Development of Mountain Territories ISSN: 19984502, 2499975X",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "T.13 Nº3(49) pp. 387-396",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Evaluation and validation of flood hazard zoning using Analytical Hierarchy Process and GIS: A case study of Lam River basin (Vietnam)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vestnik of Saint Petersburg University. Earth Sciences ISSN: 2587585X, 25419668",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol. 66 No. 4, pp 831-851",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Integration of Delphi Technique and Analytical Hierarchy Process Method in Assessment the Groundwater Potential Influence Criteria: A Case Study of the Ba River Basin.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Inzynieria Mineralna - Journal of the Polish Mineral Engineering Society; ISSN: 1640-4920",
+            "journal_ranking": "WoS, Scopus Q4",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol.1 No.2, pp. 91-102",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Investigation of groundwater level fluctuations on the Ba river basin for water resources management and planning: a GIS-based approach.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainable Water Resources Management. ISSN: 23635037, 23635045",
+            "journal_ranking": "WoS, Scopus Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol.8 No.86",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Identifying the important levels of factors affecting groundwater potential in the Ba river basin",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International conference: Technology in Natural disaster prevention and risk reduction",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 316-326",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Xây dựng qui trình thành lập bản đồ địa hình tỷ lệ lớn mỏ lộ thiên bằng thiết bị bay không người lái cất cánh thẳng đứng",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Mỏ - Địa chất (ISSN 1859-1469)",
+            "journal_ranking": "",
+            "citation_count": 63,
+            "volume_issue_pages": "kỳ 5, Tr.12-25",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Criteria Affecting Groundwater Potential: A Systematic Review of Literature",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Geo-Spatial Technologies and Earth Resources (GTER 2022) (Advances in Research on Water Resources and Environmental Systems) (Trong danh mục Scopus)",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "Tr. 85-110",
+            "published_date": "1/2023"
+        },
+        {
+            "title": "Application of Unmanned Aerial Vehicles for Surveying and Mapping in Mines: A Review",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Conference on Geo-Spatial Technologies and Earth Resources (GTER 2022) (Advances in Geospatial Technology in Mining and Earth Sciences) (Trong danh mục Scopus)",
+            "journal_ranking": "",
+            "citation_count": 12,
+            "volume_issue_pages": "Tr. 1-22",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Applications of UAVs in mine industry: A Scoping review",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Sustainable Mining ISSN: 23003960, 25434950",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 17,
+            "volume_issue_pages": "Vol.22 Issue.2",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Research the application of terrestrial laser scanning technology for mining management (a case study at Khe Cham mine site, Quang Ninh province)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of International Conference GIS-IDEAS 2023 Geospatial integrated Technologies for natural hazards and Environmental problems. HUNRRE Hanoi, Vietnam, 7-9 November, 2023 (ISBN: 978-604-357-207-0 Publishing house for Science and Technology)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr.49-57",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "GIS-based multi-criteria approach for drought hazard inodeling in the Ba river basin, Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Earth Sciences Springer ISSN: 1866-6280,E-ISSN: 1866-6299",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol.83, No.30",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Thành lập mô hình số bề mặt khu vực mỏ khai thác khoảng sản dựa vào ảnh chụp từ máy bay không người lái",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Tài nguyên và Môi trường (ISSN 0866-7608)",
+            "journal_ranking": "",
+            "citation_count": 50,
+            "volume_issue_pages": "Tr. 124-134",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "River Cross-Section Addition from the Google Earth Engine in Downstream of the Ba River",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Inzynieria Mineralna ISSN: 16404920",
+            "journal_ranking": "WoS, Scopus Q4",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 2, No.1, pp. 35-40",
+            "published_date": "7/2024"
+        },
+        {
+            "title": "The Importance of Relative Slope Length Data in Flood Hazard Zoning: A Case Study of the Ngan Sau, Ngan Pho River Basin, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Inzynieria Mineralna ISSN: 16404920",
+            "journal_ranking": "WoS, Scopus Q4",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 2, No.1, pp. 25-34",
+            "published_date": "7/2024"
+        },
+        {
+            "title": "Hybrid algorithms in path planning for autonomous navigation of unmanned aerial vehicle: a comprehensive review",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Measurement Science and Technology ISSN 0957-0233, 1361-6501",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol.35, No.11",
+            "published_date": "8/2024"
+        },
+        {
+            "title": "Land use hierarchical mapping for delineation of groundwater potential zones in the Ba river basin using satellite imagery and GIS technology",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International scientific conference Earth and environmental sciences, mining for digital transformation, green development and response to global change (GREEN-EME-2023)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr. 1-10",
+            "published_date": "8/2024"
+        },
+        {
+            "title": "Đánh giá độ chính xác của mô hình số bề mặt thành lập từ ảnh máy bay không người lái",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghiệp mỏ (ISSN 0868-7052)",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "Tr. 75-82",
+            "published_date": "9/2024"
+        },
+        {
+            "title": "Assessment of crop-land suitability by the multi-criteria evaluation approach and geographic information system: A scoping review",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Agricultural Engineering International: CIGR Journal ISSN: 16821130",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol.26, No.2, pp. 57-78",
+            "published_date": "9/2024"
+        },
+        {
+            "title": "Applying a Land Valuation Model Using the Standard Plot Reference Method for Urban Land Valuation: A Case Study of Phung, Dan Phuong, Ha Noi, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Urban Planning and Development ISSN: 0733-9488",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 151,
+            "volume_issue_pages": "Vol.151, No.1, pp. 1-11",
+            "published_date": "10/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "ĐT: \"Nghiên cứu nhận dạng lũ lớn, phân vùng nguy cơ lũ lớn và xây dựng bản đồ ngập lụt phục vụ cảnh báo lũ lớn lưu vực sông Lam\"",
+            "role": "Key Member",
+            "project_code": "TNMT.05.33",
+            "management_level": "Cấp Bộ",
+            "period": "2/2013 - 11/2014",
+            "acceptance_date": "12/2015",
+            "rating": "Xếp loại đạt"
+        },
+        {
+            "title": "ĐT: “Nghiên cứu ứng dụng công nghệ địa tin học nâng cao chất lượng dữ liệu không gian phục vụ công tác điều tra, quy hoạch tài nguyên nước”",
+            "role": "Key Member",
+            "project_code": "2015.02.12",
+            "management_level": "Cấp bộ",
+            "period": "1/2015 - 12/2016",
+            "acceptance_date": "10/2017",
+            "rating": "Xếp loại đạt"
+        },
+        {
+            "title": "ĐT: “Nghiên cứu đánh giá sự thay đổi chiều dài sườn dốc đến phân vùng nguy cơ lũ (thí điểm tại lưu vực sông Ngàn Sâu, Ngàn Phố tỉnh Hà Tĩnh)",
+            "role": "Principal Investigator",
+            "project_code": "13.01.23.E.01",
+            "management_level": "Cấp cơ sở",
+            "period": "03/2023-12/2023",
+            "acceptance_date": "27/11/2023",
+            "rating": "Xếp loại tốt"
+        },
+        {
+            "title": "ĐT: “Nghiên cứu đánh giá ảnh hưởng của số lượng và phân bố điểm khống chế ảnh đến độ chính xác xây dựng mô hình số bề mặt từ dữ liệu ảnh UAV (thực nghiệm tại một mỏ khai thác khoáng sản lộ thiên)",
+            "role": "Principal Investigator",
+            "project_code": "CS2024-06",
+            "management_level": "Cấp cơ sở",
+            "period": "01/2024-12/2024",
+            "acceptance_date": "11/12/2024",
+            "rating": "Xếp loại khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Địa chính Đại cương",
+            "type": "Textbook",
+            "publisher": "NXB Lao Động",
+            "publish_year": "2014",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 4, tr. 81-102",
+            "verification_document_id": "HĐ số 1098/HĐ-TĐHHN ngày 26/4/2013 biên soạn giáo trình “Địa chính đại cương”; QĐ số 3490/QĐ-TĐHHN ngày 21/11/2013 V/v Thành lập HĐ nghiệm thu Giáo trình đại học biên soạn năm 2013; Biên bản họp hội đồng nghiệm thu giáo trình biên soạn năm 2013, ngày 29/11/2013 BBTLHĐ số 3877/BBTL-TĐHHN ngày 23/12/2013 V/v Thanh lý hợp đồng biên soạn giáo trình; QĐ số 72 QĐLK/LĐ ngày 23/01/2014 QĐ xuất bản Giáo trình Địa chính đai cương; - QĐ số 377/QĐ-TĐHHN ngày 10/02/2023 V/v lựa chọn và sử dụng ấn phẩm làm giáo trình, tài liệu tham khảo phục vụ đào tạo trình độ đại học;"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

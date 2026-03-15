@@ -1,0 +1,420 @@
+{
+    "papers": [
+        {
+            "title": "Factors affecting the propensity to create budgetary slack - Evidence from Vietnamese enterprises",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Economic Development (English version) (ISBN: 1859-1116)",
+            "journal_ranking": "null",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol 22, No. 1, 100-124",
+            "published_date": "January, 2015"
+        },
+        {
+            "title": "Association between corporate governance and accounting conservatism – Evidence from Vietnamese public enterprises",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "The International conference on Accounting 2015 Proceedings (ISBN: 978-604-84-0781-0)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "null",
+            "published_date": "May, 2015"
+        },
+        {
+            "title": "Financial reporting quality and investment in sustainable development – Evidence from Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 3rd International conference on Finance and Economics Proceedings (ISBN: 978-80-7454-598-6)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "null",
+            "published_date": "May, 2016"
+        },
+        {
+            "title": "Sự thay đổi của kế toán quản trị theo hướng tiếp kế toán quản trị chiến lược trong môi trường kinh doanh hiện đại",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo quốc gia: Kế toán, kiểm toán trong bối cảnh Việt Nam hội nhập TPP và AEC",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "trang 30/11/2016",
+            "published_date": "November, 2016"
+        },
+        {
+            "title": "Ảnh hưởng của chất lượng thông tin báo cáo tài chính đến đầu tư hiệu quả tại các công ty niêm yết Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo quốc gia: Chính sách tài chính kế toán trong bối cảnh hội nhập (Kỷ yếu: ISBN 978-604-1-09798-8)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "trang 86-107",
+            "published_date": "July, 2017"
+        },
+        {
+            "title": "Do managers cut sticky costs to alleviate financial distress during the global economic crisis – Evidence from Vietnamese public enterprises",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 5th IBSM International Conference on Business, Management and Accounting Proceedings (Kỷ yếu: ISBN 976-602-72911-6-4)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "trang 707-720",
+            "published_date": "April, 2018"
+        },
+        {
+            "title": "Factors influencing students' decisions to study the professional accounting programs – Evidence from Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 5th IBSM International Conference on Business, Management and Accounting Proceedings (Kỷ yếu: ISBN 976-602-72911-6-4)",
+            "journal_ranking": "null",
+            "citation_count": 5,
+            "volume_issue_pages": "trang 155-168",
+            "published_date": "April, 2018"
+        },
+        {
+            "title": "Mối quan hệ giữa lợi thế thương mại và chi phí sử dụng vốn chủ sở hữu – Bằng chứng từ các công ty niêm yết Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo quốc gia 2018, Chủ đề “Nghiên cứu, đào tạo, ứng dụng trong lĩnh vực Quản trị – Tài chính – Ngân hàng và Kế toán đáp ứng nhu cầu hội nhập”",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "trang 373-387",
+            "published_date": "May, 2018"
+        },
+        {
+            "title": "What was the impact of the global financial crisis and post-crisis on the value relevance of nonfinancial information? Evidence From Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The International conference on Accounting 2019 Proceedings (Kỷ yếu: ISBN 978-604-84-4280-4)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13",
+            "published_date": "July, 2019"
+        },
+        {
+            "title": "Sử dụng chi phí mục tiêu trong quản trị chuỗi cung ứng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Kế toán và kiểm toán\" (ISSN: 1859-1914)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12, trang 8-13",
+            "published_date": "December, 2019"
+        },
+        {
+            "title": "Tiến bộ công nghệ tác động đến chiến lược công ty và kế toán quản trị Trường hợp công nghệ điện toán đám mây",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo quốc gia: “Hội thảo Việt Nam về kế toán, kiểm toán (VCAA) 2019, Chủ đề \"Kế toán, Kiểm toán trong thế giới số\" (Kỷ yếu: ISBN 978-604-80-4348-3)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "trang 221-231",
+            "published_date": "December, 2019"
+        },
+        {
+            "title": "Mối quan hệ giữa công cụ kế toán quản trị chiến lược và vốn trí tuệ",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Kế toán và kiểm toán\" (ISSN: 1859-1914)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "trang 32-37",
+            "published_date": "January, 2020"
+        },
+        {
+            "title": "Corporate social responsibility and the non-linear effect on audit opinion for energy firms in Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cogent Business & Management (Publisher: Taylor & Francis; ISSN: 2331-1975)",
+            "journal_ranking": "Scopus Q3, ESCI (IF = 3.0)",
+            "citation_count": 23,
+            "volume_issue_pages": "Vol. 7, 175784, No. 1",
+            "published_date": "May, 2020"
+        },
+        {
+            "title": "Trí tuệ nhân tạo định hình nghề nghiệp kế toán tương lai",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Kế toán và kiểm toán\" (ISSN: 1859-1914)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 217, trang 63-72",
+            "published_date": "October, 2021"
+        },
+        {
+            "title": "Institutional pressures, legitimacy, risks, uncertainty, and voluntary adoption of IFRS for SMEs in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Eastern European and Central Asian Research (ISSN: 2328-8280)",
+            "journal_ranking": "Scopus Q3, ESCI (IF = 0.38)",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 8, No. 4",
+            "published_date": "December, 2021"
+        },
+        {
+            "title": "The relationship between sustainable development investment and financial performance under the control of financial reporting information quality",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research, Academy of Finance, (ISSN: 2588-1493)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 06 (19)",
+            "published_date": "June, 2022"
+        },
+        {
+            "title": "Ảnh hưởng của trí tuệ nhân tạo đến nghề nghiệp kiểm toán độc lập trong tương lai",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Nghiên cứu Tài chính – Kế toán\" (ISSN: 1859-4093)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 10 (231), trang 33-37",
+            "published_date": "October, 2022"
+        },
+        {
+            "title": "Intangible investments and cost of equity capital: Empirical research on Vietnamese firms",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Economics & Finance (Publisher: Taylor & Francis; ISSN: 2332-2039)",
+            "journal_ranking": "Scopus Q2, ABDC (B rating), ESCI (IF = 2.3)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 11, 216305, No. 1",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Intellectual capital and investment efficiency: The mediating role of strategic management accounting practices",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management (Publisher: Taylor & Francis; ISSN: 2331-1975)",
+            "journal_ranking": "Scopus Q2, ESCI (IF = 3.0)",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol. 10, 220787, No. 2",
+            "published_date": "April, 2023"
+        },
+        {
+            "title": "Identifying the CFO skills to achieve business recovery in the Covid-19 postcrisis period: a Delphi study",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the International Conference on Emerging Challenges: Strategic Adaptation in The World of Uncertainties (ICECH 2022), Series: Advances in Economics, Business and Management Research, Book chapter (Publisher: Atlantis Press, ISBN: 10.2991/978-94-6463-150-0_12, ISSN: 2352-5428)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "null",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Ảnh hưởng khi chuyển đổi từ VAS 06 \"Thuê tài sản\" sang IFRS 16 \"Leases\" đến kết quả tài chính và hệ thống khen thưởng ban quản lý",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Kế toán và kiểm toán\" (P-ISSN: 2815-6129)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 237, trang 18-23",
+            "published_date": "June, 2023"
+        },
+        {
+            "title": "Cạnh tranh thị trường dòng sản phẩm, giám sát của hội đồng quản trị, tác động đến tăng trưởng bền vững của các doanh nghiệp niêm yết Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí “Nghiên cứu Tài chính – Kế toán\" (ISSN: 1859-4093)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 244, trang 24-30",
+            "published_date": "July, 2023"
+        },
+        {
+            "title": "Factors affecting the intention to adopt cloud-based accounting in Vietnamese small and medium enterprises",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research, Academy of Finance, (ISSN: 2588-1493)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 04 (23)",
+            "published_date": "August, 2023"
+        },
+        {
+            "title": "Nghiên cứu chuẩn mực kế toán bền vững của SASB hướng dẫn công bố thông tin ESG",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Kinh Tế và Dự báo” (ISSN: p-1859-4972)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 28 (855), trang 59-62",
+            "published_date": "October, 2023"
+        },
+        {
+            "title": "Income Smoothing Behavior and Investment Efficiency: Evidence from An Emerging Market",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal Corporate Governance (Publisher: Inderscience; ISSN online 1754-3045)",
+            "journal_ranking": "ABDC (B rating)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 14, No. 1",
+            "published_date": "February, 2024"
+        },
+        {
+            "title": "Thiết kế hệ thống kiểm soát quản lý trong mối quan hệ cách tiếp cận phát triển bền vững doanh nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Công Thương”, Bộ Công Thương (ISSN: 0866-7756)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9, trang 170-177",
+            "published_date": "April, 2024"
+        },
+        {
+            "title": "Trực quan tương tác trên dữ liệu lớn trong kế toán – Nghiên cứu tại TP. HCM",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí “Kế toán và kiểm toán\" (ISSN: 1859-1914)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 248, trang 29-36",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "An SME approach to data analytics by management accountants in the transition economy of Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology Management Policy (Publisher: Emerald, ISSN: 2053-4620, eISSN: 2053-4620)",
+            "journal_ranking": "Scopus Q1, ESCI (IF = 3.0)",
+            "citation_count": 0,
+            "volume_issue_pages": "DOI: 10.1108/JSTPM-12-2023-0222",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "The moderating role of relational capital on the impact of feedback and feedforward control on accounting misreporting",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Công Thương”, Bộ Công Thương (ISSN: 0866-7756)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11, trang 68-76",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Tính trọng yếu trong bối cảnh công bố thông tin phát triển bền vững",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Kinh Tế và Dự báo” (ISSN: p-1859-4972)",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11 (878), trang 70-73",
+            "published_date": "June, 2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Ảnh hưởng của kế toán trách nhiệm xã hội đến giá trị doanh nghiệp Việt Nam",
+            "role": "Key Member",
+            "project_code": "CS2014-33",
+            "management_level": "Trường Đại học Kinh Tế TP. HCM",
+            "period": "2014",
+            "acceptance_date": "22/01/2015",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nhân tố tác động đến quyết định lựa chọn theo học một trong nhiều chương trình kế toán của các Hiệp hội nghề nghiệp tại Việt Nam",
+            "role": "Key Member",
+            "project_code": "CS2015-73",
+            "management_level": "Trường Đại học Kinh Tế TP. HCM",
+            "period": "2015",
+            "acceptance_date": "13/12/2016",
+            "rating": "Khá"
+        },
+        {
+            "title": "Phân tích mối quan hệ chất lượng báo cáo tài chính và chất lượng thông tin phát triển bền vững để định hướng tiếp cận báo cáo tích hợp tại các công ty niêm yết Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "CS2016-17",
+            "management_level": "Trường Đại học Kinh Tế TP. HCM",
+            "period": "2016",
+            "acceptance_date": "05/07/2016",
+            "rating": "Khá"
+        },
+        {
+            "title": "Association between feedforward control and accounting misreporting: The moderating role of relational capital",
+            "role": "Principal Investigator",
+            "project_code": "CS-COB-2023-37",
+            "management_level": "Trường Đại học Kinh Tế TP. HCM",
+            "period": "2023",
+            "acceptance_date": "30/05/2024",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Kế toán quản trị",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Kinh Tế TP. Hồ Chí Minh",
+            "publish_year": "2023",
+            "num_authors": 12,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 1 (trang 7-33), Chương 3 (trang 73-112)",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách, số 48/DHKT-NCPTGKTC, ký ngày 24/6/2024"
+        },
+        {
+            "title": "Kế toán quản trị 1",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Kinh Tế TP. Hồ Chí Minh",
+            "publish_year": "2024",
+            "num_authors": 12,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 5 (trang 194-267), Chương 6 (trang 268-315)",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách, số 48/ĐHKT-NCPTGKTC, ký ngày 24/6/2024"
+        },
+        {
+            "title": "Kế toán quản trị 2",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Kinh Tế TP. Hồ Chí Minh",
+            "publish_year": "2023",
+            "num_authors": 11,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 3 (Trang 76-109)",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách, số 48/ĐHKT-NCPTGKTC, ký ngày 24/6/2024"
+        },
+        {
+            "title": "Vận dụng chuẩn mực kế toán bền vững của SASB – Phần cơ bản",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Kinh Tế TP. Hồ Chí Minh",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 1-269",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách, số 48/ĐHKT-NCPTGKTC, ký ngày 24/6/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng Chương trình song ngành tích hợp Kế toán – thuế UEH, trình độ đại học, hệ chính quy tại Đại học Kinh tế TP. Hồ Chí Minh",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Giấy xác nhận tham gia xây dựng, điều chỉnh và phát triển chương trình đào tạo số 06/ĐHKT-ĐBCLPTCT, ký ngày 20/6/2024",
+            "certifying_authority": "Đại học Kinh Tế TP. Hồ Chí Minh",
+            "implementation_document_id": "Quyết định 530/QĐ-ĐHKT-ĐBCLPTCT, ký ngày 06/03/2023",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng Chương trình tiên tiến quốc tế UEH Cử nhân kế toán doanh nghiệp giảng dạy hoàn toàn bằng tiếng Anh trình độ đại học, hệ chính quy tại Đại học Kinh tế TP. Hồ Chí Minh",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Giấy xác nhận tham gia xây dựng, điều chỉnh và phát triển chương trình đào tạo số 06/ĐHKT-ĐBCLPTCT, ký ngày 20/6/2024",
+            "certifying_authority": "Đại học Kinh Tế TP. Hồ Chí Minh",
+            "implementation_document_id": "Quyết định 1905/QĐ-ĐHKT-ĐBCLPTCT, ký ngày 14/6/2023",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh Chương trình tiên tiến quốc tế UEH",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Giấy xác nhận tham gia xây dựng, điều chỉnh và phát triển chương trình đào tạo số 06/ĐHKT-ĐBCLPTCT, ký ngày 20/6/2024",
+            "certifying_authority": "Đại học Kinh Tế TP. Hồ Chí Minh",
+            "implementation_document_id": "Quyết định 1795 QĐ-ĐHKT-ĐBCLPTCT, ký ngày 24/6/2021",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh Chương trình tiên tiến quốc tế UEH cho chương trình Kế toán thuộc ngành Kế toán trình độ tiến sĩ, hệ chính quy tại Đại học Kinh tế TP. Hồ Chí Minh",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Giấy xác nhận tham gia xây dựng, điều chỉnh và phát triển chương trình đào tạo số 06/ĐHKT-ĐBCLPTCT, ký ngày 20/6/2024",
+            "certifying_authority": "Đại học Kinh Tế TP. Hồ Chí Minh",
+            "implementation_document_id": "Quyết định số 613/QĐ-ĐHKT-ĐBCLPTCT, ký ngày 28/02/2023",
+            "notes": ""
+        }
+    ]
+}

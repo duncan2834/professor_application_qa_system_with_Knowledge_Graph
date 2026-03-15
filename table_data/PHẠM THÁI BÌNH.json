@@ -1,0 +1,394 @@
+{
+    "papers": [
+        {
+            "title": "Lựa chọn tham số sức chống cắt của đất dính mềm yếu khi tính ổn định trượt trong xây dựng đường ô tô",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giao thông Vận tải ISSN: 0866-7012",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1+2/2013. Trang 36-39",
+            "published_date": "1,2013"
+        },
+        {
+            "title": "Landslide susceptibility assessment in the Uttarakhand area",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Theoretical and Applied Climatology",
+            "journal_ranking": "SCIE, IF(2015) = 2.277, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.12 8, no.1,",
+            "published_date": "12,2015"
+        },
+        {
+            "title": "Rotation forest fuzzy rule-based classifier ensemble for spatial prediction of landslides using GIS",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Hazards NXB: Springer ISSN: 1573-0840",
+            "journal_ranking": "SCIE, IF(2016) = 2.015, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.83, no.1, pages: 97-127",
+            "published_date": "3,2016"
+        },
+        {
+            "title": "A comparative study of different machine learning methods for landslide susceptibility assessment: A case study of Uttarakhand area (India)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Modelling & Software NXB: Elsevier ISSN: 1364-8152",
+            "journal_ranking": "SCIE, IF(2016) = 4.854, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.84, pages: 240-250",
+            "published_date": "7,2016"
+        },
+        {
+            "title": "Hybrid integration of Multilayer Perceptron Neural Networks and machine learning ensembles for landslide susceptibility assessment at Himalayan area (India) using GIS",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "CATENA NXB: Elsevier ISSN: 0341-8162",
+            "journal_ranking": "SCIE, IF(2016) = 3.734, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.149, pages: 52-63",
+            "published_date": "9,2016"
+        },
+        {
+            "title": "A Comparative Study of Sequential Minimal Optimization Based Support Vector Machines, Vote Feature Intervals and Logistic Regression in Landslide Susceptibility Assessment Using GIS",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Earth Sciences NXB: Springer ISSN: 1866-6299",
+            "journal_ranking": "SCIE, IF(2017) = 1.627, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.76, no.10, pages: 1-15",
+            "published_date": "5,2017"
+        },
+        {
+            "title": "Landslide Susceptibility Assessment Using Bagging Ensemble Based Alternating Decision Trees, Logistic Regression and J48 Decision Trees Methods: A Comparative Study",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Geotechnical and Geological Engineering NXB: Springer ISSN: 1573-1529",
+            "journal_ranking": "ESCI, Scopus, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.35, no.6, pages: 2597-2611",
+            "published_date": "5,2017"
+        },
+        {
+            "title": "Application and Comparison of Decision Tree-Based Machine Learning Methods in Landside Susceptibility Assessment at Pauri Garhwal Area, Uttarakhand, India",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Processes NXB: Springer ISSN: 2198-7505",
+            "journal_ranking": "ESCI, Scopus, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.4, no.3, pages: 711-730",
+            "published_date": "6,2017"
+        },
+        {
+            "title": "A hybrid machine learning ensemble approach based on a Radial Basis Function neural network and Rotation Forest for landslide susceptibility modeling: a case study in the Himalayan area",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Sediment Research NXB: Elsevier ISSN: 1001-6279",
+            "journal_ranking": "SCIE, IF(2017) = 1.863, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.33, no.2, pages: 157-170",
+            "published_date": "9,2017"
+        },
+        {
+            "title": "Evaluation and Comparison of LogitBoost Ensemble, Fisher's Linear Discriminant Analysis, Logistic Regression, and Support Vector Machines Methods for Landslide Susceptibility Mapping",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Geocarto International NXB: Taylor & Francis ISSN: 1752-0762",
+            "journal_ranking": "SCIE, IF(2017) = 1.560, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.34, no.3, pages: 316-333",
+            "published_date": "11,2017"
+        },
+        {
+            "title": "GIS based frequency ratio method for landslide susceptibility mapping at Da Lat City, Lam Dong province, Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences NXB: Viện Hàn lâm Khoa học Việt Nam ISSN: 0866-7187",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.42, no.1, pages: 55-66",
+            "published_date": "9,2019"
+        },
+        {
+            "title": "Machine learning methods for landslide susceptibility studies: A comparative overview of algorithm performance",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Earth-Science Reviews NXB: Elsevier ISSN: 0012-8252",
+            "journal_ranking": "SCIE, IF(2020) = 12.413, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.207, pages: 1-47",
+            "published_date": "6,2020"
+        },
+        {
+            "title": "Using Artificial Neural Network (ANN) for prediction of soil coefficient of consolidation",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences NXB: Viện Hàn lâm Khoa học Việt Nam ISSN: 0866-7187",
+            "journal_ranking": "ESCI, Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.42, no.4, pages: 311-319",
+            "published_date": "6,2020"
+        },
+        {
+            "title": "Accuracy assessment of extreme learning machine in predicting soil compression coefficient",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences NXB: Viện Hàn lâm Khoa học Việt Nam",
+            "journal_ranking": "ESCI, Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.42, no.3, pages: 228-236",
+            "published_date": "6,2020"
+        },
+        {
+            "title": "Estimation of friction capacity of driven piles in clay using artificial Neural Network",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences NXB: Viện Hàn lâm Khoa học Việt Nam ISSN: 0866-7187",
+            "journal_ranking": "ESCI, Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vo.42, no.2, pages: 265-275",
+            "published_date": "9,2020"
+        },
+        {
+            "title": "Estimation of shear strength parameters of soil using Optimized Inference Intelligence System",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences NXB: Viện Hàn lâm Khoa học Việt Nam ISSN: 0866-7187",
+            "journal_ranking": "ESCI, Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vo.43, no.2, pages: 189-198",
+            "published_date": "3,2021"
+        },
+        {
+            "title": "Landslide Susceptibility Mapping using state-of-the-art machine learning ensembles",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Geocarto International NXB: Taylor & Francis ISSN: 1752-0762",
+            "journal_ranking": "SCIE, IF(2021) = 3.450, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages: 1-23",
+            "published_date": "4,2021"
+        },
+        {
+            "title": "Identification, Monitoring, and Assessment of an Active Landslide in Tavan-Hauthao, Sapa, Laocai, Vietnam - A Multidisciplinary Approach",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Disaster Research NXB: Fuji Technology Press Ltd ISSN: 1883-8030",
+            "journal_ranking": "ESCI, Scopus, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.16, no.4, pages: 501-511",
+            "published_date": "6,2021"
+        },
+        {
+            "title": "Performance assessment of artificial neural network using chi-square and backward elimination feature selection methods for landslide susceptibility analysis",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Earth Sciences NXB: Springer ISSN: 1866-6299",
+            "journal_ranking": "SCIE, IF(2021) = 3.119, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.80, no.20, pages: 1-13",
+            "published_date": "10,2021"
+        },
+        {
+            "title": "Estimation of the undrained shear strength of sensitive clays using optimized inference intelligence system",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Neural Computing and Applications NXB: Springer ISSN: 1433-3058",
+            "journal_ranking": "SCIE IF(2021) = 5.102, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.34, pages: 7835-7849",
+            "published_date": "1,2022"
+        },
+        {
+            "title": "Dimensionality reduction and prediction of soil consolidation coefficient using random forest coupling with Relief algorithm",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers of Structural and Civil Engineering NXB: Springer ISSN: 2095-2449",
+            "journal_ranking": "SCIE, IF(2021) = 3.252, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.16, no.2, pages: 224-238",
+            "published_date": "3,2022"
+        },
+        {
+            "title": "Ứng dụng trí tuệ nhân tạo trong các một số bài toán địa kỹ thuật",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông Vận tải ISSN: 2615-9751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3/2022, trang: 66-9",
+            "published_date": "3,2022"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng các mô hình học máy trong dự báo ổn định mái dốc phục vụ xây dựng công trình giao thông ở Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông Vận tải ISSN: 2615-9751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3/2022, trang 62-64",
+            "published_date": "5,2022"
+        },
+        {
+            "title": "Ứng dụng mô hình trọng số dẫn chứng (WOE) trong xây dựng bản đồ nguy cơ sạt lở tại tỉnh Quảng Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Xây dựng ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 2V, trang: 139-152",
+            "published_date": "5,2022"
+        },
+        {
+            "title": "Estimation of ultimate bearing capacity of bored piles using machine learning models",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences NXB: Viện Hàn lâm Khoa học Việt Nam ISSN: 0866-7187",
+            "journal_ranking": "ESCI, Scopus, Q2 (2021)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vo.44, no.3, pages: 1-12",
+            "published_date": "5,2022"
+        },
+        {
+            "title": "Phát triển mô hình trí tuệ nhân tạo kết hợp DC-CSFT trong thành lập bản đồ dự báo không gian sạt lở đất tại Quốc lộ 6, tỉnh Hòa Bình, Việt Nam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông Vận tải ISSN: 2615-9751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7/2022, trang: 66-9",
+            "published_date": "7,2022"
+        },
+        {
+            "title": "Development of multiclass alternating decision trees based models for landslide susceptibility mapping",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Physics and Chemistry of the Earth NXB: Elsevier ISSN: 1873-5193",
+            "journal_ranking": "SCIE, IF(2021) = 3.311, Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vo.128",
+            "published_date": "8,2022"
+        },
+        {
+            "title": "Novel approach for soil classification using machine learning methods",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bulletin of Engineering Geology and the Environment NXB: Springer ISSN: 1435-9537",
+            "journal_ranking": "SCIE, IF(2021) = 4.130, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.81, no.11",
+            "published_date": "10,2022"
+        },
+        {
+            "title": "A novel swarm intelligence optimized extreme learning machine for predicting soil shear strength: A case study at Hoa Vuong new urban project (Vietnam)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Earth Sciences NXB: Viện Hàn lâm Khoa học Việt Nam ISSN: 0866-7187",
+            "journal_ranking": "ESCI, Scopus, Q2 (2021)",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages: 1-19",
+            "published_date": "5,2023"
+        },
+        {
+            "title": "Ensemble models based on radial basis function network for landslide susceptibility mapping",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research NXB: Springer ISSN: 1614-7499",
+            "journal_ranking": "SCIE, IF(2022) = 5.8, Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.30, no, 44, pages: 99380-99398",
+            "published_date": "8,2023"
+        },
+        {
+            "title": "Estimation of recompression coefficient of soil using a hybrid ANFIS-PSO machine learning model",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Engineering Research NXB: Elsevier ISSN: 2307-1885",
+            "journal_ranking": "SCIE, IF(2022) = 1.0 Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages: 1-11",
+            "published_date": "10,2023"
+        },
+        {
+            "title": "Nghiên cứu dự báo độ trương nở của đất sử dụng mô hình rừng ngẫu nhiên",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cầu đường Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số tháng 5, 2024",
+            "published_date": "5, 2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Tương quan về độ bền chống cắt của đất dính mềm yếu xác định từ các phương pháp khác nhau",
+            "role": "Principal Investigator",
+            "project_code": "Mã số DT1112.20",
+            "management_level": "Trường Đại học Công nghệ GTVT",
+            "period": "6/2012-3/2013",
+            "acceptance_date": "23/3/2013",
+            "rating": "Xếp loại B"
+        },
+        {
+            "title": "Nghiên cứu đánh giá phân vùng cảnh báo nguy cơ sạt lở đất huyện Lục Yên, Yên Bái",
+            "role": "Principal Investigator",
+            "project_code": "Mã số DT171836",
+            "management_level": "Trường Đại học Công nghệ GTVT",
+            "period": "03/2018-10/2018",
+            "acceptance_date": "22/10/2018",
+            "rating": "Xếp loại A"
+        },
+        {
+            "title": "Ứng dụng kỹ thuật tiên tiến trí tuệ nhân tạo của cuộc Cách mạng Công nghiệp 4.0 trong dự báo biến đổi địa môi trường khi xây dựng tuyến đường cao tốc ven biển đoạn Hải Phòng – Ninh Bình",
+            "role": "Principal Investigator",
+            "project_code": "Mã số DT184011",
+            "management_level": "Bộ Giao thông Vận tải",
+            "period": "6/2018-8/2019",
+            "acceptance_date": "16/8/2019",
+            "rating": "Xếp loại B"
+        },
+        {
+            "title": "Xây dựng cơ sở dữ liệu lớn và phát triển các mô hình học máy kết hợp với các kỹ thuật tối ưu hóa trong việc dự báo các tham số sức chống cắt của đất phục vụ xây dựng công trình giao thông",
+            "role": "Principal Investigator",
+            "project_code": "Mã số DT203029",
+            "management_level": "Bộ Giao thông Vận tải",
+            "period": "11/2019-03/2020",
+            "acceptance_date": "21/3/2021",
+            "rating": "Xếp loại A"
+        }
+    ],
+    "books": [
+        {
+            "title": "Nền và Móng",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Khoa học tự nhiên và Công nghệ",
+            "publish_year": "2020",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "13-28;73-149",
+            "verification_document_id": "Văn bản xác nhân sử dụng sách số 3812/VB-ĐHCNGTVT"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo sau đại học (Tiến sĩ) chuyên ngành Xây dựng công trình giao thông",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "QĐ số 1167/QĐ-ĐHCNGTVT ngày 18/04/2018",
+            "certifying_authority": "Trường Đại học Công nghệ GTVT",
+            "implementation_document_id": "QĐ số 2164/QĐ-ĐHCNGTVT ngày 10/07/2018",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo sau đại học (Tiến sĩ) chuyên ngành Xây dựng công trình đặc biệt",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "QĐ số 1168/QĐ-ĐHCNGTVT ngày 18/04/2018",
+            "certifying_authority": "Trường Đại học Công nghệ GTVT",
+            "implementation_document_id": "QĐ số 2164/QĐ-ĐHCNGTVT ngày 10/07/2018",
+            "notes": ""
+        }
+    ]
+}

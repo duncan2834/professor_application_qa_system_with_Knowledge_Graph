@@ -1,0 +1,423 @@
+{
+    "papers": [
+        {
+            "title": "Multi-scale drivers of land-use changes at farm level I: Conceptual framework and application in the highly flooded zone of the Vietnamese Mekong Delta",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Land, ISSN: 2073445X",
+            "journal_ranking": "ISI(SCIE) (Q1,IF=3.9)",
+            "citation_count": 0,
+            "volume_issue_pages": "12(7), 1273; https://doi.org/10.3390/land12071273",
+            "published_date": "2023"
+        },
+        {
+            "title": "Multi-scale drivers of land-use changes at farm level II: Application of conceptual framework in the salinity intrusion zone of the Vietnamese Mekong Delta and cross-case comparison with the highly flooded zone",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Land, ISSN: 2073445X",
+            "journal_ranking": "ISI(SCIE) (Q1,IF=3.9)",
+            "citation_count": 0,
+            "volume_issue_pages": "12(10), 1873; https://doi.org/10.3390/land12101873",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mainstreaming Ecotourism as an Ecosystem-based Adaptation in Vietnam: insights from three different value chain models",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental, Development and Sustainability ISSN: 0272-7714, https://link.springer.com/article/10.1007/s10668-022-02481-6",
+            "journal_ranking": "ISI(SCIE) (Q1, IF=4.080)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 1028, No. 1, p. 012003)",
+            "published_date": "2022"
+        },
+        {
+            "title": "Impact of a saline water control project on aquaculture livehoods in the Vietnamese Mekong Delta",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Agribusiness in Developing and Emerging Econimies ISSN: 2044-0839",
+            "journal_ranking": "ISI (ESCI) (Q1, IF=2.7)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13 No. 3, pp. 418-436",
+            "published_date": "2022"
+        },
+        {
+            "title": "Livelihood sustainability of rural households in adapting to environmental changes: An empirical analysis of ecological shrimp aquaculture model in the Vietnamese Mekong Delta",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Development ISSN: 2211-4645",
+            "journal_ranking": "ISI (SCIE) (IF=3.326, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 39 (2021): p.100653.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Changes in mangrove vegetation, aquaculture and paddy cultivation in the Mekong Delta: A study from Ben Tre Province, southern Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Estuarine, Coastal and Shelf Science 226 (2019) 106273 ISSN: 0272-7714",
+            "journal_ranking": "ISI (SCI) (IF=2.929, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 226, p. 106273",
+            "published_date": "2019"
+        },
+        {
+            "title": "Mangroves of Vietnam: Historical development, current state of research and future threats.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Estuarine, Coastal and Shelf Science ISSN: 0272-7714",
+            "journal_ranking": "ISI (SCI) (IF=2.929, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 218, p. 212-236",
+            "published_date": "2019"
+        },
+        {
+            "title": "Land-use dynamics in the Mekong delta: From national policy to livelihood sustainability",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sustainable Development ISSN:1099-1719",
+            "journal_ranking": "ISI (SSCI) (IF=6.109, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 28 p. 448-467.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Farmer adoptability for livelihood transformations in the Mekong Delta: a case in Ben Tre province",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Environmental Planning and Management ISSN: 0964-0568 (Print) 1360-0559 (Online)",
+            "journal_ranking": "(IF=2.735, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "p. 1603-1618.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Evaluation of retrofitting responses to urban flood risk in Ho Chi Minh City using the Motivation and Ability (MOTA) framework",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sustainable Cities and Society ISSN: 2210-6707",
+            "journal_ranking": "ISI (SCIE) (IF=7.587, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 47 P. 01-10.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Eco-agritourism as an Ecosystem-based adaptation (EBA) against climate change impacts for the Vietnamese Mekong Delta: a view point",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Earth and Environmental Science Scopus Online ISSN: 1755-1315 Print ISSN: 1755-1307",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 1028, No. 1, p. 012003)",
+            "published_date": "2022"
+        },
+        {
+            "title": "Exploring the roles of Social Network in rural Culture -A case study of Shrimp Farming in Bentre Province, Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "5th International Conference on History and Culture ISBN:978-625-7464-07-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "www.izdas.org/history 149-156",
+            "published_date": "2021"
+        },
+        {
+            "title": "Vulnérabilité face aux catastrophes naturelles : comportements de mise en protection et gestion de l'évacuation en cas de crue rapide",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hal Open science HAL Id: hal-03258918 ISSN:2525-2488/ISBN 978-604-62-9252-4.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 6(6), 1-18",
+            "published_date": "2021"
+        },
+        {
+            "title": "Hồ Chí Minh-Ville, un patrimoine bâti qui s'en va : le cas de l'arrondissement n° 1",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "EchoGéo, ISSN online 1963-1197",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 40 P.01-09",
+            "published_date": "2017"
+        },
+        {
+            "title": "Femmes et habitats périurbains : recompositions de genre à Hô Chi Minh ville",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "EchoGéo, ISSN online 1963-1197",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 39 P.01-17",
+            "published_date": "2017"
+        },
+        {
+            "title": "The ancestor worship pratices' evolutions in peri-Urban Vietnam a case of study in hochi minh city",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Historical Archaeology & Anthropologica l Sciences ISSN: 2573-2897",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2 Issue 2 P.45-50",
+            "published_date": "2017"
+        },
+        {
+            "title": "Mobilité quotidienne dans l'espace périurban à Binh Tan (Municipalité de Hô Chi Minh-Ville)",
+            "num_authors": 1,
+            "is_main_author": false,
+            "journal_name_ISSN": "Les Cahiers d'Outre -Mer, n° 269, vol 68, ISBN: 978-2-86781-976-6 ISSN: 0373-5834",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 68 P. 63-80",
+            "published_date": "2015"
+        },
+        {
+            "title": "Les réactions de la communauté citadine de Hô Chi Minh-Ville aux inondations et à la fièvre hémorragique virale",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Les Cahiers d'Outre -Mer, n° 269, vol 68 ISBN: 978-2-86781-976-6 ISSN: 0373-5834",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 68 (269), P. 33-50.",
+            "published_date": "2015"
+        },
+        {
+            "title": "Giải pháp xây dựng “xã nông thôn mới thông minh” gắn với phát triển du lịch nông thôn: trường hợp xã quảng thọ, huyện quảng điền, tỉnh thừa thiên huế",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị khoa học địa lý toàn quốc, lần thứ XIV, năm 2024. NXB Thanh Niên ISBN 978-604-41-3801-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Quyển 1 Trang 730-740",
+            "published_date": "2024"
+        },
+        {
+            "title": "Giải pháp phát triển du lịch thông minh gắn với vườn cây ăn trái: trường hợp xã lâm sơn (huyện ninh sơn, tỉnh ninh thuận)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị khoa học địa lý toàn quốc, lần thứ XIV, năm 2024. NXB Thanh Niên ISBN 978-604-41-3801-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Quyển 1 Trang 566-576",
+            "published_date": "2024"
+        },
+        {
+            "title": "Một số vấn đề về quy hoạch vùng cây ăn quả phục vụ phát triển du lịch: Trường hợp xã Lâm Sơn (huyện Ninh Sơn, tỉnh Ninh Thuận)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc gia năm 2023 “Khoa học địa lý: cách tiếp cận, quan điểm và hướng đi mới trong quy hoạch và tổ chức lãnh thổ ISBN: 978-604-479-429-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 74-86",
+            "published_date": "2024"
+        },
+        {
+            "title": "Góc nhìn của khoa học địa lý trong định hướng quy hoạch không gian du lịch nông thôn gắn với chương trình mục tiêu quốc gia xây dựng nông thôn mới",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc gia năm 2023: Khoa học địa lý: cách tiếp cận, quan điểm và hướng đi mới trong quy hoạch và tổ chức lãnh thổ ISBN: 978-604-479-429-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 109-120",
+            "published_date": "2024"
+        },
+        {
+            "title": "Giải pháp tăng cường quảng bá du lịch nông thôn ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Chí Đại học Thái Nguyên",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "228(08): 308-315",
+            "published_date": "2023"
+        },
+        {
+            "title": "Phát triển chuỗi giá trị du lịch nông thôn gắn với xây dựng nông thôn mới ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị Khoa học Địa lý toàn quốc lần thứ XIII “Khoa học Địa lý Việt Nam với sử dụng hợp lý, phục hồi tài nguyên và phát triển kinh tế tuần hoàn”",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Quyển 1 Trang 782-790",
+            "published_date": "2022"
+        },
+        {
+            "title": "Giải pháp nâng cao sinh kế của hộ dân quanh hệ thống cống đập Ba Lai, tỉnh Bến Tre",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị Khoa học Địa lý toàn quốc lần thứ XIII “Khoa học Địa lý Việt Nam với sử dụng hợp lý, phục hồi tài nguyên và phát triển kinh tế tuần hoàn” NXB Khoa học tự nhiên và công nghệ ISBN 978-604-357-113-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Quyển 2 Trang 516-526",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phân tích các chính sách tác động sản xuất của hộ NTTS tại huyện Ba Tri và Huyện Bình Đại, tỉnh Bến Tre",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu hội nghị Khoa học Địa lý toàn quốc lần thứ XII “Khoa học Địa lý Việt Nam với phát triển kinh tế xanh và đảm bảo an ninh lãnh thổ” NXB ĐHQGHCM ISBN 978 604",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Quyển 2 Trang 1172-1178",
+            "published_date": "2021"
+        },
+        {
+            "title": "Mâu thuẫn sử dụng nguồn nước dưới tác động Cống Đập Ba Lai tỉnh Bến Tre",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học và Công nghệ, ĐHQG-HCM",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 3 p.89-98",
+            "published_date": "2019"
+        },
+        {
+            "title": "Tính tự lập của nữ giúp việc gia đình tại Quận Bình Tân, Thành phố Hồ Chí Minh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học và Công nghệ, ĐHQG-HCM",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.3 p.79-88",
+            "published_date": "2019"
+        },
+        {
+            "title": "Sinh kế nông hộ huyện Giồng Trôm dưới tác động của biến đổi môi trường và thay đổi lịch vận hành cống đập Ba Lai",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài nguyên và Môi trường",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2019"
+        },
+        {
+            "title": "Thích ứng sinh kế của người nhập cư Khmer tại quận ven đô: điển cứu tại Phường Bình Trị Đông B và phường An Lạc, quận Bình Tân TPHCM",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học và Công nghệ, ĐHQG-HCM",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 19, No 2: 89-104 Vol. 19, số X2-2016",
+            "published_date": "2016"
+        },
+        {
+            "title": "Thách thức thanh niên ven đô Thành phố Hồ Chí Minh-điển cứu tại quận ven Bình Tân",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phát triển Khoa học và Công nghệ, ĐHQG-HCM",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, số X4-2014",
+            "published_date": "2014"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Giải pháp nâng cao năng lực thích ứng sinh kế với biến đổi khí hậu của hộ nông dân quanh hệ thống cống đập Ba Lai tỉnh Bến Tre",
+            "role": "Principal Investigator",
+            "project_code": "51/HĐ-SKHCN",
+            "management_level": "Đề tài cấp Tỉnh",
+            "period": "2020-2022",
+            "acceptance_date": "2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Giải pháp phát triển chuỗi giá trị du lịch nông thôn gắn với xây dựng nông thôn mới tại Việt Nam đến năm 2030",
+            "role": "Principal Investigator",
+            "project_code": "07/HĐ-KHCN-NTM",
+            "management_level": "Đề tài cấp Nhà nước",
+            "period": "2020-2021",
+            "acceptance_date": "2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Thích ứng sinh kế của hộ nuôi trồng thủy sản quanh công trình cống đập Ba Lai, tỉnh Bến Tre",
+            "role": "Principal Investigator",
+            "project_code": "C2018-18b-10",
+            "management_level": "Đề tài cấp Đại học Quốc Gia TP.HCM",
+            "period": "2018-2021",
+            "acceptance_date": "2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Sinh kế và năng lực thích ứng của người nhập cư Khmer ở khu vực ven đô Thành phố Hồ Chí Minh",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Đề tài cấp trường ĐHKHXH&NV",
+            "period": "2015-2016",
+            "acceptance_date": "2016",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Đánh giá thực trạng và đề xuất giải pháp chuyển tải các giá trị nhân văn vào sản phẩm OCOP trong xây dựng nông thôn mới (NTM) ở các vùng dân tộc thiểu số Nam Bộ",
+            "role": "Assistant",
+            "project_code": "",
+            "management_level": "Đề tài Cấp NN",
+            "period": "2021-2022",
+            "acceptance_date": "2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu giải pháp chuyển đổi sản xuất nông nghiệp thích ứng với hạn mặn vùng Tây Nam Bộ, nghiên cứu trường hợp điển hình tại Bến Tre",
+            "role": "Assistant",
+            "project_code": "",
+            "management_level": "Đề tài Cấp Nhà nước",
+            "period": "2017-2021",
+            "acceptance_date": "2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Phát triển chuỗi giá trị du lịch nông nghiệp tại đồng bằng song Cửu Long trong bối cảnh mới",
+            "role": "Assistant",
+            "project_code": "",
+            "management_level": "Đề tài Cấp Nhà nước",
+            "period": "2019-2021",
+            "acceptance_date": "2021",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Périurbanisation et Modernité à Hồ Chí Minh",
+            "type": "Monograph",
+            "publisher": "NXB ĐHQG HNội",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "330 trang",
+            "verification_document_id": "Khoa Địa lý Khoa Đô Thị Trường Đại học KHXH&NV,ĐHQG-HCM"
+        },
+        {
+            "title": "Phát triển bền vững du lịch Long An, thực trạng và triển vọng, Tác giả bài viết Phát triển làng nghề trồng mai xã Tân Tây gắn với phát triển du lịch Long An đến năm 2030",
+            "type": "Reference Book",
+            "publisher": "NXB ĐHQG HCM",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Bài viết từ trang 304-321",
+            "verification_document_id": "Khoa Xã hội học, Trường Đại học KHXH&NV,ĐHQG-HCM Khoa Công nghiệp văn hóa, Trường Đại học Thủ Dầu Một"
+        },
+        {
+            "title": "Đồng Tác giả bài viết Rural-Urban migration and environmental change: vulnerability nexus from the Vietnamese Mekong Delta to Hochiminh City",
+            "type": "Reference Book",
+            "publisher": "Pháp AFD(Agence Francais de Développement)",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Bài viết từ trang 201-236",
+            "verification_document_id": "Khoa Xã hội học và Khoa Địa lý, Trường ĐH KHXH&NV,ĐHQG-HCM"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Giải pháp phát triển chuỗi giá trị du lịch nông thôn trong xây dựng nông thôn mới tại Việt Nam đến 2030",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "2022-54-0523/NS-KQNC ngày 26/05/2022",
+            "certifying_authority": "Văn Phòng điều phối NTM Trung Ương Tổng Cục du lịch Sở VHTTDL Đồng Tháp Sở VHTTDL Lâm Đồng Sở VHTTDL Lai Châu",
+            "implementation_document_id": "Số 545/VPĐP-NV&MT về việc chuyển giao kết quả thực hiện nhiệm vụ KHCN phục vụ xây dựng NTM",
+            "notes": ""
+        }
+    ]
+}

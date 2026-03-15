@@ -1,0 +1,748 @@
+{
+    "papers": [
+        {
+            "title": "Platelet-activating factor receptor knockout mice are protected from MPTP-induced dopaminergic degeneration",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Neurochemistry International, ISSN: 1872-9754 (Online) / 0197-0186 (Print)",
+            "journal_ranking": "IF 2.650, Scopus Q3, SCI",
+            "citation_count": 28,
+            "volume_issue_pages": "63(3): 121-132",
+            "published_date": "9/2013"
+        },
+        {
+            "title": "Growth Hormone-Releaser Diet Attenuates Cognitive Dysfunction in Klotho Mutant Mice via Insulin-Like Growth Factor-1 Receptor Activation in a Genetic Aging Model",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Endocrinology and Metabolism, ISSN: 2093-5978 (Online) / 2093-596X (Print)",
+            "journal_ranking": "Scopus Q2, SCIE",
+            "citation_count": 15,
+            "volume_issue_pages": "29(3): 336-348",
+            "published_date": "9/2014"
+        },
+        {
+            "title": "Melatonin attenuates memory impairment induced by Klotho gene deficiency via interactive signaling between MT2 receptor, ERK, and Nrf2-related antioxidant potential",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Neuropsychopharmacology, ISSN: 1469-5111 (Online) / 1461-1457 (Print)",
+            "journal_ranking": "IF 4.009, Scopus Q1, SCI",
+            "citation_count": 69,
+            "volume_issue_pages": "18(6) 12/2014",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Liposomal melatonin rescues methamphetamine-elicited mitochondrial burdens, pro-apoptosis, and dopaminergic degeneration through the inhibition PKCδ gene",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Pineal Research, ISSN: 1600-079X (Online) / 0742-3098 (Print)",
+            "journal_ranking": "IF 9.314, Scopus Q1, SCI",
+            "citation_count": 61,
+            "volume_issue_pages": "58(1): 86-106",
+            "published_date": "01/2015"
+        },
+        {
+            "title": "Inhibition of protein kinase (PK) Cδ attenuates methamphetamine-induced dopaminergic toxicity via upregulation of phosphorylation of tyrosine hydroxylase at Ser40 by modulation of protein phosphatase 2A and PKA",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Clinical and Experimental Pharmacology and Physiology, ISSN: 1440-1681",
+            "journal_ranking": "IF 2.004, Scopus Q2, SCI",
+            "citation_count": 11,
+            "volume_issue_pages": "42(2): 192-201",
+            "published_date": "02/2015"
+        },
+        {
+            "title": "Apocynin prevents mitochondrial burdens, microglial activation, and pro-apoptosis induced by a toxic dose of methamphetamine in the striatum of mice via inhibition of p47phox activation by ERK",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Neuroinflammation, ISSN: 1742-2094",
+            "journal_ranking": "IF 5.102, Scopus Q1, SCI",
+            "citation_count": 90,
+            "volume_issue_pages": "13:12",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "PKCδ knockout mice are protected from para-methoxymethamphetamine-induced mitochondrial stress and associated neurotoxicity in the striatum of mice",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Neurochemistry International, ISSN: 1872-9754 (Online) / 0197-0186 (Print)",
+            "journal_ranking": "IF 3.262, Scopus Q3, SCI",
+            "citation_count": 20,
+            "volume_issue_pages": "100:14 6-158",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Current understanding of methamphetamine-associated dopaminergic neurodegeneration and psychotoxic behaviors",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Archives of Pharmacal Research, ISSN: 1976-3786 (Online) / 0253-6269 (Print)",
+            "journal_ranking": "IF 2.330, Scopus Q1, SCI",
+            "citation_count": 89,
+            "volume_issue_pages": "40(4): 403-428",
+            "published_date": "4/2017"
+        },
+        {
+            "title": "YY-1224, a terpene trilactone-strengthened Ginkgo biloba, attenuates neurodegenerative changes induced by β-amyloid (1-42) or double transgenic overexpression of APP and PS1 via inhibition of cyclooxygenase-2",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Neuroinflammation, ISSN: 1742-2094",
+            "journal_ranking": "IF 5.193, Scopus Q1, SCI",
+            "citation_count": 33,
+            "volume_issue_pages": "14(1): 94",
+            "published_date": "4/2017"
+        },
+        {
+            "title": "Genetic or pharmacological depletion of cannabinoid CB1 receptor protects against dopaminergic neurotoxicity",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Free Radical Biology and Medicine, ISSN: 1873-4596 (Online) / 0891-5849 (Print)",
+            "journal_ranking": "IF 6.020, Scopus Q1, SCI",
+            "citation_count": 26,
+            "volume_issue_pages": "108:20 4-224",
+            "published_date": "7/2017"
+        },
+        {
+            "title": "The role of system Xc- in methamphetamine-induced dopaminergic neurotoxicity in mice",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Neurochemistry International, ISSN: 1872-9754 (Online) / 0197-0186 (Print)",
+            "journal_ranking": "IF 3.603, Scopus Q3, SCI",
+            "citation_count": 19,
+            "volume_issue_pages": "108:25 4-265",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Ginsenoside Re protects against phencyclidine-induced behavioral changes and mitochondrial dysfunction via interactive modulation of glutathione peroxidase-1 and NADPH oxidase in the dorsolateral cortex of mice",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Food and Chemical Toxicology, ISSN: 1873-6351 (Online) / 0278-6915 (Print)",
+            "journal_ranking": "IF 3.977, Scopus Q1, SCI",
+            "citation_count": 23,
+            "volume_issue_pages": "110:30 0-315",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Role of dopamine D1 receptor in 3-fluoromethamphetamine-induced neurotoxicity in mice",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Neurochemistry International, ISSN: 1872-9754 (Online) / 0197-0186 (Print)",
+            "journal_ranking": "IF 3.944, Scopus Q3, SCI",
+            "citation_count": 12,
+            "volume_issue_pages": "113:69 -84",
+            "published_date": "02/2018"
+        },
+        {
+            "title": "PKCδ-dependent p47phox activation mediates methamphetamine-induced dopaminergic neurotoxicity",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Free Radical Biology and Medicine, ISSN: 1873-4596 (Online) / 0891-5849 (Print)",
+            "journal_ranking": "IF 5.657, Scopus Q1, SCI",
+            "citation_count": 37,
+            "volume_issue_pages": "115:31 8-337",
+            "published_date": "02/2018"
+        },
+        {
+            "title": "Ginsenoside Re protects methamphetamine-induced dopaminergic neurotoxicity in mice via upregulation of dynorphin-mediated κ-opioid receptor and downregulation of substance P-mediated neurokinin 1 receptor",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Neuroinflammation, ISSN: 1742-2094",
+            "journal_ranking": "IF 5.700, Scopus Q1, SCI",
+            "citation_count": 29,
+            "volume_issue_pages": "15(1): 52",
+            "published_date": "02/2018"
+        },
+        {
+            "title": "Trichloroethylene and Parkinson's Disease: Risk Assessment",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Neurobiology, ISSN: 1559-1182 (Online) / 0893-7648 (Print)",
+            "journal_ranking": "IF 4.586, Scopus Q1, SCI",
+            "citation_count": 59,
+            "volume_issue_pages": "55(7): 6201-6214",
+            "published_date": "7/2018"
+        },
+        {
+            "title": "Role of protein kinase Cδ in dopaminergic neurotoxic events",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Food and Chemical Toxicology, ISSN: 1873-6351 (Online) / 0278-6915 (Print)",
+            "journal_ranking": "IF 3.775, Scopus Q1, SCI",
+            "citation_count": 19,
+            "volume_issue_pages": "121:25 4-261",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Significance of protein kinase C in the neuropsychotoxicity induced by methamphetamine-like psychostimulants",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Neurochemistry International, ISSN: 1872-9754 (Online) / 0197-0186 (Print)",
+            "journal_ranking": "IF 3.881, Scopus Q3, SCI",
+            "citation_count": 21,
+            "volume_issue_pages": "124:16 2-170",
+            "published_date": "3/2019"
+        },
+        {
+            "title": "Methiopropamine, a methamphetamine analogue, produces neurotoxicity via dopamine receptors",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemico-Biological Interactions, ISSN: 1872-7786 (Online) / 0009-2797 (Print)",
+            "journal_ranking": "IF 3.723, Scopus Q1, SCI",
+            "citation_count": 16,
+            "volume_issue_pages": "305:13 4-147",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "Protein kinase Cδ mediates methamphetamine-induced dopaminergic neurotoxicity in mice via activation of microsomal epoxide hydrolase",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Food and Chemical Toxicology, ISSN: 1873-6351 (Online) / 0278-6915 (Print)",
+            "journal_ranking": "IF 4.679, Scopus Q1, SCI",
+            "citation_count": 12,
+            "volume_issue_pages": "133:11 0761",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "5-HT2A receptor-mediated PKCδ phosphorylation is critical for serotonergic impairments",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Food and Chemical Toxicology, ISSN: 1873-6351 (Online) / 0278-6915 (Print)",
+            "journal_ranking": "IF 6.023, Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "141:11 1395",
+            "published_date": "7/2020"
+        },
+        {
+            "title": "Methamphetamine-induced dopaminergic neurotoxicity as a model of Parkinson's disease",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Archives of Pharmacal Research, ISSN: 1976-3786 (Online) / 0253-6269 (Print)",
+            "journal_ranking": "IF 6.010, Scopus Q1, SCI",
+            "citation_count": 22,
+            "volume_issue_pages": "44(7): 668-688",
+            "published_date": "7/2021"
+        },
+        {
+            "title": "GPx-1-encoded adenoviral vector attenuates dopaminergic impairments induced by methamphetamine in GPx-1 knockout mice through modulation of NF-κB transcription factor",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Food and Chemical Toxicology, ISSN: 1873-6351 (Online) / 0278-6915 (Print)",
+            "journal_ranking": "IF 5.572, Scopus Q1, SCI",
+            "citation_count": 14,
+            "volume_issue_pages": "154:11 2313",
+            "published_date": "8/2021"
+        },
+        {
+            "title": "Medication adherence in Vietnamese patients with cardiovascular and endocrine-metabolic diseases",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Healthcare (Basel), ISSN: 2227-9032",
+            "journal_ranking": "IF 3.160, Scopus Q2, SCIE",
+            "citation_count": 2,
+            "volume_issue_pages": "10(9): 1734",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "Ginsenoside Re blocks Bay k-8644-induced neurotoxicity via attenuating mitochondrial dysfunction and PKCδ activation in the hippocampus of mice: Involvement of antioxidant potential",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Food and Chemical Toxicology, ISSN: 1873-6351 (Online) / 0278-6915 (Print)",
+            "journal_ranking": "IF 5.572, Scopus Q1, SCI",
+            "citation_count": 9,
+            "volume_issue_pages": "178",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Comparative study of the antibacterial and anti-inflammatory activities of the seed coat vs. seed kernel extracts from the plant Mangifera indica L. in inflammatory acne treatment",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Herbmed Pharmacology, ISSN: 2345-5004 (Online)",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 5,
+            "volume_issue_pages": "12(4): 575-584",
+            "published_date": "7/2023"
+        },
+        {
+            "title": "Formulation of lozenges containing menthol and Citrus hystrix DC. essential oil for pharyngitis support treatment",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tropical Journal of Natural Product Research, ISSN: 2616-0692 (Online) / 2616-0684 (Print)",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "7(10): 4233-4241",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Ginsenoside Re protects against kainate-induced neurotoxicity in mice by attenuating mitochondrial dysfunction through activation of the signal transducers and activators of transcription 3 signaling",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Free Radical Research, ISSN: 1029-2470 (Online) / 1071-5762 (Print)",
+            "journal_ranking": "IF 3.3, Scopus Q2, SCI",
+            "citation_count": 1,
+            "volume_issue_pages": "58(4): 276-292",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Antioxidant potentials of extracts from different parts of Clinacanthus nutans (Burm. f.) Lindau",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Pakistan Journal of Pharmaceutical Sciences, ISSN: 1011-601X",
+            "journal_ranking": "IF 0.7, Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "37(2): 439-446",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Optimizing antidiabetic medication management for type 2 diabetes and renal dysfunction in Can Tho City, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Menopause Review/Przegląd Menopauzalny, ISSN: 2299-0038 (Online) / 1643-8876 (Print)",
+            "journal_ranking": "IF 2.5, Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "23(2): 75-82",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Post-COVID-19 symptoms and the development of mental disorders in pharmacy students: a cross-sectional study",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Psychology, ISSN: 2331-1908 (Online)",
+            "journal_ranking": "IF 1.6, Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "12(1): 24458 75",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Neuroinflammation involving endothelin-1 and platelet-activating factor receptors contributes to self-injurious behaviors induced by Bay k-8644 in adolescent mice",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Neurochemical Research, ISSN: 1573-6903 (Online) / 0364-3190 (Print)",
+            "journal_ranking": "IF 3.7, Scopus Q1, SCI",
+            "citation_count": 0,
+            "volume_issue_pages": "50(2): 141",
+            "published_date": "4/2025"
+        },
+        {
+            "title": "Bước đầu xây dựng mô hình gây thoái hóa hệ dopaminergic trên chuột nhắt trắng ở liều gây độc của Paraquat",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành, ISSN: 1859-1663",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 682 + 683, trang 672-675",
+            "published_date": "2009"
+        },
+        {
+            "title": "Khảo sát tác dụng ổn định đường huyết của viên nén bao phim chứa cao chiết lá sầu đâu trên chuột nhắt trắng béo phì được gây tăng đường huyết bằng nghiệm pháp dung nạp glucose đường uống",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 22-25, trang 563-569",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nghiên cứu hoạt tính kháng viêm trên một số mô hình in vitro của dược liệu Bìm bịp Clinacanthus nutans (Burm.F.) Lindau, Acanthaceae",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 26, trang 158-164",
+            "published_date": "2020"
+        },
+        {
+            "title": "Khảo sát cơ cấu tồn kho tại Bệnh viện đa khoa thành phố Cần Thơ giai đoạn 2017-2019 kết hợp phân tích ABC-XYZ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 31, trang 182-189",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nghiên cứu tương tác thuốc có ý nghĩa lâm sàng và các yếu tố liên quan trong đơn thuốc điều trị ngoại trú tại một trung tâm y tế thành phố của tỉnh Hậu Giang năm 2019-2020",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 32, trang 60-67",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nghiên cứu tình hình sử dụng thuốc trên bệnh nhân tăng huyết áp kèm đái tháo đường tại Bệnh viện đa khoa Kiên Giang năm 2019-2020",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 32, trang 105-113",
+            "published_date": "2020"
+        },
+        {
+            "title": "Khảo sát tình hình sử dụng thuốc điều trị tăng huyết áp tại Khoa nội tim mạch Bệnh viện Đa khoa Trung ương Cần Thơ năm 2019",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 36, trang 60-67",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tình hình sử dụng thuốc corticoid trong điều trị bệnh phổi tắc nghẽn mãn tính tại khoa nội tổng quát Bệnh viện Đa khoa tỉnh Kiên Giang năm 2019-2020",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 42, trang 131-137",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tình hình thực hiện một số tiêu chí của tiêu chuẩn thực hành tốt bảo quản thuốc (GSP) tại Khoa Dược – Bệnh viện đa khoa khu vực và đa khoa tuyến tỉnh trên địa bàn tỉnh Long An năm 2020-2021",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 43, trang 153-159",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xây dựng phương pháp định lượng polyphenol toàn phần trong cao đậu rau Càng cua (Peperomia pellucida (L.) Kunth) bằng quang phổ UV-VIS",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 50, trang 62-68",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu tình hình sử dụng thuốc điều trị rối loạn lipid máu trên bệnh nhân điều trị ngoại trú tại Bệnh viện Đa khoa thành phố Cần Thơ năm 2021-2022",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 2,
+            "volume_issue_pages": "Số 50, trang 171-179",
+            "published_date": "2022"
+        },
+        {
+            "title": "Khảo sát hoạt tính kháng nấm, kháng khuẩn của cao chiết rau Càng cua (Peperomia pellucida) từ các dung môi khác nhau",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 53, trang 60-67",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu tình hình và tính hợp lý sử dụng thuốc điều trị tăng huyết áp trên bệnh nhân khoa nội tim mạch Bệnh viện Đa khoa tỉnh Bạc Liêu năm 2021-2022",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 520, số 1B, tháng 11 trang 84-89",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tình hình sử dụng kháng sinh hợp lý và một số yếu tố liên quan trong điều trị nội trú tại Bệnh viện Bình An – Kiên Giang năm 2021",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "Số 56, trang 8-16",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu quy trình bào chế, đánh giá hoạt tính kháng khuẩn, chống oxy hóa của cao đặc ethanol rau càng cua (Peperomia pellucida (L.) Kunth)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "174-181",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đánh giá thực trạng kiến thức về sử dụng kháng sinh và các yếu tố liên quan của người bán thuốc ở các cơ sở bán lẻ thuốc tại thành phố Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 57, trang 122-128",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tổng quan về quản lý thuốc dược liệu tại Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 524, số 2, tháng 3 trang 81-85",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tổng quan về quản lý thuốc cổ truyền tại Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 524, số 2, tháng 3 trang 227-231",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đánh giá thực trạng công tác quản lý nhà nước về thuốc phải kiểm soát đặc biệt tại Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 525, số 1B, tháng 4 trang 240-244",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đặc điểm tuân thủ dùng thuốc và các yếu tố liên quan ở bệnh nhân mắc các bệnh mạn tính trong đại dịch COVID-19",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "Số 60, trang 51-57",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu tính phù hợp trong sử dụng thuốc điều trị rối loạn lipid máu trên bệnh nhân nội trú tại Bệnh viện Đại học Y Dược Cần Thơ năm 2022-2023",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 61, trang 36-42",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu tính an toàn và phù hợp trong sử dụng thuốc ức chế bơm proton ở bệnh nhân ngoại trú điều trị dịch vụ tại khoa khám bệnh, Bệnh viện Trường Đại học Y Dược Cần Thơ năm 2022-2023",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 62, trang 223-230",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu các vấn đề liên quan đến thuốc và đánh giá kết quả can thiệp dược lâm sàng trong kê đơn thuốc bảo hiểm y tế ngoại trú ở đơn thuốc có chẩn đoán bệnh hô hấp ở một bệnh viện tại Cần Thơ năm 2022-2023",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 66, trang 105-111",
+            "published_date": "2023"
+        },
+        {
+            "title": "The antidepressant usage rate and treatment outcomes for outpatients with depression at Can Tho psychiatric hospital from 2022 to 2023",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Can Tho Journal of Medicine and Pharmacy, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "9(6): 144-149",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu chức năng bảo vệ gan của cao chiết nấm Vân chi đỏ (Pycnoporus sanguineus)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 69, trang 177-184",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu tác dụng ổn định đường huyết trên mô hình in vitro và in vivo của cao chiết Thù lù cạnh (Physalis angulata L.)",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 72, trang 199-205",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đánh giá tác dụng chống oxy hóa in vitro của cao chuẩn hóa quả thể nấm vân chi đỏ (Pycnoporus sanguineus MH225776)",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 79, trang 142-149",
+            "published_date": "2024"
+        },
+        {
+            "title": "Các vấn đề liên quan đến thuốc trong kê đơn ngoại trú cho trẻ em ở một bệnh viện tại tỉnh Kiên Giang",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 542, số 3, tháng 9 trang 196-200",
+            "published_date": "2024"
+        },
+        {
+            "title": "Khảo sát một số vấn đề liên quan đến thuốc trong kê đơn ngoại trú tại một số bệnh viện tỉnh Kiên Giang năm 2023-2024",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 542, số 3, tháng 9 trang 313-317",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu xây dựng tiêu chuẩn cơ sở của lá cây Mắm lưỡi đồng (Avicennia officinalis L.)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 537, số 1, tháng 4 trang 369-374",
+            "published_date": "2024"
+        },
+        {
+            "title": "Thái độ và các yếu tố liên quan của người dân thành phố Cần Thơ về sử dụng kháng sinh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 541, số 1, tháng 8 trang 157-161",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu độc tính và tác dụng bảo vệ gan in vivo của chế phẩm viên nang chứa cao chiết kiểm soát hàm lượng chất đánh dấu từ lá mắm (Avicennia officinalis L.) trên mô hình chuột nhắt trắng",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 85, trang 164-171",
+            "published_date": "2025"
+        },
+        {
+            "title": "Khảo sát hoạt tính kháng khuẩn và kháng viêm in vitro của cao chuẩn hóa từ lá cây Mắm lưỡi đồng (Avicennia officinalis L.) tại Cà Mau",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ, ISSN: 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 85, trang 206-213",
+            "published_date": "2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Đánh giá kiến thức, thái độ và hành vi của người bán lẻ thuốc kháng sinh không đơn tại các nhà thuốc, quầy thuốc ở thành phố Cần Thơ năm 2022-2023",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Trường Đại học Y Dược Cần Thơ (Cấp cơ sở)",
+            "period": "5/2022-02/2023",
+            "acceptance_date": "22/02/2023",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Khảo sát thực trạng kiến thức, hành vi và các yếu tố liên quan đến kiến thức, hành vi mua kháng sinh của người dân trên địa bàn thành phố Cần Thơ năm 2023",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Trường Đại học Y Dược Cần Thơ (Cấp cơ sở)",
+            "period": "5/2023-5/2024",
+            "acceptance_date": "10/5/2024",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xây dựng quy trình chiết xuất từ lá cây mắm (Avicennia sp) tại Cà Mau để bào chế thành phẩm viên nang bảo vệ chức năng gan",
+            "role": "Assistant",
+            "project_code": "",
+            "management_level": "Cấp tỉnh (Cà Mau), Trường Đại học Y Dược Cần Thơ",
+            "period": "6/2023-6/2025",
+            "acceptance_date": "21/5/2024",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Nghiên cứu phát triển thuốc mới",
+            "type": "Textbook",
+            "publisher": "Đại học Cần Thơ",
+            "publish_year": "2023",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "56-143",
+            "verification_document_id": "Quyết định 3702/QĐ-ĐHYDCT, ngày 30/11/2022; Trường Đại học Y Dược Cần Thơ"
+        },
+        {
+            "title": "Dược động học",
+            "type": "Textbook",
+            "publisher": "Y học",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "91-134, 190-204",
+            "verification_document_id": "Quyết định 1687/QĐ-ĐHYDCT ngày 18/6/2024; Trường Đại học Y Dược Cần Thơ"
+        },
+        {
+            "title": "Dược lý 1",
+            "type": "Textbook",
+            "publisher": "Y học",
+            "publish_year": "2023",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "79-93, 94-108",
+            "verification_document_id": "Quyết định 3703/QĐ-ĐHYDCT ngày 30/11/2022; Trường Đại học Y Dược Cần Thơ"
+        },
+        {
+            "title": "Dược lý 2",
+            "type": "Textbook",
+            "publisher": "Y học",
+            "publish_year": "2023",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "41-47, 124-139, 140-146",
+            "verification_document_id": "Quyết định 2362/QĐ-ĐHYDCT ngày 25/8/2022; Trường Đại học Y Dược Cần Thơ"
+        },
+        {
+            "title": "Drug-Related Problems in Coronary Artery Diseases",
+            "type": "Monograph",
+            "publisher": "IntechOpen",
+            "publish_year": "2022",
+            "num_authors": 16,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-13",
+            "verification_document_id": "Được lưu tại IntechOpen: https://www.intechopen.com/chapters/80945"
+        },
+        {
+            "title": "Medication Adherence in Cardiovascular Diseases",
+            "type": "Monograph",
+            "publisher": "IntechOpen",
+            "publish_year": "2022",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-23",
+            "verification_document_id": "Được lưu tại IntechOpen: https://www.intechopen.com/online-first/84468"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

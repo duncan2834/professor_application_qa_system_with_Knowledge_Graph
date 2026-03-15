@@ -1,0 +1,331 @@
+{
+    "papers": [
+        {
+            "title": "English as a medium of instruction: Challenges for Vietnamese tertiary lecturers",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asia TEFL",
+            "journal_ranking": "Scopus (0.375)",
+            "citation_count": 317,
+            "volume_issue_pages": "12(40), 25-26",
+            "published_date": "2014"
+        },
+        {
+            "title": "Phần mềm đối phó với nạn đạo văn đại học ở Anh quốc",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thiết bị giáo dục",
+            "journal_ranking": "",
+            "citation_count": 40,
+            "volume_issue_pages": "40 (11/2008), 38-40",
+            "published_date": "2008"
+        },
+        {
+            "title": "Developing a community of practice to support teacher learning",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "The European Journal of Applied Linguistics and TEFL",
+            "journal_ranking": "Scopus (0.44), Q2",
+            "citation_count": 12,
+            "volume_issue_pages": "12 (2), 137-161",
+            "published_date": "2023"
+        },
+        {
+            "title": "Why do a TESOL research degree?",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "English Teaching Professional",
+            "journal_ranking": "",
+            "citation_count": 104,
+            "volume_issue_pages": "104 (May), 48-50",
+            "published_date": "2016"
+        },
+        {
+            "title": "The PhD experience",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "English Teaching Professional",
+            "journal_ranking": "",
+            "citation_count": 105,
+            "volume_issue_pages": "105 (July), 51-53",
+            "published_date": "2016"
+        },
+        {
+            "title": "Should an ESP course be specific or general? A literature review of the specificity debate",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu nước ngoài (Số Tiếng Anh), ISSN: 0866-8612",
+            "journal_ranking": "",
+            "citation_count": 9,
+            "volume_issue_pages": "31 (4), 37-45",
+            "published_date": "2015"
+        },
+        {
+            "title": "The Vietnamese agenda of adopting English as a medium of instruction",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu nước ngoài (Số Tiếng Anh), ISSN: 0866-8612",
+            "journal_ranking": "",
+            "citation_count": 16,
+            "volume_issue_pages": "33 (3), 1-11",
+            "published_date": "2017"
+        },
+        {
+            "title": "Dạy tiếng Anh chuyên ngành Du lịch: Định hướng người học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu nước ngoài (Số Tiếng Anh), ISSN: 0866-8612",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34 (6), 48-59",
+            "published_date": "2018"
+        },
+        {
+            "title": "Understanding validity and reliability from qualitative and quantitative research traditions",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu nước ngoài (Số Tiếng Anh), ISSN: 0866-8612",
+            "journal_ranking": "",
+            "citation_count": 48,
+            "volume_issue_pages": "37(3). 1-10",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xây dựng chương trình tiếng Anh tăng cường cho sinh viên không chuyên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngôn ngữ và Đời sống, ISSN: 0868-3409",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12(242), 1-7.",
+            "published_date": "2016"
+        },
+        {
+            "title": "Phân tích nhu cầu ngôn ngữ trong việc thiết kế chương trình tiếng Anh chuyên ngành",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngôn ngữ và Đời sống, ISSN: 0868-3409",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3 (257), 3-7.",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nhu cầu học tiếng Anh sinh kế của đồng bào dân tộc khu vực Sapa",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngôn ngữ và Đời sống, ISSN: 0868-3409",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7(342), 26-39",
+            "published_date": "2023"
+        },
+        {
+            "title": "Teaching Grammar to Young Learners: A Functional Approach Example.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc tế của Hiệp hội giáo viên dạy tiếng Anh Việt Nam, VIC2020 Proceeding, Đại học Đà Nẵng, ISBN: 9786048461331",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "312-326",
+            "published_date": "2021"
+        },
+        {
+            "title": "Effective translanguaging in primary classrooms.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo quốc tế của Hiệp hội giáo viên dạy tiếng Anh Việt Nam, VIC2020 Proceeding, Đại học Vinh, ISBN: 9786049236655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "235-247",
+            "published_date": "2022"
+        },
+        {
+            "title": "Training English-Medium Teachers: Theoretical and Implementational Issues",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Higher Education in Market-oriented Socialist Vietnam: 'New' Players, 'New' Discourses, 'New' Practice. Springer International Publishing, ISBN: 978-3-030-46912-2, https://doi.org/10.1007/978-3-030-46912-2_15",
+            "journal_ranking": "Scopus Indexed",
+            "citation_count": 5,
+            "volume_issue_pages": "283-306",
+            "published_date": "2020"
+        },
+        {
+            "title": "Enhancing student participation via online collaborative learning, using asynchronous and synchronous technologies",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Innovation in Language Learning & Teaching: The Case of Vietnam, Laos & Cambodia: Springer Nature Switzerland",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "157-182",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu sử dụng hình thức bài tập lớn (project-based approach) trong việc giảng dạy tiếng Anh chuyên ngành Đông Nam Á ở Trường Đại học Khoa học Xã hội và Nhân văn.",
+            "role": "Principal Investigator",
+            "project_code": "T.08.12",
+            "management_level": "Cấp cơ sở",
+            "period": "2008-2009",
+            "acceptance_date": "8-1-2009",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Tìm hiểu nhu cầu học tiếng Anh sinh kế cho sinh viên chuyên ngành Du lịch ở một số trường đại học công ở Việt Nam.",
+            "role": "Principal Investigator",
+            "project_code": "N.16.16",
+            "management_level": "Trường ĐHNN-ĐHQGHN",
+            "period": "2016-2017",
+            "acceptance_date": "26.8.2016",
+            "rating": ""
+        },
+        {
+            "title": "Nghiên cứu xác lập các giải pháp tự học tiếng Anh sinh kế cho đồng bào dân tộc phục vụ phát triển du lịch cộng đồng",
+            "role": "Principal Investigator",
+            "project_code": "QG.17.44",
+            "management_level": "ĐHQGHN, Cấp ĐHQG",
+            "period": "2017-2022",
+            "acceptance_date": "28/10/2022",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Văn hoá dân tộc thời hội nhập",
+            "type": "Reference Book",
+            "publisher": "NXB Thanh niên",
+            "publish_year": "2020",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "44-66, 130-137",
+            "verification_document_id": "Giấy xác nhận"
+        },
+        {
+            "title": "Giới thiệu khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam và những ứng dụng của nó trong đổi mới dạy và học ngoại ngữ",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Quốc gia Hà Nội",
+            "publish_year": "2016",
+            "num_authors": 0,
+            "is_editor_in_chief": false,
+            "compiled_pages": "96-111",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Sổ tay: Khái niệm và từ khoá trong công nghệ giáo dục",
+            "type": "Guide Book",
+            "publisher": "NXB Đại học Quốc gia Hà Nội",
+            "publish_year": "2021",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Chương trình làm quen với tiếng Anh dành cho trẻ mẫu giáo",
+            "type": "Guide Book",
+            "publisher": "NXB Giáo dục Việt Nam",
+            "publish_year": "2021",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Hướng dẫn cho trẻ mẫu giáo làm quen với Tiếng Anh ở nơi có điều kiện",
+            "type": "Guide Book",
+            "publisher": "NXB Giáo dục Việt Nam",
+            "publish_year": "2023",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Văn hoá thời hội nhập",
+            "type": "Reference Book",
+            "publisher": "NXB Thanh niên",
+            "publish_year": "2020",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": ""
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình tiếng Anh thực hành dành cho giáo dục thường xuyên",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Hợp đồng số",
+            "certifying_authority": "Bộ Giáo dục và Đào tạo",
+            "implementation_document_id": "Thông tư ban hành Số 28/2021/TT-BGDĐT, ngày 20/10/2021",
+            "notes": "2021"
+        },
+        {
+            "title": "Xây dựng Chương trình làm quen tiếng Anh lớp 1-2 trong Chương trình giáo dục phổ thông quốc gia 2018",
+            "applicant_role": "Co-Investigator",
+            "assignment_document_id": "Quyết định số 5179/QĐ-BGDĐT ngày 08/12/2017 về thành lập Ban xây dựng chương trình",
+            "certifying_authority": "Bộ Giáo dục và Đào tạo",
+            "implementation_document_id": "Thông tư ban hành số 32/2018/TT-BGDĐT ngày 26 tháng 12 năm 2018",
+            "notes": "2018"
+        },
+        {
+            "title": "Chương trình làm quen tiếng Anh cho trẻ mẫu giáo",
+            "applicant_role": "Co-Investigator",
+            "assignment_document_id": "Xác nhận của đề án",
+            "certifying_authority": "Bộ Giáo dục và Đào tạo",
+            "implementation_document_id": "Thông tư ban hành số 50/2020/TT-BGDĐT ngày 31/12/2020",
+            "notes": "2020"
+        },
+        {
+            "title": "Biên soạn đề cương học phần: Phương pháp tích hợp nội dung khoa học và ngoại ngữ (CLIL)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Hợp đồng số 07/HĐ-ĐHNN ngày 15.4.2015, Thanh lý hợp đồng số 07/TLHD-ĐHNN ngày 10/12/2015",
+            "certifying_authority": "Đại học Ngoại ngữ, ĐHQGHN",
+            "implementation_document_id": "",
+            "notes": "2015"
+        },
+        {
+            "title": "Đánh giá phản biện các phương pháp dạy tiếng Anh",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Hợp đồng số 115/HĐ-ĐHNN ngày 28.4.2023, Thanh lý hợp đồng số 115/TLHD-ĐHNN ngày 10/7/2023",
+            "certifying_authority": "Đại học Ngoại ngữ, ĐHQGHN",
+            "implementation_document_id": "",
+            "notes": "2023"
+        },
+        {
+            "title": "Phương pháp tổ chức hoạt động ngoại ngữ trong cộng đồng",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Hợp đồng số No.13/2017 ngày 6/9/2017, Nghiệm thu và thanh lý hợp đồng ngày 20/12/2017",
+            "certifying_authority": "Đại học Ngoại ngữ, ĐHQGHN",
+            "implementation_document_id": "Khoá học trực tuyến",
+            "notes": "2017"
+        },
+        {
+            "title": "Sử dụng ngữ tích hợp hiệu quả trong lớp học tiếng Anh",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Xác nhận của đề án",
+            "certifying_authority": "Đề án Ngoại ngữ Quốc gia",
+            "implementation_document_id": "Khoá học trực tuyến",
+            "notes": "2022"
+        },
+        {
+            "title": "Developing exploratory practice for Vietnamese lecturers (Xây dựng thói quen dạy học khám phá cho giảng viên Việt Nam)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Hợp đồng số AAGF-R2-00258, Thư xác nhận hoàn thành",
+            "certifying_authority": "Đại sứ quán Úc",
+            "implementation_document_id": "Chương trình tập huấn và hội thảo",
+            "notes": "2019"
+        },
+        {
+            "title": "Hướng dẫn dạy học lồng ghép giảm thiểu rác thải nhựa vào chương trình giáo dục phổ thông tại thành phố Huế",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Hợp đồng số FY23-0148-CA",
+            "certifying_authority": "WWF-Vietnam",
+            "implementation_document_id": "Tài liệu tập huấn giáo viên",
+            "notes": "2022"
+        }
+    ]
+}

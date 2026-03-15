@@ -1,0 +1,597 @@
+{
+    "papers": [
+        {
+            "title": "Điều chế và đặc trưng của điện cực Titan xốp",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học; ISSN: 0866-7144",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "47(5A), 237-241",
+            "published_date": "9/2009"
+        },
+        {
+            "title": "Nghiên cứu khả năng tách loại, thu hồi một số kim loại nặng trong dung dịch nước bằng vật liệu hấp phụ sinh học được chế tạo từ rong tảo biển",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học; ISSN: 0866-7144",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "47(6), 734-738",
+            "published_date": "2009"
+        },
+        {
+            "title": "Đặc tính hình thái học của điện cực được tạo bởi lớp phủ các oxit kim loại trên nền Titan",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học; ISSN: 0866-7144",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "50(4B), 197-200",
+            "published_date": "8/2012"
+        },
+        {
+            "title": "Influence of electrochemical PbO2 time on the structure and electrochemical properties of Ti/SnO2-Sb2O3/PbO2",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry; ISSN: 0866-7144",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "51(2), 176-180",
+            "published_date": "4/2013"
+        },
+        {
+            "title": "Fabrication of nable anodic electrode based on Titanium using mixture of SnO2-Sb2O3-PbO2 metallic oxides",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry; ISSN: 0866-7144",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "51(5A), 157-162",
+            "published_date": "9/2013"
+        },
+        {
+            "title": "Khảo sát ảnh hưởng của thời gian điện kết tủa lớp phủ PbO2 đến bề mặt điện cực Ti/SnO2-Sb2O3",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ - Trường Đại học Công nghiệp HN; ISSN: 1859-3585",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "22, 53-57",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "Nghiên cứu một số đặc tính điện hóa của điện cực anot được tạo bởi lớp phủ các oxit kim loại trên nền Titan",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ - Trường Đại học Công nghiệp HN; ISSN: 1859-3585",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "23, 53-56",
+            "published_date": "8/2014"
+        },
+        {
+            "title": "Khử thụ động điện cực Ti/SnO2-Sb2O3/PbO2 khi oxi hóa điện hóa phenol trong môi trường nước",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học; ISSN: 0866-7144",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "52(6A), 220-223",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của pH và hàm lượng NaCl tới khả năng oxi hóa phenol sử dụng điện cực Ti/SnO2-Sb2O3/PbO2",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học; ISSN: 0866-7144",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "52(6), 784-788",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Ảnh hưởng của nhiệt độ phân hủy các muối đến thành phần và hình thái bề mặt điện cực Ti/SnO2-Sb2O3/PbO2",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ; ISSN: 0866-708X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "53(1), 105-114",
+            "published_date": "02/2015"
+        },
+        {
+            "title": "Nghiên cứu độ bền điện hóa của điện cực anot biến tính các oxit kim loại trên nền Titan",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ; ISSN: 0866-708X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "54(5A), 118-124",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của mật độ dòng anot tới khả năng oxi hóa phenol sử dụng điện cực Ti/SnO2-Sb2O3/PbO2",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học; ISSN: 0868-3224",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "23(1), 107-111",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "Phức chất hỗn hợp của Paladi (II) trên cơ sở N(4)-Allylthiosemicacbaz onat benzandehit: Nghiên cứu chế tạo và khả năng ức chế tế bào ung thư",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học; ISSN: 0868-3224",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "23(3), 94-101",
+            "published_date": "2018"
+        },
+        {
+            "title": "Effect of Graphene-Gold Nanocomposites on the Photocatalytic Activity of TiO2",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Communications in Physics; ISSN: 0868-3166",
+            "journal_ranking": "National Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "30(1), 19-25",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Nghiên cứu khả năng chống ăn mòn thép CCT34 của Thiosemicacbazon",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học; ISSN: 0868-3224",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "25(2), 111-116",
+            "published_date": "2020"
+        },
+        {
+            "title": "Electrochemical properties of amoxicillin on an economical, simple graphite pencil electrode and the ability of the electrode in amoxicillin detection",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry; ISSN: 0866-7144",
+            "journal_ranking": "National Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "58(2), 201-205",
+            "published_date": "4/2020"
+        },
+        {
+            "title": "Voltammetric Determination of Amoxicillin Using a Reduced Graphite Oxide Nanosheet Electrode",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Analytical Methods in Chemistry; ISSN / eISSN: 2090-8865 / 2090-8873",
+            "journal_ranking": "SCIE (Q2; IF: 2.594)",
+            "citation_count": 32,
+            "volume_issue_pages": "2021(1), ID 8823452",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Nghiên cứu tổng hợp, đặc tính tính chất và khả năng xúc tác quang của NiMoO4/g-C3N4 cho quá trình phân hủy phẩm màu DB71",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học; ISSN: 0868-3224",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "26(2), 77-80",
+            "published_date": "02/2021"
+        },
+        {
+            "title": "Điện cực nano cầu trúc 3D -Phân lớp dị thể của CdS/ZnO/Pt/WO3 - trong việc nâng cao hiệu suất tách nước quang điện hóa",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Khoa học Tự nhiên; eISSN: 2615-9678",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "130(1C), 31-41",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Thanh nano Hematit pha tạp Sn ứng dụng quang điện hóa tách nước hiệu năng cao Sn doped Hematite Nanorods for High - Performance Photoelectrochemical Water Splitting",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Catalysis and Adsorption; ISSN: 0866-7411",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "10 (1S); 405-409",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "The 3D Hierarchical Structure of ZnO@CdS Core-Shell Nanorods on WO3 Nanoplates for High-Performance Hydrogen Production.",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "ECS Journal of Solid State Science and Technology; ISSN / eISSN: 2162-8769 / 2162-8777",
+            "journal_ranking": "SCIE (Q3; IF: 2.2)",
+            "citation_count": 1,
+            "volume_issue_pages": "11 (7)",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "Alginate-modified biochar derived from rice husk waste for improvement uptake performance of lead in wastewater",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemosphere; pISSN: 0045-6535",
+            "journal_ranking": "SCI (Q1; IF: 8.8)",
+            "citation_count": 30,
+            "volume_issue_pages": "307 (3), 135956",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Enhanced photocatalytic activity in water splitting for hydrogen generation by using TiO2 coated carbon fiber with high reusability",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Hydrogen Energy; ISSN / eISSN: 0360-3199 / 1879-3487",
+            "journal_ranking": "SCI (Q1; IF: 7.2)",
+            "citation_count": 20,
+            "volume_issue_pages": "47 (98); 41621-41630",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Photodegradation of ciprofloxacin antibiotic in water by using ZnO-doped g-C3N4 photocatalyst",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemosphere; pISSN: 0045-6535",
+            "journal_ranking": "SCI (Q1; IF: 8.8)",
+            "citation_count": 75,
+            "volume_issue_pages": "308 (2), 136408",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Improved Cr(VI) adsorption performance in wastewater and groundwater by synthesized magnetic adsorbent derived from Fe3O4 loaded corn straw biochar",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Research; ISSN / eISSN: 0013-9351 / 1096-0953",
+            "journal_ranking": "SCI (Q1; IF: 8.3)",
+            "citation_count": 42,
+            "volume_issue_pages": "216 (4) 114764",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Enhanced photodegradation of tetracycline in wastewater and conversion of CO2 by solar light assisted ZnO/g-C3N4",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Research; ISSN / eISSN: 0013-9351 / 1096-0953",
+            "journal_ranking": "SCI (Q1; IF: 8.3)",
+            "citation_count": 33,
+            "volume_issue_pages": "217, 114825",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Latest insights on eco-friendly metal base d-electrocatalyst for oxygen evolution reaction: Challenges, and future perspectives",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Catalysis; ISSN / eISSN: 2468-8231",
+            "journal_ranking": "SCI (Q1; IF: 5.062)",
+            "citation_count": 15,
+            "volume_issue_pages": "534, 112818",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Photodegradation of hazardous organic pollutants using titanium oxides - based photocatalytic: A review",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Research; ISSN / eISSN: 0013-9351 / 1096-0953",
+            "journal_ranking": "SCI (Q1; IF: 8.3)",
+            "citation_count": 66,
+            "volume_issue_pages": "229, 116000",
+            "published_date": "7/2023"
+        },
+        {
+            "title": "Pencil lead graphite electrochemically modified with polyglutamic acid as a senser for detection of enrofloxacin in aqueous media",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Science Technology and Engineering; ISSN / eISSN: 2525-2461 / 2615-9937",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "65 (3); 44-49",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng than sinh học chế tạo từ phụ phẩm nông nghiệp để xử lý ô nhiễm asen trong nước",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Xúc tác và hấp phụ; ISSN: 0866-7411",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "12 (2); 30-36",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của nhiệt độ và tốc độ quét thế đến dạng đường cyclic voltammetry trong quá trình oxi hóa phenol sử dụng điện cực Ti/SnO2-Sb2O3/PbO2",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học và Công nghệ - Trường Đại học Kinh tế - Kỹ thuật công nghiệp; ISSN: 0866 -7896",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "37, 7-13",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Magnesium oxide nano particles modified biochar derived from tea wastes for enhanced adsorption of chlorophenol from industrial wastewater",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemosphere; pISSN: 0045-6535",
+            "journal_ranking": "SCI (Q1; IF: 8.8)",
+            "citation_count": 25,
+            "volume_issue_pages": "337, 139342",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Adsorption and photodegradation of micropollutant in wastewater by photocatalyst TiO2/rice husk biochar",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Research; ISSN / eISSN: 0013-9351 / 1096-0953",
+            "journal_ranking": "SCI (Q1; IF: 8.3)",
+            "citation_count": 24,
+            "volume_issue_pages": "236 (2), 116789",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Nghiên cứu tổng hợp vật liệu xúc tác quang CuO/g-C3N4 ứng dụng để xử lý phẩm nhuộm DIRECT FAST SCARLET 4BS (DFS-4BS)",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học và Công nghệ - Trường Đại học Kinh tế - Kỹ thuật công nghiệp; ISSN: 0866 - 7896",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "41, 40-45",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Enhanced solar-light driven CO2 conversion using Pt-doped graphitic carbon nitride photocatalyst",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Greenhouse Gases: Science and Technology; ISSN / eISSN: 2152-3878",
+            "journal_ranking": "SCI (Q2; IF: 2.496)",
+            "citation_count": 4,
+            "volume_issue_pages": "14 (1), 209-217",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Enhanced photocatalytic H2 evolution and photodegradation of antibiotic tetracycline in wastewater by TiO2@Ti3C2",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Hydrogen Energy; ISSN / eISSN: 0360-3199 / 1879-3487",
+            "journal_ranking": "SCI (Q1; IF: 8.1)",
+            "citation_count": 17,
+            "volume_issue_pages": "52 (C), 11-19",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Chế tạo TiO2 bằng phương pháp thủy nhiệt ứng dụng cho quá trình phân hủy xanh methylene",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học và Công nghệ - Trường Đại học Kinh tế - Kỹ thuật công nghiệp; ISSN: 0866 -7896",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "42, 39-45",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Mitigation of Caffeine Micropollutants in Wastewater through Ag-Doped ZnO Photocatalyst: Mechanism and Environmental Impacts",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Geochemistry and Health; ISSN / eISSN: 0269-4042 / 1573-2983",
+            "journal_ranking": "SCI (Q1; IF: 4.2)",
+            "citation_count": 5,
+            "volume_issue_pages": "46 (168)",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Chế tạo vật liệu tổ hợp chấm lượng tử Graphene/TiO2 kích thước nanomet ứng dụng cho quá trình phân hủy Rhodamine",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Xúc tác và hấp phụ; ISSN: 0866-7411",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "13 (2), 129-134",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Exploring the potential of CoMoO4-modified graphitic carbon nitride to boost oxidation of amoxicillin micropollutants in hospital wastewater",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Geochemistry and Health; ISSN / eISSN: 0269-4042 / 1573-2983",
+            "journal_ranking": "SCI (Q1; IF: 4.2)",
+            "citation_count": 5,
+            "volume_issue_pages": "46 (219),",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Decoration of carbon nanotubes with gold nanoparticles via cysteaminium chloride functionalization",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Academy of science and technology ISBN: 978-604-357-309-1",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "149-151",
+            "published_date": "9/2024"
+        },
+        {
+            "title": "Improved photocatalytic decomposition of carbaryl pesticide in wastewater using ZnO nanorods",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Environmental Science and Health - Part B; ISSN / eISSN: 0360-1234 / 1532-4109",
+            "journal_ranking": "SCI (Q3; IF: 1.4)",
+            "citation_count": 1,
+            "volume_issue_pages": "59 (12), 758-766",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Effective removal of atrazine pesticide residue from wastewater using transition metal-doped zinc oxide photocatalyst",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Environmental Science and Health – Part B; ISSN / eISSN: 0360-1234 / 1532-4109",
+            "journal_ranking": "SCI (Q3; IF: 1.4)",
+            "citation_count": 1,
+            "volume_issue_pages": "59 (12), 783-791",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Nghiên cứu hoạt tính quang xúc tác trong quá trình phân hủy chất màu xanh methylene của vật liệu TiO2 biến tính bởi GQDs",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học và Công nghệ - Trường Đại học Kinh tế - Kỹ thuật công nghiệp; ISSN: 0866-7896",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "47; 37-44",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "Multi-timescale map of radiative and nonradiative decay for exciton in Ag/TiO2 nanoparticles",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical Materials; ISSN / eISSN: 0925-3467 / 1873-1252",
+            "journal_ranking": "SCI (Q1; IF: 3.8)",
+            "citation_count": 2,
+            "volume_issue_pages": "159, 116607",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "Photocatalytic oxidation of antibiotic residues and colored organic pollutants using metal-doped ZnO: Reducing environmental and health risks",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Science and Health- Part B; ISSN / eISSN: 0360-1234 / 1532-4109",
+            "journal_ranking": "SCI, Q3, IF: 1.4",
+            "citation_count": 0,
+            "volume_issue_pages": "60(5); 191-199",
+            "published_date": "4/2025"
+        },
+        {
+            "title": "Loại bỏ hiệu quả Cd(II) khỏi nước thải bằng sinh khối vỏ trấu biến tính bằng axit nitric",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học và Công nghệ - Trường Đại học Kinh tế - Kỹ thuật công nghiệp; ISSN: 0866-7896",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "48, 35-42",
+            "published_date": "4/2025"
+        },
+        {
+            "title": "An approach for treatment of chlorpyrifos and atrazine pesticides using graphitic carbon nitride non-metal photocatalyst",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Environmental Science and Health- Part B; ISSN / eISSN: 0360-1234 / 1532-4109",
+            "journal_ranking": "SCI, Q3, IF: 1.4",
+            "citation_count": 0,
+            "volume_issue_pages": "60(5); 200-207",
+            "published_date": "4/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu một số quy trình điện cực phục vụ xử lý ô nhiễm môi trường nước",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Trường",
+            "period": "01/2009 đến 12/2009",
+            "acceptance_date": "30/12/2009",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu biến tính điện cực nhằm tăng hiệu suất xử lý nước thải công nghiệp bằng phương pháp điện hóa",
+            "role": "Principal Investigator",
+            "project_code": "B2010-21-19",
+            "management_level": "Bộ",
+            "period": "01/2010 đến 12/2011",
+            "acceptance_date": "08/08/2012",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu đặc tính của điện cực được chế tạo bởi một số oxit kim loại trên nền Titan",
+            "role": "Principal Investigator",
+            "project_code": "T2017-21-74",
+            "management_level": "Trường",
+            "period": "01/2017 đến 12/2017",
+            "acceptance_date": "04/01/2018",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu chế tạo vật liệu hấp phụ bởi oxit kim loại nhằm xử lý một số kim loại nặng trong nước",
+            "role": "Principal Investigator",
+            "project_code": "UTEHY.T011.P1718.01",
+            "management_level": "Trường",
+            "period": "01/2018 đến 12/2018",
+            "acceptance_date": "30/12/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu khả năng hấp phụ một số kim loại nặng trong nước bởi vật liệu nano Fe3O4-Bã chè",
+            "role": "Principal Investigator",
+            "project_code": "T2018-21-14",
+            "management_level": "Trường",
+            "period": "01/2018 đến 12/2018",
+            "acceptance_date": "25/01/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu chế tạo vật liệu hấp phụ tổ hợp oxit sắt từ và vỏ đỗ nhằm ứng dụng xử lý một số kim loại nặng trong nước",
+            "role": "Principal Investigator",
+            "project_code": "UTEHY.L.2019.65",
+            "management_level": "Trường",
+            "period": "01/2019 đến 01/2019",
+            "acceptance_date": "16/12/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu chế tạo hệ vật liệu tổ hợp trên cơ sở các hạt nano oxit từ tính với TSH có nguồn gốc từ phế phẩm nông nghiệp nhằm ứng dụng xử lý cation gây độc hại trong môi trường nước",
+            "role": "Principal Investigator",
+            "project_code": "B2022-XDA-02",
+            "management_level": "Bộ",
+            "period": "01/2022 đến 12/2023",
+            "acceptance_date": "14/05/2024",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Đại cương về Kinh tế và Môi trường",
+            "type": "Textbook",
+            "publisher": "NXB Khoa học và Kỹ thuật",
+            "publish_year": "2018",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 4 (100 - 131)",
+            "verification_document_id": "Trường Đại học Sư phạm Kỹ thuật Hưng Yên"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng chương trình đào tạo Kỹ sư ngành Công nghệ kỹ thuật môi trường, chuyên ngành Công nghệ Hóa môi trường. (Mã số: 52510406)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Sư phạm Kỹ thuật Hưng Yên",
+            "implementation_document_id": "Quyết định v/v ban hành chương trình đào tạo trình độ Đại học, Cao đẳng Số 1865/QĐ-ĐHSPKTHY, ngày 22/12/2015",
+            "notes": "Có xác nhận"
+        },
+        {
+            "title": "Phát triển chương trình đào tạo kỹ sư ngành Công nghệ kỹ thuật môi trường, chuyên ngành Công nghệ Hóa môi trường. (Mã số: 7510406)",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Sư phạm Kỹ thuật Hưng Yên",
+            "implementation_document_id": "Quyết định v/v ban hành chương trình đào tạo trình độ Đại học, Cao đẳng Số 803/QĐ-ĐHSPKTHY, ngày 08/6/2018",
+            "notes": "Có xác nhận"
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo Kỹ sư ngành Công nghệ kỹ thuật Hóa học, chuyên ngành Công nghệ kỹ thuật Hóa học và Môi trường. (Mã số: 52510401)",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Sư phạm Kỹ thuật Hưng Yên",
+            "implementation_document_id": "Quyết định v/v ban hành chương trình đào tạo trình độ Đại học, Cao đẳng Số 1865/QĐ-ĐHSPKTHY, ngày 22/12/2015",
+            "notes": "Có xác nhận"
+        },
+        {
+            "title": "Phát triển chương trình đào tạo kỹ sư ngành Công nghệ kỹ thuật Hóa học, chuyên ngành Kỹ thuật Hóa học và Môi trường. (Mã số: 7510401)",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Sư phạm Kỹ thuật Hưng Yên",
+            "implementation_document_id": "Quyết định v/v ban hành chương trình đào tạo trình độ Đại học, Cao đẳng Số 803/QĐ-ĐHSPKTHY, ngày 08/6/2018",
+            "notes": "Có xác nhận"
+        }
+    ]
+}

@@ -1,0 +1,510 @@
+{
+    "papers": [
+        {
+            "title": "Acute changes in the concentrations of prostaglandin F2α (PGF) and cortisol in uterine and ovarian venous blood during PGF-induced luteolysis in cows https://doi.org/10.1111/j.1439-0531.2011.01835.x",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Reproduction in Domestic Animals (Online ISSN:1439-0531 Print ISSN:0936-6768)",
+            "journal_ranking": "SCIE (IF: 1,6; Q2) H=81, SJR: 0,46)",
+            "citation_count": 13,
+            "volume_issue_pages": "47: 238-243.",
+            "published_date": "2012"
+        },
+        {
+            "title": "Effects of cortisol on pregnancy rate and corpus luteum function in heifers: an in vivo study. https://doi.org/10.1262/jrd.11-122T",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Reproduction and Development (0916-8818)",
+            "journal_ranking": "SCIE (IF: 1,6; Q1) H=81; SJR: 0,46)",
+            "citation_count": 47,
+            "volume_issue_pages": "58: 223-230.",
+            "published_date": "2012"
+        },
+        {
+            "title": "Conversion of cortisone to cortisol and prostaglandin F2a production by the reproductive tract of cows at the late luteal stage in vivo. https://doi.org/10.1111/j.1439-0531.2012.01995.x",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Reproduction in Domestic Animals (Online ISSN:1439-0531 Print ISSN:0936-6768)",
+            "journal_ranking": "SCIE (IF: 1,6; Q2) H=81; SJR: 0,46)",
+            "citation_count": 2,
+            "volume_issue_pages": "47: 939-945.",
+            "published_date": "2012"
+        },
+        {
+            "title": "Hiện trạng và một số kịch bản giảm phát thải khí methane từ chăn nuôi bò sữa quy mô nông hộ ở miền Bắc: Nghiên cứu trường hợp chăn nuôi bò sữa nông hộ tại Bà vì – Hà Nội",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn (1859-4581)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7:64-72",
+            "published_date": "2015"
+        },
+        {
+            "title": "Effect of water spinach and biochar on methane production in an in vitro system with substrate of Bauhinia acuminata or Bitter Neem (Azadirachta indica) leaves https://www.lrrd.org/lrrd27/3/sili27057.html",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Livestock Research for Rural Development (0121-3784)",
+            "journal_ranking": "Scopus (Q3; H=38; SJR: 0,24)",
+            "citation_count": 5,
+            "volume_issue_pages": "27(3)",
+            "published_date": "2015"
+        },
+        {
+            "title": "Hiện trạng và kịch bản phát thải khí mêtan từ hệ thống nuôi bò thịt thâm canh quy mô nông hộ ở Quảng Ngãi",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn (1859-4581)",
+            "journal_ranking": "",
+            "citation_count": 8,
+            "volume_issue_pages": "17:58-66",
+            "published_date": "2016"
+        },
+        {
+            "title": "Bước đầu nghiên cứu đa hình gen SCD và SREBP-1 liên quan đến thành phần axit béo trong mỡ dắt của bò Lai Sind",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Chăn nuôi",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "75 (5), 54-59",
+            "published_date": "2017"
+        },
+        {
+            "title": "Năng suất và chất lượng thịt của gà ri lai (GF168) được nuôi bằng các loại thức ăn với các mức dinh dưỡng khác nhau",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn (1859-4581)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5:69-75",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đánh giá hiện trạng chăn nuôi và xác định yếu tố nguy cơ xảy ra dịch bệnh lở mồm long móng trên đàn gia súc nuôi tại Hà Tĩnh",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển Nông thôn– Đại Học Huế",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "126(3A): 179-188",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của thức ăn hỗn hợp mã số 1124 và 1324 đến sinh trưởng và hiệu quả sử dụng thức ăn của giống gà J-Dabaco giai đoạn 4 - 12 tuần tuổi",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn (1859-4581)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5:76-80",
+            "published_date": "2017"
+        },
+        {
+            "title": "Protein-enriched cassava root pulp as partial replacement for fish meal in diets for growing pigs https://lrrd.cipav.org.co/lrrd29/9/hong29184.html",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Livestock Research for Rural Development (0121-3784)",
+            "journal_ranking": "Scopus (Q3; H=38; SJR: 0,24)",
+            "citation_count": 8,
+            "volume_issue_pages": "29(9)",
+            "published_date": "2017"
+        },
+        {
+            "title": "Hiện trạng chăn nuôi trâu ở ven phá Tam Giang huyện Quảng Điền, tỉnh Thừa Thiên Huế",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi (1859-476X)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "231:5 1-57",
+            "published_date": "2018"
+        },
+        {
+            "title": "Brewers' grains (5% of diet DM) increases the digestibility, nitrogen retention and growth performance of goats fed a basal diet of Bauhinia accuminata and foliage from cassava",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Livestock Research for Rural Development (0121-3784)",
+            "journal_ranking": "Scopus (Q3; H=38; SJR: 0,24)",
+            "citation_count": 14,
+            "volume_issue_pages": "30(3)",
+            "published_date": "2018"
+        },
+        {
+            "title": "(Manihot esculenta Crantz) or water spinach (Ipomoea aquatica) https://www.lrrd.cipav.org.co/lrrd30/9/psivil30163.html Effect of sweet or bitter cassava leaves and biochar on methane production in an in vitro incubation with substrates of Bauhinia acuminata and water spinach (Ipomoea aquatica) https://www.lrrd.cipav.org.co/lrrd30/9/psivil30163.html",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Livestock Research for Rural Development (0121-3784)",
+            "journal_ranking": "Scopus (Q3; H=38; SJR: 0,24)",
+            "citation_count": 1,
+            "volume_issue_pages": "30(9)",
+            "published_date": "2018"
+        },
+        {
+            "title": "Effect of biochar on growth performance of local \"Yellow\" cattle fed ensiled cassava roots, fresh brewers' grains and rice straw https://lrrd.cipav.org.co/lrrd30/9/bobby30168.html",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Livestock Research for Rural Development (0121-3784)",
+            "journal_ranking": "Scopus (Q3; H=38; SJR: 0,24)",
+            "citation_count": 7,
+            "volume_issue_pages": "30(9)",
+            "published_date": "2018"
+        },
+        {
+            "title": "The effects of different levels of fresh cassava root with biochar on growth performance of local yellow cattle in Lao PDR.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Agricultural Science, Technology and Development (National University of Lao)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3(1): 388-395.",
+            "published_date": "2018"
+        },
+        {
+            "title": "Khả năng sinh sản của trâu ở ven phá Tam Giang, huyện Quảng Điền, tỉnh Thừa Thiên Huế",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi (1859-476X)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "243, 16-19",
+            "published_date": "2019"
+        },
+        {
+            "title": "Bệnh chân móng của bò sữa ở tỉnh Lâm Đồng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Khoa học Chăn nuôi Thú y toàn quốc 2019 (ISBN: 978-604-60-2664-8).",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "451-456",
+            "published_date": "2019"
+        },
+        {
+            "title": "The effect of dried cassava foliage with ensiled cassava root on growth performance of local yellow cattle in Lao PDR",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi (1859-476X)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "249:5 0-54",
+            "published_date": "2019"
+        },
+        {
+            "title": "Fermenting rice bran and maize with Saccharomyces cerevisiae and feeding the fermented product to chickens https://lrrd.cipav.org.co/lrrd32/2/hai32023.html",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Livestock Research for Rural Development (0121-3784)",
+            "journal_ranking": "Scopus (Q3; H=38; SJR: 0,24)",
+            "citation_count": 3,
+            "volume_issue_pages": "32(2)",
+            "published_date": "2020"
+        },
+        {
+            "title": "Ảnh hưởng của tỷ lệ trống mái đến năng suất sinh sản của chim cút giống nuôi tại Thừa Thiên Huế",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi (1859-476X)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "263, 58-63",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đa hình gen NCAPG và RNF212 liên quan đến các tính trạng kinh tế ở bò Lai Sind và Lai Brahman nuôi tại miền Trung Việt Nam https://doi.org/10.46826/huaf-jasat.v5n1y2021.593",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp (2588-1256)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5 (1), 2352-2358",
+            "published_date": "2021"
+        },
+        {
+            "title": "Bệnh chân móng trên bò sữa ở huyện Đức Trọng, tỉnh Lâm Đồng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi (1859-476X)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "272:8 0-85",
+            "published_date": "2021"
+        },
+        {
+            "title": "Năng suất sinh sản của gà Chọi lai và Ri lai nuôi tại huyện Sơn Hà, tỉnh Quảng Ngãi",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật Chăn nuôi (1859-476X)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "275:2 0-24",
+            "published_date": "2022"
+        },
+        {
+            "title": "Chuỗi cung lợn thịt và thịt lợn tại tỉnh Quảng Trị",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Khoa học Chăn nuôi Thú y toàn quốc 2021. ISBN: 978-604-337-133-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "AVS 2021: 173-179",
+            "published_date": "2021"
+        },
+        {
+            "title": "Khả năng sinh sản của trâu nội khi được phối tinh trâu murrah, trâu ngố bằng phương pháp thụ tinh nhân tạo và sinh trưởng của con lai nuôi trong nông hộ tại tỉnh Quảng Nam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Khoa học Chăn nuôi Thú y toàn quốc 2021. ISBN: 978-604-337-133-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "AVS 2021: 628-633",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đa hình exon 5 của gen thụ thể prolactin và intron 1 của gen hormone sinh trưởng ở gà ri lai được nuôi tại Thừa Thiên Huế https://doi.org/10.46826/huaf-jasat.v6n2y2022.909",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp (2588-1256)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6(2): 2944-2949",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effect of cortisone and cortisol on prostaglandins production by bovine endometrium around the time of ovulation https://dx.doi.org/10.17582/journal.aavs/2022/10.7.1611.1615",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Animal and Veterinary Sciences (E-ISSN: 2307-8316)",
+            "journal_ranking": "Scopus (Q3; H:17; SJR: 0,22)",
+            "citation_count": 0,
+            "volume_issue_pages": "10(7):1611-1615.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Fecal, Milk, Uterine, Airborne Dust, and Water Microbiota in Dairy Farms in Southern Vietnam: A Pilot Study DOI | https://dx.doi.org/10.17582/journal.aavs/2022/10.7.1525.1531",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Animal and Veterinary Sciences (E-ISSN: 2307-8316)",
+            "journal_ranking": "Scopus (Q3, H:17, SJR: 0,22)",
+            "citation_count": 2,
+            "volume_issue_pages": "10 (7), 1423-1658",
+            "published_date": "2022"
+        },
+        {
+            "title": "Detection of bovine leukemia virus in beef cattle kept in the Central Coast Regions of Vietnam https://doi.org/10.1292/jvms.22-0240",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Veterinary Medical Science (0916-7250, E-ISSN: 1347-7439)",
+            "journal_ranking": "SCIE (Q2, H: 69, SJR: 0,39)",
+            "citation_count": 2,
+            "volume_issue_pages": "85 (1), 111-116",
+            "published_date": "2023"
+        },
+        {
+            "title": "Phân lập, định danh và đánh giá tiềm năng probiotics của một sô chủng nấm men Saccharomyces cerevisiae từ chất chứa trong ruột gà https://doi.org/10.46826/huaf-jasat.v7n1y2023.1008",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp (2588-1256)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7(1), 3407-3418",
+            "published_date": "2023"
+        },
+        {
+            "title": "Thực trạng an toàn sinh học trong chăn nuôi lợn ở nông hộ tại huyện Phong Điền, tỉnh Thừa Thiên Huế https://doi.org/10.46826/huaf-jasat.v7n2y2023.1022",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Nông nghiệp (2588-1256)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7(2): 3638-3647",
+            "published_date": "2023"
+        },
+        {
+            "title": "Antibacterial efficacy of greenly synthesized silver nanoparticles using nanocurcumin and silver nanoparticle gel on bovine mastitis DOI 10.1088/2053-1591/acdb36",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Research Express (2053-1591, E-ISSN: 2053-1591)",
+            "journal_ranking": "SCIE (Q2, H: 64, SJR: 0,43)",
+            "citation_count": 0,
+            "volume_issue_pages": "10 (6), 065004",
+            "published_date": "2023"
+        },
+        {
+            "title": "Biosynthesis of silver nanoparticles using curcumin against the bovine mastitis bacteria DOI: https://doi.org/10.5513/JCEA01/24.2.3910",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Central European Agriculture (1332-9049)",
+            "journal_ranking": "SCIE (Q3, H: 25, SJR: 0,21)",
+            "citation_count": 0,
+            "volume_issue_pages": "24 (2), 505-512",
+            "published_date": "2023"
+        },
+        {
+            "title": "Dietary kudzu (Pueraria thomsonii Benth.) leaf affects on growth performance of Local rabbits https://www.lrrd.cipav.org.co/lrrd36/1/3608leth.html",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Livestock Research for Rural Development (0121-3784)",
+            "journal_ranking": "Scopus (Q3, H=38, SJR: 0,24)",
+            "citation_count": 0,
+            "volume_issue_pages": "36(1)",
+            "published_date": "2024"
+        },
+        {
+            "title": "Evaluation of Rumination and Milk Yield Alerts Utilizing SCR System for Mastitis, Ketosis, and Abomasal Displacement on the Dairy Cow Farm in Vietnam DOI | https://dx.doi.org/10.17582/journal.aavs/2024/12.6.1089.1098",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Animal and Veterinary Sciences (E-ISSN: 2307-8316)",
+            "journal_ranking": "Scopus (Q3, H:17, SJR: 0,22)",
+            "citation_count": 0,
+            "volume_issue_pages": "12 (6), 1089-1098",
+            "published_date": "2024"
+        },
+        {
+            "title": "Effect of Fermented Rice Bran and Maize by Saccharomycess cerevisiae on Carcass Characteristis and Amino Acid Contents of Chickens DOI | https://dx.doi.or g/10.17582/journal.aavs/2024/12.7.1404.1409",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Animal and Veterinary Sciences (E-ISSN: 2307-8316)",
+            "journal_ranking": "Scopus (Q3, H:17, SJR: 0,22)",
+            "citation_count": 0,
+            "volume_issue_pages": "12 (7), 1404-1409",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Efficiency of supplementation of cassava pulp and cassava foliage in fattening crossbred cattle at small household scale in central Vietnam",
+            "role": "Principal Investigator",
+            "project_code": "QT-DACNTY2016",
+            "management_level": "Dự án Mekarn",
+            "period": "2016",
+            "acceptance_date": "18/12/2016",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đánh giá thực trạng và hiệu quả chăn nuôi trâu trong nông hộ ở Thừa Thiên Huế",
+            "role": "Principal Investigator",
+            "project_code": "DHH2016-02-75",
+            "management_level": "Cấp Đại học Huế-Tương đương cấp bộ",
+            "period": "2016-2017",
+            "acceptance_date": "28/9/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ảnh hưởng của thức ăn được lên men bởi nấm Saccharomyces cerevisiae đến khả năng sinh trưởng và cấu trúc đường tiêu hóa ở gà Ri lai",
+            "role": "Key Member",
+            "project_code": "CS-DTTCNTY2018-2",
+            "management_level": "Cấp cơ sở",
+            "period": "2018",
+            "acceptance_date": "20/12/2018",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Ứng dụng khoa học và công nghệ tuyển chọn, nhân giống và phát triển chăn nuôi gà thả đồi an toàn tại huyện Sơn Hà, tỉnh Quảng Ngãi",
+            "role": "Co-Investigator",
+            "project_code": "08/2019/HD-ĐTKHCN",
+            "management_level": "Cấp tỉnh - Tương đương cấp bộ",
+            "period": "2019-2023",
+            "acceptance_date": "13/3/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu sử dụng một số phương pháp gây động dục cho trâu cái chậm sinh nhằm nâng cao khả năng sinh sản của đàn trâu ở Quảng Nam",
+            "role": "Principal Investigator",
+            "project_code": "DHH2020-02-143",
+            "management_level": "Cấp Đại học Huế - Tương đương cấp bộ",
+            "period": "2020-2021",
+            "acceptance_date": "17/05/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Hoàn thiện, xây dựng nhãn hiệu và thương mại hoá Guốc và Keo dán guốc cho bò",
+            "role": "Principal Investigator",
+            "project_code": "DHL2021-TMDA",
+            "management_level": "",
+            "period": "2021-2022",
+            "acceptance_date": "22/2/2022",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Hướng dẫn vận hành trại lợn",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Huế",
+            "publish_year": "2018",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "toàn sách",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách ngày 06/6/2024 của Chủ tịch Hội đồng KH&ĐT, Hiệu trưởng Trường Đại học Nông Lâm, Đại học Huế"
+        },
+        {
+            "title": "Chăn nuôi lợn",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Huế",
+            "publish_year": "2018",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "toàn sách",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách ngày 06/6/2024 của Chủ tịch Hội đồng KH&ĐT, Hiệu trưởng Trường Đại học Nông Lâm, Đại học Huế"
+        },
+        {
+            "title": "Sản xuất và cấy phôi bò tại trang trại",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Nông nghiệp",
+            "publish_year": "2019",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "toàn sách",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách ngày 06/6/2024 của Chủ tịch Hội đồng KH&ĐT, Hiệu trưởng Trường Đại học Nông Lâm, Đại học Huế"
+        },
+        {
+            "title": "Thức ăn chăn nuôi",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Huế",
+            "publish_year": "2021",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "toàn sách",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách ngày 06/6/2024 của Chủ tịch Hội đồng KH&ĐT, Hiệu trưởng Trường Đại học Nông Lâm, Đại học Huế"
+        },
+        {
+            "title": "Phương pháp nghiên cứu thức ăn thô xanh trong chăn nuôi",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Huế",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "toàn sách",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách ngày 06/6/2024 của Chủ tịch Hội đồng KH&ĐT, Hiệu trưởng Trường Đại học Nông Lâm, Đại học Huế"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Cập nhật chương trình đào tạo đại học hệ chính quy",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định 462/QĐ-ĐHNL ngày 05/6/2020",
+            "certifying_authority": "Trường Đại học Nông Lâm, Đại học Huế",
+            "implementation_document_id": "Quyết định số 693/QĐ-ĐHNL, ngày 11/08/2020 và quyết định số 790/QĐ-ĐHNL, ngày 09/09/2020",
+            "notes": "Đã hoàn thành cập nhật và ban hành CTĐT"
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo trình độ Thạc sĩ theo thông tư 17/TT-BGD&ĐT, 23/TT-BGD&ĐT ngành Chăn nuôi",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ số 678/QĐ-ĐHNL, ngày 23 tháng 9 năm 2022",
+            "certifying_authority": "Trường Đại học Nông Lâm, Đại học Huế",
+            "implementation_document_id": "QĐ số 190/QĐ-ĐHNL, ngày 22/3/2023",
+            "notes": "Đã hoàn thành cập nhật và ban hành CTĐT"
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo trình độ Tiến sĩ ngành Chăn nuôi",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "QĐ số 107/QĐ-ĐHNL ngày 01 tháng 3 năm 2022",
+            "certifying_authority": "Trường Đại học Nông Lâm, Đại học Huế",
+            "implementation_document_id": "QĐ số 807/QĐ-ĐHNL, ngày 25 tháng 10 năm 2022",
+            "notes": "Đã hoàn thành và ban hành CTĐT"
+        }
+    ]
+}

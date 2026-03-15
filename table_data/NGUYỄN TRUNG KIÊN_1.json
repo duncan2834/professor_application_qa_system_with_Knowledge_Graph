@@ -1,0 +1,596 @@
+{
+    "papers": [
+        {
+            "title": "Modeling of a cohesive granular material by a Multi-scale Approach",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "AIP (American Institute of Physics) Conference Proceedings e-ISSN: 1551-7616 p-ISSN: 0094-243X",
+            "journal_ranking": "Scopus",
+            "citation_count": 24,
+            "volume_issue_pages": "1542, 1194-1197",
+            "published_date": "June, 2013"
+        },
+        {
+            "title": "FEM X DEM modelling of cohesive granular materials: numerical homogenisation and multi-scale simulations",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Acta Geophysica e-ISSN: 1895-7455",
+            "journal_ranking": "SCIE (IF 2.3, Q2)",
+            "citation_count": 100,
+            "volume_issue_pages": "62, 5, 1109-1126",
+            "published_date": "August, 2014"
+        },
+        {
+            "title": "FEM x DEM Multi-scale analysis of Boundary Value Problem involving Strain Localization",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Springer Series in Geomechanics and Geoengineering e-ISSN: 1866-8763 p-ISSN: 1866-8755",
+            "journal_ranking": "Scopus",
+            "citation_count": 20,
+            "volume_issue_pages": "259-265",
+            "published_date": "December, 2014"
+        },
+        {
+            "title": "Off-fault shear failure potential enhanced by high-stiff/low-permeable damage zone during fluid injection in porous reservoir",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Geophysical Journal International e-ISSN: 1365-246X p-ISSN: 0956-540X",
+            "journal_ranking": "SCIE (IF 2.8, Q1)",
+            "citation_count": 28,
+            "volume_issue_pages": "202, 3, 1566-1580",
+            "published_date": "July, 2015"
+        },
+        {
+            "title": "Integrating damage zone's heterogeneities based on stochastic realizations of fracture networks for fault stability analysis",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Rock Mechanics and Mining Sciences e-ISSN: 1873-4545 p-ISSN: 1365-1609",
+            "journal_ranking": "SCIE (IF 7.2, Q1)",
+            "citation_count": 19,
+            "volume_issue_pages": "80, 325-336",
+            "published_date": "December, 2015"
+        },
+        {
+            "title": "Restoring Mesh Independency in FEM-DEM Multi-scale modelling of Strain localization",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Springer Series in Geomechanics and Geoengineering e-ISSN: 1866-8763",
+            "journal_ranking": "Scopus",
+            "citation_count": 15,
+            "volume_issue_pages": "453-457",
+            "published_date": "April, 2017"
+        },
+        {
+            "title": "FEM X DEM: a new efficient multi-scale approach for geotechnical problems with strain localization",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "EPJ (European Physical Journal) Web of Conferences e-ISSN: 2100-014X",
+            "journal_ranking": "Scopus",
+            "citation_count": 7,
+            "volume_issue_pages": "140, 11007",
+            "published_date": "June, 2017"
+        },
+        {
+            "title": "From discrete to continuum modeling of boundary value problems in geomechanics: an integrated FEM-DEM approach",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal for Numerical and Analytical Methods in Geomechanics e-ISSN: 1096-9853 p-ISSN: 0363-9061",
+            "journal_ranking": "SCIE (IF 4.0, Q1)",
+            "citation_count": 57,
+            "volume_issue_pages": "43, 5, 919-955",
+            "published_date": "March, 2019"
+        },
+        {
+            "title": "Nghiên cứu khả năng áp dụng giải pháp đập hở khung thép ngăn lũ bùn đá tại khu vực miền núi phía bắc Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí KHCN Xây dựng (Đại học Xây dựng Hà Nội) ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12, 5V, 28-37",
+            "published_date": "September, 2019"
+        },
+        {
+            "title": "Influence of heterogeneous fractured fault damage zones on shear failure onset during fluid injection",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering (Proceedings of the 5th International Conference on Geotechnics, Civil Engineering Works and Structures, CIGOS 2019) e-ISSN: 2366-2565 p-ISSN: 2366-2557",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "54, 721-726",
+            "published_date": "October, 2019"
+        },
+        {
+            "title": "A numerical law based on particles interactions for continuum modeling of boundary value problems",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering (Proceedings of the 5th International Conference on Geotechnics, Civil Engineering Works and Structures, CIGOS 2019) e-ISSN: 2366-2565 p-ISSN: 2366-2557",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "54, 715-720",
+            "published_date": "October, 2019"
+        },
+        {
+            "title": "Proposing preliminary countermeasures against debris flow: case study in nampam commune Son La province",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International conference water resources research on water resources security, disaster prevention and climate change adaptation, ISBN: 978-604-67-1627-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "383-388",
+            "published_date": "November, 2019"
+        },
+        {
+            "title": "Early warning systems for Flashflood and Debris flows in Vietnam: A review",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering e-ISSN: 2366-2565 p-ISSN: 2366-2557",
+            "journal_ranking": "Scopus",
+            "citation_count": 13,
+            "volume_issue_pages": "62, 1233-1240",
+            "published_date": "November, 2019"
+        },
+        {
+            "title": "Phân tích sự làm việc của dầm liên hợp thép-bê tông khoét lỗ bản bụng bằng phương pháp mô phỏng số",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng Việt Nam (Bộ Xây dựng) ISSN: 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1/2020, 29-32",
+            "published_date": "January, 2020"
+        },
+        {
+            "title": "Mô hình hóa đa tỷ lệ bài toán địa cơ học sử dụng phương pháp kết hợp phần tử hữu hạn và phần tử rời rạc",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí KHCN Xây dựng (Đại học Xây dựng Hà Nội) ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14, 1V 93-103",
+            "published_date": "February, 2020"
+        },
+        {
+            "title": "Nghiên cứu đề xuất giải pháp đập ngăn bùn đá tại lưu vực suối Háng Chú, huyện Mù Cang Chải, tỉnh Yên Bái",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Địa Kỹ thuật ISSN: 0866-279X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3-2020, 18-25",
+            "published_date": "March, 2020"
+        },
+        {
+            "title": "Một số cách kết hợp phần tử hữu hạn - phần tử rời rạc trong bài toán xây dựng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng Việt Nam (Bộ Xây dựng) ISSN: 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5-2020, 152-155",
+            "published_date": "May, 2020"
+        },
+        {
+            "title": "Phương pháp xác định khu vực rủi ro lũ bùn đá dựa vào bản đồ địa hình",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khí tượng thủy văn ISSN: 2525-2208",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "5-2020, 37-46",
+            "published_date": "May, 2020"
+        },
+        {
+            "title": "Nghiên cứu thực nghiệm sự làm việc chịu uốn của sàn liên hợp thép - bê tông nhịp đơn theo tiêu chuẩn EN 1994-1-1:2004",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí KHCN Xây dựng (Đại học Xây dựng Hà Nội) ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "15, 2V, 22-33",
+            "published_date": "May, 2021"
+        },
+        {
+            "title": "Experimental investigation on flexural behavior of reinforced lightweight concrete slabs using recycled expanded polystyrene",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering e-ISSN: 2366-2565 p-ISSN: 2366-2557",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "148, 241-250",
+            "published_date": "June, 2021"
+        },
+        {
+            "title": "On the Representative Volume Element of dense granular assemblies made of 2D circular particles",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering e-ISSN: 2366-2565 p-ISSN: 2366-2557",
+            "journal_ranking": "Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "148, 499-508",
+            "published_date": "June, 2021"
+        },
+        {
+            "title": "Impact dynamics and power-law scaling behavior of wet agglomerates",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Computational Particle Mechanics e-ISSN: 2196-4386 p-ISSN: 2196-4378",
+            "journal_ranking": "SCIE (IF 3.3, Q1)",
+            "citation_count": 5,
+            "volume_issue_pages": "9, 3, 537-550",
+            "published_date": "June, 2021"
+        },
+        {
+            "title": "Failure analysis of pressurized hollow cylinder made of cohesive-frictional granular materials",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture notes in Mechanical Engineering (Select Proceedings of ICOMMA 2020) e-ISSN: 2195-4364 p-ISSN: 2195-4356",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "707-715",
+            "published_date": "September, 2021"
+        },
+        {
+            "title": "Experimental study on shear strength and failure mechanisms of concrete dowel in shallow-hollow steel beam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering e-ISSN: 2366-2565 p-ISSN: 2366-2557",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "203, 247-255",
+            "published_date": "October, 2021"
+        },
+        {
+            "title": "Coupled finite-discrete element modeling and potential applications in civil engineering",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE) ISSN: 1859-2996",
+            "journal_ranking": "ACI",
+            "citation_count": 2,
+            "volume_issue_pages": "15, 4, 111-122",
+            "published_date": "October, 2021"
+        },
+        {
+            "title": "A new type of hollow-shallow steel and concrete composite floor beam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE) ISSN: 1859-2996",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "15, 4, 65-73",
+            "published_date": "October, 2021"
+        },
+        {
+            "title": "Discrete-element modeling of strain localization in a dense and highly coordinated periodic granular assembly",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frattura ed Integrità Strutturale ISSN: 1971-8993",
+            "journal_ranking": "Scopus (IF 1.7, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "16, 59, 188-197",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "The influence of the number of web-openings in shear resistance of concrete dowel subjected to push-out test",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frattura ed Integrità Strutturale ISSN: 1971-8993",
+            "journal_ranking": "Scopus (IF 1.7, Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "16, 59, 254-264",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "FEM-DEM multi-scale model for cemented granular materials: inter- and intra-granular cracking induced strain localisation",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal for Numerical and Analytical Methods in Geomechanics e-ISSN: 1096-9853 p-ISSN: 0363-9061",
+            "journal_ranking": "SCIE (IF 4.0, Q1)",
+            "citation_count": 15,
+            "volume_issue_pages": "46, 5, 1001-1025",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "Effect of damage zones around fault core on failure development during fluid injection into porous reservoirs",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Geomechanics for Energy and the Environment e-ISSN: 2352-3808",
+            "journal_ranking": "SCIE (IF 5.1, Q1)",
+            "citation_count": 1,
+            "volume_issue_pages": "32, 100327",
+            "published_date": "February, 2022"
+        },
+        {
+            "title": "Gravity-driven wet granular free-surface flows down an inclined plane: effects of the inclination angle",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal Mechanics e-ISSN: 2815-5882 p-ISSN: 0866-7136",
+            "journal_ranking": "ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "44, 2, 117-132",
+            "published_date": "May, 2022"
+        },
+        {
+            "title": "The roles of the reversibility and irreversibility of capillary bonds on the impact dynamics of agglomerates",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Acta Geotechnica e-ISSN: 1861-1133 e-ISSN: 1861-1125",
+            "journal_ranking": "SCIE (IF 5.7, Q1)",
+            "citation_count": 5,
+            "volume_issue_pages": "18, 1, 217-233",
+            "published_date": "May, 2022"
+        },
+        {
+            "title": "Unified penetration depth of low-velocity intruder into granular packings",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Physical Review E e-ISSN: 2470-0053 p-ISSN: 2470-0045",
+            "journal_ranking": "SCIE (IF 2.4, Q1)",
+            "citation_count": 6,
+            "volume_issue_pages": "106, 1, 014902",
+            "published_date": "July, 2022"
+        },
+        {
+            "title": "Xây dựng công thức xác định sức kháng trượt dọc của chốt bê tông dạng lỗ mở hình thang ngược trong dầm sàn liên hợp thép-bê tông có chiều cao nhỏ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kết cấu và Công nghệ Xây dựng ISSN: 1859-3194",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "35, 49-58",
+            "published_date": "August, 2022"
+        },
+        {
+            "title": "Shear resistance determination of concrete dowel in shallow concrete-steel composite floor-beam based on push-out tests",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE) ISSN: 1859-2996",
+            "journal_ranking": "ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "16, 4, 1-9",
+            "published_date": "September, 2022"
+        },
+        {
+            "title": "Moving intruder out of non-cohesive and cohesive granular assemblies",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Computational Particle Mechanics e-ISSN: 2196-4386 p-ISSN: 2196-4378",
+            "journal_ranking": "SCIE (IF 3.3, Q1)",
+            "citation_count": 4,
+            "volume_issue_pages": "10, 5, 1005-1017",
+            "published_date": "January, 2023"
+        },
+        {
+            "title": "Effects of the size polydispersity and friction coefficient on the compressive strength of wet granular materials",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE) ISSN: 1859-2996",
+            "journal_ranking": "ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "17, 1, 58-66",
+            "published_date": "February, 2023"
+        },
+        {
+            "title": "Discrete element investigation of the mobility of granular mass flows",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Solid State Communication e-ISSN: 1879-2766 p-ISSN: 0038-1098",
+            "journal_ranking": "SCIE (IF 2.1, Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "369, 115190",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Insights into the compressive and tensile strengths of viscocohesive-frictional particle agglomerates",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Computational Particle Mechanics e-ISSN: 2196-4386 p-ISSN: 2196-4378",
+            "journal_ranking": "SCIE (IF 3.3, Q1)",
+            "citation_count": 3,
+            "volume_issue_pages": "10, 6, 1977-1987",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Effects of intergranular coefficient of friction and particle size distributions on the initial void ratio of granular sample",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE) ISSN: 1859-2996",
+            "journal_ranking": "ACI",
+            "citation_count": 0,
+            "volume_issue_pages": "17, 2, 110-119",
+            "published_date": "June, 2023"
+        },
+        {
+            "title": "Nghiên cứu xây dựng mẫu và kiểm soát chất lượng mẫu trong quá trình nén đẳng hướng bằng phương pháp phần tử rời rạc",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí KHCN Xây dựng (Đại học Xây dựng Hà Nội) ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17, (3V), 116-125",
+            "published_date": "August, 2023"
+        },
+        {
+            "title": "Linking dynamics between anchor and granular materials",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "TISDIC (IOP Conference Series: Materials Science and Engineering) ISSN: 1757-899X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1289, 012090",
+            "published_date": "August, 2023"
+        },
+        {
+            "title": "Appropriate sample size and effects of microscopic parameters on the macroscopic responses of 2D cohesive-frictional granular assemblies",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Materials and Engineering Structures ISSN: 2170-127X",
+            "journal_ranking": "ESCI (IF 0.6, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "10, 3, 449-460",
+            "published_date": "September, 2023"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của bề rộng liên kết đến ứng xử chịu cắt của đất rời rạc mô phỏng bằng phương pháp phần tử rời rạc",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí KHCN Xây dựng (Đại học Xây dựng Hà Nội) ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17, 4V, 114-122",
+            "published_date": "November, 2023"
+        },
+        {
+            "title": "Scaling behavior of granular column collapse on erodible-inclined surface",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Powder Technology e-ISSN: 1873-328X p-ISSN: 0032-5910",
+            "journal_ranking": "SCIE (IF 5.2, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "433, 119274",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Collapse dynamics and deposition morphology of low-viscocohesive granular columns on a rough-horizontal surface",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Physical Review E e-ISSN: 2470-0053 p-ISSN: 2470-0045",
+            "journal_ranking": "SCIE (IF 2.4, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "109, 1, 014904",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Macro-micro analysis of ground response to circular tunnel excavation in granular media",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Journal of Environmental and Civil Engineering e-ISSN: 2116-7214 p-ISSN: 1964-8189",
+            "journal_ranking": "SCIE (IF 2.1, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "3/2024, 1-19",
+            "published_date": "March, 2024"
+        },
+        {
+            "title": "Mô phỏng liên kết dầm phụ - dầm chính sử dụng bản bích lệch tâm bằng phương pháp CBFEM",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kết cấu và Công nghệ Xây dựng ISSN: 1859-3194",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "38, 47-59",
+            "published_date": "April, 2024"
+        },
+        {
+            "title": "Variability and loss of uniqueness of numerical solutions in FEMxDEM modeling with second gradient enhancement",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal for Numerical and Analytical Methods in Geomechanics e-ISSN: 1096-9853 p-ISSN: 0363-9061",
+            "journal_ranking": "SCIE (IF 4.0, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "48, 9, 2381-2407",
+            "published_date": "April, 2024"
+        },
+        {
+            "title": "Cross-scales analysis of shear behavior in sandstone",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Applied Science and Engineering e-ISSN: 2708-9975 p-ISSN: 2708-9967",
+            "journal_ranking": "Scopus (IF 1.3, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "28(3), 441-449",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Tính toán tôn sóng định hình theo EN 1993-1-3",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng (Bộ Xây dựng) ISSN: 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5/2024, 98-101",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Influence of Grain Shape to Shear Strength of 2D Cemented Granular Materials: A DEM Study",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering (Proceedings of the 7th International Conference on Geotechnics, Civil Engineering and Structures, CIGOS 2024)",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "482, 460-465",
+            "published_date": "June, 2024"
+        },
+        {
+            "title": "Modeling the Pressuremeter Test by FEM × DEM approach",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering (Select Proceedings of Structural Health Monitoring & Engineering Structures, SHM&ES 2023) e-ISSN: 2366-2565 p-ISSN: 2366-2557",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "460, 569-574",
+            "published_date": "June, 2024"
+        },
+        {
+            "title": "Bifurcation Analysis of Shear Band for a Cohesive-Frictional Granular Material with DEM-Based Constitutive Model",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering (Select Proceedings of Structural Health Monitoring & Engineering Structures, SHM&ES 2023) e-ISSN: 2366-2565 p-ISSN: 2366-2557",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "460, 585-592",
+            "published_date": "June, 2024"
+        },
+        {
+            "title": "Machine Learning Models to Predict Buckling Strength of Steel Beams According to TCVN 5575:202X",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture notes in Civil Engineering (Select proceedings of SHM&ES 2023) e-ISSN: 2366-2565 p-ISSN: 2366-2557",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "460, 503-511",
+            "published_date": "June, 2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "ĐT: Nghiên cứu phương pháp phần tử hữu hạn và phương pháp phần tử rời rạc mô phỏng một số vấn đề thuộc lĩnh vực xây dựng",
+            "role": "Principal Investigator",
+            "project_code": "78-2020/KHXD",
+            "management_level": "Trường Đại học Xây dựng",
+            "period": "2019-2020",
+            "acceptance_date": "24/3/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "ĐT: Nghiên cứu ứng xử của vật liệu rời trong xây dựng bằng phương pháp mô phỏng đa tỷ lệ Phần tử hữu hạn - Phần tử rời rac",
+            "role": "Principal Investigator",
+            "project_code": "34-2021/KHXD-TĐ",
+            "management_level": "Trường Đại học Xây dựng Hà Nội",
+            "period": "2021-2022",
+            "acceptance_date": "12/12/2022",
+            "rating": "Tốt"
+        },
+        {
+            "title": "ĐT: Nghiên cứu xây dựng tiêu chuẩn quốc gia thiết kế kết cấu liên hợp Thép và Bê tông: Phần 1-Quy định chung và quy định cho công trình nhà",
+            "role": "Assistant",
+            "project_code": "TC12-21",
+            "management_level": "Bộ Xây dựng",
+            "period": "2021-2022",
+            "acceptance_date": "29/12/2022",
+            "rating": "Khá"
+        },
+        {
+            "title": "ĐT: Nghiên cứu xây dựng Hướng dẫn thiết kế kết cấu liên hợp thép-bê tông theo định hướng mới (Phần I - Quy định chung và quy định cho công trình nhà)",
+            "role": "Principal Investigator",
+            "project_code": "RD48-22",
+            "management_level": "Bộ Xây dựng",
+            "period": "2022-2024",
+            "acceptance_date": "25/4/2024",
+            "rating": "Khá"
+        }
+    ],
+    "books": [],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

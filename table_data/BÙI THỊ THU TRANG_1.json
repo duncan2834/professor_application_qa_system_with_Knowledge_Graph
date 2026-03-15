@@ -1,0 +1,501 @@
+{
+    "papers": [
+        {
+            "title": "Thieno[3,4-b]pyrazine-based Copolymers and Application to Polymer Solar Cells",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Science of Advance Materials (ISSN: 1947-2935 Print, 1947-2943 Online)",
+            "journal_ranking": "Scopus Q2 (IF 1.679, 2016)",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol. 8, 657-661",
+            "published_date": "03/2016"
+        },
+        {
+            "title": "Synthesis and characterization of medium band gap polymers with phosphole[3,2-b:4,5-b]dithiophene oxide as acceptor unit and their application for polymer photovoltaic devices",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Synthetic Metals (ISSN: 0379-6779)",
+            "journal_ranking": "ISI Q1, Scopus Q1 (IF 2.682, SCIE, 2016)",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol. 215, 235-242",
+            "published_date": "05/2016"
+        },
+        {
+            "title": "Cross-linkable Polymers Containing Triple Bond Backbone and Their Application in Photovoltaic Devices",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "RSC Advances (ISSN: 2046-2069)",
+            "journal_ranking": "ISI Q1, Scopus Q1 (IF 3.238, SCIE, 2016)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 2016, Issue 6, 61284-61291",
+            "published_date": "06/2016"
+        },
+        {
+            "title": "Rationally Designed Donor-Acceptor Random Copolymers with Optimized Complementary Light Absorption for Highly Efficient All-Polymer Solar Cells",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advanced Functional Materials (Online-ISSN: 1616-3028, Print ISSN: 1616-301X)",
+            "journal_ranking": "ISI Q1, Scopus Q1 (IF 12.818, SCIE, 2017)",
+            "citation_count": 37,
+            "volume_issue_pages": "Vol. 27, Issue 38, 17030-17070",
+            "published_date": "08/2017"
+        },
+        {
+            "title": "Nghiên cứu thành phần hoá học và hoạt tính kháng nấm của củ cây đảng sâm Codonopsis pilpsula",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học (ISSN: 0868-3224)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25, số 2, 65-70",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "A new naphthoquinone analogue and antiviral constituents from the root of Rhinacanthus nasutus",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Research (ISSN: 1478-6419, 1478-6427)",
+            "journal_ranking": "ISI Q2, Scopus Q2 (IF 1.857, SCIE, 2018)",
+            "citation_count": 38,
+            "volume_issue_pages": "Vol. 33, Issue 3, 360-366",
+            "published_date": "03/2018"
+        },
+        {
+            "title": "Some general concepts of organic photovoltaic solar cells a potential clean energy for future",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of SCIENCE & TECHNOLOGY (P-ISSN: 1859-3585, E-ISSN: 2615-9619)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 45.2018, 23-27",
+            "published_date": "04/2018"
+        },
+        {
+            "title": "High-Efficiency Nonfullerene Polymer Solar Cells with Band gap and Absorption Tunable Donor/Acceptor Random Copolymers",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "ACS Applied Materials & Interfaces (ISSN: 1944-8244, 1944-8252)",
+            "journal_ranking": "ISI Q1, Scopus Q1 (IF 8.637, SCIE, 2018)",
+            "citation_count": 11,
+            "volume_issue_pages": "Vol. 11 (2), 2189-2196",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "High-efficiency non-halogenated solvent processable",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Materials Chemistry A (ISSN: 2050-7488, 2050-7496)",
+            "journal_ranking": "ISI Q1, Scopus Q1 (IF 11.559, SCIE, 2019)",
+            "citation_count": 22,
+            "volume_issue_pages": "Vol. 7, 24992-25002",
+            "published_date": "2019"
+        },
+        {
+            "title": "Isolation of Phenolic compounds from ethyl acetate soluble fraction of the Piper betle",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Multidisciplinary Engineering Science and Technology (ISSN: 2458-9403)",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 6 Issue 11; 11014-11017",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Antifungal activity of coumarin and triterpenoid taraxasteryl acetate from the hexane soluble fraction of the leaves and twigs of Eupatorium fortune against Sclerotium rolfsii and Rhizoctonia solani",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Science and Technology (ISSN: 2525-2518, 2815-5874)",
+            "journal_ranking": "Scopus (IF 0.23, 2020)",
+            "citation_count": 1,
+            "volume_issue_pages": "58 (6A) (2020) 17-25",
+            "published_date": "01/2020"
+        },
+        {
+            "title": "Investigation on chemical constituent of water fraction of Piper betle L.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of SCIENCE & TECHNOLOGY (P-ISSN: 1859-3585, E-ISSN: 2615-9619)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 56, số 1 100-103",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "Nghiên cứu khả năng ức chế nấm Colletoreichum và vi khuẩn Xanthomonas axopopdis gây bệnh thánh thư và loét trên cam vinh của hợp chất đồng (II) oleat",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học (ISSN: 0866-7144 / eISSN: 2572-8288)",
+            "journal_ranking": "ISI, Scopus (IF 0.48, ESCI, 2020)",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 58, số E1,2 113-119",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Nghiên cứu chế tạo và một số tính chất của sợi polyvinylidene fluoride",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 63 - Số 1",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Diarylheptanoids from the rhizomes of Zingiber officinale",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of SCIENCE & TECHNOLOGY (P-ISSN: 1859-3585, E-ISSN: 2615-9619)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 57 - No. 1 113-116",
+            "published_date": "02/2021"
+        },
+        {
+            "title": "Effects of Hybrid Graphene Oxide with Multiwalled Carbon Nanotubes and Nanoclay on the Mechanical Properties and Fire Resistance of Epoxy Nanocomposite",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Nanomaterials (Online ISSN: 1687-4129, Print ISSN: 1687-4110)",
+            "journal_ranking": "Scopus Q2 (IF 3.553, 2021)",
+            "citation_count": 3,
+            "volume_issue_pages": "Volume 2021, Issue 1, 2862426",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Isolation of steroidal saponins from the seeds of Allium ramosum",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Multidisciplinary Engineering Science and Technology (ISSN: 2458-9403)",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 8 Issue 11, 14773-14777",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Four New Acyclic Diterpenes From Siegesbeckia orientalis",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Communications (ISSN: 1555-9475, 1934-578X)",
+            "journal_ranking": "ISI Q3, Scopus Q3 (IF 1.493, SCIE, 2021)",
+            "citation_count": 3,
+            "volume_issue_pages": "Volume 16(11), 1-6",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Enhanced Catalytic Activities of TiO2 Nanotube Arrays Co-Sensitized with Pt/CdS/ZnS via Electrodeposition and Successive Ionic Layer Adsorption and Reaction (SILAR) Method",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Nanoscience and Nanotechnology (ISSN: 1533-4880, 1533-4899)",
+            "journal_ranking": "Scopus Q2 (IF 3.553, 2021)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 21, No. 12, 6111-6119",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Study the Effects of Carbon Nanotubes and Graphene Oxide Combinations on the Mechanical Properties and Flame Retardance of Epoxy Nanocomposites",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Nanomaterials (Online ISSN: 1687-4129, Print ISSN: 1687-4110)",
+            "journal_ranking": "Scopus Q2 (IF 3.553, 2021)",
+            "citation_count": 5,
+            "volume_issue_pages": "Volume 2021, Issue 1 1437929",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Effect of the Morphological Characteristic and Composition of Electrospun Polyvinylidene Fluoride/Graphene Oxide Membrane on Its Pb2+ Adsorption Capacity",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Macromolecular Research (ISSN: 1598-5032)",
+            "journal_ranking": "ISI Q2, Scopus Q2 (IF 2.354, SCIE, 2022)",
+            "citation_count": 4,
+            "volume_issue_pages": "Volume 30, pages 124-135",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Thành phần hóa học của cao chiết ethyl acetate từ cây ba chẽ Desmodium triangulare (Retz.) Merr",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Cần Thơ (ISSN: 1859-2333, e-ISSN: 2815-5599)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 58, số Chuyên đề khoa học tự nhiên (2022) 209-216",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Three New Glycosides From the Stems of Derris elliptica",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Communications (ISSN: 1555-9475, 1934-578X)",
+            "journal_ranking": "ISI Q3, Scopus Q3 (IF 1.898, SCIE, 2022)",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 17, Issue 9",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "Three new rotenoids from the stems of Derris elliptica and their anti-microbial activity",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Research (ISSN: 1478-6419, 1478-6427)",
+            "journal_ranking": "ISI Q2, Scopus Q2 (IF 2.520, SCIE, 2022)",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 37, Issue 16, 2704-2711",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "A new lignanamide from the stems of Derris elliptica (Wall.) Benth with antimicrobial and anti-inflammatory activities",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry (Online ISSN: 2572-8288, Print ISSN: 2572-8288)",
+            "journal_ranking": "ISI Q3, Scopus Q3 (IF 0.992, ESCI, 2022)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 60, Issue S1 p. 129-134",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Tổng hợp và thử hoạt tính in vitro kháng nấm, kháng khuẩn của hợp chất đồng (II) xitrat, định hướng làm chế phẩm phòng bệnh trên cây trồng",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam (ISSN: 1859-4794)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64 - Số 11, 38-43",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Characterization of thymol derivatives from Eupatorium fortunei Turcz. aerial parts",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Research (ISSN: 1478-6419, 1478-6427)",
+            "journal_ranking": "ISI Q2, Scopus Q2 (IF 2.285, SCIE, 2023)",
+            "citation_count": 4,
+            "volume_issue_pages": "",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Discovery of Two New Dibenzocyclooctadiene Lignans Cauliflorins A and B from Schisandra cauliflora",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Communications (ISSN: 1555-9475, 1934-578X)",
+            "journal_ranking": "ISI Q3, Scopus Q3 (IF 1.612, SCIE, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 18(5): 1-5",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Investigation on chemical constituents from Sigesbeckia orientalis",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry (Online ISSN: 2572-8288, Print ISSN: 2572-8288)",
+            "journal_ranking": "ISI Q3, Scopus Q3 (IF 1.272, ESCI, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 61, Issue S3 p. 21-27",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Isocucurbic Acid Derivatives and Soluble Epoxide Hydroxylase Inhibitors from the Flowers of Chrysanthemum indicum L.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry & Biodiversity (ISSN: 1612-1872, 1612-1880)",
+            "journal_ranking": "ISI Q2, Scopus Q2 (IF 2.468, SCIE, 2023)",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 20, e202301242",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Isolation of two cycloartane-type saponins from Radix astragali membranacei",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of SCIENCE & TECHNOLOGY (P-ISSN: 1859-3585, E-ISSN: 2615-9619)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 59-No. 6B 135-139",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Investigate the antioxidant and anti-osteoporosis activities of compounds isolated from Chrysanthemum indicum flowers",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of SCIENCE & TECHNOLOGY (P-ISSN: 1859-3585, E-ISSN: 2615-9619)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 59-No. 6B 116-121",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Bước đầu nghiên cứu thành phần hóa học của lá cây khế (Averrhoa carambola L.)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Quân sự (ISSN: 1859-0748)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 48 Số chuyên đề Dược học",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "New Solasodine-Type Glycoalkaloids Isolated from Solanum nigrum and Their Cytotoxic Activity",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry & Biodiversity (ISSN: 1612-1872, 1612-1880)",
+            "journal_ranking": "ISI Q2, Scopus Q2 (IF 2.468, SCIE, 2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 21, e202400872",
+            "published_date": "06/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu chế tạo và phân tích các đặc trưng của vật liệu polyvinylidiene fluoride/graphene oxide/chitosan (PVDF/GO/CS) ứng dụng làm màng lọc hấp phụ để loại bỏ kim loại nặng trong nước",
+            "role": "Assistant",
+            "project_code": "104.02-2019.30",
+            "management_level": "Nafosted (Cấp bộ)",
+            "period": "09/2019-09/2022",
+            "acceptance_date": "11/12/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu sử dụng tro bay nhà máy nhiệt điện làm phụ gia chế tạo vật liệu epoxy Epikote 240 composite gia cường bằng graphene oxide (GO)",
+            "role": "Principal Investigator",
+            "project_code": "14-2020-RD/HĐ-ĐHCN",
+            "management_level": "Cấp Trường",
+            "period": "01/06/2020-01/06/2021",
+            "acceptance_date": "22/12/2021",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu thành phần hóa học và hoạt tính sinh học của loài Derris elliptica (Wall.) Benth",
+            "role": "Principal Investigator",
+            "project_code": "GUST.STS.ĐT2020-HH12",
+            "management_level": "Cấp Học viện",
+            "period": "09/2020-09/2022",
+            "acceptance_date": "27/09/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu phân lập một số thành phần hóa học trong hoa của cây cúc hoa vàng (Chrysanthemum indicum L.) để khảo sát khả năng ức chế enzym soluble epoxide hydrolase",
+            "role": "Principal Investigator",
+            "project_code": "49-2022-RD/HĐ-ĐHCN",
+            "management_level": "Cấp Trường",
+            "period": "01/06/2022-31/05/2023",
+            "acceptance_date": "05/01/2024",
+            "rating": "Khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Nguyên lý sản xuất sạch hơn",
+            "type": "Textbook",
+            "publisher": "NXB Thống kê",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 185 to p. 230",
+            "verification_document_id": "143/GXN-ĐHCN, 10/06/2024"
+        }
+    ],
+    "patents": [
+        {
+            "title": "Alkyne bearing polymers in backbone as an charge transport layer for organic electronic devices KR20130035906",
+            "issuing_authority": "Cục sở hữu trí tuệ Hàn Quốc",
+            "issue_date": "09/04/2013",
+            "is_main_inventor": false,
+            "num_inventors": 5
+        },
+        {
+            "title": "Novel conjugated polymer and organo-electronic device using the same KR20150106559 (A)",
+            "issuing_authority": "Cục sở hữu trí tuệ Hàn Quốc",
+            "issue_date": "22/09/2015",
+            "is_main_inventor": false,
+            "num_inventors": 5
+        }
+    ],
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng đề cương chi tiết học phần Công nghệ sơn (CT6042)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng đề cương chi tiết học phần Thực hành tổng hợp hữu cơ (CT6178)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng đề cương chi tiết học phần Polymer phân hủy sinh học (CT6114)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng đề cương chi tiết học phần Thực hành dược liệu (CT6208)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng hướng dẫn tổ chức dạy học học phần Công nghệ sơn (CT6042)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng hướng dẫn tổ chức dạy học học phần Thực hành tổng hợp hữu cơ (CT6178)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng hướng dẫn tổ chức dạy học học phần Polymer phân hủy sinh học (CT6114)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng hướng dẫn tổ chức dạy học học phần Thực hành dược liệu (CT6208)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng hướng dẫn đánh giá kết quả học phần Công nghệ sơn (CT6042)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Biên soạn bài giảng kết hợp học phần Công nghệ sơn (CT6042)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Biên soạn bài giảng kết hợp học phần Hóa học và công nghệ polymer (CT6076)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "",
+            "certifying_authority": "Trường Đại học Công nghiệp Hà Nội",
+            "implementation_document_id": "",
+            "notes": ""
+        }
+    ]
+}

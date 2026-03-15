@@ -1,0 +1,372 @@
+{
+    "papers": [
+        {
+            "title": "Các phương pháp đánh giá chất lượng quản trị doanh nghiệp trên thế giới và khả năng áp dụng cho các doanh nghiệp Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Quản lý kinh tế ISSN 1859-039X",
+            "journal_ranking": "null",
+            "citation_count": 33,
+            "volume_issue_pages": "9-22",
+            "published_date": "2010"
+        },
+        {
+            "title": "Chuỗi giá trị dịch vụ công: Kinh nghiệm từ Canada và New Zealand",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Quốc gia Hà Nội, Chuyên san Kinh tế và kinh doanh ISSN: 0866 - 8612",
+            "journal_ranking": "null",
+            "citation_count": 26,
+            "volume_issue_pages": "218-231",
+            "published_date": "2010"
+        },
+        {
+            "title": "Các xu hướng hiện đại trong quản trị dịch vụ thuộc khu vực công trên thế giới",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Quản lý kinh tế ISSN 1859-039X",
+            "journal_ranking": "null",
+            "citation_count": 32,
+            "volume_issue_pages": "55-64",
+            "published_date": "2010"
+        },
+        {
+            "title": "Mô hình Ủy ban giám sát và quản lý tài sản nhà nước Trung Quốc",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Quốc gia Hà Nội, Kinh tế và kinh doanh ISSN: 0866 - 8612",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 27, số 1, 42-51",
+            "published_date": "2011"
+        },
+        {
+            "title": "Cuộc tìm kiếm chủ nhân đích thực và chính sách giám sát doanh nghiệp nhà nước",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Quản lý nhà nước ISSN: 0868 - 2828",
+            "journal_ranking": "null",
+            "citation_count": 185,
+            "volume_issue_pages": "47-51",
+            "published_date": "6/2011"
+        },
+        {
+            "title": "Các mô hình tổ chức quản lý phần vốn ngân sách trong doanh nghiệp nhà nước trên thế giới",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Quản lý kinh tế ISSN 1859-039X",
+            "journal_ranking": "null",
+            "citation_count": 38,
+            "volume_issue_pages": "33-40",
+            "published_date": "2011"
+        },
+        {
+            "title": "Current Issues of Environmental Management in Vietnam: The Case of VEDAN",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Information and Management ISSN: 1882-2614",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 33, No. 1, June 2012, pp 199-209",
+            "published_date": "2012"
+        },
+        {
+            "title": "Corporate Governance Quality: Vietnam Needs to Implement Economics, Business and Geopolitics University Courses",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Global Policy and Governance ISSN: 2194-7740",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 1(1): 95-107",
+            "published_date": "2012"
+        },
+        {
+            "title": "Developments in corporate governance: The case of Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Corporate Ownership and Control ISSN: 1727-9232",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 11,
+            "volume_issue_pages": "(3C): 219-230",
+            "published_date": "2014"
+        },
+        {
+            "title": "Quản trị công ty đại chúng ở Việt Nam: chất lượng cải thiện chậm, đều giữa các nhóm doanh nghiệp",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Quản lý Kinh tế ISSN 1859-039X",
+            "journal_ranking": "null",
+            "citation_count": 71,
+            "volume_issue_pages": "52-65",
+            "published_date": "2015"
+        },
+        {
+            "title": "Các yếu tố quyết định thành công của một khởi nghiệp sáng tạo và vấn đề thực tế của Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc tế \"International Conference on Startup and Innovation Nation\" ISBN: 978-604-79-1930-7",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "1171-1191",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Hệ sinh thái khởi nghiệp đổi mới sáng tạo và chính sách hỗ trợ phát triển: Đánh giá tại bốn địa phương Cần Thơ, Đà Nẵng, Hà Nội và Thành phố Hồ Chí Minh",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc tế \"International Conference on Startup and Innovation Nation\" ISBN: 978-604-79-1930-7",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "1065-1080",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Chính phủ trở thành khách hàng của Startup: Bước đột phá hỗ trợ hệ sinh thái khởi nghiệp sáng tạo",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kinh tế và Phát triển ISSN 1859-0012",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "266, 32-41",
+            "published_date": "8/2019"
+        },
+        {
+            "title": "Vai trò chủ đạo của kinh tế nhà nước tại Việt Nam: Quản trị công ty đang là động lực mạnh mẽ nhất",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kinh tế và Dự báo ISSN: 0866 - 7120",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "717, 16-20",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Công viên khoa học như là trung tâm của hệ sinh thái khởi nghiệp đổi mới sáng tạo: góc nhìn hệ thống và những hàm ý cho Thành phố Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học Thương mại ISSN: 1859 - 3666",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "141, 55-62",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "Khởi nghiệp đổi mới sáng tạo và chính sách hỗ trợ phát triển: Nghiên cứu cho thành phố Đà Nẵng",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu hội thảo CFAC2021: Đổi mới công nghệ, thị trường và chính sách ISBN: 978-604-79-2819-4",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "463-485",
+            "published_date": "7/2021"
+        },
+        {
+            "title": "Lược sử phát triển khởi nghiệp đổi mới sáng tạo tại Việt Nam và vai trò của chính sách nhà nước",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học Thương mại ISSN: 1859 – 3666",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "157, 107-116",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Tác động của hệ thống đổi mới quốc gia đến hệ sinh thái khởi nghiệp đổi mới sáng tạo: Trường hợp Vùng kinh tế trọng điểm phía Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và kinh doanh - Đại học Quốc gia Hà Nội ISSN: 2734-9845; 0866-8612",
+            "journal_ranking": "null",
+            "citation_count": 2,
+            "volume_issue_pages": "(1), 109-117",
+            "published_date": "2022"
+        },
+        {
+            "title": "Quản trị kinh doanh trong nền kinh tế số: Sự bất cân xứng giữa thực tiễn và nghiên cứu hàn lâm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo Quốc gia “Quản trị kinh doanh trong nền kinh tế số\" ISBN: 978-604-339-759-8",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "8-28",
+            "published_date": "1/2022"
+        },
+        {
+            "title": "Selfish personalities influencing start-up intention and motivation: a study of Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Innovation and Entrepreneurship ISSN: 2192-5372",
+            "journal_ranking": "Scopus Q2 Management Q1 cao nhất",
+            "citation_count": 0,
+            "volume_issue_pages": "11, 15",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Tác động của mối quan hệ giữa người lãnh đạo và nhân viên đến kết quả công việc của nhân viên môi giới bất động sản tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kinh tế và Phát triển ISSN 1859-0012",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "306, 51-59",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "The impact of young employees' perceptions of current paid jobs on the entrepreneurial intention with the mediator of job satisfaction: The case of Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Entrepreneurial Business and Economics Review ISSN: 2353-8821",
+            "journal_ranking": "Scopus Q2 Business Q1 cao nhất",
+            "citation_count": 0,
+            "volume_issue_pages": "10(4), 55-71",
+            "published_date": "2022"
+        },
+        {
+            "title": "Chuyển đổi số cơ sở giáo dục đại học nhìn từ mô hình trưởng thành số: Nghiên cứu trường hợp Trường Đại học Kinh tế - Luật",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển khoa học & Công nghệ: Chuyên san Kinh tế - Luật và Quản lý (STDJELM) ISSN: 2588 - 1051",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "7(2), 4355-4370",
+            "published_date": "2023"
+        },
+        {
+            "title": "Corporate Governance and Stakeholders' Wealth in ASEAN Listed Companies: From Creation to Redistribution",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Business and Emerging Markets ISSN: 1753-6219",
+            "journal_ranking": "Scopus Q3 Business and International Management",
+            "citation_count": 0,
+            "volume_issue_pages": "16 (2) 170 - 188",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu về kinh tế tuần hoàn: Một phân tích trắc lượng thư mục dựa trên cơ sở dữ liệu SCOPUS",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo Quốc gia \"Kinh tế tuần hoàn - Kinh tế bền vững - Marketing xanh - ESR2024\" ISBN: 978-604-79-4259-6",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "56-66",
+            "published_date": "2024"
+        },
+        {
+            "title": "The organisational impact of agility – A systematic literature review",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Management Review Quarterly Electronic ISSN: 2198-1639 Print ISSN: 2198-1620",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "null",
+            "published_date": "21/6/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Đánh giá chất lượng quản trị công ty của các công ty cổ phần niêm yết trên Sở giao dịch chứng khoán Hà Nội sử dụng bộ tiêu chuẩn Gov-Score",
+            "role": "Participant",
+            "project_code": "QK.10.13",
+            "management_level": "Trường Đại học Kinh tế, Đại học Quốc gia Hà Nội",
+            "period": "10/2010 - 10/2012",
+            "acceptance_date": "04/01/2012",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Quản trị công ty đại chúng tại Việt Nam",
+            "role": "Participant",
+            "project_code": "QG.11.35",
+            "management_level": "Đại học Quốc gia Hà Nội",
+            "period": "07/2011 - 06/2013",
+            "acceptance_date": "24/9/2013",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Chất lượng quản trị công ty và kết quả kinh doanh: Nghiên cứu thực nghiệm doanh nghiệp niêm yết khu vực ASEAN",
+            "role": "Principal Investigator",
+            "project_code": "CS/2018-08; 142/QĐ-ĐHKTL",
+            "management_level": "Cấp cơ sở",
+            "period": "11/2018 - 11/2019",
+            "acceptance_date": "29/11/2019",
+            "rating": "Khá"
+        },
+        {
+            "title": "Đánh giá thực trạng cơ chế hỗ trợ khởi nghiệp đổi mới sáng tạo được ban hành và vận dụng tại các thành phố Hà Nội, Hồ Chí Minh, Đà Nẵng và Cần Thơ",
+            "role": "Principal Investigator",
+            "project_code": "370/QĐ-ĐHKTAL",
+            "management_level": "Đề tài cấp Quốc gia",
+            "period": "null",
+            "acceptance_date": "10 tháng 3 năm 2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu, đề xuất hoàn thiện cơ chế đặc thù hỗ trợ khởi nghiệp thí điểm tại các địa phương có nhu cầu và tiềm lực phát triển hoạt động khởi nghiệp sáng tạo",
+            "role": "Principal Investigator",
+            "project_code": "KMĐMST.NV2NC.KTL.18-18",
+            "management_level": "Đề tài cấp quốc gia",
+            "period": "2018 - 2022",
+            "acceptance_date": "13/8/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xác định mục tiêu cụ thể về quản trị công ty giai đoạn 2011-2020, phân theo mức độ: quyền tự do kinh doanh và bình đẳng giữa các thành phần kinh tế, quy chế hoạt động của các tập đoàn, phân định quyền sở hữu và đề xuất phương hướng hoàn thiện giai đoạn 2021-2030",
+            "role": "null",
+            "project_code": "02/53/HĐGNV-TBTKTXH/NV16/2019",
+            "management_level": "Đề tài cấp bộ trọng điểm",
+            "period": "2019-2020",
+            "acceptance_date": "30 tháng 5 năm 2020",
+            "rating": "null"
+        },
+        {
+            "title": "Đánh giá hiệu quả cạnh tranh, thiết lập kênh phân phối, khai thác, mở rộng thị trường chiếm lĩnh thị phần và phát triển sản phẩm trong chuỗi liên kết toàn cầu của doanh nghiệp giai đoạn 2011-2020 và phương hướng đề xuất cho giai đoạn 2021-2030",
+            "role": "null",
+            "project_code": "53/HĐGNV-TBTKTXH",
+            "management_level": "Đề tài cấp bộ trọng điểm",
+            "period": "2019 - 2020",
+            "acceptance_date": "28 tháng 6 năm 2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nhiệm vụ nghiên cứu số 16 của Tiểu ban Kinh tế - Xã hội - Đại hội đại biểu toàn quốc lần thứ XIII của Đảng- thuộc Bộ Kế hoạch và Đầu tư: “Đánh giá việc thực hiện các mục tiêu, nhiệm vụ của doanh nghiệp Việt Nam (thuộc mọi hình thức sở hữu) thời kỳ 2011-2020 và phương hướng, mục tiêu của thời kỳ 2021-2030, kế hoạch 5 năm 2021-2025\"",
+            "role": "null",
+            "project_code": "85/QĐ-BKH-ĐT",
+            "management_level": "Đề tài cấp bộ trọng điểm",
+            "period": "2019 - 2020",
+            "acceptance_date": "30 tháng 6 năm 2020",
+            "rating": "null"
+        },
+        {
+            "title": "Quản trị trường đại học trong bối cảnh chuyển đổi số:",
+            "role": "Participant",
+            "project_code": "C2020-34-08",
+            "management_level": "null",
+            "period": "2020 - 2022",
+            "acceptance_date": "31/10/2023",
+            "rating": "null"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giải mã chiến lược Đông - Tây",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Quốc gia Hà Nội",
+            "publish_year": "2020",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "67-141",
+            "verification_document_id": "Giấy xác nhận sử dụng sách làm giáo trình, tài liệu tham khảo, chuyên khảo của Trường ĐH Kinh tế - Luật ký ngày 12/6/2023 và 17/6/2024"
+        },
+        {
+            "title": "Board Directors, Financial Derivatives, and Corporate Governance: The Case of Vietnam",
+            "type": "Monograph",
+            "publisher": "Springer Nature",
+            "publish_year": "2022",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ sách",
+            "verification_document_id": "Giấy xác nhận sử dụng sách làm giáo trình, tài liệu tham khảo, chuyên khảo của Trường ĐH Kinh tế - Luật ký ngày 12/6/2023 và 17/6/2024"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

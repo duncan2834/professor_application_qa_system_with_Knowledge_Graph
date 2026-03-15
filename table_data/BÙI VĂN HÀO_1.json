@@ -1,0 +1,674 @@
+{
+    "papers": [
+        {
+            "title": "Growth Kinetics and Oxidation Mechanism of ALD TiN Thin Films Monitored by In Situ Spectroscopic Ellipsometry",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of The Electrochemical Society",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.3; Q1",
+            "citation_count": 83,
+            "volume_issue_pages": "158, 3, H214-H220",
+            "published_date": "01/2011"
+        },
+        {
+            "title": "Growth of Sub-Nanometer Thin Continuous TiN Films by Atomic Layer Deposition",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "ECS Journal of Solid State Science and Technology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.2; Q3",
+            "citation_count": 20,
+            "volume_issue_pages": "1, 6, P285-P290",
+            "published_date": "10/2012"
+        },
+        {
+            "title": "On the difference between optically and electrically determined resistivity of ultra-thin titanium nitride films",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Surface Science",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.9; Q1",
+            "citation_count": 61,
+            "volume_issue_pages": "269 45-49",
+            "published_date": "03/2013"
+        },
+        {
+            "title": "Conduction and electric field effect in ultra-thin TiN films",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Physics Letters",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.6; Q1",
+            "citation_count": 24,
+            "volume_issue_pages": "103 051904",
+            "published_date": "07/2013"
+        },
+        {
+            "title": "Hot-wire generated atomic hydrogen and its impact on thermal ALD in TiCl4/NH3 system",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "ECS Journal of Solid State Science and Technology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.2; Q3",
+            "citation_count": 16,
+            "volume_issue_pages": "2, 4, P149-P155",
+            "published_date": "02/2013"
+        },
+        {
+            "title": "Self-Limiting Growth and Thickness- and Temperature-Dependence of Optical Constants of ALD AlN Thin Films",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "ECS Journal of Solid State Science and Technology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.2; Q3",
+            "citation_count": 50,
+            "volume_issue_pages": "3, 4, P101-P106",
+            "published_date": "02/2014"
+        },
+        {
+            "title": "Core level excitations—A fingerprint of structural and electronic properties of epitaxial silicene",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Chemical Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.1; Q1",
+            "citation_count": 29,
+            "volume_issue_pages": "140, 18, 184704",
+            "published_date": "05/2014"
+        },
+        {
+            "title": "Interaction of epitaxial silicene with overlayers formed by exposure to Al atoms and O2 molecules",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Chemical Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.1; Q1",
+            "citation_count": 28,
+            "volume_issue_pages": "140, 20, 204705",
+            "published_date": "05/2014"
+        },
+        {
+            "title": "Initial growth, refractive index, and crystallinity of thermal and plasma-enhanced atomic layer deposition AlN films",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Vacuum Science & Technology A",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.1; Q2",
+            "citation_count": 69,
+            "volume_issue_pages": "33, 1, 01A111",
+            "published_date": "01/2015"
+        },
+        {
+            "title": "On the feasibility of silicene encapsulation by AlN deposited using an atomic layer deposition process",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Chemical Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.1; Q1",
+            "citation_count": 14,
+            "volume_issue_pages": "142, 6, 064702",
+            "published_date": "02/2015"
+        },
+        {
+            "title": "Structural and photoluminescent properties of nanosized BaMgAl10O17:Eu2+ blue-emitting phosphors prepared by sol-gel method",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - ESCI IF: 2.1; Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "6, 3, 035013",
+            "published_date": "06/2015"
+        },
+        {
+            "title": "A nitride-based epitaxial surface layer formed by ammonia treatment of silicene-terminated ZrB2",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Chemical Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.1; Q1",
+            "citation_count": 7,
+            "volume_issue_pages": "144, 13, 134703",
+            "published_date": "04/2016"
+        },
+        {
+            "title": "Enhanced Barrier Performance of Engineered Paper by Atomic Layer Deposited Al2O3 Thin Films",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "ACS Applied Materials & Interfaces",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 8.2; Q1",
+            "citation_count": 23,
+            "volume_issue_pages": "8, 21, 13590-13600",
+            "published_date": "06/2016"
+        },
+        {
+            "title": "Atomic and molecular layer deposition: off the beaten track",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemical Communications",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.2; Q1",
+            "citation_count": 276,
+            "volume_issue_pages": "53, 1, 45-71",
+            "published_date": "01/2017"
+        },
+        {
+            "title": "Room-temperature pulsed CVD-grown SiO2 protective layer on TiO2 particles for photocatalytic activity suppression",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "RSC Advances",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.6; Q1",
+            "citation_count": 46,
+            "volume_issue_pages": "7, 8, 4547-4554",
+            "published_date": "08/2017"
+        },
+        {
+            "title": "Advances in scalable gas-phase manufacturing and processing of nanostructured solids: A review",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Particuology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.3; Q1",
+            "citation_count": 40,
+            "volume_issue_pages": "30 15-39",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "Understanding and Controlling the Aggregative Growth of Platinum Nanoparticles in Atomic Layer Deposition: an Avenue to Size Selection",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Physical Chemistry Letters",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.6; Q1",
+            "citation_count": 140,
+            "volume_issue_pages": "8, 5, 975-983",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Low-Temperature Atomic Layer Deposition Delivers More Active and Stable Pt-Based Catalysts",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nanoscale",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.1; Q1",
+            "citation_count": 24,
+            "volume_issue_pages": "9, 30, 10802-10810",
+            "published_date": "08/2017"
+        },
+        {
+            "title": "Luminescent properties and microstructure of SiC doped AlON:Eu2+ phosphors",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.3; Q1",
+            "citation_count": 12,
+            "volume_issue_pages": "725 217-226",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Enhanced ferromagnetism in graphite-like carbon layer-coated ZnO crystals",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.3; Q1",
+            "citation_count": 10,
+            "volume_issue_pages": "695 233-237",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "From Single Atoms to Nanoparticles: Autocatalysis and Metal Aggregation in Atomic Layer Deposition of Pt on TiO2 Nanopowder",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Small",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 12.1; Q1",
+            "citation_count": 74,
+            "volume_issue_pages": "14, 23, 1800765",
+            "published_date": "06/2018"
+        },
+        {
+            "title": "Suppressing the photocatalytic activity of TiO2 nanoparticles by extremely thin Al2O3 films grown by gas-phase deposition at ambient conditions",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nanomaterials",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.3; Q1",
+            "citation_count": 50,
+            "volume_issue_pages": "8, 2, 61",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "High thermoelectric power factor in SnSe2 thin film grown on Al2O3 substrate",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Research Express",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.2; Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "6, 6, 066420",
+            "published_date": "03/2019"
+        },
+        {
+            "title": "Evolution of microstructure and anti-oxidation ability of ZrB2 improved by a unique inert glass phase",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.6; Q1",
+            "citation_count": 10,
+            "volume_issue_pages": "45, 11, 14291-14296",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Enhancing the luminescent efficiency of Y3Al5O12:Ce3+ by coating graphitic carbon nitride: Toward white light-emitting diodes",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.3; Q1",
+            "citation_count": 41,
+            "volume_issue_pages": "801 10-18",
+            "published_date": "09/2019"
+        },
+        {
+            "title": "Surface oxygen vacancies of ZnO: A facile fabrication method and their contribution to the photoluminescence",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.3; Q1",
+            "citation_count": 83,
+            "volume_issue_pages": "791 722-729",
+            "published_date": "06/2019"
+        },
+        {
+            "title": "Optical Analysis Using Effective Medium Theory and Finite Element Method to Study the Enhanced Light Absorption in Porous BaMgAl10O17:Eu2+ Phosphor",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Physics of the Solid State",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 1.8; Q4",
+            "citation_count": 1,
+            "volume_issue_pages": "61 1450-1455",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Achieving an efficient La3Si8N11O4: Eu2+ phosphor via chemical reduction of nano-scale carbon film: Toward white light-emitting diodes",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.3; Q1",
+            "citation_count": 29,
+            "volume_issue_pages": "799 360-367",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Facile synthesis of single phase α-Zn2SiO4:Mn2+ phosphor via high-energy planetary ball milling and post-annealing method",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Luminescence",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.6; Q2",
+            "citation_count": 37,
+            "volume_issue_pages": "215 116612",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Omnidirectional Au-embedded ZnO/CdS core/shell nanorods for enhanced photoelectrochemical water-splitting efficiency",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemical Communications",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.2; Q1",
+            "citation_count": 26,
+            "volume_issue_pages": "56, 28, 3975-3978",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "Tuning the photocatalytic activity of TiO2 nanoparticles by ultrathin SiO2 films grown by low-temperature atmospheric pressure atomic layer deposition",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Surface Science",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.9; Q1",
+            "citation_count": 49,
+            "volume_issue_pages": "530 147244",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Hydrophobic surface modification toward highly stable K2SiF6:Mn4+ phosphor for white light-emitting diodes",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.6; Q1",
+            "citation_count": 58,
+            "volume_issue_pages": "46, 7, 8811-8818",
+            "published_date": "05/2020"
+        },
+        {
+            "title": "Synthesis of a Rationally Designed Multi-Component Photocatalyst Pt:SiO2:TiO2(P25) with Improved Activity for Dye Degradation by Atomic Layer Deposition",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nanomaterials",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.3; Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "10, 8, 1496",
+            "published_date": "07/2020"
+        },
+        {
+            "title": "Titanium Nitride Nanodonuts Synthesized from Natural Ilmenite Ore as a Novel and Efficient Thermoplasmonic Material",
+            "num_authors": 15,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nanomaterials",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.3; Q1",
+            "citation_count": 15,
+            "volume_issue_pages": "11, 1, 76",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Controlled growth of TiO2 nanoparticles on graphene by hydrothermal method",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science: Advanced Materials and Devices",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.8; Q1",
+            "citation_count": 37,
+            "volume_issue_pages": "6, 4, 516-527",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Controlled growth of ultrasmall Cu2O clusters on TiO2 nanoparticles by atmospheric-pressure atomic layer deposition for enhanced photocatalytic activity",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nanotechnology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.8; Q2",
+            "citation_count": 11,
+            "volume_issue_pages": "32, 42, 425601",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "Simultaneous enhancement of specific capacitance and potential window of graphene-based electric double-layer capacitors using ferroelectric polymers",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Power Sources",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 7.9; Q1",
+            "citation_count": 11,
+            "volume_issue_pages": "507 230268",
+            "published_date": "09/2021"
+        },
+        {
+            "title": "TiO2 Inverse Opals Modified by Ag Nanoparticles: A Synergic Effect of Enhanced Visible-Light Absorption and Efficient Charge Separation for Visible-Light Photocatalysis",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Catalysts",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.0; Q2",
+            "citation_count": 13,
+            "volume_issue_pages": "11, 7, 761",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "A new thermal degradation mechanism of red Sr2Si5N8:Eu phosphor: From the view of microstructural evolution",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optical Materials",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.2; Q1",
+            "citation_count": 16,
+            "volume_issue_pages": "121 111506",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Low-operating temperature and remarkably responsive methanol sensors using Pt-decorated hierarchical ZnO structure",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nanotechnology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.8; Q2",
+            "citation_count": 6,
+            "volume_issue_pages": "33, 6, 065502",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Gold nanoparticle-based optical nanosensors for food and health safety monitoring: recent advances and future perspectives",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "RSC Advances",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.6; Q1",
+            "citation_count": 67,
+            "volume_issue_pages": "12, 18, 10950-10988",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Dual promotional effect of CuxO clusters grown with atomic layer deposition on TiO2 for photocatalytic hydrogen production",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Catalysis Science & Technology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.2; Q2",
+            "citation_count": 12,
+            "volume_issue_pages": "12, 14, 4511-4523",
+            "published_date": "07/2022"
+        },
+        {
+            "title": "Enhanced anti-corrosion and microwave absorption performance with carbonyl iron modified by organic fluorinated chemicals",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Surface Science",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.9; Q1",
+            "citation_count": 75,
+            "volume_issue_pages": "572 151320",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Silicone-encapsulated carbonyl iron filler for corrosion-resistant electromagnetic shielding",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Chemistry and Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.7; Q1",
+            "citation_count": 21,
+            "volume_issue_pages": "282 125918",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Mechanistic insight into the improved photocatalytic degradation of dyes for an ultrathin coating of SiO2 on TiO2 (P25) nanoparticles",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemical Engineering Journal Advances",
+            "journal_ranking": "Tạp chí quốc tế uy tín - ESCI IF: 7.1; Q1",
+            "citation_count": 21,
+            "volume_issue_pages": "10 100288",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "Reactions between SiCl4 and H2O on rutile TiO2 surfaces in atomic layer deposition of SiO2 by first-principles calculations",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Surfaces and Interfaces",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.3; Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "36 102454",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Dimension Control of Platinum Nanostructures by Atomic Layer Deposition: From Surface Chemical Reactions to Applications",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry of Materials",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 7.0; Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "35, 6, 2248-2280",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Achieving a thermally stable Eu2+-doped Sr2Si5N8 phosphor via adjusting the lattice defects of oxygen atoms and protection by the graphene-like multilayer",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.6; Q1",
+            "citation_count": 11,
+            "volume_issue_pages": "49, 12, 20159-20167",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Novel efficient solar spherical evaporators with adjustable pores to control water supply and evaporation",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.3; Q1",
+            "citation_count": 8,
+            "volume_issue_pages": "960 170674",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Enhanced photocatalytic degradation of organic dyes using Ce-doped TiO2 thin films",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Sol-Gel Science and Technology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.2; Q2",
+            "citation_count": 13,
+            "volume_issue_pages": "108 423-434",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Unraveling the limiting factors to electron mobility in degenerately doped SnO2 thin films",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.1; Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "14, 4, 045008",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Impact of air exposure on growth rate and electrical properties of SnO2 thin films by atmospheric pressure spatial atomic layer deposition",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Physics D- Applied Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.2; Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "57, 2, 025303",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Layer-by-layer thinning of two-dimensional materials",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemical Society Reviews",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 39.0; Q1",
+            "citation_count": 22,
+            "volume_issue_pages": "53, 10, 5190-5226",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Enhancing control in spatial atomic layer deposition: insights into precursor diffusion, geometric parameters, and CVD mitigation strategies",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nanotechnology",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.8; Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "35, 25, 205601",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Extending the modified steel slag cement into the hydrophobic and anti-icing application",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Today Communications",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.5; Q1",
+            "citation_count": 7,
+            "volume_issue_pages": "38 107843",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Fabrication of N-doped TiO2 and TiN nanorods by NH3 treatment: Evolution of morphology, structures, composition and optical properties",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Ceramics International",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.6; Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "50, 7, 10241-10251",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Enhancement of Photothermal Conversion by TiN Nanoparticles-Embedded Black Paint and Applications in Solar Drying of Red Chilli",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.2; Q2",
+            "citation_count": 17,
+            "volume_issue_pages": "17, 4393",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "What could be the low-temperature limit of atomic layer deposition of platinum using MeCpPtMe3 and oxygen?",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemical Communications",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.2; Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "60, 95, 14045-14048",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Theoretical Insights into Enhanced Photothermal Efficiency in Titanium Oxynitride",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "physica status solidi (RRL) – Rapid Research Letters",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.0; Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "19, 1, 2400208",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Atomic Layer Deposition of Platinum on the Oxygen-Pretreated Graphene Surface",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Physical Chemistry C",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.2; Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "129, 1, 705-714",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Toward extended release of metformin by room-temperature atomic layer deposition of thin SiO2 films",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Surface Science",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.9; Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "687 162283",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Spontaneous Reactions by Atomic Hydrogen – An Extraordinary Reactant for Atomic Layer Deposition of Platinum",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry of Materials",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 7.0; Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "37, 3, 964-974",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "Stable dispersion and prolonged dissolution of hydrophilic pharmaceutical achieved by room-temperature atmospheric pressure atomic layer deposition",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemical Communications",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.2; Q1",
+            "citation_count": 33,
+            "volume_issue_pages": "61, 33, 6186-6189",
+            "published_date": "04/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Biến tính bề mặt vật liệu nano titan ôxít (TiO2) bằng các hạt nano bán dẫn ôxít kim loại MxOy (M = Fe, Cu, W) sử dụng phương pháp lắng đọng đơn lớp nguyên tử từ pha hơi nhằm tăng cường hoạt tính xúc tác quang",
+            "role": "Principal Investigator",
+            "project_code": "103.02-2017.373",
+            "management_level": "cấp Nhà nước",
+            "period": "01/08/2018 - 01/08/2022",
+            "acceptance_date": "25/05/2023",
+            "rating": "Đạt"
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Vật liệu tiên tiến và Công nghệ nano",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 592/QĐ-ĐHP-ĐT, ngày 20/11/2020 của Hiệu trưởng Trường Đại học Phenikaa về việc thành lập tổ phát triển chương trình đào tạo Vật liệu tiên tiến và Công nghệ nano thuộc ngành Công nghệ vật liệu trình độ đại học, mã số 7510402.",
+            "certifying_authority": "Trường Đại học Phenikaa",
+            "implementation_document_id": "Quyết định số 169/QĐ-ĐHP-ĐT, ngày 19/03/2021 của Hiệu trưởng Trường Đại học Phenikaa về việc ban hành Chương trình đào tạo Vật liệu tiên tiến và Công nghệ nano thuộc ngành Công nghệ vật liệu trình độ đại học hệ chính quy, mã số 7510402.",
+            "notes": "Vai trò: Thư ký."
+        },
+        {
+            "title": "Chip bán dẫn và công nghệ đóng gói",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 2495/QĐ-ĐHP-ĐT, ngày 29/12/2023 của Hiệu trưởng Trường Đại học Phenikaa về việc thành lập Hội đồng xây dựng Chương trình đào tạo Chip bán dẫn và công nghệ đóng gói, trình độ đại học, ngành Kỹ thuật vật liệu, mã số 7520309.",
+            "certifying_authority": "Trường Đại học Phenikaa",
+            "implementation_document_id": "Quyết định số 936/QĐ-ĐHP-ĐT, ngày 26/4/2021 của Hiệu trưởng Trường Đại học Phenikaa về việc ban hành Chương trình đào tạo Chip bán dẫn và công nghệ đóng gói, trình độ đại học, ngành Kỹ thuật vật liệu, mã số 7520309.",
+            "notes": "Vai trò: Thư ký."
+        },
+        {
+            "title": "Vật liệu điện tử",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 1459/QĐ-ĐHP-ĐT, ngày 25/06/2024 của Hiệu trưởng Trường Đại học Phenikaa về việc thành lập Hội đồng xây dựng chương trình đào tạo trình độ tiến sĩ ngành Vật liệu điện tử, mã số 9440123.",
+            "certifying_authority": "Trường Đại học Phenikaa",
+            "implementation_document_id": "Quyết định số 2761/QĐ-ĐHP-ĐT, ngày 10/10/2024 của Hiệu trưởng Trường Đại học Phenikaa về việc ban hành Chương trình đào tạo ngành Vật liệu điện tử trình độ tiến sĩ, mã số 9440123.",
+            "notes": "Vai trò: Thành viên."
+        }
+    ]
+}

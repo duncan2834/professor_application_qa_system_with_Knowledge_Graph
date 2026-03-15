@@ -1,0 +1,988 @@
+{
+    "papers": [
+        {
+            "title": "Chất lượng cuộc sống người cao tuổi phường Đồng Quốc Bình, thành phố Hải Phòng năm 2013",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "23 (5), 111-116",
+            "published_date": "6/2013"
+        },
+        {
+            "title": "Các yếu tố về tinh thần - xã hội ảnh hưởng tới chất lượng cuộc sống người cao tuổi",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "23 (5), 117-122",
+            "published_date": "6/2013"
+        },
+        {
+            "title": "Đặc điểm bệnh tật của người dân huyện Tiên Lãng, thành phố Hải Phòng năm 2013",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "921, 104-108",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "Lựa chọn dịch vụ khám chữa bệnh của người dân huyện Tiên Lãng, Hải Phòng năm 2013",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "921, 387-390",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "Kiến thức, thực hành phòng chống bệnh tay chân miệng của bà mẹ có con dưới 5 tuổi tại xã Gia Xuyên, Gia Lộc, Hải Dương năm 2013",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "419 (2), 56-60",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến kiến thức, thực hành phòng chống bệnh tay chân miệng của bà mẹ có con dưới 5 tuổi tại xã Gia Xuyên, Gia Lộc, Hải Dương năm 2013",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "419 (1), 130-135",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "Thực trạng sử dụng thuốc trừ sâu tại 2 xã huyện An Lão, thành phố Hải Phòng năm 2012",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXIV, 9(158), 26-31",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Hiệu quả can thiệp truyền thông giáo dục cho người dân trong sử dụng và bảo quản thuốc trừ sâu tại xã Mỹ Đức, An Lão, Hải Phòng năm 2012",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXIV, 9(158), 41-46",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Thực trạng quản lý rác thải rắn Y tế tại 36 bệnh viện khu vực phía Bắc năm 2012",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXIV, 9(158), 64-69",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Thực trạng quản lý chất thải y tế tại các bệnh viện tuyến huyện tỉnh Hải Dương năm 2013",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXIV, 1(161), 61-68",
+            "published_date": "01/2015"
+        },
+        {
+            "title": "Kiến thức thực hành về quản lý chất thải y tế của nhân viên y tế tại các bệnh viện tuyến huyện tỉnh Hải Dương năm 2013",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXIV, 1(161), 91-97",
+            "published_date": "01/2015"
+        },
+        {
+            "title": "Thực trạng quản lý chất thải y tế rắn tại 22 bệnh viện khu vực miền Bắc năm 2014",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXV, 11(171), 78-85",
+            "published_date": "11/2015"
+        },
+        {
+            "title": "Kiến thức, thái độ với hút thuốc và một số yếu tố liên quan của học sinh trường THCS Như Quỳnh, Hưng Yên năm 2015",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học thực hành",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "994 (1), 11-14",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Thực trạng mắc tật khúc xạ của học sinh THCS quận Hồng Bàng thành phố Hải Phòng năm 2014",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học thực hành",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "994(1), 184-187",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Đặc điểm của bệnh nhân HIV/AIDS được quản lý tại Trung tâm y tế An Lão, thành phố Hải Phòng năm 2010-2014",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học thực hành",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "999 (3), 161-164",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Thực trạng công tác quản lý điều trị bệnh nhân HIV/AIDS tại Trung tâm y tế An Lão, thành phố Hải Phòng năm 2010-2014",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học thực hành",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1000 (3), 97-100",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Thực trạng tuân thủ điều trị của bệnh nhân điều trị ARV tại Trung tâm y tế An Lão, Hải Phòng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "440 (2), 167-171",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Tỷ lệ tiêm chủng đầy đủ và một số yếu tố liên quan ở trẻ dưới 1 tuổi tại 2 phường thuộc thị xã Đông Triều, Quảng Ninh - năm 2015",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1004, 444-447",
+            "published_date": "5/2016"
+        },
+        {
+            "title": "Thực trạng trầm cảm ở công nhân một công ty xi măng tại Hải Phòng năm 2015",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXVI, 14(187), 52-59",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến trầm cảm trên công nhân một công ty xi măng tại Hải Phòng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXVI, 14(187), 60-66",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Thực trạng môi trường lao động tại cơ sở dệt may Nam Định năm 2016",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXVI, 14(187), 129-136",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Sự hài lòng đối với công việc của nhân viên y tế Bệnh viện An Lão, Hải Phòng năm 2016",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXVI, 14(187), 137-143",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Cơ cấu bệnh tật của công nhân tại cơ sở dệt may Nam Định, năm 2016",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXVI, 14(187), 177-183",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Hiệu quả can thiệp truyền thông thay đổi kiến thức, thực hành về bệnh hen phế quản dị ứng do dị nguyên bụi bông của công nhân tại cơ sở dệt may Nam Định, năm 2016",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "27 (7), 206-212",
+            "published_date": "6/2017"
+        },
+        {
+            "title": "Thực trạng sử dụng nhiều thuốc ở bệnh nhân cao tuổi điều trị ngoại trú tại Bệnh viện An Dương, Hải Phòng năm 2017",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "27 (10), 84-89",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Thực trạng viêm mũi dị ứng ở học sinh trường Tiểu học Lê Hồng Phong, thành phố Hải Phòng năm 2017",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "27 (10), 90-95",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến tình trạng viêm mũi dị ứng ở học sinh trường Tiểu học Lê Hồng Phong, Hải Phòng năm 2017",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "27 (10), 96-102",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "The Cotton Dust-Related Allergic Asthma: Prevalence and Associated Factors among Textile Workers in Nam Dinh Province, Vietnam.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Environmental Research and Public Health",
+            "journal_ranking": "ISI, IF=4.614 (Q2)",
+            "citation_count": 6,
+            "volume_issue_pages": "18(8), 9813",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Predictors of eHealth Literacy and Its Associations with Preventive Behaviors, Fear of COVID-19, Anxiety, and Depression among Undergraduate Nursing Students: A Cross-Sectional Survey.",
+            "num_authors": 16,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Environmental Research and Public Health",
+            "journal_ranking": "ISI, IF=4.614 (Q2)",
+            "citation_count": 31,
+            "volume_issue_pages": "19(7), 3766",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Mortality benefits of reduction fine particulate matter in Vietnam, 2019",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Frontiers in Public Health",
+            "journal_ranking": "ISI, IF=6.461 (Q2)",
+            "citation_count": 7,
+            "volume_issue_pages": "10 (1056370)",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Suicidal ideation and its associated factors among high school adolescents in Haiphong, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Public Health and Development",
+            "journal_ranking": "Scopus, IF=0,16 (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.22 No.2 (1-12)",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Barriers to dietary adherence among Vietnamese type 2 diabetes mellitus patients: a hospital-based cross-sectional study in Haiphong",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Public Health and Development",
+            "journal_ranking": "Scopus, IF=0,16 (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.22 No.2 (39-53)",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Hiệu quả can thiệp điều trị viêm mũi dị ứng bằng Avamys ở học sinh Trung học cơ sở thành phố Vinh, tỉnh Nghệ An",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28(9), 19-26",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến viêm mũi dị ứng ở học sinh Trung học cơ sở thành phố Vinh, tỉnh Nghệ An năm 2015",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28(9), 27-33",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Các yếu tố liên quan đến hiệu quả điều trị ngoại trú bệnh tăng huyết áp tại bệnh viện Uông Bí, tỉnh Quảng Ninh năm 2018",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28(9), 41-46",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Thực trạng quản lý điều trị bệnh nhân tăng huyết áp điều trị ngoại trú tại Bệnh viện Uông Bí, tỉnh Quảng Ninh năm 2018",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28(9), 47-52",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Thực trạng sâu răng ở học sinh trường Tiểu học Lê Văn Tám, thành phố Hải Phòng năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28(9), 62-67",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Mối liên quan giữa một số yếu tố nhân khẩu học và chất lượng cuộc sống của bệnh nhân lọc máu chu kỳ tại Bệnh viện Việt Tiệp Hải Phòng năm 2017",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28(9), 84-89",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến bệnh sâu răng ở học sinh trường Tiểu học Lê Văn Tám, thành phố Hải Phòng năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28(9), 115-121",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Thực trạng nhiễm HIV và các hành vi nguy cơ ở nhóm phụ nữ bán dâm và nam quan hệ tình dục đồng giới qua giám sát trọng điểm tại Hải Phòng năm 2016",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28(9), 192-198",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Thực trạng nhiễm HIV và các hành vi nguy cơ trên nhóm nghiện chích ma túy giám sát trọng điểm tại Hải Phòng năm 2016",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "28(9), 199-205",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Thực trạng sức khỏe người cao tuổi trong một số câu lạc bộ sức khỏe tại Hải Phòng năm 2018",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "29 (9), 111-116",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Thực trạng mắc rối loạn trầm cảm của học sinh trường THPT Quốc Tuấn, An Lão, Hải Phòng năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "29 (9), 117-123",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến rối loạn trầm cảm ở học sinh trường THPT Quốc Tuấn, huyện An Lão, thành phố Hải Phòng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "29(9), 130-136",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Thực trạng rối loạn cơ xương trên lái xe taxi tại thành phố Hải Phòng năm 2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "29 (9), 237-244",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Nhu cầu chăm sóc sức khỏe của người cao tuổi trong một số câu lạc bộ sức khỏe tại Hải Phòng năm 2018",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 484 (Số đặc biệt), 175-180",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Thực trạng thể lực và cơ cấu bệnh tật của công nhân sản xuất thú nhồi bông tại công ty TNHH may xuất khẩu Minh Thành năm 2017",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 484 (Số đặc biệt), 221-227",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Kiến thức thực hành phòng chống đuối nước ở trẻ em dưới 15 tuổi của cha mẹ hoặc người chăm sóc trẻ và cán bộ y tế huyện Tuy Phước tỉnh Bình Định năm 2015",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "30 (1), 27-34",
+            "published_date": "01/2020"
+        },
+        {
+            "title": "Thực trạng quản lý điều trị ngoại trú bệnh nhân tăng huyết áp tại Trung tâm y tế huyện Nam Sách, Hải Dương năm 2018-2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31(1), 134-140",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến quản lý điều trị tăng huyết áp tại phòng khám Nội, khoa Khám bệnh, Trung tâm y tế huyện Nam Sách, tỉnh Hải Dương năm 2018-2019.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31(1), 141-147",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Thực trạng mang HbSAg và HBV DNA tải lượng cao ở phụ nữ mang thai đến khám và quản lý thai nghén tại Bệnh viện Phụ sản Hải Phòng, 10/2017-3/2018",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31(1), 189-195",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Thực trạng và một số yếu tố liên quan đến mất cân bằng giới tính khi sinh tại xã Hoa Động, huyện Thủy Nguyên thành phố Hải Phòng năm 2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31(1), 196-202",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Một số yếu tố ảnh hưởng đến tình trạng mất cân bằng giới tính khi sinh tại thành phố Hải Phòng năm 2018",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31(1), 210-217",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Lây truyền Vi rút viêm gan B từ mẹ sang con và một số yếu tố liên quan ở phụ nữ có HbSAg dương tính tại Bệnh viện Phụ sản Hải Phòng năm 2017-2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31(1), 227-235",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Đặc điểm dịch tễ học tai nạn thương tích và thực trạng sơ cấp cứu bệnh nhân tai nạn thương tích điều trị tại Bệnh viện Trẻ em Hải Phòng năm 2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31(1), 303-311",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, cận lâm sàng và kết quả nội soi mũi xoang điều trị viêm xoang hàm một bên",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "503 (số đặc biệt, phần 2), 329-338",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm mô bệnh học trong ung thư đại trực tràng tại Bệnh viện Hữu Nghị Đa khoa Nghệ An",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "503 (số đặc biệt, phần 2), 339-346",
+            "published_date": "2021"
+        },
+        {
+            "title": "Mối liên quan của các yếu tố mô bện học trong ung thư đại trực tràng tại Bệnh viện Hữu Nghị Đa khoa Nghệ An",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "503 (số đặc biệt, phần 2), 347-353",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nguồn nhân lực y tế tại Bệnh viện Nghệ An năm 2020",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31(5), 133-140",
+            "published_date": "7/2021"
+        },
+        {
+            "title": "Thực trạng tai nạn lao động và một số yếu tố liên quan của người lao động tại làng nghề đúc đồng xã Mỹ Đồng, huyện Thủy Nguyên, Thành phố Hải Phòng, năm 2020",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "32 (1), 122-129",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Thực trạng và nhu cầu đào tạo liên tục của bác sĩ, điều dưỡng tại Bệnh viện Đa khoa thành phố Vinh năm 2020",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "32 (1), 263-270",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến dấu hiệu trầm cảm của học sinh trường Trung học phổ thông Phan Đăng Lưu, Kiến An, Hải Phòng năm 2021",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "32 (1), 278-284",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến kiến thức, thái độ về sức khỏe sinh sản vị thành niên và thực hành tình dục an toàn của học sinh trường Trung học phổ thông Phan Đăng Lưu, Hải Phòng năm 2021",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "32 (1), 318-325",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến kiến thức, thực hành phòng chống bệnh dại của người dân tại huyện Yên Châu, tỉnh Sơn La năm 2019",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "32 (5), 95-104",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Sa sút trí tuệ và một số yếu tố liên quan ở người cao tuổi tại thành phố Hải Phòng năm 2022",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "32 (8), 146-153",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Knowledge, attitude, and practice on COVID-19 prevention of infected people in Hai Ha district, Quang Ninh, in 2022",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Preventive Medicine",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "32(9), 86-93",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "Thực trạng hành vi bạo lực học đường của học sinh trường Trung học cơ sở Đại Đức, huyện Kim Thành, Hải Dương năm 2022",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "33(1), 32-38",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Thực trạng kiến thức, thực hành của người có thẻ bảo hiểm y tế trong sử dụng dịch vụ khám chữa bệnh tại Bệnh viện Đại học Y Hải Phòng năm 2022",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "33(1), 55-63",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Thực trạng sử dụng thuốc trên bệnh nhân tăng huyết áp mắc kèm đái tháo đường tại phòng khám ngoại trú Bệnh viện Đại học Y Hải Phòng năm 2022",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "33(1), 93-100",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Thực trạng sử dụng hệ thống quản lý thông tin tiêm chủng quốc gia tại thị xã Quảng Yên, tỉnh Quảng Ninh năm 2022",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "527 (số đặc biệt), 3-9",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến mắc nhiều đợt cấp bệnh phổi tắc nghẽn mạn tính của bệnh nhân điều trị tại Bệnh viện Đa khoa tỉnh Quảng Ninh năm 2022",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "527 (số đặc biệt), 18-27",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến sức khỏe tâm thần của nhân viên y tế Bệnh viện Việt Nam - Thụy Điển Uông Bí tham gia chống dịch COVID-19 năm 2022",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "527 (số đặc biệt), 109-117",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Thực trạng và một số yếu tố liên quan mắc bệnh bụi phổi than ở công nhân khai thác hầm lò tại tỉnh Quảng Ninh, Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "527 (số đặc biệt), 118-126",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Thực trạng chất lượng số liệu được quản lý trên hệ thống thông tin tiêm chủng quốc gia tại thị xã Quảng Yên, tỉnh Quảng Ninh năm 2022",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "527 (số đặc biệt), 238-245",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Hiệu quả của can thiệp nuôi dưỡng sớm cho bệnh nhân phẫu thuật ống tiêu hóa tại Bệnh viện Kiến An, Hải Phòng năm 2020-2021",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "527 (số đặc biệt), 304-311",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến tuân thủ điều trị ở người bệnh đái tháo đường típ 2 điều trị ngoại trú tại Trung tâm Y tế thị xã Mỹ Hào, Hưng Yên năm 2023",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34(1), 9-16",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Khẩu phần ăn của bệnh nhân đái tháo đường týp 2 điều trị nội trú tại Bệnh viện Hữu Nghị Việt Tiệp năm 2022-2023",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34(1), 17-24",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Thực trạng và một số yếu tố liên quan đến tăng huyết áp ở người từ 40 tuổi trở lên tại huyện Cô Tô, Quảng Ninh năm 2022",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34(1), 25-32",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Kiến thức, thực hành và một số yếu tố liên quan đến sử dụng kháng sinh ở sinh viên y đa khoa, trường Đại học Y Dược Hải Phòng năm 2023",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34(1), 99-106",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Thực trạng và một số yếu tố liên quan đến kiến thức phòng chống bệnh Đậu mùa khỉ của sinh viên ngành bác sỹ Y học Dự phòng trường Đại học Y Hà Nội năm 2023",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34(1), 107-114",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Đặc điểm căng thẳng nghề nghiệp ở điều dưỡng viên lâm sàng tại Bệnh viện E năm 2023",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34(1), 135-143",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Thực trạng và ảnh hưởng của việc nghiện điện thoại thông minh đến sự tương tác xã hội của sinh viên y đa khoa trường đại học Y Dược Hải Phòng năm 2023",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34(1), 144-151",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Thực trạng kiến thức, thực hành vệ sinh bàn tay của nhân viên y tế tại Bệnh viện Đại học Y Hải Phòng năm 2023",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34(1), 152-158",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Kiến thức, thái độ về sức khỏe sinh sản và thực hành tình dục an toàn của học sinh trung học phổ thông huyện Ninh Giang, Hải Dương năm 2022",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học dự phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34(1), 159-168",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của bệnh nhân đái tháo đường týp 2 tại Bệnh viện Hữu Nghị Việt Tiệp năm 2022 - 2023",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "539 (số đặc biệt), 172-178",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Thực trạng quản lý điều trị ngoại trú bệnh tăng huyết áp tại Trung tâm y tế Phù Cừ, Hưng Yên năm 2023",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "539 (số đặc biệt), 187-193",
+            "published_date": "6/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Thực trạng chất lượng cuộc sống người cao tuổi phường Đồng Quốc Bình, Hải Phòng năm 2013",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2013",
+            "acceptance_date": "30/12/2013",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Sự hài lòng đối với công việc của nhân viên y tế Bệnh viện An Lão, Hải Phòng năm 2016",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2016",
+            "acceptance_date": "06/01/2017",
+            "rating": "Khá"
+        },
+        {
+            "title": "Thực trạng sử dụng thuốc và một số yếu tố liên quan trên người cao tuổi tại xã Tam Đa, huyện Vĩnh Bảo, Hải Phòng năm 2017",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2017",
+            "acceptance_date": "13/01/2018",
+            "rating": "Khá"
+        },
+        {
+            "title": "Thực trạng rối loạn cơ xương trên lái xe taxi tại một số công ty vận tải tại Hải Phòng năm 2019",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2019",
+            "acceptance_date": "06/10/2019",
+            "rating": "Khá"
+        },
+        {
+            "title": "Thực trạng và một số yếu tố liên quan đến tuân thủ điều trị của bệnh nhân tăng huyết áp quản lý điều trị tại Bệnh viện Kiến An, Hải Phòng năm 2020",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2020",
+            "acceptance_date": "20/12/2020",
+            "rating": "Khá"
+        },
+        {
+            "title": "Thực trạng hành vi sức khỏe của học sinh trường THPT Trần Nguyên Hãn, Hải Phòng năm 2021",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2021",
+            "acceptance_date": "15/12/2021",
+            "rating": "Khá"
+        },
+        {
+            "title": "Thực trạng sử dụng thuốc trên bệnh nhân tăng huyết áp mắc kèm đái tháo đường tại phòng khám ngoại trú Bệnh viện Đại học Y Hải Phòng năm 2022",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2022",
+            "acceptance_date": "28/12/2022",
+            "rating": "Khá"
+        },
+        {
+            "title": "Thực trạng kiến thức, thái độ, thực hành vệ sinh bàn tay của nhân viên y tế tại Bệnh viện Đại học Y Hải Phòng năm 2023",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2023",
+            "acceptance_date": "26/01/2024",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phương pháp nghiên cứu sức khoẻ cộng đồng",
+            "type": "Textbook",
+            "publisher": "NXB Y học",
+            "publish_year": "2020",
+            "num_authors": 12,
+            "is_editor_in_chief": true,
+            "compiled_pages": "p. 151 to p. 167",
+            "verification_document_id": "QĐ số 334/QĐ-YDHP, 16/3/2021"
+        },
+        {
+            "title": "Dân số học",
+            "type": "Textbook",
+            "publisher": "NXB Y học",
+            "publish_year": "2022",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "p. 7 to p. 26; p. 178 to p. 194",
+            "verification_document_id": "QĐ số 937/QĐ-YDHP, 23/5/2023"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo ngành Y học dự phòng chính quy (sửa đổi)",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 201/QĐ-YDHP ngày 19/01/2022",
+            "certifying_authority": "Trường Đại học Y Dược Hải Phòng",
+            "implementation_document_id": "Quyết định số 756/QĐ-YDHP ngày 28/4/2022",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo ngành Y Khoa chính quy (đổi mới)",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 1251/QĐ-YDHP ngày 29/7/2022",
+            "certifying_authority": "Trường Đại học Y Dược Hải Phòng",
+            "implementation_document_id": "Quyết định số 659/QĐ-YDHP ngày 4/4/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo Thạc sĩ Y học dự phòng (xây dựng)",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 832/QĐ-YDHP ngày 10/5/2022",
+            "certifying_authority": "Trường Đại học Y Dược Hải Phòng",
+            "implementation_document_id": "Quyết định số 337/QĐ-YDHP ngày 17/02/2023",
+            "notes": ""
+        }
+    ]
+}

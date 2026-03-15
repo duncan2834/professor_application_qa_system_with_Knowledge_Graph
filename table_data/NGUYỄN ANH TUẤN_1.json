@@ -1,0 +1,338 @@
+{
+    "papers": [
+        {
+            "title": "Một số biện pháp rèn nghề sư phạm Ở trường cao đẳng sư phạm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": ""
+        },
+        {
+            "title": "Nghiên cứu, xây dựng khái niệm đạo đức của nghề dạy học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ, Trường Đại học Hùng Vương ISSN 1859-3968",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": ""
+        },
+        {
+            "title": "Những biện pháp giáo dục đạo đức nghề nghiệp cho sinh viên sư phạm trong nền kinh tế thị trường ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ, Trường Đại học Hùng Vương ISSN 1859-3968",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": ""
+        },
+        {
+            "title": "Những ảnh hưởng của nền kinh tế thị trường tới đạo đức nghề nghiệp của nhà giáo",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": ""
+        },
+        {
+            "title": "Những ảnh hưởng của nền kinh tế thị trường tới đạo đức của sinh viên sư phạm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": ""
+        },
+        {
+            "title": "Personnel Evaluation and Selection using a Generalized Fuzzy Multi-Critea Decision Making",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Soft Computing ISSN 1816-9503",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "DOI: 10.36478/ijscomp.2017.263.269",
+            "published_date": "2017"
+        },
+        {
+            "title": "Một số biện pháp phát triển năng lực cho đội ngũ cán bộ chủ chốt của Trường Đại học Tài Nguyên và Môi Trường Hà Nội trong bối cảnh cách mạng công nghệ 4.0",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học quốc tế do Học viện Quản lí Giáo dục tổ chức năm 2017, ISBN 978-604-946-333-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "trang 728-733",
+            "published_date": "2017"
+        },
+        {
+            "title": "Green Material Selection using an Intergrated Fuzzy Multi-Critea Decision Making Model",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Scientific Research, online first ISSN 1992-1454 Asian J. Sci. Res.",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "DOI: 10.3923/ajsr.2018.195.202",
+            "published_date": "2018"
+        },
+        {
+            "title": "Dự báo một số xu thế phát triển của giáo dục đại học Việt Nam trong bối cảnh hội nhập ASEAN",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục, ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2018"
+        },
+        {
+            "title": "Dạy học theo dự án-Phương pháp dạy học hiệu quả trong dạy học và đào tạo kỹ năng mềm cho sinh viên các trường đại học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nghiên cứu, xây dựng khung năng lực hiệu trưởng, chủ tịch hội đồng trường các trường đại học ngành Tài nguyên và Môi trường trong bối cảnh mới",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2018"
+        },
+        {
+            "title": "Reseach, development of a capacity's framework to ward an university's president and chairperson of the council of unieversities in the context of highereducation's autonomy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Education, Society and Behavioural Science 29(4) 1-8, 2019; Article no. JESBS.42335 ISSN: 2456-981X (Tên cũ: British Journal of Education, Society & Behavioural Science, Past ISSN: 2278-0998)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "29(4) 1-8",
+            "published_date": "2019"
+        },
+        {
+            "title": "Vai trò của Nhà nước trong chiến lược triển khai tự chủ đại học tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam, ISSN: 2615 - 8957",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8, trang 7-12",
+            "published_date": "August, 2018"
+        },
+        {
+            "title": "To measure the degrees of the autonomy in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of the International Academy for Case Studies ISSN: 1532-5822-27-S4-240",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://www.abacademies.org/articles/to-measure-the-degrees-of-the-autonomy-in-vietnam-13167.html",
+            "published_date": "2021"
+        },
+        {
+            "title": "Financial autonomy in universities around the world management implications for Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Research in Education Humanities and Commerce ISSN: 2583-03333",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol-3, Issue-1",
+            "published_date": "2022"
+        },
+        {
+            "title": "Factors In Staffing Autonomy Affecting Academic Staff Development: A Case Study in University of Education, Vietnam National University Hanoi",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Wseas transactions on business and economics. doi: 10.37394/23207.2022.19.162 ISSN: 2224-2899",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "doi: 10.37394/23207.2022.19.162",
+            "published_date": "2022"
+        },
+        {
+            "title": "Determination of Factors Affecting the Study Decision of Students at University of Education, Vietnam National University Hanoi",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Wseas transactions on business and economics, doi: 10.37394/23207.2023.20.22 ISSN: 2224-2899",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "doi: 10.37394/23207.2023.20.22",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá về thực trạng và quy luật tự chủ đại học tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tiêu chí đánh giá quyền tự chủ đại học: một nghiên cứu đề xuất dựa trên bảng điểm của hiệp hội các trường đại học châu Âu và luật sửa đổi, bổ sung một số điều của luật giáo dục đại học năm 2018",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://tcgd.tapchigiaoduc.edu.vn/index.php/tapchi/article/view/345/139",
+            "published_date": "2022"
+        },
+        {
+            "title": "Research on factors of quality culture affecting internal education quality assurance of universities in Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Wseas transactions on business and economics, E-ISSN: 2224-3496 Doi: 10.37394/232015.2023.19.16",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Doi: 10.37394/232015.2023.19.16",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ứng dụng mô hình Heisqual để đánh giá chất lượng dạy học các học phần tiếng Anh cơ sở theo hình thức kết hợp tại Trường Đại học Ngoại thương",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giáo dục ISSN: 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của quản trị tri thức đến kết quả nghiên cứu khoa học tại Đại học Quốc gia Hà Nội",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNU Journal of Science: Policy and Management Studies. ISSN 2588-1116",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "https://doi.org/10.25073/2588-1116/vnupam.4424",
+            "published_date": "2023"
+        },
+        {
+            "title": "THE IMPACT OF BLENDED LEARNING MODEL ON STUDENTS' MOTIVATION AND SATISFACTION IN SOME ENGLISH COURSES IN VIETNAM.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo khoa học quốc tế \"PROCEEDINGS OF 3rd HANOI FORUM ON PEDAGOGICAL AND EDUCATIONAL SCIENCES\"; ISSN: 978-604-000-000-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2023"
+        },
+        {
+            "title": "Assessing Brand Equity of Affiliated Universities in Vietnam National University, Hanoi",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Wseas transactions on business and economics. doi: 10.37394/23207.2024.21.54 Print ISSN: 1109-9526, E-ISSN: 2224-2899",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "doi: 10.37394/23207.2024.21.54",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tự chủ tài chính trong các trường đại học của Việt Nam: Thực trạng và những khuyến nghị",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Giáo dục Việt Nam ISSN: 2615-8957",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "http://vjes.vnies.edu.vn/vi/tu-chu-tai-chinh-trong-cac-truong-dai-hoc-cua-viet-nam-thuc-trang-va-nhung-khuyen-nghi",
+            "published_date": "2024"
+        },
+        {
+            "title": "Assessing Impacts of University Autonomy Policies on Universities' Competitiveness in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Wseas transactions on business and economics. doi: 10.37394/23207.2024.21.80 Print ISSN: 1109-9526, E-ISSN: 2224-2899",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "doi: 10.37394/23207.2024.21.80",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Chương trình đào tạo Chuẩn đầu ra Kĩ năng mềm",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "period": "10/2017-10/2018",
+            "acceptance_date": "03/8/2015",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xây dựng hệ thống bài tập tình huống trong việc đào tạo các học phần kỹ năng mềm cho sinh viên tại Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
+            "period": "10/2017-10/2018",
+            "acceptance_date": "30/11/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Đánh giá tác động của chính sách tự chủ nhân sự đến việc phát triển đội ngũ giảng viên. Nghiên cứu điển hình tại Trường Đại học Giáo dục, Đại học Quốc gia Hà Nội",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Đại học Quốc gia Hà Nội",
+            "period": "09/2021-03/2023",
+            "acceptance_date": "29/12/2022",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Kỹ năng mềm",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc gia Hà Nội",
+            "publish_year": "2017",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1 từ trang 19 đến trang 83",
+            "verification_document_id": "Giấy xác nhận sử dụng sách phục vụ các chương trình đào tạo ngày 28 tháng 7 năm 2022"
+        },
+        {
+            "title": "Giáo dục đạo đức nghề nghiệp cho sinh viên sư phạm trong nền kinh tế thị trường tại Việt Nam",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Học viện nông nghiệp",
+            "publish_year": "2018",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "03 chương, từ trang 1 đến trang 161",
+            "verification_document_id": "Giấy xác nhận sử dụng sách phục vụ các chương trình đào tạo ngày tháng năm 2023"
+        },
+        {
+            "title": "Quyền tự chủ đại học tại Việt Nam. Thực trạng và giải pháp",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Quốc gia Hà Nội",
+            "publish_year": "2022",
+            "num_authors": 8,
+            "is_editor_in_chief": true,
+            "compiled_pages": "5 chương, từ trang 01 đến trang 137",
+            "verification_document_id": "Giấy xác nhận sử dụng sách phục vụ các chương trình đào tạo ngày 28 tháng 7 năm 2022"
+        },
+        {
+            "title": "Nâng cao chất lượng nguồn nhân lực dân tộc thiểu số khu vực Tây Bắc",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Quốc gia Hà Nội",
+            "publish_year": "2017",
+            "num_authors": 13,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 3, từ trang 123 đến trang 161",
+            "verification_document_id": "Giấy xác nhận sử dụng sách phục vụ các chương trình đào tạo ngày tháng năm 2023"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

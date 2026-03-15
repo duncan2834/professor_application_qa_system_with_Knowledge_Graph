@@ -1,0 +1,576 @@
+{
+    "papers": [
+        {
+            "title": "Giáo dục – đào tạo Đồng bằng sông Cửu Long sau 5 năm thực hiện Quyết định 20/2006/QĐ-TTg",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học xã hội; ISSN: 1859-1036.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3 (151)",
+            "published_date": "2011"
+        },
+        {
+            "title": "Thực hiện quan điểm của Đảng về đổi mới giáo dục",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tuyên giáo; ISSN: 1859-2295.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Online",
+            "published_date": "21/02/2012"
+        },
+        {
+            "title": "Hoàn thiện chính sách phát triển giáo dục vùng Đồng bằng sông Cửu Long",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: 2354-0761.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7/2013",
+            "published_date": "2013"
+        },
+        {
+            "title": "Bảo đảm sự thống nhất ý Đảng, lòng dân trong Hiến pháp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tổ chức nhà nước; ISSN: 2588-137X.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "8/2013",
+            "published_date": "2013"
+        },
+        {
+            "title": "Tăng cường công tác quản lý nhà nước về giáo dục – đào tạo theo hướng đổi mới căn bản và toàn diện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: 2354-0761.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11/2013",
+            "published_date": "2013"
+        },
+        {
+            "title": "Nâng cao chất lượng đội ngũ cán bộ quản lý giáo dục vùng Đồng bằng sông Cửu Long",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tổ chức nhà nước; ISSN: 2588-137X.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2/2014",
+            "published_date": "2014"
+        },
+        {
+            "title": "Tổ chức thực hiện công tác thanh tra giáo dục theo quy định mới",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục; ISSN: 2354-0753.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt",
+            "published_date": "2014"
+        },
+        {
+            "title": "Vai trò của cấp ủy đảng trong đổi mới, phát triển giáo dục ở vùng Đồng bằng sông Cửu Long",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục; ISSN: 2354-0753.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ 1 (2/2015)",
+            "published_date": "2015"
+        },
+        {
+            "title": "Vận dụng lý thuyết của Peter Drucker trong xây dựng đội ngũ cán bộ quản lý giáo dục",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục; ISSN: 2354-0753.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt",
+            "published_date": "2015"
+        },
+        {
+            "title": "Hoàn thiện thể chế, chính sách để đổi mới, phát triển giáo dục",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục; ISSN: 2354-0753.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ 2 (6/2015)",
+            "published_date": "2015"
+        },
+        {
+            "title": "Bàn về chân dung nhà quản lý thành công",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tổ chức nhà nước; ISSN: 2588-137X.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "10/2015",
+            "published_date": "2015"
+        },
+        {
+            "title": "Đổi mới hoạch định và tổ chức thực thi chính sách phát triển vùng kinh tế - xã hội",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tổ chức nhà nước; ISSN: 2588-137X.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "10/2016",
+            "published_date": "2016"
+        },
+        {
+            "title": "Chính sách phát triển giáo dục vùng kinh tế - xã hội",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục; ISSN: 2354-0753.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ 1 12/2016",
+            "published_date": "2016"
+        },
+        {
+            "title": "Tổ chức tham vấn chính sách trong hoạch định chính sách công",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tổ chức nhà nước; ISSN: 2588-137X.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3/2017",
+            "published_date": "2017"
+        },
+        {
+            "title": "Chính sách lương đối với nhà giáo",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sách Kỷ yếu Hội thảo khoa học quốc tế The quality of teachers and education managers in the current context: The trend in Viet Nam and the world; ISBN: 978-604-946-493-5; NXB. Đại học Kinh tế Quốc dân.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2018"
+        },
+        {
+            "title": "Making the policy for developing education in the Mekong Delta Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sách Kỷ yếu hội thảo khoa học quốc tế: Leadership and policy innovation in the Digital; ISBN: 978-604-962-218-2; NXB. Lý luận chính trị.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2018"
+        },
+        {
+            "title": "Năng lực hoạch định chính sách công của chính phủ kiến tạo",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sách Kỷ yếu hội thảo khoa học quốc tế Building an enabling, integrity government in the process of accelerating the national industrialization and modernization, international integration; ISBN: 978-604-57-4474-1; NXB. Chính trị Quốc gia Sự thật.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2018"
+        },
+        {
+            "title": "Xây dựng và quản lý xã hội thông minh ở Thành phố Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sách Kỷ yếu hội thảo khoa học quốc tế Ho Chi Minh city in the network of smart cities in ASEAN: opportunities and challenges; ISBN: 978-604-73-7012-2; NXB Đại học Quốc gia Thành phố Hồ Chí Minh.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2019"
+        },
+        {
+            "title": "Sustainable economic development in Ho Chi Minh city",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sách Kỷ yếu hội thảo khoa học quốc tế Socio-Economic and environmental issues in development; ISBN: 978-604-65-4174-5; NXB Lao động – Xã hội.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2019"
+        },
+        {
+            "title": "The roles of stakeholders in the public policy making process",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sách Kỷ yếu hội thảo khoa học quốc tế Vietnam symposium on leadership and public policy; ISBN: 978-604-962-218-2; NXB Chính trị Quốc gia Sự thật.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2019"
+        },
+        {
+            "title": "Kinh nghiệm phát triển trí tuệ nhân tạo của một số quốc gia và khuyến nghị đối với Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tổ chức nhà nước; ISSN: 2588-137X.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12/2019",
+            "published_date": "2019"
+        },
+        {
+            "title": "Những thay đổi của Nhà nước trong kỷ nguyên mới",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: 2354-0761.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "292",
+            "published_date": "2020"
+        },
+        {
+            "title": "Những thuận lợi và khó khăn của Thành phố Hồ Chí Minh trong xây dựng đô thị thông minh",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: 2354-0761.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "298",
+            "published_date": "2020"
+        },
+        {
+            "title": "Kinh nghiệm của một số quốc gia trong chuyển đổi số và hàm ý chính sách cho Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: 2354-0761.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "301",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xây dựng đội ngũ cán bộ trong bối cảnh phát triển mới",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Phát triển nhân lực; ISSN: 1859-2732.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "03/2021",
+            "published_date": "2021"
+        },
+        {
+            "title": "Phát triển kinh tế số tại Thành phố Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tổ chức nhà nước; ISSN: 2588-137X.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7/2021",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xây dựng chính quyền số hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: 2354-0761.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "307",
+            "published_date": "2021"
+        },
+        {
+            "title": "Hoàn thiện khung thể chế, chính sách cho thành phố thuộc thành phố trực thuộc Trung ương từ thực tiễn thành phố Thủ Đức",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: 2354-0761.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "314",
+            "published_date": "2022"
+        },
+        {
+            "title": "Một số đề xuất phát triển huyện Củ Chi (TP. Hồ Chí Minh) theo mô hình đô thị sinh thái thông minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: 2354-0761.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "317",
+            "published_date": "2022"
+        },
+        {
+            "title": "Về cơ chế, chính sách phát triển TP. Hồ Chí Minh trong thời gian tới",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: e-2815-5831.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Online",
+            "published_date": "16/08/2022"
+        },
+        {
+            "title": "Cần xây dựng và ban hành Nghị quyết bảo đảm tính mới, vượt trội về cơ chế, chính sách phát triển TP. Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: e-2815-5831.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Online",
+            "published_date": "25/5/2023"
+        },
+        {
+            "title": "Hoàn thiện hệ thống chính sách để vùng đồng bằng sông Cửu Long phát triển bền vững",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cộng sản; ISSN: 2734-9071.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1021",
+            "published_date": "2023"
+        },
+        {
+            "title": "River economic development in the Mekong Delta",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học quốc tế Contemporary Economic Issues in Asian countries; ISBN: 978-981-99-0489-1; NXB: Springer.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2023"
+        },
+        {
+            "title": "Applications of experimental policy theory (policy sandbox) in Vietnam digital economy: The case of Ho Chi Minh City",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học quốc tế Contemporary Economic Issues in Asian countries; ISBN: 978-981-99-0489-1; NXB: Springer.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2023"
+        },
+        {
+            "title": "Sự cần thiết phải xây dựng chính phủ số và hàm ý chính sách đối với Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thông tin khoa học chính trị; ISSN: 2354-1474.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5 (35)",
+            "published_date": "2023"
+        },
+        {
+            "title": "Trường Chính trị thực hiện chức năng nghiên cứu khoa học, tổng kết thực tiễn, tư vấn chính sách",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị; ISSN: 2525-2607.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Online",
+            "published_date": "2023"
+        },
+        {
+            "title": "The impact of digital government initiatives on public value creation: evidence from Ho Chi Minh City – Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Revista de Gestão Social e Ambiental; ISSN: 1981-982X.",
+            "journal_ranking": "Q4 Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, No. 2",
+            "published_date": "2024"
+        },
+        {
+            "title": "Phân định nhiệm vụ, quyền hạn của Ủy ban nhân dân với nhiệm vụ, quyền hạn của chủ tịch Ủy ban nhân dân thành phố trực thuộc Trung ương từ thực tiễn TP. Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: e-2815-5831.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Online",
+            "published_date": "28/3/2024"
+        },
+        {
+            "title": "Xây dựng nền công vụ Thành phố Hồ Chí Minh chuyên nghiệp, hiện đại, hoạt động hiệu lực, hiệu quả",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị; ISSN: 2525-2585.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4-2024",
+            "published_date": "2024"
+        },
+        {
+            "title": "Factors affecting the motivation of religious coversion: evidence in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí International Journal of Religion; ISSN: 2633-352X, 2633-3538.",
+            "journal_ranking": "Q3, Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 5, No. 7",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nâng cao hiệu quả xây dựng chính quyền số tại Thành phố Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý nhà nước; ISSN: e-2815-5831.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Online",
+            "published_date": "13/6/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Xây dựng chính quyền số cấp huyện ở Thành phố Hồ Chí Minh hiện nay",
+            "role": "Principal Investigator",
+            "project_code": "B22-33",
+            "management_level": "Cấp Bộ",
+            "period": "4/2022 – 8/2023",
+            "acceptance_date": "18/8/2023",
+            "rating": ""
+        },
+        {
+            "title": "Đổi mới quản lý nghiên cứu khoa học theo hướng chuyển đổi số tại Học viện Cán bộ Thành phố Hồ Chí Minh",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "8/2022 – 12/2023",
+            "acceptance_date": "08/12/2023",
+            "rating": ""
+        },
+        {
+            "title": "Công tác văn thư trong trường phổ thông – từ thực tiễn vùng Đồng bằng sông Cửu Long",
+            "role": "Principal Investigator",
+            "project_code": "C2012.30.03",
+            "management_level": "Cấp cơ sở",
+            "period": "11/2012 – 11/2012",
+            "acceptance_date": "17/12/2013",
+            "rating": ""
+        },
+        {
+            "title": "Nghiên cứu mô hình chính quyền đô thị ở nước ta hiện nay",
+            "role": "Key Member",
+            "project_code": "KHTCCS (2021)-09",
+            "management_level": "Cấp Bộ",
+            "period": "2021 - 2022",
+            "acceptance_date": "20/01/2022",
+            "rating": ""
+        },
+        {
+            "title": "Cơ cấu, số lượng cán bộ, công chức, người hoạt động không chuyên trách tại các phường, xã, thị trấn theo quy mô dân số, hoạt động kinh tế và đặc điểm địa bàn",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp Thành phố",
+            "period": "01/2022 – 9/2023",
+            "acceptance_date": "19/9/2023",
+            "rating": ""
+        },
+        {
+            "title": "Thực tiễn và kinh nghiệm xây dựng, phát triển Thành phố Hồ Chí Minh",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "11/2020 – 3/2022",
+            "acceptance_date": "11/5/2022",
+            "rating": ""
+        }
+    ],
+    "books": [
+        {
+            "title": "Chính phủ số",
+            "type": "Monograph",
+            "publisher": "NXB Tổng hợp Thành phố Hồ Chí Minh",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Entire book",
+            "verification_document_id": "Giấy xác nhận số 702-GXN/HVCB ngày 11 tháng 6 năm 2024 của Học viện Cán bộ Thành phố Hồ Chí Minh"
+        },
+        {
+            "title": "Thực tiễn và kinh nghiệm xây dựng và phát triển Thành phố Hồ Chí Minh",
+            "type": "Textbook",
+            "publisher": "NXB Lý luận chính trị",
+            "publish_year": "2022",
+            "num_authors": 11,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 228 to p. 253",
+            "verification_document_id": "Học viện Cán bộ Thành phố Hồ Chí Minh"
+        },
+        {
+            "title": "Đổi mới quản lý Thành phố Hồ Chí Minh",
+            "type": "Reference Book",
+            "publisher": "NXB Tổng hợp Thành phố Hồ Chí Minh",
+            "publish_year": "2022",
+            "num_authors": 0,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 456 to p. 465",
+            "verification_document_id": "Hồ Chí Minh về sử dụng sách do giảng viên biên soạn."
+        },
+        {
+            "title": "Tiềm năng, định hướng phát triển và cải thiện môi trường đầu tư trên địa bàn huyện Củ Chi",
+            "type": "Reference Book",
+            "publisher": "NXB Tổng hợp Thành phố Hồ Chí Minh",
+            "publish_year": "2022",
+            "num_authors": 0,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 62 to p. 74",
+            "verification_document_id": "Hồ Chí Minh về sử dụng sách do giảng viên biên soạn."
+        }
+    ],
+    "patents": [
+        {
+            "title": "Sáng kiến kinh nghiệm có phạm vi ảnh hưởng cấp Thành phố: Một số giải pháp về tuyên truyền xây dựng chính quyền đô thị tại Thành phố Hồ Chí Minh.",
+            "issuing_authority": "Chủ tịch Ủy ban nhân dân Thành phố Hồ Chí Minh",
+            "issue_date": "26 tháng 8 năm 2022",
+            "is_main_inventor": true,
+            "num_inventors": 1
+        },
+        {
+            "title": "Sáng kiến kinh nghiệm có phạm vi ảnh hưởng cấp Thành phố: Thực tiễn và kinh nghiệm xây dựng, phát triển Thành phố Hồ Chí Minh.",
+            "issuing_authority": "Chủ tịch Ủy ban nhân dân Thành phố Hồ Chí Minh",
+            "issue_date": "13 tháng 9 năm 2023",
+            "is_main_inventor": false,
+            "num_inventors": 12
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Chiến sĩ thi đua cấp Thành phố",
+            "certifying_organization": "Chủ tịch Ủy ban nhân dân Thành phố Hồ Chí Minh",
+            "certificate_document_id": "Quyết định số 3697/QĐ-UBND ngày 01 tháng 11 năm 2022",
+            "award": "Chiến sĩ thi đua cấp Thành phố",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen",
+            "certifying_organization": "Chủ tịch Ủy ban nhân dân Thành phố Hồ Chí Minh",
+            "certificate_document_id": "Quyết định số 3004/QĐ-UBND ngày 07 tháng 9 năm 2022",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen",
+            "certifying_organization": "Chủ tịch Ủy ban nhân dân Thành phố Hồ Chí Minh",
+            "certificate_document_id": "Quyết định số 3673/QĐ-UBND ngày 06 tháng 10 năm 2020",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Huân chương Chiến sĩ vẻ vang hạng Ba",
+            "certifying_organization": "Chủ tịch nước",
+            "certificate_document_id": "Quyết định số 78-KT/CTN ngày 11 tháng 02 năm 2004",
+            "award": "Huân chương Chiến sĩ vẻ vang hạng Ba",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo trình độ thạc sĩ chuyên ngành Quản lý công (mã số: 8340403)",
+            "applicant_role": "Participated in drafting",
+            "assignment_document_id": "Quyết định số 376-QĐ/HVCB ngày 07 tháng 5 năm 2020 của Giám đốc Học viện Cán bộ Thành phố Hồ Chí Minh",
+            "certifying_authority": "Học viện Cán bộ Thành phố Hồ Chí Minh",
+            "implementation_document_id": "Quyết định số 834-QĐ/HVCB ngày 13 tháng 9 năm 2021 của Giám đốc Học viện Cán bộ Thành phố Hồ Chí Minh",
+            "notes": "Xây dựng đề cương chi tiết 03 học phần của Chương trình."
+        },
+        {
+            "title": "05 chương trình đào tạo trình độ đại học của Học viện Cán bộ Thành phố Hồ Chí Minh",
+            "applicant_role": "Participated in reviewing and completing, Editor-in-Chief for 03 detailed syllabi and learning materials, Key Member for 04 learning materials.",
+            "assignment_document_id": "",
+            "certifying_authority": "Học viện Cán bộ Thành phố Hồ Chí Minh",
+            "implementation_document_id": "",
+            "notes": "Participated in reviewing and completing 05 undergraduate training programs in 2021 and 2023. Editor-in-Chief for 03 detailed syllabi and learning materials. Key Member for 04 learning materials in Public Administration, Political Science, Party Building and State Government programs."
+        }
+    ]
+}

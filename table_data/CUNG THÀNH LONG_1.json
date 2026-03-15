@@ -1,0 +1,379 @@
+{
+    "papers": [
+        {
+            "title": "Interactions of an eddy current sensor and a multilayered structure",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electronics letters, Print ISSN: 0013-5194; Electronic ISSN: 1350-911X",
+            "journal_ranking": "ISI,Q1 (2025: Q3) - SCIE IF: 1,366",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol. 46, no. 23, pp.1550-1551",
+            "published_date": "11/2010"
+        },
+        {
+            "title": "Eddy current evaluation of air-gaps in aeronautical multilayered assemblies using a multi-frequency behavioral model",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Measurement: Journal of the International Measurement Confederation, Print ISSN: 0263-2241; Electronic ISSN: 1873-412X",
+            "journal_ranking": "ISI, Q2 (2025: Q1) - SCIE IF: 5,2",
+            "citation_count": 12,
+            "volume_issue_pages": "Vol. 44, no. 6, pp.1108-1116",
+            "published_date": "03/2011"
+        },
+        {
+            "title": "Multi-frequency eddy current NDE of the distance between parts in aeronautical assemblies",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Studies in Applied Electromagnetics and Mechanics, Print ISSN: 1383-7281, Electronic ISSN: 1879-8322; Book series, IOS press, ISBN 978 1 60750 749 9, eISBN: 978 1 60750 750 5",
+            "journal_ranking": "ISI, Q4 - SCIE IF: 0,197",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 35 pp.288-295",
+            "published_date": "06/2011"
+        },
+        {
+            "title": "Approche multifréquence à courants de Foucault pour l'évaluation de l'écartement entre pièces",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Instrumentation Mesure Métrologie - Méthodes innovantes en contrôle non destructif, ISBN: 978-2-7462-3106-1",
+            "journal_ranking": "Q4 - Scopus IF: 2,7",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 10, no. 1-2, pp.33-52",
+            "published_date": "06/2010"
+        },
+        {
+            "title": "Evaluation non-destructive d'écartement de pièces dans des assemblages aéronautiques par la méthode des courants de Foucault",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "V-ième Colloque Interdisciplinaire en Instrumentation, C2I 2010 Le Mans France, Ed. Hèrmes-Lavoisier, ISBN:978-2-7462-2516-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.333-340",
+            "published_date": "01/2010"
+        },
+        {
+            "title": "Eddy current NDE of the distance between parts in aeronautical assemblies",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 15th International Workshop on Electromagnetic Nondestructive Evaluation ENDE'2010, Szczecin Poland, 13-16 June 2010",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.67-68",
+            "published_date": "06/2010"
+        },
+        {
+            "title": "Evaluation of loose assemblies using multi-frequency eddy currents and neural networks",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 15th International Symposium on Applied Electromagnetics and Mechanics, ISEM'2011, Naple Italy, 6-9 Sept. 2011",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.305-306",
+            "published_date": "09/2011"
+        },
+        {
+            "title": "Nhận dạng cảm xúc thời gian thực từ tín hiệu điện dẫn da và xung thể tích máu",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ các trường Đại học Kỹ thuật, ISSN: 0868-3980",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.59, pp. 19-23",
+            "published_date": "06/2007"
+        },
+        {
+            "title": "Sự phát triển của công nghệ nano và những thách thức mới trong lĩnh vực chế tạo thiết bị đo lường",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học kỹ thuật đo lường toàn quốc lần thứ IV, Hà Nội, 10-11/11/2005, ISBN: 978-604-67-1588-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.84-87",
+            "published_date": "11/2005"
+        },
+        {
+            "title": "Characteristics of Hydrogen Sensor Based on Monolayer of Pt Nanoparticles Decorated on Single-Layer Graphene",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Electronic Materials, Print ISSN: 0361-5235, Electronic ISSN: 1543-186X",
+            "journal_ranking": "ISI, Q2 - SCI IF: 2,2",
+            "citation_count": 11,
+            "volume_issue_pages": "Vol. 46, no. 6, pp.3353-3358",
+            "published_date": "01/2017"
+        },
+        {
+            "title": "A model-based approach for estimation of the crack depth on a massive metal structure",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Measurement and Control, ISSN: 0020-2940",
+            "journal_ranking": "ISI, Q3 (2025: Q2) - SCIE IF: 2,0",
+            "citation_count": 16,
+            "volume_issue_pages": "Vol. 51, no.5-6, pp.182-191",
+            "published_date": "05/2018"
+        },
+        {
+            "title": "A model-based approach for inspection of aeronautical multi-layered structures by eddy currents",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "COMPEL - The international journal for computation and mathematics in electrical and electronic engineering, Print ISSN: 0332-1649, Electronic ISSN: 2054-5606",
+            "journal_ranking": "ISI, Q3 - SCIE IF: 0,755",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 38, no.1, pp.382-394",
+            "published_date": "01/2019"
+        },
+        {
+            "title": "A stackGNN model for Human Emotion Recognition from EEGs Signals",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Signal, Image and Video Processing, Print ISSN: 1863-1703, Electronic ISSN: 1863-1711",
+            "journal_ranking": "ISI, Q2 - SCIE IF: 2,0",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 19, no.7, p.563:1-9",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "An approach of re-organizing input dataset to enhance the quality of emotion recognition using the bio-signals dataset of MIT",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bulletin of Electrical Engineering and Informatics, ISSN: 2089-3191, Electronic ISSN: 2302-9285",
+            "journal_ranking": "Q3 - Scopus IF: 1,9",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 10, no.6, pp.3320-3327",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Improving intrusion detection in SCADA systems using stacking ensemble of tree-based models",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bulletin of Electrical Engineering and Informatics, ISSN: 2089-3191, Electronic ISSN: 2302-9285",
+            "journal_ranking": "Q3 - Scopus IF: 1,9",
+            "citation_count": 12,
+            "volume_issue_pages": "Vol. 11, no.1, pp.119-127",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "A Calculation Method of the Passive Wireless Surface Acoustic Wave Sensor Response Phase",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bulletin of Electrical Engineering and Informatics, ISSN: 2089-3191, Electronic ISSN: 2302-9285",
+            "journal_ranking": "Q3 - Scopus IF: 1,9",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 12, no.1, pp.86-97",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "The Ability to Detect the Linear Attack of WL-CUSUM and FMA algorithms",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bulletin of Electrical Engineering and Informatics, ISSN: 2089-3191, Electronic ISSN: 2302-9285",
+            "journal_ranking": "Q3 - Scopus IF: 1,9",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 12, no.1, pp.131-140",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Interaction between eddy current sensor and ultra-thin multi-layer structure of surface acoustic wave (SAW) sensors",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 9th Regional Conference on Electrical and Electronics Engineering, Nov. 17-18, 2016, Hanoi, Vietnam, ISBN: 978-604-93-8944-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.191-194",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "A FEM simulation of the influence of the reflector on the response of the passive wireless SAW structure",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Japan Microwave 2017 Conference, Jun. 13-14, 2017, Hanoi, Vietnam, ISBN: 978-604-67-0929-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 99-103",
+            "published_date": "06/2017"
+        },
+        {
+            "title": "An Internet of Things-Based Monitoring System for Worker Safety and Healthcare in Mining Environments",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 14th Conference on Information Technology and its Applications (CITA 2025), Jul. 14-15, 2025, Phnom Penh, Cambodia",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "07/2025"
+        },
+        {
+            "title": "Đánh giá không phá hủy cấu trúc cánh máy bay dựa trên mô hình biến đổi ngược trực tiếp kiểu mới",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ - Học viện Kỹ thuật Quân sự, ISSN: 1859-0209",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 152 pp.14-25",
+            "published_date": "02/2013"
+        },
+        {
+            "title": "Design and realization of a non-destructive testing device operating on eddy current principle",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ các trường Đại học Kỹ thuật, ISSN: 2354-1083",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 120 pp.47-51",
+            "published_date": "06/2017"
+        },
+        {
+            "title": "Nghiên cứu khả năng phát hiện tấn công tuyến tính trong các hệ thống điều khiển công nghiệp bằng phương pháp CUSUM",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ các trường Đại học Kỹ thuật, ISSN: 2354-1083",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 145 pp.14-20",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "3D finite element simulation and experimental validation of eddy current displacement sensor",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Khoa học và Công nghệ Quân sự - Viện Khoa học và Công nghệ Quân sự, ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Special Issue pp.134-143",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Nghiên cứu khả năng phát hiện tấn công tuyến tính của các phương pháp chi-squared và Cusum",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Khoa học và Công nghệ Quân sự - Viện Khoa học và Công nghệ Quân sự, ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 73 pp.84-92",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Evaluation of loose assemblies using a multi-frequency eddy current method and artificial neural networks",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "JST: Engineering and Technology for Sustainable Development, ISSN: 2734-9381",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 31, no.3, pp.78-82",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "Multilayer Perceptron Neural Network and Eddy Current Data",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Khoa học và Công nghệ Quân sự - Viện Khoa học và Công nghệ Quân sự, ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 77 pp.3-12",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Mô phỏng cảm biến thụ động không dây dạng sóng âm bề mặt sử dụng phương pháp phần tử hữu hạn kết hợp mô hình hóa trong Matlab/Simulink",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ - Trường Đại học Công nghiệp Hà Nội, ISSN: 1859-3585, e-ISSN: 2615-9619",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 58, no.4, pp.49-54",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Driving Stress Detection using Physiological Data with Machine Learning",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Military Science and Technology - Academy of Military Science and Technology, ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 83 pp.22-29",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Xây dựng một hệ thống nhận dạng tiếng nói và hình ảnh sử dụng các mạng học sâu trên vi điều khiển hạn chế tài nguyên và bộ nhớ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu khoa học – Đại học Sao Đỏ, ISSN: 1859-4190",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 84, no.1, pp.05-10",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Image Analysis and CNN-based Crack Depth estimation using Eddy Current Data",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Khoa học và Công nghệ Quân sự - Viện Khoa học và Công nghệ Quân sự, ISSN: 1859-1043",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 96 pp.12-20",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Nghiên cứu và thử nghiệm phương pháp đo mức trên cơ sở sử dụng cảm biến Hall",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học kỹ thuật đo lường toàn quốc lần thứ VI, ISBN: 978-604-67-1588-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.995-1001",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Đo điện dung bằng phương pháp tính toán thời gian phóng nạp của tụ điện và ứng dụng cho bài toán đo mức",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học kỹ thuật đo lường toàn quốc lần thứ VI, ISBN: 978-604-67-1588-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.492-498",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Thiết kế và thực hiện một hệ thống bám tín hiệu hồng ngoại đơn giản",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học kỹ thuật đo lường toàn quốc lần thứ VII, ISBN: 978-604-67-1588-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.807-812",
+            "published_date": "10/2020"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Đo kiểm tra không phá hủy các cấu trúc hợp kim hàng không nhiều lớp bằng phương pháp dòng xoáy (dòng Phu-cô)",
+            "role": "Principal Investigator",
+            "project_code": "T2014-20",
+            "management_level": "Cơ sở",
+            "period": "06/03/2014 đến 15/12/2014",
+            "acceptance_date": "30/09/2014",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ứng dụng học sâu xây dựng mô hình nhận dạng cảm xúc con người sử dụng bộ dữ liệu sinh học DEAP",
+            "role": "Principal Investigator",
+            "project_code": "AGF.2024-05",
+            "management_level": "Cơ sở",
+            "period": "15/06/2024 đến 14/06/2025",
+            "acceptance_date": "12/06/2025",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Lý thuyết mạch điện – Mạch tuyến tính ở chế độ xác lập",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Khoa học và Kỹ thuật",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "TK454.C513L.2023"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

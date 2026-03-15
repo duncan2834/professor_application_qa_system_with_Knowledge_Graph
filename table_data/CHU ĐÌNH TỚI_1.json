@@ -1,0 +1,1023 @@
+{
+    "papers": [
+        {
+            "title": "Mest and Sfrp5 are biomarkers for healthy adipose tissue",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biochimie/0300-9084",
+            "journal_ranking": "SCIE; Q1; IF=3.3",
+            "citation_count": 39,
+            "volume_issue_pages": "124: 124-133, DOI: https://doi.org/10.1016/j.biochi.2015.05.006",
+            "published_date": "05/2016"
+        },
+        {
+            "title": "Expression of Adipocyte Biomarkers in a Primary Cell Culture Models Reflects Preweaning Adipobiology",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Biological Chemistry/1083-351X",
+            "journal_ranking": "SCIE; Q1; IF=4",
+            "citation_count": 51,
+            "volume_issue_pages": "289(26): 18478-88, DOI: https://doi.org/10.1074/jbc.M114.555821",
+            "published_date": "06/2014"
+        },
+        {
+            "title": "Quy trình phân lập ARN từ mô chuột thí trong nghiên cứu sinh y",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Sư phạm Hà Nội/2354-1075",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6: 110-116",
+            "published_date": "2014"
+        },
+        {
+            "title": "Application of a toxin-antibody conjugate to treat acute graft versus host disease (aGVHD) in mouse model",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "HNUE Journal of Science, Natural Sciences/2354-1075",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "56 (7): 132-137",
+            "published_date": "2011"
+        },
+        {
+            "title": "In vitro depleting antigen – specific T cell by a promising toxin-antibody conjugate",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "HNUE Journal of Science, Natural Sciences/2354-1075",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "56 (7): 124-131",
+            "published_date": "2011"
+        },
+        {
+            "title": "Nghiên cứu các tế bào ức chế miễn dịch có nguồn mốc Meyloid trong tiểu môi trường ung thư",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học quốc gia về Nghiên cứu và giảng dạy Sinh học lần thứ 1/Nhà xuất bản Nông nghiệp Hà Nội/978-604-60-0157-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "735-740",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Effects of high fat diet on blood lipids and liver enzymes in murine model: the systemic and experimental study",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Obesity Medicine/2451-8476",
+            "journal_ranking": "Scopus, Q3, ScitScore=5.5",
+            "citation_count": 0,
+            "volume_issue_pages": "55, 100614, DIOI: https://doi.org/10.1016/j.obmed.2025.10.0614",
+            "published_date": "5/2025"
+        },
+        {
+            "title": "Enhanced mitochondrial function and delivery from adipose-derived stem cell spheres via the EZH2-H3K27me3-PPARY pathway for advanced therapy",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Stem Cell Research & Therapy/1757-6512",
+            "journal_ranking": "SCIE; Q1; IF=7.1",
+            "citation_count": 0,
+            "volume_issue_pages": "16(1):129. Doi: 10.1186/s13287-025-04164-1.",
+            "published_date": "3/2025"
+        },
+        {
+            "title": "Trends in the global, regional, and national burden of oral conditions from 1990 to 2021: a systematic analysis for the Global Burden of Disease Study 2021",
+            "num_authors": 117,
+            "is_main_author": false,
+            "journal_name_ISSN": "The Lancet/0140-6736",
+            "journal_ranking": "SCIE; Q1; IF=98.4, CiteScore=148.1",
+            "citation_count": 13,
+            "volume_issue_pages": "S0140-6736(24)02811-3. DOI: 10.1016/S0140-6736(24)02811-3.",
+            "published_date": "2/2025"
+        },
+        {
+            "title": "Variation in body weight, glucose/insulin tolerances, blood lipids and liver enzymes in mice in response to a high-fat-diet from lard",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biochemical and Biophysical Research Communications/0006-291X",
+            "journal_ranking": "SCIE, Q2, IF=2.5",
+            "citation_count": 0,
+            "volume_issue_pages": "733, 12, DOI:https://doi.org/10.1016/j.bbrc.2024.150430",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Global, regional, and national burden of gout, 1990-2020, and projections to 2050: a systematic analysis of the Global Burden of Disease Study 2021",
+            "num_authors": 108,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lancet Rheumatology/2665-9913",
+            "journal_ranking": "SCIE; Q1; IF=15, CiteScore=34.7",
+            "citation_count": 61,
+            "volume_issue_pages": "6(8):e507-e517. DOI: 10.1016/S2665-9913(24)00117-6",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "NGS Analysis of the BRCA1/BRCA2 Variants in the Ovarian Cancer Patients at High versus Low Risk of Mutation",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Thai Journal of Obstetrics and Gynaecology/0857-6084",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 2,
+            "volume_issue_pages": "32, 5, DOI: https://doi.org/10.14456/tjog.2024.41",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "The effects of a diet with high fat content from lard on the health and adipose-markers' mRNA expression in mice",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Science Progress/0036-8504",
+            "journal_ranking": "SCIE, Q1, IF=2.6",
+            "citation_count": 1,
+            "volume_issue_pages": "107(3): https://doi.org/10.1177/00368504241269431",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "Nutritional status and related factors in Vietnamese students in 2022",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Clinical Nutrition Open Science/2667-2685",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "54: 140-150, DOI: https://doi.org/10.1016/j.nutos.2024.02.005",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Evaluation of the safety and immune stimulatory effects of multi-strain Lab Mix product on laboratory animals",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Heliyon/2405-8440",
+            "journal_ranking": "Scopus, Q1, CiteScore=4.5",
+            "citation_count": 2,
+            "volume_issue_pages": "10(2):e24691, DOI: https://doi.org/10.1016/j.heliyon.2024.e24691",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "The impact of COVID-19 and other factors on the usage status of the biologic drug therapies for rheumatoid arthritis: A study from Vietnam",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Reumatología Clínica/2173-5743",
+            "journal_ranking": "SCIE,Q3, IF=1.2",
+            "citation_count": 0,
+            "volume_issue_pages": "20(3):128-135. DOI: https://doi.org/10.1016/j.reumae.2024.02.003",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Nutritional status of patients with ovarian cancer and associated factors",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "World Academy of Sciences Journal/2632-2900",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "5 (6), DOI: https://doi.org/10.3892/wasj.2023.213",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Willingness and attitudes of parents towards COVID-19 vaccines for children in Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Communication in Healthcare/1753-8068",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 6,
+            "volume_issue_pages": "16,1,75-82, DOI: https://doi.org/10.1080/17538068.2022.2150207",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Next genration sequencing for the formalin-fixed paraffin-embedded samples of ovarian cancer in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Advanced Biotechnology and Experimental Therapeutics/2616-4760",
+            "journal_ranking": "Scopus; Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "6(3): 701-710 DOI: https://doi.org/10.5455/jabet.2023.d160",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Nanotechnology and nucleic acid nanoparticles for metabolic disorders",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "OpenNano/2352-9520",
+            "journal_ranking": "Scopus, Q1, CiteScore=4.1",
+            "citation_count": 6,
+            "volume_issue_pages": "13, DOI: https://doi.org/10.1016/j.onano.2023.100181",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Willingness to receive COVID-19 vaccine in relation to psychological wellbeing among a sample of university students in Vietnam",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Middle East Current Psychiatry/2090-5416",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "30, DOI: https://doi.org/10.1186/s43045-023-00335-z",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Changes in preterm birth and stillbirth during COVID-19 lockdowns in 26 countries",
+            "num_authors": 115,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nature Human Behaviour/2397-3374",
+            "journal_ranking": "SCIE, Q1, IF=22.3",
+            "citation_count": 102,
+            "volume_issue_pages": "7:529-544, DOI: https://doi.org/10.1038/s41562-023-01522-y",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Food poisoning: A case study in Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case Studies in Chemical and Environmental Engineering/2666-0164",
+            "journal_ranking": "Scopus, Q1, SciteScore=9.2",
+            "citation_count": 10,
+            "volume_issue_pages": "49-50, DIO: https://doi.org/10.1016/j.cscee.2022.100295",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "The expression and mutation of BRCA1/2 genes in ovarian cancer: a global systematic study",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Expert Review of Molecular Diagnostics/1473-7159",
+            "journal_ranking": "SCIE, Q2, IF=3.9",
+            "citation_count": 2,
+            "volume_issue_pages": "23(1):53-61, DOI: 10.1080/14737159.2023.2168190",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Social distancing and physical isolation associated - malnutrition and COVID-19",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "New microbes and new infections/2052-2975",
+            "journal_ranking": "SCIE, Q2, IF =2.9",
+            "citation_count": 0,
+            "volume_issue_pages": "49-50, DIO: https://doi.org/10.1016/j.nmni.2022.101048",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Children orphaned by COVID-19: A grim picture and the need of urgent actions",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Travel Medicine and Infectious Disease/1477-8939",
+            "journal_ranking": "SCIE; Q1, IF=6.3",
+            "citation_count": 8,
+            "volume_issue_pages": "50, DOI: https://doi.org/10.1016/j.tmaid.2022.102446",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "COVID-19 and environmental health: A systematic analysis for the global burden of biomedical waste by this epidemic",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case Studies in Chemical and Environmental Engineering/2666-0164",
+            "journal_ranking": "Scopus, Q1, SciteScore =9.2",
+            "citation_count": 19,
+            "volume_issue_pages": "6, DOI: https://doi.org/10.1016/j.cscee.2022.100245",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "The mental health by Covid-19 in students in Vietnam: an initial assessment",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Loss and Trauma/1532-5024",
+            "journal_ranking": "SCIUE, Q2, IF=2.5",
+            "citation_count": 0,
+            "volume_issue_pages": "3:276-278, DOI: https://doi.org/10.1080/15325024.2022.2046675",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Adipogenesis of ear mesenchymal stem cells (EMSCs): adipose biomarker-based assessment of genetic variation, adipocyte function, and brown/brite differentiation",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Molecular and Cellular Biochemistry/1573-4919",
+            "journal_ranking": "SCIE; Q2; IF=3.5",
+            "citation_count": 6,
+            "volume_issue_pages": "477(4):1053-1063, DOI: 10.1007/s11010-021-04350-8",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Willingness to receive COVID-19 vaccine booster doses for adults and their children in Vietnam",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Human Behavior in the Social Environment/1540-3556",
+            "journal_ranking": "Scopus; Q1",
+            "citation_count": 11,
+            "volume_issue_pages": "33, 2; DOI: https://doi.org/10.1080/10911359.2022.2046235",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "The emergence of the omicron (B. 1.1.529) SARS-CoV-2 variant: what is the impact on the continued pandemic?",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Epidemiology and Global Health/2210-6014",
+            "journal_ranking": "Scopus, Q1",
+            "citation_count": 36,
+            "volume_issue_pages": "12(2):143-146, DOI: https://doi.org/10.1007/s44197-022-00032-w",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Transmission of SARS-CoV-2 infections and exposure in surfaces, points and wastewaters: A global one health perspective",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case Studies in Chemical and Environmental Engineering/2666-0164",
+            "journal_ranking": "Scopus, Q1, SciteScore =9.2",
+            "citation_count": 29,
+            "volume_issue_pages": "5, DOI: https://doi.org/10.1016/j.cscee.2022.100184",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "Exploring the potential of stem cell-based therapy for aesthetic and plastic surgery",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "EEE Reviews in Biomedical Engineering/1941-1189",
+            "journal_ranking": "SCIE; Q1; IF=17.2",
+            "citation_count": 18,
+            "volume_issue_pages": "6:386-402, DOI: 10.1109/RBME.2021.3134994",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "The Effectiveness of Early Childhood Caries Treatment with MI Varnish Fluor in Obese Subjects: A Study from Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Children (Basel)/2227-9067",
+            "journal_ranking": "Scopus; Q2; IF=2.0",
+            "citation_count": 3,
+            "volume_issue_pages": "8(12):1151, DOI: 10.3390/children8121151",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Obesity and hypertension in Asia: Current status and challenges",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Lancet Regional Health - Western Pacific/2666-6065",
+            "journal_ranking": "SCIE; Q1; IF=7.6",
+            "citation_count": 13,
+            "volume_issue_pages": "15:100243, Doi: 10.1016/j.lanwpc.2021.100243",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Early Childhood Caries in Obese Children: The Status and Associated Factors in the Suburban Areas in Hanoi, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Environmental Research and Public Health/2360-8803",
+            "journal_ranking": "Scopus; Q2; SciteScore =7.3",
+            "citation_count": 14,
+            "volume_issue_pages": "18(16):8844, DOI: 10.3390/ijerph18168844",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Nutritional status and associated factors in children aged 15-17 years in a suburb in Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Advanced Biotechnology and Experimental Therapeutics/2616-4760",
+            "journal_ranking": "Scopus; Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "4(1): 17-24, DOI: 10.5455/jabet.2021.d102",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Optic atrophy 1 controls human neuronal development by preventing aberrant nuclear DNA methylation.",
+            "num_authors": 16,
+            "is_main_author": false,
+            "journal_name_ISSN": "iScience/2589-0042",
+            "journal_ranking": "Scopus, Q1, SciteScore =7.2",
+            "citation_count": 25,
+            "volume_issue_pages": "23(6):101154, DOI: 10.1016/j.isci.2020.101154",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Laparoscopic living donor right nephrectomy: Assessment of outcome and association of BMI to length of right renal vein",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Actas Urológicas Españolas/2173-5786",
+            "journal_ranking": "SCIE; Q3; IF=1.136",
+            "citation_count": 7,
+            "volume_issue_pages": "43(10):536-542, DOI: 10.1016/j.acuro.2019.05.005",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Percentage Body Fat is As a Good Indicator for Determining Adolescents Who Are Overweight or Obese: A Cross-Sectional Study in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Osong Public Health and Research Perspective/2233-6052",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 48,
+            "volume_issue_pages": "10(2):108-114. DOI: 10.24171/j.phrp.2019.10.2.10",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Prevalence of dental fear and its relationship with primary dental caries",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Pediatric Dental Journal/0917-2394",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 20,
+            "volume_issue_pages": "29(2): 84-89, DOI: https://doi.org/10.1016/j.pdj.2",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "OPA1-anchored PKA phosphorylates perilipin on S522 and S497 to activate ATGL and HSL in human adipose stem cells",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Biology of the Cell/1059-1524",
+            "journal_ranking": "SCIE; Q1; IF=4.942",
+            "citation_count": 28,
+            "volume_issue_pages": "29(12):1487-1501: DOI: https://doi.org/10.1091/mbc.E17-09-0538",
+            "published_date": "09/2018"
+        },
+        {
+            "title": "Childhood Obesity Is a High-risk Factor for Hypertriglyceridemia: A Case-control Study in Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Osong Public Health Res Perspect/2233-6052",
+            "journal_ranking": "Scopus, Q2",
+            "citation_count": 36,
+            "volume_issue_pages": "8(2): 138-146; DOI: 10.24171/j.phrp.2017.8.2.06",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "Prevalence of early childhood caries and its related risk factors in preschoolers: Result from a cross sectional study in Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Pediatric Dental Journal/0917-2394",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 34,
+            "volume_issue_pages": "27(2): 79-84, DOI: https://doi.org/10.1016/j.pdj.2017.03.001",
+            "published_date": "08/2017"
+        },
+        {
+            "title": "C57BL/6J mice as a polygenic developmental model of diet-induced obesity",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Physiological Reports/2051-817X",
+            "journal_ranking": "Scopus; Q2",
+            "citation_count": 103,
+            "volume_issue_pages": "5(7): e13093, DOI: https://doi.org/10.14814/phy2.13093",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "A protein isolation method for western bot to study histones with an internal control protein",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Advanced Biotechnology and Experimental Therapeutics/2616-4760",
+            "journal_ranking": "Chưa vào Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "1(1): 25-28, DOI:, DOI: 10.5455/jabet.d4",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "A method for growing and differentiating the C2C12 muscle cell line in the laboratory",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "HPU2 Journal of Sciences: Natural Sciences and Technology/2815-5637",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3, 1, DOI: https://doi.org/10.56764/hpu2.jos.2024.3.1.13-19",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "RNA isolation by two different methods in analysing adipose-biomarkers of mouse adipose tissues",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam/2615-9937",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "66 (1), DOI: https://doi.org/10.31276/VJSTE.66(1).84-89",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "The acute toxicity and semi-chronic toxicity of bacimix product containing two strains of bacillus subtilis bs 304.04 and bacillus coagulans bc 304.06 on experimental animal model",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự./1859-1655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "47 (7): 133-144; DOI: https://doi.org/10.56535/jmpm.v47i7.83",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Thực trạng điều trị thuốc sinh học ở bệnh nhân viêm khớp dạng thấp tại khoa cơ xương khớp bệnh viện Bạch Mai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam/1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "508 (1): 272-277",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Tác dụng của cao dịch chiết sương sáo (mesona chiensis benth.) trong dự phòng đái tháo đường trên chuột nhắt trắng ăn khẩu phần giàu chất béo",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ - ĐHTN/1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "226(05): 8-14",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Hiệu quả an thần Midazolam trong điều trị nha khoa cho trẻ em (Systematic review và Meta analysis)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học/2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "143 (7): 233-247",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Thực trạng stress và một số yếu tố liên quan ở sinh viên",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "142(6): 68-77",
+            "published_date": "05/2021"
+        },
+        {
+            "title": "Expression of il6 mrna is independent with expression of tlrs mrna in lipopolysaccharide-treated myotubes",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "HNUE Journal of Science, Natural Sciences/2354-1075",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "65 (6): 130-135; DOI: 10.18173/2354-1059.2020-0037",
+            "published_date": "05/2021"
+        },
+        {
+            "title": "Effect of free fatty acid on expression of light and HVEM mRNA levels in cultured skeletal muscle cells",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hanoi Journal of Science, Natural Science/2615-9317",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "65 (10): 108-113",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Effect of bitter melon (momordica charantia linn.) extract on gross morphology and weight of some metabolic tissues in mice",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "HNUE Journal of Science, Natural Sciences/2354-1075",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "64 (6): 144-150",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "High-fat diet feeding induces hypertrophic responses in some metabolic and immune tissues in swiss mice",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "HNUE Journal of Science, Natural Sciences/2354-1075",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "64 (10): 123-130",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "Thực trạng sâu răng và một số yếu tố liên quan ở trẻ béo phì từ 6 đến 8 tuổi tại bệnh viện nhi trung ương năm 2018-2019",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9 (1109): 19-22",
+            "published_date": "01/2019"
+        },
+        {
+            "title": "Thực trạng sâu răng và một số yếu tốt liên quan ở trẻ béo phì từ 6 - 8 tuổi có chỉ số khối cơ thể BMI bình thường tại bệnh viện nhi trung ương năm 2019",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành/1859-1663",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "8 (1106): 19-22",
+            "published_date": "01/2019"
+        },
+        {
+            "title": "Characteristics of white adipose tissue shape and weight in the restricted high-fat diet-fed mice",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "HNUE Journal of Science, Natural Sciences/2354-1075",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "63 (11): 142-146",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Knowledge about obesity and overweight, and effects of educational interventions in adolescents aged 15-17 years in the suburban area in Hanoi, Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học quốc gia về Nghiên cứu và giảng dạy Sinh học lần thứ 5/NXB Khoa học Tự nhiên và Công nghệ, ISBN: 978-604-357-065-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "679-685",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "RNA isolation and adipose biomarkers' expression in fresh versus forzen mouse fat tissues",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Công nghệ sinh học toàn quốc 2021; Nhà xuất bản Đại học Thái nguyên năm 2021/978-604-9987-88-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "463-467",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Free fatty acid enhances expression of inflammatory markers il6, tlr2, tlr4 in c2c12 muscle cells",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học quốc gia về Nghiên cứu và giảng dạy Sinh học lần thứ lần / NXB Khoa học tự nhiên và Công nghệ, ISBN: 978-604-9955-25-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "646-651",
+            "published_date": "07/2020"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu sự biểu hiện và thay đổi của một số thụ thể sinh học quan trọng trên mô mỡ ở chuột",
+            "role": "Principal Investigator",
+            "project_code": "106.02-2019.314",
+            "management_level": "Quỹ Nafosted",
+            "period": "2020-2023",
+            "acceptance_date": "29 tháng 11 năm 2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu một số đặc điểm lâm sàng, phi lâm sàng, dịch tễ và sự biến đổi, đột biến gene ở bệnh nhân ung thư buồng trứng",
+            "role": "Principal Investigator",
+            "project_code": "776/QĐ-ĐHQGHN",
+            "management_level": "Đại học Quốc gia Hà Nội",
+            "period": "2021-2023",
+            "acceptance_date": "03 tháng 05 năm 2024",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu thực trạng triệu chứng hậu COVID-19 và một số yếu tố liên quan tại Việt Nam năm 2022",
+            "role": "Principal Investigator",
+            "project_code": "CS.NNC/2022-01",
+            "management_level": "Trường Quốc tế – ĐHQGHN",
+            "period": "2022-2023",
+            "acceptance_date": "27 tháng 06 năm 2024",
+            "rating": "Tốt (Đạt 82/100 điểm)"
+        },
+        {
+            "title": "Nghiên cứu sự sẵn sàng tiêm phòng vắc xin COVID-19 ở Việt Nam năm 2021",
+            "role": "Principal Investigator",
+            "project_code": "CS.NNC/2021-06",
+            "management_level": "Khoa Quốc tế (Nay là Trường Quốc tế) – ĐHQGHN",
+            "period": "2021-2022",
+            "acceptance_date": "14 tháng 04 năm 2022",
+            "rating": "Tốt (Đạt 87/100 điểm)"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, X-Quang và di truyền phân tử ở bệnh nhân có hội chứng loạn sản ngoại bì thiếu tuyến mồ hôi",
+            "role": "Co-Investigator",
+            "project_code": "2062/QĐ-ĐHYHN",
+            "management_level": "Đại học Y Hà Nội",
+            "period": "2017-2018",
+            "acceptance_date": "30 tháng 01 năm 2018",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "So sách kết quả điều trị hỗ trợ viêm lợi của dung dịch nước muốn điện hóa Dr.CEA và dung dịch nước xúc miệng KIN Gingival",
+            "role": "Co-Investigator",
+            "project_code": "2063/QĐ-ĐHYHN",
+            "management_level": "Đại học Y Hà Nội",
+            "period": "2017-2018",
+            "acceptance_date": "30 tháng 01 năm 2018",
+            "rating": "Khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Bệnh học Động vật",
+            "type": "Reference Book",
+            "publisher": "NXB ĐHSPHN",
+            "publish_year": "2013",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 1 (Trang 8-37); Chương 3 (Trang 50-109); Chương 5 (Trang 126-140); Phần thực hành (Trang 144-156)",
+            "verification_document_id": "06/GCN-TQT của Trường Quốc tế - ĐHQGHN; 130/GCN-ĐHSPHN của Trường ĐH Sư phạm Hà Nội"
+        },
+        {
+            "title": "Microbial Genomic Islands in Adaptation and Pathogenicity",
+            "type": "Reference Book",
+            "publisher": "NXB Springer (Springer Nature Singapore)",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 6 (Trang 111-126)",
+            "verification_document_id": "06/GCN-TQT của Trường Quốc tế - ĐHQGHN"
+        },
+        {
+            "title": "RNA Therapeutics Part A - Progress in Molecular Biology and Translational Science, Volume 203",
+            "type": "Reference Book",
+            "publisher": "NBX Elsevier (Academic Press)",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1 (Trang 1-10); Chương 4 (Trang 65-78); Chương 5 (Trang 83-95); Chương 10 (Trang 181-194); Chương 12-16 (Trang 225-296)",
+            "verification_document_id": "06/GCN-TQT của Trường Quốc tế - ĐHQGHN"
+        },
+        {
+            "title": "RNA Therapeutics Part B - Progress in Molecular Biology and Translational Science, Volume 204",
+            "type": "Reference Book",
+            "publisher": "NBX Elsevier (Academic Press)",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 7 (Trang 163-176); Chương 11-12 (Trang 295-330)",
+            "verification_document_id": "06/GCN-TQT của Trường Quốc tế - ĐHQGHN"
+        },
+        {
+            "title": "\"Adipose Stem Cells for Metabolic Disorders: The Findings and Potential Applications\"",
+            "type": "Monograph",
+            "publisher": "Elsevier/978-0-443-15717-2",
+            "publish_year": "2024",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 4.08: 115-122",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Computational Tools for Genomics Data Analysis\" Trong Sách: Advances in Genomics: Methods and Applications",
+            "type": "Monograph",
+            "publisher": "Springer Nature/978-981-97-3169-5",
+            "publish_year": "2024",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 2: 41-54",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Metagenomics and its Applications\" Trong Sách: Advances in Genomics: Methods and Applications",
+            "type": "Monograph",
+            "publisher": "Springer Nature/978-981-97-3169-5",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 8: 167-180",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Epigenetic regulation in ovarian cancer\", Trong Series sách: International Review of Cell and Molecular Biology, tập 387- Epigenetic Regulation of Cancer – Part C",
+            "type": "Monograph",
+            "publisher": "Elsevier/978-0-443-21446-2",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 3: 77-98",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Epigenetic contribution to the relationship between obesity and cancer\", Trong Series sách International Review of Cell and Molecular Biology, tập 387- Epigenetic Regulation of Cancer – Part C",
+            "type": "Monograph",
+            "publisher": "Elsevier/978-0-443-21446-2",
+            "publish_year": "2024",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 6: 195-213",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Histone modifications in fat metabolism and obesity\" Trong series sách Progress in Molecular Biology and Translational Science, Tập 197: Epigenetics in Health and Disease - Part A",
+            "type": "Monograph",
+            "publisher": "Elsevier/978-0-443-18669-1",
+            "publish_year": "2023",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 4: 135-152",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Role of DNA methylation in diabetes and obesity\" Trong series sách Progress in Molecular Biology and Translational Science, Tập 197: Epigenetics in Health and Disease - Part A",
+            "type": "Monograph",
+            "publisher": "Elsevier/978-0-443-18669-1",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 7: 153-170",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"The Gene Expression and Mutations in Ovarian Cancer: Current Findings and Applications\" Trong Sách: Gynecological Cancers: An Interdisciplinary Approach",
+            "type": "Monograph",
+            "publisher": "Springer Nature/978-3-031-90397-7",
+            "publish_year": "2023",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "193-211",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Adrenoceptors and SCD1 in adipocytes/adipose tissues: The expression and variation in health and obesity\" Trong series sách Progress in Molecular Biology and Translational Science, Tập 194: Receptor Endocytosis and Signalling in Health and Disease - Part A",
+            "type": "Monograph",
+            "publisher": "Elsevier/978-0-443-19185-5",
+            "publish_year": "2023",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 12: 311-332",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Frizzled receptors and SFRP5 in lipid metabolism: Current findings and potential applications\" Trong series sách Progress in Molecular Biology and Translational Science, Tập 194: Receptor Endocytosis and Signalling in Health and Disease - Part A",
+            "type": "Monograph",
+            "publisher": "Elsevier/978-0-443-19185-5",
+            "publish_year": "2023",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 15:377-393",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Cancer and Lipid Metabolism: Roles of Adipocytes on Tumor Microenvironment\" Trong Sách: Handbook of Cancer and Immunology",
+            "type": "Monograph",
+            "publisher": "Springer Nature/978-3-030-80962-1",
+            "publish_year": "2022",
+            "num_authors": 6,
+            "is_editor_in_chief": true,
+            "compiled_pages": "195-213",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Autoimmune diseases and metabolic disorders: Molecular connections and potential therapeutic targets\" trong Sách: Translational Autoimmunity: Autoimmune Diseases in Different Clinical Settings, Tập 3",
+            "type": "Monograph",
+            "publisher": "Elsevier/978-0-323-85415-3",
+            "publish_year": "2022",
+            "num_authors": 9,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 8: 169-183",
+            "verification_document_id": ""
+        },
+        {
+            "title": "\"Paramyxoviridae (Paramyxovirus, Measles Virus, Mumps Virus, RSV)\" trong Sách: Encyclopedia of Infection and Immunity Volume, Tập 2",
+            "type": "Monograph",
+            "publisher": "Elsevier/978-0-323-90303-5",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 7: 79-85",
+            "verification_document_id": ""
+        }
+    ],
+    "patents": [
+        {
+            "title": "Quy trình in vitro phát hiện biến thể trên gen BRCA1 hoặc BRAC2 ứng dụng phát triển kít xét nghiệm (Số đơn: 1-2024-04800)",
+            "issuing_authority": "Cục sở hữu chí tuệ",
+            "issue_date": "11/10/2025",
+            "is_main_inventor": true,
+            "num_inventors": 5
+        },
+        {
+            "title": "Hệ để đánh giá khả năng kích thích hình thành tế bào mỡ sinh nhiện in vitro (Số đơn: 1-2024-07668)",
+            "issuing_authority": "Cục sở hữu chí tuệ",
+            "issue_date": "13/12/2024",
+            "is_main_inventor": true,
+            "num_inventors": 5
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Thành tích xuất sắc trong nghiên cứu khoa học và đổi mới sáng tạo năm 2024",
+            "certifying_organization": "Giám đốc ĐHQGHN",
+            "certificate_document_id": "Quyết định số 175/QĐ-ĐHQGHN ngày 10/01/2025",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc trong nghiên cứu khoa học và đổi mới sáng tạo năm 2023",
+            "certifying_organization": "Giám đốc ĐHQGHN",
+            "certificate_document_id": "Quyết định số 231/QĐ-ĐHQGHN ngày 19/01/2024",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc cho năm học 2022-2023",
+            "certifying_organization": "Hiệu trưởng Trường Quốc tế",
+            "certificate_document_id": "Quyết định số 873/QĐ-TQT, ngày 19/07/2024",
+            "award": "Giấy khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Hoàn thành xuất sắc nhiệm vụ hai năm liên tục từ năm học 2020-2021 đến năm học 2021-2022",
+            "certifying_organization": "Bộ trưởng Bộ GĐĐT",
+            "certificate_document_id": "Quyết định số 586/QĐ-BGDĐT ngày 24/02/2023",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích suất sắc trong nghiên cứu khoa học và đổi mới sáng tạo 2022",
+            "certifying_organization": "Giám đốc ĐHQGHN",
+            "certificate_document_id": "Quyết định số 540/QĐ-ĐHQGHN ngày 24/02/2023",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc cho năm học 2021-2022",
+            "certifying_organization": "Giám đốc ĐHQGHN",
+            "certificate_document_id": "Quyết định số 3375/QĐ-ĐHQGHN ngày 05/10/2022",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích suất sắc trong nghiên cứu khoa học và đăng ký sở hữu trí tuệ năm 2021",
+            "certifying_organization": "Giám đốc ĐHQGHN",
+            "certificate_document_id": "Quyết định số 469/QĐ-ĐHQGHN ngày 28/02/2022",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở năm học 2023-2024",
+            "certifying_organization": "Trường Quốc tế - ĐHQGHN",
+            "certificate_document_id": "QĐ số 256/QĐ-TQT, ngày 25/02/2025",
+            "award": "Chiến sĩ thi đua cấp cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở năm học 2022-2023",
+            "certifying_organization": "Trường Quốc tế - ĐHQGHN",
+            "certificate_document_id": "QĐ số 873/QĐ-TQT, ngày 19/07/2024",
+            "award": "Chiến sĩ thi đua cấp cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp cơ sở năm học 2021-2022",
+            "certifying_organization": "Trường Quốc tế - ĐHQGHN",
+            "certificate_document_id": "QĐ số 779/QĐ-TQT, ngày 04/08/2022",
+            "award": "Chiến sĩ thi đua cấp cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Cá nhân nhiều đóng góp cho hoạt động Khoa học và Công nghệ của Trường năm 2024",
+            "certifying_organization": "Trường Quốc tế - ĐHQGHN",
+            "certificate_document_id": "Quyết số 310/QĐ-TQT, ngày 04/03/2025",
+            "award": "Danh hiệu",
+            "num_contributors": 1
+        },
+        {
+            "title": "Cá nhân có thành tích xuất sắc trong công bố quốc tế WoS/Scopus năm 2024",
+            "certifying_organization": "Trường Quốc tế - ĐHQGHN",
+            "certificate_document_id": "Quyết định số 311/QĐ-TQT, ngày 04/03/2025",
+            "award": "Danh hiệu",
+            "num_contributors": 1
+        },
+        {
+            "title": "Cá nhân có nhiều đóng góp cho sự phát triển KH&CN của Trường năm 2023",
+            "certifying_organization": "Trường Quốc tế - ĐHQGHN",
+            "certificate_document_id": "Quyết định số 1709/QĐ-TQT, ngày 29/12/2023",
+            "award": "Danh hiệu",
+            "num_contributors": 1
+        },
+        {
+            "title": "Nhà Khoa Có công bố xuất sắc năm 2021",
+            "certifying_organization": "Chủ nhiệm Khoa Quốc tế (nay là Trường Quốc tế)",
+            "certificate_document_id": "Quyết định số 72/QĐ-KQT ngày 21/01/2022",
+            "award": "Danh hiệu",
+            "num_contributors": 1
+        },
+        {
+            "title": "Huy hiệu tuổi trẻ sáng tạo",
+            "certifying_organization": "Bí thư TWĐTN",
+            "certificate_document_id": "Quyết định số 494 QĐ/TWĐTN ngày 28/12/2018",
+            "award": "Huy hiệu",
+            "num_contributors": 1
+        },
+        {
+            "title": "Nhà giáo đổi mới sáng tạo Đại học Quốc gia Hà Nội năm 2024",
+            "certifying_organization": "Giám đốc ĐHQGHN",
+            "certificate_document_id": "Quyết định số 44/QĐ-ĐHQGHN ngày 06/01/2025",
+            "award": "Giải thưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Nhà giáo Đại học Quốc gia Hà Nội 2022",
+            "certifying_organization": "Giám đốc ĐHQGHN",
+            "certificate_document_id": "Quyết định số 64/QĐ-ĐHQGHN ngày 10/01/2022",
+            "award": "Giải thưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đặng Văn Ngữ 2019 (Giải Cống hiến và hợp tác khoa học – Công nghệ)",
+            "certifying_organization": "Hiệu trưởng trường ĐHYHN",
+            "certificate_document_id": "Quyết định số 6505/QĐ-ĐHYHN ngày 03/12/2019",
+            "award": "Giải thưởng",
+            "num_contributors": 1
+        },
+        {
+            "title": "Nghiên cứu Khoa học Công nghệ Thanh niên Quả cầu vàng 2018",
+            "certifying_organization": "Bí thư TWĐTN",
+            "certificate_document_id": "Quyết định số 493 QĐ/TWĐTN ngày 24/12/2018",
+            "award": "Giải thưởng",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Xây dựng Chương trình đào tạo Thạc sĩ Công nghệ kỹ thuật y sinh",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định số 91/QĐ-KQT ngày 25/01/2022",
+            "certifying_authority": "Đại học Quốc gia Hà Nội",
+            "implementation_document_id": "Quyết định số 4774/QĐ-ĐHQGHN ngày 14/12/2023",
+            "notes": "Chương trình đang triển khai đào tạo"
+        }
+    ]
+}

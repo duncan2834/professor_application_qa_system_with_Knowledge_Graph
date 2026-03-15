@@ -1,0 +1,337 @@
+{
+    "papers": [
+        {
+            "title": "Tiếp cận chiến lược trong tiếp thị địa phương",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "TCKH Đại học Đà Lạt (ISSN 0866 787X)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1, tr 49-57",
+            "published_date": "2012"
+        },
+        {
+            "title": "Productivity spillovers from foreign multinationals and trade protection: firm level analysis of Vietnamese Manufacturing",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Pacific Economics Literature Online ISSN:1467-8411 Print ISSN:0818-9935",
+            "journal_ranking": "ISI- SSCI (IF 1,62)",
+            "citation_count": 10,
+            "volume_issue_pages": "29 (2), 30-46",
+            "published_date": "2015"
+        },
+        {
+            "title": "Trade protection and productivity gap between Multinationals and local firms in Vietnamese manufacturing",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Southeast Asian Economies ISSN 2339-5095/ISSN 2339-5206 e",
+            "journal_ranking": "ESCI/ SCOPUS",
+            "citation_count": 2,
+            "volume_issue_pages": "37 (3), 251-269",
+            "published_date": "2020"
+        },
+        {
+            "title": "Tác động của các hoạt động thân thiện với môi trường đến hình ảnh thương hiệu và thái độ của khách hàng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương Mại (ISSN 1859-3666)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "159, tr 52-61",
+            "published_date": "2021"
+        },
+        {
+            "title": "Áp dụng đổi mới sáng tạo trong trung tâm hỗ trợ khởi nghiệp trường Đại học Đà Lạt",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học Khởi nghiệp đổi mới sáng tạo (ISBN 978-604-920-136-3)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2021"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến ý định khởi nghiệp của sinh viên trường nghề- nghiên cứu trường hợp tại Trường Cao đẳng Lâm Đồng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Đại học Yersin (ISSN 2525-2372)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 9, tr 22-33",
+            "published_date": "2021"
+        },
+        {
+            "title": "Is national governance quality a key moderator of the boardroom gender diversity- firm performance relationship? International evidence from a multi-hierachical analysis",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Review of Economics and Finance Online ISSN: 1873-8036 Print ISSN: 1059-0560",
+            "journal_ranking": "ISI-SSCI/ A (IF 4.5)",
+            "citation_count": 42,
+            "volume_issue_pages": "73, tr 370-390",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu các yếu tố ảnh hưởng đến ý định sản xuất nông nghiệp hữu cơ của nông dân tại Huyện Lạc Dương",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Đại học Yersin (ISSN 2525-2372)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, tr 19-28",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tác động của đổi mới sáng tạo xanh đến hiệu quả hoạt động- nghiên cứu trường hợp một số doanh nghiệp tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học “Kinh tế, tài chính, ngân hàng và kế toán kiểm toán trong bối cảnh chuyển đổi số” (ISBN 978-604-79-3217-7)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 1-13",
+            "published_date": "2022"
+        },
+        {
+            "title": "Từ mô hình giá trị thương hiệu dựa trên khách hàng đến giải pháp nâng cao giá trị thương hiệu thành phố Festival hoa Đà Lạt",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo Đà Lạt thành phố Festival hoa (ISBN:978-604-79-3507-9)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 130-136",
+            "published_date": "2022"
+        },
+        {
+            "title": "Các yếu tố tác động đến hiệu quả áp dụng hệ thống quản lý theo tiêu chuẩn tại các doanh nghiệp Tỉnh Lâm Đồng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và dự báo (e-ISSN: 2734-9365)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 30 (820) trang 55-59",
+            "published_date": "2022"
+        },
+        {
+            "title": "Các yếu tố để áp dụng thành công đổi mới sáng tạo xanh ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11 (546), tr 28-37",
+            "published_date": "2023"
+        },
+        {
+            "title": "AHP-SWOT analysis of strengths, weaknesses, opportunities, and threats of implementing green innovation",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Thailand and the World Economy (P-ISSN: 2630-0931/ISSN: 2651-0529)",
+            "journal_ranking": "SCOPUS Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 41, No. 3 p 66-87",
+            "published_date": "2023"
+        },
+        {
+            "title": "Barrier perceived by companies and potential solutions to foster green innovation in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Thailand and the World Economy (P-ISSN: 2630-0931/ISSN: 2651-0529)",
+            "journal_ranking": "SCOPUS Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 42. No 1. P 91-109",
+            "published_date": "2024"
+        },
+        {
+            "title": "Động lực phụng sự công và các yếu tố tác động đến động lực học tập của sinh viên- Nghiên cứu tại trường Cao đẳng y tế Lâm Đồng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNU Journal of Science: Policy Management Studies- Tạp chí Nghiên cứu chính sách và Quản lý (ISSN 2615-9295/ e-ISSN 2588-1116)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 40, tập 1, trang 77-87",
+            "published_date": "2024"
+        },
+        {
+            "title": "Nghiên cứu các nhân tố ảnh hưởng đến sự gắn kết của nhân viên trong các doanh nghiệp có vốn FDI trên địa bàn Tp. Đà Lạt",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và dự báo (e-ISSN: 2734-9365)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 06/2024 (869) trang 95-99",
+            "published_date": "2024"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến việc áp dụng phương pháp thẻ điểm cân bằng- nghiên cứu trường hợp tại trung tâm kinh doanh VNPT Lâm Đồng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Quản trị kinh doanh (ISSN 2525-2569)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 28/2024 trang 20-26",
+            "published_date": "2024"
+        },
+        {
+            "title": "Green innovation practices: a case study of Vietnamese Manufacturing companies",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business and Management (ISSN 2331-1975)",
+            "journal_ranking": "ESCI IF 3.0 SCOPUS Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 11 (1) 2333603",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Tìm hiểu công tác xúc tiến quảng bá du lịch Đà Lạt- Lâm Đồng",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2003",
+            "acceptance_date": "",
+            "rating": "Khá"
+        },
+        {
+            "title": "Khảo sát năng lực cạnh tranh của các doanh nghiệp trên địa bàn Tỉnh Lâm Đồng",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Tỉnh (Lâm Đồng)",
+            "period": "7/2006-12/2007",
+            "acceptance_date": "18/9/2008",
+            "rating": "Khá"
+        },
+        {
+            "title": "Thực trạng và giải pháp về xây dựng thương hiệu rau tại thành phố Đà Lạt, Tỉnh Lâm Đồng",
+            "role": "Key Member",
+            "project_code": "B2007-14-17",
+            "management_level": "Bộ GD&ĐT",
+            "period": "2007-2009",
+            "acceptance_date": "8/2009",
+            "rating": "Khá"
+        },
+        {
+            "title": "Biên soạn hệ thống điển cứu dùng trong giảng dạy bộ môn Marketing – ngành QTKD",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2008",
+            "acceptance_date": "",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Khảo sát ý kiến khách du lịch nước ngoài về điểm mạnh, điểm yếu của du lịch Đà Lạt",
+            "role": "Principal Investigator",
+            "project_code": "B2009-14-28",
+            "management_level": "Bộ GD&ĐT",
+            "period": "2009-2010",
+            "acceptance_date": "",
+            "rating": "Khá"
+        },
+        {
+            "title": "Đo lường chất lượng dịch vụ y tế của các bệnh viện tuyến tỉnh của Lâm Đồng để nâng cao chất lượng phục vụ bệnh nhân",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Tỉnh (Lâm Đồng)",
+            "period": "2014-2015",
+            "acceptance_date": "8/12/2015",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Vấn đề giới trong hội đồng quản trị và quản trị công ty.",
+            "role": "Key Member",
+            "project_code": "Nafosted B502.02-2015.26",
+            "management_level": "Nhiệm vụ KH&CN cấp quốc gia (Bộ KH&CN)",
+            "period": "04/2017-04/2019",
+            "acceptance_date": "9/7/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu thực trạng đầu tư nước ngoài tại tỉnh Lâm Đồng",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Tỉnh (Lâm Đồng)",
+            "period": "2019-2021",
+            "acceptance_date": "",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Đổi mới sáng tạo xanh trong các doanh nghiệp Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "Nafosted B14.25-2019",
+            "management_level": "",
+            "period": "5/2019-5/2021",
+            "acceptance_date": "",
+            "rating": "Không đạt do quá hạn, bài báo được chấp nhận đăng"
+        }
+    ],
+    "books": [
+        {
+            "title": "Đổi mới sáng tạo xanh",
+            "type": "Monograph",
+            "publisher": "Nxb. Đại học Quốc gia Hà Nội",
+            "publish_year": "2023",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-94; 118-150, 168-189",
+            "verification_document_id": "Số 420/QĐ-ĐHĐL ngày 23/5/2023"
+        },
+        {
+            "title": "Quản trị chất lượng",
+            "type": "Textbook",
+            "publisher": "Nxb Kinh tế Tp.HCM",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Viết một mình",
+            "verification_document_id": "SỐ 610/QĐ-ĐHĐL ngày 7/7/2023"
+        },
+        {
+            "title": "Quản trị thương hiệu",
+            "type": "Textbook",
+            "publisher": "Nxb Kinh tế Tp.HCM",
+            "publish_year": "2023",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "3-180",
+            "verification_document_id": "SỐ 609/QĐ-ĐHĐL ngày 7/7/2023"
+        },
+        {
+            "title": "Đổi mới sáng tạo và khởi nghiệp",
+            "type": "Textbook",
+            "publisher": "Nxb Kinh tế Tp.HCM",
+            "publish_year": "2023",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "46-145",
+            "verification_document_id": "SỐ 611/QĐ-ĐHĐL ngày 7/7/2023"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo cử nhân ngành tài chính",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Tờ trình ngày 6/1/2020",
+            "certifying_authority": "Trường Đại học Đà Lạt",
+            "implementation_document_id": "Quyết định số 105/QĐ-ĐHĐL ngày 25/2/2021",
+            "notes": "Uỷ viên thư ký, trưởng ban chuyên môn"
+        },
+        {
+            "title": "Chương trình đào tạo Tiến sĩ ngành Quản trị kinh doanh",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Kế hoạch số 733/KH-ĐHĐL ngày 12/7/2022 Hiệu trưởng Trường Đại học Đà Lạt",
+            "certifying_authority": "Bộ Giáo dục và đào tạo",
+            "implementation_document_id": "Quyết định số 1589/QĐ-ĐHĐL ngày 29/12/23",
+            "notes": "Uỷ viên"
+        },
+        {
+            "title": "Chương trình đào tạo thạc sĩ ngành Quản trị kinh doanh",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 663/QĐ-ĐHĐL ngày 14/10/2015 của Hiệu trưởng trường Đại học Đà Lạt",
+            "certifying_authority": "Bộ Giáo dục và Đào tạo",
+            "implementation_document_id": "Quyết định số 147/QĐ-BGDĐT, ngày 13/1/2017 của Bộ trưởng Bộ GD&ĐT",
+            "notes": "Phó CT hội đồng"
+        }
+    ]
+}

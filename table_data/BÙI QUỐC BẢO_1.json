@@ -1,0 +1,664 @@
+{
+    "papers": [
+        {
+            "title": "Durability of rammed earth walls exposed for 20 years to natural weathering, https://doi.org/10.1016/j.buildenv.2008.07.001",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Building and Environment, ISSN: 0360-1323",
+            "journal_ranking": "ISI (IF = 7.1; Q1)",
+            "citation_count": 356,
+            "volume_issue_pages": "44(5), 912-919",
+            "published_date": "05, 2009"
+        },
+        {
+            "title": "Assessing the anisotropy of rammed earth, https://doi.org/10.1016/j.conbuildmat.2009.04.011",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building Materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4; Q1)",
+            "citation_count": 121,
+            "volume_issue_pages": "23, 3005-3011",
+            "published_date": "09, 2009"
+        },
+        {
+            "title": "Compression behaviour of non-industrial materials in civil engineering by three scale experiments: the case of rammed earth, https://doi.org/10.1617/s11527-008-9446-y",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materials and structures, ISSN: 1871-6873",
+            "journal_ranking": "ISI (IF = 3.4; Q1)",
+            "citation_count": 226,
+            "volume_issue_pages": "42, 1101-1116",
+            "published_date": "10, 2009"
+        },
+        {
+            "title": "First exploratory study on dynamic characteristics of rammed earth buildings. https://doi.org/10.1016/j.engstruct.2011.08.004",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering Structures, ISSN: 0141-0296",
+            "journal_ranking": "ISI (IF = 5.6; Q1)",
+            "citation_count": 98,
+            "volume_issue_pages": "33(12), 3690-3695",
+            "published_date": "12, 2011"
+        },
+        {
+            "title": "Failure of rammed earth walls: From observations to quantifications, https://doi.org/10.1016/j.conbuildmat.2013.10.053",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building Materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4, Q1)",
+            "citation_count": 147,
+            "volume_issue_pages": "51, 295-302",
+            "published_date": "01, 2014"
+        },
+        {
+            "title": "Effect of moisture content on the mechanical characteristics of rammed earth, https://doi.org/10.1016/j.conbuildmat.2013.12.067",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building Materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4, Q1)",
+            "citation_count": 305,
+            "volume_issue_pages": "54, 163-169",
+            "published_date": "03, 2014"
+        },
+        {
+            "title": "Dynamic behaviour of an asymmetric building: experimental and numerical studies, https://doi.org/10.1016/j.csndt.2014.07.001",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case Studies in Nondestructive Testing and Evaluation, ISSN: 2214-6571",
+            "journal_ranking": "Scopus, Q2",
+            "citation_count": 20,
+            "volume_issue_pages": "2, 38-48",
+            "published_date": "10, 2014"
+        },
+        {
+            "title": "Assessing local-scale damage in reinforced concrete frame structures using dynamic measurements, https://doi.org/10.1016/j.engstruct.2014.07.038",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering Structures, ISSN: 0141-0296",
+            "journal_ranking": "ISI (IF = 5.6, Q1)",
+            "citation_count": 12,
+            "volume_issue_pages": "79, 22-31",
+            "published_date": "11, 2014"
+        },
+        {
+            "title": "Characterisation of vibration and damage in masonry structures: experimental and numerical analysis, https://doi.org/10.1080/19648189.2014.88335",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "European journal of environmental and civil engineering, ISSN: 2116-7214",
+            "journal_ranking": "ISI (IF = 2.2, Q2)",
+            "citation_count": 15,
+            "volume_issue_pages": "18(10), 1118-1129",
+            "published_date": "11, 2014"
+        },
+        {
+            "title": "First exploratory study on the ageing of rammed earth material, https://doi.org/10.3390/ma8010001",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materials, ISSN: 1996-1944",
+            "journal_ranking": "ISI (IF = 3.1, Q2)",
+            "citation_count": 26,
+            "volume_issue_pages": "8(1), 1-15",
+            "published_date": "12, 2014"
+        },
+        {
+            "title": "Modeling rammed earth wall using discrete element method, https://doi.org/10.1007/s00161-015-0460-3",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Continuum Mechanics and Thermodynamics, ISSN: 1432-0959",
+            "journal_ranking": "ISI (IF = 1.9, Q2)",
+            "citation_count": 45,
+            "volume_issue_pages": "28, 523-538",
+            "published_date": "03, 2016"
+        },
+        {
+            "title": "How to use in-situ soils as building materials, https://doi.org/10.1016/j.proeng.2016.04.145",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Procedia Engineering, ISSN: 1877-7058",
+            "journal_ranking": "Scopus",
+            "citation_count": 15,
+            "volume_issue_pages": "145, 1119-1126",
+            "published_date": "05, 2016"
+        },
+        {
+            "title": "Assessing the seismic performance of rammed earth walls by using discrete elements, https://doi.org/10.1080/23311916.2016.1200835",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Engineering, ISSN: 2331-1916",
+            "journal_ranking": "ISI (IF = 2.1, Q2)",
+            "citation_count": 16,
+            "volume_issue_pages": "3(1), 1200835",
+            "published_date": "12, 2016"
+        },
+        {
+            "title": "Assessing a nondestructive method to determine the Young's modulus of rammed earth material, https://ascelibrary.org/doi/10.1061/9780784480779.106",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Poromechanics VI: Proceedings of the sixth Biot conference on Poromechanics, Paris, 7-2017, ISBN: 9780784480779",
+            "journal_ranking": "ISI (thuộc Book series \"Poromechanics\", không có IF và Q)",
+            "citation_count": 3,
+            "volume_issue_pages": "855-863",
+            "published_date": "07, 2017"
+        },
+        {
+            "title": "Assessing the in-plane seismic performance of rammed earth walls by using horizontal loading tests, https://doi.org/10.1016/j.engstruct.2017.05.027",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering Structures, ISSN: 0141-0296",
+            "journal_ranking": "ISI (IF = 5.6, Q1)",
+            "citation_count": 59,
+            "volume_issue_pages": "145, 153-161",
+            "published_date": "08, 2017"
+        },
+        {
+            "title": "A bamboo treatment procedure: Effects on the durability and mechanical performance, https://doi.org/10.3390/su9091444",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability, ISSN: 2071-1050",
+            "journal_ranking": "ISI (IF = 3.3, Q1)",
+            "citation_count": 65,
+            "volume_issue_pages": "9(9), 1444",
+            "published_date": "08, 2017"
+        },
+        {
+            "title": "Using Wastes from Thermal Power Plants for Manufacturing of Low Strength Construction Materials, https://doi.org/10.1007/978-981-10-6713-6_61",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 4th Congrès International de Géotechnique - Ouvrages Structures (CIGOS 2017), Lecture Notes in Civil Engineering, ISBN: 978-981-10-6712-9",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "8, 617-624",
+            "published_date": "10, 2017"
+        },
+        {
+            "title": "Assessing the rebound hammer test for rammed earth material, https://doi.org/10.3390/su9101904",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability, ISSN: 2071-1050",
+            "journal_ranking": "ISI (IF = 3.3, Q1)",
+            "citation_count": 19,
+            "volume_issue_pages": "9(10), 1904",
+            "published_date": "10, 2017"
+        },
+        {
+            "title": "An experimental study on earthen materials stabilized by geopolymer, https://doi.org/10.1007/978-981-10-6713-6_31",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 4th Congrès International de Géotechnique-Ouvrages-Structures, (CIGOS 2017), Lecture Notes in Civil Engineering, ISBN: 978-981-10-6712-9",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 8,
+            "volume_issue_pages": "8, 319-328",
+            "published_date": "10, 2017"
+        },
+        {
+            "title": "An assessment on volume stabilization of mortar with stainless steel slag sand, https://doi.org/10.1016/j.conbuildmat.2017.08.069",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Construction and Building materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7,4, Q1)",
+            "citation_count": 47,
+            "volume_issue_pages": "155, 200-208",
+            "published_date": "11, 2017"
+        },
+        {
+            "title": "Influence of thermo-pressing conditions on insulation materials from bamboo fibers and proteins based bone glue, https://doi.org/10.1016/j.indcrop.2017.12.009",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Industrial Crops and Products, ISSN: 0926-6690",
+            "journal_ranking": "ISI (IF = 5,6, Q1)",
+            "citation_count": 65,
+            "volume_issue_pages": "111, 834-845",
+            "published_date": "01, 2018"
+        },
+        {
+            "title": "Limit analysis, rammed earth material and Casagrande test, https://doi.org/10.1016/j.crme.2017.11.007",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Comptes Rendus Mécanique, ISSN: 1631-0721",
+            "journal_ranking": "ISI (đã ngưng xuất bản từ 2020, không có IF 2023), Q3",
+            "citation_count": 3,
+            "volume_issue_pages": "346(2), 98-109",
+            "published_date": "01, 2018"
+        },
+        {
+            "title": "Sustainable RC beam-column connections with headed bars: a formula for shear strength evaluation, https://doi.org/10.3390/su10020401",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability, ISSN: 2071-1050",
+            "journal_ranking": "ISI (IF = 3.3, Q1)",
+            "citation_count": 11,
+            "volume_issue_pages": "10(2), 401",
+            "published_date": "02, 2018"
+        },
+        {
+            "title": "Tentative to use wastes from thermal power plants for construction building materials, https://iopscience.iop.org/article/10.1088/1755-1315/143/1/012041",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "IOP Conference Series: Earth and Environmental Science, ISSN: 1755-1315",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 1,
+            "volume_issue_pages": "143(1), 012041",
+            "published_date": "04, 2018"
+        },
+        {
+            "title": "A new concept of precast concrete retaining wall: from laboratory model to the in-situ tests, https://iopscience.iop.org/article/10.1088/1755-1315/143/1/012001",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "IOP Conference Series: Earth and Environmental Science, ISSN: 1755-1315",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 3,
+            "volume_issue_pages": "143(1), 012001",
+            "published_date": "04, 2018"
+        },
+        {
+            "title": "Characterizing the shear parameters of rammed earth material by using a full-scale direct shear box, https://doi.org/10.1016/j.conbuildmat.2018.03.142",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4, Q1)",
+            "citation_count": 40,
+            "volume_issue_pages": "171, 414-420",
+            "published_date": "05, 2018"
+        },
+        {
+            "title": "Shear parameters of rammed earth material: Results from different approaches, https://doi.org/10.1155/2018/8214604",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Materials Science and Engineering, ISSN:1687-8442",
+            "journal_ranking": "Scopus, Q2",
+            "citation_count": 17,
+            "volume_issue_pages": "2018(1), 8214604",
+            "published_date": "10, 2018"
+        },
+        {
+            "title": "Building bio-insulation materials based on bamboo powder and bio-binders, https://doi.org/10.1016/j.conbuildmat.2018.07.153",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Construction and Building materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4, Q1)",
+            "citation_count": 87,
+            "volume_issue_pages": "186, 686-698",
+            "published_date": "10, 2018"
+        },
+        {
+            "title": "Dynamic discrete element modelling for seismic assessment of rammed earth walls, https://doi.org/10.1016/j.engstruct.2018.08.084",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering Structures, ISSN: 0141-0296",
+            "journal_ranking": "ISI (IF = 5.6, Q1)",
+            "citation_count": 21,
+            "volume_issue_pages": "175, 690-699",
+            "published_date": "11, 2018"
+        },
+        {
+            "title": "Vertical rods as a seismic reinforcement technique for rammed earth walls: an assessment, https://doi.org/10.1016/j.engstruct.2019.01.009",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Civil Engineering, ISSN:1687-8094",
+            "journal_ranking": "Scopus, Q2",
+            "citation_count": 21,
+            "volume_issue_pages": "2019(1), 1285937",
+            "published_date": "03, 2019"
+        },
+        {
+            "title": "Assessing the seismic behavior of rammed earth walls with an L-form cross-section, https://doi.org/10.3390/su11051296",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability, ISSN: 2071-1050",
+            "journal_ranking": "ISI (IF = 3.3, Q1)",
+            "citation_count": 15,
+            "volume_issue_pages": "11(5), 1296",
+            "published_date": "03, 2019"
+        },
+        {
+            "title": "Mechanical properties and microstructure analysis of FA-GGBS-HMNS based geopolymer concrete, https://doi.org/10.1016/j.conbuildmat.2019.03.202",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Construction and Building materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4, Q1)",
+            "citation_count": 204,
+            "volume_issue_pages": "210, 198-209",
+            "published_date": "06, 2019"
+        },
+        {
+            "title": "Assessing Damage to Beam-Column Connections in Reinforced Concrete Structures from Vibrational Measurement Results, https://doi.org/10.1080/10168664.2019.1581587",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Structural Engineering International, ISSN: 1683-0350",
+            "journal_ranking": "ISI (IF = 1.1, Q2)",
+            "citation_count": 7,
+            "volume_issue_pages": "29(3), 396-403",
+            "published_date": "07, 2019"
+        },
+        {
+            "title": "Rammed earth under horizontal loadings: Proposition of limit states, https://doi.org/10.1016/j.conbuildmat.2019.06.020",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4, Q1)",
+            "citation_count": 20,
+            "volume_issue_pages": "220, 238-244",
+            "published_date": "09, 2019"
+        },
+        {
+            "title": "Evaluation of one-way shear behaviour of reinforced concrete slabs: experimental and numerical analysis, https://doi.org/10.1080/19648189.2017.1371646",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "European Journal of Environmental and Civil Engineering, ISSN: 2116-7214",
+            "journal_ranking": "ISI (IF = 2.2, Q2)",
+            "citation_count": 26,
+            "volume_issue_pages": "24(2), 190-216",
+            "published_date": "01, 2020"
+        },
+        {
+            "title": "Steel nail embedded in rammed earth wall to support vertical loads: An investigation, https://doi.org/10.1016/j.conbuildmat.2019.117836",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4, Q1)",
+            "citation_count": 3,
+            "volume_issue_pages": "234, 117836",
+            "published_date": "02, 2020"
+        },
+        {
+            "title": "Out-of-plane behavior of rammed earth walls under seismic loading: Finite element simulation, https://doi.org/10.1016/j.istruc.2020.01.009",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Structures, ISSN: 2352-0124",
+            "journal_ranking": "ISI (IF = 3.9, Q1)",
+            "citation_count": 26,
+            "volume_issue_pages": "24, 191-208",
+            "published_date": "04, 2020"
+        },
+        {
+            "title": "Characterization of hygrothermal insulating biomaterials modified by inorganic adsorbents, https://doi.org/10.1007/s00231-020-02873-2",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Heat and Mass Transfer, ISSN: 1432-1181",
+            "journal_ranking": "ISI (IF = 1.3, Q2)",
+            "citation_count": 12,
+            "volume_issue_pages": "56(8), 2473-2485",
+            "published_date": "08, 2020"
+        },
+        {
+            "title": "Recycled aggregate concretes-A state-of-the-art from the microstructure to the structural performance, https://doi.org/10.1016/j.conbuildmat.2020.119522",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4, Q1)",
+            "citation_count": 148,
+            "volume_issue_pages": "257, 119522",
+            "published_date": "10, 2020"
+        },
+        {
+            "title": "Geopolymer Recycled Aggregate Concrete: From Experiments to Empirical Models, https://doi.org/10.3390/ma14051180",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materials, ISSN: 1996-1944",
+            "journal_ranking": "ISI (IF = 3.1, Q2)",
+            "citation_count": 52,
+            "volume_issue_pages": "14, 1180",
+            "published_date": "03, 2021"
+        },
+        {
+            "title": "An overview of the remaining challenges of the RILEM TC 274-TCE, testing and characterisation of earth-based building materials and elements, https://doi.org/10.21809/rilemtechlett.2021.149",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "RILEM Technical Letters, ISSN 2518-0231",
+            "journal_ranking": "Scopus, Q1",
+            "citation_count": 28,
+            "volume_issue_pages": "6, 150-157",
+            "published_date": "01, 2022"
+        },
+        {
+            "title": "Earth as construction material in the circular economy context: practitioner perspectives on barriers to overcome, https://doi.org/10.1098/rstb.2020.0182",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Philosophical Transactions of the Royal Society B, ISSN: 0962-8436",
+            "journal_ranking": "ISI (IF = 5.4; Q1)",
+            "citation_count": 125,
+            "volume_issue_pages": "376 (1834), 20200182",
+            "published_date": "09, 2021"
+        },
+        {
+            "title": "Waterproofing for Underground Structures Without Basement",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 6th International Conference on Geotechnics, Civil Engineering and Structures, CIGOS 2021, Lecture Notes in Civil Engineering, ISBN: 978-981-16-7159-3",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "203, 1291-1299",
+            "published_date": "10, 2021"
+        },
+        {
+            "title": "Evaluation of seismic performance of rammed earth building and improvement solutions, https://doi.org/10.1016/j.jobe.2021.103113",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Building Engineering, ISSN: 2352-7102",
+            "journal_ranking": "ISI (IF = 6.7; Q1)",
+            "citation_count": 13,
+            "volume_issue_pages": "43, 103113",
+            "published_date": "11, 2021"
+        },
+        {
+            "title": "Bê tông Geopolymer sử dụng cốt liệu tái chế: nghiên cứu một số phương pháp xử lý cốt liệu, https://doi.org/10.54772/jomc.6.2021.206",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Vật liệu và Xây dựng - Bộ Xây dựng, ISSN: 1859-381X",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "11(6), 28-34",
+            "published_date": "12, 2021"
+        },
+        {
+            "title": "Valorization of starch nanoparticles on microstructural and physical properties of PLA-starch nanocomposites, https://doi.org/10.1002/app.51757",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Applied Polymer Science, ISSN:1097-4628",
+            "journal_ranking": "ISI (IF = 2.7; Q2)",
+            "citation_count": 7,
+            "volume_issue_pages": "139(10), 51757",
+            "published_date": "03, 2022"
+        },
+        {
+            "title": "Application of nanotechnology for earth materials: An exploratory study with graphene-based nanosheets, https://doi.org/10.1016/j.conbuildmat.2022.126677",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4; Q1)",
+            "citation_count": 9,
+            "volume_issue_pages": "324, 126677",
+            "published_date": "03, 2022"
+        },
+        {
+            "title": "Assessing influences of different factors on the compressive strength of geopolymer-stabilised compacted earth, https://doi.org/10.1007/s41779-021-00667-1",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of the Australian Ceramic Society, ISSN: 2510-1579",
+            "journal_ranking": "ISI (IF = 1.8; Q2)",
+            "citation_count": 6,
+            "volume_issue_pages": "58, 379-395",
+            "published_date": "04, 2022"
+        },
+        {
+            "title": "Durability of geopolymer stabilised compacted earth exposed to wetting-drying cycles at different conditions of pH and salt, https://doi.org/10.1016/j.conbuildmat.2022.127168",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Construction and Building materials, ISSN: 0950-0618",
+            "journal_ranking": "ISI (IF = 7.4; Q1)",
+            "citation_count": 15,
+            "volume_issue_pages": "329, 127168",
+            "published_date": "04, 2022"
+        },
+        {
+            "title": "Fiber reinforced concrete for slabs without steel rebar reinforcement: Assessing the feasibility for 3D-printed individual houses, https://doi.org/10.1016/j.ccm.2022.e00950",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case Studies in Construction Materials, ISSN: 22145095",
+            "journal_ranking": "ISI (IF = 6.5; Q1)",
+            "citation_count": 32,
+            "volume_issue_pages": "16, e00950",
+            "published_date": "06, 2022"
+        },
+        {
+            "title": "Assessing the mechanical properties of geopolymer recycled aggregate concrete: Flexural strength, bond strength and thermo-mechanical behaviour, https://doi.org/10.1007/s41779-022-00801-7",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of the Australian Ceramic Society, ISSN: 2510-1579",
+            "journal_ranking": "ISI (IF = 1.8; Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "58(5), 1649-1665",
+            "published_date": "12, 2022"
+        },
+        {
+            "title": "Bê tông xi măng sử dụng vật liệu nano gốc Graphene: nghiên cứu một số đặc tính cơ học và độ bền, https://doi.org/10.54772/jomc.06.2023.585",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Vật liệu và Xây dựng - Bộ Xây dựng, ISSN: 1859-381X",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "13(06), 27-32",
+            "published_date": "12, 2023"
+        },
+        {
+            "title": "Manually compressed soil blocks stabilised by fly ash based geopolymer: a promising approach for sustainable buildings, https://doi.org/10.1038/s41598-023-50103-6",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Scientific Reports, ISSN: 2045-2322",
+            "journal_ranking": "ISI (IF = 3.8; Q1)",
+            "citation_count": 5,
+            "volume_issue_pages": "13(1), 22905",
+            "published_date": "12, 2023"
+        },
+        {
+            "title": "An Exploration Study on the CO2 Concentration in Several Air-Conditioned Classrooms Located in Ho Chi Minh City,",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 7th International Conference on Geotechnics, Civil Engineering and Structures, CIGOS 2024, Lecture Notes in Civil Engineering, ISBN: 978-981-97-1971-6",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "482, 988-995",
+            "published_date": "06, 2024"
+        },
+        {
+            "title": "Assessing the combination of graphene and graphene oxide nanosheets in cement-based materials, https://doi.org/10.1016/j.cemconcomp.2024.105800",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cement and Concrete Composites, ISSN: 0958-9465",
+            "journal_ranking": "ISI (IF = 10.8; Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "154, 105800",
+            "published_date": "11, 2024"
+        },
+        {
+            "title": "Application of machine learning models for the optimisation of compressive strength and water resistance of geopolymer stabilised compacted earth, https://doi.org/10.1016/j.ccm.2025.e04203",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case studies in Construction Materials, ISSN: 2214-5095",
+            "journal_ranking": "ISI (IF = 6.5, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "22, e04203",
+            "published_date": "01, 2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "CT nghiên cứu cơ bản trong KHTN, NAFOSTED ĐT: “Phát triển vật liệu không nung cho công trình thân thiện môi trường”",
+            "role": "Principal Investigator",
+            "project_code": "107.01-2017.22",
+            "management_level": "NAFOSTED (Cấp Bộ)",
+            "period": "01/2018 đến 01/2020",
+            "acceptance_date": "15/5/2020",
+            "rating": "ĐẠT"
+        },
+        {
+            "title": "CT nghiên cứu cơ bản trong KHTN, NAFOSTED ĐT: “Nghiên cứu sử dụng chất thải nông nghiệp sản xuất vật liệu xây dựng bền vững”",
+            "role": "Key Member",
+            "project_code": "107.01-2020.01",
+            "management_level": "NAFOSTED (Cấp Bộ)",
+            "period": "01/2021 đến 01/2023",
+            "acceptance_date": "22/7/2024",
+            "rating": "ĐẠT"
+        }
+    ],
+    "books": [
+        {
+            "title": "Chapter 11. Weathering and durability of earthen material and structures, Trong sách: \"Modern Earth Buildings Engineering, Constructions and Applications”, https://doi.org/10.1533/9780857096166.2.282",
+            "type": "Monograph",
+            "publisher": "Woodhead Publishing (Elsevier)",
+            "publish_year": "2012",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "282-303",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "Thiết kế kết cấu bêtông cốt thép theo tiêu chuẩn Eurocode – Cơ sở lý thuyết và ví dụ áp dụng ISBN: 978-604-82-2335-9",
+            "type": "Reference Book",
+            "publisher": "NXB Xây dựng",
+            "publish_year": "2018",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-212",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "Thiết kế kết cấu bêtông cốt thép theo TCVN 5574:2018 https://nxbxaydung.com.vn/thiet-ke-ket-cau-be-tong-cot-thep-theo-tcvn-5574-2018-b6377.html",
+            "type": "Reference Book",
+            "publisher": "NXB Xây dựng",
+            "publish_year": "2020",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-338",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "Testing and Characterisation of Earth-based Building Materials and Elements https://doi.org/10.1007/978-3-030-83297-1",
+            "type": "Monograph",
+            "publisher": "Springer",
+            "publish_year": "2022",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "211-241, 181-210",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "Thiết kế kết cấu bêtông cốt thép theo TCVN 2737:2023 và TCVN 5574:2018 https://nxbxaydung.com.vn/tinh-toan-ket-cau-betong-cot-thep-theo-tcvn-27372023-va-tcvn-55742018-b12185.html",
+            "type": "Reference Book",
+            "publisher": "NXB Xây dựng",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-350",
+            "verification_document_id": "null"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Xây dựng chương trình đào tạo năm 2022, trình độ đại học – Ngành Kỹ thuật xây dựng: Chương trình tiêu chuẩn, Chất lượng cao; Chương trình đại học bằng Tiếng Anh Chương trình liên kết đào tạo quốc tế.",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "235/QĐ-TĐT, 08/02/2022",
+            "certifying_authority": "Trường Đại học Tôn Đức Thắng – HĐ thẩm định CTĐT 2022",
+            "implementation_document_id": "2876/QĐ-TĐT ngày 05/10/2022",
+            "notes": "null"
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo năm 2022, trình độ thạc sĩ – Ngành Kỹ thuật xây dựng.",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "235/QĐ-TĐT, 08/02/2022",
+            "certifying_authority": "Trường Đại học Tôn Đức Thắng – HĐ thẩm định CTĐT 2022",
+            "implementation_document_id": "2941/QĐ-TĐT ngày 11/10/2022",
+            "notes": "null"
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo năm 2022, trình độ tiến sĩ - Ngành Kỹ thuật xây dựng.",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "235/QĐ-TĐT, 08/02/2022",
+            "certifying_authority": "Trường Đại học Tôn Đức Thắng – HĐ thẩm định CTĐT 2022",
+            "implementation_document_id": "2950/QĐ-TĐT ngày 11/10/2022",
+            "notes": "null"
+        }
+    ]
+}

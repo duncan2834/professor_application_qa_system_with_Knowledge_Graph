@@ -1,0 +1,698 @@
+{
+    "papers": [
+        {
+            "title": "Oppotunities for saving energy in the cement industry in Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ho Chi Minh city University of Technology, Oct. 21-Oct. 23, 2009 IFOST 2009",
+            "journal_ranking": "Hội thảo Quốc tế có phản biện",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 204-207",
+            "published_date": "2009"
+        },
+        {
+            "title": "Các phương pháp xây dựng Benchmarking-Khả năng áp dụng trong quản lý sử dụng năng lượng tại doanh nghiệp công nghiệp Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị khoa học Quốc tế về phát triển năng lượng bền vững lần thứ 2 ISBN:978-604-913-040-3",
+            "journal_ranking": "Hội thảo Quốc tế có phản biện",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 78-87",
+            "published_date": "2011"
+        },
+        {
+            "title": "Sử dụng phương pháp bao dữ liệu xây dựng chuẩn định mức trong công nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Quốc tế về khoa học và công nghệ, Trường Đại học Điện lực",
+            "journal_ranking": "Hội thảo Quốc tế có phản biện",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 541-548",
+            "published_date": "2011"
+        },
+        {
+            "title": "Quy trình kiểm toán năng lượng trường học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghiệp (Nay là Tạp chí Công Thương) ISSN 1859-4018",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỳ 4, Tr 28-31",
+            "published_date": "2009"
+        },
+        {
+            "title": "Một số giải pháp tiết kiệm năng lượng cho công đoạn nấu bia trong nhà máy sản xuất bia",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ năng lượng. ISSN 1859-4557",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2, Tr 29-35",
+            "published_date": "2011"
+        },
+        {
+            "title": "Công tác quản lý năng lượng trong các doanh nghiệp công nghiệp Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghiệp - ấn phẩm KH&CN (Nay là Tạp chí Công Thương) ISSN 1859-4018",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9, Tr 32-35",
+            "published_date": "2012"
+        },
+        {
+            "title": "Applying Milk-run method to optimize cost of transport: An empirical evidence",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Supply and Operations Management ISSN: 2383-1359 DOI: 10.22034/IJSOM.2020.2.6",
+            "journal_ranking": "Scopus Q3; SJR: 0,25 H-index: 11 IF: 1,33 (Scopus)",
+            "citation_count": 11,
+            "volume_issue_pages": "Vol 7(2), pg. 178-188",
+            "published_date": "2020"
+        },
+        {
+            "title": "Situational factor affecting energy-saving behavior in direct approaches in Hanoi City. The role of socio-demographics",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Psychology ISSN: 2331-1908 DOI: 10.1080/23311908.2021.1978634",
+            "journal_ranking": "Scopus Q3 ESCI SJR: 0,5 H-index: 27",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol 8(1), pg. 1-17",
+            "published_date": "2021"
+        },
+        {
+            "title": "Development of energy efficiency action plan at provincial level of Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International journal of Energy economics and policy ISSN: 2146-4553 DOI: 10.32479/ijeep.11624",
+            "journal_ranking": "Scopus Q2; SJR: 0,31 H-index: 53 IF: 1,94 (Scopus)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol 11(6), pg. 60-67",
+            "published_date": "2021"
+        },
+        {
+            "title": "Assessment of the Impact of Managing Large Energy-Using Users on National Energy Efficiency of Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "International journal of Energy economics and policy",
+            "journal_ranking": "Scopus Q2; SJR: 0,31",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol 11(5), pg. 519-530",
+            "published_date": "2021"
+        },
+        {
+            "title": "A four-phase framework for Lean implementation in small and medium enterprises",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Management-Poland ISSN: 2299-193X DOI: 10.2478/manment-2019-0069",
+            "journal_ranking": "ESCI H-index: n/a IF: 0,8",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol 25(1), pg. 259-277",
+            "published_date": "2021"
+        },
+        {
+            "title": "Energy benchmarking management for beer and beverage industry in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Management-Poland ISSN: 2299-193X DOI: 10.2478/manment-2019-0072",
+            "journal_ranking": "ESCI H-index: n/a IF: 0,8",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol 25(2), pg. 36-58",
+            "published_date": "2021"
+        },
+        {
+            "title": "Study on Performance of Rooftop Solar Power Generation Combined with Battery Storage at Office Building in Northeast Region, Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sustainability ISSN: 2071-1050 DOI: 10.3390/su131911093",
+            "journal_ranking": "Scopus Q1; SCIE-SSCI SJR: 0,67 H-index: 169",
+            "citation_count": 32,
+            "volume_issue_pages": "Vol 13(19) pg. 11093",
+            "published_date": "2021"
+        },
+        {
+            "title": "Investigating the Factors Impact the Decision to Invest in Rooftop Solar Power in Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International journal of Energy economics and policy ISSN: 2146-4553 DOI: 10.32479/ijeep.12958",
+            "journal_ranking": "Scopus Q2; SJR: 0,31 H-index: 53 IF: 1,94 (Scopus)",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol 12(3), pg. 116-124",
+            "published_date": "2022"
+        },
+        {
+            "title": "Critical Factors Affecting Rooftop Solar System Investment: An Empirical Study in Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business ISSN: 2288-4637 DOI: 10.13106/jafeb.2022.vol9.no5.0201",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 9 No 5 (2022) 0201-0211",
+            "published_date": "2022"
+        },
+        {
+            "title": "Enterprises Characteristics and Lean Outcome: An Empirical Evidence from Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Management System in Production Engineering ISSN: 2450-5781",
+            "journal_ranking": "Scopus Q2, ESCI; SJR: 0,35",
+            "citation_count": 13,
+            "volume_issue_pages": "Vol 30(2), pg. 98-108",
+            "published_date": "2022"
+        },
+        {
+            "title": "The Relationship between the Factors Influencing Energy-Saving Behaviors in Households in Urban Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Energy Journal ISSN: 1513-718X",
+            "journal_ranking": "Scopus Q3, ESCI; H-index: 19",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol 22(3), pg. 291-302",
+            "published_date": "2022"
+        },
+        {
+            "title": "A Study on the Impact of Various Meteorological Data on the Design Performance of Rooftop Solar Power Projects in Vietnam: A Case Study of Electric Power University",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Energies ISSN: 1996-1073 DOI: 10.3390/en15197149",
+            "journal_ranking": "Scopus Q1, SCIE; SJR: 0,65; H-index: 152 IF: 3,00 (SCI)",
+            "citation_count": 12,
+            "volume_issue_pages": "Vol 15(19):7149",
+            "published_date": "2022"
+        },
+        {
+            "title": "Energy saving intention and behavior under behavioral reasoning perspectives",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Energy Efficiency ISSN: 1570-6478 DOI: 10.1007/s12053-023-10092-x",
+            "journal_ranking": "Scopus Q2, SSCI; SJR: 0,73; H-index: 58; IF: 3,2 (SCI)",
+            "citation_count": 29,
+            "volume_issue_pages": "Vol 16(2), pg. 1-19",
+            "published_date": "2023"
+        },
+        {
+            "title": "Application of Sarima Model in Load Forcasting in Hanoi City",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International journal of Energy economics and policy ISSN: 2146-4553 DOI: 10.32479/ijeep.14121",
+            "journal_ranking": "Scopus Q2; SJR: 0,31 H-index: 53 IF: 1,94",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol 13(3), pg. 164-170",
+            "published_date": "2023"
+        },
+        {
+            "title": "Assessment of energy efficiency using an energy monitoring system: A case study of a major energy-consuming enterprise in Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Energies ISSN: 1996-1073 DOI: 10.3390/en16135214",
+            "journal_ranking": "Scopus Q1, SCIE; SJR: 0,65; H-index: 152 IF: 3,00 (SCI)",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol 16(13), pg. 5214",
+            "published_date": "2023"
+        },
+        {
+            "title": "Harnessing Group-Level Inflence to Boost Energy-Savings Behavior in the Offie Building",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International journal of Energy economics and policy ISSN: 2146-4553 DOI: 10.32479/ijeep.14253",
+            "journal_ranking": "Scopus Q2; SJR: 0,31 H-index: 53 IF: 1,94",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol 13(4), pg. 614-621",
+            "published_date": "2023"
+        },
+        {
+            "title": "The assessment of hydrogen production potential from wind power in Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Polityka Energetyczna – Energy Policy Journal ISSN: 1429-6675 DOI: 10.33223/epj/191042",
+            "journal_ranking": "Scopus Q3 ESCI H-index: 17",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 27(4), pg. 5-18",
+            "published_date": "2024"
+        },
+        {
+            "title": "Artifiial intelligence (AI) development in the Vietnam's energy and economic systems: A critical review",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Cleaner Production DOI: 10.1016/j.jclepro.2024.140692",
+            "journal_ranking": "Scopus Q1, SCIE; SJR: 2,06; H-index: 309",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol 438 (2024), pg.1-13",
+            "published_date": "2024"
+        },
+        {
+            "title": "A Power System Study on Hydrogen Conversion Pathways for Gas Turbine Power Plants in Vietnam towards Net Zero Target",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Energies ISSN: 1996-1073 DOI: 10.3390/en17133335",
+            "journal_ranking": "Scopus Q1, SCIE; SJR: 0,65; H-index: 152 IF: 3,00 (SCI)",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol 17(13):3335",
+            "published_date": "2024"
+        },
+        {
+            "title": "Assessing factors influencing green hydrogen conversion at Vietnam's gas turbine power plants using combined SWOT-AHP analysis method",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "AIMS Energy, ISSN: 2333-8326 DOI: 10.3934/energy.2024050",
+            "journal_ranking": "Scopus Q3 ESCI H-index: 23",
+            "citation_count": 2,
+            "volume_issue_pages": "12(5) pg. 1054-1074",
+            "published_date": "2024"
+        },
+        {
+            "title": "Allocation of National Energy Saving Target to Provinces for Vietnam Using Cluster Analysis Method",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Strategic Planning for Energy and the Environment ISSN: 1546-0126",
+            "journal_ranking": "Scopus Q3; SJR: 0,3; H-index: 12;",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 43 (4), pg. 905-938",
+            "published_date": "2024"
+        },
+        {
+            "title": "Social acceptance to renewable energy: A literature review",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Strategic Planning for Energy and the Environment ISSN: 1546-0126 DOI: 10.13052/spee1048-5236.4411",
+            "journal_ranking": "Scopus Q3; SJR: 0,3; H-index: 12; IF: 1,04 (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 44 (1), pg. 1-34",
+            "published_date": "2025"
+        },
+        {
+            "title": "Community Acceptance of Wind Energy Projects Development in Viet Nam from the Perspective of Behavioral Reasoning Theory",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International journal of sociology and social policy ISSN: 0144-333X DOI: 10.1108/IJSSP-08-2024-0407",
+            "journal_ranking": "Scopus Q1, ESCI; SJR: 0,65; H-index: 49; IF: 2,81 (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 45(3/4), pg.380-393",
+            "published_date": "2025"
+        },
+        {
+            "title": "Economic analysis of solar power plant and battery energy storage: Case study of Binh Phuoc province, Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cleaner Engineering and Technology ISSN: 2666-7908 DOI: 10.1016/j.clet.2025.100937",
+            "journal_ranking": "Scopus Q1, ESCI SJR: 1,08 H-index: 32 IF: 5,3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 26 (2025)",
+            "published_date": "2025"
+        },
+        {
+            "title": "Factors influencing public acceptance of wind power project development in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Polityka Energetyczna – Energy Policy Journal ISSN: 1429-6675 DOI: 10.33223/epj/205276",
+            "journal_ranking": "Scopus Q3, ESCI; SJR: 0,38 H-index: 17",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 28(2) pg. 169-190",
+            "published_date": "2025"
+        },
+        {
+            "title": "A Recent Invasion Wave Of Deep Learning In Solar Power Forecasting Techniques Using ANN",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "2021 IEEE International Future Energy Electronics Conference (IFEEC) DOI: 10.1109/IFEEC53238.2021.9661747",
+            "journal_ranking": "Scopus indexed",
+            "citation_count": 6,
+            "volume_issue_pages": "Proceeding, pg.1-6",
+            "published_date": "2021"
+        },
+        {
+            "title": "Elasticities of Residential Electricity Demand in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 International Conference on Smart City and Green Energy",
+            "journal_ranking": "Scopus indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceeding, pg. 103-107",
+            "published_date": "2021"
+        },
+        {
+            "title": "Factors affecting saving energy intention of urban residents in Hanoi",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceeding of the international conference on engineering research and Applications, ICERA 2022",
+            "journal_ranking": "Scopus indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceeding, pg. 543-557",
+            "published_date": "2022"
+        },
+        {
+            "title": "Analysis of factors affecting the selection of BESS capacity for electrical power system at Thuan Hung factory",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "2023 IEEE-AM Conference (IEEE Explored)",
+            "journal_ranking": "Scopus indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceeding g, pg. 1-6",
+            "published_date": "2023"
+        },
+        {
+            "title": "Enhancing Amusement Parks' Sustainability With Renewable Energy",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "2023 IEEE-AM Conference (IEEE Explored) DOI: 10.1109/EEE-AM58328.2023.10395799",
+            "journal_ranking": "Scopus indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceeding, pg. 1-5",
+            "published_date": "2023"
+        },
+        {
+            "title": "Assessing the Possibility of Hydrogen Application in Vietnam's Energy System Towards Net Zero missions by 2050",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "2023 IEEE-AM Conference (IEEE Explored)",
+            "journal_ranking": "Scopus indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceeding, pg. 1-5",
+            "published_date": "2023"
+        },
+        {
+            "title": "Evaluation of wind energy potential: A case study in Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "2023 IEEE-AM Conference (IEEE Explored) DOI: 10.1109/EEEAM58328.2023.10395277",
+            "journal_ranking": "Scopus indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "Proceeding, pg. 1-5",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ngăn chặn trộm cắp điện trên địa bàn Tp. Hồ Chí Minh - Thực trạng và một số giải pháp.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7, Tr 54-55",
+            "published_date": "2015"
+        },
+        {
+            "title": "Thực trạng và giải pháp hoàn thiện công tác chăm sóc khách hàng tại công ty Điện lực Ba Đình",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7, Tr 290-295",
+            "published_date": "2017"
+        },
+        {
+            "title": "Dispatching vehicles in vehicle-based internal transport systems",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, Tr 206-213",
+            "published_date": "2017"
+        },
+        {
+            "title": "Mô hình kinh doanh ESCO-Cơ hội thúc đẩy cho hoạt động tiết kiệm năng lượng tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, Tr 280-285",
+            "published_date": "2017"
+        },
+        {
+            "title": "Sử dụng mô hình CCR trong phương pháp phân tích đường bao tính toán chuẩn định mức năng lượng trong công nghiệp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, Tr 246-251",
+            "published_date": "2018"
+        },
+        {
+            "title": "Analysis of the necessity and evaluation of the possibility of creating regional cluster of renewable energy sources in VietNam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 02, Tr 267-270",
+            "published_date": "2019"
+        },
+        {
+            "title": "Mối liên hệ giữa các yếu tố nhân khẩu học với hành vi tiết kiệm năng lượng trong hộ gia đình ở Hà Nội",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 17, Tr 325-330",
+            "published_date": "2020"
+        },
+        {
+            "title": "Cơ hội tận dụng nhiệt thải để phát điện trong các nhà máy xi măng tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 14, Tr 192-197",
+            "published_date": "2020"
+        },
+        {
+            "title": "Quản lý kho hàng thông minh trong các doanh nghiệp ngành nhựa: Một nghiên cứu tình huống",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á thái bình dương ISSN: 0868-3808",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 571, Tr 37-39",
+            "published_date": "2020"
+        },
+        {
+            "title": "Bộ chỉ tiêu hiệu quả quản lý kho hàng tại các doanh nghiệp ở Việt Nam: Nghiên cứu so sánh giữa",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 330, Tr 298-305",
+            "published_date": "2020"
+        },
+        {
+            "title": "Công nghiệp hỗ trợ và bài toán lựa chọn nhà cung cấp địa phương: Một nghiên cứu tình huống",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế Châu Á thái bình dương ISSN: 0868-3808",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 565, Tr 10-13",
+            "published_date": "2020"
+        },
+        {
+            "title": "Tiềm năng điều chỉnh phụ tải điện trong các nhà máy xi măng Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 20, Tr 119-125",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đánh giá hệ thống quản lý năng lượng trong các doanh nghiệp dệt sợi tại Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế ISSN: 0866-7489",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8(519), Tr 44-51",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đánh giá tiềm năng phát triển điện gió tại Dắk Nông: Nghiên cứu trường hợp dự án điện gió Nam Bình 1",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 21, pg. 120-125",
+            "published_date": "2022"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến quy mô nguồn điện năng lượng tái tạo trong quy hoạch hệ thống điện Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 08, Tr 180-185",
+            "published_date": "2022"
+        },
+        {
+            "title": "Các yếu tố tác động đến việc tiêu thụ điện năng hộ lớn theo tỉnh trong thời gian Covid-19 tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phát triển bền vững vùng ISSN: 2354-0729",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1 (quyển 12) Tr 39-46",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá nhân tố tác động đến đầu tư điện mặt trời áp mái tại Việt Nam và một số giải pháp",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế ISSN: 0866-7489",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7(530) Tr 93-108",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu mối quan hệ giữa an ninh năng lượng và tăng trưởng kinh tế Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế ISSN: 0866-7489",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3(526) Tr 3-10",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phương pháp thiết lập đường cơ sở năng lượng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học Quốc gia Đổi mới sáng tạo nâng cao năng lực cạnh tranh của doanh nghiệp Việt Nam ISBN: 978-604-931-555-8",
+            "journal_ranking": "Hội thảo khoa học Quốc gia có phản biện",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 333-341",
+            "published_date": "2018"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Hỗ trợ xây dựng mô hình quản lý và giám sát năng lượng cho 02 doanh nghiệp Công nghiệp",
+            "role": "Principal Investigator",
+            "project_code": "01/2022/HĐ-CTQGTKNL",
+            "management_level": "Cấp Quốc gia",
+            "period": "2022",
+            "acceptance_date": "29/12/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Hỗ trợ xây dựng mô hình điểm áp dụng giải pháp cải tiến và hệ thống quản lý kho thông minh cho các doanh nghiệp ngành nhựa",
+            "role": "Principal Investigator",
+            "project_code": "029.2020.NSCL.QG/HĐKHCN",
+            "management_level": "Cấp Quốc gia",
+            "period": "2020",
+            "acceptance_date": "14/01/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu xây dựng bộ tài liệu hướng dẫn triển khai mô hình quản lý năng lượng trong các doanh nghiệp",
+            "role": "Principal Investigator",
+            "project_code": "146.2018/ĐT.BO/HĐKHCN",
+            "management_level": "Cấp Bộ",
+            "period": "2018",
+            "acceptance_date": "21/1/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu, đề xuất xây dựng phương pháp định mức năng lượng có tính đến yếu tố môi trường - áp dụng cho ngành Công nghiệp Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "03.05/HĐ-KHCN",
+            "management_level": "Cấp Bộ",
+            "period": "2014",
+            "acceptance_date": "14/7/2015",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phương pháp định lượng trong quản lý kinh tế",
+            "type": "Reference Book",
+            "publisher": "NXB Giáo dục",
+            "publish_year": "2013",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "73-132 (chương 2,3)",
+            "verification_document_id": "Giấy xác nhận sử dụng sách của Hiệu trưởng Trường ĐH Điện lực"
+        },
+        {
+            "title": "Mô hình phát triển xanh trong công nghiệp",
+            "type": "Reference Book",
+            "publisher": "NXB Khoa học và kỹ thuật",
+            "publish_year": "2016",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "123-166 (chương 2)",
+            "verification_document_id": "Giấy xác nhận sử dụng sách của Hiệu trưởng Trường ĐH Điện lực"
+        },
+        {
+            "title": "Giáo trình Kiểm toán năng lượng",
+            "type": "Reference Book",
+            "publisher": "NXB Công thương",
+            "publish_year": "",
+            "num_authors": 16,
+            "is_editor_in_chief": false,
+            "compiled_pages": "7-17107-122 (chương 1,4)",
+            "verification_document_id": "Giấy xác nhận sử dụng sách của Hiệu trưởng Trường ĐH Điện lực"
+        },
+        {
+            "title": "Giáo trình Phương pháp dự báo",
+            "type": "Reference Book",
+            "publisher": "NXB Khoa học và kỹ thuật",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "9-142269-373 (chương 1,2,3,6)",
+            "verification_document_id": "Giấy xác nhận sử dụng sách của Hiệu trưởng Trường ĐH Điện lực"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Tổ cập nhật đánh giá chương trình đào tạo Thạc sĩ ngành Quản lý năng lượng",
+            "applicant_role": "Tổ trưởng",
+            "assignment_document_id": "Quyết định 1423/QĐ-ĐHĐL ngày 30 tháng 10 năm 2019",
+            "certifying_authority": "Trường Đại học Điện lực",
+            "implementation_document_id": "Đã ban hành CTĐT tại QĐ số 855b/QĐ-ĐHĐL ngày 31/07/2020",
+            "notes": ""
+        },
+        {
+            "title": "HĐ tự đánh giá CTĐT đại học ngành Quản lý công nghiệp",
+            "applicant_role": "Phó chủ tịch",
+            "assignment_document_id": "Quyết định số 1007/QĐ-ĐHĐL ngày 04 tháng 1 năm 2021",
+            "certifying_authority": "Trường Đại học Điện lực",
+            "implementation_document_id": "Đã thực hiện kiểm định ngoài và đạt chứng nhận kiểm định chất lượng giáo dục năm 2022",
+            "notes": ""
+        },
+        {
+            "title": "HĐ tự đánh giá CTĐT đại học ngành Quản lý năng lượng",
+            "applicant_role": "Phó chủ tịch",
+            "assignment_document_id": "Quyết định số 231/QĐ-ĐHDL ngày 16 tháng 3 năm 2022",
+            "certifying_authority": "Trường Đại học Điện lực",
+            "implementation_document_id": "Đã thực hiện kiểm định ngoài và đạt chứng nhận kiểm định chất lượng giáo dục năm 2023",
+            "notes": ""
+        },
+        {
+            "title": "HĐ tự đánh giá CTĐT đại học ngành Logistics và quản lý chuỗi cung ứng",
+            "applicant_role": "Phó chủ tịch",
+            "assignment_document_id": "Quyết định số 232/QĐ-ĐHDL ngày 16 tháng 3 năm 2022",
+            "certifying_authority": "Trường Đại học Điện lực",
+            "implementation_document_id": "Đã thực hiện kiểm định ngoài và đạt chứng nhận kiểm định chất lượng giáo dục năm 2023",
+            "notes": ""
+        },
+        {
+            "title": "Hội đồng đánh giá cải tiến chất lượng CTĐT thạc sĩ và tiến sĩ ngành Quản lý năng lượng",
+            "applicant_role": "Chủ tịch",
+            "assignment_document_id": "Quyết định số 1066/QĐ-ĐHĐL ngày 15 tháng 11 năm 2022",
+            "certifying_authority": "Trường Đại học Điện lực",
+            "implementation_document_id": "Đã ban hành CTĐT thạc sĩ tại QĐ số: 464/QĐ-ĐHĐL ngày 28/3/2024 Đã ban hành CĐR CTĐT tiến sĩ tại QĐ số: 1077/QĐ-ĐHĐL ngày 18/7/2023",
+            "notes": ""
+        }
+    ]
+}

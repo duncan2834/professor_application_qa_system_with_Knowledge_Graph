@@ -1,0 +1,728 @@
+{
+    "papers": [
+        {
+            "title": "DNA-HPV transition rate and related factors in HPV-infected women in Can Tho city, Vietnam doi:10.1111/tmi.13309",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tropical Medicine and International Health ISSN:1365-3156",
+            "journal_ranking": "Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol 24(11): 1330-1334",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Blood pressure percentiles and systemic hypertension-associated factors among children aged between 6 and 15 years in Southern Vietnam DOI: 10.5603/AH.a2021.0011",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Via Medica Journals Arterial Hypertension/ ISSN 2449-6170",
+            "journal_ranking": "Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 25, No. 2 pages 77-81",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Performance of SOFA score in predicting The risk of mortality in children with sepsis",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of the Balkan Medical Union/",
+            "journal_ranking": "Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 58, no. 1, pp.",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Commonly misdiagnosed round pneumonia in a child: a case report DOI: https://doi.org/10.13181/mji.cr.237117",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medical Journal of Indonesia/ pISSN: 0853-1773 • eISSN: 2252-8083",
+            "journal_ranking": "Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 32, No.4, 246-248",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "A Cross-sectional Study on the Role of Rotavirus and Microbial Co-infection in Children with Acute Diarrhea in Vietnam https://doi.org/10.5812/apid-140509",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Archives Of Pediatric Infectious Diseases/ ISSN 2322-1836",
+            "journal_ranking": "Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 12, issue 1, e140509",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Characteristics of asthmatic children with Mycoplasma pneumoniae infection in Vietnam DOI: http:/.doi.org/10.4038/sljch.v53i1.10672",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sri Lanka Journal of Child Health/ISSN: 2386-110X",
+            "journal_ranking": "Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 53(1): 15-19",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Predictor of recurrent exacerbations in pediatric asthma https://doi.org/10.13181/mji.oa.247309",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medical Journal of Indonesia pISSN: 0853-1773 eISSN: 2252-8083",
+            "journal_ranking": "Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 33 No. 1,42-48",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Efficacy of Lactose-Free Milk in Treating Acute Gastroenteritis in Vietnamese Children: A Randomized Controlled Trial DOI 10.7759/cureus.61178",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cureus Journal of Medical Science ISSN: 2168-8184",
+            "journal_ranking": "IF 1.0",
+            "citation_count": 0,
+            "volume_issue_pages": "Cureus 16(5)",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Transition of DNA-HPV over time in HPV-infected women: a 7-year cohort study https://doi.org/10.13181/mji.oa.247340",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medical Journal of Indonesia pISSN: 0853-1773 • eISSN: 2252-8083",
+            "journal_ranking": "Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 33 No. 2, 98-103",
+            "published_date": "07/2024"
+        },
+        {
+            "title": "Prevalence, Predictors, and Treatment Outcomes of Anemia in Vietnamese School-Age Children With Helicobacter pylori Infection",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cureus Journal of Medical Science ISSN: 2168-8184",
+            "journal_ranking": "IF 1.0",
+            "citation_count": 0,
+            "volume_issue_pages": "Cureus 16(9): e69473",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "Nomogram-based prediction of growth retardation in pediatric deletional a-thalassemia: Evidence from the Mekong Delta, Vietnam DOI: 10.23750/abm.v96i2.16872",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Acta Biomedica (ActaBiomed) ISSN: 0392-4203 | eISSN: 2531-6745",
+            "journal_ranking": "Q3 SJR 0,505 Percentile 75th",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 96 No. 2",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Impact of Improper Inhaler Technique on Pediatric Asthma Control in Vietnam: A Cross-Sectional Study DOI: 10.1177/30502225251325625",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sage Open Pediatrics ISSN: 3050-2225",
+            "journal_ranking": "IF 1.4",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 12: 1-11",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Machine Learning Nomogram for Predicting Dengue Shock Syndrome in Pediatric Patients With Dengue Fever in Vietnam DOI: 10.7759/cureus.81819",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cureus Journal of Medical Science ISSN: 2168-8184",
+            "journal_ranking": "IF 1.0",
+            "citation_count": 0,
+            "volume_issue_pages": "17(4):e81819",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Prevalence and associated factors of pediatric uncontrolled asthma in Vietnam https://doi.org/10.1080/02770903.2025.2482988",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Asthma ISSN: 1532-4303",
+            "journal_ranking": "Q2, IF 1,7",
+            "citation_count": 0,
+            "volume_issue_pages": "1-10",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Diagnostic utility of bacterial pneumonia score In severe bacterial pneumonia with respiratory Failure in children https://doi.org/10.31688/ABMU.2025.60.2.02",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Archives of the Balkan Medical Union/ ISSN 1584-9244",
+            "journal_ranking": "Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 60, no. 2, 186-193",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Khảo sát chức năng tuyến giáp ở trẻ bị Hội chứng thận hư",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y Học thành phố Hồ Chí Minh",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 9, số 1",
+            "published_date": "2005"
+        },
+        {
+            "title": "Khảo sát tình hình thực tập tại tuyến tỉnh của sinh viên Y - Răng Hàm Mặt năm thứ 6 Trường Đại Học Y Dược Cần Thơ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y Học Thực Hành ISSN 1859-1663",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 682 + 683, trang 34 - 37",
+            "published_date": "2009"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và cận lâm sàng viêm phổi ở trẻ em dưới 12 tháng tuổi tại khoa Nội tổng hợp bệnh viện nhi đồng Cần Thơ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học thực hành ISSN 1859-1663",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 682 + 683, trang 464 - 467",
+            "published_date": "2009"
+        },
+        {
+            "title": "Nghiên cứu mô hình bệnh tật các trạm y tế Xã Phường Tỉnh Vĩnh Long năm 2014",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9, trang 28 - 35",
+            "published_date": "2017"
+        },
+        {
+            "title": "Mô hình bệnh tật và tử vong trẻ em tại một số bệnh viện Tỉnh Vĩnh Long từ năm 2010 - 2014",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 19, trang 1-9",
+            "published_date": "2019"
+        },
+        {
+            "title": "Mô hình tử vong trẻ em tại một số Phường xã tỉnh Vĩnh Long",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN 1859-3860",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 13 (2), Trang 39-45",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nghiên cứu tình hình và các yếu tố liên quan đến sự biến đổi DNA- HPV ở phụ nữ 18-69 tuổi nhiễm HPV tại Thành Phố Cần Thơ",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 28, trang 92-97",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng và đánh giá kết quả điều trị nhiễm trùng huyết ở trẻ tại Bệnh Viện Nhi Đồng Cần Thơ năm 2018-2020",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 29, trang 66-72",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đánh giá tĩnh mạch chủ dưới trong liệu pháp dịch truyền trong đơn vị hồi sức tích cực: tiếp cận thực hành",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 49, trang 207 - 210",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Một số đặc điểm ở trẻ hen phế quản từ 6 tháng đến 5 tuổi có nồng độ vitamin D không đầy đủ",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 51, trang 41 - 49",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "Nghiên cứu bệnh nhiễm trùng sơ sinh sớm qua đường Mẹ-thai tại khoa nhi sơ sinh bệnh viện phụ sản Thành phố Cần Thơ năm 2020-2022",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 52 Trang 16-23",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Tác nhân vi sinh và kết quả điều trị ở trẻ viêm phổi có Suy hô hấp tại bệnh viện nhi đồng Cần Thơ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 52 Trang 24-31",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Viêm tiểu phế quản cấp ở trẻ em: Một số cập nhật về chẩn đoán và điều trị",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 55, trang",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Nhiễm Human Papillomavirus: thực trạng và giải pháp",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 56, trang 182 - 195",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Nghiên cứu sự thay đổi dịch não tủy ở sơ sinh bệnh lý nhiễm trùng nặng",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 62, trang 98 - 106",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Nghiên cứu tình hình và đánh giá kết quả điều trị bảo tồn hẹp bao quy đầu ở trẻ em các trường mẫu giáo Thành phố Cà Mau năm 2022 – 2023",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1B, Tập 530 Trang 210 - 214",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Tỷ lệ tiêm ngừa vaccin HPV ở nữ sinh viên Trường đại học Y Dược Cần Thơ",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 65, Trang 36-43",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, cận lâm sàng và kết quả điều trị trẻ mắc covid-19 điều trị tại bệnh viện Nhi đồng Cần Thơ từ tháng 11/2021 đến tháng 4/2022",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 69, Trang 193 - 199",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, kết quả điều trị viêm phổi nặng cần hỗ trợ oxy ở trẻ từ 2 tháng đến 5 tuổi tại Bệnh Viện Nhi Đồng 1 Thành Phố Hồ Chí Minh",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 70, Trang 155-161",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Ứng dụng kỹ thuật GAP-PCR trong phát hiện đột biến ở trẻ nghi ngờ mắc α-Thalassemia tại Cần Thơ",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 536, số 1, Trang 77-80",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Đặc điểm nhiễm khuẩn huyết do trực khuẩn gram âm ở trẻ em tại khoa Hồi Sức Tích Cực chống độc Bệnh viện Nhi Đồng Cần Thơ DOI: 10.58490/ctump.2024i75.2476",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 75, trang 72-78",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Một số yếu tố tiên lượng sốc ở trẻ 12 tháng - 16 tuổi mắc sốt xuất huyết Dengue có dấu hiệu cảnh báo tại Cần Thơ: một nghiên cứu cắt ngang, đơn trung tâm",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 539 số 1B, trang 263-267",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Hiệu quả của khí dung budesonide trong điều trị đợt cấp Hen phế quản mức độ trung bình ở trẻ em: một thử nghiệm",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 539 số 1B, trang 312-316",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Đánh giá kết quả kiểm soát hen phế quản ở trẻ em từ 6 – 15 tuổi tại Bệnh viện Nhi Đồng Cần Thơ năm 2023 - 2024",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 540, số 2, Trang 185-189",
+            "published_date": "07/2024"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng và một số tác nhân vi khuẩn Viêm phổi liên quan thở máy trên trẻ từ 2 tháng đến 15 tuổi tại khoa Hồi Sức Tích Cực và Chống độc Bệnh Viện Nhi Đồng Cần Thơ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 541, số 3, Trang 239-243",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "Tỷ lệ và đặc điểm lâm sàng, cận lâm sàng của Viêm phổi do nhiễm Mycoplasma pneumoniae ở trẻ em tại Bệnh Viện Nhi Đồng Cần Thơ DOI: 10.58490/ctump.2024i79.2869",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 79, Trang 199-205",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "So sánh tác dụng cầm nôn giữa Ondansetron và Domperidone trong điều trị viêm dạ dày ruột cấp ở trẻ em có nôn",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 543, số 2, Trang 128-132",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Một số yếu tố liên quan nhiễm toan ceton do đái tháo đường ở trẻ em tại Bệnh Viện Nhi Đồng Cần Thơ DOI: 10.58490/ctump.2025i83.3203",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 83, Trang 212-218",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Nghiên cứu các yếu tố liên quan đến tiên lượng nặng bệnh tay chân miệng ở trẻ em từ 2 tháng đến 5 tuổi tại Bệnh Viện Chuyên Khoa Sản Nhi Tỉnh Sóc Trăng năm 2024-2025 DOI: 10.58490/ctump.2025i85.3531",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 85, Trang 99-106",
+            "published_date": "03/2025"
+        },
+        {
+            "title": "Tình trạng thiếu máu thiếu sắt và các yếu tố liên quan gây thiếu máu thiếu sắt ở trẻ viêm loét dạ dày tá tràng tại Bệnh viện Nhi đồng Cần Thơ DOI: 10.58490/ctump.2025i86.3573",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ ISSN 2354-1210",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 86, Trang 118-124",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Giá trị thang điểm PRISM IV trong tiên lượng tử vong trẻ em nhập khoa Cấp Cứu Bệnh Viện Nhi Đồng Cần Thơ",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 550, số 1, Trang 208-213",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến kiểm soát Hen ở trẻ đang quản lý hen ngoại trú tại Bệnh Viện Nhi Đồng Thành Phố Cần Thơ https://doi.org/10.51298/vmj.v550i3.14352",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "số 3, trang 147-152",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Nghiên cứu tình hình thiếu máu ở trẻ sơ sinh non tháng tại Bệnh Viện Nhi Đồng Cần Thơ năm 2024 - 2025 https://doi.org/10.51298/vmj.v550i3.14402",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 550, số 3, trang 343-346",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "So sánh giá trị của Lactate máu với Procalcitonin, C-Reactive protein trong tiên lượng sốc nhiễm trùng ở trẻ em tại Bệnh viện chuyên khoa Sản Nhi Sóc Trăng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN 2354-080X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 6, trang 1-7",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Giá trị tiên lượng của thang điểm Phoenix ở trẻ nhiễm trùng huyết tại Bệnh viện Nhi Đồng Thành Phố Cần Thơ năm 2024-2025 DOI: https://doi.org/10.51298/vmj.v551i2.14594",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 550, số 2, trang 118-122",
+            "published_date": "06/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu các yếu tố nguy cơ của tử vong trẻ em dưới một tuôi ở dân tộc ít người miền Tây Nam bộ",
+            "role": "Participant",
+            "project_code": "",
+            "management_level": "Cấp bộ",
+            "period": "2005-2007",
+            "acceptance_date": "27/6/2008",
+            "rating": "Đạt, Loại B (33,9/40 điểm)"
+        },
+        {
+            "title": "Khảo sát chỉ số huyết áp trẻ em lứa tuổi 6 - 15 tại Huyện Kế Sách - Tỉnh Sóc Trăng năm 2008",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2007-2008",
+            "acceptance_date": "04/08/2008",
+            "rating": "Giỏi"
+        },
+        {
+            "title": "Nghiên cứu mô hình bệnh tật và tử vong và phân tích gánh nặng bệnh tật tại tỉnh Vĩnh Long.",
+            "role": "Participant",
+            "project_code": "",
+            "management_level": "Cấp tỉnh",
+            "period": "2014-2017",
+            "acceptance_date": "29 tháng 9 năm 2017",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu mô hình bệnh tật, tử vong và các yếu tố nguy cơ ở trẻ em tại các xã/phường tỉnh Vĩnh Long",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2016",
+            "acceptance_date": "10/12/2020",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, cận lâm sàng viêm tiểu phế quản cấp và đánh giá hiệu quả khí dung Natri clorua 3% trong điều trị viêm tiểu phế quản cấp ở trẻ em tại bệnh viện Nhi đồng Cần Thơ",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2017",
+            "acceptance_date": "08/06/2017",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu sự biến đổi tế bào học cổ tử cung liên quan đến nhiễm HPV ở phụ nữ 18-69 tuổi tại Thành phố Cần Thơ",
+            "role": "Participant",
+            "project_code": "",
+            "management_level": "Cấp tỉnh",
+            "period": "2019-2021",
+            "acceptance_date": "31/12/2021",
+            "rating": "Khá"
+        },
+        {
+            "title": "Sổ tay lâm sàng Nhi khoa tập 1 (sáng kiến)",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2022",
+            "acceptance_date": "28/6/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, cận lâm sàng, các yếu tố liên quan và kết quả điều trị trẻ mắc Covid điều trị tại bệnh viện Nhi Đồng Cần Thơ",
+            "role": "Participant",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2023",
+            "acceptance_date": "31/08/2023",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, cận lâm sàng và điều trị ở bệnh nhi mắc Covid-19 nặng và nguy kịch nhập viện tại bệnh viện Nhi Đồng Cần Thơ",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2022-2023",
+            "acceptance_date": "18/06/2025",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu tình hình đề kháng kháng sinh của Streptococcus pneumoniae và các yếu tố liên quan đến đề kháng kháng sinh của Streptococcus pneumoniae ở trẻ em điều trị tại Bệnh viện Nhi đồng Cần Thơ năm 2022-2024",
+            "role": "Participant",
+            "project_code": "",
+            "management_level": "Cơ sở",
+            "period": "2023-2024",
+            "acceptance_date": "",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Tiền lâm sàng II",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2021",
+            "num_authors": 16,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 16 - 54, 209-223",
+            "verification_document_id": "Quyết định số 2469/QĐ-ĐHYDCT ngày 10 tháng 12 năm 2019"
+        },
+        {
+            "title": "Định hướng cơ bản chuyên khoa Nhi",
+            "type": "Textbook",
+            "publisher": "Không xuất bản",
+            "publish_year": "",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 1-25",
+            "verification_document_id": "Quyết định số 1278/QĐ-ĐHYDCT ngày 16 tháng 6 năm 2022"
+        },
+        {
+            "title": "Nhi khoa 1",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2025",
+            "num_authors": 18,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 20 - 27; 100-111",
+            "verification_document_id": "Quyết định số 1848/QĐ-ĐHYDCT ngày 20 tháng 05 năm 2025"
+        },
+        {
+            "title": "Nhi khoa 2",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2025",
+            "num_authors": 18,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 1-23; 123 - 135",
+            "verification_document_id": "Quyết định số 1849/QĐ-ĐHYDCT ngày 20 tháng 05 năm 2025"
+        },
+        {
+            "title": "Nhi khoa 3",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2025",
+            "num_authors": 18,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 01 - 38",
+            "verification_document_id": "Quyết định số 1850/QĐ-ĐHYDCT ngày 20 tháng 05 năm 2025"
+        },
+        {
+            "title": "Nhi Khoa (chuyên khoa 1 YHGD)",
+            "type": "Textbook",
+            "publisher": "",
+            "publish_year": "",
+            "num_authors": 18,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 12-32, 46-64",
+            "verification_document_id": "Quyết định số 1265/QĐ-ĐHYDCT ngày 21 tháng 03 năm 2025"
+        },
+        {
+            "title": "Nhi khoa sau đại học phần hô hấp - Nhi Khoa xã hội",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2025",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "Quyết định số 1936/QĐ-ĐHYDCT ngày 26 tháng 05 năm 2025"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Thành lập Hội đồng Khoa Y thuộc Khoa Y",
+            "applicant_role": "Participant",
+            "assignment_document_id": "3083/QĐ-ĐHYDCT 16/12/2021",
+            "certifying_authority": "",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Tổ công tác và ban thư ký thực hiện rà soát, đánh giá, cập nhật chương trình đào tạo bậc đại học",
+            "applicant_role": "Participant",
+            "assignment_document_id": "3140/QĐ-ĐHYDCT 23/12/2021; 1193/QĐ-ĐHYDCT 30/3/2023",
+            "certifying_authority": "",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Ban chỉ đạo và Ban biên soạn đề án xây dựng Chương trình đào tạo Y Khoa bằng tiếng Anh",
+            "applicant_role": "Participant",
+            "assignment_document_id": "751/QĐ-ĐHYDCT 15/4/2021",
+            "certifying_authority": "",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Ban biên soạn Chương trình đào tạo và Đề cương chi tiết học phần Chương trình Y khoa bằng tiếng Anh và Ban thư ký",
+            "applicant_role": "Participant",
+            "assignment_document_id": "602/QĐ-ĐHYDCT, 26/3/2022",
+            "certifying_authority": "",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Hội đồng tự đánh giá chương trình đào tạo ngành Nhi khoa trình độ thạc sĩ",
+            "applicant_role": "Participant",
+            "assignment_document_id": "3781/QĐ-ĐHYDCT, 06/12/2022",
+            "certifying_authority": "",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Hội đồng tự đánh giá giữa chu kỳ chương trình đào tạo ngành Y khoa",
+            "applicant_role": "Participant",
+            "assignment_document_id": "2026/QĐ-ĐHYDCT, 05/6/2023",
+            "certifying_authority": "",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Ban chỉ đạo và hội đồng xây dựng chương trình đào tạo trình độ đại học theo hướng tích hợp",
+            "applicant_role": "Participant",
+            "assignment_document_id": "931/QĐ-ĐHYDCT, 28/3/2024; 1166/QĐ-ĐHYDCT, 17/3/2025",
+            "certifying_authority": "",
+            "implementation_document_id": "",
+            "notes": ""
+        }
+    ]
+}

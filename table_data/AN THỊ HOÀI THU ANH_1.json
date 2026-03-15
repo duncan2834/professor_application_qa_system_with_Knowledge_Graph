@@ -1,0 +1,520 @@
+{
+    "papers": [
+        {
+            "title": "Braking energy recuperation for electric traction drive in urban rail transit network based on control supercapacitor energy storage system",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Electrical Systems(JES) ; ISSN: 1112-5209",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 8,
+            "volume_issue_pages": "Vol.14, No.3, pp.99-114",
+            "published_date": "09/2018"
+        },
+        {
+            "title": "Tối ưu năng lượng vận hành tàu điện đô thị có thiết bị tích trữ năng lượng siêu tụ trên tàu sử dụng nguyên lý cực đại của Pontryagin",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chuyên san Đo lường, điều khiển và tự động hóa; ISSN: 1859-0551",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Quyển 21, số 3, trang: 46-53",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Speed profile optimization of an electrified train in cat linh-ha dong metro line based on pontryagin's maximum principle",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE); ISSN: 2088-8708",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 15,
+            "volume_issue_pages": "Vol.10, No.1, pp.233-242",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "Nghịch lưu đa mức điều khiển động cơ điện kéo tàu điện đô thị",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Giao thông vận tải; ISSN: 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.76-80",
+            "published_date": "03/2020"
+        },
+        {
+            "title": "Energy saving solutions for urban electrified train operation with on-board energy storage system",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Giao thông vận tải; ISSN: 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.99-104",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "Optimal Speed Profile Determination with Fixed Trip Time in the Electric Train Operation of the Cat Linh-Ha Dong Metro Line based on Pontryagin's Maximum Principle",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering, Technology & Applied Science Research (ETASR); ISBN:1792-8036",
+            "journal_ranking": "ESCI Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.10, No.6, pp.6488-6488",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Research on simulating the short circuit faults in DC traction network of Hanoi pilot light metro line Nhon - Hanoi railway station",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science journal of transportation , ISSN: 2410-9088",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Special Issue No.10, pp.73-80",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Phương pháp tối ưu vị trí và dung lượng bộ nghịch lưu trong hệ thống cung cấp điện kéo đường sắt đô thị",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học Giao thông vận tải, ISSN:1859-2724",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 72, Số 5, Trang 536-551",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "A regenerative braking energy recuperation from elevator operation in building by active rectifier",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Power Electronics and Drive System (IJPEDS), ISSN:2088-8694",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.12, No.2, pp.811-821",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Energy - Efficient Operation in Subway Systems: Tracking Optimal Speed Profile with on Board Supercapacitor Energy Storage System",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Indian Journal of Science and Technology, ISSN:0974-6846",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No.23,pp.1914-1928",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "Thu hồi năng lượng hãm tái sinh trong vận hành tàu điện đô thị bằng bộ chỉnh lưu tích cực",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học công nghệ giao thông vận tải, ISSN:1859-4263",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 42, pp.61-71",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "A novel method for determining fixed running time in operating electric train tracking optimal speed profile",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE); ISSN: 2088-8708",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.11,No.6, pp.4881-4890",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Optimal supercapacitor placement in an urban railway line",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Transport and Communications Science Journal, ISSN:1859-2724",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol.73,Issue1, pp.75-89",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Super-capacitor energy storage system to recuperate regenerative braking energy in elevator operation of high buildings",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE);",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.12, No.2, pp.1358-1367",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Design a photovoltaic simulator system based on two-diode model with linear interpolation method",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Power Electronics and Drive System (IJPEDS), ISSN:2088-8694",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.13, No.2, pp.856-864",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Energy-efficient speed profile: an optimal approach with fixed running time",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "TELKOMNIKA Telecommunication Computing Electronics and Control, ISSN:2302-9293",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol.20,No.3, pp.663-671",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Giải pháp tối ưu năng lượng của hệ thống lưu trữ năng lượng Hybrid trên xe điện",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội thảo khoa học “Công nghệ mới & Ứng dụng trong lĩnh vực Điện – Điện tử – Tự động hóa” Trường Đại học Giao thông vận tải, ISBN:978-604-76-2615-1",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.5-15",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Ứng dụng công nghệ IOT trong việc giám sát và điều hướng hệ thống điện mặt trời",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN:2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.108-113",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Tiết kiệm năng lượng vận hành tàu điện đô thị bằng bộ tích trữ năng lượng siêu tụ đặt tại trạm điện kéo",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN:2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.23-27",
+            "published_date": "2023"
+        },
+        {
+            "title": "Giải pháp tối ưu vị trí và dung lượng trạm sạc cho xe điện",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN:2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp.34-38",
+            "published_date": "2023"
+        },
+        {
+            "title": "Current Loop Control of Jet Fan Motors in Thu Thiem Tunnel by the Exact Linearization Method",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering, Technology & Applied Science Research (ETASR); ISBN:1792-8036",
+            "journal_ranking": "ESCI Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No.3, pp.13961-13921",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "A Solution for Energy-Efficient Operation of Urban Electric Trains: Integrating Rooftop PV with the Active Rectifier in the Traction Substation",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering, Technology & Applied Science Research (ETASR); ISBN:1792-8036",
+            "journal_ranking": "ESCI Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No.3, pp.13961-13921",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Hệ thống cung cấp điện sức kéo một chiều tuyến Nhơn – Ga hà nội: Nguồn lưới kết hợp PV áp mái",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN:2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 740, pp.127-131",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "An energy management control strategy for supercapacitor energy storage systems according to load demand on urban railway lines",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Transport and Communications Science Journal, ISSN: 1859-2724",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.75, Issue 03, pp.1374-1388",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Speed control for traction motor of urban electrified train in field weakening region based on backstepping method",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bulletin of Electrical Engineering and Informatics (BEEI), ISSN:2302-9285",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol.13, No.3, pp.1504-1512",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Passivity-based adaptive current control loop of cascaded H-bridge multilevel converter for grid-tied photovoltaic system",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE); ISSN: 2088-8708",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No.4, pp.3894-3904",
+            "published_date": "08/2024"
+        },
+        {
+            "title": "Nâng cao hiệu suất hệ thống PV áp mái nhà ga tuyến Metro Bến thành – Suối tiên bằng tích hợp bộ điều khiển tái",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN:2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập.64, số 9/2024, pp.86-89",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "Điều khiển trượt cho mạch vòng tốc độ trong động cơ đồng bộ nam châm vĩnh cửu cực chìm cho ô tô điện",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Trường Đại học Công nghiệp Hà nội, P-ISSN 1859-3585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, Số 9, pp,",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "Model predictive control with finite constant set for five-level neutral-point clamped inverter fed interior permanent magnet synchronous motor drive of electric vehicle",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE); ISSN: 2088-8708",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No.5, pp.5038-5047",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Sliding mode control for the speed loop combined with adaptive coefficients for urban trains' load variations of Nhon - Hanoi Station Metro line",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE); ISSN: 2088-8708",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No.5, pp.5030-5037",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "13-level modular multilevel inverter application for the exhaust fan drive control of Thu Thiem Road tunnel",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE); ISSN: 2088-8708",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No.5, pp.5008-5017",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Cascaded H-bridge 7-level inverter application for air exhaust fan drive control of Thu Thiem road tunnel",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bulletin of Electrical Engineering and Informatics (BEEI), ISSN:2302-9285",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No.1, pp.108-117",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "Backstepping controller for speed loop of permanent magnet synchronous motors integrated with a time-varying disturbance",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE);",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.15, No.1, pp.235-242",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "A Multilevel Boost DC-DC Converter With MPPT Algorithm For The Rooftop PV System Of The Urban Railway Nhon - Hanoi Station",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Applied Science and Engineering (JASE); ISSN: 2708-9967",
+            "journal_ranking": "ESCI Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.28, No.11, pp.2127-2138",
+            "published_date": "02/2025"
+        },
+        {
+            "title": "Position control to expand the headlights' angle of a car by DC motor drive system using PSO algorithm for speed loop",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bulletin of Electrical Engineering and Informatics (BEEI), ISSN:2302-9285",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No2, pp.874-882",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Sliding mode control for speed loop combined with MTPA strategy of IPMSM applied in electric vehicles",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bulletin of Electrical Engineering and Informatics (BEEI), ISSN:2302-9285",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14, No2, pp.883-892",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Control to compensate reactive power at medium voltage load nodes to improve performance and load voltage stabilization based on modular multilevel converter",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE); ISSN: 2088-8708",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.15, No.2, pp.1463-1472",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "An optimal solution for integrating PV energy sources into the distribution network",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí KHGTVT; ISSN: 1859-2724",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.76, No.4, pp.625-637",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Optimizing switching states using a current predictive control algorithm for multilevel cascaded H-bridge converters in solar photovoltaic integration into power grids",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Electrical and Computer Engineering (IJECE); ISSN: 2088-8708",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 15, No. 3, pp.",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Maximum Power Point Tracking for photovoltaic system applied to DC/DC/AC inverter based on Modular Multi-level Converter structure",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of Electrical Engineering (AEE)",
+            "journal_ranking": "ESCI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.74, No.2, pp.425-445",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Comparison of speed loop control methods for IPM motor in electric vehicles",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Power Electronics and Drive Systems (IJPEDS)",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.16, No.2, pp.719-727",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Optimizing Electric Vehicle Steering Force Control using Slip Ratio Observer: Analysis and Comparison of Results on Matlab Simulink and CarSim",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering, Technology & Applied Science Research (ETASR)",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.15,No.3, pp.22437-22444",
+            "published_date": "06/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu bộ trao đổi năng lượng hai chiều DC-DC ứng dụng cho hệ truyền động đường sắt đô thị",
+            "role": "Principal Investigator",
+            "project_code": "T2017-ĐĐT-49",
+            "management_level": "Trường Đại học Giao thông Vận tải",
+            "period": "01/01/2017 đến 31/12/2017",
+            "acceptance_date": "20/12/2017",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu điều khiển tối ưu năng lượng điện sức kéo tuyến đường sắt đô thị Cát Linh -Hà Đông",
+            "role": "Principal Investigator",
+            "project_code": "T2019-ĐT-08TĐ",
+            "management_level": "Trường Đại học Giao thông Vận tải",
+            "period": "01/01/2019 đến 31/12/2020",
+            "acceptance_date": "25/12/2020",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu kết hợp hai giải pháp tiết kiệm năng lượng vận hành tàu điện đô thị: bám đường cong tốc độ tối ưu và thu hồi năng lượng hãm tái sinh bằng bộ chỉnh lưu tích cực",
+            "role": "Principal Investigator",
+            "project_code": "T2022-DT-007",
+            "management_level": "Trường Đại học Giao thông Vận tải",
+            "period": "01/01/2022 đến 31/12/2022",
+            "acceptance_date": "09/12/2022",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu giải pháp tiết kiệm năng lượng vận hành tàu điện đô thị tuyến Nhổn -Ga Hà Nội bằng hệ thống điện mặt trời áp mái",
+            "role": "Principal Investigator",
+            "project_code": "T2024-DT-008",
+            "management_level": "Trường Đại học Giao thông Vận tải",
+            "period": "01/01/2024 đến 31/12/2024",
+            "acceptance_date": "07/12/2024",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Lý thuyết mạch điện",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Khoa học tự nhiên và Công nghệ",
+            "publish_year": "2019",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1: Trang 11-31; chương 3: Trang 71-95; chương 5: Trang 117-134",
+            "verification_document_id": "Bản xác nhận tài liệu tham khảo phục vụ đào tạo của Trường Đại học GTVT"
+        },
+        {
+            "title": "Trang bị điện phương tiện đoàn tàu",
+            "type": "Textbook",
+            "publisher": "Giao thông vận tải",
+            "publish_year": "2025",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 3: Trang 36-52; Chương 4: 53-66; Chương 9: Trang 128-207",
+            "verification_document_id": "Bản xác nhận giáo trình phục vụ đào tạo của Trường Đại học GTVT"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng chương trình đào tạo, đổi mới phương pháp giảng dạy và đánh giá kết quả học tập ngành Kỹ thuật điện",
+            "applicant_role": "Chủ trì",
+            "assignment_document_id": "Quyết định số 2115/QĐ-ĐHGTVT, Ngày 07 tháng 10 năm 2019",
+            "certifying_authority": "Trường Đại học Giao thông Vận tải",
+            "implementation_document_id": "",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo trình độ Thạc sĩ",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 1372/QĐ-ĐHGTVT, Ngày 28 tháng 07 năm 2022",
+            "certifying_authority": "Trường Đại học Giao thông Vận tải",
+            "implementation_document_id": "",
+            "notes": "Tham gia trong Tiểu ban Chỉ đạo – Giám sát Khoa Điện – điện tử"
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo trình độ Tiến sĩ",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 1373/QĐ-ĐHGTVT, Ngày 28 tháng 07 năm 2022",
+            "certifying_authority": "Trường Đại học Giao thông Vận tải",
+            "implementation_document_id": "",
+            "notes": "Tham gia trong Tiểu ban Chỉ đạo – Giám sát Khoa Điện – điện tử"
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo chuyên ngành Hệ thống điện đường sắt tốc độ cao, đường sắt đô thị ngành Kỹ thuật điện",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 254/QĐ-ĐHGTVT, ngày 22 tháng 01 năm 2025",
+            "certifying_authority": "Trường Đại học Giao thông Vận tải",
+            "implementation_document_id": "",
+            "notes": ""
+        }
+    ]
+}

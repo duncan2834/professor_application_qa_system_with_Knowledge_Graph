@@ -1,0 +1,568 @@
+{
+    "papers": [
+        {
+            "title": "Investigation of crystal structure and magnetic properties in Zn doped Bi0.84La0.16FeO3 ceramics at morphotropic phase boundary",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Physics and Chemistry of Solids/ ISSN 0022-3697",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.0, Q2",
+            "citation_count": 11,
+            "volume_issue_pages": "121, 157-162",
+            "published_date": "05/2018"
+        },
+        {
+            "title": "Microwave absorption properties of (100x)La1.5Sr0.5NiO4/xNiFe2O4 nanocomposites",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds/ ISSN 0925-8388",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.2, Q1",
+            "citation_count": 7,
+            "volume_issue_pages": "695, 1658-1662",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "Microwave Absorption Properties of Iron Nanoparticles Prepared by Ball-Milling",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Materials/ ISSN 0361-5235",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.1. Q2",
+            "citation_count": 21,
+            "volume_issue_pages": "45, 5, 2311-2315",
+            "published_date": "05/2016"
+        },
+        {
+            "title": "Microwave Absorption in La1.5Sr0.5NiO4/CoFe2O4 Nanocomposites",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "IEEE Transactions on Magnetics/ ISSN 0018-9464",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.1. Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "50, 250628 (04-4)",
+            "published_date": "06/2014"
+        },
+        {
+            "title": "Microwave absorption properties of dielectric La1.5Sr0.5NiO4 ultrafine particles",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Science and Engineering",
+            "journal_ranking": "Tạp chí uy tín",
+            "citation_count": 15,
+            "volume_issue_pages": "186, 1, 101-105",
+            "published_date": "08/2014"
+        },
+        {
+            "title": "Melting of the charge-ordering state by ruthenium doping in Ca0.6Pr0.4Mn1-yRuyO3 (y = 0, 0.03, 0.05, 0.07) perovskites",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Magnetism and Magnetic Materials/ ISSN 0304-8853",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 2.85, Q2",
+            "citation_count": 2,
+            "volume_issue_pages": "310, 2, e720-e722",
+            "published_date": "03/2007"
+        },
+        {
+            "title": "Cấu trúc và tính chất áp điện của hệ vật liệu BaTi0.8Zr0.2O3-Ba1-yCayTiO3 (y = 15; 20; 25; 28; 28,8; 29,2; 29,6; 30; 30,4; 35)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ, Đại học Thái Nguyên/ ISSN 1859-2171",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "188, 12/2, 39-42",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Crystal structures and magnetic properties of Bi0.84La0.16Fe0.98Ti0.02O3 polycrystalline ceramic",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ, Đại học Thái Nguyên/ ISSN 1859-2171",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "169, 09, 165-169",
+            "published_date": "09/2017"
+        },
+        {
+            "title": "Chế tạo và nghiên cứu tính chất hấp thụ sóng viba của tổ hợp hạt nano (100-x)La1.5Sr0.5NiO4/xNiFe2O4",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên/ ISSN 1859-2171",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "57, 12/1, 177-181",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Microwave absortion properties of La1.5Sr0.5NiO4/La0.7Sr0.3MnO3 Nanocomposites",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of science of HNUE/",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "61, 7, 128-137",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Tính chất hấp thụ sóng điện từ của hệ hạt nano kim loại Fe trong vùng tần số viba with and without metal backing",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Sư phạm Hà Nội 2/ ISSN 1859-2325",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "44 16-23",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "High-energy ball milling preparation of La0.7Sr0.3MnO3 and (Co,Ni)Fe2O4 nanoparticles for microwave absorption applications",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Chemistry, International Edition/ ISSN: 2525-2321",
+            "journal_ranking": "ACI IF: 0.6",
+            "citation_count": 13,
+            "volume_issue_pages": "54, 6, 704-709",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Nghiên cứu khả năng hấp thụ sóng viba của các hạt nano điện môi La1.5Sr0.5NiO4",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam/ ISSN 0866-708X",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "52, 3B, 289-297",
+            "published_date": "09/2014"
+        },
+        {
+            "title": "Microwave Absorption Propperties of (100-x)La1.5Sr0.5NiO4/xNiFe2O4 Nanocomposites",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of The 3th International Conference on Advanced Materials and Nanotechnology HaNoi (ICAMN)/ ISBN 978-",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "3, 330-335",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Chế tạo và nghiên cứu khả năng hấp thụ sóng viba của hệ hạt nano kim loại Fe",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Vật lý Chất rắn và Khoa học vật liệu toàn quốc lần thứ 9- SPMS/ ISBN 978-604-938-722-7",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "2, 767-770",
+            "published_date": "11/2015"
+        },
+        {
+            "title": "Microwave absorption properties for composites of CoFe2O4/carbonaceous-based materials: A comprehensive review",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Alloys and Compounds/ ISSN 0925-8388",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.2; Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "990, 174429(1-26)",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Microwave absorption performance for Cu, Co, and Ti co-doped SrFe12O19 as a function of incident angle",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materials Chemistry and Physics/ ISSN 0254-0584",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.778, Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "317, 129174(1-17)",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Development of high-efficiency microwave absorption properties of La1.5Sr0.5NiO4 and SrFe12O19-based materials composites",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Surfaces and Interfaces/ ISSN 2468-0230",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.6; Q1",
+            "citation_count": 8,
+            "volume_issue_pages": "39, 102890(1-9)",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "The magnetism of Bi0.84La0.16Fe1-xMnxO3 ceramics at the Pbam/Imma phase boundary",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds/ ISSN 0925-8388",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.2; Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "973, 172873(1-7)",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Role of citric acid coating in enhancing applicability of CoFe2O4 nanoparticles in antibacterial and hyperthermia",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Today Communications/ ISSN 2352-4928",
+            "journal_ranking": "SCIE IF: 1.859, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "38, 107982(1-9)",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Field induced spin frustration and magnetic coupling in BiFeO3-based ceramics",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Magnetism and Magnetic Materials/ ISSN 0304-8853",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.097, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "568, 170424(1-5)",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Revival of rhombohedral structure and complex magnetic response in (La, Cr) codoped BiFeO3",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Magnetism and Magnetic Materials/ ISSN 0304-8853",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 3.097, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "586, 171233(1-7)",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Detailed microwave loss mechanisms for nanocomposites of La-doped BaFe12O19 and polyaniline",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International/ ISSN 0272-8842",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.2, Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "49, 14, 23669-23679",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Magnetic and microwave absorbing properties of La0.7Sr0.3MnO3 nanoparticles",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "AIP Advances/ ISSN: 2158-3226",
+            "journal_ranking": "SCIE IF: 1.6, Q3",
+            "citation_count": 4,
+            "volume_issue_pages": "12, 035134(1-10)",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Interplay of multiple structural phase and magnetic response of Bi1-xPrxFeO3 ceramics",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International/ ISSN 0272-8842",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.2; Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "48, 21, 32027-32035",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Correlation between structural phase coexistence and magnetic response of Eu-doped BiFeO3 at the morphotropic phase boundary",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International/ ISSN 0272-8842",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.2, Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "49, 7, 11664-11672",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Ultra-wide effective absorption bandwidth of Cu, Co, and Ti co-doped SrFe12O19 hexaferrite",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International/ ISSN 0272-8842",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.2, Q1",
+            "citation_count": 15,
+            "volume_issue_pages": "48, 19, 27409-27419",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Multiferroic characteristics and microwave absorption properties of La1.5Sr0.5NiO4/BaTiO3 nanocomposites",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Natural Sciences: Nanoscience and Nanotechnology/ ISSN: 2043-6262",
+            "journal_ranking": "SCIE IF: 0.438, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "13, 4, 045002(9pp)",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Piezoelectric performance of 0.5BaZr0.2Ti0.8O3-0.5Ba1-xCaxTiO3 at triple phase point",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International/ ISSN 0272-8842",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.2, Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "48, 20, 30093-30100",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Structural evolution and magnetic properties of Bi0.86Nd0.14Fe1-xTixO3 ceramics",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materials Chemistry and Physics/ ISSN 0254-0584",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 4.778, Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "270, 124857(1-8)",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Peculiar magnetism of Bi1-xDyxFeO3 ceramics at the morphotropic phase boundary",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Alloys and Compounds/ ISSN 0925-8388",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.2; Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "869, 159331",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Structural transition, electrical and magnetic properties of Cr doped Bi0.9Sm0.1FeO3 multiferroics",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds/ ISSN 0925-8388",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.2; Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "813, 152245",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "Structural evolution and magnetic properties in Bi1-xNdxFeO3 ceramics",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Ceramics International/ ISSN 0272-8842",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.2, Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "47, 10 part A, 135905-135975",
+            "published_date": "05/2021"
+        },
+        {
+            "title": "Crystal structure, magnetic properties, and magnetization variation in Bi0.84La0.16Fe1-xTixO3 polycrystalline ceramic",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International/ ISSN 0272-8842",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.2, Q1",
+            "citation_count": 9,
+            "volume_issue_pages": "45, 3, 3223-3229",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Origin of enhanced magnetization in (La,Co) codoped BiFeO3 at the morphotropic phase boundary",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ceramics International/ ISSN 0272-8842",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 5.2, Q1",
+            "citation_count": 24,
+            "volume_issue_pages": "45, 15, 18480-18486",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Microwave absorption properties of La1.5Sr0.5NiO4-based nanocomposites",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Alloys and Compounds/ ISSN 0925-8388",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE IF: 6.2; Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "805, 15, 1231-1236",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Tính chất quang của vật liệu Sr2TiO4 pha tạp ion Eu3+ chế tạo bằng phương pháp phản ứng pha rắn",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học kỹ thuật và công nghệ Việt nam/ ISSN 1859-4794",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "66, 1, 62-67",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Tính chất sắt từ yếu tại biên pha cấu trúc trực thoi/trực giao trong vật liệu gốm Bi0.86Dy0.14FeO3 pha tạp Ti",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ ISSN 1859-2171, 2374-9098",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "229, 10, 182-189",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Nghiên cứu tính chất hấp thụ sóng viba của vật liệu tổ hợp Fe/La1.5Sr0.5NiO4",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ ISSN 1859-2171, 2374-9098",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "229, 02, 156-164",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Nghiên cứu cấu trúc tinh thể và tính chất từ của vật liệu Bi0.86Nd0.14FeO3 pha tạp Co",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ ISSN 1859-",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "228, S1, 29-35",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Ảnh hưởng của nồng độ ion Eu³+ lên cấu trúc và tính chất quang của vật liệu SrTiO3",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ ISSN 1859-2171, 2374-9098",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "227, 16, 241-248",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Tính chất hấp thụ sóng điện từ trong vùng tần số vi ba của vật liệu tổ hợp nền điện môi La1.5Sr0.5NiO4/CoFe2O4",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ ISSN 1859-2171, 2374-9098",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "227, 08, 492-498",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "Characterization of CoFe2O4 nanoparticles synthesized by coprecipitation and hydrothermal method",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí phân tích Hóa, Lý và Sinh học/ISSN 0868-3224",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "26, 3B, 249-254",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Chế tạo vật liệu nano lai GO/Fe3O4 định hướng ứng dụng loại bỏ kim loại nặng trong nước ô nhiễm",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ ISSN 1859-2171, 2374-9098",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "225, 14, 141-146",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Cấu trúc và tính chất từ của vật liệu BiFeO3 đồng pha tạp (Sm, Co)",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "TNU Journal of Science and Technology/ ISSN 1859-",
+            "journal_ranking": "ACI",
+            "citation_count": 1,
+            "volume_issue_pages": "225, 09, 112-117",
+            "published_date": "08/2020"
+        },
+        {
+            "title": "Nghiên cứu khả năng hấp phụ kim loại pb của vật liệu CoFe2O4 chế tạo bằng phương pháp thủy nhiệt",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Vật lý Chất rắn và Khoa học vật liệu toàn quốc lần thứ 9- SPMS/ ISBN 978-604-938-722-7",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "203-206",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Nghiên cứu tính chất hấp thụ sóng điện từ của vật liệu nano tổ hợp nền điện môi La1.5Sr0.5NiO4",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị những tiến bộ trong vật lý kỹ thuật và ứng dụng VII (CAEP-7)/ ISBN: 978-604-357-080-9",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "340-347",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Đặc trưng cấu trúc và đánh giá ứng dụng quang xúc tác của BiFeO3 tổng hợp bằng phương pháp đốt cháy gel",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Vật lý Chất rắn và Khoa học vật liệu toàn quốc lần thứ 9- SPMS/ ISBN 978-604-938-722-7",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "112-115",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Ảnh hưởng của sự đồng pha tạp (La, Co) lên cấu trúc và tính chất từ của vật liệu BiFeO3",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Vật lý Chất rắn và Khoa học vật liệu toàn quốc lần thứ 9- SPMS/ ISBN 978-604-938-722-7",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "323-326",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Electromagnetic Waves: Advances in Applications and Research (Chapter 1: Microwave absorption properties of CoFe2O4-based materials: A review",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nova Science Publishers/ ISBN 979-8-88697-265-8(ebook))",
+            "journal_ranking": "Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "1-28",
+            "published_date": "09/2022"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Chế tạo và nghiên cứu khả năng hấp thụ sóng vi ba của hệ hạt La0,7Sr0,3Mn1-xTixO3",
+            "role": "Principal Investigator",
+            "project_code": "ĐH2015-TN06-10",
+            "management_level": "Cấp Đại học",
+            "period": "23/09/2015 đến 31/12/2016",
+            "acceptance_date": "19/6/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xây dựng quy trình chế tạo vật liệu hấp thụ sóng điện từ dựa trên vật liệu tổ hợp nền điện môi La1.5Sr0.5NiO4",
+            "role": "Principal Investigator",
+            "project_code": "B2020-TNA-17",
+            "management_level": "Cấp Bộ",
+            "period": "16/01/2020 đến 31/12/2021",
+            "acceptance_date": "24/12/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Chế tạo và đánh giá khả năng hấp thụ sóng điện từ trong dải tần số GHz của một số vật liệu tổ hợp điện môi/sắt từ",
+            "role": "Principal Investigator",
+            "project_code": "CS2021-TN06-13",
+            "management_level": "Cấp Cơ sở",
+            "period": "01/6/2021 đến 31/5/2023",
+            "acceptance_date": "17/5/2023",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Ảnh hưởng của sự thay đổi trật tự và độ dày lớp hấp thụ lên khả năng hấp thụ sóng điện từ của vật liệu đa lớp nền BaFe12O19",
+            "role": "Principal Investigator",
+            "project_code": "CS2023-TN06-13",
+            "management_level": "Cấp Cơ sở",
+            "period": "01/6/2023 đến 31/5/2025",
+            "acceptance_date": "10/5/2024",
+            "rating": "Đạt"
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": [
+        {
+            "title": "Bằng khen của Bộ Trưởng Bộ Giáo dục và Đào tạo",
+            "certifying_organization": "Bộ Giáo dục và Đào tạo",
+            "certificate_document_id": "2022",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Bộ Trưởng Bộ Giáo dục và Đào tạo",
+            "certifying_organization": "Bộ Giáo dục và Đào tạo",
+            "certificate_document_id": "2023",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cấp Cơ sở",
+            "certifying_organization": "Trường Đại học Khoa học, Đại học Thái Nguyên",
+            "certificate_document_id": "2022",
+            "award": "Chiến sĩ thi đua cấp Cơ sở",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": null
+}

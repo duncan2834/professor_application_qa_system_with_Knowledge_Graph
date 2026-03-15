@@ -1,0 +1,686 @@
+{
+    "papers": [
+        {
+            "title": "Kiểm định đường cong Kuznets về môi trường ở các nước Đông Nam Á",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ ISSN: 2525-2267 https://jst.iuh.edu.vn/index.php/jst-iuh/article/view/383",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "26, 127-137.",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Assessment of the Should be Effects of Corruption Perception Index on Foreign Direct Investment in ASEAN Countries by Spatial Regression Method",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chương sách; Studies in Computational Intelligence. ISBN 978-3-319-73149-0 https://link.springer.com/chapter/10.1007/978-3-319-73150-6_33",
+            "journal_ranking": "Springer Scopus Q4",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol.760, 421-429",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Mối quan hệ giữa tính minh bạch và thu hút FDI:",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế; ISSN: 0866-7489",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "476 (1), 24-35",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "“Cơ chế đặc thù”: Nhìn từ góc độ tác động đến thu hút đầu tư trực tiếp nước ngoài vào địa phương",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Những vấn đề kinh tế và chính trị thế giới; ISSN: 0868-2984 https://iwep.gov.vn/tap-chi/so-1-2018/",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "261 (1), 64-75",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "Mối quan hệ giữa tiêu thụ điện và tăng trưởng kinh tế của Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển; ISSN: 1859-0012 https://ktpt.neu.edu.vn/tap-chi/so-248/muc-luc-144/moi-quan-he-giua-tieu-thu-dien-va-tang-truong-kinh-te-cua-viet-nam.375827.aspx",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "248 (2), 12-24",
+            "published_date": "02/2018"
+        },
+        {
+            "title": "The relationship between foreign direct investment, electricity consumption and economic growth in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Energy Economics and Policy; ISSN: 2146-4553 https://www.econjournals.com/index.php/ijeep/article/view/6192",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 56,
+            "volume_issue_pages": "8 (3), 267 - 274",
+            "published_date": "05/2018"
+        },
+        {
+            "title": "Hiệu quả điều hành của Chính phủ, kiểm soát tham nhũng và thu hút đầu tư trực tiếp nước ngoài: Bằng chứng thực nghiệm từ các nước Asean",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển; ISSN: 1859-0012 https://ktpt.neu.edu.vn/tap-chi/so-251/muc-luc-472/hieu-qua-dieu-hanh-cua-chinh-phu-kiem-soat-tham-nhung-va-thu-hut-dau-tu-truc-tiep-nuoc-ngoai-bang-chung-thuc-nghiem-tu-cac-nuoc-asean.378880.aspx",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "251 (5), 63-72",
+            "published_date": "05/2018"
+        },
+        {
+            "title": "The Impact of Foreign Direct Investment on Structural Economic in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chương sách; Studies in Computational Intelligence; ISBN 978-3-030-04199-1 https://link.springer.com/chapter/10.1007/978-3-030-04200-4_26",
+            "journal_ranking": "Springer Scopus Q4",
+            "citation_count": 11,
+            "volume_issue_pages": "Vol.809, 352-362",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Economic Integration and Environmental Pollution Nexus in Asean: A PMG Approach",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chương sách; Studies in Computational Intelligence; ISBN 978-3-030-04199-1 https://link.springer.com/chapter/10.1007/978-3-030-04200-4_31",
+            "journal_ranking": "Springer Scopus Q4",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol.809, 427-439",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Effects of Foreign Direct Investment and Human Capital on Labour Productivity: Evidence from Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business; eISSN: 2288-4645; http://koreascience.or.kr/article/JAKO20",
+            "journal_ranking": "ESCI, Scopus Q3",
+            "citation_count": 68,
+            "volume_issue_pages": "6 (3), 123-130",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "The nexus between economic integration and growth: Application to Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Annals of Financial Economics; ISSN 2010-4952 https://www.worldscientific.com/doi/abs/10.1142/S2010495219500143",
+            "journal_ranking": "ESCI, IF = 2.0, Scopus Q3",
+            "citation_count": 43,
+            "volume_issue_pages": "14 (03), 1950014",
+            "published_date": "09/2019"
+        },
+        {
+            "title": "Energy consumption and economic growth: Evidence from Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Reviews on Global Economics; ISSN: 1929-7092 Scopus Q4 https://www.lifescienceglobal.com/pms/index.php/jrge/article/view/5999",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 26,
+            "volume_issue_pages": "Vol.8, 350-361",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Energy Consumption-Economic Growth Nexus in Vietnam: An ARDL Approach with a Structural Break",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business; eISSN: 2288-4645; https://oak.go.kr/central/journallist/journaldetail.do?article_seq=23327",
+            "journal_ranking": "ESCI, Scopus Q3",
+            "citation_count": 50,
+            "volume_issue_pages": "7 (1), 101-110",
+            "published_date": "01/2020"
+        },
+        {
+            "title": "The asymmetric effect of inflation on economic growth in Vietnam: Evidence by nonlinear ARDL approach",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business; eISSN: 2288-4645; https://scholar.kyobook.co.kr/article/detail/4010028131310",
+            "journal_ranking": "ESCI, Scopus Q3",
+            "citation_count": 58,
+            "volume_issue_pages": "7 (2), 143-149",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "Tác động của tiêu thụ điện đến lượng khí thải CO2 ở Việt Nam: Đối xứng hay bất đối xứng?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế và kinh doanh Châu Á; e-ISSN: 2515-964X https://jabes.ueh.edu.vn/Home/SearchArticle?article_Id=0flae654-bea5-4b23-8dec-47591b2a2df5",
+            "journal_ranking": "",
+            "citation_count": 10,
+            "volume_issue_pages": "31 (2), 45-60",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "Tác động của phát triển tài chính và kinh tế ngầm đến tăng trưởng kinh tế ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển; ISSN: 1859-0012 https://ktpt.neu.edu.vn/tap-chi/so-275/muc-luc-528/tac-dong-cua-phat-trien-tai-chinh-va-kinh-te-ngam-den-tang-truong-kinh-te-o-viet-nam.379228.aspx",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "275 (5), 20-29",
+            "published_date": "05/2020"
+        },
+        {
+            "title": "Effects of foreign direct investment and quality of informal institution on the size of the shadow economy: application to Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business; eISSN: 2288-4645; https://koreascience.kr/article/JAKO202014862061401.page",
+            "journal_ranking": "ESCI, Scopus Q3",
+            "citation_count": 23,
+            "volume_issue_pages": "7 (5), 73-80",
+            "published_date": "05/2020"
+        },
+        {
+            "title": "Revisiting the relationship between energy consumption and economic growth nexus in Vietnam: new evidence by asymmetric ARDL cointegration",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Applied Economics Letters; SSCI, ISSN: 1350-4851; IF = 1.15, https://www.tandfonline.com/doi/abs/10.1080/13504851.2020.1789543",
+            "journal_ranking": "SSCI, IF = 1.15, Scopus Q3",
+            "citation_count": 95,
+            "volume_issue_pages": "28 (2), 978-984",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Tăng trưởng kinh tế, tiêu thụ điện, tỉ lệ đô thị hóa và dấu chân sinh thái: Thực nghiệm ở các nước ASEAN",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế và kinh doanh Châu Á; e-ISSN: 2515-964X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31 (8), 5-24",
+            "published_date": "08/2020"
+        },
+        {
+            "title": "Financial integration, energy consumption and economic growth in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Annals of Financial Economics; ISSN 2010-4952; https://www.worldscientific.com/doi/abs/10.1142/S2010495220500104",
+            "journal_ranking": "ESCI, IF = 2.0, Scopus Q3",
+            "citation_count": 20,
+            "volume_issue_pages": "15 (3), 2050010",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Đô thị hóa có thực sự làm giảm tỉ lệ thất nghiệp ở Việt Nam?",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại; ISSN: 1859-3666 https://tckhtm.tmu.edu.vn/tin-tuc/chi-tiet/phan-thi-lieu-va-bui-hoang-ngoc-do-thi-hoa-co-thuc-su-lam-giam-ty-le-that-nghiep-o-viet-nam-21165",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "149 (12), 13-22",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Impact of Economic Freedom on Corruption Revisited in ASEAN Countries: A Bayesian Hierarchical Mixed-Effects Analysis",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Economies ISSN: 2227-7099 https://www.mdpi.com/2227-7099/9/1/3",
+            "journal_ranking": "ESCI, IF = 2.6, Scopus Q2",
+            "citation_count": 27,
+            "volume_issue_pages": "9 (1), 3",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Tính kinh tế của tham nhũng và bài học cho Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Ngân hàng Châu Á; ISSN: 2615-9813 https://ajeb.hub.edu.vn/vi/article/tinh-kinh-te-cua-tham-nhung-va-bai-hoc-",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "180 (3), 79-87",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Tác động của vốn con người và tỉ lệ đô thị hóa đến \"tài sản sinh thái\" ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển; ISSN: 1859-0012 https://ktpt.neu.edu.vn/tap-chi/so-2852/muc-luc-647/tac-dong-cua-von-con-nguoi-va-ty-le-do-thi-hoa-den-tai-san-sinh-thai-o-viet-nam.380471.aspx",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "285 (3), 102-111",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Tác động của lạm phát đến độ mở thương mại của Việt Nam: Đối xứng hay bất đối xứng?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế; ISSN: 0866-7489",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "515 (4), 3-13",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Exploring the convergence of per capita electricity consumption in ASEAN countries: A spatial econometric analysis",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Economics Letters; SSCI, ISSN: 1350-4851; IF = 1.28, https://www.tandfonline.com/doi/abs/10.1080/13504851.2021.1939852",
+            "journal_ranking": "SSCI, IF = 1.28, Scopus Q3",
+            "citation_count": 5,
+            "volume_issue_pages": "29 (16), 1478-1482",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Ảnh hưởng của chỉ số phức tạp kinh tế lên dấu chân sinh thái: Nghiên cứu trường hợp của Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại; ISSN: 1859-3666 https://tckhtm.tmu.edu.vn/bai-bao-tap-chi/chi-tiet/bui-hoang-ngoc-phan-thi-lieu-va-nguyen-huu-khoi-anh-huong-cua-chi-so-phuc-tap-kinh-te-len-dau-chan-sinh-",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "156 (8), 25-33",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Hội nhập kinh tế có thực sự làm giảm ô nhiễm không khí ở Việt Nam?",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế; ISSN: 0866-7489",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "520 (9), 51-64",
+            "published_date": "09/2021"
+        },
+        {
+            "title": "The effect of tourism development on the ecological footprint in Singapore: evidence from asymmetric ARDL method",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Current Issues in Tourism; ISSN: 1747-7603; https://www.tandfonline.com/doi/abs/10.1080/13683500.2021.1971165",
+            "journal_ranking": "SSCI, IF = 7.57, Scopus Q1",
+            "citation_count": 38,
+            "volume_issue_pages": "25 (15), 2500-2517",
+            "published_date": "09/2021"
+        },
+        {
+            "title": "Sự lệch pha giữa tăng trưởng kinh tế và một số biến số vĩ mô ở Việt Nam: Thực nghiệm từ phân tích Wavelet",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển; ISSN: 1859-0012 https://ktpt.neu.edu.vn/tap-chi/so-293/bai-nghien-cuu/su-lech-pha-giua-tang-truong-kinh-te-va-mot-so-bien-so-vi-mo-o-viet-nam-thuc-nghiem-tu-phan-tich-wavelet.380588.aspx",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "293 (11), 77-87",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Does financial development reinforce ecological footprint in Singapore? Evidence from ARDL and Bayesian analysis",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Science and Pollution Research; ISSN: 0944-1344 https://link.springer.com/article/10.1007/s11356-021-17565-5",
+            "journal_ranking": "SCIE, IF = 5.19, Scopus Q1",
+            "citation_count": 69,
+            "volume_issue_pages": "29 (16), 24219-24233",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Đánh giá lại tác động của sản xuất điện, tăng trưởng kinh tế và đô thị hóa đến phát triển bền vững ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý & Kinh tế Quốc tế; ISSN: 2615-9848",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "142 (12), 84-101",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "The asymmetric effect of financial development on human capital: Evidence from a nonlinear ARDL approach",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of International Trade & Economic Development; ISSN: 0963-8199; https://www.tandfonline.com/doi/abs/10.1080/09638199.2022.2043930",
+            "journal_ranking": "SSCI, IF = 2.1, Scopus Q1",
+            "citation_count": 26,
+            "volume_issue_pages": "31 (6), 936-952",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Tác động của các biến số vĩ mô đến dấu chân sinh thái ở các nước ASEAN: Thực nghiệm bằng phương pháp hồi quy không gian",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Quản lý & Kinh tế Quốc tế; ISSN: 2615-9848",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "144 (2), 1-17",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Mối quan hệ giữa tỉ lệ đô thị hóa, tăng trưởng kinh tế, phát triển nông nghiệp và lượng khí thải CO2 ở Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Những vấn đề kinh tế và chính trị thế giới; ISSN: 0868-2984 https://iwep.gov.vn/tap-chi/so-3-2022/",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "311 (3), 60-71",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Tác động của chuyển đổi số và đầu tư trực tiếp nước ngoài đến năng suất lao động ở Việt Nam: Tiếp cận bằng hồi quy phân vị dựa trên phân vị",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại; ISSN: 1859-3666 https://tckhtm.tmu.edu.vn/bai-bao-tap-chi/chi-tiet/nguyen-minh-ha-va-bui-hoang-ngoc-tac-dong-cua-chuyen-doi-so-va-dau-tu-truc-tiep-nuoc-ngoai-den-nang-suat-lao-dong-o-viet-nam-tiep-can-bang-hoi-quy-phan-vi-dua-tren-phan-vi-21176",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "168 (8), 3-13",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Phát triển du lịch và lạm phát có thúc đẩy tăng trưởng kinh tế ở các nước ASEAN?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại; ISSN: 1859-3666 https://tckhtm.tmu.edu.vn/bai-bao-tap-chi/chi-tiet/bui-hoang-ngoc-phat-trien-du-lich-va-lam-phat-co-thuc-day-tang-truong-kinh-te-o-cac-nuoc-asean-21170",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "168 (8), 72-83",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Phát triển tài chính, tăng trưởng kinh tế và chất lượng thể chế ở các nước khu vực Đông Nam Á",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Mở Thành phố Hồ Chí Minh; ISSN: 1859-3453 https://journalofscience.ou.edu.vn/index.php/proc-vi/article/view/2517",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "17 (1), 23-35",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Do Tourism Development and Globalization Reinforce Ecological Footprint? Evidence From RCEP Countries",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sage Open; ISSN: 2158-2440; https://journals.sagepub.com/doi/full/10.1177/21582440221143310",
+            "journal_ranking": "SSCI, IF = 2.0, Scopus Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "12 (4), 1-15",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Mối quan hệ giữa đầu tư trực tiếp nước ngoài, tăng trưởng kinh tế, tiêu thụ năng lượng và dấu chân sinh thái ở Việt Nam: Tiếp cận bằng hồi quy phân vị dựa trên phân vị",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "VNUHCM Journal of Economics, Business and Law; ISSN: 2588-1051 https://stdjelm.scienceandtechnology.com.vn/index.php/stdjelm/article/view/995",
+            "journal_ranking": "",
+            "citation_count": 5,
+            "volume_issue_pages": "6 (4), 3855-3866",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "The relationship between economic diversification and carbon emissions in developing countries",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Applied Economics, Finance and Accounting; ISSN: 2577-767X https://onlineacademicpress.com/index.php/IJAEFA/article/view/747",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 7,
+            "volume_issue_pages": "15 (1), 21-28",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Kinh tế ngầm có thúc đẩy cạn kiệt tài nguyên và gây ô nhiễm môi trường ở Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và kinh doanh (VNU); ISSN: 2734-9845 https://jebvn.ueb.edu.vn/index.php/jeb/article/view/224",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3 (3), 20 - 29",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "The role of cultural and institutional distances in international trade",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Emerging Science Journal; ISSN: 2610-9182 https://ijournalse.org/index.php/ESJ/article/view/1360/pdf",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 9,
+            "volume_issue_pages": "7 (2), 507-519",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Tác động của chuyển đối số đến tăng trưởng kinh tế Việt Nam: Tiếp cận bằng phương pháp phân tích Wavelet",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu kinh tế; ISSN: 0866-7489",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "539 (4), 16-27",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Nexus between tourism and ecological footprint in RCEP: Fresh evidence from Bayesian MCMC random-effects sampling",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management; ISSN: 2331-1975; https://www.tandfonline.com/doi/full/10.1080/23311975.2023.2208703",
+            "journal_ranking": "ESCI, IF = 3.0, Scopus Q2",
+            "citation_count": 14,
+            "volume_issue_pages": "10 (1), 2208703",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Does financial development affect human capital? Evidence from Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Asia Business Studies; ISSN: 1558-7894 https://www.emerald.com/insight/content/doi/10.1108/JAB",
+            "journal_ranking": "ESCI, IF = 2.9, Scopus Q1",
+            "citation_count": 10,
+            "volume_issue_pages": "17 (4), 785-803",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Is financial development good for ecological footprint? A Bayesian multilevel mixed-effects analysis in ASEAN countries",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Environment and Sustainable Development; ISSN: 1474-6778 https://www.inderscienceonline.com/doi/abs/10.1504/IJESD.2023.133824?af=R",
+            "journal_ranking": "ESCI, IF = 1.0, Scopus Q4",
+            "citation_count": 9,
+            "volume_issue_pages": "22 (4), 409-424",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Time-frequency nexus between tourism development, economic growth, human capital, and income inequality in Singapore",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Economics Letters; SSCI, ISSN: 1350-4851; IF = 1.6, https://www.tandfonline.com/doi/abs/10.1080/13504851.2022.2130865",
+            "journal_ranking": "SSCI, IF = 1.6, Scopus Q3",
+            "citation_count": 25,
+            "volume_issue_pages": "31 (4), 259-264",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Asymmetric effects of foreign direct investment and globalization on ecological footprint in Indonesia",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plos One; SCIE, ISSN: 1932-6203 IF = 3.7, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297046",
+            "journal_ranking": "SCIE, IF = 3.7, Scopus Q1",
+            "citation_count": 21,
+            "volume_issue_pages": "19 (1), e0297046",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Do the internet, economic growth, and environmental quality spur people's happiness during Covid-19 pandemic?",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electronic Journal of Applied Statistical Analysis; ESCI, ISSN: 2070-5948 IF = 0.7, http://siba-ese.unisalento.it/index.php/ejasa/article/view/27342",
+            "journal_ranking": "ESCI, IF = 0.7, Scopus Q4",
+            "citation_count": 1,
+            "volume_issue_pages": "17 (1), 20-33",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Do positive and negative shocks of tourism development affect income inequality in a developed country?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plos One; SCIE, ISSN: 1932-6203 IF = 3.7, https://journals.plos.org/plosone/article?i",
+            "journal_ranking": "SCIE, IF = 3.7, Scopus Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "19 (4), e0301628",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Spillover impacts of financial development and globalization on environmental quality in ASEAN countries",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Heliyon; ISSN: 2405-8440 https://doi.org/10.1016/j.heliyon.2024.e30149",
+            "journal_ranking": "SCIE, IF = 4.0, Scopus Q1",
+            "citation_count": 8,
+            "volume_issue_pages": "10 (9), e30149",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Environmental Foe or Friend: The Impact of Intellectual Capital and Ambidextrous Innovation on Environmental Performance",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sage Open; ISSN: 2158-2440 https://doi.org/10.1177/21582440241256768",
+            "journal_ranking": "SSCI, IF = 2.0, Scopus Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "14 (2), 1-16",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "A time-varying analysis between economic uncertainty and tourism development in Singapore",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plos One ISSN: 1932-6203 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302980",
+            "journal_ranking": "SCIE, IF = 3.7, Scopus Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "19 (5), e0302980",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Ô nhiễm môi trường và phúc lợi của người dân Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nghiên cứu Kinh tế và Kinh doanh Châu Á; ISSN: 2615-9104; https://jabes.ueh.edu.vn/Home/SearchArticle?article_Id=f5d97d20-b173-4169-bd2a-22f09ea15c45",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "35 (7), 21-35",
+            "published_date": "07/2024"
+        },
+        {
+            "title": "Nghiên cứu sự đánh đổi giữa hạnh phúc của người dân và dấu chân sinh thái ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Mở Thành phố Hồ Chí Minh; ISSN: 2734-9306; https://journalofscience.ou.edu.vn/index.php/econ-vi/article/view/3292",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19 (9), 65-78",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "The heterogeneity impacts of digital transformation, human capital, and trade openness on income and labour productivity in Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ho Chi Minh City Open University Journal of Science; ISSN: 2734-9314; https://journalofscience.ou.edu.vn/index.php/econ-en/article/view/3484",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14 (4), 157-171",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Spatial relationship between financial development, energy consumption and economic growth in emerging markets",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Emerging Markets; ISSN: 1746-8809; https://www.emerald.com/insight/content/doi/10.1108/IJOEM-10-2020-1207/full/html",
+            "journal_ranking": "SSCI, IF = 2.7, Scopus Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "20 (1), 54-73",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Phân tích trắc lượng thư mục về mối quan hệ giữa tăng trưởng kinh tế và bền vững môi trường",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Mở Thành phố Hồ Chí Minh; ISSN: 2734-9306; https://journalofscience.ou.edu.vn/index.php/econ-vi/article/view/3597",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "20 (3), 3-19",
+            "published_date": "03/2025"
+        },
+        {
+            "title": "Do foreign direct investment and trade openness matter for environmental sustainability in Vietnam? Evidence from time-frequency analysis",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Discover Sustainability; E-ISSN: 2662-9984; https://doi.org/10.1007/s43621-025-01106-y",
+            "journal_ranking": "ESCI, Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "6 (1), 245",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Tác động lan tỏa của tăng trưởng kinh tế và trình độ dân trí đến độ che phủ rừng ở Việt Nam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nghiên cứu Kinh tế và Kinh doanh Châu Á; ISSN: 2615-9104;",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "36 (2), 128-143",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Applying Balanced Scorecard (BSC) Model to Vietnamese Vocational Institutions in the Digital Age",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Conference on Marketing in the Connected Age (MICA-2018) ISBN 978-604-84-3471-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "356-370",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Đầu tư trực tiếp nước ngoài và tiêu thụ điện có làm gia tăng lượng khí thải CO2 ở Việt Nam?",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học quốc gia: “Thực trạng phát triển khu vực FDI trong thực hiện chiến lược phát triển bền vững ở Việt Nam” ISBN: 978-604-946-689-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "368-376",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Economic diversity in southeast asian developing countries: what is the appropriate path?",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "6th International Conference on Contemporary Issues in Economics, Management and Business ISBN: 978-604-330-939-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1231-1249",
+            "published_date": "11/2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Ứng dụng hồi quy đồng liên kết để xác định điểm uốn trong đường cong môi trường tại Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "TR2018-12",
+            "management_level": "cấp cơ sở - cấp trường.",
+            "period": "01/01/2018 - 30/01/2019",
+            "acceptance_date": "26/03/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Ảnh hưởng điều tiết của thương hiệu trường đại học trong mối tương tác giữa chương trình dạy học, cảm xúc học tập và ý định chuyển đổi cơ sở đào tạo: Trường hợp nghiên cứu tại Trường Đại học",
+            "role": "Principal Investigator",
+            "project_code": "31",
+            "management_level": "cấp cơ sở - cấp trường.",
+            "period": "01/10/2022 - 30/09/2023",
+            "acceptance_date": "03/11/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Vai trò của chuyển đổi số và vốn con người trong việc giảm sự phụ thuộc vào tài nguyên của tăng trưởng kinh tế",
+            "role": "Principal Investigator",
+            "project_code": "26",
+            "management_level": "cấp cơ sở - cấp trường.",
+            "period": "25/01/2024 - 24/01/2025",
+            "acceptance_date": "17/06/2024",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng chương trình đào tạo trình độ Đại học, ngành Quản trị kinh doanh",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "389/QĐ-DCT, ngày 24/01/2024",
+            "certifying_authority": "Trường Đại học Công Thương TpHCM",
+            "implementation_document_id": "2551/QĐ-DCT, ngày 19/08/2024",
+            "notes": ""
+        }
+    ]
+}

@@ -1,0 +1,372 @@
+{
+    "papers": [
+        {
+            "title": "Bổ sung tình huống xác lập quốc tịch của trẻ em sinh ra trên lãnh thổ Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp/2005 chưa có ISSN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11 (63), 1-4",
+            "published_date": "11/2005"
+        },
+        {
+            "title": "Một số điểm mới trong việc tuyển dụng và quản lý lao động nước ngoài tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp/2008 chưa có ISSN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6 (122), 50-52",
+            "published_date": "5/2008"
+        },
+        {
+            "title": "Tính nhân đạo của Luật quốc tịch Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp/2008 chưa có ISSN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7 (123), 39-41",
+            "published_date": "5/2008"
+        },
+        {
+            "title": "Cần hoàn thiện thêm Dự thảo Luật quốc tịch Việt Nam (sửa đổi)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp/2008 chưa có ISSN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 10 (126), 30-38",
+            "published_date": "7/2008"
+        },
+        {
+            "title": "Le Code du travail vietnamien : Évolution et application",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Dixième anniversaire du Code du travail cambodgien/Edition Funan ISBN:97899950-57-23-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "85-89",
+            "published_date": "11/2008"
+        },
+        {
+            "title": "Bảo vệ quyền và lợi ích của người lao động nước ngoài tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp/2009 chưa có ISSN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 5 (142), 23-29",
+            "published_date": "3/2009"
+        },
+        {
+            "title": "Quyền sở hữu nhà tại Việt Nam của người Việt Nam định cư ở nước ngoài",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp/2009 chưa có ISSN",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7 (114), 43-47",
+            "published_date": "4/2009"
+        },
+        {
+            "title": "Về Giấy phép lao động của người nước ngoài tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhà nước và pháp luật /ISSN: 0866-7446",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2 (250), 26-34",
+            "published_date": "2/2009"
+        },
+        {
+            "title": "Quyền thành lập, tham gia công đoàn trong luật quốc tế và luật Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lập pháp /ISSN: 1859-2953",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 5 (166), 37-47",
+            "published_date": "3/2010"
+        },
+        {
+            "title": "Tạm đình chỉ, đình chỉ thực hiện hợp đồng trong thủ tục phá sản - Bất cập và hướng hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Toà án nhân dân /ISSN: 1859-4875",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 24 (kỳ II), 8-15",
+            "published_date": "12/2018"
+        },
+        {
+            "title": "Quyền của bị đơn trong thủ tục hòa giải tranh chấp kinh doanh, thương mại",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương /ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8, 29-34",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "Quy định về tăng vốn điều lệ của công ty trách nhiệm hữu hạn hai thành viên trở lên Bất cập và hướng hoàn thiện",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương /ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11, 30-34",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Kiến nghị hoàn thiện quy định về đảm bảo đầu tư nhằm thu hút đầu tư nước ngoài tại Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương /ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, 35-39",
+            "published_date": "4/2020"
+        },
+        {
+            "title": "Một số điều kiện đầu tư nước ngoài tại Việt Nam theo hình thức góp vốn, mua cổ phần, mua phần vốn góp vào tổ chức kinh tế",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công thương /ISSN: 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9, 14-19",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "Vướng mắc trong tố tụng dân sự khi người đại diện theo pháp luật của doanh nghiệp chết hoặc mất tích",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Toà án nhân dân /ISSN: 1859-4875",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11, 30-35",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Quyền yêu cầu thi hành án phần bản án sơ thẩm không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học /ISSN: 0868-3522",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6 (265), 33-41",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Áp dụng luật doanh nghiệp Việt Nam trong mối quan hệ với Bộ luật Hình sự và Bộ luật Tố tụng hình sự - Применение закона Вьетнама о предприятиях в отношении к уголовному и уголовно-процессуальному кодексу",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu khoa học: Hoàn thiện pháp luật trong lĩnh vực tư pháp hình sự: lý luận và thực tiễn - Совершенствование законодательной и правоприменительной практики в сфере уголовно-правовых наук /ISBN 978-5-7679-5113-0 NXB Đại học Tổng hợp quốc gia Tula – Liên bang Nga (Тула Издательство ТулГу)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "106-133",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Phân định thẩm quyền giữa trọng tài và tòa án trong giải quyết tranh chấp và áp dụng biện pháp khẩn cấp tạm thời",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học pháp lý Việt Nam /ISSN: 1859-3879",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 10 (158), 14-25",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Vấn đề ủy quyền trong quản lý doanh nghiệp của người đại diện theo pháp luật: Bất cập và kiến nghị hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhân lực Khoa học xã hội /ISSN: 0866-756X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3 (118), 73-80",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Kiến nghị hoàn thiện quy định về người đại diện theo pháp luật của hợp tác xã và liên hiệp hợp tác xã trong Dự thảo Luật Hợp tác xã (sửa đổi).",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục và xã hội /ISSN: 1859-3917",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, Tháng 4 (kỳ 2), 263-267",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "So sánh Luật Phá sản trong mối quan hệ với các văn bản quy phạm pháp luật khác - Một số bất cập và kiến nghị hoàn thiện",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Toà án nhân dân /ISSN: 1859-4875",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 10, 9-14",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Hoàn thiện quy định về thành viên của các tổ chức kinh tế hợp tác có tư cách pháp nhân",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Luật học /ISSN: 0868-3522",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6 (277) 82-91",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Determination of the Legal Representative of Vietnamese Enterprises in Enterprise - Related Disputes Inadequacies and Recommendations for Improvement",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Russian Law Journal /ISSN: 2312-3605",
+            "journal_ranking": "SJR Q.4",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume XI Issue 3, 882-889",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Some inadequacies of the Judicial Record Card in the establishment and management of enterprises and improvement recommendations",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Namibian Studies /ISSN: 2197-5523 (online)",
+            "journal_ranking": "Scopus 2017-2023",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.34, S2, 958-969",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Shortcomings in Vietnamese Law on General Partnners and Recommendations for Improvement",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Law and Scocial Deviance /ISSN: 2164-4721",
+            "journal_ranking": "WoS (ISI)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.27, 101-138",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Provisions on investment registration certificates upon establishment of enterprises and cooperatives in Vietnam Shortcomings and recommendations for improvement",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Jurnal Cita Hukum (Indonesian Law Journal) /ISSN: 2356-1440 2502-230X",
+            "journal_ranking": "WoS (ISI)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.12, No.1, 109-125",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Hoàn thiện một số quy định pháp luật liên quan đến nhà đầu tư là công dân Việt Nam đồng thời có quốc tịch nước ngoài",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dân chủ & Pháp luật /ISSN: 9866-7535",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 403, 24-29",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Điều kiện về an ninh, trật tự của cơ sở kinh doanh lưu trú - Bất cập và kiến nghị hoàn thiện",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Toà án nhân dân /ISSN: 1859-4875",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9, 1-9",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Vietnam's Law on persons with rights and obligations to file for commencing bankruptcy procedures: inadequacies and recommendations from other countries' experience",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Revista Brasileira De Direito /ISSN: 2238-0604",
+            "journal_ranking": "WoS (ISI)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.19, No.3 1-19",
+            "published_date": "6/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Hoàn thiện pháp luật nhằm thu hút đầu tư nước ngoài tại Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "T2019-37",
+            "management_level": "",
+            "period": "6/2019-5/2020",
+            "acceptance_date": "29/5/2020",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Người đại diện theo pháp luật của tổ chức kinh tế",
+            "role": "Principal Investigator",
+            "project_code": "T2022-53",
+            "management_level": "",
+            "period": "5/2022-11/2022",
+            "acceptance_date": "28/11/2022",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Pháp luật về quản lý và sử dụng đất đai ở Việt Nam",
+            "type": "Reference Book",
+            "publisher": "NXb Đại học Cần Thơ",
+            "publish_year": "2016",
+            "num_authors": 11,
+            "is_editor_in_chief": false,
+            "compiled_pages": "186 - 206",
+            "verification_document_id": "2216/GXN – ĐHCT, ngày 20/6/2024"
+        },
+        {
+            "title": "Luật kinh tế",
+            "type": "Reference Book",
+            "publisher": "NXB Giáo Dục Việt Nam",
+            "publish_year": "2021",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "277 - 346",
+            "verification_document_id": "2215/GXN ĐHCT, ngày 20/6/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo trình độ đại học ngành Luật (7380101), chuyên ngành Luật hành chính, Luật thương mại và Luật tư pháp",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số: 4235/QĐ-ĐHCT, ngày 26/9/2018 Về việc thành lập Tổ thư ký và các Tổ Điều chỉnh chương trình đào tạo trình độ đại học",
+            "certifying_authority": "- Hội đồng khoa (Biên bản số: 01/BB-KL, ngày 28/11/2018, Biên bản hợp Hội đồng Khoa về việc điều chỉnh Chương trình đào tạo) - Hội đồng Khoa học và đào tạo (Biên bản họp thẩm định điều chỉnh chương trình đào tạo tiểu ban chuyên môn: Kinh tế, Luật và khoa học chính trị, ngày 03/1/2019)",
+            "implementation_document_id": "Quyết định số:3019/QĐ-ĐHCT, ngày 31/7/2019 về việc ban hành chương trình đào tạo trình độ đại học",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ thạc sĩ ngành Luật kinh tế định hướng nghiên cứu (8380107)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số:5169/QĐ-ĐHCT, ngày 29/11/2021 về việc thành lập Hội đồng xây dựng, điều chỉnh chương trình đào tạo trình độ thạc sĩ ngành Luật kinh tế",
+            "certifying_authority": "Hội đồng thẩm định: - Quyết định số 186/QĐ-ĐHCT, ngày 02/2022 về việc thành lập Hội đồng thẩm định chương trình đào tạo trình độ thạc sĩ ngành Luật kinh tế) - Biên bản họp thẩm định chương trình đào tạo trình độ thạc sĩ định hướng nghiên cứu, ngành Luật kinh tế, ngày 14/2/2022",
+            "implementation_document_id": "chương trình đào tạo trình độ thạc sĩ Chương trình đào tạo trình độ thạc sĩ định hướng nghiên cứu, ngành Luật kinh tế (Ban hành kèm theo Quyết định số 889/QĐ-ĐHCT)",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ thạc sĩ ngành Luật kinh tế định hướng ứng dụng (8380107)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số:5169/QĐ-ĐHCT, ngày 29/11/2021 về việc thành lập Hội đồng xây dựng, điều chỉnh chương trình đào tạo trình độ thạc sĩ ngành Luật kinh tế",
+            "certifying_authority": "Hội đồng thẩm định: - Quyết định số 186/QĐ-ĐHCT, ngày 02/2022 về việc thành lập Hội đồng thẩm định chương trình đào tạo trình độ thạc sĩ ngành Luật kinh tế) - Biên bản họp thẩm định chương trình đào tạo trình độ thạc sĩ định hướng ứng dụng, ngành Luật kinh tế, ngày 14/2/2022",
+            "implementation_document_id": "- Quyết định số 889/QĐ-ĐHCT, ngày 31/3/2022 về việc ban hành chương trình đào tạo trình độ thạc sĩ Chương trình đào tạo trình độ thạc sĩ định hướng ứng dụng, ngành Luật kinh tế (Ban hành kèm theo Quyết định số 889/QĐ-ĐHCT)",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình đào tạo trình độ đại học ngành Luật kinh tế (3780107)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "- Quyết định số 258/QĐ-ĐHCT, ngày 03/02/2023 Về việc thành lập Hội đồng xây dựng đề án mở ngành đào tạo trình độ đại học ngành Luật kinh tế, mã ngành 7380107 - Quyết định số 259/QĐ-ĐHCT, ngày 03/2/2023 Về việc thành lập Hội đồng xây dựng Chương trình đào tạo trình độ đại học ngành Luật kinh tế, mã ngành 7380107",
+            "certifying_authority": "- Hội đồng thẩm định (Quyết định số 837/QĐ-ĐHCT, ngày 03/3/3023 Về việc thành lập Hội đồng thẩm định đề án mở ngành đào tạo trình độ đại học ngành Luật kinh tế, mã ngành 7380107 - Hội đồng thẩm định (Quyết định số 546/QĐ/ĐHCT, ngày 17/2/2023 về việc thành lập Hội đồng thẩm định chương trình đào tạo trình độ đại học ngành Luật kinh tế, mã ngành 7380107",
+            "implementation_document_id": "- Quyết định số 802/QĐ-ĐHCT ngày 02/3/2023 về việc ban hành chương trình đào tạo trình độ đại học Chương trình đào tạo trình độ đại học ngành Luật kinh tế, mã ngành 6380107 - Quyết định số: 1299/QĐ-ĐHCT, ngày 31/3/2023 Về việc mở ngành đào tạo và chương trình đào tạo chất lượng cao trình độ đại học của Trường Đại học Cần Thơ",
+            "notes": ""
+        }
+    ]
+}

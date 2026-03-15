@@ -1,0 +1,495 @@
+{
+    "papers": [
+        {
+            "title": "Thủ tướng Võ Văn Kiệt và vấn đề định hướng phát triển của Đồng bằng sông Cửu long",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học “Đồng chí Võ Văn Kiệt với cách mạng Việt Nam”. NXB Chính trị Quốc gia – Sự thật, Số ĐKXB: 3KV1 (092) CTQG-2012",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "556 - 565",
+            "published_date": "11/2012"
+        },
+        {
+            "title": "Chiến thắng Đầm Dơi - Cái Nước - Chà Là- thắng lợi của Tư tưởng Hồ Chí Minh về chiến tranh nhân dân",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học “50 năm chiến thắng Đầm Dơi Cái Nước Chà La Y nghĩa và Bài học” NXB Phương Đông, Số ĐKXB: 1551-2013/CXB/01-120/PĐ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "503-513",
+            "published_date": "11/2013"
+        },
+        {
+            "title": "Giá trị lý luận và thực tiễn trong phát triển bền vững Đồng bằng sông Cửu Long thông qua tác phẩm “Bàn về hướng phát triển Đồng bằng sông Cửu Long” của Thủ tướng Võ Văn Kiệt",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc gia “Phát triển bền vững đồng bằng sông Cửu Long – những vấn đề lý luận và thực tiễn” NXB ĐHQG TP Hồ Chí Minh, ISBN: 978-604-73-2141-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "240-245",
+            "published_date": "1/2014"
+        },
+        {
+            "title": "Lịch sử làng nghề và vấn đề bảo tồn - phát triển làng nghề sản xuất nước mắm Phú Quốc - tỉnh Kiên Giang",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học Làng nghề và Phát triển du lịch (Đại học Quốc gia Tp Hồ Chí Minh và Đại học Sipalkon tổ chức) NXB ĐHQG TP Hồ Chí Minh, ISBN: 978-604-73-2448-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "629-636",
+            "published_date": "3/2014"
+        },
+        {
+            "title": "Tín ngưỡng thờ mẫu ở Phú Quốc và sự thành lập đạo Cao Đài.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc gia năm 2014 “Tín ngưỡng Thờ Mẫu Ở Nam Bộ - Bản sắc và Giá trị”. NXB ĐHQG TP Hồ Chí Minh, ISBN: 978-604-73-2530-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "604-610",
+            "published_date": "4/2014"
+        },
+        {
+            "title": "Những tác động của chiến lược toàn cầu của Mỹ đến cuộc chiến tranh của Pháp ở Đông Dương (1945 - 1954)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học Quốc gia “Chiến thắng Điện Biên Phủ - Những vấn đề lịch sử” NXB ĐHQG TP Hồ Chí Minh, ISBN: 978-604-73-2531-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "227-238",
+            "published_date": "5/2014"
+        },
+        {
+            "title": "Quốc sách “ấp chiến lược” của Mỹ và chính quyền Sài Gòn ở miền Tây Nam Bộ (1962 - 1963)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lịch sử quân sự, ISSN: 0866 - 7683",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 287, 34-39",
+            "published_date": "11/2015"
+        },
+        {
+            "title": "Chính sách “ấp tân sinh” ở miền Tây Nam Bộ năm 1964",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và công nghệ - Đại học Đà Nẵng, ISSN: 1859 – 1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8 (105), 76-79",
+            "published_date": "8/2016"
+        },
+        {
+            "title": "Phong trào chống phá “ấp chiến lược” ở miền Tây Nam Bộ trong năm 1963",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học - Đại học Huế, ISSN: 2588-1213 (Online) 2615-9724 (1859-1338)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 122, Số 8 (2016), 199-207",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Từ chính sách Dinh điền đến Quốc sách Ấp chiến lược (1957-1963)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học - Đại học Huế, ISSN: 2588-1213 (Online) 2615-9724 (1859-1338)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 125, Số 11 (2016), 223-234",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Phát triển kinh tế biển đảo ở Việt Nam từ sau đổi mới đến nay - qua nghiên cứu trường hợp huyện đảo Phú Quốc - tỉnh Kiên Giang (1986 - 2016)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học Quốc gia “30 năm Đổi mới ở Việt Nam (1986-2016) - Những vấn đề khoa học và thực tiễn”. NXB Đại học Huế, ISBN: 978-604-9127-13-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "379-386",
+            "published_date": "2/2017"
+        },
+        {
+            "title": "Vai trò của văn hóa biển đảo trong sự phát triển bền vững ngành du lịch (nghiên cứu trường hợp huyện đảo Phú Quốc, tỉnh Kiên Giang)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "In trong sách “Bảo vệ và phát huy giá trị văn hóa biển đảo Việt Nam” NXB Văn hóa dân tộc, ISBN: 978-604-70-1807-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "643-653",
+            "published_date": "3/2017"
+        },
+        {
+            "title": "Chính sách Chiêu hồi của chính quyền Sài Gòn trong “quốc sách” Ấp chiến lược những năm 1962 – 1963",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học - Đại học Huế, ISSN: 2588-1213 (Online) 2615-9724 (1859-1338)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 126, số 6B 2017, 215-222",
+            "published_date": "8/2017"
+        },
+        {
+            "title": "Quan hệ ngoại giao Đại Việt dưới thời vua Lê Thánh Tông (1460 – 1497)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và công nghệ - Đại học Đà Nẵng, ISSN: 1859 – 1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4 (125), 59-62",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Lộ vòng cung Cần Thơ trong Tổng tiến công và nổi dậy tết Mậu Thân 1968",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo Khoa học “Lộ Vòng Cung Cần Thơ - Vành đai lửa\" NXB Chính trị Quốc gia Sự thật, ISBN: 978-604-57-4016-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "102-109",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Quan điểm của Frank H.T Rhodes về giáo dục nhân văn qua tác phẩm “Tạo dựng tương lai – vai trò của các Viện Đại học Hoa Kỳ”",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học “Giáo dục nhân văn trong giáo dục đại học” NXB Đà Nẵng, ISBN: 978-604-84-4272-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "227-232",
+            "published_date": "7/2019"
+        },
+        {
+            "title": "Giai đoạn Nhật Bản chiếm đảo Phú Quốc từ năm 1940 đến năm 1942 và trong năm 1945",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "In trong Đồng Tháp Xưa và Nay (tập 66) - Hội Khoa học Lịch sử Đồng Tháp, NXB Hội nhà văn, ISBN: 978-604-9834-21-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "78-84",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Hoạt động thương mại giữa Việt Nam và Nhật Bản ở Nam Bộ thế kỷ XVII-XVIII",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Ấn Độ và Châu Á, ISSN: 0866 - 7314",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12 (85), 46-51",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Đồng chí Phan Văn Đáng và Thường vụ Trung ương Cục miền Nam với phong trào chống, phá ấp chiến lược ở miền Tây Nam Bộ (1961 – 1965)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học “Đồng chí Phan Văn Đáng - Nhà lãnh đạo xuất sắc của cách mạng miền Nam, tấm gương sáng ngời về đạo đức cách mạng”. NXB Chính trị Quốc gia – Sự thật, ISBN 978-604-57-5375-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "277-288",
+            "published_date": "1/2020"
+        },
+        {
+            "title": "Sự chuyển biến của phong trào yêu nước Việt Nam đầu thế kỷ XX qua khảo cứu về hoạt động của Đức Giáo tông Phan Văn Tòng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "In trong sách “Đức Giáo tông Phan Văn Tòng - một tấm gương tốt đời đẹp đạo”. NXB Tổng hợp TP Hồ Chí Minh, ISBN: 978-604-58-5206-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "64-75",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "Giáo dục Pháp - Việt ở Nam Kỳ (1861-1897)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học quốc tế “Giáo dục Pháp - Việt cuối thế kỷ XIX đến giữa thế kỷ XX”. NXB Đại học Huế",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "115-125",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Diplomatic relations between Vietnam and Japan as seen from Japan's covid-19 vaccine aid policy to Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 4th International European Conference on Interdisciplinary Scientific Research, ISPEC Publishing House, ISBN: 978-625-7720-53-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "771-780",
+            "published_date": "8/2021"
+        },
+        {
+            "title": "Vietnam's covid-19 vaccine diplomacy: Challenges and prospects",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 4th International European Conference on Interdisciplinary Scientific Research, ISPEC Publishing House, ISBN: 978-625-7720-53-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "761-770",
+            "published_date": "8/2021"
+        },
+        {
+            "title": "Policy of Governor - General of Indochina Paul Doumer in Vietnam (1897 – 1902): achievements and limitations",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The International Aegean Symposiums, ISPEC Publishing House, ISBN: 978-625-7720-57-1",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "85-92",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Research and teaching on The Ottoman empire in Vietnam: situation and potential",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The International Conference on Ottoman Empire Studies in three continents, Farabi Publishing House, ISBN: 978-625-7898-52-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "263-272",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Imprints of French culture in architecture in Can Tho city, Viet Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Cukurova 7th International Scientific Researches conference, IKSAD GLOBAL Publishing house, ISBN: 978-625-7464-17-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1029-1036",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Thiên nhiên Nam Kỳ dưới cái nhìn của Paul Doumer qua hồi ký “xứ đông dương”",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "In trong Đồng Tháp – Đất và Người (tập 7). Hội Khoa học Lịch sử Đồng Tháp, NXB Đồng Nai, ISBN: 978-604-313-853-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "31-35",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Impact of covid 19 pandemic on tourism economy - a study from Phu Quoc island – Viet Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 5th International Covid 19 Studies Conference, IKSAD GLOBAL Publishing house, ISBN: 978-625-7464-26-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "341-344",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Vietnam in Organization internationable de la Francophine (OIF): Challeges and pportunities",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 5th International New York conference on evolving trends in interdisciplinary research & practices, Liberty Publications, ISBN: 978-605-74033-2-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "30-35",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "The plan of Henri eugène Navarre and the defeat of the French colonialists in the war in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Symposium on war studies, IKSAD Publications, ISBN: 978-625-8007-60-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "300-307",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Prime minister Vo Van Kiet's contributions to Vietnam's development",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International conference on Archeology, Art history and cultural heritage, IKSAD Publications, ISBN: 978-625-7464-99-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "85-89",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "Tỉnh An Giang trong chiến tranh Việt Nam – Xiêm (1833-1834)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo khoa học \"An Giang – 190 năm hình thành và phát triển (1832-2022)\" NXB Chính trị Quốc gia Sự thật, ISBN: 978-604-57-8121-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "131-143",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Military struggle against French colonialism in Vietnam (1945-1954) - a study from Ca Mau - Mekong delta",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Piri Reis conference on Linguistic, History & Geography, Liberty Academic Publishers, ISBN 978-1-955094-63-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "133-137",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Trí thức Nam Kỳ với phong trào Đông Du",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục và xã hội, ISSN: 1859 – 3917",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 156 (217), 8-13",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Bao Dai Solution and the Formation of the \"National Government of Vietnam\" During the Indochina War (1945-1954)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Academic Journal of Interdisciplinary Studies (Richtmann Publishing), ISSN: 2281-3993",
+            "journal_ranking": "SCOPUS/Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13 No. 2 (2024), 405 - 413",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Diplomatic relations between Vietnam and The United states as seen from us's covid-19 vaccine aid policy to Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "VI.International Conference on Global Practice of Multidisciplinary Scientific Studies, IKSAD Publishing House, ISBN: 978-625-367-716-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2331-2347",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Phong trào Dương vụ ở Trung Quốc cuối thế kỷ XIX và Phong trào Đông Du ở Việt Nam đầu thế kỷ XX",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Xã hội Việt Nam, ISSN: 1605 – 2811 (1013-4328)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "(196), 95-105",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Chiến thắng trên sông Vàm Nao – Cổ Hũ trong chiến tranh Việt Nam – Xiêm (1833-1834)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu lịch sử, ISSN: 0866 - 7497",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2 (574) 2024, 32-40",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "The first Indochina war (1946–1954) and the Geneva agreement (1954)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Arts and Humanities (Taylor & Francis/Routledge), ISSN: 2331 – 1983",
+            "journal_ranking": "ISI (ESCI) và SCOPUS/Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11 (2024), Issue 1, 1-10",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Phong trào chống, phá “Ấp chiến lược” ở miền Tây Nam Bộ năm 1964",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lịch sử Quân sự, ISSN: 2588 - 1310",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 390, 30-34",
+            "published_date": "6/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Phong trào chống phá ấp chiến lược ở miền Tây Nam Bộ (1961-1963)",
+            "role": "Principal Investigator",
+            "project_code": "T.NCS-2015-XH-02",
+            "management_level": "Trường ĐHSP – Đại học Huế",
+            "period": "2015-2016",
+            "acceptance_date": "ngày 31 tháng 5 năm 2016",
+            "rating": "Xếp loại Khá"
+        },
+        {
+            "title": "Phong trào Đông Du ở Nam Kỳ (1905 – 1908)",
+            "role": "Principal Investigator",
+            "project_code": "T2020-88",
+            "management_level": "Trường Đại học Cần Thơ",
+            "period": "2020",
+            "acceptance_date": "ngày 25 tháng 12 năm 2020",
+            "rating": "Xếp loại Tốt"
+        },
+        {
+            "title": "Thực trạng nguồn nhân lực giảng dạy môn lịch sử - Địa lý đáp ứng yêu cầu của chương trình giáo dục phổ thông năm 2018 ở vùng ĐBSCL",
+            "role": "Principal Investigator",
+            "project_code": "T2022-111",
+            "management_level": "Trường Đại học Cần Thơ",
+            "period": "2022",
+            "acceptance_date": "ngày 30 tháng 11 năm 2022",
+            "rating": "Xếp loại Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phong trào chống, phá ấp chiến lược ở miền Tây Nam Bộ (1961 - 1965)",
+            "type": "Monograph",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2018",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Biên soạn toàn bộ",
+            "verification_document_id": "Văn bản xác nhận số 2151/GXN-ĐHCT, ngày 19/6/2024 của Hiệu trưởng Trường Đại học Cần Thơ"
+        },
+        {
+            "title": "Lịch sử Ngoại giao Việt Nam",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2018",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "biên soạn các chương 1, 2, 3, 5, 6, 7, 8, (từ trang 1 đến 62 và từ trang 80 đến 175).",
+            "verification_document_id": "Văn bản xác nhận số 2152/GXN-ĐHCT, ngày 19/6/2024 của Hiệu trưởng Trường Đại học Cần Thơ"
+        },
+        {
+            "title": "Lịch sử Việt Nam hiện đại 1 (1945 - 1954)",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2019",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "biên soạn các chương 1 (1.5), 2, 3, 4, từ trang 1 đến 18 và từ trang 39 đến 185).",
+            "verification_document_id": "Văn bản xác nhận số 2153/GXN-ĐHCT, ngày 19/6/2024 của Hiệu trưởng Trường Đại học Cần Thơ"
+        },
+        {
+            "title": "Nhập môn Khoa học Lịch sử",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Cần Thơ",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "biên soạn các chương 1, 2, 3, 4, 5 (5.4) từ trang 1 đến 102 và từ trang 131 đến 142.",
+            "verification_document_id": "Văn bản xác nhận số 2154/GXN-ĐHCT, ngày 19/6/2024 của Hiệu trưởng Trường Đại học Cần Thơ"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Sư phạm Lịch sử",
+            "applicant_role": "Chủ trì",
+            "assignment_document_id": "Quyết định số 800/QĐ-ĐHCT, ngày 2/3/2023",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Quyết định số 2423/QĐ-ĐHCT, ngày 5/6/2023",
+            "notes": ""
+        },
+        {
+            "title": "Sư phạm Lịch sử - Địa lý",
+            "applicant_role": "Chủ trì",
+            "assignment_document_id": "Quyết định số 4651/QĐ-",
+            "certifying_authority": "Trường Đại học Cần Thơ",
+            "implementation_document_id": "Quyết định số 7273/QĐ-",
+            "notes": "Quyết định số 1561/QĐ-"
+        }
+    ]
+}

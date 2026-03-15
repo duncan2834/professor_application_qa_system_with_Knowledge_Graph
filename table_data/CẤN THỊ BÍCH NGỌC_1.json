@@ -1,0 +1,1300 @@
+{
+    "papers": [
+        {
+            "title": "A common mutation, R208X, identified in Vietnamese patients with mitochondrial acetoacetyl-CoA (T2) thiolase deficiency. DOI: 10.1016/j.ymgme.2010.01.007",
+            "num_authors": 16,
+            "is_main_author": false,
+            "journal_name_ISSN": "Mol Genet Metab ISSN: 10967206, 10967192",
+            "journal_ranking": "IF: 3,948 (2010); Q1, SCIE",
+            "citation_count": 27,
+            "volume_issue_pages": "100(1): 37-41",
+            "published_date": "Year, 2010"
+        },
+        {
+            "title": "Transient neonatal diabetes, ZFP57, and hypomethylation of multiple imprinted loci: a detailed follow-up. https://doi.org/10.2337/dc12-0700",
+            "num_authors": 21,
+            "is_main_author": false,
+            "journal_name_ISSN": "Diabetes Care ISSN: 01495992, 19355548",
+            "journal_ranking": "IF: 10.198 (2013); Q1, SCIE",
+            "citation_count": 70,
+            "volume_issue_pages": "36(3): 505-512",
+            "published_date": "Year, 2013"
+        },
+        {
+            "title": "Hematopoietic Stem Cell Transplantation for Patients with Mucopolysaccharidosis II. doi:10.1016/j.bbmt.2017.06.020",
+            "num_authors": 19,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biol Blood Marrow Transplant ISSN: 1083-8791; eISSN: 1523-6536",
+            "journal_ranking": "IF: 4.484 (2017), Q2, SCIE",
+            "citation_count": 23,
+            "volume_issue_pages": "1795-1803",
+            "published_date": "Year, 2017"
+        },
+        {
+            "title": "Glycosaminoglycan levels in dried blood spots of patients with mucopolysaccharidoses and mucolipidoses. DOI: 10.1016/j.ymgme.2016.12.010",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Mol Genet Metab ISSN: 10967192, 10967206",
+            "journal_ranking": "IF: 3,872 (2017); Q1, SCIE",
+            "citation_count": 30,
+            "volume_issue_pages": "120(3): 247-254",
+            "published_date": "Year, 2017"
+        },
+        {
+            "title": "The clinical features of osteogenesis imperfecta in Vietnam. DOI: 10.1007/s00264-016-3315-z",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Int Orthop ISSN: 03412695, 14325195",
+            "journal_ranking": "IF: 2,573 (2017); Q1, SCIE",
+            "citation_count": 21,
+            "volume_issue_pages": "41(1): 21-29",
+            "published_date": "Year, 2017"
+        },
+        {
+            "title": "An ABCC8 nonsense mutation causing neonatal diabetes through altered transcript expression. DOI: 10.4274/jcrpe.424",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "J Clin Res Pediatr Endocrinol, ISSN: 1308-572, 1308-573",
+            "journal_ranking": "IF: 1,093 (2017) Four years IF: 1,904; Q2, SCIE",
+            "citation_count": 6,
+            "volume_issue_pages": "9(3): 260-264",
+            "published_date": "Year, 2017"
+        },
+        {
+            "title": "Characterization and outcome of 41 patients with beta-ketothiolase deficiency: 10 years'experience of a medical center in northern Vietnam. https://doi.org/10.1007/S10545-017-0026-6",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "J Inherit Metab Dis ISSN: 01418955, 15732665",
+            "journal_ranking": "IF: 4,827 (2018); 4,982 (2020); Q1, SCIE",
+            "citation_count": 15,
+            "volume_issue_pages": "40(3): 395-401",
+            "published_date": "Year, 2017"
+        },
+        {
+            "title": "Các rối loạn chuyển hóa bẩm sinh được phát hiện qua chương trình sàng lọc trẻ có nguy cơ cao",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 44, số 4, tháng 11/2006",
+            "published_date": "November, 2006"
+        },
+        {
+            "title": "Chẩn đoán và kết quả điều trị bệnh rối loạn chuyển hóa bẩm sinh tại Bệnh viện Nhi Trung ương 2005-2008",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 57, số 4/tháng 10/2008, trang 50-56",
+            "published_date": "October, 2008"
+        },
+        {
+            "title": "Đặc điểm bệnh tạo xương bất toàn tại Bệnh viện Nhi Trung ương",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 57, số 4/tháng 10/2008, trang 247-253",
+            "published_date": "October, 2008"
+        },
+        {
+            "title": "Đột biến gen ABCC8 ở bệnh nhân hạ đường huyết nặng do cường insulin bẩm sinh",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, số 3&4, tháng 10, 2010, trang 279-290",
+            "published_date": "October, 2010"
+        },
+        {
+            "title": "Đột biến gen ABCC8, KCNJ11, INS và ZFP57 ở các bệnh nhân tiểu đường sơ sinh",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhi khoa, ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, số 3&4, tháng 10, 2010, trang: 286-290",
+            "published_date": "October, 2010"
+        },
+        {
+            "title": "Điều trị thành công tiểu đường sơ sinh có đột biến gen ABCC8 và KCNJ11 bằng thuốc uống sulfonylurea thay thế cho tiêm insulin",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhi khoa, ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, số 3&4, tháng 10, 2010, trang 291-296",
+            "published_date": "October, 2010"
+        },
+        {
+            "title": "Bệnh thiếu men mitochondrial acetoacetyl-CoA thiolase (T2) tại Bệnh viện Nhi Trung ương: kiểu hình, kiểu gen, kết quả điều trị",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa, ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, số 3&4, tháng 10, 2010, trang 297-301",
+            "published_date": "October, 2010"
+        },
+        {
+            "title": "Bệnh tăng acid methylmalonic máu tại Bệnh viện Nhi Trung ương: lâm sàng-xét nghiệm-kết quả điều trị",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, số 3&4, tháng 10, 2010, trang 302-306",
+            "published_date": "October, 2010"
+        },
+        {
+            "title": "Kiểm soát HbA1c ở trẻ đái tháo đường",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 4, số 4, tháng 11, 2011",
+            "published_date": "November, 2011"
+        },
+        {
+            "title": "Bệnh tăng lipid máu bẩm sinh ở trẻ em tại Bệnh viện Nhi trung ương: lâm sàng, xét nghiệm và kết quả điều trị",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí “Nội tiết và Đái tháo đường” ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, năm 2011, trang 54-60",
+            "published_date": "Year, 2011"
+        },
+        {
+            "title": "Di truyền phân tử trong đái tháo đường sơ sinh tại Bệnh viện Nhi trung ương",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí “Nội tiết-Đái Tháo đường” ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2-năm 2011, trang 96-101",
+            "published_date": "Year, 2011"
+        },
+        {
+            "title": "Bệnh tiểu đường MODY 5 và thận đa nang do đột biến gen HNF1B: báo cáo ca bệnh tại Bệnh viện Nhi Trung ương và tổng quan Y văn thế giới",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí “Nội tiết-Đái Tháo đường” ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2-năm 2011, trang 109-116",
+            "published_date": "Year, 2011"
+        },
+        {
+            "title": "Đột biến kênh KATP ở bệnh nhân cường insulin bẩm sinh",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí “Nội tiết-Đái Tháo đường” ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2-năm 2011, trang 141-148",
+            "published_date": "Year, 2011"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, mối tương quang giữa lâm sàng và bất thường nhiễm sắc thể ở Hội chứng Turner",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí “Nội tiết - Đái Tháo đường” ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2-năm 2011, trang 345-353",
+            "published_date": "Year, 2011"
+        },
+        {
+            "title": "Nhận xét kết quả điều trị hormon nữ và hormon tăng trưởng ở Hội chứng Turner",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí “Nội tiết - Đái Tháo đường” ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2-năm 2011, trang 354-361",
+            "published_date": "Year, 2011"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị bệnh tạo xương bất toàn bằng biphosphonat tại Bệnh viện Nhi Trung ương",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí “Nội tiết - Đái Tháo đường” ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2-năm 2011, trang 367-373",
+            "published_date": "Year, 2011"
+        },
+        {
+            "title": "Đột biến gen ABCD1 và kiểu hình của các bệnh nhân X-link adrenoleukodystrophin (X-ALD)",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, năm 2012, trang 132-138",
+            "published_date": "Year, 2012"
+        },
+        {
+            "title": "Đột biến các gen BCKDHA, BCKDHB, DBT và kiểu hình bệnh rối loạn chuyển hóa axit amin “maple sirup urine\"",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, năm 2012, trang 139-147",
+            "published_date": "Year, 2012"
+        },
+        {
+            "title": "Kiểu hình và kết quả điều trị bệnh rối loạn chuyển hóa axit hữu cơ propionic máu",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, năm 2012, trang 194-198",
+            "published_date": "Year, 2012"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và cận lâm sàng của hội chứng Prader Willi",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, năm 2012, trang 289-295",
+            "published_date": "Year, 2012"
+        },
+        {
+            "title": "Rối loạn phát triển giới tính do đột biến gen 3β-Hydroxysteroid dehydrogenase typ II",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, năm 2012, trang 296-303",
+            "published_date": "Year, 2012"
+        },
+        {
+            "title": "U vỏ thượng thận ở trẻ em: báo cáo 29 ca bệnh",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, năm 2012, trang 325-329",
+            "published_date": "Year, 2012"
+        },
+        {
+            "title": "Đột biến gen HNF1B gây bệnh tiểu đường ở người trưởng thành trẻ tuổi (MODY5): báo cáo ca bệnh",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, năm 2012, trang 390-395",
+            "published_date": "Year, 2012"
+        },
+        {
+            "title": "Hỗn hợp u quái-ung thư biểu mô phôi có biểu hiện dậy thì sớm: báo cáo một trường hợp hiếm gặp",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, năm 2012, trang 396-399",
+            "published_date": "Year, 2012"
+        },
+        {
+            "title": "Nhân một trường hợp đái tháo đường do đột biến gen Kir6.2 điều trị thành công với glibenclamide thay thế cho insulin",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, năm 2012, trang 405-410",
+            "published_date": "Year, 2012"
+        },
+        {
+            "title": "Kết quả điều trị bệnh nhân đái tháo đường sơ sinh do đột biến gen KCNJ11 và ABCC8 bằng sulfonylurea",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 89, số 4, tháng 8, năm 2014, trang 23-30",
+            "published_date": "August, 2014"
+        },
+        {
+            "title": "Di truyền phân tử, tương quan kiểu gen-kiểu hình của bệnh cường insulin bẩm sinh",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 89, số 4, tháng 8, năm 2014, trang 31-37",
+            "published_date": "August, 2014"
+        },
+        {
+            "title": "Nghiên cứu triệu chứng lâm sàng, dấu ấn sinh học và hoạt đột của các enzyme của mốt số ca bệnh mucopolysaccharidose I và II",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y-Dược học Quân sự ISSN: 1859-0748",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8-2014, trang 118-123",
+            "published_date": "Year, 2014"
+        },
+        {
+            "title": "Đái tháo đường sơ sinh: di truyền phân tử và kết quả điều trị",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 1859-1663",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 945, năm 2024, trang 203-207",
+            "published_date": "Year, 2024"
+        },
+        {
+            "title": "Biến chứng thận và kiểm soát đường máu bằng HbA1C ở bệnh nhân đái tháo đường typ 1",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, tháng 5, năm 2014, trang 84-88",
+            "published_date": "May, 2014"
+        },
+        {
+            "title": "Bệnh thiếu enzyme betaketothiolase (T2) tại Bệnh viện Nhi Trung ương: kiểu gen, kiểu hình, kết quả điều trị",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y-Dược học Quân sự ISSN: 1859-0748",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2, năm 2015, trang 90-95",
+            "published_date": "Year, 2015"
+        },
+        {
+            "title": "Biến chứng mắt và thận ở bệnh nhân nhi đái tháo đường typ 1",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 8, số 1, tháng 2, năm 2015, trang 50-53",
+            "published_date": "February, 2015"
+        },
+        {
+            "title": "Phát triển thể chất và tinh thần của bệnh nhân thiếu beta-ketothiolase tại bệnh viện nhi trung ương trong 10 năm",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 8, Số 2/tháng 4, năm 2015, trang 54-57",
+            "published_date": "April, 2015"
+        },
+        {
+            "title": "Lâm sàng, cận lâm sàng và căn nguyên dậy thì sớm trung ương",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 8, Số 5/tháng 10, năm 2015, trang 61-65",
+            "published_date": "October, 2015"
+        },
+        {
+            "title": "Giá trị xét nghiệm kích thích băng GnRH trong chẩn đoán dậy thì sớm trung ương ở trẻ gái",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 8, Số 5/tháng 10, năm 2015, trang 66-71",
+            "published_date": "October, 2015"
+        },
+        {
+            "title": "Triệu chứng lâm sàng và hoạt độ các enzyme của một số ca bệnh Mucopolysaccharidose",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 1859-1663",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 947, năm 2015, trang 69-73",
+            "published_date": "Year, 2015"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, cận lâm sàng và diễn biến của u vỏ thượng thận ở trẻ em",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nội tiết và đái tháo đường ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 20, năm 2016, trang 84-88",
+            "published_date": "Year, 2016"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng và cận lâm sàng của 6 bệnh nhân mucopolysaccharidosis týp 6",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Quân sự ISSN: 1859-0748",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8 năm 2016, trang 108-112",
+            "published_date": "Year, 2016"
+        },
+        {
+            "title": "Đái tháo đường sơ sinh tạm thời: biểu hiện lâm sàng, cận lâm sàng, kết quả điều trị",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 9, Số 1/tháng 2, năm 2016, trang 59-64",
+            "published_date": "February, 2016"
+        },
+        {
+            "title": "Cường insulin bẩm sinh do đột biến gen HNF4A Báo cáo ca bệnh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 9, số 1, tháng 2, năm 2016, trang 65-70",
+            "published_date": "February, 2016"
+        },
+        {
+            "title": "Lâm sàng và tình trạng đột biến gen của một số ca bệnh Mucopolysaccharidosis typ II",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 102, số 4, năm 2016, trang 10-17",
+            "published_date": "Year, 2016"
+        },
+        {
+            "title": "Tổn thương não trong bệnh X-linked Adrenoleukodystrophy",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu và thực hành Nhi khoa ISSN: 2615-9198",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, tháng 8, năm 2017, trang 79-84",
+            "published_date": "August, 2017"
+        },
+        {
+            "title": "Nghiên cứu ca bệnh: Điều trị enzyme thay thế ở bệnh nhân Hunter đầu tiên tại Việt Nam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu và thực hành Nhi khoa ISSN: 2615-9198",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, tháng 8, năm 2017, trang 85-90",
+            "published_date": "August, 2017"
+        },
+        {
+            "title": "Nghiên cứu ca bệnh: điều trị enzyme thay thế ở bệnh nhân Hurler đầu tiên tại Việt Nam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu và thực hành Nhi khoa ISSN: 2615-9198",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, tháng 8, năm 2017, trang 91-96",
+            "published_date": "August, 2017"
+        },
+        {
+            "title": "Tăng cholesterol máu gia đình đồng hợp tử có biến chứng tim mạch sớm - thông báo ca bệnh",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu và thực hành Nhi khoa ISSN: 2615-9198",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, tháng 8, năm 2017, trang 103-106",
+            "published_date": "August, 2017"
+        },
+        {
+            "title": "Kiểu gen và kiểu hình của bệnh nhân X-linked adrenoleukodystrophy (X-ALD)",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 10, Số 1, tháng 2, năm 2017, trang 75-79",
+            "published_date": "February, 2017"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng bệnh còi xương kháng vitamin D ở trẻ em tại Bệnh viện Nhi Trung ương",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 10, Số 4, tháng 8, năm 2017, trang 82-86",
+            "published_date": "August, 2017"
+        },
+        {
+            "title": "Kết quả điều trị bệnh còi xương kháng vitamin D ở trẻ em tại Bệnh viện Nhi Trung ương",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 10, số 5, tháng 10, năm 2017, trang 60-65",
+            "published_date": "October, 2017"
+        },
+        {
+            "title": "Bệnh mucopolysaccharidose typ III: Báo cáo ca bệnh.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y - dược học quân sự ISSN: 1859-0748",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 42, Số 4, tháng 4, năm 2017, trang 227-232",
+            "published_date": "April, 2017"
+        },
+        {
+            "title": "Maternal variants in NLRP and other maternal effect proteins are associated with multilocus imprinting disturbance in offspring. DOI: 10.1136/jmedgenet-2017-105190",
+            "num_authors": 30,
+            "is_main_author": false,
+            "journal_name_ISSN": "J Med Genet ISSN: 00222593, 14686244",
+            "journal_ranking": "IF: 5,899 Q1, SCIE",
+            "citation_count": 60,
+            "volume_issue_pages": "55(7): 497-504",
+            "published_date": "Year, 2018"
+        },
+        {
+            "title": "Autosomal recessive Noonan syndrome associated with biallelic LZTR1 variants. DOI: 10.1038/gim.2017.249",
+            "num_authors": 37,
+            "is_main_author": false,
+            "journal_name_ISSN": "Genet Med ISSN: 1098-3600, 1530-0366",
+            "journal_ranking": "IF: 10,435 8,683 Q1, SCIE",
+            "citation_count": 73,
+            "volume_issue_pages": "20(10): 1175-1185",
+            "published_date": "Year, 2018"
+        },
+        {
+            "title": "De novo NIPBL Mutations in Vietnamese Patients with Cornelia de Lange Syndrome. DOI: 10.3390/medicina56020076",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Medicina (Kaunas) ISSN: 1010660X, 16489144",
+            "journal_ranking": "IF: 2,430; Q2, SCIE (General Medicine)",
+            "citation_count": 0,
+            "volume_issue_pages": "56(2):76",
+            "published_date": "Year, 2020"
+        },
+        {
+            "title": "Validation of liquid chromatography tandem mass spectrometry-based 5-plex assay for mucopolysaccharidoses. DOI: 10.3390/ijms21062025",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "Int J Mol Sci ISSN: 14220067, 16616596",
+            "journal_ranking": "IF: 6,132 Q1, SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "21(6): 2025",
+            "published_date": "Year, 2020"
+        },
+        {
+            "title": "De novo mutations in EIF2B1 affecting eIF2 signalling cause neonatal diabetes and transient elevated liver enzymes. DOI: 10.2337/db19-1029",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Diabetes ISSN: 0012-1797, 1939-327X",
+            "journal_ranking": "IF: 7,72; Q1, SCIE",
+            "citation_count": 12,
+            "volume_issue_pages": "69(3): 477-483",
+            "published_date": "Year, 2020"
+        },
+        {
+            "title": "A novel frameshift PHKA2 mutation in a family with glycogen storage disease type IXa: a first report in Vietnam and review of literature. DOI: 10.1016/j.cca.2020.05.010",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Clin Chim Acta ISSN: 00098981, 18733492",
+            "journal_ranking": "IF: 3,786; Q2, SCIE",
+            "citation_count": 3,
+            "volume_issue_pages": "508:9-15",
+            "published_date": "Year, 2020"
+        },
+        {
+            "title": "Whole Exome Sequencing as a Diagnostic Tool for Unidentified Muscular Dystrophy in a Vietnamese Family. DOI: 10.3390/diagnostics10100741",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Diagnostics (Basel) ISSN: 2075-4418",
+            "journal_ranking": "IF: 3,706; Q2, SCIE (Medicine General & Internal)",
+            "citation_count": 0,
+            "volume_issue_pages": "10(10): 741",
+            "published_date": "Year, 2020"
+        },
+        {
+            "title": "Diagnosis of mucopolysaccharidoses and mucolipidosis by assaying multiplex enzymes and glycosaminoglycans. DOI: 10.3390/diagnostics11081347",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "Diagnostics ISSN: 2075-4418",
+            "journal_ranking": "IF: 3,706; Q2, SCIE (Medicine General & Internal)",
+            "citation_count": 0,
+            "volume_issue_pages": "11(8): 1347",
+            "published_date": "Year, 2021"
+        },
+        {
+            "title": "Molecular Analysis of Vietnamese Patients with Mucopolysaccharidosis Type I. https://doi.org/10.3390/life11111162",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Life ISSN: 2075-1729",
+            "journal_ranking": "IF: 3,4; Q1, SCIE, PubMed, PMC",
+            "citation_count": 0,
+            "volume_issue_pages": "2021, 11, 1162",
+            "published_date": "Year, 2021"
+        },
+        {
+            "title": "Molecular Genetics, Clinical Characteristics, and Treatment Outcomes of KATP-Channel Neonatal Diabetes Mellitus in Vietnam National Children's Hospital. https://doi.org/10.3389/fendo.2021.727083",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Endocrinology eISSN: 1664-2392",
+            "journal_ranking": "IF: 6.05; Q1, SCIE, PMC",
+            "citation_count": 0,
+            "volume_issue_pages": "Sep 2021 Volume 12 Article 727083",
+            "published_date": "September, 2021"
+        },
+        {
+            "title": "Genetic Etiology of Neonatal Diabetes Mellitus in Vietnamese Infants and Characteristics of Those With INS Gene Mutations. https://doi.org/10.3389/fendo.2022.866573",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Endocrinology eISSN: 1664-2392",
+            "journal_ranking": "IF: 6.05; Q1, SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "April 2022 Volume 13 Article 866573",
+            "published_date": "April, 2022"
+        },
+        {
+            "title": "Identification of a novel BAAT frameshift mutation in a female child diagnosed with skeletal dysplasia http://dx.doi.org/10.1097/MD.0000000000039509",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medicine ISSN: 1536-5964",
+            "journal_ranking": "IF 1.4 Q2, SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "2024; 103:36(e39509",
+            "published_date": "Year, 2024"
+        },
+        {
+            "title": "Hyperornithinemia-Hyperammonemia-Homocitrullinuria Syndrome in Vietnamese Patients. DOI: 10.3390/medicina60111877",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medicina ISSN: 1536-5964",
+            "journal_ranking": "IF: 2.4; Q1, SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "601877",
+            "published_date": "Year, 2024"
+        },
+        {
+            "title": "Identification of POU1F1 Variants in Vietnamese Patients with Combined Pituitary Hormone Deficiency. https://doi.org/10.3390/ijms26062406",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Molecular Sciences ISSN: 1422-0067",
+            "journal_ranking": "IF: 4.9; Q1, SCIE, PMC",
+            "citation_count": 0,
+            "volume_issue_pages": "26, 2406",
+            "published_date": "Year, 2025"
+        },
+        {
+            "title": "Phenotypes, Genotypes, Treatment, and Outcomes of 14 Children with Sitosterolemia at Vietnam National Children's Hospital. https://doi.org/10.3390/jcm14020325",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Clinical Medicne ISSN: 2077-0383",
+            "journal_ranking": "IF: 3.0; Q1, SCIE, PMC",
+            "citation_count": 0,
+            "volume_issue_pages": "14,325",
+            "published_date": "Year, 2025"
+        },
+        {
+            "title": "Mitochondrial HMG-CoA Synthase Deficiency in Vietnamese Patients. https://doi.org/10.3390/ijms26041644",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Molecular Seiences ISSN: 1422-0067",
+            "journal_ranking": "IF: 4.9, Q1, SCIE, PMC",
+            "citation_count": 0,
+            "volume_issue_pages": "26,1644",
+            "published_date": "Year, 2025"
+        },
+        {
+            "title": "Clinical and molecular characteristics of simple virilizing congenital adrenal hyperplasia due to 21-Hydroxylase deficiency: insights from a tertiary pediatric center in Vietnam DOI: https://doi.org/10.6065/apem.2448292.146",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Annals of Pediatric Endocrinology & Metabolism pISSN: 2287-1012 eISSN: 2287-1292",
+            "journal_ranking": "IF: 2,8, Q2, PMC, SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "Apem. 2448292. 146",
+            "published_date": "Year, 2025"
+        },
+        {
+            "title": "Incidence rate and characteristics of newly diagnosed type 1 diabetes in Vietnam tertiary pediatric center: challenges in early detection. DOI: https://doi.org/10.6065/apem.2448282.141",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Annals of Pediatric Endocrinology & Metabolism pISSN: 2287-1012 eISSN: 2287-1292",
+            "journal_ranking": "IF: 2,8, Q2, PMC, ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Apem. 2448284. 141",
+            "published_date": "Year, 2025"
+        },
+        {
+            "title": "Family hypercholesterolemia due to LDLR gene in Vietnamese children: characteristics of phenotype and genotype. DOI: 10.1016/j.ymgmr.2025.101235",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Genetics and Metabolism Reports ISSN: 1096-7192",
+            "journal_ranking": "IF: 1.8, Q2, PMC, SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "43 (2025) 101235",
+            "published_date": "Year, 2025"
+        },
+        {
+            "title": "Phenotypes and genotypes of children with vitamin D-dependent rickets type A: single tertiary pediatric center in Vietnam. https://doi.org/10.3390/diagnostics15070918",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Diagnostics ISSN: 2075-4418",
+            "journal_ranking": "IF: 3.0 Q1, PMC, SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "2025, 15, 918",
+            "published_date": "Year, 2025"
+        },
+        {
+            "title": "Growth Assessment and Nutritional Status in Children with Congenital Adrenal Hyperplasia-A Cross-Sectional Study from a Vietnamese Tertiary Pediatric Center. https://doi.org/10.3390/diagnostics15121534",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Diagnostics ISSN: 2075-4418",
+            "journal_ranking": "IF: 3.0 Q1, PMC, SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "2025, 15, 1534",
+            "published_date": "Year, 2025"
+        },
+        {
+            "title": "Ứng dụng nghiệm pháp kích thích glucagon trong chẩn đoán thiếu hụt hormon tăng trưởng ở trẻ thấp lùn",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nội tiết và Đái tháo đường, ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 32, năm 2018, trang 209-213",
+            "published_date": "Year, 2018"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng của một số bệnh nhân Mucopolysaccharidosis týp I, II, IV, VI",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 472, số đặc biệt, tháng 11 năm 2018, trang 197-203",
+            "published_date": "November, 2018"
+        },
+        {
+            "title": "Triệu chứng lâm sàng và phân tích gen một số bệnh Mucopolysaccharidosis týp I",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Quân sự ISSN: 1859-0748",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 43, số 6, tháng 8, năm 2018, trang 85-93",
+            "published_date": "August, 2018"
+        },
+        {
+            "title": "Kết quả điều trị và một số yếu tố liên quan ở trẻ tăng sản thượng thận bẩm sinh thể thiếu enzym 21-hydroxylase",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, tháng 8 năm 2019, trang 88-92",
+            "published_date": "August, 2019"
+        },
+        {
+            "title": "Một số đặc điểm dịch tễ học lâm sàng bệnh đái tháo đường trẻ em tại Bệnh viện Nhi Trung ương",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Điều dưỡng Việt Nam ISSN: 2354-0737",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 26 năm 2019, trang 22-27",
+            "published_date": "Year, 2019"
+        },
+        {
+            "title": "Phát hiện đột biến gen AR trên bệnh nhân mắc hội chứng không nhạy cảm androgen",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 497, số chuyên đề, tháng 12 năm 2020, trang 13-20",
+            "published_date": "December, 2020"
+        },
+        {
+            "title": "Hội chứng IPEX lần đầu được chẩn đoán và điều trị tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 497, Số chuyên đề, tháng 12 năm 2020, trang 149-157",
+            "published_date": "December, 2020"
+        },
+        {
+            "title": "Đặc điểm kiểu hình và di truyền phân tử của bệnh nhân đái tháo đường sơ sinh tại bệnh viện Nhi Trung ương",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 497, Số chuyên đề, tháng 12, trang 141-148",
+            "published_date": "December, 2020"
+        },
+        {
+            "title": "Các kháng thể kháng tiểu đảo tụy ở trẻ em đái đường mới được chẩn đoán. DOI: 10.47122/vjde.2020.44.14",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nội tiết và Đái tháo đường ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 42, năm 2020, trang 80-86",
+            "published_date": "Year, 2020"
+        },
+        {
+            "title": "Kiểu gen và kiểu hình của hội chứng không nhạy cảm androgen. https://doi.org/10.47973/jprp.v5i5.355",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu và thực hành nhi khoa ISSN: 2615-9198",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 5, No. 5, năm 2021, trang 27-32",
+            "published_date": "Year, 2021"
+        },
+        {
+            "title": "Cải thiện chiều cao ở trẻ thiếu hụt hormon tăng trưởng được điều trị bằng hormon thay thế. https://doi.org/10.47973/jprp.v5i5.362",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu và thực hành nhi khoa ISSN: 2615-9198",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 5, No. 5, năm 2021, trang 47-53",
+            "published_date": "Year, 2021"
+        },
+        {
+            "title": "Giải trình tự toàn bộ vùng gen biểu hiện phát hiện đột biến gen CYBB gây u hạt mạn tính. https://doi.org/10.52852/tcncyh.v138i2.64",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập138, số 2 năm 2021, trang 19-27",
+            "published_date": "Year, 2021"
+        },
+        {
+            "title": "Đột biến dị hợp tử trội c.991T>C của gen KCNJ11 gây các kiểu hình khác nhau của đái tháo đường. https://doi.org/10.52852/tcncyh.v138i2.71",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 138, số 2 năm 2021, trang 49-54",
+            "published_date": "Year, 2021"
+        },
+        {
+            "title": "Kết quả kiểm soát glucose máu ở trẻ đái tháo đường sơ sinh tại Bệnh viện Nhi Trung ương. https://doi.org/10.51298/vmj.v508i1.1561",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 508, số 1 năm 2021, trang 286-290",
+            "published_date": "Year, 2021"
+        },
+        {
+            "title": "Thực trạng tuân thủ điều trị bệnh đái tháo đường típ 1 ở trẻ em tại bệnh viện Nhi Trung ương năm 2021. https://doi.org/10.51298/vmj.v511i1.2052",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 511, số 1, tháng 2 năm 2022, trang 84-88",
+            "published_date": "February, 2022"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị hormon tăng trưởng ở bệnh nhân Prader Willi. https://doi.org/10.47973/jprp.v6i1.440",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu và Thực hành Nhi khoa ISSN: 2615-9198",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 6, No. 1, năm 2022, trang 8-14",
+            "published_date": "Year, 2022"
+        },
+        {
+            "title": "Hiệu quả điều trị bằng hormon tăng trưởng tái tổ hợp ở trẻ chậm phát triển thể chất do hậu quả nhỏ so với tuổi thai. https://doi.org/10.51298/vmj.v517i2.3280",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 517, số 2, tháng 8, năm 2022, trang 271-278",
+            "published_date": "August, 2022"
+        },
+        {
+            "title": "Hiệu quả tăng trưởng ở bệnh nhân Hội chứng Turner điều trị hormon tăng trưởng tái tổ hợp. DOI: 10.47122/VJDE.2023.62.9",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nội tiết và Đái tháo đường ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 62 năm 2023, trang 82-87",
+            "published_date": "Year, 2023"
+        },
+        {
+            "title": "Bệnh Graves ở trẻ nam dưới 4 tuổi: báo cáo loạt ca bệnh. https://doi.org/10.52852/tcncyh.v163i2.1412",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 163, số 2, năm 2023, trang 172-178",
+            "published_date": "Year, 2023"
+        },
+        {
+            "title": "Hội chứng Noonan do đột biến đồng hợp tử lặn của gen LZTR1 lần đầu tiên được chẩn đoán và điều trị tại Bệnh viện Nhi Trung ương. https://doi.org/10.52852/tcncyh.v164i3.1435",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 164, số 3, năm 2023, trang 73-77",
+            "published_date": "Year, 2023"
+        },
+        {
+            "title": "Một số yếu tố ảnh hưởng đến tốc độ tăng chiều cao khi điều trị bằng hormone tăng trưởng ở trẻ nhỏ so với tuổi thai. https://doi.org/10.52852/tcncyh.v164i3.1436",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 164, số 3, năm 2023, trang 79-86",
+            "published_date": "Year, 2023"
+        },
+        {
+            "title": "Kiểu hình và kiểu gen của trẻ mắc Tăng sản thượng thận bẩm sinh thiếu 21-hydroxylase phát hiện qua sàng lọc sơ sinh. https://doi.org/10.51298/vmj.v525i1A.4970",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 525, số 1A, tháng 4, năm 2023, trang 188-192",
+            "published_date": "April, 2023"
+        },
+        {
+            "title": "Phát hiện các bất thường di truyền bằng kỹ thuật lai vi dãy so sánh hệ gen trên các bệnh nhân chậm phát triển tâm thần vận động chưa rõ nguyên nhân https://doi.org/10.52724/tcnk.v16i5.240",
+            "num_authors": 20,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 5, tháng 10 năm 2023, trang 42-48",
+            "published_date": "October, 2023"
+        },
+        {
+            "title": "Phát hiện số lượng bản sao gen SMN1/SMN2 bằng các kỹ thuật sinh học phân tử và phân tích phả hệ https://doi.org/10.52724/tcnk.v16i5.241",
+            "num_authors": 19,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN: 1859-3860",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 5, tháng 10 năm 2023, trang 49-56",
+            "published_date": "October, 2023"
+        },
+        {
+            "title": "Đặc điểm về tăng trưởng và dậy thì của trẻ em tuổi học đường ở một huyện miền núi thuộc tỉnh Sơn La. DOI: 10.47122/VJDE.2023.66.6",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nội tiết và Đái tháo đường ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 66, năm 2023, trang 43-47",
+            "published_date": "Year, 2023"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng và kết quả điều trị bệnh viêm tuyến giáp Hashimotor ở trẻ em tại Bệnh viện Nhi Trung ương. DOI: 10.47122/VJDE.2024.72.6",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nội tiết và Đái tháo đường ISSN: 1859-4727",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 72, năm 2024, trang 42-49",
+            "published_date": "Year, 2024"
+        },
+        {
+            "title": "Báo cáo ca bệnh: phẫu thuật nội soi điều trị u tủy thượng thận hai bên ở trẻ em. https://doi.org/10.51298/vmj.v534i1.8073",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 534, số 1, tháng 1 năm 2024, trang 213-216",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Mối liên quan giữa nồng độ kháng thể TRAb với một số đặc điểm lâm sàng, cận lâm sàng trong bệnh Grave's ở trẻ em. https://doi.org/10.51298/vmj.v550i2.14260",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 550, Số 2, tháng 5 năm 2025, trang 288-292",
+            "published_date": "May, 2025"
+        },
+        {
+            "title": "Đái tháo đường có biến thể GLY574SER của gen HNF1A mã hóa cho yếu tố phiên mã HNF-1A. https://doi.org/10.51298/vmj.v550i2.14280",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 550, Số 2, tháng 5 năm 2025, trang 361-365",
+            "published_date": "May, 2025"
+        },
+        {
+            "title": "Identification of variants of insulin receptor gene in resistant diabetes. https://doi.org/10.52852/tcncyh.v190i5E16.3535",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of medical research Hanoi Medical University ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 190 E16, No05 - May, 2025, page 26-33",
+            "published_date": "May, 2025"
+        },
+        {
+            "title": "Phenotypic characteristics and outcomes of late-onset urea cycle disorders. https://doi.org/10.52852/tcncyh.v190i5E16.3527",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of medical research Hanoi Medical University ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 190 E16, No05 - May, 2025, page 62-69",
+            "published_date": "May, 2025"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, xét nghiệm và kết quả điều trị rối loạn chuyển hoá chu trình ure thể sơ sinh. https://doi.org/10.51298/vmj.v550i3.14347",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 550, Số 3, tháng 5 năm 2025, trang 138-143",
+            "published_date": "May, 2025"
+        },
+        {
+            "title": "Tăng triglyceride máu tiên phát do đột biến gen LPL. https://doi.org/10.51298/vmj.v550i3.14381",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 550, Số 3, tháng 5 năm 2025, trang 259-263",
+            "published_date": "May, 2025"
+        },
+        {
+            "title": "Đái tháo đường khởi phát ở người trẻ tuổi thể 12 (MODY12): Đặc điểm lâm sàng và điều trị. https://doi.org/10.52852/tcncyh.v191i6.3519",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 191, số 06, tháng 6 năm 2025, trang 241-247",
+            "published_date": "June, 2025"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và biến đổi sinh hóa ở trẻ em mắc đái tháo đường típ 2 tại Bệnh viện Nhi Trung ương. https://doi.org/10.52852/tcncyh.v191i6.3546",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 191, số 06, tháng 6 năm 2025, trang 256-263",
+            "published_date": "June, 2025"
+        },
+        {
+            "title": "Nguy cơ tái phát trong điều trị bệnh Graves ở trẻ em và một số yếu tố liên quan. https://doi.org/10.52852/tcncyh.v191i6.3547",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 191, số 06, tháng 6 năm 2025, trang 264-270",
+            "published_date": "June, 2025"
+        },
+        {
+            "title": "Đặc điểm rối loạn chuyển hóa ở trẻ mắc hội chứng Cushing do sử dụng glucocorticoids. https://doi.org/10.52852/tcncyh.v191i6.3548",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 191, số 06, tháng 6 năm 2025, trang 271-279",
+            "published_date": "June, 2025"
+        },
+        {
+            "title": "Viêm tụy cấp ở trẻ em tăng triglyceride máu tiên phát: kiểu hình và kiểu gen. https://doi.org/10.52852/tcncyh.v191i6.3554",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 191, số 06, tháng 6 năm 2025, trang 264-270",
+            "published_date": "June, 2025"
+        },
+        {
+            "title": "Kết quả điều trị còi xương phụ thuộc vitamin D loại 1A ở Bệnh viện Nhi Trung ương. DOI: https://doi.org/10.52852/tcncyh.v187i2.3111",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "Domestic",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 187, số 2, tháng 2, năm 2025, trang 231-241",
+            "published_date": "February, 2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu quy trình phát hiện người mang gen bệnh và chẩn đoán trước sinh bệnh tăng sản thượng thận bẩm sinh (TSTTBS) bằng kỹ thuật sinh học phân tử",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp Bộ",
+            "period": "2011-2013",
+            "acceptance_date": "",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Hợp tác nghiên cứu ứng dụng các kỹ thuật tiên tiến trong sàng lọc, chẩn đoán và điều trị một số bệnh nội tiết nhi khoa và rối loạn chuyển hóa bẩm sinh",
+            "role": "Assistant",
+            "project_code": "36/2012/HĐ-NĐT",
+            "management_level": "cấp nhà nước",
+            "period": "2012-2015",
+            "acceptance_date": "25/10/2015",
+            "rating": "Khá"
+        },
+        {
+            "title": "Đái tháo đường sơ sinh, đột biến gen và kết quả điều trị",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2017-2019",
+            "acceptance_date": "09/5/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị hormon tăng trưởng ở trẻ Prader Willi",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2017-2022",
+            "acceptance_date": "14/7/2022",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu kiểu hình, kiểu gen và kết quả điều trị lâu dài của các bệnh nhân thiếu beta-ketothiolase",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2017-2018",
+            "acceptance_date": "24/12/2018",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu kiểu hình kiểu gen của Maple Syrup Urine Disease",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2017-2019",
+            "acceptance_date": "09/5/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị dậy thì sớm trung ương vô căn ở trẻ gái bằng Diphereline",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2017-2019",
+            "acceptance_date": "11/3/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu nguyên nhân, lâm sàng và cận lâm sàng dậy thì sớm trung ương",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2017-2019",
+            "acceptance_date": "11/3/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đánh giá hiệu quả về phát triển thể chất ở các bệnh nhân thiếu GH được điều trị hormone tăng trưởng tái tổ hợp",
+            "role": "Key Member",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2021",
+            "acceptance_date": "30/7/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu kiểu hình, kiểu gen và kết quả điều trị của rối loạn chuyển hóa chu trình ure",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp cơ sở",
+            "period": "2018-2021",
+            "acceptance_date": "29/6/2022",
+            "rating": "Giỏi"
+        },
+        {
+            "title": "Nghiên cứu biến đổi gen ở các bệnh nhân mắc một số hội chứng bệnh hiếm gặp ở Việt Nam bằng công nghệ giải trình tự gen thế hệ mới",
+            "role": "Key Member",
+            "project_code": "KHCBSS.02/18-20",
+            "management_level": "Viện Hàn lâm Khoa học và Công nghệ Việt nam",
+            "period": "2018-2020",
+            "acceptance_date": "",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em",
+            "type": "Guide Book",
+            "publisher": "Bộ Y tế",
+            "publish_year": "",
+            "num_authors": 104,
+            "is_editor_in_chief": false,
+            "compiled_pages": "633-648",
+            "verification_document_id": "Bộ Y tế. Số 3312/QĐ-BYT, ngày 07/8/2015"
+        },
+        {
+            "title": "Giáo trình nhi khoa sau đại học",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2020",
+            "num_authors": 28,
+            "is_editor_in_chief": false,
+            "compiled_pages": "290-297",
+            "verification_document_id": "Trường Đại học Y Dược Hải Phòng. Số 616A/QĐ-YDHP"
+        },
+        {
+            "title": "Giáo trình Nhi khoa Sau đại học",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc gia Hà Nội",
+            "publish_year": "",
+            "num_authors": 34,
+            "is_editor_in_chief": false,
+            "compiled_pages": "152-169; 185-193",
+            "verification_document_id": "Trường Đại học Y Dược-Đại học Quốc gia Hà Nội. Số 172/QĐ-ĐHYD, ngày 23/2/2025"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

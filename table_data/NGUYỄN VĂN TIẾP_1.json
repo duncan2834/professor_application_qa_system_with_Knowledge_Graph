@@ -1,0 +1,495 @@
+{
+    "papers": [
+        {
+            "title": "Evaluating risks in construction projects based on international risk management standard AS/NZS ISO 31000: 2009",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Infrastructure Research and Management ISSN: 2289-4144",
+            "journal_ranking": "",
+            "citation_count": 7,
+            "volume_issue_pages": "Tập 2, số 1, trang 43-55",
+            "published_date": "2014"
+        },
+        {
+            "title": "Application of system dynamics to evaluate the social and economic benefits of infrastructure projects.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Systems ISSN: 2079-8954",
+            "journal_ranking": "ISI/SSCI IF=2.3",
+            "citation_count": 50,
+            "volume_issue_pages": "Tập 5, số 2, trang 1-21",
+            "published_date": "2017"
+        },
+        {
+            "title": "A systemic approach to complex project management: Integration of command-and-control and network governance",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Systems research and behavioral science ISSN: 1099-1743",
+            "journal_ranking": "ISI/SSCI IF=2.7 Q2",
+            "citation_count": 44,
+            "volume_issue_pages": "Tập 35, số 6, trang 811-837",
+            "published_date": "2018"
+        },
+        {
+            "title": "Cu Lao Cham biosphere reserve sustainability project In Vietnam: corporate framework for sustainable development management. DOI: https://www.doi.org/10.2495/SD150021",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainable Development ISSN: 1743-3509 ISBN: 978-1-78466-157-1",
+            "journal_ranking": "",
+            "citation_count": 5,
+            "volume_issue_pages": "Tập 1, trang 15-28",
+            "published_date": "2015"
+        },
+        {
+            "title": "Systems engineering decision-making: Optimizing and/or satisficing?",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "2017 Annual IEEE International Systems Conference (syscon) ISSN: 2472-9647 ISBN: 978-1-5090-4622-5",
+            "journal_ranking": "Thuộc ISI/WoS Scopus IF = 0.912",
+            "citation_count": 7,
+            "volume_issue_pages": "Trang 484-489",
+            "published_date": "2017"
+        },
+        {
+            "title": "The role of Command-and-control Management and Governance in Systems Engineering",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "INCOSE International Symposium ISSN: 2334-5837",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 27, số 1, trang 880-893",
+            "published_date": "2017"
+        },
+        {
+            "title": "A hybrid approach to Cost-Benefit Analysis in transport infrastructure projects",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on System Science and Engineering (ICSSE) ISSN: 2325-0925 ISBN: 978-1-5386-3422-6",
+            "journal_ranking": "Thuộc ISI/WoS Scopus",
+            "citation_count": 7,
+            "volume_issue_pages": "Trang 569-574",
+            "published_date": "2017"
+        },
+        {
+            "title": "Developing a system of systems management framework for the Fukushima Daiichi Nuclear disaster recovery",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Conference on System Science and Engineering (ICSSE) ISSN: 2325-0925 ISBN: 978-1-5386-3422-6",
+            "journal_ranking": "Thuộc ISI/WoS Scopus",
+            "citation_count": 10,
+            "volume_issue_pages": "Trang 563-568",
+            "published_date": "2017"
+        },
+        {
+            "title": "System complexity leadership: The relationship between emotion and decision-making",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Annual IEEE International Systems Conference (SysCon) ISSN: 2472-9647 ISBN: 978-1-5386-3664-0 5th Conference",
+            "journal_ranking": "Thuộc ISI/WoS Scopus IF = 0.835",
+            "citation_count": 2,
+            "volume_issue_pages": "Trang 1-6",
+            "published_date": "2018"
+        },
+        {
+            "title": "A functional design of a cost benefit analysis methodology for transport infrastructure projects",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Industrial Engineering and Applications (ICIEA) Electronic ISBN: 978-1-5386-5748-5",
+            "journal_ranking": "Thuộc ISI/WoS Scopus",
+            "citation_count": 4,
+            "volume_issue_pages": "Trang 54-59",
+            "published_date": "2018"
+        },
+        {
+            "title": "A Review of Methods, Tools and Techniques Used for Risk Management in Transport Infrastructure Projects",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM) ISSN: 2157-362X ISBN: 978-1-5386-6786-6",
+            "journal_ranking": "Thuộc ISI/WoS Scopus",
+            "citation_count": 3,
+            "volume_issue_pages": "Trang 641-645",
+            "published_date": "2018"
+        },
+        {
+            "title": "Effectiveness of leadership decision-making in complex systems",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Systems ISSN: 2079-8954",
+            "journal_ranking": "ISI/SSCI IF=2.3 Q2",
+            "citation_count": 52,
+            "volume_issue_pages": "Tập 8, số 1, trang 1-21",
+            "published_date": "2020"
+        },
+        {
+            "title": "Integrating hierarchical and network centric management approaches in construction megaprojects using a holonic methodology",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Engineering, Construction and Architectural Management ISSN: 0969-9988",
+            "journal_ranking": "ISI/SSCI IF=7.9 Q1",
+            "citation_count": 14,
+            "volume_issue_pages": "Tập 28, số 3, trang 627-661",
+            "published_date": "2020"
+        },
+        {
+            "title": "Investigating the complexity of perceived service quality and perceived safety and security in building loyalty among bus passengers in Vietnam-a PLS-SEM approach",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Transport Policy ISSN: 1879-310X",
+            "journal_ranking": "ISI/SSCI IF=6.8 Q1",
+            "citation_count": 84,
+            "volume_issue_pages": "Tập 101, trang 162-173",
+            "published_date": "2021"
+        },
+        {
+            "title": "How does perceived risk affect passenger satisfaction and loyalty towards ride-sourcing services?",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Transportation Research Part D: Transport and Environment ISSN: 1361-9209",
+            "journal_ranking": "ISI/SSCI IF=7.6 Q1",
+            "citation_count": 36,
+            "volume_issue_pages": "Tập 97, trang 1-17",
+            "published_date": "2021"
+        },
+        {
+            "title": "Holistic View of Intuition and Analysis in Leadership Decision-Making and Problem-Solving",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Administrative Sciences ISSN: 2076-3387",
+            "journal_ranking": "Scopus IF=3.0 Q2",
+            "citation_count": 21,
+            "volume_issue_pages": "Tập 12, số 1, trang 1-25",
+            "published_date": "2021"
+        },
+        {
+            "title": "Investigating critical risk factors of selecting joint venture contractors for infrastructure projects implementation in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Construction Management ISSN: 2331-2327",
+            "journal_ranking": "Scopus IF=3.9 Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "Tập 23, số 14, trang 2438-2451",
+            "published_date": "2023"
+        },
+        {
+            "title": "Identifying must-have factors and should-have factors affecting the adoption of electric motorcycles-A combined use of PLS-SEM and NCA approach",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Travel Behaviour and Society ISSN: 2214-3688",
+            "journal_ranking": "SSCI IF=5.2 Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "Tập 33, Trang 1-13",
+            "published_date": "2023"
+        },
+        {
+            "title": "Towards a sustainable integrated management approach to uncertainty surrounding COVID-19",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Systems research and behavioral science ISSN: 1099-1743",
+            "journal_ranking": "SSCI IF=2.7 Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 40, số 6, Trang 819-835",
+            "published_date": "2023"
+        },
+        {
+            "title": "Risk prioritization using analytic process network for metro rail implementation projects in developing countries: a typical case study of Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Construction Management ISSN: 2331-2327",
+            "journal_ranking": "Scopus IF=3.9 Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "Tập 24, số 10, trang 1077-1089",
+            "published_date": "2024"
+        },
+        {
+            "title": "Investigating practical wisdom in complex system management: What is it and how do we get more?",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Systems research and behavioral science ISSN: 1099-1743",
+            "journal_ranking": "SSCI IF=2.7 Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 41, số 2, Trang 316-337",
+            "published_date": "2024"
+        },
+        {
+            "title": "Investigating Risk of Public Private Partnerships (PPPs) for Smart Transportation Infrastructure Project Development",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Built Environment Project and Asset Management ISSN: 2044-124X",
+            "journal_ranking": "Scopus IF=5.2 Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 14, số 1, trang 74-91",
+            "published_date": "2024"
+        },
+        {
+            "title": "Significant risks that trigger Cost overruns and Delays in urban rail projects",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Built Environment Project and Asset Management ISSN: 2044-124X",
+            "journal_ranking": "Scopus IF=5.2 Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 14, số 2, Trang 278-295",
+            "published_date": "2024"
+        },
+        {
+            "title": "Các yếu tố ảnh hưởng đến giá dự thầu trong xây dựng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Xây dựng ISSN: 2734 - 9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, trang 122-127",
+            "published_date": "Tháng 1, năm 2022"
+        },
+        {
+            "title": "Khám phá các yếu tố ảnh hưởng đến động lực làm việc của người lao động trong ngành Xây dựng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng ISSN: 2734 - 9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3, trang 110-114",
+            "published_date": "Tháng 3, năm 2022"
+        },
+        {
+            "title": "Xác định yếu tố ảnh hưởng đến hiệu quả quản lý đấu thầu tại các ban quản lý dự án đầu tư xây dựng cấp quận, huyện ở khu vực Đồng bằng Sông Cửu Long, Việt Nam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải ISSN: 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9, trang 165-168",
+            "published_date": "Tháng 9, năm 2023"
+        },
+        {
+            "title": "Smart Cities Unfolding and its Potentials: What it is and how citizens initially perceive?",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải ISSN: 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 5, trang 169-172",
+            "published_date": "Tháng 5, năm 2023"
+        },
+        {
+            "title": "Nghiên cứu Hợp đồng EPC (FIDIC) áp dụng cho Dự án Xây dựng tuyến đường sắt đô thị số 1, tuyến Bến Thành - Suối Tiên tại Thành phố Hồ Chí Minh: Tiềm năng và Thách thức",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải ISSN: 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12, trang 130-133",
+            "published_date": "Tháng 12, năm 2023"
+        },
+        {
+            "title": "Nghiên cứu các nhân tố ảnh hưởng tới hiệu quả Hợp đồng FIDIC áp dụng cho Tuyến đường sắt đô thị số 1 Thành phố Hồ Chí Minh, Bến Thành - Suối Tiên: Góc nhìn vòng đời dự án",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng ISSN: 2734 - 9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 12, trang 210-212",
+            "published_date": "Tháng 12, năm 2023"
+        },
+        {
+            "title": "Nghiên cứu các nhân tố ảnh hưởng tới chất lượng quản lý dự án đầu tư xây dựng vốn ngân sách nhà nước tại khu vực Đồng bằng Sông Cửu Long",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải ISSN: 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3, trang 78-81",
+            "published_date": "Tháng 3, năm 2024"
+        },
+        {
+            "title": "Nhận dạng các nhân tố kinh tế xã hội sử dụng trong phân tích Lợi ích – Chi phí cho các dự án cơ sở hạ tầng giao thông vận tải",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ và Giao thông vận tải ISSN: 1859-4263",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, số 1, trang 9-21",
+            "published_date": "2024"
+        },
+        {
+            "title": "Xác định các tiêu chí sử dụng cho việc đánh giá và lựa chọn hình thức đầu tư PPP cho các dự án đầu tư hạ tầng giao thông thông minh",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải ISSN: 2354-0818",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3, trang 141-144",
+            "published_date": "Tháng 3, năm 2024"
+        },
+        {
+            "title": "Ứng dụng phương pháp phân tích mạng ANP trong lựa chọn phương án đầu tư nút giao Trần Hưng Đạo – 3 Tháng 2 – Mậu Thân, quận Ninh Kiều, thành phố Cần Thơ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ và Giao thông vận tải ISSN: 1859-4263",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, số 1, trang 44-52",
+            "published_date": "2024"
+        },
+        {
+            "title": "Risk identification for bridge construction projects – A case study in the Mekong delta Region under climate change",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng ISSN: 2734 - 9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 06, trang 110-113",
+            "published_date": "Tháng 6, năm 2024"
+        },
+        {
+            "title": "Investment Decision-Making for Transport Infrastructure Projects: Optimizing vs. Satisficing",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "2020 IEEE 15th International Conference of System of Systems Engineering (SOSE) Electronic ISBN: 978-1-7281-8050-2",
+            "journal_ranking": "Thuộc ISI/WoS Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 41-46",
+            "published_date": "2020"
+        },
+        {
+            "title": "System of Systems Approach to Develop a Governance Mechanism for Smart Cities",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Future Cities from chaotic to strategic in connected systems. ISBN: 978-604-82-6329-4.",
+            "journal_ranking": "Hội nghị Quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 26-37",
+            "published_date": "2021"
+        },
+        {
+            "title": "Public Private Partnership for Transport Infrastructure Investment: Critical Success Factors and Lessons Learnt from Projects in the Context of Developing Countries",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Emerging Technologies and Applications for Green Infrastructure ISSN: 2366-2557 ISBN: 978-981-16-7159-3",
+            "journal_ranking": "ISI/WoS Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 203, trang 1545-1553",
+            "published_date": "2022"
+        },
+        {
+            "title": "A Systemic Approach to Risk Management for Smart City Governance",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Industrial Engineering and Applications (ICIEA). ISBN: 978-1-6654-8372-8.",
+            "journal_ranking": "Hội nghị quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 409-414",
+            "published_date": "2022"
+        },
+        {
+            "title": "System of Systems (Sos) Approach in Defining the Boundary of Stakeholder Involvement in Smart City Governance",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Engineering and Technology Management Summit. ISBN: 978-975-561-547-9",
+            "journal_ranking": "Hội nghị quốc tế",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 281-287",
+            "published_date": "2022"
+        },
+        {
+            "title": "Xây dựng mô hình tối ưu hóa thời gian cung cấp dịch vụ y tế tại nhà cho người dân hướng đến chuyển đổi số trong việc cung cấp các dịch vụ y tế",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo Chuyển đổi số trong lĩnh vực Giao thông vận tải: Nhà xuất bản Giao thông Vận tải ISBN: 978-604-76-2623-6",
+            "journal_ranking": "Hội nghị trong nước",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 111-121",
+            "published_date": "Tháng 11, năm 2022"
+        },
+        {
+            "title": "Ứng dụng Lean Six Sigma để cải tiến chất lượng tư vấn giám sát công trình xây dựng",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học và Công nghệ Giao thông vận tải ISBN: 978-604-76-2736-3",
+            "journal_ranking": "Hội nghị trong nước",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 189-195",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ứng dụng AHP trong đánh giá lựa chọn đầu tư xây dựng dự án nông nghiệp",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Quốc gia lần V Khoa học và công nghệ giao thông vận tải ISBN: 978-604-76-2737-0",
+            "journal_ranking": "Hội nghị trong nước",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 192-199",
+            "published_date": "2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Áp dụng cách thức tiếp cận hệ thống của các hệ thống (SoS) trong việc phát triển cơ chế quản trị thành phố thông minh",
+            "role": "Principal Investigator",
+            "project_code": "T2021_01_CE/HĐ/ĐHQT-QLKH",
+            "management_level": "Institutional Level",
+            "period": "15/04/2022 - 15/04/2023",
+            "acceptance_date": "06 tháng 04 năm 2023",
+            "rating": "ĐẠT"
+        },
+        {
+            "title": "Phân tích lợi ích – chi phí và nhận dạng những thách thức, rào cản của việc phát triển cơ sở hạ tầng giao thông đô thị thông minh",
+            "role": "Principal Investigator",
+            "project_code": "C2023-28-06/HĐ-KHCN",
+            "management_level": "VNU-HCM Level",
+            "period": "02/2023 - 02/2025",
+            "acceptance_date": "08 tháng 06 năm 2024",
+            "rating": "XUẤT SẮC"
+        },
+        {
+            "title": "Hoạch định mạng lưới y tế cộng đồng và hỗ trợ nhanh các ca nhiễm COVID-19 điều trị tại hộ gia đình trong điều kiện bình thường mới",
+            "role": "Principal Investigator",
+            "project_code": "AAGF-R4-00147",
+            "management_level": "Interdisciplinary Research Program",
+            "period": "04/2022 - 04/2023",
+            "acceptance_date": "Confirmation letter issued",
+            "rating": "ĐẠT"
+        }
+    ],
+    "books": [
+        {
+            "title": "Chapter 3: Intuition and Analysis: Past, Present, and Future: And the Impact of Artificial Intelligence",
+            "type": "Reference Book",
+            "publisher": "Taylor & Francis Group",
+            "publish_year": "2023",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 3 từ",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Chapter in Handbook of Research on Engineering, Business, and Technology Education",
+            "type": "Reference Book",
+            "publisher": "Taylor & Francis Group",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "trang 39-62",
+            "verification_document_id": ""
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Ban hành chương trình đào tạo ngành Kỹ thuật Xây dựng 2023",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 82/QĐ-ĐHQT ngày 15 tháng 02 năm 2023; Thông báo 133/TB-ĐTĐH ngày 11 tháng 4 năm 2023",
+            "certifying_authority": "Trường Đại học Quốc tế, ĐH Quốc gia TP.HCM",
+            "implementation_document_id": "Quyết định số 1182/QĐ-ĐHQT ngày 30 tháng 8 năm 2023",
+            "notes": "Điều chỉnh khung chương trình đào tạo"
+        },
+        {
+            "title": "Ban hành chương trình đào tạo ngành Quản lý Xây dựng 2023",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 82/QĐ-ĐHQT ngày 15 tháng 02 năm 2023; Thông báo 133/TB-ĐTĐH ngày 11 tháng 4 năm 2023",
+            "certifying_authority": "Trường Đại học Quốc tế, ĐH Quốc gia TP.HCM",
+            "implementation_document_id": "Quyết định số 1031/QĐ-ĐHQT ngày 30 tháng 8 năm 2023",
+            "notes": "Điều chỉnh khung chương trình đào tạo"
+        }
+    ]
+}

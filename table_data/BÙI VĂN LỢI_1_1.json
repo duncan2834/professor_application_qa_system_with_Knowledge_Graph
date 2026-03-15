@@ -1,0 +1,435 @@
+{
+    "papers": [
+        {
+            "title": "Bã sắn ủ chua – nguồn thức ăn bổ sung có giá trị cho bò thịt khi nuôi bằng rơm lúa",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn; ISSN: 0866-7020",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 121, Iss. 4, pp. 41-44",
+            "published_date": "April, 2008"
+        },
+        {
+            "title": "Đánh giá giá trị dinh dưỡng của bã sắn công nghiệp ủ chua với các phụ gia để làm thức ăn cho gia súc nhai lại",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Chuyên san Nông – Sinh – Y; ISSN: 1859-1388",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12, Iss. 46, pp. 129-135",
+            "published_date": "September, 2008"
+        },
+        {
+            "title": "Ảnh hưởng của chỉ số nhiệt ẩm (THI-Temperature humidity index) đến một số chỉ tiêu sinh lý của cừu nuôi tại Thừa Thiên Huế",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nông nghiệp và Phát triển nông thôn; ISSN: 0866-7020",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 161-162, Iss. 2+3, pp. 88-94",
+            "published_date": "February, 2011"
+        },
+        {
+            "title": "Tình hình nhiễm ký sinh trùng trên đàn cừu nuôi tại Trung tâm Nghiên cứu vật nuôi Thủy An và hiệu quả sử dụng thuốc tẩy trừ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Chuyên san Nông Nghiệp – Sinh học và Y Dược; ISSN: 1859-1388; https://doi.org/10.26459/jard.v67i4.3183",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 67, Iss. 4, pp. 69-77",
+            "published_date": "October, 2011"
+        },
+        {
+            "title": "Đánh giá giá trị dinh dưỡng của một số loại thức ăn thô xanh cho cừu ở Thừa Thiên Huế",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Chăn nuôi; Hội Chăn nuôi Việt Nam; ISSN: 1859-476X",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 10, Iss. 163, pp. 63-68",
+            "published_date": "October, 2012"
+        },
+        {
+            "title": "Khả năng sinh trưởng và sinh sản của cừu Phan Rang nuôi ở Thừa Thiên Huế",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Chăn nuôi; Hội Chăn nuôi Việt Nam; ISSN: 1859-476X",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 8, Iss. 173, pp. 65-74",
+            "published_date": "August, 2013"
+        },
+        {
+            "title": "Xác định một số chỉ tiêu sinh lý của cừu Phan Rang nuôi ở Thừa Thiên Huế",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Chuyên san Nông nghiệp và Phát triển nông thôn; ISSN: 1859-1388; https://jos.hueuni.edu.vn/index.php/TCKHDHH/article/view/678",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 108, Iss. 9, pp. 142-152",
+            "published_date": "November, 2015"
+        },
+        {
+            "title": "Yield and Nutritional Value of Brachiaria humidicola Grass Planted in Thua Thien Hue Province, Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Research in Agricultural Sciences; E-ISSN: 2348-3997. https://ijras.com/index.php/archive?view=publication&task=show&id=335",
+            "journal_ranking": "International Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 6, Iss. 2, pp. 40-45",
+            "published_date": "March, 2019"
+        },
+        {
+            "title": "Effect of Biofat on Growing Performance and Health Status of Post- Weaning Piglets",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asploro Journal of Biomedical and Clinical Case Reports; ISSN: 2582-0370; DOI: https://doi.org/10.36502/2019/ASJBCCR.6172",
+            "journal_ranking": "International Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2, Iss. 3, pp. 99-105",
+            "published_date": "November, 2019"
+        },
+        {
+            "title": "Effect of biofat on growing performance and health status of post-weaning piglet",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "The 2nd International Conference on Tropical Animal Science and Production (TASP 2019); ISBN:978-974-533-744-2",
+            "journal_ranking": "International Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 1, pp. 86",
+            "published_date": "July, 2019"
+        },
+        {
+            "title": "Relationship between temperature, temperature-humidity index and amount of food intake of Sheep",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Experimental Biology and Agricultural Sciences; ISSN: 2320-8694; DOI: https://doi.org/10.18006/2022.10(1).135.143",
+            "journal_ranking": "SCOPUS Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 10, Iss. 1, pp. 135-143",
+            "published_date": "February, 2022"
+        },
+        {
+            "title": "Evaluation Of Biomass And Nutritive Values Of Leptocarpus Disjunctus For Cattle In Central Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Chemical Bulletin; ISSN: 2063-5346; DOI: 10.53555/ecb/2022.11.11.93",
+            "journal_ranking": "SCOPUS Q3 (2017-2022)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11, Iss. I. 11, pp. 1090-1099",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effects Of Different Fiber Diets On The Growth Performance, Blood Profiles, Immune Response Meat Quality And Economy In Growing And Finishing Pigs",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Chemical Bulletin; ISSN: 2063-5346; DOI: - 10.53555/ecb/2022.11.11.97",
+            "journal_ranking": "SCOPUS Q3 (2017-2022)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11, Iss. 11, pp. 1122-1136",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nutrient Composition, Rumen Degradation Characteristics And Feeding Value Of Chanhluong Grass (Leptocarpus disjunctus Mast.) - A Drought Tolerant Grass In Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "European Chemical Bulletin; ISSN: 2063-5346; DOI: - 10.48047/ecb/2022.11.12.178",
+            "journal_ranking": "SCOPUS Q3 (2017-2022)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11, Iss. 12, pp. 2115-2122",
+            "published_date": "2022"
+        },
+        {
+            "title": "Effect of Growing Crops and Rice Soil on Growth, Regeneration and Yield of Grass Brachiaria humidicola Grown in Central Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Journal of Agriculture and Allied Sciences; https://csdlkhoahoc.hueuni.edu.vn/data/2023/9/Loi612023AJAAS11700_(1).pdf",
+            "journal_ranking": "International Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 6, Iss. 1, pp. 69-77",
+            "published_date": "2023"
+        },
+        {
+            "title": "First Report of Antimicrobial Resistance of Mannheimia haemolytica from Phan Rang Sheep in Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Pakistan Veterinary Journal; ISSN: 0253-8318; http://pvj.com.pk/pdf-files/22-395.pdf",
+            "journal_ranking": "SCOPUS Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 1, Iss. 1, pp. 41-48",
+            "published_date": "2023"
+        },
+        {
+            "title": "Phát hiện vi khuẩn pasteurella multocida gây bệnh tụ huyết trùng ở cừu Phan Rang bằng kỹ thuật PCR",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế Chuyên san Khoa học Tự nhiên; pISSN: 1859-1388; eISSN: 2615-9678; DOI: 10.26459/hueunijns.v132i1A.6914",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 132, Iss. 1A, pp. 157-166",
+            "published_date": "2023"
+        },
+        {
+            "title": "Growth and reproductive performance of Phan Rang sheep raised in Ninh Thuan province, South Central Vietnam",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Conference on Sustainable Animal Agriculture for Developing Countries SAADC2023; https://saadc2023.nuol.edu.la/index.php",
+            "journal_ranking": "International Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 362-369",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tình hình chăn nuôi, sinh trưởng, sinh sản của cừu Phan Rang nuôi trong nông hộ tỉnh Ninh Thuận",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Chăn nuôi; Hội Chăn nuôi Việt Nam; ISSN:1859-476X; https://vjol.info.vn/index.php/tapchiHoichannuoiVietnam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 295, pp. 25-31",
+            "published_date": "December, 2023"
+        },
+        {
+            "title": "Commercial Concentrate Supplementation in Phan Rang Sheep Diets: Effects on Digestibility Traits, Growth and Carcass Performance",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Animal and Veterinary Sciences (2309-3331, E-ISSN: 2307-8316); https://dx.doi.org/10.17582/journal.aavs/2024/12.1.1.8",
+            "journal_ranking": "SCOPUS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12, Iss. 1, pp. 1-8",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Đánh giá tiềm năng của cây Chanh lương (Leptocarpus disjunctus Mast.) từ tự nhiên làm thức ăn cho gia súc nhai lại ở miền Trung, Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Chuyên san Khoa học Tự nhiên; pISSN: 1859-1388; eISSN: 2615-9678; DOI: 10.26459/hueunijns.v133i1A.7297",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 133, Iss. 1A, pp. 63-71",
+            "published_date": "March, 2024"
+        },
+        {
+            "title": "Quan hệ giữa nhiệt độ và ẩm độ đến các chỉ tiêu sinh lý của cừu Phan Rang",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Chăn nuôi; Viện Chăn nuôi; ISSN:1859-0802; https://vcn.org.vn/xuat-ban/tap-chi-khoa-hoc-cong-nghe-chan-nuoi-so-144-thang-4-2024-",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 144, pp. 56-66",
+            "published_date": "April, 2024"
+        },
+        {
+            "title": "Production potentials and cow feed value of Brachiaria humidicola grown in Thua Thien Hue province, Central Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "African Journal of Biological Sciences; ISSN: 2663-2187; https://www.afjbs.com/uploads/paper/638bc36e40653aedec520b7030cfc39b.pdf",
+            "journal_ranking": "SCOPUS Q4 (2019-2022)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 6, Iss. 5 (2024), pp. 6097-6106",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Effects of planting densitis and regenerations on the growth and yield of Brachiaria humidicola grown in Thua Thien Hue",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Chuyên san Khoa học Tự nhiên (TA); pISSN: 1859-1388; eISSN: 2615-9678; DOI: 10.26459/hueunijns.v133i1B.7489",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 133, Iss. 1B, pp.",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Ảnh hưởng của nhiệt độ, ẩm độ và chỉ số nhiệt ẩm đến nhiệt độ da của cừu Phan Rang",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Báo cáo khoa học về nghiên cứu và giảng dạy sinh học ở Việt Nam - Hội nghị khoa học Quốc gia lần thứ 6; Nhà xuất bản Khoa học Tự nhiên và Công nghệ; ISBN: 978-604-357-275-9; DOI: 10.15625/vap.2024.0001",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 3-11",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Relationships between hot and cold seasons with blood biochemical indicators of Phan Rang sheep in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "African Journal of Biological Sciences; ISSN: 2663-2187; Doi: 10.33472/AFJBS.6.9.2024.2265-2276",
+            "journal_ranking": "SCOPUS Q4 (2019-2022)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 6, Iss. 9, pp. 2265-2276",
+            "published_date": "May, 2024"
+        },
+        {
+            "title": "Xác định một số nguồn thức ăn thô xanh thích hợp cho cừu ở Thừa Thiên Huế",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Báo cáo khoa học về nghiên cứu và giảng dạy sinh học ở Việt Nam - Hội nghị khoa học Quốc gia lần thứ 6; Nhà xuất bản Khoa học Tự nhiên và Công nghệ; ISBN: 978-604-357-275-9; https://doi.org/10.15625/vap.2024.0133",
+            "journal_ranking": "National Conference",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 1324-1333",
+            "published_date": "June, 2024"
+        },
+        {
+            "title": "Characterizing the Phan Rang Sheep: A First Look at the Y Chromosome, Mitochondrial DNA, and Morphometrics",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Animals; https://doi.org/10.3390/ani14142020; https://www.mdpi.com/2076-2615/14/14/2020",
+            "journal_ranking": "SCIE Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 14, Iss. 14, pp. 1-15",
+            "published_date": "July, 2024"
+        },
+        {
+            "title": "Nutrient composition, rumen degradation characteristics and feeding value of waterlogged grass (brachiaria humidicola) for ruminant feed in Viet Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal Cuestiones de Fisioterapia; https://doi.org/10.48047/tkhf2245",
+            "journal_ranking": "SCOPUS Q4 (2019-2024)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 53, Iss. 3, pp. 3487-3499",
+            "published_date": "December, 2024"
+        },
+        {
+            "title": "A technique grass using a high crude Fibre to maintain the growth performance and improve blood health indicators in beef, central Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Innovative Research and Scientific Studies; ISSN: 2617-6548; https://doi.org/10.53894/ijirss.v8i2.5649",
+            "journal_ranking": "SCOPUS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 8, Iss. 2, pp. 2216-2221",
+            "published_date": "March, 2025"
+        },
+        {
+            "title": "Influence of organic fertilizer in the production and economic efficiency of Brachiaria Humidicola",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Edelweiss Applied Science and Technology; ISSN: 2576-8484; DOI: 10.55214/25768484.v9i4.6106",
+            "journal_ranking": "SCOPUS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 9, Iss. 4, pp. 817-826",
+            "published_date": "April, 2025"
+        },
+        {
+            "title": "Influence of seasonal weather on the growth and productivity of Brachiaria humidicola",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Environmental Sciences; ISSN: 2229-7359; https://www.theaspd.com/ijes.php",
+            "journal_ranking": "SCOPUS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11, Iss. 5S, pp. 458-468",
+            "published_date": "May, 2025"
+        },
+        {
+            "title": "Perception and Adoption of Food Safety Standards: A Case of VietGAP Sheep Farmers in the Ninh Thuan Province of Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability; https://doi.org/10.3390/su17115071",
+            "journal_ranking": "SCIE Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, Iss. 11, pp. 5071",
+            "published_date": "June, 2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu ảnh hưởng của các loại môi trường nuôi đến khả năng sinh trưởng của giun quế (Perionyx ecavatus Perrier, 1872) ở Thừa Thiên Huế",
+            "role": "Principal Investigator",
+            "project_code": "CS-DTT06-TN-11",
+            "management_level": "Trường Đại học Sư phạm, Đại học Huế",
+            "period": "01/01/2006 - 01/01/2008",
+            "acceptance_date": "06/5/2008",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu khả năng tiêu hóa một số nguồn thức ăn thô của cừu Phan Rang nuôi tại Thừa Thiên Huế",
+            "role": "Principal Investigator",
+            "project_code": "DHH2011-03-05",
+            "management_level": "Đại học Huế",
+            "period": "01/01/2011 - 31/12/2012",
+            "acceptance_date": "03/9/2013",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đánh giá năng suất chất xanh và giá trị dinh dưỡng của giống cỏ Brachiria humidicola được trồng trên đất ruộng lúa nước ở Thừa Thiên Huế làm thức ăn cho bò",
+            "role": "Principal Investigator",
+            "project_code": "DHH2017-08-06",
+            "management_level": "Đại học Huế",
+            "period": "01/01/2017 - 01/01/2019",
+            "acceptance_date": "04/10/2019",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu giá trị làm thức ăn cho bò của cỏ Tây không lông (Brachiaria humidicola) và cây Chanh lương (Leptocarpus disjunctus Mast.) ở miền Trung, Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "B2021-DHH-04",
+            "management_level": "Bộ Giáo dục và Đào tạo",
+            "period": "01/01/2021 - 30/6/2023",
+            "acceptance_date": "22/12/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu hiện trạng và đề xuất giải pháp nâng cao năng suất chăn nuôi cừu Phan Rang",
+            "role": "Key Member",
+            "project_code": "CT-2021-01-DHH-03",
+            "management_level": "Bộ Giáo dục và Đào tạo",
+            "period": "01/01/2021 - 31/12/2023",
+            "acceptance_date": "07/3/2024",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ảnh hưởng của bột cây đay (Hibiscus cannabinus L.) làm từ thân, lá trong khẩu phần ăn đến năng suất, chất lượng và sức đề kháng của lợn thịt",
+            "role": "Key Member",
+            "project_code": "ĐHH2021-08-12",
+            "management_level": "Đại học Huế",
+            "period": "04/7/2021 - 30/7/2022",
+            "acceptance_date": "10/7/2023",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phương pháp tiếp cận nghiên cứu khoa học nông nghiệp",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Huế",
+            "publish_year": "2016",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "C2, 27-46; C3, 47-77; C3, 78-84",
+            "verification_document_id": "Quyết định số 310/QĐ-ĐHNL ngày 21/5/2024 của Trường ĐHNL, Đại học Huế; Biên bản họp Hội đồng thẩm định ngày 23/5/2024; Giấy xác nhận sử dụng sách tham khảo cho sinh viên ngành Chăn nuôi Thú y"
+        },
+        {
+            "title": "Giáo trình Công nghệ vi sinh vật trong xử lý ô nhiễm môi trường",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Huế",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "C1, 01-24; C3, 51-100; C4, 101-134, C7, 201-233; C9, 292-351",
+            "verification_document_id": "Quyết định số 311/QĐ-ĐHNL ngày 21/5/2024 của Trường ĐHNL, Đại học Huế; Biên bản họp Hội đồng thẩm định ngày 23/5/2024; Giấy xác nhận sử dụng giáo"
+        },
+        {
+            "title": "Chỉ số nhiệt ẩm và sức sản xuất của cừu Phan Rang",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Đại học Huế",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "C1, 11-36; C2, 51-62; C3, 63-91; C4, 92-101; C6105-115",
+            "verification_document_id": "Quyết định số 309/QĐ-ĐHNL ngày 21/5/2024 của Trường ĐHNL, Đại học Huế; Biên bản họp Hội đồng thẩm định ngày 23/5/2024; Giấy xác nhận sử dụng sách chuyên khảo cho sinh viên ngành Chăn nuôi Thú y"
+        },
+        {
+            "title": "Sổ tay hướng dẫn kỹ thuật Chăn nuôi dê trong nông hộ",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản Đại học Huế",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "I, 13-19; II, 26-32; III, 34-40",
+            "verification_document_id": "Quyết định số 318/QĐ-ĐHNL ngày 23/5/2024 của Trường ĐHNL, Đại học Huế; Biên bản họp Hội đồng thẩm định ngày 27/5/2024; Giấy xác nhận sử dụng sách tham khảo, hướng dẫn cho sinh viên ngành Chăn nuôi Thú y"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

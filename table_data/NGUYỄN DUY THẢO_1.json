@@ -1,0 +1,635 @@
+{
+    "papers": [
+        {
+            "title": "Nghiên cứu tính toán cầu dây văng có xét đến biến dạng đàn hồi của dây, chuyển vị thẳng, chuyển vị xoay của tháp cầu.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học & Công nghệ các trường Đại Học kỹ thuật/ISSN 0868-3980",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 32-33, Pages 89-95",
+            "published_date": "2002"
+        },
+        {
+            "title": "Phân tích hệ số khí động do tải trọng gió gây ra trên mặt cắt ngang dầm hình chữ nhật bằng mô hình CFD",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí giao thông vận tải / ISSN: 0866-7012",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 2011, Issue 9, Pages 25-27, 35",
+            "published_date": "09/2011"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng công nghệ dầm P-B trong công tác sửa chữa, nâng cao khả năng chịu lực của cầu dầm thép cũ đã qua sử dụng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Đà nẵng / ISSN: 1859-1531",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 8, Issue 69, Pages 37-42",
+            "published_date": "01/2012"
+        },
+        {
+            "title": "Nâng cao khả năng ổn định dao động của dây cáp văng bằng thiết bị cản mô hình đàn-nhớt có xét đến độ cứng chống uốn của dây cáp văng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Đà nẵng / ISSN: 1859-1531",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 32-37",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Xác định hệ số động lực của cầu dầm Super T có bản liên tục nhiệt do tải trọng di động gây ra bằng phương pháp đo đạc thực nghiệm",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí giao thông vận tải / ISSN: 2354-0818",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 71-74",
+            "published_date": "08/2017"
+        },
+        {
+            "title": "Kiểm soát dao động của dây Cáp văng bằng thiết bị cản theo mô hình High Damping Rubber Damper có xét đến độ cứng chống uốn của dây cáp văng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Cơ học toàn quốc lần thứ IX, 8-9/12/2012. ISBN: 978-604-911-435-9",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1, trang 564-572",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Khảo sát thực nghiệm gia tốc dao động của Cầu Thuận Phước bằng công nghệ Wireless Structural Bridges Testing System",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Cơ học toàn quốc lần thứ IX, 8-9/12/2012. ISBN: 978-604-911-435-9",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1, trang 573-582",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Structural and Environmental monitoring of Thuan Phuoc bridge",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc gia Hạ tầng giao thông với phát triển bền vững. ISBN: 978-604-82-0019-0",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 11-18",
+            "published_date": "08/2013"
+        },
+        {
+            "title": "Ứng dụng công nghệ \"Wriless structural Bridge testing System” đánh giá khả năng chịu tải công trình cầu Nguyễn Tri Phương tại TP Đà Nẵng, Phần 1: Cầu dẫn, dầm Super T, L=40m",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc gia Hạ tầng giao thông với phát triển bền vững. ISBN: 978-604-82-0019-0",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 329-335",
+            "published_date": "08/2013"
+        },
+        {
+            "title": "Kiểm soát dao động của dây cáp văng bằng thiết bị cản nhớt có xét đến độ cứng chống uốn của dây cáp văng và độ đàn hồi của gối gắn thiết bị cản",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị Cơ học kỹ thuật toàn quốc 09/04/2014, Hà Nội/ ISBN 978-604-913-233-9",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 587-592",
+            "published_date": "06/2014"
+        },
+        {
+            "title": "Thiết kế chương trình tự động hóa công tác quan trắc ứng suất - biến dạng và chuyển vị trên mô hình dầm thép điều chỉnh nội lực bằng hệ thống thiết bị TDS 303 TML - Japan",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Cơ học kỹ thuật toàn quốc, Đà Nẵng, 03-05/08/2015. ISBN: 978-604-84-1272-2",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 471-477",
+            "published_date": "08/2015"
+        },
+        {
+            "title": "Kiểm soát dao động của dây cáp văng bằng thiết bị cản theo mô hình gắn hai thiết bị cản nhớt có xét đến độ cứng chống uốn của dây cáp văng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo quốc gia Hạ tầng giao thông với phát triển bền vững lần thứ 2. ISBN: 978-604-82-1809-6",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 625-630",
+            "published_date": "04/2016"
+        },
+        {
+            "title": "Ứng dụng phương pháp đo rung động để xác định lực căng trong dây cáp văng cầu Phò Nam – TP Đà Nẵng trong quá trình thi công",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị khoa học toàn quốc lần thứ 2 về Cơ kỹ thuật và tự động hóa, ISBN: 978-604-95-0221-7",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 203-208",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Vibration Control of Stayed-Cables using Viscous Linear Dampers in consideration of Bending Stiffness",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 2011 World Congress on Advances in Structural Engineering and Mechanics, Seoul - Korea/ ISBN 987-89-89693-32-1 98530",
+            "journal_ranking": "HNQT",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 4574-4587",
+            "published_date": "09/2011"
+        },
+        {
+            "title": "Analysis of Dynamic Impact Factors of Bridge Due to Moving Vehicles Using Finite Element Method",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering, Springer Nature Singapore Pte Ltd. 2018/ ISSN 2195-4356",
+            "journal_ranking": "HNQT (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 1105-1119",
+            "published_date": "02/2018"
+        },
+        {
+            "title": "Stationary Random Vibration Analysis of Dynamic Vehicle-Bridge Interaction Due to Road Unevenness",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering, Springer Nature Singapore Pte Ltd. 2018/ ISSN 2195-4356",
+            "journal_ranking": "HNQT (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 1121-1138",
+            "published_date": "02/2018"
+        },
+        {
+            "title": "Phân tích hệ số động lực của cầu Sông Hàn có xét đến sự thay đổi tải trọng xe",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Đà nẵng / ISSN: 1859-1531",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 19, Issue 4.2, Pages 64-68",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Nghiên cứu hiệu chỉnh mô hình đánh giá khả năng chịu tải công trình cầu dựa vào số liệu đo đạc thực nghiệm trên mô hình toàn cầu",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng (JSTCE), ĐHXDHN, 2021, 15 (7V): 36-48/",
+            "journal_ranking": "TCTN",
+            "citation_count": 1,
+            "volume_issue_pages": "Issue 1, Pages 36-48",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Nghiên cứu ứng xử động lực học và tĩnh học của cầu dây văng sử dụng cáp CFRP",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí giao thông vận tải / ISSN: 2354-0818",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 61-65",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Đánh giá khả năng khai thác cầu giàn thép cũ theo chỉ số độ tin cậy có xét đến yếu tố ăn mòn tiết diện theo thời gian tại khu vực Miền Trung Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí giao thông vận tải / ISSN: 2354-0818",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 4, 2024",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "So sánh hiệu quả giảm chấn của thiết bị cản gắn bên trong và gắn bên ngoài dây văng có xét đến độ cứng chống uốn của dây văng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Transport and Communications Science Journal (Tạp chí Khoa học giao thông vận tải)/ ISSN: 1859-2724",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 75, Issue 3 (04/2024)",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Dự báo tuổi thọ cầu giàn thép cũ theo chỉ số độ tin cậy có xét đến yếu tố ăn mòn tiết diện tại khu vực Miền Trung Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí giao thông vận tải / ISSN: 2354-0819",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 5, 2024",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Phân tích khả năng chịu tải cầu bản bê tông cốt thép ứng suất trước trên mô hình số đã được hiệu chỉnh từ số liệu đo biến dạng do hoạt tải thử nghiệm di động trên cầu",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Đà nẵng / ISSN: 1859-1531",
+            "journal_ranking": "TCTN",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 5, 2024",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Phân tích dao động cầu giàn thép chịu tải trọng xe 3 trục mô hình 2 khối lượng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học toàn quốc lần thứ nhất \"Động lực học và Điều khiển\" 19-20/07/2019, Đà Nẵng. ISBN: 978-604-913-966-6",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 49-56",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Khảo sát mối quan hệ ba chiều: Vận tốc, tải trọng xe di động và hệ số động lực trong cầu dầm Super T có bản mặt cầu liên tục nhiệt bằng phương pháp số",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học toàn quốc lần thứ nhất \"Động lực học và Điều khiển\" 19-20/07/2019, Đà Nẵng. ISBN: 978-604-913-966-6",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 63-67",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Phân tích hệ số động lực trong cầu giàn thép dưới tác dụng của tải trọng xe 3 trục mô hình 2 khối lượng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học toàn quốc lần thứ nhất \"Động lực học và Điều khiển\" 19-20/07/2019, Đà Nẵng. ISBN: 978-604-913-966-6",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 30-36",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Phân tích hệ số động lực theo các mô hình và các quy trình thiết kế khác nhau",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học toàn quốc lần thứ nhất \"Động lực học và Điều khiển\" 19-20/07/2019, Đà Nẵng. ISBN: 978-604-913-966-6",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 37-42",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Xác định các thông số tối ưu của hai thiết bị cản ma sát nhằm hạn chế dao động dây cáp văng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Cơ học kỹ thuật toàn quốc Kỷ nệm 40 năm thành lập Viện Cơ học, 09/04/2019, Hà Nội./ISBN: 978-604-913-937-6",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 183-189",
+            "published_date": "12/2019"
+        },
+        {
+            "title": "Phân tích ảnh hưởng độ gồ ghề ngẫu nhiên mặt cầu đến dao động cầu giàn thép dưới tác dụng của hoạt tải xe di động",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Khoa học toàn quốc lần thứ hai về Động lực học và Điều khiển Đại học Bách khoa Hà Nội, 2022/ ISBN: 978-604-316-796-2",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 186-191",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Phân tích dao động và hệ số động lực của cầu dầm I bê tông cốt thép do tải trọng xe thay đổi gây ra",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Khoa học toàn quốc lần thứ hai về Động lực học và Điều khiển Đại học Bách khoa Hà Nội, 2022/ ISBN: 978-604-316-796-2",
+            "journal_ranking": "HNQG",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 192-197",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "A new analysis of wind on chloride deposition for long-term aerosol chloride deposition monitoring with weekly sampling frequency",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Atmospheric Environment, ISSN: 1352-2310, eISSN: 1878-2442",
+            "journal_ranking": "SCIE, Q1, IF>=2",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 198, 2019, Pages 46-54",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Kriging metamodel-based seismic fragility analysis of single-bent reinforced concrete highway bridges",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Buildings, ISSN: 2075-5309",
+            "journal_ranking": "SCIE (IF 3.324, Q1)",
+            "citation_count": 9,
+            "volume_issue_pages": "Buildings 2021, 11, 238",
+            "published_date": "05/2021"
+        },
+        {
+            "title": "Theoretical Investigation on the Impact of Two HDR Dampers on First Modal Damping Ratio of Stay Cable",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Sciences, ISSN: 2076-3417",
+            "journal_ranking": "SCIE (IF=2.838)>=2",
+            "citation_count": 0,
+            "volume_issue_pages": "Appl. Sci. 2021, 11(22), 10985",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Optimization of Multiple Helical Fillets Surface to Suppress Rain-wind Vibration of Stay Cables: A Wind Tunnel Investigation",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Open Civil Engineering Journal, ISSN: 1874-1495",
+            "journal_ranking": "Scopus-Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 16, 2022",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Further Explanation on the Excitation Mechanism of Stay Cable Vibration in Dry Conditions",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Buildings, ISSN: 2075-5309",
+            "journal_ranking": "SCIE (IF=3.324)>=2",
+            "citation_count": 0,
+            "volume_issue_pages": "Buildings 2023, 13(6), 1543",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Projection of climate variables by general circulation and deep learning model for Lahore, Pakistan",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Ecological Informatics, ISSN: 1574-9541",
+            "journal_ranking": "SCIE (IF=4.498)>=2",
+            "citation_count": 3,
+            "volume_issue_pages": "75 (2023), 102077",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Damping effects of a stay cable attached with a viscous damper and a high damping rubber damper considering cable bending stiffness and damper support flexibility",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Bridge Engineering/ ISSN: 2662-5407",
+            "journal_ranking": "Scopus-Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "ABE N 5, 12 (2024).",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Improvement the vibrating stability of cable-stayed of TranThiLy Bridge using friction damper in consideration of bending stiffness",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "2018 International conference on Sustainability in civil Engineering, 24-25th November, 2018, Hanoi, Vietnam / ISSN: 2354-0818",
+            "journal_ranking": "HNQT",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 339-344",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Effects of Random Road Unevenness on Dynamic Impact Factor of multi-span Super T Girder Bridge with Link Slab due to Moving Vehicles",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture Notes in Civil Engineering, vol 54. Springer, Singapore / ISSN: 2366-2557",
+            "journal_ranking": "HNQT (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 99-104",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "A Further Study on Stay Cable Galloping Under Dry Weather Condition",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture Notes in Civil Engineering, vol 54. Springer, Singapore / ISSN: 2366-2557",
+            "journal_ranking": "HNQT (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 191-196",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "A Study on Combination of Two Friction Dampers to Control Stayed-Cable Vibration Under Considering its Bending Stiffness",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Civil Engineering, vol 54. Springer, Singapore / ISSN: 2366-2557",
+            "journal_ranking": "HNQT (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 87-92",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Vibration and Dynamic Impact Factor Analysis of the Steel Truss Bridges Subjected to Moving Vehicles",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lecture Notes in Mechanical Engineering. Springer, Singapore/ ISSN 2195-4356",
+            "journal_ranking": "HNQT (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 522-536",
+            "published_date": "09/2021"
+        },
+        {
+            "title": "Effects of Random Road Roughness on Dynamic Impact Factor of Cable-Stayed Bridge Subjected to Moving Vehicle",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Civil Engineering, vol 203. Springer, Singapore / ISSN: 2366-2557",
+            "journal_ranking": "HNQT (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 147-156",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Dynamic Impact Factor Analysis of the Prestressed Reinforced Concrete Girder Bridges Subjected to Random Vehicle Load",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Mechanisms and Machine Science, vol 113. Springer Nature Switzerland/ ISSN: 2211-0984",
+            "journal_ranking": "HNQT (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 764-774",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Application of Finite Element Method to Analyze the Vibration and Dynamic Impact Factor of Displacement in I-Girder Bridge with Link Slab Due to Random Vehicle Load",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Mechanisms and Machine Science, vol 113. Springer Nature Switzerland/ ISSN: 2211-0984",
+            "journal_ranking": "HNQT (Scopus)",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 814-824",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Analysis of dynamic response of three-span bridge using vehicle load data from Road Administration Department IV in Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "IOP Conf. Series: Materials Science and Engineering, Volume 1289, 2023. ISSN 1757-899X (Online)",
+            "journal_ranking": "HNQT",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 1289, 2023, Article 012001",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Study on dynamic impact factor of girder bridges due to vehicle load model",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "IOP Conf. Series: Materials Science and Engineering, Volume 1289, 2023. ISSN 1757-899X (Online)",
+            "journal_ranking": "HNQT",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 1289, 2023, Article 012001",
+            "published_date": "12/2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu khí động học và biện pháp giảm chấn trong cầu dây văng.",
+            "role": "Member",
+            "project_code": "B2009-ĐN-43",
+            "management_level": "Cấp Bộ Giáo dục & Đào tạo",
+            "period": "04/2009-12/2010",
+            "acceptance_date": "20/01/2011",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ứng dụng công nghệ Wireless Structural Bridges Testing System đánh giá dao động và khả năng chịu lực của các công trình cầu trên địa bàn miền Trung và Tây Nguyên",
+            "role": "Principal Investigator",
+            "project_code": "D2013-02-70",
+            "management_level": "Đại học Đà Nẵng",
+            "period": "04/2013-12/2013",
+            "acceptance_date": "23/12/2013",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu xác định hệ số động lực trong cầu dây văng do hoạt tải gây ra bằng phương pháp số và đo đạc thực nghiệm áp dụng cho các công trình cầu ở thành phố Đà Nẵng",
+            "role": "Member",
+            "project_code": "B2016-DNA-09",
+            "management_level": "Cấp Bộ Giáo dục & Đào tạo",
+            "period": "02/2016-03/2018",
+            "acceptance_date": "20/03/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tính toán thiết kế kháng chấn theo tính năng cho kết cấu cầu BTCT UST nhịp giản đơn trên tuyến cao tốc Đà Nẵng – Quảng Ngãi",
+            "role": "Principal Investigator",
+            "project_code": "T2021-02-15",
+            "management_level": "Cấp cơ sở",
+            "period": "01/2021-12/2021",
+            "acceptance_date": "24/12/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm dòng gió đi qua dây văng với bề mặt tròn và bề mặt gờ xoắn ở vận tốc cao.",
+            "role": "Member",
+            "project_code": "T2022-02-24",
+            "management_level": "Cấp cơ sở",
+            "period": "01/2022-12/2022",
+            "acceptance_date": "30/06/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của dòng nước mưa đên dao động của dây văng trong điều kiện mưa gió kết hợp.",
+            "role": "Principal Investigator",
+            "project_code": "T2022-02-51",
+            "management_level": "Cấp cơ sở",
+            "period": "06/2022-05/2023",
+            "acceptance_date": "27/12/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu nâng cao khả năng ổn định dao động dây cáp văng của cầu dây văng bằng tổ hợp hai thiết bị giảm chấn ma sát có xét đến độ cứng chống uốn của dây",
+            "role": "Principal Investigator",
+            "project_code": "DT194049-Năm: 2020",
+            "management_level": "Cấp Bộ Giao thông vận tải",
+            "period": "04/2019-03/2020",
+            "acceptance_date": "14/05/2020",
+            "rating": "Đạt mức B"
+        }
+    ],
+    "books": [
+        {
+            "title": "Dao động dây văng và các biện pháp kiểm soát",
+            "type": "Reference Book",
+            "publisher": "Khoa học và Kỹ thuật",
+            "publish_year": "2020",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Entire book as co-author",
+            "verification_document_id": "1209/QĐ-ĐHBK"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Soạn thảo các Đề cương chi tiết các học phần chuyên ngành trong công trình giao thông cho các ngành Xây dựng",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Not specified",
+            "implementation_document_id": "Not specified",
+            "notes": "Phục vụ các công tác: kiểm định nội bộ, kiểm định ngoài AUN-QA, chương trình chất lượng cao, chương trình đào tạo học theo dự án, chương trình đào tạo 180 tín chỉ tích hợp Cử nhân – Kỹ sư."
+        },
+        {
+            "title": "Công tác phục vụ kiểm định nội bộ và kiểm định ngoài theo tiêu chuẩn AUN – QA ngành Kỹ thuật xây dựng công trình giao thông",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Đại học Bách Khoa",
+            "implementation_document_id": "Not specified",
+            "notes": "Năm 2018."
+        },
+        {
+            "title": "Công tác rà soát cải tiến chương trình đào tạo Thạc sĩ, Tiến sĩ ngành Kỹ thuật xây dựng công trình giao thông",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Đại học Bách Khoa",
+            "implementation_document_id": "Not specified",
+            "notes": "Năm 2019."
+        },
+        {
+            "title": "Phát triển năng lực về công nghệ bảo trì thông minh cho các cây cầu cũ tại tỉnh Quảng Nam, Việt Nam",
+            "applicant_role": "Consultant",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Chính phủ Hàn quốc",
+            "implementation_document_id": "Not specified",
+            "notes": "Thời gian thực hiện: 2021-2025. Dự án ODA."
+        },
+        {
+            "title": "Thiết kế sửa chữa cơ cấu quay cầu Sông Hàn-TP Đà Nẵng",
+            "applicant_role": "Principal Investigator",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Not specified",
+            "implementation_document_id": "Not specified",
+            "notes": "Công tác nghiên cứu và chuyển giao công nghệ."
+        },
+        {
+            "title": "Thiết kế sửa chữa cầu dây văng Phò Nam- TP Đà Nẵng",
+            "applicant_role": "Principal Investigator",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Not specified",
+            "implementation_document_id": "Not specified",
+            "notes": "Công tác nghiên cứu và chuyển giao công nghệ."
+        },
+        {
+            "title": "Kiểm định chất lượng các công trình cầu tại tỉnh Quảng nam (Cầu Ông Điền, Cầu Thôn 3, Cầu Đế Võng)",
+            "applicant_role": "Principal Investigator",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Not specified",
+            "implementation_document_id": "Not specified",
+            "notes": "Công tác nghiên cứu và chuyển giao công nghệ."
+        },
+        {
+            "title": "Thẩm tra thiết kế xây dựng Dự án đường vành đai phía Bắc tỉnh Quảng Nam",
+            "applicant_role": "Principal Investigator",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Not specified",
+            "implementation_document_id": "Not specified",
+            "notes": "Công tác nghiên cứu và chuyển giao công nghệ."
+        },
+        {
+            "title": "Thẩm tra thiết kế xây dựng Dự án Tuyến đường giao thông kết nối đường ĐT601 và thôn Lộc Mỹ, thành phố Đà Nẵng",
+            "applicant_role": "Principal Investigator",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Not specified",
+            "implementation_document_id": "Not specified",
+            "notes": "Công tác nghiên cứu và chuyển giao công nghệ."
+        },
+        {
+            "title": "Thẩm tra thiết kế xây dựng Dự án Cầu chui đường sắt Bắc Nam tại đường Bùi Thị Xuân, thành phố Huế",
+            "applicant_role": "Principal Investigator",
+            "assignment_document_id": "Not specified",
+            "certifying_authority": "Not specified",
+            "implementation_document_id": "Not specified",
+            "notes": "Công tác nghiên cứu và chuyển giao công nghệ"
+        }
+    ]
+}

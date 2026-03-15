@@ -1,0 +1,428 @@
+{
+    "papers": [
+        {
+            "title": "Phân tích đàn hồi tấm chữ nhật chịu uốn sử dụng nội lực làm ẩn",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cầu đường Việt Nam, ISSN: 1859-459X",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 04, Pages 08-10",
+            "published_date": "04/2014"
+        },
+        {
+            "title": "Phương pháp tính tấm chữ nhật chịu uốn có xét biến dạng trượt ngang sử dụng nội lực làm ẩn",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 07, Pages 68-70",
+            "published_date": "07/2015"
+        },
+        {
+            "title": "Phương pháp tính tấm trên nền đàn hồi chịu uốn có xét biến dạng trượt ngang sử dụng nội lực làm ẩn",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 10, Pages 12-14",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Phương pháp xác định tải trọng giới hạn của tấm tựa khớp theo hai định lý giới hạn",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 10, Pages 59-62",
+            "published_date": "10/2016"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của biến dạng trượt ngang đến sự phân bố nội lực và độ võng của tấm trên nền đàn hồi",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 12, Pages 135-138",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Analyze the elasticity of the bending plate on the winkler foundation have to consider the effect of transverse shearing deformations by the variational principle of energy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kết cấu và công nghệ xây dựng, ISSN: 1859.3194",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 26, Pages 67-81",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng giải pháp tường chắn bằng bê tông cốt sợi thành mỏng bảo vệ taluy âm của đường đi ven sông hồ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 07, Pages 64-68",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Nghiên cứu lựa chọn giải pháp hợp lý giải quyết vấn đề lún lệch giữa đường nội bộ với các công trình trong khu công nghiệp xây dựng trên đất yếu",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 08, Pages 74-77",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng mô hình rừng ngẫu nhiên để dự đoán cường độ chịu nén của bùn cứng hóa bằng xi măng, lưới đánh cá và bọt khí",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 1+2, Pages 95-99",
+            "published_date": "02/2021"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng mô hình trí tuệ nhân tạo dự báo cường độ nén của bê tông sử dụng cốt liệu tái chế",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Giao thông Vận tải ISSN 1859-2724",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 72, Issue 3(04/2021), Pages 369-383",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Development of deep neural network model to predict the compressive strength of rubber concrete",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Construction and Building Materials Online ISSN: 1879-0526",
+            "journal_ranking": "SCIE Q1 (IF=6.141)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 301, Article 124081",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng mô hình mạng nơ ron nhân tạo dự báo mô đun đàn hồi động của vật liệu đất đắp nền đường",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Giao thông Vận tải ISSN 1859-2724",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 72, Issue 8 (10/2021), Pages 994-1009",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "On The Training Algorithms for Artificial Neural Network in Predicting compressive strength of recycled aggregate concrete",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "CIGOS 2021, Emerging Technologies and Applications for Green Infrastructure, ISBN978-981-16-7160-9_189",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 1867-1874",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng mô hình rừng cây ngẫu nhiên để dự đoán Mr của vật liệu làm lớp móng trong kết cấu mặt đường ô tô",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 10, Pages 91-94",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Ứng dụng giải thuật phục hồi mạng lan truyền ngược để dự báo cường độ chịu nén của bê tông tự lèn sử dụng tro bay",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 12, Pages 71-75",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Investigation of ANN architecture for predicting the compressive strength of concrete containing GGBFS",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plos One, ISSN: 1932-6203",
+            "journal_ranking": "SCIE Q1 (IF=3.58)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 16, Issue 12, Article e0260847",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng mô hình rừng cây ngẫu nhiên để dự báo độ chảy loang của bê tông tự lèn và phân tích tầm quan trọng của các yếu tố ảnh hưởng đến độ chảy loang",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cầu đường Việt Nam, ISSN: 1859-459X",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 06, Pages 24-29",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Machine Learning Approach in Investigating Carbonation Depth of Concrete Containing Fly Ash",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Structural Concrete, ISSN:1751-7648 (Online)",
+            "journal_ranking": "SCIE Q1 (IF=2.793)",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 1-25",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Dự đoán cường độ nén của bê tông tro bay bằng mô hình máy học kết hợp dựa trên thuật toán cây quyết định",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 07, Pages 28-31",
+            "published_date": "07/2022"
+        },
+        {
+            "title": "Tối ưu hóa các siêu tham số của mô hình Catboost để dự báo cường độ chịu nén của bê tông tự lèn",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 10, Pages 53-57",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "A comparative assessment of tree-based predictive models to estimate geopolymer concrete compressive strength",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Neural Computing and Applications (NCAA), eISSN: 1433-3058",
+            "journal_ranking": "SCIE Q1 (IF=5.130)",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 6569-6588",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Sử dụng phương pháp tìm kiếm theo lưới để tối ưu hóa các siêu tham số của mô hình rừng cây ngẫu nhiên trong dự báo hằn lún mặt đường của hỗn hợp bê tông nhựa",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 12, Pages 82-85",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Development of machine learning methods to predict the compressive strength of fiber-reinforced self-compacting concrete and sensitivity analysis",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building Materials eISSN: 1879-0526",
+            "journal_ranking": "SCIE Q1 (IF=7.693)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 367 (2023), Article 130339",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Optimization of machine learning models for predicting the compressive strength of fiber-reinforced self-compacting concrete",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers of Structural and Civil Engineering, eISSN: 2095-2449",
+            "journal_ranking": "SCIE Q1 (IF=3.25)",
+            "citation_count": 0,
+            "volume_issue_pages": "Pages 284-305",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Toward improved prediction of recycled brick aggregate concrete compressive strength",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Construction and Building Materials",
+            "journal_ranking": "SCIE Q1 (IF=7.693)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 369 (2023), Article 130613",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Dự báo cường độ chịu nén của bê tông tự lèn cốt sợi polypropylene bằng mô hình tăng cường độ dốc sử dụng kỹ thuật tối ưu hóa lần lượt các siêu tham số",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 04, Pages 36-39",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Dự báo độ ổn định Marshall của bê tông nhựa biến tính cao su lốp xe phế thải bằng mô hình Catboost",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 06, Pages 56-59",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Enhancing Compressive Strength Prediction of Roller Compacted Concrete using Machine Learning Techniques",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Measurement, Online ISSN: 1873-412X",
+            "journal_ranking": "SCIE Q1 (IF=5.131)",
+            "citation_count": 0,
+            "volume_issue_pages": "null",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Advancing Basalt Fiber Asphalt Concrete Design: A Novel Approach Using Gradient Boosting and Metaheuristic Algorithms",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Case Studies in Construction Materials, Elsevier",
+            "journal_ranking": "SCIE Q1 (IF=6.2, H-index=62)",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 19, Article e02528",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Dự báo cường độ chịu nén của bê tông xi măng cốt sợi kết hợp nano-silica bằng mô hình tăng cường độ dốc cấp cao có tinh chỉnh các siêu tham số bằng phương pháp tìm kiếm ngẫu nhiên",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 04, Pages 67-70",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Xây dựng mô hình CatBoost để dự báo độ ổn định Marshall cho hỗn hợp bê tông nhựa chặt",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giao thông vận tải, ISSN: 2354-0818",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Issue 06, Pages 60-63",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Application of extreme gradient boosting in predicting the viscoelastic characteristics of graphene oxide modified asphalt at medium and high temperatures",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Frontiers of Structural and Civil Engineering, eISSN: 2095-2449",
+            "journal_ranking": "SCIE Q1 (IF=3.25)",
+            "citation_count": 0,
+            "volume_issue_pages": "null",
+            "published_date": "06/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu xác định tải trọng giới hạn của tấm bê tông xi măng mặt đường có xét đến ảnh hưởng của biến dạng trượt ngang",
+            "role": "Principal Investigator",
+            "project_code": "DT171815",
+            "management_level": "Trường Đại học Công nghệ GTVT",
+            "period": "03/2018-12/2018",
+            "acceptance_date": "14/12/2018",
+            "rating": "A"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng trí tuệ nhân tạo để dự đoán cường độ chịu nén của bê tông tự đầm sử dụng trong xây dựng đường",
+            "role": "Principal Investigator",
+            "project_code": "DT202114",
+            "management_level": "Trường Đại học Công nghệ GTVT",
+            "period": "03/2021-01/2022",
+            "acceptance_date": "07/01/2022",
+            "rating": "A"
+        },
+        {
+            "title": "Nghiên cứu đề xuất giải pháp chế tạo bê tông tự chữa lành bằng công nghệ vi sinh vật để ứng dụng vào các cấu kiện bê tông cho các công trình giao thông",
+            "role": "Key Member",
+            "project_code": "DT214035",
+            "management_level": "Bộ GTVT",
+            "period": "12/2020-06/2022",
+            "acceptance_date": "15/11/2022",
+            "rating": "Không"
+        },
+        {
+            "title": "TCVN Lớp mặt đường bằng hỗn hợp nhựa nóng - Thi công và nghiệm thu. Phân 5: BTNC",
+            "role": "Participant",
+            "project_code": "TC 2342",
+            "management_level": "Bộ GTVT",
+            "period": "6/2023-5/2024",
+            "acceptance_date": "null",
+            "rating": "null"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phân tích giới hạn tấm chữ",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Khoa học tự",
+            "publish_year": "null",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "p. 1 to end",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách phục vụ đào tạo của Trường ĐH"
+        },
+        {
+            "title": "Dự toán công trình",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Xây dựng",
+            "publish_year": "2020",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "p. 18 to p. 55",
+            "verification_document_id": "Giấy xác nhận mục đích sử dụng sách phục vụ đào tạo của Trường ĐH CNGTVT ngày 15/01/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo trình độ Đại học chuyên ngành “Hạ tầng giao thông đô thị thông minh” thuộc ngành Công nghệ kỹ thuật giao thông: Thành viên tổ soạn thảo chương trình đào tạo",
+            "applicant_role": "Participant",
+            "assignment_document_id": "Quyết định số 789-QĐ/ĐHCNGTVT ngày 08/03/2021",
+            "certifying_authority": "Trường Đại học Công nghệ GTVT",
+            "implementation_document_id": "Quyết định số 2627/QĐ-ĐHCNGTVT ngày 28/07/2021",
+            "notes": "null"
+        },
+        {
+            "title": "Chương trình đào tạo trình độ tiến sĩ ngành Quản lý xây dựng (mã ngành 9580302): Ban xây dựng chương trình đào tạo",
+            "applicant_role": "Participant",
+            "assignment_document_id": "Quyết định số 1994-QĐ/ĐHCNGTVT ngày 02/06/2021",
+            "certifying_authority": "Trường Đại học Công nghệ GTVT",
+            "implementation_document_id": "Quyết định số 2521 - QĐ/ĐHCNGTVT ngày 15/7/2021",
+            "notes": "null"
+        },
+        {
+            "title": "Chương trình đào tạo trình độ thạc sĩ, ngành Kỹ thuật xây dựng công trình giao thông, chuyên ngành CNKT xây dựng đường ô tô”: Tiểu ban điều chỉnh chương trình đào tạo",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "Quyết định số 5147-QĐ/ĐHCNGTVT ngày 18/11/2021",
+            "certifying_authority": "Trường Đại học Công nghệ GTVT",
+            "implementation_document_id": "Quyết định số 5899 - QĐ/ĐHCNGTVT ngày 29/12/2021",
+            "notes": "null"
+        },
+        {
+            "title": "Chương trình đào tạo trình độ Đại học, chuyên ngành Thanh tra và Quản lý công trình giao thông thuộc ngành Công nghệ kỹ thuật xây dựng công trình giao thông: Thành viên hội đồng Xây dựng chương trình đào tạo",
+            "applicant_role": "Participant",
+            "assignment_document_id": "Quyết định số 839 - QĐ/ĐHCNGTVT ngày 14/02 /2023",
+            "certifying_authority": "Trường Đại học Công nghệ GTVT",
+            "implementation_document_id": "Quyết định số 2176 - QĐ/ĐHCNGTVT ngày 07/04/2023",
+            "notes": "null"
+        },
+        {
+            "title": "Nhóm Nghiên cứu mạnh “Ứng dụng Công nghệ 4.0 trong Giao thông vận tải”, tên tiếng Anh: “Application of Industry 4.0 in Transportation – I4T”",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "Quyết định số 5280-QĐ/ĐHCNGTVT ngày 29/11/2021",
+            "certifying_authority": "Trường Đại học Công nghệ GTVT",
+            "implementation_document_id": "Quyết định số 5280-QĐ/ĐHCNGTVT ngày 29/11/2021",
+            "notes": "null"
+        }
+    ]
+}

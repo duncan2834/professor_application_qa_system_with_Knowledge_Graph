@@ -1,0 +1,435 @@
+{
+    "papers": [
+        {
+            "title": "Single-firm inference in event studies via the permutation test. https://doi.org/10.1007/s00181-023-02530-7",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Empirical Economics, Springer. ISSN: 1435-8921",
+            "journal_ranking": "ISI (SSCI) (IF=3.2), Scopus, Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 66 (6), 2435-2450",
+            "published_date": "2024"
+        },
+        {
+            "title": "Systemic risk and financial system network using Financial Risk Meter: the case of Vietnam. https://doi.org/10.1080/00036846.2023.2174936",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Economics, Taylor & Francis. ISSN: 1466-4283",
+            "journal_ranking": "ISI (SSCI) (IF=2.2), Scopus, Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol 56 (9), 1012-1034.",
+            "published_date": "2023"
+        },
+        {
+            "title": "The effect of mergers and acquisitions on the efficiency of Vietnam banking system during the restructuring period. https://doi.org/10.1080/23322039.2022.2127221",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Economics and Finance, Taylor & Francis. ISSN: 2332-2039",
+            "journal_ranking": "ISI (ESCI), Scopus, Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol 10 (1), 1-25.",
+            "published_date": "2022"
+        },
+        {
+            "title": "An Investigation of the Efficiency of Insurance Companies in Vietnam - Using Data Envelopment Analysis and Malmquist Index. https://doi.org/10.13106/jafeb.2022.vol9.no7.0261",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business. ISSN: 2288-4645",
+            "journal_ranking": "ISI (ESCI), Scopus, Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol 9 (7), 261-271",
+            "published_date": "2022"
+        },
+        {
+            "title": "Optimal capital adequacy ratios for commercial banks: empirical evidence from Vietnam. https://doi.org/10.13106/jafeb.2021.vol8.no10.0047",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business. ISSN: 2288-4645",
+            "journal_ranking": "ISI (ESCI), Scopus, Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 8 (10), 47-56",
+            "published_date": "2021"
+        },
+        {
+            "title": "Optimal capital adequacy ratio: An investigation of Vietnamese commercial banks using two-stage DEA. https://doi.org/10.1080/23311975.2020.1870796",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management, Taylor & Francis. ISSN: 2331-1975",
+            "journal_ranking": "ISI (ESCI), Scopus, Q2",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol. 8 (1), 1-21",
+            "published_date": "2021"
+        },
+        {
+            "title": "How Small- and Medium-Sized Enterprise Innovation Affects Credit Accessibility: The Case of Vietnam. https://doi.org/10.3390/su12229559",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability. ISSN: 2071-1050",
+            "journal_ranking": "ISI (SSCI) (IF=3.94), Scopus, Q1",
+            "citation_count": 43,
+            "volume_issue_pages": "Vol 12 (22), 1-17",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nonparametric analysis of bank merger gains: the case of Vietnam. https://doi.org/10.1080/23311975.2020.1823582",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management, Taylor & Francis. ISSN: 2331-1975",
+            "journal_ranking": "ISI (ESCI), Scopus, Q2",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol. 7 (1), 1-17",
+            "published_date": "2020"
+        },
+        {
+            "title": "Effect of Bank Merger on Efficiency using Stochastic Frontier Analysis: the case of Vietnam. Journal PDF file",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Critical Reviews. ISSN: 2394-5125",
+            "journal_ranking": "Scopus năm 2020",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 7 (16), 320-329",
+            "published_date": "2020"
+        },
+        {
+            "title": "Estimating potential gains from bank mergers in Vietnam using two-stage Data Envelopment Analysis. Journal PDF file",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Critical Reviews. ISSN: 2394-5125",
+            "journal_ranking": "Scopus năm 2020",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 7 (16), 330-339",
+            "published_date": "2020"
+        },
+        {
+            "title": "Productivity Convergence in Vietnamese Manufacturing Industry: Evidence using a Spatial Durbin Model. https://link.springer.com/chapter/10.1007/978-3-319-27284-9_39",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Studies in Computational Intelligence, Causal Inference in Econometrics, Springer. ISSN: 1860-949X ISBN: 978-3-319-27284-9",
+            "journal_ranking": "Scopus, Q3",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 622, 603-619",
+            "published_date": "2016"
+        },
+        {
+            "title": "Productivity and Efficiency of Vietnamese Banking System: New evidence using Färe-Primont Index Analysis. https://doi.org/10.1080/00036846.2015.1030565",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Applied Economics, Taylor & Francis. ISSN: 1466-4283",
+            "journal_ranking": "ISI (SSCI) (IF=2.2), Scopus Q2",
+            "citation_count": 40,
+            "volume_issue_pages": "Vol 47 (41), 4395-4407",
+            "published_date": "2015"
+        },
+        {
+            "title": "Multivariate dependence concepts through copulas. https://doi.org/10.1016/j.ijar.2015.04.004",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Approximate Reasoning, Elsevier. ISSN: 0888-613X",
+            "journal_ranking": "ISI (SCIE) (IF=3.9), Scopus Q1",
+            "citation_count": 19,
+            "volume_issue_pages": "Vol. 65, 24-33",
+            "published_date": "2015"
+        },
+        {
+            "title": "The joint belief function and Shapley value for the joint cooperative game. https://doi.org/10.1007/978-3-319-13449-9_8",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Studies in Computational Intelligence, Econometrics of Risk, Springer. ISSN: 1860-949X ISBN: 978-3-319-13449-9",
+            "journal_ranking": "Scopus, Q4 (Q3 năm 2016)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 583, 115-133",
+            "published_date": "2015"
+        },
+        {
+            "title": "Towards Generalizing Bayesian Statistics: A Random Fuzzy Set Approach. https://doi.org/10.1007/978-3-319-13449-9_10",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Studies in Computational Intelligence, Econometrics of Risk, Springer. ISSN: 1860-949X",
+            "journal_ranking": "Scopus, Q4 (Q3 năm 2016)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 583, 149-160",
+            "published_date": "2015"
+        },
+        {
+            "title": "Boundary stabilization of the Navier-Stokes equations in the case of Mixed boundary condition. https://doi.org/10.1137/13091364X",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "SIAM Journal on Control and Optimization. ISSN: 1095-7138",
+            "journal_ranking": "ISI (SCI) (IF=2.2), Scopus, Q1",
+            "citation_count": 46,
+            "volume_issue_pages": "Vol 53 (5), 3006-3039",
+            "published_date": "2015"
+        },
+        {
+            "title": "Pointwise control of the Boussinesq System. https://doi.org/10.1016/j.sysconle.2011.01.006",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Systems and Control Letters, Elsevier. ISSN: 1872-7956",
+            "journal_ranking": "ISI (SCI) (IF=2.6), Scopus, Q1",
+            "citation_count": 25,
+            "volume_issue_pages": "Vol. 60, 249-255",
+            "published_date": "2011"
+        },
+        {
+            "title": "Control localized on thin structures for the linearized Boussinesq system. https://doi.org/10.1007/s10957-008-9479-y",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Optimization Theory and Applications, Springer. ISSN: 1573-2878",
+            "journal_ranking": "ISI (SCI) (IF=1.9), Scopus, Q1",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol. 141, 147-165",
+            "published_date": "2009"
+        },
+        {
+            "title": "Control localized on thin structures for semi-linear parabolic equations. https://doi.org/10.1016/S0168-2024(02)80027-3",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Studies in Mathematics and its Applications, Elsevier. ISSN: 01682024 ISBN: 978-0-444-51103-4",
+            "journal_ranking": "Scopus, Q4 (Q3 năm 2004)",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol. 31, 591-645",
+            "published_date": "2002"
+        },
+        {
+            "title": "Control problems for convection diffusion equations with control localized on manifolds. https://doi.org/10.1051/cocv:2001118",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "ESAIM Control, Optimization and Calculus of Variations. ISSN: 1262-3377",
+            "journal_ranking": "ISI (SCI) (IF=1.4), Scopus, Q1",
+            "citation_count": 51,
+            "volume_issue_pages": "Vol. 6, 467-488",
+            "published_date": "2001"
+        },
+        {
+            "title": "The Impacts of Fiscal and Macroeconomic Factors on Vietnam Government Bond Yield. https://doi.org/10.5539/ijef.v14n8p23",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Economics and Finance. ISSN: 1916-9728",
+            "journal_ranking": "Tạp chí Quốc tế",
+            "citation_count": 3,
+            "volume_issue_pages": "14 (8), 23-35",
+            "published_date": "2022"
+        },
+        {
+            "title": "Factors Affecting Bank Risks in Vietnam. https://doi.org/10.5539/ijef.v13n10p42",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Economics and Finance. ISSN: 1916-9728",
+            "journal_ranking": "Tạp chí Quốc tế",
+            "citation_count": 4,
+            "volume_issue_pages": "13 (10), 42-53",
+            "published_date": "2021"
+        },
+        {
+            "title": "Productivity Growth, Technological Progress, and Efficiency Change in Vietnamese Manufacturing Industries: A Stochastic Frontier Approach. https://doi.org/10.4236/ojs.2012.22028",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Open Journal of Statistics. ISSN: 2161-7198",
+            "journal_ranking": "Tạp chí Quốc tế",
+            "citation_count": 11,
+            "volume_issue_pages": "2 (2) 224-235",
+            "published_date": "2012"
+        },
+        {
+            "title": "Target Risk of Portfolio with Return Constraints: Portfolio Optimization using Conditional Value-at-Risk",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Mathematical Applications. (Tập san đặc biệt của Hội nghị Quốc tế VIAMC International Conference on Applied Mathematics 2017) ISSN: 1859 - 4492",
+            "journal_ranking": "Tạp chí trong nước (Tập san đặc biệt hội nghị quốc tế. Tiểu ban Kinh tế lượng)",
+            "citation_count": 16,
+            "volume_issue_pages": "16 (1) 85-100",
+            "published_date": "2018"
+        },
+        {
+            "title": "Bank Efficiency Analysis and the Choice of Risk Control Variables: The Case of Vietnamese Commercial Banks.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị quốc tế. International Conference on Business, Management, Accounting, Tourism & Hospitality. (ICBMATH, Thái Lan) ISBN: 978-967-15509-6-0",
+            "journal_ranking": "Kỷ yếu hội nghị quốc tế",
+            "citation_count": 1,
+            "volume_issue_pages": "1-5",
+            "published_date": "2018"
+        },
+        {
+            "title": "Pricing the insurance product with Generalized Linear Models",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị quốc tế VIAMC. International Conference on Applied Mathematics. ISBN: 978-604-80-3259-3",
+            "journal_ranking": "Kỷ yếu hội nghị quốc tế. (Tiểu ban Kinh tế lượng)",
+            "citation_count": 112,
+            "volume_issue_pages": "112-125",
+            "published_date": "2017"
+        },
+        {
+            "title": "The efficiency of Vietnamese commercial banks during the restructuring period using Data Envelopment Analysis",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị quốc tế VIAMC. International Conference on Applied Mathematics. ISBN: 978-604-80-3259-3",
+            "journal_ranking": "Kỷ yếu hội nghị quốc tế. (Tiểu ban Kinh tế lượng)",
+            "citation_count": 148,
+            "volume_issue_pages": "148-160",
+            "published_date": "2017"
+        },
+        {
+            "title": "Applying Principal Component Analysis to stock portfolio management in Ho Chi Minh Stock Exchange",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị quốc tế VIAMC. International Conference on Applied Mathematics. ISBN: 978-604-80-3259-3",
+            "journal_ranking": "Kỷ yếu hội nghị quốc tế.",
+            "citation_count": 25,
+            "volume_issue_pages": "25-42",
+            "published_date": "2017"
+        },
+        {
+            "title": "Comparative analysis of determinants on ODA flowed from Korea and Japan to Asia.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị quốc tế VIAMC. International Conference on Applied Mathematics. ISBN: 978-604-80-3259-3",
+            "journal_ranking": "Kỷ yếu hội nghị quốc tế. (Tiểu ban Kinh tế lượng)",
+            "citation_count": 43,
+            "volume_issue_pages": "43-58",
+            "published_date": "2017"
+        },
+        {
+            "title": "Impact of Diversification on Efficiency of Commercial Banks: Evidence from Vietnam. https://mba.nida.ac.th/files/Conference%202018/NIDA_Conference_Proceedings_Final2017.pdf",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị quốc tế NIDA. International Business Conference. (Thái Lan) ISBN: 978-974-231-927-4",
+            "journal_ranking": "Kỷ yếu hội nghị quốc tế",
+            "citation_count": 320,
+            "volume_issue_pages": "320-331",
+            "published_date": "2017"
+        },
+        {
+            "title": "How non-performing loans affect the efficiency and productivity of Vietnamese commercial banks: A non-parametric assessment",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị quốc tế Asia Pacific Industrial Engineering Management Systems (APIEMS) ISBN: 978-604-73-3787-3",
+            "journal_ranking": "Kỷ yếu hội nghị quốc tế",
+            "citation_count": 411,
+            "volume_issue_pages": "411-419",
+            "published_date": "2015"
+        },
+        {
+            "title": "Financial Ratios and Efficiency of Vietnamese Banks: A Semiparametric Approach",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị quốc tế New Perspectives in Business, Economics and Management Research and Practice International Conference. ISBN: 978-616-92401-0-5",
+            "journal_ranking": "Kỷ yếu hội nghị quốc tế",
+            "citation_count": 586,
+            "volume_issue_pages": "586-594",
+            "published_date": "2015"
+        },
+        {
+            "title": "Non-parametric Methods and Applications in Economics",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Mathematical Applications. (Tập san đặc biệt của Hội nghị Quốc tế VIAMC International Conference on Applied Mathematics 2013) ISSN: 1859 - 4492",
+            "journal_ranking": "Tạp chí trong nước (Tập san đặc biệt hội nghị quốc tế)",
+            "citation_count": 2,
+            "volume_issue_pages": "12 (2) 1-24",
+            "published_date": "2014"
+        },
+        {
+            "title": "Một số vấn đề đặt ra cho việc đào tạo Công nghệ thông tin trong ngành Ngân hàng. https://vjol.info.vn/index.php/DHNH TPHCM/issue/view/1443 https://ajeb.hub.edu.vn/vi/issue/so-1-1",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Ngân hàng. ISSN: 1859-3682 (Nay là tạp chí Kinh tế và Ngân hàng châu Á)",
+            "journal_ranking": "Tạp chí trong nước",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 1, 56-60",
+            "published_date": "2004"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Phân tích định lượng việc tái cấu trúc hệ thống ngân hàng Việt Nam sử dụng phương pháp phi tham số đánh giá tính hiệu quả các ngân hàng",
+            "role": "Principal Investigator",
+            "project_code": "C2017-28-01",
+            "management_level": "Đề tài cấp ĐHQG loại C",
+            "period": "2017-2020",
+            "acceptance_date": "29/04/2020",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Phân tích các tình huống giảng dạy sinh viên ngành Quản trị Kinh doanh",
+            "role": "Key Member",
+            "project_code": "C2016-28-04",
+            "management_level": "Đề tài cấp ĐHQG loại C",
+            "period": "2016-2018",
+            "acceptance_date": "10/2018",
+            "rating": ""
+        },
+        {
+            "title": "Tính hiệu quả của các Ngân hàng thương mại Việt Nam: một số kết quả mới dùng phương pháp ước lượng phi tham số",
+            "role": "Principal Investigator",
+            "project_code": "T2016-01-BA",
+            "management_level": "Đề tài cấp Trường",
+            "period": "2016-2017",
+            "acceptance_date": "28/11/2017",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Hội tụ năng suất, hiệu quả và hội tụ thu nhập theo vùng: lý thuyết và thực nghiệm.",
+            "role": "Key Member",
+            "project_code": "II2.2-2012.18",
+            "management_level": "Đề tài cấp Bộ (Nafosted)",
+            "period": "2013-2015",
+            "acceptance_date": "10/2015",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Một số vấn đề nghiên cứu chọn lọc trong Quy hoạch toán học và ứng dụng",
+            "role": "Principal Investigator",
+            "project_code": "101.01.43.09",
+            "management_level": "Đề tài cấp Bộ (Nafosted)",
+            "period": "12/2009-12/2012",
+            "acceptance_date": "03/2013",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Điều khiển tối ưu của dòng chảy",
+            "role": "Principal Investigator",
+            "project_code": "T2009-38",
+            "management_level": "Đề tài cấp Trường",
+            "period": "2009",
+            "acceptance_date": "12/2009",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Chương 5. Kiểm định hội tụ năng suất ở cấp doanh nghiệp của nền kinh tế dưới điều kiện tác động của đầu tư trực tiếp nước ngoài. Tên sách: Hội tụ năng suất, hiệu quả và hội tụ thu nhập theo vùng",
+            "type": "Monograph",
+            "publisher": "NXB Khoa học Kỹ thuật.",
+            "publish_year": "2015",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "119-143",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Chương 14. Nợ xấu và hiệu quả hoạt động của Ngân hàng Thương mại tại Việt Nam. Tên sách: Các tình huống giảng dạy sinh viên ngành Quản trị Kinh doanh",
+            "type": "Reference Book",
+            "publisher": "NXB ĐH Quốc gia TPHCM.",
+            "publish_year": "2018",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "144-153",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Chương 13. Sự đa dạng hóa tác động đến hiệu quả của Ngân hàng Thương mại tại Việt Nam như thế nào? Tên sách: Các tình huống giảng dạy sinh viên ngành Quản trị Kinh doanh",
+            "type": "Reference Book",
+            "publisher": "NXB ĐH Quốc gia TPHCM.",
+            "publish_year": "2018",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "135-143",
+            "verification_document_id": ""
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

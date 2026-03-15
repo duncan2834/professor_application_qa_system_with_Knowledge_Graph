@@ -1,0 +1,1263 @@
+{
+    "papers": [
+        {
+            "title": "Túi thừa thất trái. Nhân trường hợp thứ 2 được mổ tại Bệnh viện Việt Đức Hà Nội",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa ISSN: 0868-3182",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXV 24-25",
+            "published_date": "1995"
+        },
+        {
+            "title": "Kết quả nghiên cứu ghép thận thực nghiệm tại Bệnh viện Việt Đức (từ tháng 10 – 1993 đến tháng 11-1995).",
+            "num_authors": 22,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa ISSN: 0868-3182",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXIX 1-6",
+            "published_date": "1996"
+        },
+        {
+            "title": "Vỡ phế quản trong chấn thương ngực kín (nhân hai trường hợp đầu tiên của phẫu thuật phục hồi phế quản).",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa ISSN: 0868-3182",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXI 16-22",
+            "published_date": "1997"
+        },
+        {
+            "title": "Điều trị ngoại khoa cao huyết áp do hẹp động mạch thận",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa ISSN: 0868-3182",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XXX 21-25",
+            "published_date": "1997"
+        },
+        {
+            "title": "Hai trường hợp dùng thông khí dạng phun tia tần số bình thường (NFJV) trong mổ cắt nối khí quản",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa ISSN: 0868-316",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XLI 47-50",
+            "published_date": "2000"
+        },
+        {
+            "title": "Hẹp van hai lá do thấp: Đối chiếu mức độ thương tổn trên siêu âm và kết quả phẫu thuật tách van tim kín.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa ISSN: 0868-3182",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XLVII 5-12",
+            "published_date": "2001"
+        },
+        {
+            "title": "Kĩ thuật điều trị ngoại khoa ung thư thận có xâm lấn tĩnh mạch chủ dưới",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa ISSN: 0868-3182",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "XLVI 8-17",
+            "published_date": "2001"
+        },
+        {
+            "title": "Nhân trường hợp chấn thương động mạch thận",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 0866-7241",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 423 33-35",
+            "published_date": "2002"
+        },
+        {
+            "title": "Nhân một trường hợp ghép van động mạch phổi tự thân (Phẫu thuật Ross) trong điều trị bệnh osler van động mạch chủ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tim mạch học Việt nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 30 42-45",
+            "published_date": "2002"
+        },
+        {
+            "title": "Nhân trường hợp dò động mạch chủ thực quản do hóc xương",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 0866-7241",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 421 94-96",
+            "published_date": "2002"
+        },
+        {
+            "title": "Phẫu thuật động mạch chủ trong hội chứng Marfan",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa ISSN: 0868-3182",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 53 27-39",
+            "published_date": "2003"
+        },
+        {
+            "title": "Gây tê ngoài màng cứng cho bệnh nhân tỉnh tự thở trong phẫu thuật động mạch vành không dùng tuần hoàn ngoài cơ thể",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt Tập 328 43-48",
+            "published_date": "2006"
+        },
+        {
+            "title": "Kết quả bước đầu phẫu thuật tim hở cho trẻ nhỏ tại Bệnh viện Việt Đức",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "SỐ ĐB Tập 328 77-80",
+            "published_date": "2006"
+        },
+        {
+            "title": "Phẫu thuật động mạch chủ ngực tại Bệnh viện Việt Đức 2002-2006",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "SỐ ĐB Tập 328 104-109",
+            "published_date": "2006"
+        },
+        {
+            "title": "Đánh giá tình hình cấp cứu chấn thương lồng ngực tại Bệnh viện Việt Đức giai đoạn 2004-2006",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "SỐ ĐB Tập 328 402-413",
+            "published_date": "2006"
+        },
+        {
+            "title": "Closure of subarterial ventricular septal defect with minimally invasive surgical technique: A case report. https://doi.org/10.1016/j.ijscr.2019.04.025",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Surgery Case Reports ISSN/eISSN: 2213-5766",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 2,
+            "volume_issue_pages": "58: 142-144",
+            "published_date": "2019"
+        },
+        {
+            "title": "Minimally Invasive Thoracoscopic Mitral Valve Replacement in Rheumatic Disease with Continuous Suture Technique https://doi.org/10.1177/1556984519871537",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Innovations: Technology and Techniques in Cardiothoracic and Vascular Surgery ISSN: 15569845, 15590879",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "14(6):5 58-563.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Economic burden of venous thromboembolism in surgical patients: A propensity score analysis from the national claims database in Vietnam https://doi.org/10.1371/journal.pone.0231411",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "PLOS ONE ISSN: 19326203",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "15(4): e0231411",
+            "published_date": "2020"
+        },
+        {
+            "title": "Impact of Central Quarantine Inside a Lockdown Hospital Due to COVID-19 Pandemic on Psychological Disorders among Health Care Staffs in Central Hospitals of Hanoi, Vietnam, 2020. https://doi.org/10.1177/1178632921999662",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Health Services Insights ISSN: 11786329",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "15:14:1 178632 921999 662",
+            "published_date": "2021"
+        },
+        {
+            "title": "Respiratory complications after surgery in Vietnam: National estimates of the economic burden. https://doi.org/10.1016/j.lanwpc.2021.100125",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Lancet Regional Health - Western Pacific ISSN/eISSN: 26666065",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "10:100 125",
+            "published_date": "2021"
+        },
+        {
+            "title": "Myocardial Infarction Complications After Surgery in Vietnam: Estimates of Incremental Cost, Readmission Risk, and Length of Hospital Stay. https://doi.org/10.3389/fpubh.2021.799529",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Frontiers in Public Health ISSN/EISSN 22962565",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "10:9:79 9529",
+            "published_date": "2021"
+        },
+        {
+            "title": "Cost of postoperative sepsis in Vietnam https://doi.org/10.1038/s41598-022-08881",
+            "num_authors": 17,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientific Reports ISSN: 20452322",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "12(1):4 876.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Multimodality imaging in the diagnosis of bioprosthetic aortic valve endocarditis: A case report https://doi.org/10.1016/j.amsu.2022.104238",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Annals of Medicine and Surgery ISSN: 20490801",
+            "journal_ranking": "PubMed",
+            "citation_count": 0,
+            "volume_issue_pages": "31:80:1 04238.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Concomitant intramyocardial and hepatic hydatid cysts diagnosed by multi-modality imaging: A rare case report https://doi.org/10.3389/fcvm.2022.1055000",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Frontiers in Cardiovascular Medicine ISSN 2297055X",
+            "journal_ranking": "Scopus Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "4:9:105 5000",
+            "published_date": "2022"
+        },
+        {
+            "title": "Incidence and risk factors for delirium after open heart surgery with cardiopulmonary bypass https://doi.org/10.35975/apic.v27i6.2354",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Anaesthesia, Pain & Intensive Care ISSN: 16078322, 22205799",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "27(6):6 39-645",
+            "published_date": "2023"
+        },
+        {
+            "title": "Diagnostic accuracy of two-dimensional and three-dimensional transesophageal echocardiography in detecting pannus and thrombus in left mechanical valve obstruction https://doi.org/10.1097/MS9.0000000000000601",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Annals of Medicine and Surgery ISSN: 20490801",
+            "journal_ranking": "PubMed",
+            "citation_count": 0,
+            "volume_issue_pages": "85(5):1 358-1365.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Intervention lymphatic leakage after esophageal surgery due to esophageal cancer: A case report https://doi.org/10.1016/j.radcr.2024.08.044",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Radiology Case reports ISSN: 1930-0433",
+            "journal_ranking": "PubMed",
+            "citation_count": 0,
+            "volume_issue_pages": "19(12): 5888-5892.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Arteriovenous malformation in the kidney allograft: A rare cause of hematuria in the post-transplant patient https://doi.org/10.1016/j.radcr.2024.05.082",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Radiology Case reports ISSN: 19300433",
+            "journal_ranking": "PubMed",
+            "citation_count": 0,
+            "volume_issue_pages": "19(9):3 820-3823",
+            "published_date": "2024"
+        },
+        {
+            "title": "Salvage embolization after surgery failure in hemodynamically unstable severe-grade liver trauma https://doi.org/10.18528/ijgii240020",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Gastrointestinal Intervention ISSN: 26360004, 26360012",
+            "journal_ranking": "Scopus Q4, ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "13(3): 105-108",
+            "published_date": "2024"
+        },
+        {
+            "title": "Dual-energy computed tomography in supporting prostatic artery embolization for benign prostatic hyperplasia https://doi.org/10.7150/ijms.9631",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Medical Sciences ISSN: 14491907",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "21(9):1 640-1648.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Outcomes of middle meningeal artery embolization for treating chronic subdural hematoma https://doi.org/10.4081/itjm.2024.1759",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Italian Journal of Medicine eISSN 1877-9352 - PISSN 1877-9344",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "18(3)",
+            "published_date": "2024"
+        },
+        {
+            "title": "Preliminary and Intermediate-Term Results of the Novel Modification of Frozen Elephant Trunk: A Single-Center Study https://doi.org/10.3400/avd.oa.24-00004",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Annals of Vascular Diseases ISSN/eISSN: 1881-641X/1881-6428",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "17(4):3 65-370.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Evaluation of Thoracic Morphological Changes Using Chest CT in Patients with Congenital Pectus Carinatum Treated by the Modified Abramson Technique https://doi.org/10.5455/msm.2024.36.212-216",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Materia Socio Medica ISSN: 15127680, 1986597X",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "36(3): 212-216",
+            "published_date": "2024"
+        },
+        {
+            "title": "Gastrointestinal Perforation After Solid Organ Transplantation: A Case Series https://doi.org/10.7759/cureus.59977",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cureus Journal of Medical Science ISSN: 2168-8184",
+            "journal_ranking": "PubMed",
+            "citation_count": 0,
+            "volume_issue_pages": "16(5):e 59977.",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tuần hoàn ngoài cơ thể trong điều trị phẫu thuật bệnh lý động mạch chủ ngực tại Bệnh viện Việt Đức.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 352 Số 2 5-11",
+            "published_date": "2008"
+        },
+        {
+            "title": "Thay van hai lá có tuần hoàn ngoài cơ thể không làm ngừng tim.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 352 Số 2 38-41",
+            "published_date": "2008"
+        },
+        {
+            "title": "Kết quả điều trị u trung thất bằng phẫu thuật nội soi lồng ngực tại Bệnh viện Việt Đức.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 352 Số 2 413-419",
+            "published_date": "2008"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và kết quả điều trị phẫu thuật vết thương ngực bụng tại Bệnh viện Việt Đức.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 352 Số 2 557-562",
+            "published_date": "2008"
+        },
+        {
+            "title": "Hẹp khí phế quản do lao – điều trị phẫu thuật.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 352 Số 2 474-482",
+            "published_date": "2008"
+        },
+        {
+            "title": "Kết quả điều trị bệnh lý u trung thất bằng phẫu thuật nội soi lồng ngực (VATS) tại Bệnh viện Việt Đức.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 375 SỐ ĐB 441-446",
+            "published_date": "2010"
+        },
+        {
+            "title": "Cắt thùy phổi qua phẫu thuật nội soi lồng ngực tại Bệnh viện Việt Đức: nhân 3 trường hợp.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "375 SỐ ĐB 446-449",
+            "published_date": "2010"
+        },
+        {
+            "title": "Kết quả phẫu thuật bắc cầu chủ - vành tại Bệnh viện Việt Đức.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 375 SỐ ĐB 44-48",
+            "published_date": "2010"
+        },
+        {
+            "title": "Nghiên cứu ghép tim thực nghiệm tại Bệnh viện Việt Đức.",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 365 Số 2 50-53",
+            "published_date": "2010"
+        },
+        {
+            "title": "Tưới máu não chọn lọc trong phẫu thuật quai động mạch chủ.",
+            "num_authors": 1,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 418 Số 2 61-64",
+            "published_date": "2014"
+        },
+        {
+            "title": "Đánh giá kết quả sớm của phương pháp phẫu thuật bắc cầu chủ vành trong điều trị bệnh thiếu máu cơ tim cục bộ.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 417 Số 1 62-66",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm túi phình động mạch não giữa.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 416 35-38",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nhận xét những khó khăn trong mô khi phẫu thuật túi phình động mạch thông trước vỡ.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 417 Số 2 70-74",
+            "published_date": "2014"
+        },
+        {
+            "title": "Đánh giá đặc điểm lâm sàng và chẩn đoán hình ảnh khối dị dạng mạch máu não kích thước lớn.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 418 Số 2 42-46",
+            "published_date": "2014"
+        },
+        {
+            "title": "Một trường hợp xuất phát bất thường động mạch dưới đòn phải (Ateria Lusoria).",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 1859-1963",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4 (915) 36-38",
+            "published_date": "2014"
+        },
+        {
+            "title": "Thay van hai lá có tuần hoàn ngoài cơ thể không làm ngừng tim",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 1859-1963",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4 (915) 16-18",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nghiên cứu các rối loạn nhịp ở bệnh nhân thông liên nhĩ trước và sau đóng lỗ thông.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 417 Số 1 24-27",
+            "published_date": "2014"
+        },
+        {
+            "title": "Kết quả điều trị phẫu thuật khối dị dạng thông động tĩnh mạch não vỡ tại Bệnh viện Bạch Mai.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 425 Số 1 109-112",
+            "published_date": "2014"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị vi phẫu thuật phình động mạch đốt sống trong sọ.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 428 Số 2 21-25",
+            "published_date": "2015"
+        },
+        {
+            "title": "Điều trị túi phình động mạch thông trước bằng phẫu thuật ít xâm lấn.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 429 Số 2 45-48",
+            "published_date": "2015"
+        },
+        {
+            "title": "Kết quả điều trị vi phẫu thuật khối dị dạng thông động tĩnh mạch não vùng chẩm.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "429 136-139",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu chẩn đoán vị trí túi phình vỡ trong bệnh cảnh đa túi phình động mạch não.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 434 Số 2 56-59",
+            "published_date": "2015"
+        },
+        {
+            "title": "Một số đặc điểm ở bệnh nhân được phẫu thuật thay van động mạch chủ bằng van Freedom Solo.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tim mạch học Việt Nam ISSN: 1859-2848",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 69 84-89",
+            "published_date": "2015"
+        },
+        {
+            "title": "Một số nhận xét bước đầu về nguyên nhân và kết quả phẫu thuật thay lại van tim nhân tạo trên các bệnh nhân có biến chứng kẹt van nhân tạo.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 443 Số 1 149-153",
+            "published_date": "2016"
+        },
+        {
+            "title": "Ảnh hưởng của vị trí điện cực thất phải trong tạo nhịp tái đồng bộ tim.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 1859-1963",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4 (1005) 47-49",
+            "published_date": "2016"
+        },
+        {
+            "title": "Đặc điểm hình thái hệ tĩnh mạch vành ở bệnh nhân suy tim có chỉ định cấy máy tạo nhịp tái đồng bộ tim",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 1859-1963",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "4 (1005) 136-139",
+            "published_date": "2016"
+        },
+        {
+            "title": "Cơn tim nhanh vòng vào lại nút nhĩ thất không điển hình",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 11 Số 4 33-36",
+            "published_date": "2016"
+        },
+        {
+            "title": "Các biến chứng trong quá trình cấy máy tạo nhịp tái đồng bộ tim",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 11 Số 4 16-20",
+            "published_date": "2016"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng và hình ảnh phình động mạch đốt sống đoạn trong sọ",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "449 164-167",
+            "published_date": "2016"
+        },
+        {
+            "title": "Một số nhận xét về điều trị phẫu thuật các bệnh tim bẩm sinh ở người lớn tại Viện Tim mạch Việt Nam từ 2011 - 2015",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 452 Số 1 83-87",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đánh giá kĩ thuật khâu vắt trong phẫu thuật thay van hai lá tại Khoa Phẫu thuật Tim Mạch - Viện Tim Mạch - Bệnh viện Bạch Mai",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 1859-1963",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1 (1032) 195-196",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khối bất thường nhĩ phải: huyết khối hay u tim",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 451 Số 2 166-169",
+            "published_date": "2017"
+        },
+        {
+            "title": "Bước đầu đánh giá kết quả điều trị viêm nội tâm mạc nhiễm khuẩn bằng phẫu thuật sớm tại Viện Tim mạch - Bệnh viện Bạch Mai",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 450 Số 1 145-148",
+            "published_date": "2017"
+        },
+        {
+            "title": "Thái độ xử trí sản khoa đối với sản phụ bị bệnh van tim mắc phải từ 28 tuần trở lên",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 97 33-41",
+            "published_date": "2017"
+        },
+        {
+            "title": "Xử trí sản khoa các sản phụ mắc bệnh van tim trong 3 tháng cuối thai kì tại Bệnh viện Bạch Mai năm 2012-2013",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 97 100-108",
+            "published_date": "2017"
+        },
+        {
+            "title": "Bước đầu nghiên cứu hiệu quả của phương pháp phẫu thuật nội soi trên bệnh nhân phẫu thuật tim với tuần hoàn ngoài cơ thể tại Bệnh viện Bạch Mai.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân Sự ISSN: 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 42 Số 4 172-176",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khảo sát biến cố bất lợi liên quan đến thuốc cản quang chứa iốt thông qua can thiệp của dược sĩ lâm sàng tại Bệnh viện Bạch Mai.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN: 1859-1963",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 5 Số 5 (1043) 190-192",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khảo sát tình hình tiêu thụ kháng sinh Carbapenem tại Bệnh viện Bạch Mai trong giai đoạn từ năm 2012 đến năm 2016.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dược học ISSN: 0866-7861",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 495 Số 57 63-66",
+            "published_date": "2017"
+        },
+        {
+            "title": "Bất thường ebstein sửa chữa 1-1/2 thất (one and a half ventricle repair)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí phẫu thuật Tim mạch và Lồng ngực Việt Nam ISSN: 0866-7551",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 17 7-11",
+            "published_date": "2017"
+        },
+        {
+            "title": "Phình tiểu nhĩ trái khổng lồ bẩm sinh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí phẫu thuật Tim mạch và Lồng ngực Việt Nam ISSN: 0866-7551",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 17 12-15",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nhân một trường hợp rò động mạch chủ - thực quản sau đặt stent graft động mạch chủ được điều trị ngoại khoa thành công và nhìn lại y văn",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phẫu thuật Tim mạch và Lồng ngực Việt Nam ISSN: 0866-7551",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 17 16-21",
+            "published_date": "2017"
+        },
+        {
+            "title": "Phẫu thuật lóc động mạch chủ tuýp a: tuổi cáo có phải là chống chỉ định",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phẫu thuật Tim mạch và Lồng ngực Việt Nam ISSN: 0866-7551",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 17 21-25",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nghiên cứu đánh giá kết quả bước đầu phẫu thuật tim ít xâm lấn có nội soi hỗ trợ tại viện tim mạch, Bệnh viện Bạch Mai",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phẫu thuật Tim mạch và Lồng ngực Việt Nam ISSN: 0866-7551",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 18 15-25",
+            "published_date": "2017"
+        },
+        {
+            "title": "Bất thường tĩnh mạch phổi bán phần bên trái đổ về tĩnh mạch vô danh: nhân một trường hợp lâm sàng và nhìn lại y văn",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí phẫu thuật Tim mạch và Lồng ngực Việt Nam ISSN: 0866-7551",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 27 24-28",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nghiên cứu các yếu tố nguy cơ làm tăng tỷ lệ mắc huyết khối tĩnh mạch sau phẫu thuật tim ngực",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 504 số 2 87-91",
+            "published_date": "2021"
+        },
+        {
+            "title": "Kết quả phẫu thuật thay van hai lá ít xâm lấn có nội soi hỗ trợ qua đường ngực phải",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 137 số 1 135-145",
+            "published_date": "2021"
+        },
+        {
+            "title": "Kết quả sớm và trung hạn phẫu thuật thay van hai lá ít xâm lấn có nội soi hỗ trợ qua đường ngực phải tại Bệnh viện Bạch Mai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí phẫu thuật Tim mạch và Lồng ngực Việt Nam ISSN: 0866-7551",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 34 43-54",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đợt cấp của suy gan mãn tính: Báo cáo ca lâm sang được điều trị ghép gan và điểm lại y văn",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17 số 3 82-86",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá kết quả sớm phẫu thuật thay van hai lá và van động mạch chủ bằng van nhân tạo cơ học On-X tại Bệnh viện Bạch Mai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108 ISSN: 1859-2872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17 Số 5 117-121",
+            "published_date": "2022"
+        },
+        {
+            "title": "Hở van ba lá và rối loạn chức năng thất phải ở bệnh nhân sau phẫu thuật van hai lá có tạo hình van ba lá",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 514 số 1 253-258",
+            "published_date": "2022"
+        },
+        {
+            "title": "Hiệu quả giảm đau của phương pháp gây tê mặt dưới cơ dựng sống 1 bên (esp block) dưới hướng dẫn siêu âm cho phẫu thuật tim ít xâm lấn có nội soi",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 514 số 2 17-21",
+            "published_date": "2022"
+        },
+        {
+            "title": "Kết quả sớm phẫu thuật sửa toàn bộ điều trị thông sàn nhĩ thất bán phần ở người lớn tại bệnh viện bạch mai giai đoạn 2018 – 2021",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 521 số 2 35-40",
+            "published_date": "2022"
+        },
+        {
+            "title": "Giá trị tiên lượng của nồng độ lactat máu trên bệnh nhân phẫu thuật van tim có sử dụng tuần hoàn ngoài cơ thể",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 160 Số 12 256-265",
+            "published_date": "2022"
+        },
+        {
+            "title": "Sống còn và tiên lượng sau ghép tim tại việt nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tim mạch học Việt Nam ISSN: 1859-2848",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 102 102-103",
+            "published_date": "2022"
+        },
+        {
+            "title": "Minimally invasive video-assisted mitral valve replacement via right mini-thoracotomy",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tim mạch học Việt Nam ISSN: 1859-2848",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 103E 55-63",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ghép tim: chỉ định, điều trị và kết quả",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tim mạch học Việt Nam ISSN: 1859-2848",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 104 82-93",
+            "published_date": "2023"
+        },
+        {
+            "title": "Thay van động mạch chủ trên bệnh nhân trẻ tuổi: phẫu thuật ross liệu có phải là giải pháp khả thi?",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 163 Số 2 145-153",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đánh giá kết quả sớm phẫu thuật thay van động mạch chủ bằng van sinh học không gọng freedom solo",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 168 Số 7 94-105",
+            "published_date": "2023"
+        },
+        {
+            "title": "Phẫu thuật bắc cầu nối động mạch vành cho bệnh nhân cao tuổi tại bệnh viện bạch mai",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 176 Số 3 71-79",
+            "published_date": "2024"
+        },
+        {
+            "title": "Evaluation of feasibility and safety of nonintubated anesthesia video-assisted thoracoscopic thymectomy for myasthnia gravis",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 2354-080X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 179 Số 6 227-238",
+            "published_date": "2024"
+        },
+        {
+            "title": "Kỹ thuật takeuchi và bất thường động mạch vành trái từ động mạch phổi (hội chứng alcapa) ở người lớn: nhân một trường hợp lâm sàng và nhìn lại y văn",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 544 Số 1 179-183",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và siêu âm của bệnh lý van động mạch chủ hai lá van được phẫu thuật tại Bệnh viện hữu nghị Việt Đức",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 544 Số 3 28-31",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tổn thương mạch máu trong phẫu thuật cột sống thắt lưng: báo cáo ca lâm sàng và tổng quan y văn",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 545 Số 1 375-379",
+            "published_date": "2024"
+        },
+        {
+            "title": "Kết quả phẫu thuật bướu giáp thòng trung thất tại bệnh viện hữu nghị việt đức",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 545 số 2 1-5",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đặc điểm giải phẫu động mạch thắt lưng ứng dụng trong phẫu thuật hàn xương liên thân đốt cột sống lối bên",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 545 số 2 359-363",
+            "published_date": "2024"
+        },
+        {
+            "title": "Kết quả phẫu thuật vỡ phình xoang valsalva tại bệnh viện bạch mai",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 545 số 3 57-61",
+            "published_date": "2024"
+        },
+        {
+            "title": "Relationship between primary entry tear and surgical outcomes for acute type A aortic dissection: A single center experience",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa và Phẫu thuật nội soi Việt Nam ISSN: 1859-4506",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14 Số 3 5-11",
+            "published_date": "2024"
+        },
+        {
+            "title": "Bảo quản lạnh sâu mô mạch amus người để ghép tại ngân hàng mô – Bệnh viện hữu nghị Việt Đức",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngoại khoa và Phẫu thuật nội soi Việt Nam ISSN: 1859-4506",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14 Số 6 39-46",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đặc điểm các mảnh xương sọ bảo quản để ghep tự thân tại Ngân hàng Mô, Bệnh viện Hữu nghị Việt Đức",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam P - ISSN: 1859-4974",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 66 Số 9 49-52",
+            "published_date": "2024"
+        },
+        {
+            "title": "Bảo quản lạnh sâu mô van tim người để ghép tại Ngân hàng Mô, Bệnh viện Hữu nghị Việt Đức từ năm 2018 đến năm 2023",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam P - ISSN: 1859-4974",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 66 Số 11 76-80",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tình hình nhiễm khuẩn các sản phẩm mô ghép đồng loài tại Ngân hàng Mô, Bệnh viện Hữu nghị Việt Đức",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam P - ISSN: 1859-4974",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 66 Số 12 65-70",
+            "published_date": "2024"
+        },
+        {
+            "title": "Bước đầu nhận xét đặc điểm mô dây thần kinh đồng loài bảo quản lạnh sâu tại Ngân hàng Mô, Bệnh viện Hữu nghị Việt Đức",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam P - ISSN: 1859-4974",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 67 Số 2 61-67",
+            "published_date": "2025"
+        },
+        {
+            "title": "Bước đầu nhận xét đặc điểm mô khí quản đồng loài được bảo quản lạnh sâu tại Ngân hàng Mô, Bệnh viện Hữu nghị Việt Đức",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam P - ISSN: 1859-4974",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 67 Số 3 63-69",
+            "published_date": "2025"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và chỉ định phẫu thuật kết hợp xương sườn bằng nẹp vít điều trị chấn thương ngực tại bệnh viện hữu nghị việt đức",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 546 số 1 5-10",
+            "published_date": "2025"
+        },
+        {
+            "title": "Kinh nghiệm bước đầu ghép gan ở bệnh nhân xơ gan có huyết khối tĩnh mạch cửa",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 547 số 1 329-334",
+            "published_date": "2025"
+        },
+        {
+            "title": "Ứng dụng cắt lớp vi tính 64 lát cắt có dựng hình mạch máu đánh giá giải phẫu ngã ba chủ chậu trong phẫu thuật thay đĩa đệm nhân tạo cột sống thắt lưng cùng L5S1",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1868",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 547 số 2 186-189",
+            "published_date": "2025"
+        },
+        {
+            "title": "Đánh giá kết quả can thiệp nút mạch trong điều trị chấn thương thận có tổn thương động mạch",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Điện quang và Y học hạt nhân ISSN: 1859-4852",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 58 5-12",
+            "published_date": "2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu chỉ định và qui trình ứng dụng tuần hoàn ngoài cơ thể trong cấp cứu chấn thương, vết thương lồng ngực. Đề tài nhánh thuộc đề tài cấp Nhà nước: “Nghiên cứu ứng dụng một số kỹ thuật tiên tiến trong chản đoán và điều trị chấn thương, vết thương lồng ngực”.",
+            "role": "Principal Investigator",
+            "project_code": "ĐTĐL.2009G/18/03; ĐTĐL.2009G/18",
+            "management_level": "Bộ KH&CN (Đề tài cấp Nhà nước)",
+            "period": "1/2009-6/2011",
+            "acceptance_date": "26/4/2012",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu yếu tố nguy cơ, gánh nặng biến chứng, chẩn đoán, điều trị và dự phòng huyết khối tĩnh mạch sâu ở bệnh nhân phẫu thuật.",
+            "role": "Participant",
+            "project_code": "ĐTĐLLCN.53/16; 2020-64-790/KQNC",
+            "management_level": "Bộ KH&CN (Đề tài cấp Nhà nước)",
+            "period": "2016-2019",
+            "acceptance_date": "18/5/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu hiệu quả gây mê hồi sức trong phẫu thuật bệnh tim thông liên thất có tăng áp lực động mạch phổi nặng ở người trưởng thành.",
+            "role": "Principal Investigator",
+            "project_code": "BM-2015-570-233",
+            "management_level": "Bệnh viện Bạch Mai (Đề tài cấp cơ sở)",
+            "period": "10/2016-10/2017",
+            "acceptance_date": "7/4/2017",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Bước đầu nghiên cứu kết quả của phương pháp phẫu thuật nội soi trên các bệnh nhân phẫu thuật tim hở tại Viện Tim mạch – Bệnh viện Bạch Mai.",
+            "role": "Principal Investigator",
+            "project_code": "BM-2015-549-229",
+            "management_level": "Bệnh viện Bạch Mai (Đề tài cấp cơ sở)",
+            "period": "10/2016-10/2017",
+            "acceptance_date": "7/4/2017",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đánh giá người bệnh học sinh tai nạn giao thông do sử dụng xe đạp điện cấp cứu tại Bệnh viện Hữu nghị Việt Đức.",
+            "role": "Principal Investigator",
+            "project_code": "2024.HC01",
+            "management_level": "Bệnh viện Hữu nghị Việt Đức (Đề tài cấp cơ sở)",
+            "period": "11/2023-03/2024",
+            "acceptance_date": "26/11/2024",
+            "rating": "Khá"
+        },
+        {
+            "title": "Kết quả sớm phẫu thuật lóc động mạch chủ Stanford loại A cấp tính tại Bệnh viện Hữu nghị Việt Đức giai đoạn 2021 - 2022.",
+            "role": "Principal Investigator",
+            "project_code": "2024.TM03",
+            "management_level": "Bệnh viện Hữu nghị Việt Đức (Đề tài cấp cơ sở)",
+            "period": "01/2024-09/2024",
+            "acceptance_date": "16/12/2024",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Kết quả phẫu thuật kết hợp xương sườn bằng nẹp vít điều trị chấn thương ngực tại Bệnh viện Hữu nghị Việt Đức giai đoạn 2018 – 2023.",
+            "role": "Principal Investigator",
+            "project_code": "2024.TM01",
+            "management_level": "Bệnh viện Hữu nghị Việt Đức (Đề tài cấp cơ sở)",
+            "period": "3/2024-12/2024",
+            "acceptance_date": "26/12/2024",
+            "rating": "Khá"
+        },
+        {
+            "title": "Đánh giá kết quả can thiệp nút mạch trong điều trị chấn thương thận có tổn thương động mạch.",
+            "role": "Principal Investigator",
+            "project_code": "CS.24.04",
+            "management_level": "Trường Đại học Y Dược, ĐHQGHN (Đề tài cấp cơ sở)",
+            "period": "9/2024-9/2025",
+            "acceptance_date": "16/6/2025",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phẫu thuật mạch máu: Những nguyên tắc cơ bản (Lưu hành nội bộ)",
+            "type": "Reference Book",
+            "publisher": "Bệnh viện Hữu nghị Việt Đức, Khoa Phẫu thuật tim mạch và lồng ngực.",
+            "publish_year": "1997",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "18-41",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Phẫu thuật cấp cứu tim mạch và lồng ngực",
+            "type": "Reference Book",
+            "publisher": "Y học.",
+            "publish_year": "2001",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "125-149; 208-216",
+            "verification_document_id": "Giấy chứng nhận mục đích sử dụng sách ngày 28/8/2017 Trường ĐHYD Hải Phòng"
+        },
+        {
+            "title": "Cấp cứu ngoại khoa Tim mạch - Lồng ngực",
+            "type": "Reference Book",
+            "publisher": "Y học.",
+            "publish_year": "2005",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "96-114; 148-154",
+            "verification_document_id": "Giấy chứng nhận mục đích sử dụng sách ngày 28/8/2017 Trường ĐHYD Hải Phòng"
+        },
+        {
+            "title": "Phẫu thuật cấp cứu Tim mạch và Lồng Ngực những vấn đề thường gặp",
+            "type": "Reference Book",
+            "publisher": "Y học.",
+            "publish_year": "2009",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "106-120",
+            "verification_document_id": "Giấy chứng nhận mục đích sử dụng sách ngày 28/8/2017 Trường ĐHYD Hải Phòng"
+        },
+        {
+            "title": "Dịch tễ học các bệnh không truyền nhiễm",
+            "type": "Reference Book",
+            "publisher": "Y học.",
+            "publish_year": "2016",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "30-58",
+            "verification_document_id": "Giấy chứng nhận mục đích sử dụng sách ngày 29/8/2017 của Trường ĐHYD Hải Phòng"
+        },
+        {
+            "title": "Bài giảng bệnh học ngoại khoa (Dùng cho sinh viên năm thứ sáu)",
+            "type": "Textbook",
+            "publisher": "Y học.",
+            "publish_year": "2025",
+            "num_authors": 24,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "Quyết định 1503/QĐ-ĐHYHN ngày 06/5/2025 Trường Đại học Y Hà Nội."
+        },
+        {
+            "title": "Phẫu thuật Nội soi lồng ngực trong thực hành lâm sàng (GT giảng dạy cho các đối tượng Sau đại học)",
+            "type": "Textbook",
+            "publisher": "Y học.",
+            "publish_year": "2025",
+            "num_authors": 13,
+            "is_editor_in_chief": true,
+            "compiled_pages": "18-30",
+            "verification_document_id": "Quyết định 7567/QĐ-ĐHYHN ngày 12/11/2024 của Trường Đại học Y Hà Nội."
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

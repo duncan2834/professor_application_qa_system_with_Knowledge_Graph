@@ -1,0 +1,963 @@
+{
+    "papers": [
+        {
+            "title": "Comparison of CFRP and GFRP wraps on reducing seismic damage of deficient reinforced concrete structures https://doi.org/10.1007/s40999-019-00429-y",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Civil Engineering, ISSN/eISSN: 1735-0522/2383-3874",
+            "journal_ranking": "ISI, Scopus, (IF=2,17, Q2)",
+            "citation_count": 14,
+            "volume_issue_pages": "17,11, 1667-1681",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "Characterization of near-fault effects on potential cumulative damage of reinforced concrete bridge piers https://doi.org/10.1007/s40999-019-00428-z",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Civil Engineering, ISSN/eISSN: 1735-0522/2383-3874",
+            "journal_ranking": "ISI, Scopus, (IF=2,17, Q2)",
+            "citation_count": 10,
+            "volume_issue_pages": "17, 1603-1618",
+            "published_date": "4/2019"
+        },
+        {
+            "title": "Experimental behaviour of recycled aggregate concrete filled steel tubes under axial loading https://doi.org/10.1007/s40999-018-0383-z",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Civil Engineering, ISSN/eISSN: 1735-0522/2383-3874",
+            "journal_ranking": "ISI, Scopus, (IF=2,17, Q2)",
+            "citation_count": 11,
+            "volume_issue_pages": "17, 8, 1341-1351",
+            "published_date": "1/2019"
+        },
+        {
+            "title": "Effect of soil-structure interaction on seismic damage of mid-rise",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Earthquakes and Structures",
+            "journal_ranking": "ISI, Scopus, (IF=1,309, Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "15, 3, 307-317",
+            "published_date": "9/2018"
+        },
+        {
+            "title": "Seismic risk assessment of deficient reinforced concrete frames in near-fault regions https://doi.org/10.12989/acc.2014.24.261",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Concrete Construction, ISSN/eISSN: 2287-5301/2287-531X",
+            "journal_ranking": "ISI, Scopus, (IF=2,618, Q2)",
+            "citation_count": 3,
+            "volume_issue_pages": "2,4 (December 2014), 261-280",
+            "published_date": "12/2014"
+        },
+        {
+            "title": "Correlation between seismic parameters of far-fault motions and damage indices of low-rise reinforced concrete frames https://doi.org/10.1016/j.soildyn.2014.06.020",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Soil Dynamics and Earthquake Engineering, ISSN/eISSN: 0267-7261/1879-341X",
+            "journal_ranking": "ISI, Scopus, (IF=1,302, TOP20 Q1)",
+            "citation_count": 87,
+            "volume_issue_pages": "66, November 2014, 102-112",
+            "published_date": "7/2014"
+        },
+        {
+            "title": "Reducing the seismic damage of reinforced concrete frames using FRP confinement https://doi.org/10.1016/j.compstruct2014.07.038",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Composite Structures, ISSN/eISSN: 0263-8223/1879-1085",
+            "journal_ranking": "ISI, Scopus, (IF=3,120, TOP20 Q1)",
+            "citation_count": 14,
+            "volume_issue_pages": "118, December 2014, 403-415",
+            "published_date": "8/2014"
+        },
+        {
+            "title": "Correlation between parameters of pulse-type motions and damage of low-rise RC frames https://doi.org/10.12989/eas.2014.7.3.365",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Earthquakes and Structures, ISSN/ISSN: 2092-7614/2092-7622",
+            "journal_ranking": "ISI, Scopus, (IF=1,138, Q1)",
+            "citation_count": 19,
+            "volume_issue_pages": "7, 3, 365-384",
+            "published_date": "9/2014"
+        },
+        {
+            "title": "A new damage index for reinforced concrete structures https://doi.org/10.12989/eas.2014.6.6.581",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Earthquakes and Structures, ISSN/ISSN: 2092-7614/2092-7622",
+            "journal_ranking": "ISI, Scopus, (IF=1,138, Q1)",
+            "citation_count": 15,
+            "volume_issue_pages": "6, 6, 581-609",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "Reducing the potential seismic damage of reinforced concrete frames using plastic hinge relocation by FRP",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Composites Part B: Engineering, ISSN/ISSN:",
+            "journal_ranking": "ISI, Scopus, (IF=2,143, TOP20 Q1)",
+            "citation_count": 19,
+            "volume_issue_pages": "60, April 2014, 688-696",
+            "published_date": "12/2013"
+        },
+        {
+            "title": "A model for damage analysis of concrete https://doi.org/10.12989/acc.2013.1.2.187",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Concrete Construction, ISSN/ISSN: 2287-5301/2287-531X",
+            "journal_ranking": "ISI, Scopus, (IF=2,618, Q2)",
+            "citation_count": 17,
+            "volume_issue_pages": "1, 2, 187-200",
+            "published_date": "6/2013"
+        },
+        {
+            "title": "Explosive failure of FRP-confined concrete subjected to axial compressive loading",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6-2019, 255-258",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Experimental study on failure modes of fire-exposed reinforced concrete columns retrofitted by FRP",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6-2019, 193-198",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Effects of fire on cracks and spalling of reinforced concrete columns: an experimental study",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6-2019, 162-166",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Effects of fire on cracks and spalling of reinforced concrete beams: An experimental study",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6-2019, 66-70",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Effects of confinement on load-carrying capacity and failure modes of concrete filled steel tubes under axial compression",
+            "num_authors": 1,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6-2019, 278-281",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Experimental study on damage of concrete filled tubes exposed to fire",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6-2019, 37-40",
+            "published_date": "6/2019"
+        },
+        {
+            "title": "Comparing effectiveness of CFRP and GFRP confinement retrofits of reinforced concrete frames subjected to earthquakes",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11-2018, 19-25",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "A comparative study on CFRP and GFRP bonded reinforced concrete frames subjected to earthquakes",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11-2018, 26-31",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Comparing the experimental behaviour of concrete filled steel tubes subjected to cyclic and monotonic compression",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5-2019, 139-143",
+            "published_date": "5/2019"
+        },
+        {
+            "title": "Seismic damage assessment of reinforced concrete frames with consideration of aftershocks",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11-2018, 13-18",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Seismic damage assessment of reinforced concrete frames with consideration of soil - structure interaction",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5-2018, 11-16",
+            "published_date": "5/2018"
+        },
+        {
+            "title": "Flexural strengthening of reinforced concrete frames using CFRP",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9-2017, 20-25",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Application of damage index in seismic design of reinforced concrete structures",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9-2017, 188-193",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Seismic analysis of corroded reinforced concrete piers",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9-2017, 11-19",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Limitations of inter-storey drift in seismic damage assessment of structures https://vjol.info.vn/index.php/DHM-TPHCM/article/view/54167",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science - Ho Chi Minh City Open University, ISSN 1859-3453",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "20, 4, 46-53",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Seismic design of reinforced concrete structures with damage control",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science-Ho Chi Minh City Open University, ISSN 1859-3453",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "51, 6, 37-47",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Increasing seismic capacity of reinforced concrete frames by FRP retrofit",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "8-2016, 61-69",
+            "published_date": "8/2016"
+        },
+        {
+            "title": "Effect of transverse reinforcement on reducing seismic damage of reinforced concrete structures",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9-2015, 138-143",
+            "published_date": "9/2015"
+        },
+        {
+            "title": "Damage of multi-storey reinforced concrete buildings subjected to pulse-type ground motions",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9-2015, 144-150",
+            "published_date": "9/2015"
+        },
+        {
+            "title": "Effect of confinement on damage in reinforced concrete frames subjected to different seismic levels",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The second Conference on Smart Monitoring, Assessment and Rehabilitation of Civil Structures (SMAR) held in Istanbul, Turkey in September 2013, Istanbul – Turkey",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9/2013",
+            "published_date": "9/2013"
+        },
+        {
+            "title": "Damage assessment of a deficient reinforced concrete frame subjected to different seismic levels (DOI: 10.5176/2301-394X_ACE13.88)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of the 1st Annual International Conference on Architecture and Civil Engineering (ACE) held in Singapore, 2013, Singapore - Singapore",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "1-9",
+            "published_date": "2013"
+        },
+        {
+            "title": "A new damage index for reinforced concrete structures subjected to seismic loads",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The first International Postgraduate Conference on Engineering, Designing and",
+            "journal_ranking": "Scopus",
+            "citation_count": 5,
+            "volume_issue_pages": "5",
+            "published_date": "4/2011"
+        },
+        {
+            "title": "Monotonic and cyclic axial strengths of rectangular concrete columns circularized and retrofitted with low CFRP confinement. https://doi.org/10.1177/13694332251344648",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Structural Engineering",
+            "journal_ranking": "ISI, Scopus, (IF=2,1, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "0(0), 1-166/2025",
+            "published_date": "2025"
+        },
+        {
+            "title": "Axial Strengths of Circularized and Corner-Rounded Rectangular Reinforced Concrete Columns Confined with CFRP https://doi.org/10.1007/s40999-025-01128-7",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Civil Engineering",
+            "journal_ranking": "ISI, Scopus, (IF=1,8, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "0(0), 1-166/2025",
+            "published_date": "2025"
+        },
+        {
+            "title": "Fire behavior of Concrete Beams Reinforced with Various Combinations of GFRP and Steel. https://doi.org/10.28991/CEJ-2025-011-05-018",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Civil Engineering Journal",
+            "journal_ranking": "ISI, Scopus, (IF=4,3, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "11(5), 2045-2065",
+            "published_date": "5/2025"
+        },
+        {
+            "title": "Effects of CFRP U-Wraps on the Behavior of NSM GFRP Retrofitted Reinforced Concrete Beams.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Composites",
+            "journal_ranking": "ISI, Scopus, (IF=2,9, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "29(1), 040240875",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Effects of Material Properties and D/t Ratio on Performance of Square Concrete-Filled Steel Tube Beams. https://doi.org/10.1061/JSDCCC.SCENG-1580",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Structural Design and Construction Practice",
+            "journal_ranking": "ISI, Scopus, (IF=1,6, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "30(1), 040241005",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Characterizing Effects of Near-fault Earthquakes in Context of Response Spectra. https://doi.org/10.5829/ije.2025.38.02b.01",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Engineering",
+            "journal_ranking": "ISI, Scopus, (IF=1,5, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "38(2), 262-272",
+            "published_date": "2/2025"
+        },
+        {
+            "title": "Distributions of Stress and Strain in Concrete Filled Steel Tube Beams. https://doi.org/10.5829/ije.2024.37.12c.03",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Engineering",
+            "journal_ranking": "ISI, Scopus, (IF=1,5, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "37(12), 2452-2462",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Performance of NSM GFRP Retrofitted Postfire RC Slabs Under Monotonic and Cyclic Loadings. doi:https://doi.org/10.28991/CEJ-2024-010-06-017.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Civil Engineering Journal",
+            "journal_ranking": "ISI, Scopus, (IF=4,3, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "10(6), 1987-2006",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Behaviour of rectangular concrete-filled steel tube beams under monotonic and cyclic loadings https://doi.org/10.1016/j.jcsr.2024.108816",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Constructional Steel Research, ISSN/eISSN: 0143-974X/1873-5983",
+            "journal_ranking": "ISI, Scopus, (IF=4,1, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "220, 2024, 108816",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Behavior of one-way steel, BFRP, and GFRP reinforced concrete slabs",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Case Studies in Construction",
+            "journal_ranking": "ISI, Scopus,",
+            "citation_count": 0,
+            "volume_issue_pages": "21, 2024, e03415",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Monotonic and cyclic behaviors of reinforced recycled aggregate concrete beams https://doi.org/10.1007/s40999-024-00997-8",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Civil Engineering, ISSN/eISSN: 1735-0522/2383-3874",
+            "journal_ranking": "ISI, Scopus, (IF=1,7, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "2024",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Nondestructive evaluation of postfire full-scale reinforced concrete frames: Field tests https://doi.org/10.1007/s10921-024-01050-3",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Nondestructive Evaluation, ISSN/eISSN: 0195-9298/1573-4862",
+            "journal_ranking": "ISI, Scopus, (IF=2,8, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "43, 2, 35-48",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Residual axial strength of reinforced concrete columns after exposure to standard and non-standard fires https://doi.org/10.1177/13694332241232048",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Structural Engineering, ISSN/eISSN: 1369-4332/2048-4011",
+            "journal_ranking": "ISI, Scopus, (IF=2,6, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "27, 5, 709-721",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Monotonic and cyclic behaviour of deficient reinforced concrete slabs retrofitted with externally bonded carbon fibre reinforced polymer https://doi.org/10.1177/07316844231211675",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Reinforced Plastics and Composites, ISSN/eISSN: 0731-6844/1530-7964",
+            "journal_ranking": "ISI, Scopus, (IF=3,1, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "4, 3-4 115-133",
+            "published_date": "11/2025"
+        },
+        {
+            "title": "Performance of circular concrete-filled steel tube beams under monotonic and cyclic loadings https://doi.org/10.1016/j.jcsr.2023.108301",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Constructional Steel Research, ISSN/eISSN: 0143-974X/1873-5983",
+            "journal_ranking": "ISI, Scopus, (IF=4,1, TOP20 Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "212, 2024, 108301",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Flexural behavior and reliability analysis of rectangular concrete-filled cold-formed steel tabular beams https://doi.org/10.1016/j.jcsr.2023.108173",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Constructional Steel Research, ISSN/eISSN: 0143-974X/1873-5983",
+            "journal_ranking": "ISI, Scopus, (IF=4,1, TOP20 Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "November 2023, 108173",
+            "published_date": "8/2023"
+        },
+        {
+            "title": "Experimental and Analytical Study on Postfire Reinforced Concrete Beams Retrofitted with CFRP in Flexure and Shear https://doi.org/10.28991/CEJ-2023-09-07-05",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Civil Engineering Journal, ISSN/ISSN: 2676-6957/2476-3055",
+            "journal_ranking": "ISI, Scopus, (IF=4,42, Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "9,7, 1610-1629",
+            "published_date": "7/2023"
+        },
+        {
+            "title": "Performance of Postfire Reinforced Concrete Beams Retrofitted with External Bonded and Near-Surface Mounted CFRP: Experiments and Analyses https://doi.org/10.1061/JPCFEV.CFENG-4297",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Performance of Constructed Facilities (ASCE), ISSN/ISSN: 0887-3828/1943-5509",
+            "journal_ranking": "ISI, Scopus, (IF=2,5, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "37, 3, 04023016",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Performance of circular concrete filled steel tubes after fire exposure: Experiments https://doi.org/10.1016/j.istruc.2023.06.110",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Structures, ISSN/eISSN: 2352-0124",
+            "journal_ranking": "ISI, Scopus, (IF=4,23, Q1)",
+            "citation_count": 4,
+            "volume_issue_pages": "55, 2023, 1331-1341",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Behavior of circular concrete-filled steel tabular columns under monotonic and cyclic torsions",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Constructional Steel Research",
+            "journal_ranking": "ISI, Scopus, (IF=4,1, TOP20 Q1)",
+            "citation_count": 2,
+            "volume_issue_pages": "210, 108053",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Bond-slip Behaviour of NSM GFRP Bars in Reinforced Recycled-Aggregate Concrete: Experiments and a Modified Model https://doi.org/10.28991/CEJ-2023-09-02-01",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Civil Engineering Journal, ISSN/eISSN: 2676-6957/2476-3055",
+            "journal_ranking": "ISI, Scopus, (IF=4,42, Q1)",
+            "citation_count": 3,
+            "volume_issue_pages": "9, 2, 233-253",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Behavior of postfire RC columns retrofitted with CFRP wraps under monotonic and cyclic axial loadings: Experiments and theoretical analyses https://doi.org/10.1016/j.jobe.2023.106657",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Building Engineering, ISSN/eISSN: 2352-7102",
+            "journal_ranking": "ISI, Scopus, (IF=7,25, TOP20 Q1)",
+            "citation_count": 3,
+            "volume_issue_pages": "72, 2023, 106657, 1-24",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Experimental behavior of circular concrete-filled steel tabular columns under near-fault cyclic loadings https://doi.org/10.1016/j.istruc.2023.04.011",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Structures, ISSN/eISSN: 2352-0124",
+            "journal_ranking": "ISI, Scopus, (IF=4,23, Q1)",
+            "citation_count": 1,
+            "volume_issue_pages": "52 (2023), 449-463",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "NSM GFRP Strengthening of Reinforced Concrete Beams after Exposure to Fire: Experiments and Theoretical Model https://doi.org/10.1061/JCCOF2.CCENG-3933",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Composites for Construction (ASCE), ISSN/ISSN: 1090-0268/1943-5614",
+            "journal_ranking": "ISI, Scopus, (IF=3,73, TOP20 Q1)",
+            "citation_count": 0,
+            "volume_issue_pages": "27, 1, 040220862",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Reliability-based moment capacity assessment of reinforced concrete beams in fire https://doi.org/10.1007/s40999-022-00746-9",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Civil Engineering, ISSN/eISSN: 1735-0522/2383-3874",
+            "journal_ranking": "ISI, Scopus, (IF=2,184, Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "20, 2022, 1291-1308",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "Experimental behavior of fire-exposed reinforced concrete slabs without and with FRP retrofitting",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Building Engineering, ISSN/ISSN:",
+            "journal_ranking": "ISI, Scopus, (IF=6,99, TOP20 Q1)",
+            "citation_count": 18,
+            "volume_issue_pages": "51, 1 July 2022, 104315.",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Flexural Performance of Postfire Reinforced Concrete Beams: Experiments and Theoretical Analysis https://doi.org/10.1061/(ASCE)CF.1943-5509.0001739",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Performance of Constructed Facilities (ASCE), ISSN/ISSN: 0887-3828/1943-5509",
+            "journal_ranking": "ISI, Scopus, (IF=2,317, Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "36, 3, 04022029",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Experimental behaviour of circular concrete filled steel tube columns under lateral cyclic loading https://doi.org/10.12989/eas.2021.21.5.445",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Earthquakes and Structures, ISSN/eISSN: 2092-7614/2092-7622",
+            "journal_ranking": "ISI, Scopus, (IF=2,018, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "21(5), 2021, 445-460",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Numerical study on circular concrete filled steel tubes subjected to pure torsion https://doi.org/10.3390/buildings11090397",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Buildings, ISSN/eISSN: 2075-5309",
+            "journal_ranking": "ISI, Scopus, (IF=3,06, Q2)",
+            "citation_count": 12,
+            "volume_issue_pages": "11, 9, 3979/2021",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "External GFRP confinement to decrease near-fault earthquake damage of reinforced concrete structures considering soil-structure interaction https://doi.org/10.1016/j.istruc.2021.08.027",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Structures, ISSN/eISSN: 2352-0124",
+            "journal_ranking": "ISI, Scopus, (IF=3,29, Q1)",
+            "citation_count": 3,
+            "volume_issue_pages": "34, 2318-2339",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Circular concrete filled thin-walled steel tubes under pure torsion: Experiments https://doi.org/10.1016/j.tws.2021.107874",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Thin-Walled Structures, ISSN/eISSN: 0263-8231/1879-3223",
+            "journal_ranking": "ISI, Scopus, (IF=4,42, TOP20 Q1)",
+            "citation_count": 22,
+            "volume_issue_pages": "164, July 2021, 107874",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Damage-based seismic retrofitting approach for nonductile reinforced concrete structures using FRP composite wraps https://doi.org/10.1155/2020/7564684",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Civil Engineering, ISSN/eISSN: 1687-8086/1687-8094",
+            "journal_ranking": "ISI, Scopus, (IF=1,31, Q3)",
+            "citation_count": 3,
+            "volume_issue_pages": "Volume 2020, 1-21",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "FRP composite in mitigating seismic risk of RC structures in near-fault regions with/without aftershocks https://doi.org/10.1155/2020/2847027",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Advances in Civil Engineering, ISSN/ISSN: 1687-8086/1687-8094",
+            "journal_ranking": "ISI, Scopus, (IF=1,31, Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "2020, 2847027, 1-17",
+            "published_date": "7/2020"
+        },
+        {
+            "title": "Preload effects on behaviour of FRP confined concrete: Experiment, mechanism and modified model https://doi.org/10.12989/acc.2020.9.6.597",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Concrete Construction (ACC), An International Journal, ISSN/eISSN: 2287-5301/2287-531X",
+            "journal_ranking": "ISI, Scopus, (IF=2,49, Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "9, 6, 597-610",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "Effects of aftershocks on the potential damage of FRP retrofitted reinforced concrete structures https://doi.org/10.1007/s40999-020-00533-4",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Civil Engineering, ISSN/eISSN: 1735-0522/2383-3874",
+            "journal_ranking": "ISI, Scopus, (IF=1,446, Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "18, 11, 1247-1265",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "Experimental behaviour of concrete-filled steel tubes under cyclic axial compression https://doi.org/10.1177/1369433219866107",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Structural Engineering, ISSN/ISSN: 1369-4332/2048-4011",
+            "journal_ranking": "ISI, Scopus, (IF=1,32, Q2)",
+            "citation_count": 16,
+            "volume_issue_pages": "23, 1, 74-88",
+            "published_date": "7/2019"
+        },
+        {
+            "title": "Effects of CFRP/GFRP flexural retrofitting on reducing seismic damage of reinforced concrete frames: a comparative study https://doi.org/10.1007/s42107-019-00173-7",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Civil Engineering, ISSN/eISSN: 2522-011X/1563-0854",
+            "journal_ranking": "ISI, Scopus, (IF=0,61, Q3)",
+            "citation_count": 8,
+            "volume_issue_pages": "20, 8, 1071-1087",
+            "published_date": "7/2019"
+        },
+        {
+            "title": "Effect of hollow concrete sections on moment capacity of circular concrete-filed steel tube beams under pure bending",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science & Technology Development Journal - Engineering and Technology (STDJET), ISSN 2615-9872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7(4), 2413-2420",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Nghiên cứu nút dầm-cột bê tông cốt thép bị cháy và chịu tải khác nhau có xét đến gia cường CFRP, doi: 10.46223/HCMCOUJS.tech.vi.19.2.3293.2024",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Mở Thành phố Hồ Chí Minh – Kỹ thuật và Công nghệ",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19(2), 84-96",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Study on reinforced concrete beam-column joints subjected to different fires and loadings considering CFRP retrofitting DOI: 10.46223/HCMCOUJS.tech.vi.19.2.3293.2024",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Science-Ho Chi Minh City Open University, ISSN/ISSN: 2734-9322/2734-9594",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19, 2, 5-16",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Phân tích độ tin cậy về ứng xử của ống thép nhồi bê tông chịu nén dọc trục https://doi.org/10.31814/stce.huce2023-17(4V)-07",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dụng, ĐHXDHN, ISSN/ISSN: 2615-9058/2734-9498",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17 (4V), 80-90",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Ảnh hưởng của các tham số thiết kế đến khả năng chịu lửa của sàn bê tông cốt thép bị cháy",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Xây Dụng, ISSN 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "7.2023, 122-127",
+            "published_date": "7/2023"
+        },
+        {
+            "title": "Load-carrying capacity of circular concrete filled steel tubes under axial loading: Reliability analyses https://doi.org/10.46223/HCMCOUJS.tech.en.13.1.2549.2023",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Ho Chi Minh City Open University Journal of Science, ISSN/ISSN: 2734-9330/2734-9608",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13, 1, 33-44",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Ảnh hưởng của chiều dày lớp bê tông bảo vệ đến độ võng của dầm bê tông cốt thép bị cháy",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science & Technology Development Journal - Engineering and Technology (STDJET), ISSN: 2615-9872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5, 2, 1549-1557",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Phân tích khung BTCT có tầng yếu chịu tải động đất có xét tương tác đất nền - kết cấu https://doi.org/10.32508/stdjet.v5i2.973",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science & Technology Development Journal - Engineering and Technology (STDJET), ISSN: 2615-9872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5, 3, 1558-1567",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Ảnh hưởng của tương tác giữa đất nền - kết cấu đến hư hại của trụ cầu BTCT chịu động đất https://doi.org/10.32508/stdjet.v5i2.976",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science & Technology Development Journal - Engineering and Technology (STDJET), ISSN: 2615-9872",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5, 2, 1568-1576",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Load-carrying capacity analysis of reinforced concrete columns exposed to different fire conditions",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Xây Dụng, ISSN 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6.2022, 83-87",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Sử dụng FRP để phục hồi khả năng chịu tải của sàn bê tông cốt thép bị cháy https://ojs.jomc.vn/index.php/vn/article/view/234",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Vật Liệu và Xây Dựng, ISSN 1859-381X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "6, 2021, 14-20",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Parametric study on mechanical properties of circular concrete filled steel tubes",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Vật Liệu và Xây Dựng, ISSN 1859-381X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2, 2021, 48-52",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Failure modes of hollow steel tubes and concrete filled steel tubes under torsion",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9-2020, 40-43",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "A comparative study on fire resistance of reinforced concrete columns based on Vienam, ACI and Euro standards",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5-2020, 6-10",
+            "published_date": "5/2020"
+        },
+        {
+            "title": "Failure analysis of concrete filled steel tubes subjected to axial compression",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Construction, ISSN 0866-8762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3-2020, 9-12",
+            "published_date": "3/2020"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Đánh giá hư hại của kết cấu BTCT gia cường bằng FRP chịu động đất có xét đến tương tác giữa đất nền và kết cấu",
+            "role": "Principal Investigator",
+            "project_code": "107.02-2017.18",
+            "management_level": "Nafosted",
+            "period": "12/2017 - 12/2019",
+            "acceptance_date": "15/12/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Đánh giá và gia cường FRP cho cấu kiện chịu lực bị cháy",
+            "role": "Principal Investigator",
+            "project_code": "B2021-20-07",
+            "management_level": "ĐHQG loại B02/2023",
+            "period": "02/2021 - 02/2023",
+            "acceptance_date": "17/12/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đánh giá hư hại của khung bê tông cốt thép gia cường bằng FRP chịu động đất có xét đến dư chấn",
+            "role": "Principal Investigator",
+            "project_code": "C2018-20-28",
+            "management_level": "ĐHQG loại C 04/2020",
+            "period": "04/2018 - 04/2020",
+            "acceptance_date": "31/07/2020",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phương pháp phần tử hữu hạn (tóm tắt lý thuyết và bài tập) (cuốn xuất bản lần đầu ISBN: 978-604-73-7089-4; cuốn tái bản ISBN: 978-604-73-8921-6)",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Quốc Gia TP. Hồ Chí Minh",
+            "publish_year": "2019",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-350 (Toàn bộ)",
+            "verification_document_id": "số 1724/QĐ-ĐHBK-TV ngày 02/7/2019"
+        },
+        {
+            "title": "Độ tin cậy kết cấu (ISBN: 978-632-608-108-4)",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc Gia TP. Hồ Chí Minh",
+            "publish_year": "2025",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-304 (Toàn bộ)",
+            "verification_document_id": "số 1457/QĐ-ĐHBK ngày 02/5/2025"
+        },
+        {
+            "title": "Mechanics of Materials (ISBN: 978-604-73-9693-1)",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc Gia TP. Hồ Chí Minh",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-467 (Toàn bộ)",
+            "verification_document_id": "số 2373/ĐHBK ngày 30/6/2023"
+        },
+        {
+            "title": "Mechanics of Structures (ISBN: 978-604-479-307-8)",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Đại học Quốc Gia TP. Hồ Chí Minh",
+            "publish_year": "2024",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "1-132",
+            "verification_document_id": "số 1084/ĐHBK ngày 19/3/2024"
+        },
+        {
+            "title": "Exercises of Mechanics of Structures (ISBN: 978-604-479-546-1)",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản Đại học Quốc Gia TP. Hồ Chí Minh",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1-373 (Toàn bộ)",
+            "verification_document_id": "số 1794/QĐ-ĐHBK ngày 20/5/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng chương trình đào tạo đại học năm 2022 ngành Kỹ thuật Xây dựng (7580201)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 3383/QĐ-ĐHBK ngày 12/8/2022 về việc thành lập Hội đồng xây dựng chương trình đào tạo đại học năm 2022 ngành Kỹ thuật Xây dựng (7580201)",
+            "certifying_authority": "Trường Đại học Bách khoa - Đại học Quốc Gia TP. Hồ Chí Minh",
+            "implementation_document_id": "QĐ số 862/QĐ-ĐHBK ngày 16/3/2023 về việc ban hành chương trình đào tạo khóa 2022.",
+            "notes": ""
+        },
+        {
+            "title": "Thẩm định chương trình đào tạo trình độ thạc sĩ, trình độ tiến sĩ khóa 2022 của Khoa Kỹ thuật Xây dựng",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 3225/QĐ-ĐHBK, ngày 12 tháng 8 năm 2022",
+            "certifying_authority": "Trường Đại học Bách khoa – Đại học Quốc Gia TP. Hồ Chí Minh",
+            "implementation_document_id": "QĐ số 3755/QĐ-ĐHBK ngày 08/9/2022 về việc ban hành chương trình đào tạo thạc sĩ",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo đại học năm 2024 ngành Kỹ thuật Xây dựng (7580201)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "Quyết định số 2310/QĐ-ĐHBK ngày 18/6/2022 về việc thành lập Hội đồng xây dựng chương trình đào tạo đại học năm 2024 ngành Kỹ thuật Xây dựng (7580201)",
+            "certifying_authority": "Trường Đại học Bách khoa - Đại học Quốc Gia TP. Hồ Chí Minh",
+            "implementation_document_id": "QĐ số 460/QĐ-ĐHBK ngày 18/02/2024 về việc ban hành chương trình đào tạo khóa 2024.",
+            "notes": ""
+        }
+    ]
+}

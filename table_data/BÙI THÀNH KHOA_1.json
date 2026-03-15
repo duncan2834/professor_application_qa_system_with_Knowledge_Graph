@@ -1,0 +1,897 @@
+{
+    "papers": [
+        {
+            "title": "Factors Affecting Customer Relationship and the Repurchase Intention of Designed Fashion Products",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Distribution Science, ISSN 1738-3110",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol. 18 (2), pp. 17-28",
+            "published_date": "2020"
+        },
+        {
+            "title": "Customer Electronic Loyalty towards Online Business: The role of Online Trust, Perceived Mental Benefits and Hedonic Value",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Distribution Science, ISSN 1738-3110",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 23,
+            "volume_issue_pages": "Vol. 17(12), pp. 81 - 93",
+            "published_date": "2019"
+        },
+        {
+            "title": "A Study on the Chain of Cost Values Online",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Applied Economic",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. XIV/2019",
+            "published_date": "2019"
+        },
+        {
+            "title": "Trust: Applications in Mobile Commerce in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainability, ISSN 2071-1050",
+            "journal_ranking": "Scopus (Q1) – Rời khỏi 2024",
+            "citation_count": 10,
+            "volume_issue_pages": "11(23), 6587",
+            "published_date": "2019"
+        },
+        {
+            "title": "The Relationship between the Perceived Mental Benefits, Online Trust, and Personal Information Disclosure in Online Shopping",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Journal of Asian Finance, Economics and Business, ISSN 2288-4637",
+            "journal_ranking": "Scopus (Q3) - Rời khỏi 2021",
+            "citation_count": 27,
+            "volume_issue_pages": "6(4), 261-270",
+            "published_date": "2019"
+        },
+        {
+            "title": "Lợi ích tinh thần cảm nhận khi mua hàng trực tuyến",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Mở Thành phố Hồ Chí Minh, ISSN 1859-3453",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "14(1), 3-17",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nghiên cứu các yếu tố ảnh hưởng đến lòng tin trực tuyến của khách hàng Việt Nam: Trường hợp thương mại xã hội",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công Thương, ISSN 0866-7756",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "2019(5), 198-204",
+            "published_date": "2019"
+        },
+        {
+            "title": "Lợi ích cảm nhận của thương mại di động đối với khách hàng tại thành phố Hồ Chí Minh: Tiếp cận với khái niệm đa chiều",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ISSN 2525-2267",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42, 38-52",
+            "published_date": "2019"
+        },
+        {
+            "title": "Ảnh hưởng của rủi ro cảm nhận đến ý định mua hàng trực tuyến của khách hàng tại TP.HCM",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ISSN 2525-2267",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "34, 87-97",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nghiên cứu nhận thức bảo vệ thông tin riêng tư của người mua hàng trực tuyến tại TP.HCM",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ISSN 2525-2267",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "26, 66-76",
+            "published_date": "2017"
+        },
+        {
+            "title": "Ảnh hưởng của mạng xã hội đến lòng trung thành của khách hàng: Ứng dụng trường hợp của Facebook",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Đại học Công nghiệp, ISSN 1859-3712",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "18 (1), 86 - 97",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu các nhân tố tác động đến lòng trung thành của khách hàng mua theo nhóm trên Internet",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Đại học Công nghiệp, ISSN 1859-3712",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "20(3), 99-111",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu các yếu tố ảnh hưởng đến hành vi tiêu dùng hàng hóa Trung Quốc của người dân tại thành phố Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Đại học Công nghiệp, ISSN 1859-3712",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "16(4), 100-112",
+            "published_date": "2014"
+        },
+        {
+            "title": "Why do generation X customers use wearable fitness technology equipment after recovering from Coronavirus? The role of perceived health risks",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Heliyon, ISSN 2405-8440",
+            "journal_ranking": "SCIE, Scopus (Q1), IF = 3.4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 10(12), e32978",
+            "published_date": "2024"
+        },
+        {
+            "title": "The Impact of Review and Rating on Customer Experience in Electronic Marketplaces",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Business Management, ISSN 0861-6604",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2024(2), pp. 5-21",
+            "published_date": "2024"
+        },
+        {
+            "title": "Exploring the role of knowledge management capacity on SMEs' digital transformation intentions: Integrating signaling theory and the technology acceptance model",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Economics and Development, ISSN 1859-0020",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 26 (Special issue, 1), trang 48 - 62",
+            "published_date": "2024"
+        },
+        {
+            "title": "Dataset concerns of privacy information practices and consumer behavior in online market: A survey in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Data in Brief, ISSN 2352-3409",
+            "journal_ranking": "ESCI, Scopus (Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 54(2024), 110351",
+            "published_date": "2023"
+        },
+        {
+            "title": "Knowledge-intensive teamwork development through social media adoption after the COVID-19 pandemic in higher education institutions",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Heliyon, ISSN 2405-8440",
+            "journal_ranking": "SCIE, Scopus (Q1), IF = 3.4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 10(4), e26210",
+            "published_date": "2024"
+        },
+        {
+            "title": "Increasing online business productivity through customer electronic loyalty: the role of online trust and hedonic value",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Public Sector Performance Management, ISSN 1741-105X",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12(1-2), pp. 252-274",
+            "published_date": "2023"
+        },
+        {
+            "title": "Customer's Online Purchase Intention: The Role of Perceived Business Size and Reputation",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Logistics, Informatics and Service Science, ISSN 2409-2665",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 10(2), pp. 296-307",
+            "published_date": "2023"
+        },
+        {
+            "title": "Applying Smart Tourism Management in Vietnam after Covid-19 pandemic: A qualitative research",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Quality - Access to Success, ISSN 1582-2559",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 24(194), pp. 1-8",
+            "published_date": "2023"
+        },
+        {
+            "title": "Enhancing the Customer Information-Sharing Intention Through Omnichannel Strategies",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Distribution Science, ISSN 1738-3110",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 21(3), pp. 83-92",
+            "published_date": "2023"
+        },
+        {
+            "title": "The role of self-efficacy and firm size in the online",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Open Innovation: Technology,",
+            "journal_ranking": "Scopus (Q1)",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol. 9(1), pp. 1-12",
+            "published_date": "2023"
+        },
+        {
+            "title": "How Does Anxiety Affect the Relationship between the Customer and the Omnichannel Systems? Theory of planned behavior approach",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Theoretical and Applied Electronic Commerce Research, ISSN 0718-1876",
+            "journal_ranking": "SSCI, Scopus (Q1). IF = 5.1",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 18(1), pp. 130-149",
+            "published_date": "2023"
+        },
+        {
+            "title": "Qualitative research in social sciences: data collection, data analysis and report writing",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Public Sector Performance Management, ISSN 1741-105X",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 19,
+            "volume_issue_pages": "Vol. 12(1-2), pp. 187-209",
+            "published_date": "2023"
+        },
+        {
+            "title": "The effectiveness of knowledge management systems in motivation and satisfaction in higher education Institutions: Data from Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Data in Brief, ISSN 2352-3409",
+            "journal_ranking": "ESCI, Scopus (Q3)",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 49(2023), pp. 1-9",
+            "published_date": "2023"
+        },
+        {
+            "title": "The influence of social media marketing activities on customer loyalty: A study of e-commerce industry",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Data and Network Science, ISSN 2561-8148",
+            "journal_ranking": "Scopus (Q2)",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol. 7(1), pp. 175-184",
+            "published_date": "2023"
+        },
+        {
+            "title": "Electronic word-of-mouth behavior of passengers in the airport: The combination of sor and Commitment-Trust theory",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Business Management, ISSN 0861-6604",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2023(4), pp.5-26",
+            "published_date": "2023"
+        },
+        {
+            "title": "Dataset for the electronic customer relationship management based on S-O-R model in electronic commerce",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Data in Brief, ISSN 2352-3409",
+            "journal_ranking": "ESCI, Scopus (Q3)",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol. 42(24), 108039",
+            "published_date": "2022"
+        },
+        {
+            "title": "The Influence of Individuals' Concerns about Organization's Privacy Information Practices on Customers' Online Purchase Intentions: The Mediating Role of Online Trust",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Logistics, Informatics and Service Science, ISSN 2409-2665",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol. 9(3), pp. 31-44",
+            "published_date": "2022"
+        },
+        {
+            "title": "The Moderating Role of Anxiety in the Relationship between the Perceived Benefits, Online Trust and Personal Information Disclosure in Online Shopping",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Business and Society, ISSN 1511-6670",
+            "journal_ranking": "ESCI, Scopus (Q3)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 23(1), pp. 444-460",
+            "published_date": "2022"
+        },
+        {
+            "title": "Examining the Structural Relationships of Electronic Word of Mouth, Attitude toward Destination, Travel Intention, Tourist Satisfaction and Loyalty: A Meta-Analysis",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Geojournal of Tourism and Geosites, ISSN 2065-0817",
+            "journal_ranking": "Scopus (Q3)",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol. 45(4spl), pp. 1650 - 1660",
+            "published_date": "2022"
+        },
+        {
+            "title": "How do customer anxiety levels impact relationship marketing in electronic commerce?",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business and Management, ISSN 2331-1975",
+            "journal_ranking": "ESCI, Scopus (Q2)",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 9(1), pp. 2136928",
+            "published_date": "2022"
+        },
+        {
+            "title": "Do knowledge management systems motivate and satisfy the academic staff in higher education Institutions?",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Applied Learning and Teaching, ISSN 2591-801X",
+            "journal_ranking": "Scopus (Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 5(2), pp. 84-94",
+            "published_date": "2022"
+        },
+        {
+            "title": "The Impact of Chatbots on the Relationship between Integrated Marketing Communication and Online Purchasing Behavior in The Frontier Market",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Jurnal The Messenger, ISSN 2086-1559",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13(1), pp. 19-32",
+            "published_date": "2021"
+        },
+        {
+            "title": "Trust Based Online Food Review toward Customers' Restaurant Selection Intention in Food and Beverage Service",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Logistics, Informatics and Service Science, ISSN 2409-2665",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 8(2), pp. 151-170",
+            "published_date": "2021"
+        },
+        {
+            "title": "The Impact of the Personal Data Disclosure's Tradeoff on the Trust and Attitude Loyalty in Mobile Banking Services",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Promotion Management, ISSN 1049-6491",
+            "journal_ranking": "Scopus (Q2)",
+            "citation_count": 30,
+            "volume_issue_pages": "Vol. 27(4), pp. 585-608",
+            "published_date": "2020"
+        },
+        {
+            "title": "Electronic Loyalty In Social Commerce: Scale Development and Validation",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Business, ISSN 1411-1128",
+            "journal_ranking": "ESCI, Scopus (Q3)",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol. 22(3), pp. 276-300",
+            "published_date": "2020"
+        },
+        {
+            "title": "The Impact of Green Leadership on Green Innovation in Vietnamese Small and Medium Enterprises: The Mediating role of Environmental Knowledge Sharing",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Đà Lạt, ISSN 0866-787X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "15(1), trang 3-26",
+            "published_date": "2025"
+        },
+        {
+            "title": "Nghiên cứu về ý định tiếp tục sử dụng phần mềm tại nơi làm việc: Tích hợp lý thuyết về tính liên tục của công nghệ và sự phù hợp giữa công nghệ-nhiệm vụ",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Mở Thành phố Hồ Chí minh - Kinh tế và Quản trị kinh doanh, ISSN 2734-930",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19(10), trang 3-16",
+            "published_date": "2024"
+        },
+        {
+            "title": "Khám phá vai trò trung gian của năng lực đổi mới và định hướng sáng nghiệp trong ảnh hưởng của chuyển đổi số đối với năng lực cạnh tranh của doanh nghiệp nhỏ và vừa",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển, ISSN 1859-0012",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "321(2), trang 71-79",
+            "published_date": "2024"
+        },
+        {
+            "title": "Quy mô doanh nghiệp ảnh hưởng như thế nào đến lòng tin, thái độ và ý định mua hàng trực tuyến của khách hàng Việt Nam?",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Thương mại, ISSN 1859-3666",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "176/2023, trang 81-92",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ý định tiếp tục sử dụng thương mại di động: Một nghiên cứu mở rộng mô hình xác nhận - kỳ vọng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Phát triển, ISSN 1859-0012",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "313, trang 50-59",
+            "published_date": "2023"
+        },
+        {
+            "title": "Ảnh hưởng của mạng xã hội Facebook đến thái độ mua hàng trực tuyến của giới trẻ trong thời kỳ chuyển đổi số",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ISSN 2525-2267",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "50, trang 43-53",
+            "published_date": "2021"
+        },
+        {
+            "title": "Lòng trung thành khách hàng đối với hàng nội địa trên thị trường điện tử trong đại dịch Covid-19",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ISSN 2525-2267",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "50, trang 149-159",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ý định sử dụng ứng dụng di động để lựa chọn các dịch vụ khi du lịch của giới trẻ trong thời kỳ chuyển đổi số",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ISSN 2525-2267",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "51, trang 14-23",
+            "published_date": "2021"
+        },
+        {
+            "title": "Lecturers' adoption to use the online Learning Management System (LMS):",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Ho Chi Minh City Open University Journal Of Science - Economics and Business",
+            "journal_ranking": "",
+            "citation_count": 44,
+            "volume_issue_pages": "10(1), trang 3-17",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nghiên cứu sự đánh đổi giữa lợi ích và chi phí khi sử dụng dịch vụ trực tuyến: Trường hợp thương mại di động tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, ISSN 2525-2267",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "41(5), 141 - 155",
+            "published_date": "2019"
+        },
+        {
+            "title": "The Impact of Voice Control Function on the Elder Customers' Smart Home Continuous Adoption",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Smart Innovation, Systems and Technologies, ISBN 978-981-99-7710-9",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 467-476",
+            "published_date": "2024"
+        },
+        {
+            "title": "Analyzing Electronic Word-of-Mouth in Social Commerce: An Investigation through the Lens of Social Support Theory",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "2023 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies, 3ICT 2023, ISBN 979-835030777-1",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 200-203",
+            "published_date": "2023"
+        },
+        {
+            "title": "Online Hotel Booking Continuous Intention in the Digital Transformation Age: Case of Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Studies in Computational Intelligence, ISBN 978-3-031-05258-3",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 1010, pp. 389-400",
+            "published_date": "2022"
+        },
+        {
+            "title": "Customer Loyalty in the Covid-19 Pandemic: The Application of Machine Learning in Survey Data",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Smart Innovation, Systems and Technologies, ISBN 978-981-16-2877-1",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 235, pp. 419-429",
+            "published_date": "2022"
+        },
+        {
+            "title": "A Study on Buying Attitude on Facebook in the Digital Transformation Era: A Machine Learning Application",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Data Engineering for Smart Systems, ISBN 978-981-16-2641-8",
+            "journal_ranking": "Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 238, pp. 497-510",
+            "published_date": "2022"
+        },
+        {
+            "title": "Consumer behavior in Online Flash Sale: Partial least squares structural equation modeling (PLS-SEM) analysis",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "2022 International Conference on Decision Aid Sciences and Applications (DASA), ISBN 978-1-6654-9501-1",
+            "journal_ranking": "Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "pp. 88-93",
+            "published_date": "2022"
+        },
+        {
+            "title": "The Relationship of Corporate Social Responsibility, Brand Trust and Electronic Word of Mouth",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "2022 2nd International Conference on Information Technology and Education (ICIT&E), ISBN 978-1-6654-9433-5",
+            "journal_ranking": "Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "pp. 43-48",
+            "published_date": "2022"
+        },
+        {
+            "title": "The Continuous Intention to E-learning System Adoption of Students in the Covid-19 Pandemic: The combination of TAM and TTF theory",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "2022 International Conference on Decision Aid Sciences and Applications (DASA), ISBN 978-1-6654-9501-1",
+            "journal_ranking": "Scopus",
+            "citation_count": 2,
+            "volume_issue_pages": "pp. 1202-1206",
+            "published_date": "2022"
+        },
+        {
+            "title": "The impact of social media marketing on the travel intention of Z travelers",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 IEEE International IOT, Electronics and Mechatronics Conference (IEMTRONICS), ISBN 978-1-6654-1160-8",
+            "journal_ranking": "Scopus",
+            "citation_count": 6,
+            "volume_issue_pages": "pp. 1-6",
+            "published_date": "2021"
+        },
+        {
+            "title": "Intention to Use E-Marketing in Small and Medium Enterprises in the Covid-19 pandemic",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "3rd International Conference on Informatics, Multimedia, Cyber, and Information System, ICIMCIS 2021, ISBN 978-166542733-3",
+            "journal_ranking": "Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "pp. 114-119",
+            "published_date": "2021"
+        },
+        {
+            "title": "Model Technological Adoption and Job Security in Partial Least Squares Structural Equation Modeling (PLS-SEM)",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 International Conference on Decision Aid Sciences and Application (DASA), ISBN 978-1-6654-2781-4",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 320-325",
+            "published_date": "2021"
+        },
+        {
+            "title": "Effect of Information on Online Purchase Intention: An Extension of Information Acceptance Model Online Project Management",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 International Conference on Decision Aid Sciences and Application (DASA), ISBN 978-1-6654-2781-4",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 1045-1049",
+            "published_date": "2021"
+        },
+        {
+            "title": "Service adoption intention: An integration of Technology Acceptance Model and Task-Technology Fit theory",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 IEEE International Conference on Computing, ICOCO 2021, ISBN 978-166543689-2",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 1-6",
+            "published_date": "2021"
+        },
+        {
+            "title": "Organic foods online shopping intention: The moderator role of Social Distancing policy",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 International Conference on Data Analytics for Business and Industry, ICDABI 2021, ISBN 978-166541656-6",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 609-614",
+            "published_date": "2021"
+        },
+        {
+            "title": "Continuous Purchase Intention from E-Marketplace: A case study of Organic Agricultural Products",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 2nd International Conference on ICT for Rural Development, IC-ICTRuDev 2021, ISBN 978-166543375-4",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 1-6",
+            "published_date": "2021"
+        },
+        {
+            "title": "Lecturers' Intention to Use Online Video Conferencing tools: The role of Perceived severity",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 1st Conference on Online Teaching for Mobile Education (OT4ME), ISBN 978-1-6654-2814-9",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 1-7",
+            "published_date": "2021"
+        },
+        {
+            "title": "Consumer Information Sharing in Facebook: The Negative Role of Perceived Privacy Risk",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in Computer and Information Science, ISBN 978-981-16-8058-8",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "vol 1487, pp 552-567",
+            "published_date": "2021"
+        },
+        {
+            "title": "The Positive Electronic Word of Mouth: A Research Based on the Relational",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Lecture Notes in Networks and Systems, ISBN 978-981-16-2640-1",
+            "journal_ranking": "Scopus (Q4)",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol 238, pp 147-157",
+            "published_date": "2021"
+        },
+        {
+            "title": "Mediator Meta-Analytic Framework in Electronic Marketplace Students' learning management system adoption intention in COVID-19: An integration of TPB and TTF model",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "2021 7th International Conference on Education and Technology (ICET), ISBN 978-1-6654-2781-4",
+            "journal_ranking": "Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "pp. 187-193",
+            "published_date": "2021"
+        },
+        {
+            "title": "The role of Mobile Skillfulness and User Innovation toward Electronic Wallet Acceptance in the Digital Transformation Era",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "2020 International Conference on Information Technology Systems and Innovation (ICITSI), ISBN 9781728181967",
+            "journal_ranking": "Scopus",
+            "citation_count": 8,
+            "volume_issue_pages": "pp. 30-37",
+            "published_date": "2020"
+        },
+        {
+            "title": "The perceived enjoyment of the online courses in digital transformation age: The uses - gratification theory approach",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "6th International Conference on e-Learning, ICEL 2020, ISBN 978-1-6654-1550-7",
+            "journal_ranking": "Scopus",
+            "citation_count": 3,
+            "volume_issue_pages": "pp. 183-188",
+            "published_date": "2020"
+        },
+        {
+            "title": "Động lực nghiên cứu khoa học: Góc nhìn của học viên sau đại học tại Thành Phố Hồ Chí Minh",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Tạp chí Khoa học Đại học Mở Thành phố Hồ Chí Minh, ISSN 1859-3453",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "5-14",
+            "published_date": "2022"
+        },
+        {
+            "title": "Sự đáng tin của một doanh nghiệp trực tuyến: Một nghiên cứu định tính",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Doanh nghiệp và những thay đổi chiến lược trong bối cảnh Cách mạng Công nghiệp 4.0, ISBN 978-604-73-7954-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "trang 271-288",
+            "published_date": "2020"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu nhận thức bảo vệ thông tin riêng tư của người mua hàng trực tuyến tại TP.HCM",
+            "role": "Principal Investigator",
+            "project_code": "IUH.KQT20/15",
+            "management_level": "Đề tài cấp trường",
+            "period": "10/2015 - 10/2016",
+            "acceptance_date": "Ngày 04 tháng 11 năm 2016",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ảnh hưởng của rủi ro cảm nhận đến ý định mua hàng trực tuyến của khách hàng tại Thành phố Hồ Chí Minh",
+            "role": "Principal Investigator",
+            "project_code": "171.3061",
+            "management_level": "Đề tài cấp trường",
+            "period": "04/2017 - 03/2018",
+            "acceptance_date": "Ngày 26 tháng 01 năm 2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Vai trò trung gian của lòng tin trong mối quan hệ giữa sự quan tâm về thực tiễn bảo mật thông tin của tổ chức và ý định mua trực tuyến của khách hàng tại Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "21.2TMDL01",
+            "management_level": "Đề tài cấp trường",
+            "period": "03/2022 - 04/2023",
+            "acceptance_date": "Ngày 18 tháng 03 năm 2023",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Đồ họa ứng dụng",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Công nghiệp TPHCM",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "ISBN: 978-604-920-214-8 (05/GXN-ĐHCN ngày 15 tháng 5 năm 2024)"
+        },
+        {
+            "title": "The Accommodation Services Booking Intention Through the Mobile Applications of Generation Y: An Empirical Evidence Based on TAM2 Model",
+            "type": "Reference Book",
+            "publisher": "Springer",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "559-574",
+            "verification_document_id": "ISBN: 978-3-030-77093-8 (19/GXN-ĐHCN ngày 28 tháng 6 năm 2024)"
+        },
+        {
+            "title": "Generation X's Shopping Behavior in the Electronic Marketplace Through Mobile Applications During the COVID-19 Pandemic",
+            "type": "Reference Book",
+            "publisher": "Springer",
+            "publish_year": "2022",
+            "num_authors": 1,
+            "is_editor_in_chief": false,
+            "compiled_pages": "117-131",
+            "verification_document_id": "ISBN: 978-981-19-3803-0 (21/GXN-ĐHCN ngày 28 tháng 6 năm 2024)"
+        },
+        {
+            "title": "Communication Strategies for Interaction in Social Networks",
+            "type": "Reference Book",
+            "publisher": "Springer",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "195-207",
+            "verification_document_id": "ISBN: 978-100-30-9751-8 (20/GXN-ĐHCN ngày 28 tháng 6 năm 2024)"
+        }
+    ],
+    "patents": null,
+    "achievements": [
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2022-2023",
+            "certifying_organization": "Trường",
+            "certificate_document_id": "1999/QĐ-DHCN ngày 23 tháng 08 năm 2023",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2021-2022",
+            "certifying_organization": "Trường",
+            "certificate_document_id": "2117/QĐ-DHCN ngày 06 tháng 09 năm 2022",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2020-2021",
+            "certifying_organization": "Trường",
+            "certificate_document_id": "1279/QĐ-DHCN ngày 08 tháng 10 năm 2021",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2018 - 2019",
+            "certifying_organization": "Trường",
+            "certificate_document_id": "1447/QĐ-ĐHCN ngày 16 tháng 8 năm 2019",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2017 - 2018",
+            "certifying_organization": "Trường",
+            "certificate_document_id": "1938/QĐ-ĐHCN ngày 14 tháng 09 năm 2018",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua Bộ Công Thương năm học 2015 - 2016",
+            "certifying_organization": "Bộ Công Thương",
+            "certificate_document_id": "3607/QĐ-BCT ngày 20 tháng 9 năm 2017",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2016 - 2017",
+            "certifying_organization": "Trường",
+            "certificate_document_id": "2578/QĐ-ĐHCN ngày 11 tháng 08 năm 2017",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen Bộ trưởng Bộ Công Thương",
+            "certifying_organization": "Bộ Công Thương",
+            "certificate_document_id": "3809/QĐ-BCT ngày 21 tháng 09 năm 2016",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2015 - 2016",
+            "certifying_organization": "Trường",
+            "certificate_document_id": "1655/QĐ-ĐHCN ngày 11 tháng 08 năm 2016",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2014 - 2015",
+            "certifying_organization": "Trường",
+            "certificate_document_id": "992/QĐ-ĐHCN ngày 17 tháng 08 năm 2015",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Chiến sĩ thi đua cơ sở năm học 2013 - 2014",
+            "certifying_organization": "Trường",
+            "certificate_document_id": "846/QĐ-ĐHCN ngày 14 tháng 08 năm 2014",
+            "award": "Chiến sĩ thi đua",
+            "num_contributors": 1
+        },
+        {
+            "title": "Đóng góp tích cực trong công tác Đoàn và phong trào thanh niên trường Đại học Công nghiệp TP.HCM nhiệm kỳ 2012 - 2014",
+            "certifying_organization": "Tỉnh/Thành phố",
+            "certificate_document_id": "494/QĐKT-TĐ ngày 12 tháng 12 năm 2014",
+            "award": "Bằng khen",
+            "num_contributors": 1
+        },
+        {
+            "title": "Nhà giáo trẻ tiêu biểu TPHCM 2013",
+            "certifying_organization": "Tỉnh/Thành phố",
+            "certificate_document_id": "467/QĐKT-TĐ ngày 13 tháng 11 năm 2013",
+            "award": "Giấy khen",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo trình độ đại học chính quy Hệ chất lượng cao ngành Thương mại điện tử",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "Quyết định 2893/QĐ-ĐHCN ngày 29 tháng 12 năm 2022",
+            "certifying_authority": "Trường Đại học Công nghiệp TP.HCM",
+            "implementation_document_id": "Quyết định 2893/QĐ-ĐHCN ngày 29 tháng 12 năm 2022",
+            "notes": ""
+        },
+        {
+            "title": "Đề án mở ngành và soạn thảo chương trình đào tạo trình độ thạc sĩ chuyên ngành Thương mại điện tử (thuộc ngành Quản trị kinh doanh)",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "Quyết định 2503/QĐ-ĐHCN ngày 30 tháng 10 năm 2023",
+            "certifying_authority": "Trường Đại học Công nghiệp TP.HCM",
+            "implementation_document_id": "Quyết định 2503/QĐ-ĐHCN ngày 30 tháng 10 năm 2023",
+            "notes": ""
+        }
+    ]
+}

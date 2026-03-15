@@ -1,0 +1,941 @@
+{
+    "papers": [
+        {
+            "title": "A clinical-angiographic risk scoring system for coronary artery anomalies",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Cardiovascular and Thoracic Annals ISSN 02184923, 18165370.",
+            "journal_ranking": "IF 0,271",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 20 Issue 3 Trang 299-303",
+            "published_date": "2012"
+        },
+        {
+            "title": "Khảo sát hiệu quả và biến chứng của nong van hai lá bằng bóng Inoue tại bệnh viện Chợ Rẫy",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 6, số 4 Trang 190-193",
+            "published_date": "2002"
+        },
+        {
+            "title": "Lấy dị vật trong buồng tim và các mạch máu lớn bằng dụng cụ qua da",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nội khoa ISSN 1859-1884 Hội nghị Tim mạch miền trung",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ trương đặc biệt 30-31/7/2009 Trang 960-966",
+            "published_date": "2009"
+        },
+        {
+            "title": "Vai trò của MSCT 64 trong chẩn đoán bệnh động mạch vành",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, Phụ bản số 1 Trang 227-236",
+            "published_date": "2009"
+        },
+        {
+            "title": "Mối liên quan giữa các phương pháp chẩn đoán kinh điển bệnh mạch vành mạn tính với chụp động mạch vành cản quang",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học TPHCM, ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13 Phụ bản số 1 Trang 218-226",
+            "published_date": "2009"
+        },
+        {
+            "title": "Safety and Long-Term Outcome of Modified Intracardiac Echocardiography-Assited \"No-Balloon\" Sizing Technique for Transcatheter Closure of Ostium Secundum Atrial Septal Defect",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Interventional Cardiology, ISSN/EISSN 0896-4327/ 1540-8183",
+            "journal_ranking": "IF 1.5",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 25 Issue 6 Trang 628-634",
+            "published_date": "2012"
+        },
+        {
+            "title": "Five-year Follow-up of Intracardiac Echocardiography-assisted Transcatheter Closure of Complex Ostium Secundum Atrial Septal Defect",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Congential Heart Disease ISSN/EISSN 1747-079X/ 1747-0803",
+            "journal_ranking": "IS 1.26",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 7 Trang 103-110",
+            "published_date": "2012"
+        },
+        {
+            "title": "Impact of Interatrial Septum Anatomic Features on Short-and Long-Term Outcomes after transcatheter closure of Patent foramen ovale: single device type versus anatomic-driven device selection strategy",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Interventional Cardiology ISSN/EISS N 0896-4327/ 1540-8183",
+            "journal_ranking": "IF 1.318",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 26, Issue.4 Trang 392-398",
+            "published_date": "2013"
+        },
+        {
+            "title": "Interatrial shunts: technical approaches to percutaneous closure",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Expert Review of Medical Devices ISSN/EISS N 1743-4440/ 1745-2422",
+            "journal_ranking": "IF 2.212",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 15, Issue 10 Trang 707-716",
+            "published_date": "2018"
+        },
+        {
+            "title": "Very long-term outcomes of transcatheter secundum atrial septal defect closure using intracardiac echocardiography without balloon sizing",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Clinical Radiology ISSN/EISS N 0009-9260/ 1365-229X",
+            "journal_ranking": "IS 2.00",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 74 Issue 9 Trang 17-22",
+            "published_date": "2019"
+        },
+        {
+            "title": "Light anti-thrombotic regimen for prevention of device thrombosis and/or",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "European Journal of Internal Medicine",
+            "journal_ranking": "IF 4.487",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 74 Trang 42-48",
+            "published_date": "2020"
+        },
+        {
+            "title": "Feasibility, safety and long-term outcomes of complex left main bifurcation treatment using the nano-inverted-t stenting: a multicentre prospective Registry.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "The International Journal of Cardiovascular Imaging ISSN 1569-5794",
+            "journal_ranking": "IF 2.00",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 37 Issue 04 Trang 1107-1119",
+            "published_date": "2020"
+        },
+        {
+            "title": "Assessment of Vietnamese nurse's knowledge and practice regarding patient's safety after coronary angiography or percutaneous coronary intervention",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "MedPharm Res Journal of University of Medicine and Pharmacy at Ho Chi Minh City ISSN/EISSN 2615-9139/1859-1779",
+            "journal_ranking": "ACI (Asean Citation Index)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 6. No.1 Trang 7-14",
+            "published_date": "2022"
+        },
+        {
+            "title": "Percutaneous retrieval of foreign bodies in the heart and major vessels",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Interventional Cardiology ISSN 1755-5302",
+            "journal_ranking": "IF 1.776",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 14 Issue 4 Trang 547-551",
+            "published_date": "2022"
+        },
+        {
+            "title": "Left ventricular noncompaction cardiomyopathy associated with severe coronary artery disease: a case report",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biomedical Research and Therapy. ISSN 2198-4093",
+            "journal_ranking": "IF 0.151",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 9 Issue 7 Trang 5191-5195",
+            "published_date": "2022"
+        },
+        {
+            "title": "Assessment of the safety and effectiveness of the first sirolimus stent manufactured in Viet Nam.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biomedical Research and Therapy. ISSN 2198-4093",
+            "journal_ranking": "IF 0.151",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 9 Issue 7 Trang 5154-5160",
+            "published_date": "2022"
+        },
+        {
+            "title": "Prediction of obstructive coronary artery disease in patients undergoing heart valve surgery: A cross-sectional study in a tertiary care hospital",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal Cardiovascular and Thoracic Research ISSN:2008-5117 eISSN2008-6830",
+            "journal_ranking": "IF 0.221",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 15 Issue 1 Trang 57-64",
+            "published_date": "2023"
+        },
+        {
+            "title": "Prevalence and impact of metabolic syndrome on in-hospital outcomes in patients with acute myocardial infarction A perspective from a developing country",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Medicine ISSN 0025-7974 eISSN 1536-5964",
+            "journal_ranking": "IF 1.6 (PMID: 37960714)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 102 Issue 45 (e35924)",
+            "published_date": "2023"
+        },
+        {
+            "title": "Endovascular intervention with intravascular ultrasound guidance of very early dissection complication in transplant renal artery: a case report and literature review",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Frontiers in Cardiovascular Medicine ISSN/EISSN 2297-055X",
+            "journal_ranking": "IF 3.6 (PMID: 38841260)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 11",
+            "published_date": "2024"
+        },
+        {
+            "title": "Platelet reactivity in patients with coronary artery disease undergoing dual antiplatelet theraphywith aspirin and clopidogrel",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biomedical Research and Therapy. ISSN 2198-4093",
+            "journal_ranking": "IF 0.8 Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 11 Issue: 5 Trang 6426-6433",
+            "published_date": "2024"
+        },
+        {
+            "title": "Đóng ống động mạch bằng dụng cụ qua ống thông tại BV Chợ Rẫy: kết quả trước mắt và dài hạn (2004-2010)",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17 Phụ bản số 1 Trang 53-57",
+            "published_date": "2013"
+        },
+        {
+            "title": "Kết quả 1 năm can thiệp tổn thương động mạch vành trung gian dưới hướng dẫn phân suất dự trữ lưu lượng động mạch vành (FFR)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học THCM, ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17 Phụ bản số 3 Trang 402-407",
+            "published_date": "2013"
+        },
+        {
+            "title": "Mối tương quan giữa tuổi động mạch theo thang điểm nguy cơ Framingham và tổn thương động mạch vành",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học THCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 20 số1 Trang 146-150",
+            "published_date": "2016"
+        },
+        {
+            "title": "Bít lỗ bầu dục bằng dù Amplazer PFO Occluder trong phòng ngừa đột quỵ não tái phát",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 21 số 4 Trang 63-67",
+            "published_date": "2017"
+        },
+        {
+            "title": "Tỉ lệ và các yếu tố nguy cơ của bệnh thận do thuốc cản quang sau can thiệp mạch vành qua da",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 21 số 4 Trang 175-181",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đóng thông liên nhĩ qua ống thông dưới hướng dẫn của siêu âm trong buồng tim",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 450 số 2 Trang 161-166",
+            "published_date": "2017"
+        },
+        {
+            "title": "Kết quả ban đầu đóng thông liên thất phần màng bằng dụng cụ tại bệnh viện Chợ Rẫy",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 450 số 1 Trang 160-164",
+            "published_date": "2017"
+        },
+        {
+            "title": "Mối liên hệ giữa độ dày lớp nội trung mạc động mạch cảnh chung và điểm số Gensini cải tiến ở bệnh nhân hội chứng vành cấp",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 22 số 5 Trang 37-43",
+            "published_date": "2018"
+        },
+        {
+            "title": "So sánh giá trị tiên lượng ngắn hạn và thang điểm phân tầng nguy cơ GRACE và TIMI ở bệnh nhân nhồi máu cơ tim cấp ST chênh lên",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 22 số 5 Trang 44-47",
+            "published_date": "2018"
+        },
+        {
+            "title": "Kết quả ứng dụng phương pháp đè ép cầm máu chỗ đâm kim động mạch đùi bằng dụng cụ Ngo's Femoral clamp",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 22 số 5 Trang 48-53",
+            "published_date": "2018"
+        },
+        {
+            "title": "Suy yếu và kết cục lâm sàng ngắn hạn trên bệnh nhân cao tuổi nhồi máu cơ tim cấp có ST chênh lên được can thiệp mạch vành qua da tiên phát",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23 số 2 Trang 30-37",
+            "published_date": "2019"
+        },
+        {
+            "title": "Ảnh hưởng của suy yếu đến tử vong nội viện trên bệnh nhân cao tuổi nhồi máu cơ tim cấp có ST chênh lên được can thiệp mạch vành qua da tiên phát",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23 số 2 Trang 38-44",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nằm viện và sự tiến triển suy yếu trên bệnh nhân cao tuổi nhồi máu cơ tim cấp có ST chênh lên được can thiệp mạch vành qua da tiên phát",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23 số 2 Trang 45-50",
+            "published_date": "2019"
+        },
+        {
+            "title": "Khảo sát biến chứng mạch máu tại chỗ của bệnh nhân sau can thiệp mạch vành qua đường động mạch quay được bằng ép 6 giờ so với 24 giờ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23 số 2 Trang 196-201",
+            "published_date": "2019"
+        },
+        {
+            "title": "Đánh giá tính an toàn và hiệu quả của stent phủ thuốc Sirolimus lần đầu tiên sản xuất tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23 số 6 Trang 25-30",
+            "published_date": "2019"
+        },
+        {
+            "title": "Bệnh cơ tim không lèn chặt trên một bệnh nhân có bệnh lý thân chung và 3 nhánh động mạch vành: báo cáo trường hợp",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học TPHCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Phụ bản tập 23 số 6 Trang 173-177",
+            "published_date": "2019"
+        },
+        {
+            "title": "Lấy dị vật trong tim bằng dụng cụ qua ống thông kinh nghiệm từ 25 bệnh nhân trưởng thành tại BV Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 489 Số 2 Trang 51-55",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nhận xét các tôn thương động mạch vành qua 181 trường hợp chụp động mạch vành đầu tiên tại bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 489 Số 2 Trang 97-102",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đặt stent trực tiếp hẹp thân chính động mạch vành trái: nhân trường hợp đầu tiên tại bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 489 Số 2 Trang 145-149",
+            "published_date": "2020"
+        },
+        {
+            "title": "Mối quan hệ giữa siêu âm tim và điện tâm đồ trong đánh giá phì đại thất trái",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 489 Số 2 Trang 225-230",
+            "published_date": "2020"
+        },
+        {
+            "title": "Bít dù ống động mạch qua ống thông trên bệnh nhân trưởng thành tại BV Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 489 Số 1 Trang 272-276",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nhận xét ban đầu về hiệu quả hạ áp của Captopril ngậm dưới lưỡi trong tăng huyết áp nặng, khẩn trương",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 489 Số 1 Trang 264-268",
+            "published_date": "2020"
+        },
+        {
+            "title": "Kỹ thuật đi dây dẫn ngược dạng chữ q trong can thiệp san thương thân chung chia đôi gập góc đáng kể nhánh bên: Nhân một trường hợp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 491 Số 1 Trang 163-167",
+            "published_date": "2020"
+        },
+        {
+            "title": "Chỉ định chụp mạch vành ở bệnh nhân có bệnh van tim được chỉ định phẫu thuật: Nghiên cứu quan sát tại Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 491 Số 2 Trang 74-79",
+            "published_date": "2020"
+        },
+        {
+            "title": "Hiệu quả của phương pháp can thiệp mạch qua da điều trị bệnh hẹp thân chung động mạch vành trái ở người cao tuổi tại BV Chợ Rẫy",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Tp HCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25 Số 2 Trang 175-181",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiên cứu sự liên quan giữa kiến thức và việc dùng thuốc kháng đông đường uống trên người bệnh ngoại trú thay van cơ học",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Tp HCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 25 Số 5 Trang 127-134",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiệm pháp đi bộ 6 phút trên bệnh nhân hội chứng mạch vành mạn được can thiệp mạch vành qua da",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Tp HCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 26 Số 2 Trang 53-59",
+            "published_date": "2022"
+        },
+        {
+            "title": "Kỹ thuật lấy ống thông bị kẹt do co thắt nghiêm trọng mạch tay khi tiếp cận qua động mạch quay trong can thiệp mạch vành qua da: trường hợp lâm sàng",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Tp HCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 26 Số 2 Trang 68-72",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu tính hiệu quả và an toàn của kỹ thuật khoan cắt mảng xơ vữa cho những tổn thương mạch vành vôi hóa nặng không thể xuyên và/hoặc nong bằng bóng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Tp HCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 26 Số 2 Trang 255-264",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tỉ lệ tiền đái tháo đường trên người cao tuổi mắc bệnh tăng huyết áp",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Tp HCM ISSN 1859-1779",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 26 Số 2 Trang 320-326",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu kết cục nội viện trên bệnh nhân nhồi máu cơ tim ST chênh lên có gánh nặng huyết khối lớn, được hút huyết khối và can thiệp thì đầu",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 515 Số 1 Trang 286-290",
+            "published_date": "2022"
+        },
+        {
+            "title": "Rối loạn đường huyết và tiền đái tháo đường trên người cao tuổi mắc bệnh tăng huyết áp",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 520 Số 1A Trang 357-361",
+            "published_date": "2022"
+        },
+        {
+            "title": "Hiện tượng không có dòng chảy sau can thiệp động mạch vành",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tâp 522 Số 2 Trang 312-316",
+            "published_date": "2023"
+        },
+        {
+            "title": "Hướng dẫn kỹ thuật bít dù thông liên nhĩ dưới hướng dẫn của siêu âm tim trong buồng tim",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 530 Số 1 Trang 73-79.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Kết quả nghiên cứu ứng dụng siêu âm trong buồng tim (ICE) hỗ trợ chẩn đoán và can thiệp bít lỗ thông liên nhĩ tại bệnh viện Chợ Rẫy",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 534 Số 2 Trang 20-26",
+            "published_date": "2024"
+        },
+        {
+            "title": "Tử vong và các biến cố tim mạch nội viện ở bệnh nhân nhồi máu cơ tim cấp ST chênh lên có phân suất tống máu thất trái ≤40% sau can thiệp mạch vành qua da",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 536 Số 1B Trang 240-244",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Vai trò của MSCT 64 trong chẩn đoán bệnh động mạch vành",
+            "role": "Principal Investigator",
+            "project_code": "21/2011/BV-NCKH",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2008-2009",
+            "acceptance_date": "24/8/2011",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Đánh giá kết quả trước mắt và lâu dài của kỹ thuật đóng ống động mạch bằng dụng cụ qua ống thông tại BV Chợ Rẫy (2004-2010)",
+            "role": "Principal Investigator",
+            "project_code": "15/2013/BV-NCKH",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2004-2010",
+            "acceptance_date": "08/02/2013",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Mối tương quan giữa độ dày lớp nội trung mạc động mạch cảnh chung và điểm số Gensini cải tiến ở bệnh nhân hội chứng vành cấp",
+            "role": "Key Member",
+            "project_code": "574/BV-NCKH",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2016-2017",
+            "acceptance_date": "03/8/2017",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng stent không phủ thuốc, stent phủ thuốc Sirolimus, Stent phủ thuốc Paclitaxel và bóng nong không phủ thuốc lần đầu tiên sản xuất tại Việt Nam theo dự án phát triển công nghệ cao mã số CNC.01.DAPT trong điều trị tái thông động mạch vành” Nhánh stent phủ thuốc Sirolimus",
+            "role": "Principal Investigator",
+            "project_code": "655/BV-NCKH",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2015-2017",
+            "acceptance_date": "07/3/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu thí điểm đặt Stent cho các tổn thương phân nhánh và tổn thương thứ hai ở bệnh động mạch vành khi sử dụng và không sử dụng Clearstent Live",
+            "role": "Principal Investigator",
+            "project_code": "1553/BV-NCKH",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2023",
+            "acceptance_date": "20/4/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Đánh giá an toàn và hiệu quả của kỹ thuật giam bóng trong can thiệp sang thương chia đôi của động mạch vành ở bệnh viện Chợ Rẫy",
+            "role": "Principal Investigator",
+            "project_code": "1569/BV-NCKH",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2023",
+            "acceptance_date": "20/4/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng siêu âm nội mạch (IVUS) trong can thiệp mạch vành ở bệnh nhân Việt Nam.",
+            "role": "Participant/Member",
+            "project_code": "2347/GCN-SKHCN",
+            "management_level": "Ủy ban nhân dân Tp Hồ Chí Minh",
+            "period": "2011-2014",
+            "acceptance_date": "17/10/2016",
+            "rating": "Khá"
+        },
+        {
+            "title": "Ứng dụng kỹ thuật ghép tim từ người cho đa tạng chết não tại bệnh viện Chợ Rẫy",
+            "role": "Participant/Member",
+            "project_code": "2020-996",
+            "management_level": "Sở Khoa học công nghệ Tp HCM",
+            "period": "null",
+            "acceptance_date": "02/10/2020",
+            "rating": "null"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng đo phân suất dự trữ lưu lượng mạch vành (Fractional Flow Reserve: FFR) để đánh giá và hướng dẫn can thiệp các tổn thương phức tạp tại Bệnh viện Chợ Rẫy",
+            "role": "Principal Investigator",
+            "project_code": "54/CN-K2ĐT",
+            "management_level": "Bộ Y Tế - Cục KH và CN",
+            "period": "2010-2013",
+            "acceptance_date": "16/7/2014",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu thử nghiệm lâm sàng của Cục Khoa học công nghệ và đào tạo chứng nhận việc hoàn thành và nghiệm thu đối với nhánh nghiên cứu Stent phủ thuốc Sirolimus",
+            "role": "Principal Investigator",
+            "project_code": "12/CN-K2ĐT",
+            "management_level": "Bộ Y Tế Cục Khoa học công nghệ và đào tạo",
+            "period": "2016-2017",
+            "acceptance_date": "27/3/2018",
+            "rating": "null"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng bóng nong phủ thuốc Paclitaxel lần đầu tiên sản xuất tại Việt Nam theo dự án phát triển công nghệ cao mã số CNC.01.DAPT/13 trong điều trị tái thông động mạch vành” Giai đoạn nghiên cứu: Đánh giá độ an toàn và hiệu quả của thiết bị y tế",
+            "role": "Principal Investigator",
+            "project_code": "16/CN-K2ĐT",
+            "management_level": "Bộ Y Tế - Cục khoa học công nghệ và đào tạo",
+            "period": "2016-2018",
+            "acceptance_date": "28/6/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng Stent không phủ thuốc, Stent phủ thuốc Sirolimus, Stent phủ thuốc Paclitaxel và bóng nong không phủ thuốc lần đầu tiên sản xuất tại Việt Nam theo dự án phát triển công nghệ cao mã số CNC.01.DAPT/13 trong điều trị tái thông động mạch vành” Nhánh nghiên cứu: Bóng nong không phủ thuốc",
+            "role": "Principal Investigator",
+            "project_code": "07/CN-K2ĐT",
+            "management_level": "Bộ Y Tế - Cục khoa học công nghệ và đào tạo",
+            "period": "2016-2018",
+            "acceptance_date": "15/3/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu qui trình kỹ thuật can thiệp nội mạch nong và đặt stent động mạch cảnh và động mạch đốt sống đoạn trong và ngoài sọ trong điều trị thiếu máu não mạn tính” Thuộc chương trình KHCN trọng điểm cấp nhà nước: “Nghiên cứu ứng dụng và phát triển công nghệ tiên tiến phục vụ bảo vệ và chăm sóc sức khỏe cộng đồng” mã số KC.10/11-15",
+            "role": "Participant/Member",
+            "project_code": "KC.10.38/11-15",
+            "management_level": "Bộ Y tế Bệnh viện Chợ Rẫy",
+            "period": "2013-2015",
+            "acceptance_date": "05/5/2016",
+            "rating": "null"
+        },
+        {
+            "title": "Nghiên cứu phát triển và làm chủ qui trình công nghệ sản xuất bóng nong mạch và stent phủ thuốc bằng công nghệ nano (mã số nhiệm vụ: CNC.01.DAPT/13) thuộc: “Chương trình nghiên cứu, đào tạo và xây dựng hạ tầng kỹ thuật công nghệ cao”",
+            "role": "Participant/Member",
+            "project_code": "2019-08T-1265/KQNC",
+            "management_level": "Cấp quốc gia Bộ khoa học và công nghệ-Cục thông tin khoa học và công nghệ quốc gia",
+            "period": "null",
+            "acceptance_date": "22/11/2019",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Điều trị cấp cứu tim mạch Sách dịch nguyên bản: Treatment of cardiac emergencies",
+            "type": "Guide Book",
+            "publisher": "Mosby",
+            "publish_year": "1990",
+            "num_authors": 9,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tham gia dịch và trong ban thư ký",
+            "verification_document_id": "12/GCN-ĐHYD ngày 25/06/2020"
+        },
+        {
+            "title": "Phác đồ điều trị 2013 – Phần Nội Khoa",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản y học",
+            "publish_year": "2013",
+            "num_authors": 157,
+            "is_editor_in_chief": false,
+            "compiled_pages": "null",
+            "verification_document_id": "1261/GCN-ĐHYD ngày 20/10/2017"
+        },
+        {
+            "title": "Phác đồ điều trị 2018 – Phần Nội Khoa (Tập 1)",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản y học chi nhánh Tp HCM",
+            "publish_year": "2018",
+            "num_authors": 59,
+            "is_editor_in_chief": false,
+            "compiled_pages": "null",
+            "verification_document_id": "56/GCN-ĐHYD Ngày 02/7/2019"
+        },
+        {
+            "title": "Evidence-based cardiology practicen A 21st Century Approach",
+            "type": "Reference Book",
+            "publisher": "People's Medical Publish ing House-USA",
+            "publish_year": "2010",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chapter 19 Carotid Arterial Disease Trang 527-547",
+            "verification_document_id": "05/GCN-ĐHYD ngày 25/06/2020"
+        },
+        {
+            "title": "Practical Handbook of Advanced Interventional Cardiology: Fourth Edition",
+            "type": "Reference Book",
+            "publisher": "Wiley - Blackwell",
+            "publish_year": "2013",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Percutaneous Intervention of Cardiac Congenital Anomalies Trang 629-656",
+            "verification_document_id": "06//GCN-ĐHYD ngày 25/06/2020"
+        },
+        {
+            "title": "Thông tim chụp động mạch vành chẩn đoán",
+            "type": "null",
+            "publisher": "null",
+            "publish_year": "null",
+            "num_authors": 15,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Giải phẫu mạch vành Trang 67-76",
+            "verification_document_id": "Quyết định ban hành chương trình"
+        },
+        {
+            "title": "Thông tim, can thiệp mạch vành qua da và tim bẩm sinh cơ bản",
+            "type": "Textbook",
+            "publisher": "null",
+            "publish_year": "2019",
+            "num_authors": 0,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 77-92, Trang 93-130, Trang 194-208",
+            "verification_document_id": "Bệnh Viện Chợ rẫy đã ký ngày 04/05/2020"
+        },
+        {
+            "title": "Khuyến cáo của hội tim mạch can thiệp Việt Nam về can thiệp mạch vành trong đại dịch Covid-19",
+            "type": "Guide Book",
+            "publisher": "Hội tim mạch can thiệp Việt Nam",
+            "publish_year": "2020",
+            "num_authors": 21,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tham gia",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "Cẩm nang thông tim và chụp mạch vành chẩn đoán",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2021",
+            "num_authors": 32,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 171-186, Trang 187-218, Trang 223-236, Trang 329-348",
+            "verification_document_id": "Giấy xác nhận của Đại học Nam Cần Thơ 136/GXN-ĐHNCT Ngày 30/06/2022"
+        },
+        {
+            "title": "Thông tim Chụp mạch vành cơ bản",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Y Học",
+            "publish_year": "2023",
+            "num_authors": 22,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 28-42, Trang 43-51, Trang 52-66, Trang 67-95, Trang 96-104, Trang 105-120, Trang 121-136, Trang 177-185, Trang 186-197, Trang 198-218",
+            "verification_document_id": "Giấy xác nhận của Đại học Nam Cần Thơ 137/GXN-ĐHNCT Ngày 08/5/2023"
+        }
+    ],
+    "patents": null,
+    "achievements": [
+        {
+            "title": "Huân chương lao động hạng ba",
+            "certifying_organization": "Chủ tịch nước",
+            "certificate_document_id": "1011/QĐ-CTN, ngày 12/6/2019",
+            "award": "Huân chương lao động hạng ba",
+            "num_contributors": 1
+        },
+        {
+            "title": "Danh hiệu thầy thuốc ưu tú",
+            "certifying_organization": "null",
+            "certificate_document_id": "183/QĐ-CTN, ngày 14/02/2012",
+            "award": "Danh hiệu thầy thuốc ưu tú",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Siêu âm tim 2D và DOPPLER màu",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Trung tâm đào tạo và bồi dưỡng cán bộ Y tế TP",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "01/10/1992 - 07/01/1993"
+        },
+        {
+            "title": "Siêu âm tim qua đường thực quản",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Trung tâm đào tạo và bồi dưỡng cán bộ Y tế TP",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "08/06-09/06/1998"
+        },
+        {
+            "title": "The medical examination of visa applicants Khám sức khỏe tổng quát cho người di dân",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "CDC Hoa Kỳ",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "09/06/1995"
+        },
+        {
+            "title": "Intravascular ultrasound and intracoronary pressure measurements Thông tim- đo áp lực và siêu âm nội mạch vành (IVUS). Siêu âm trong buồng tim (ICE)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Center Hospitalier Universitaire Vaudois (CHUV) Thụy Sĩ",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "05-06/2008"
+        },
+        {
+            "title": "Chụp & Can thiệp ĐMV (2001) Coronary angioplasty training course Khoan căt mảng xơ vữa và siêu âm nội mạch động mạch vành Rotational Atherectomy and IVUS Imaging",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Her Majesty Cardiac Center, Faculty of Medicine Siriraj Hospital Mahidol University Thái Lan",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "23/04/2017"
+        },
+        {
+            "title": "TAVI training course Thay van động mạch chủ qua da",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Heart center Righospitalet, Conpenhagen Denmark Dan Mạch",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "28/08-10/09/2017"
+        },
+        {
+            "title": "IVUS Fellowship Siêu âm nội mạch động mạch vành",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Teikyo University Hospital, Tokyo, Japan – Nhật",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "09/04-11/04/2018"
+        },
+        {
+            "title": "Fellowship of SCAI (FSCAI) Thực tập sinh khoa học Hội Tim mạch Can thiệp Hoa Kỳ (The Society for Cardiovascular Angiography & Intervention-SCAI)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "SCAI (Hội Tim mạch Can thiệp Hoa Kỳ)",
+            "implementation_document_id": "Chứng nhận",
+            "notes": "2020"
+        },
+        {
+            "title": "Thống kê căn bản trong nghiên cứu y học",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Đại học Y Dược Tp Hồ Chí Minh",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "17/12/2003 - 02/01/2004"
+        },
+        {
+            "title": "Thiết kế nghiên cứu khoa học lâm sàng",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Viện Garvan (Úc)",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "18/12/2011"
+        },
+        {
+            "title": "Viết bài báo khoa học",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Đại học Quốc gia tp Hồ Chí Minh",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "12/3-14/03/2012"
+        },
+        {
+            "title": "Sư phạm y học",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Đại học Y Dược TP HCM",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "29/10/1997"
+        },
+        {
+            "title": "Phương Pháp giảng dạy và lượng giá lâm sàng dựa trên năng lực",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Đại học Y Dược TP HCM",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "15/6-26/6/2020"
+        },
+        {
+            "title": "Tin học",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Trường Đại học Tổng hợp TP HCM",
+            "implementation_document_id": "Chứng chỉ",
+            "notes": "22/09/-27/11/1993"
+        },
+        {
+            "title": "Trung Cấp Chính trị",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Trường Cán bộ TPHCM",
+            "implementation_document_id": "Bằng",
+            "notes": "2007-2008"
+        },
+        {
+            "title": "Khóa học bồi dưỡng theo tiêu chuẩn chức danh nghề nghiệp bác sĩ cao cấp (hạng 1)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "null",
+            "certifying_authority": "Trường Đại học Y tế công cộng",
+            "implementation_document_id": "Chứng nhận",
+            "notes": "13/8-24/09/2019"
+        }
+    ]
+}

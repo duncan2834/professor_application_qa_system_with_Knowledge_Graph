@@ -1,0 +1,272 @@
+{
+    "papers": [
+        {
+            "title": "Enhanced biomethanation of kitchen waste by different pretreatments.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioresource Technology. Elsevier Inc. ISSN 0960-8524",
+            "journal_ranking": "SCIE Q1",
+            "citation_count": 313,
+            "volume_issue_pages": "Vol.102 pp. 592-599",
+            "published_date": "01/2011"
+        },
+        {
+            "title": "Nghiên cứu xử lý kết hợp bùn bể tự hoại và bã hữu cơ, thu hồi biogas ở chế độ lên men kỵ khí nóng (55°C)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng. Bộ Xây dựng. ISSN 0866-0762",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 09-2011, trang 83-85",
+            "published_date": "09/2011"
+        },
+        {
+            "title": "Hybrid technology of up-flow anaerobic filter and membrane bioreactor for recovering energy from rich organic waste stream",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceeding of International Symposium on New Technologies for Urban safety of Mega cities in Asia. ISBN 978-604-83661-64-4.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 1043-1053",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Co-treatment of organic fractions of urban waste for energy recovery - a case study from Hanoi city, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceedings of The 37th WEDC International Conference: Sustainable Water and Sanitation Services for All in a Fast Changing World. ISBN: 978-604-82-1337-5 (NXB Xây dựng)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 209-215",
+            "published_date": "09/2014"
+        },
+        {
+            "title": "Đặc tính nước thải giết mổ gia súc tại thành phố Hà Nội và lựa chọn các công nghệ xử lý nước thải phù hợp",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Môi trường Đô thị Việt Nam. ISSN 1859-3674",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8 (92), trang 38-45",
+            "published_date": "11/2014"
+        },
+        {
+            "title": "Nghiên cứu phát triển và ứng dụng công nghệ màng trong xử lý nước thải phù hợp điều kiện của Việt Nam: Kết quả đạt được và triển vọng",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Cấp thoát nước Việt Nam. ISSN 1859-3623",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6 (110) trang 54-57",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Protein hydrolysis and fermentation under methanogenic and acidifying conditions",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biotechnology for Biofuel. Springer Nature. ISSN: 1754-6834",
+            "journal_ranking": "SCI Q1",
+            "citation_count": 86,
+            "volume_issue_pages": "Vol. 12: 254. pp. 1-10",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Effect of solid retention time (SRT) on protein hydrolysis and acidogenesis at pH5 and pH7 using gelatine as model protein",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Water Process Engineering. Elsevier. ISSN: 2214-7144",
+            "journal_ranking": "SCIE Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 44 pp. 1-8",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Effect of carbohydrates on protein hydrolysis in anaerobic digestion",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Water Science and Technology. IWA. ISSN: 0273-1223",
+            "journal_ranking": "SCIE Q2",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol. 86 (1) pp. 66-79",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Autoclaved aerated concrete grains as alternative absorbent and filter media for phosphorus recovery from municipal wastewater: A case study in Hanoi, Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Technology & Innovation. Elsevier. ISSN: 2352-1864",
+            "journal_ranking": "SCIE Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol. 31 pp. 1-11",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Effect of Hydraulic retention time on performance of anaerobic membrane bioreactor treating slaughterhouse wastewater",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Environmental Research. Elsevier. ISSN 0013-9351",
+            "journal_ranking": "SCIE Q1",
+            "citation_count": 12,
+            "volume_issue_pages": "Vol. 233 pp. 1-7",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Production of Volatile Fatty Acids from Organic-Rich Waste Streams: Current Issues, Challenges, and Opportunities.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Current Pollution Reports, 2024. Springer Nature. ISSN: 2198-6592",
+            "journal_ranking": "SCIE Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 10 pp. 594-605",
+            "published_date": "07/2024"
+        },
+        {
+            "title": "Nghiên cứu giải pháp ứng dụng đề án phục hồi môi trường và phát triển hệ thống 04 sông nội đô của Thành phố Hà Nội",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo Giải pháp thực hiện Nghị quyết số 37-NQ/TW Đột phá phát triển KHCN, đổi mới sáng tạo và chuyển đổi số Quốc gia trong cơ sở giáo dục Đại học, Cao đẳng góp phần phát triển Kinh tế - Xã hội của Thủ đô và Đất nước",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 133-139",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Đánh giá đặc tính nước thải đô thị với mô hình hệ thống thoát nước riêng tại TP. Đà Lạt, Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng, Bộ Xây dựng. ISSN 2734-9888.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 5.2025, trang 198-201",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Đánh giá diễn biến chất lượng nước sông Đa Độ và các giải pháp công nghệ xử lý nước hưởng tới cấp nước tuần hoàn.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và công nghệ Xây dựng Trường ĐHXD Hà Nội. ISSN 2615-9058.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19 (2V) trang 116-125",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Technical-economical evaluation of extraction methods for volatile fatty acid recovery from rich organic wastewater streams.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng, Bộ Xây dựng. ISSN 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 06.2025 Trang 334-338",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Enhancement of polyvinyl alcohol adsorbent with citric acid and L-lysine for biochemical recovery from food processing waste streams.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering (STCE) - HUCE ISSN 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.19, No.2 pp. 92-106",
+            "published_date": "06/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu các tác động ức chế quá trình xử lý kỵ khí chất thải hữu cơ",
+            "role": "Principal Investigator",
+            "project_code": "12-2011/KHXD (247/QĐ-KHCN)",
+            "management_level": "Trường Đại học Xây dựng (Hà Nội)",
+            "period": "03/2011 - 12/2011",
+            "acceptance_date": "27/12/2011",
+            "rating": "Xuất sắc (Số 1312/QĐ-KHCN)"
+        },
+        {
+            "title": "Nghiên cứu xử lý nước thải cơ sở giết mổ gia súc bằng công nghệ xử lý sinh học kỵ khí kết hợp màng vi lọc (AnMBR)",
+            "role": "Principal Investigator",
+            "project_code": "01C-09/02-2013-2 (5699/QĐ-UBND)",
+            "management_level": "Cấp Sở KH&CN Thành phố Hà Nội",
+            "period": "01/2013 - 12/2014",
+            "acceptance_date": "22/06/2015",
+            "rating": "Loại Khá (Số 398/QĐ-SKH&CN)"
+        },
+        {
+            "title": "Nghiên cứu giải pháp xử lý đồng thời các chất ô nhiễm hữu cơ, amoni và mangan trong nước mặt sử dụng bể lọc tiếp xúc sinh học",
+            "role": "Assistant",
+            "project_code": "RD15-22 (172/QĐ-BXD)",
+            "management_level": "Bộ Xây dựng",
+            "period": "03/2022 - 05/2024",
+            "acceptance_date": "03/06/2024",
+            "rating": "Khá (Số 15-22/BBTL)"
+        },
+        {
+            "title": "Nghiên cứu xử lý nước thải chế biến thực phẩm bằng công nghệ kỵ khí cải tiến để sản xuất nguyên liệu sinh học",
+            "role": "Principal Investigator",
+            "project_code": "B2024.XDA.04 (1918/QĐ-BGDĐT)",
+            "management_level": "Bộ Giáo dục và Đào tạo",
+            "period": "01/2024 - 12/2025",
+            "acceptance_date": "Đang triển khai theo tiến độ",
+            "rating": "Đang triển khai theo tiến độ"
+        }
+    ],
+    "books": [
+        {
+            "title": "Lý luận và Giải pháp tổ chức không gian cho các khu vực tái phát triển trong đô thị - Cải tạo chỉnh trang không gian hai bên sông Tô Lịch theo hướng tiếp cận sinh thái và văn hóa",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Xây dựng",
+            "publish_year": "2022",
+            "num_authors": 10,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Nội dung về môi trường nước, thoát nước, thoát nước thải",
+            "verification_document_id": "167/XN-ĐHXDHN, ngày 18/06/2025"
+        },
+        {
+            "title": "Current Developments in Biotechnology and Bioengineering - Advances in Biological Wastewater Treatment Systems",
+            "type": "Reference Book",
+            "publisher": "Elsevier",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chapter 14: Biochemical processes in anaerobic treatment of wastewater",
+            "verification_document_id": "166/XN-ĐHXDHN, ngày 18/06/2025"
+        },
+        {
+            "title": "Giáo trình Cơ sở các quá trình Lý Hóa Sinh trong Kỹ thuật nước - Môi trường nước",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Xây dựng",
+            "publish_year": "2023",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "11-20, 48-49, 57-63, 107-117, 175-194 (50/257 trang)",
+            "verification_document_id": "215/XN-ĐHXDHN, ngày 12/06/2023"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo trình độ bậc ỹ (Kỹ sư và Thạc sĩ) ngành Kỹ thuật môi trường, ngành Kỹ thuật Cấp thoát nước (chuyên ngành Kỹ thuật nước-Môi trường nước)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "QĐ số 509/QĐ-ĐHXDHN ngày 08/8/2022",
+            "certifying_authority": "Trường Đại học Xây dựng Hà Nội",
+            "implementation_document_id": "QĐ số 746/QĐ-ĐHXDHN ngày 13/6/2023",
+            "notes": "Hệ Kỹ sư và Thạc sĩ"
+        },
+        {
+            "title": "Tự đánh giá chương trình đào tạo Đại học theo tiêu chuẩn của AUN-QA (chương trình đào tạo Kỹ thuật Cấp thoát nước)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "QĐ số 712/ QĐ-ĐHXDHN ngày 28/04/2025",
+            "certifying_authority": "Trường Đại học Xây dựng Hà Nội",
+            "implementation_document_id": "Đang triển khai",
+            "notes": "Hệ Kỹ sư"
+        },
+        {
+            "title": "Cải tiến chương trình đào tạo Đại học (Chương trình đào tạo Kỹ thuật Cấp thoát nước)",
+            "applicant_role": "Tham gia",
+            "assignment_document_id": "QĐ số 710/ QĐ-ĐHXDHN ngày 28/04/2025",
+            "certifying_authority": "Trường Đại học Xây dựng Hà Nội",
+            "implementation_document_id": "Đang triển khai",
+            "notes": "Hệ Kỹ sư"
+        }
+    ]
+}

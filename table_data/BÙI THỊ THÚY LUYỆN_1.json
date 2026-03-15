@@ -1,0 +1,875 @@
+{
+    "papers": [
+        {
+            "title": "An evaluation of the RNase H inhibitory effects of Vietnamese medicinal plant extracts and natural compounds.",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Pharmaceutical Biology/ISSN: 1388-0209",
+            "journal_ranking": "SCIE, Scopus (IF 3.89, Q1)",
+            "citation_count": 11,
+            "volume_issue_pages": "49, 10, 1046-1051",
+            "published_date": "5/2011"
+        },
+        {
+            "title": "Anti-inflammatory and PPAR subtypes transactivational activities of phenolics and lignans from the stem bark of Kalopanax pictus.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bulletin of the Korean Chemical Society/ISSN: 0253-2964",
+            "journal_ranking": "SCIE, Scopus (IF 1.70, Q2)",
+            "citation_count": 12,
+            "volume_issue_pages": "32, 11, 4049-4054",
+            "published_date": "9/2011"
+        },
+        {
+            "title": "Diarylheptanoid glycosides from Tacca plantaginea and their effects on NF-kappaB activation and PPAR transcriptional activity.",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 14,
+            "volume_issue_pages": "22, 21, 6681-6687",
+            "published_date": "9/2012"
+        },
+        {
+            "title": "Plantagiolides I and J, two new withanolide glucosides from Tacca plantaginea with NF-kappaB inhibitory and peroxisome proliferator-activated receptor transactivational activities.",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemical and Pharmaceutical Bulletin/ISSN: 0009-2363",
+            "journal_ranking": "SCIE, Scopus (IF 1.70, Q2)",
+            "citation_count": 22,
+            "volume_issue_pages": "60, 12, 1494-1501",
+            "published_date": "9/2012"
+        },
+        {
+            "title": "Diterpenoids from the soft coral Sinularia maxima and their inhibitory effects on lipopolysaccharide-stimulated production of pro-inflammatory cytokines in bone marrow-derived dendritic cells.",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemical and Pharmaceutical Bulletin/ISSN: 0009-2363",
+            "journal_ranking": "SCIE, Scopus (IF 1.70, Q2)",
+            "citation_count": 30,
+            "volume_issue_pages": "60, 12, 1581-1589",
+            "published_date": "9/2012"
+        },
+        {
+            "title": "Steroidal constituents from the soft coral Sinularia dissecta and their inhibitory effects on lipopolysaccharide-stimulated production of pro-inflammatory cytokines in bone marrow-derived dendritic cells.",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bulletin of the Korean Chemical Society/ISSN: 0253-2964",
+            "journal_ranking": "SCIE, Scopus (IF 1.70, Q2)",
+            "citation_count": 16,
+            "volume_issue_pages": "34, 3, 949-952",
+            "published_date": "3/2013"
+        },
+        {
+            "title": "Anti-flammatory components of the starfish Astropecten polyacanthus.",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Marine Drugs/ISSN: 1660-3397",
+            "journal_ranking": "SCIE, Scopous (IF 5.40, Q1)",
+            "citation_count": 36,
+            "volume_issue_pages": "11, 8, 2917-2926",
+            "published_date": "8/2013"
+        },
+        {
+            "title": "Anti-inflammatory and PPAR transactivational properties of flavonoids from the roots of Sophora flavescens.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytotherapy Research/ISSN: 1099-1573",
+            "journal_ranking": "SCIE, Scopus (IF 7.20, Q1)",
+            "citation_count": 35,
+            "volume_issue_pages": "27, 9, 1300-1307",
+            "published_date": "9/2013"
+        },
+        {
+            "title": "Anti-inflammatory asterosaponins from the starfish Astropecten monacanthus.",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Natural Products/ISSN: 0163-3864",
+            "journal_ranking": "SCIE, Scopous (IF 5.10, Q1)",
+            "citation_count": 50,
+            "volume_issue_pages": "76, 9, 1764-1770",
+            "published_date": "9/2013"
+        },
+        {
+            "title": "Steroidal constituents from the starfish Astropecten polyacanthus and their anticancer effects.",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemical and Pharmaceutical Bulletin/ISSN: 0009-2363",
+            "journal_ranking": "SCIE, Scopus (IF 1.70, Q2)",
+            "citation_count": 31,
+            "volume_issue_pages": "61, 10, 1044-1051",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "New anti-inflammatory cembranoid diterpenoids from the Vietnamese soft coral Lobophytum crassum.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 49,
+            "volume_issue_pages": "24, 1, 228-232",
+            "published_date": "01/2014"
+        },
+        {
+            "title": "Asterosaponins from the starfish Astropecten monacanthus suppress growth and induce apoptosis in HL-60, PC-3, and SNU-C5 human cancer cell lines.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biological and Pharmaceutical Bulletin/ISSN: 0918-6158",
+            "journal_ranking": "SCIE, Scopus (IF 2.00, Q2)",
+            "citation_count": 29,
+            "volume_issue_pages": "37, 2, 315-321",
+            "published_date": "02/2014"
+        },
+        {
+            "title": "Cembranoid diterpenes from the soft coral Lobophytum crassum and their anti-inflammatory activities.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Chemical and Pharmaceutical Bulletin/ISSN: 0009-2363",
+            "journal_ranking": "SCIE, Scopus (IF 1.70, Q2)",
+            "citation_count": 20,
+            "volume_issue_pages": "62, 2, 203-208",
+            "published_date": "02/2014"
+        },
+        {
+            "title": "Rat intestinal sucrase inhibition of constituents from the roots of Rosa rugosa Thunb.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 33,
+            "volume_issue_pages": "24, 4, 1192-1196",
+            "published_date": "02/2014"
+        },
+        {
+            "title": "Anti-inflammatory components of Euphorbia humifusa Willd.",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 60,
+            "volume_issue_pages": "24, 8, 1895-1900",
+            "published_date": "4/2014"
+        },
+        {
+            "title": "Triterpene saponins from the sea cucumber Stichopus chloronotus.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Communications/ISSN: 1934-578X",
+            "journal_ranking": "SCIE, Scopus (IF 1.80, Q3)",
+            "citation_count": 10,
+            "volume_issue_pages": "9, 5, 615-618",
+            "published_date": "5/2014"
+        },
+        {
+            "title": "NF-κB inhibitory activity of polyoxygenated steroids from the Vietnamese soft coral Sarcophyton pauciplicatum.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 24,
+            "volume_issue_pages": "24, 13, 2834-2838",
+            "published_date": "5/2014"
+        },
+        {
+            "title": "Inhibition of NF-κB transcriptional activation in HepG2 cells by diterpenoids from the soft coral Sinularia maxima.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Archives of Pharmacal Research/ISSN: 0253-6269",
+            "journal_ranking": "SCIE, Scopus (IF 6.70, Q1)",
+            "citation_count": 16,
+            "volume_issue_pages": "37, 6, 706-712",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "Secondary metabolites from Vietnamese marine invertebrates with activity against Trypanosoma brucei and T. cruzi.",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecules/ISSN: 1420-3049",
+            "journal_ranking": "SCIE, Scopus (IF 4.60, Q1)",
+            "citation_count": 27,
+            "volume_issue_pages": "19, 6, 7869-7880",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "A new phenolic component from Triticum aestivum sprouts and its effects on LPS-stimulated production of nitric oxide and TNF-α in RAW264.7 cells.",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Phytotherapy Research/ISSN: 1099-1573",
+            "journal_ranking": "SCIE, Scopus (IF 7.20, Q1)",
+            "citation_count": 27,
+            "volume_issue_pages": "28, 7, 1064-1070",
+            "published_date": "7/2014"
+        },
+        {
+            "title": "A new phenylpropanoid and an alkylglycoside from Piper retrofractum leaves with their antioxidant and α-glucosidase inhibitory activity.",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 53,
+            "volume_issue_pages": "24, 17, 4120-4124",
+            "published_date": "8/2014"
+        },
+        {
+            "title": "Triterpenoid saponins from the roots of Rosa rugosa Thunb. as rat intestinal sucrase inhibitors.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Archives of Pharmacal Research/ISSN: 0253-6269",
+            "journal_ranking": "SCIE, Scopus (IF 6.70, Q1)",
+            "citation_count": 24,
+            "volume_issue_pages": "37, 10, 1280-1285",
+            "published_date": "9/2014"
+        },
+        {
+            "title": "Evaluation of the anti-osteoporosis and antioxidant activities of phenolic compounds from Euphorbia maculata.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of the Korean Society for Applied Biological Chemistry/ISSN: 1738-2203",
+            "journal_ranking": "SCIE, Scopus (IF 0.69, Q4)",
+            "citation_count": 16,
+            "volume_issue_pages": "57, 5, 573-579",
+            "published_date": "10/2014"
+        },
+        {
+            "title": "Steroidal constituents from the edible sea urchin Diadema savignyi Michelin induce apoptosis in human cancer cells.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Medicinal Food/ISSN: 1096-620X",
+            "journal_ranking": "SCIE, Scopus (IF 2.40, Q3)",
+            "citation_count": 32,
+            "volume_issue_pages": "18, 1, 45-53",
+            "published_date": "01/2015"
+        },
+        {
+            "title": "Anti-inflammatory components of Chrysanthemum indicum flowers.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 87,
+            "volume_issue_pages": "25, 2, 266-269",
+            "published_date": "01/2015"
+        },
+        {
+            "title": "Inhibitory effect of Triticum aestivum ethanol extract on lipid accumulation in 3T3-L1 preadipocytes.",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Yakhak Hoeji/ISSN: 0377-9556",
+            "journal_ranking": "Web of Science",
+            "citation_count": 6,
+            "volume_issue_pages": "55, 6, 478-484",
+            "published_date": "12/2011"
+        },
+        {
+            "title": "Effects of cynaroside, cynarin and linarin on secretion, production and gene expression of airway MUC5AC mucin in NCI-H292 cells.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Sciences/ISSN 1226-3907",
+            "journal_ranking": "Scopus (CS 1.80, Q4)",
+            "citation_count": 4,
+            "volume_issue_pages": "21, 1, 59-65",
+            "published_date": "02/2015"
+        },
+        {
+            "title": "Chemical components from the leaves of Trichosanthes baviensis and their tyrosinase inhibitory activity.",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bulletin of the Korean Chemical Society/ISSN: 0253-2964",
+            "journal_ranking": "SCIE, Scopus (IF 1.70, Q2)",
+            "citation_count": 4,
+            "volume_issue_pages": "36, 2, 703-706",
+            "published_date": "02/2015"
+        },
+        {
+            "title": "Anti-inflammatory components of the Vietnamese starfish Protoreaster nodosus.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biological Research/ISSN: 0716-9760",
+            "journal_ranking": "SCIE, Scopus (IF 6.70, Q1)",
+            "citation_count": 20,
+            "volume_issue_pages": "48, 2, 12",
+            "published_date": "02/2015"
+        },
+        {
+            "title": "Chemical constituents from Kandelia candel with their inhibitory effects on pro-inflammatory cytokines production in LPS-stimulated bone marrow-derived dendritic cells (BMDCs).",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 24,
+            "volume_issue_pages": "25, 7, 1412-1416",
+            "published_date": "4/2015"
+        },
+        {
+            "title": "In vitro evaluation of the antioxidant and cytotoxic activities of constituents from the mangrove Lumnitzera racemosa Willd.",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Archives of Pharmacal Research/ISSN: 0253-6269",
+            "journal_ranking": "SCIE, Scopus (IF 6.70, Q1)",
+            "citation_count": 33,
+            "volume_issue_pages": "38, 4, 446-455",
+            "published_date": "4/2015"
+        },
+        {
+            "title": "The anti-osteoporosis and antioxidant activities of chemical constituents from Chrysanthemum indicum flowers.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Phytotherapy Research/ISSN: 1099-1573",
+            "journal_ranking": "SCIE, Scopus (IF 7.20, Q1)",
+            "citation_count": 30,
+            "volume_issue_pages": "29, 4, 540-548",
+            "published_date": "5/2015"
+        },
+        {
+            "title": "Peroxisome proliferator-activated receptor transactivational effects in HepG2 cells of cembranoids from the soft coral Lobophytum crassum Von Marenzeller.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Archives of Pharmacal Research/ISSN: 0253-6269",
+            "journal_ranking": "SCIE, Scopus (IF 6.70, Q1)",
+            "citation_count": 11,
+            "volume_issue_pages": "38, 5, 769-775",
+            "published_date": "5/2015"
+        },
+        {
+            "title": "Chemical constituents of Triticum aestivum and their effects on adipogenic differentiation of 3T3-L1 preadipocytes.",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of Pharmacal Research/ISSN: 0253-6269",
+            "journal_ranking": "SCIE, Scopus (IF 6.70, Q1)",
+            "citation_count": 28,
+            "volume_issue_pages": "38, 6, 1011-1018",
+            "published_date": "6/2015"
+        },
+        {
+            "title": "Anti-protozoal activity of cembrane-type diterpenes from Vietnamese soft corals.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecules/ISSN: 1420-3049",
+            "journal_ranking": "SCIE, Scopus (IF 4.60, Q1)",
+            "citation_count": 32,
+            "volume_issue_pages": "20, 7, 12459-12468",
+            "published_date": "7/2015"
+        },
+        {
+            "title": "Antiosteoporotic and antioxidant activities of diterpenoids from the Vietnamese soft corals Sinularia maxima and Lobophytum crassum.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medicinal Chemistry Research/ISSN: 1054-2523",
+            "journal_ranking": "SCIE, Scopus (IF 2.60, Q2)",
+            "citation_count": 18,
+            "volume_issue_pages": "24, 9, 3551-3560",
+            "published_date": "7/2015"
+        },
+        {
+            "title": "Chemical constituents of Miliusa balansae leaves and inhibition of nitric oxide production in lipopolysaccharide-induced RAW264.7 cells.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 28,
+            "volume_issue_pages": "25, 18, 3859-3863",
+            "published_date": "8/2015"
+        },
+        {
+            "title": "Identification of six new lupine-type triterpenoids from Acanthopanax koreanum and their tyrosinase inhibitory activities.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 11,
+            "volume_issue_pages": "26, 3, 1061-1067",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Triticumoside induces apoptosis via caspase-dependent mitochondrial pathway and inhibits migration through downregulation of MMP2/9 in human lung cancer cells.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Acta Biochimica Et Biophysica Sinica/ISSN: 1672-9145",
+            "journal_ranking": "SCIE, Scopus (IF 3.70, Q2)",
+            "citation_count": 18,
+            "volume_issue_pages": "48, 2, 153-160",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "In vitro anti-inflammatory components isolated from the carnivorous plant Nepenthes mirabilis (Lour.) Rafarin.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Pharmaceutical Biology/ISSN: 1388-0209",
+            "journal_ranking": "SCIE, Scopus (IF 3.89, Q2)",
+            "citation_count": 28,
+            "volume_issue_pages": "54, 4, 588-594",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Soluble epoxide hydrolase inhibitory activity by rhizomes of Kaempferia parviflora Wall. ex Baker.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medicinal Chemistry Research/ISSN: 1054-2523",
+            "journal_ranking": "SCIE, Scopus (IF 2.60, Q2)",
+            "citation_count": 5,
+            "volume_issue_pages": "25, 4, 704-711",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Identification, characterization, kenetics and molecular docking studies of flavonoid constituents from Archidendron clypearia (Jack.) Nielsen leaves and twigs.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry/ISSN: 0968-0896",
+            "journal_ranking": "SCIE, Scopus (IF 3.46, Q2)",
+            "citation_count": 25,
+            "volume_issue_pages": "24, 14, 3125-3132",
+            "published_date": "6/2016"
+        },
+        {
+            "title": "Rat intestinal sucrase inhibited by minor constituents from the leaves and twigs of Archidendron clypearia (Jack.) Nielsen.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 7,
+            "volume_issue_pages": "26, 17, 4272-4276",
+            "published_date": "8/2016"
+        },
+        {
+            "title": "Chemical constituents of Piper aduncum and their inhibitory effects on soluble epoxide hydrolase and tyrosinase.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Medicinal Chemistry Research/ISSN: 1054-2523",
+            "journal_ranking": "SCIE, Scopus (IF 2.60, Q2)",
+            "citation_count": 17,
+            "volume_issue_pages": "26, 1, 220-226",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Anti-inflammatory flavonoid C-glycosides from Piper aduncum leaves.",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Planta Medica/ISSN: 0032-0943",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 27,
+            "volume_issue_pages": "82, 17, 1475-1481",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "In silico investigation of cycloartane triterpene derivatives from Cimicifuga dahurica (Turcz.) Maxim. roots for the development of potent soluble epoxide hydrolase inhibitors.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Biological Macromolecules/ISSN: 0141-8130",
+            "journal_ranking": "SCIE, Scopus (IF 8.20, Q1)",
+            "citation_count": 31,
+            "volume_issue_pages": "98, 526-534",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "Soluble epoxide hydrolase inhibitors of indolinone alkaloids and phenolic derivatives from Cimicifuga dahurica (Turcz.) Maxim.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Bioorganic & Medicinal Chemistry Letters/ISSN: 0960-894X",
+            "journal_ranking": "SCIE, Scopus (IF 2.70, Q2)",
+            "citation_count": 18,
+            "volume_issue_pages": "27, 8, 1874-1879",
+            "published_date": "3/2017"
+        },
+        {
+            "title": "Inhibition potential of cycloartane-type glycosides from the roots of Cimicifuga dahurica against soluble epoxide hydrolase.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Natural Products/ISSN: 0163-3864",
+            "journal_ranking": "SCIE, Scopous (IF 5.10, Q1)",
+            "citation_count": 23,
+            "volume_issue_pages": "80, 6, 1867-1875",
+            "published_date": "6/2017"
+        },
+        {
+            "title": "Chemical constituents from Cimicifuga dahurica and their anti-proliferative effects on MCF-7 breast cancer cells.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecules/ISSN: 1420-3049",
+            "journal_ranking": "SCIE, Scopus (IF 4.60, Q1)",
+            "citation_count": 26,
+            "volume_issue_pages": "23, 1083",
+            "published_date": "5/2018"
+        },
+        {
+            "title": "The insight of in vitro and in silico studies on cholinesterase inhibitors from the roots of Cimicifuga dahurica (Turcz.) Maxim.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Enzyme Inhibition And Medicinal Chemistry/ISSN: 1475-6366",
+            "journal_ranking": "SCIE, Scopus (IF 5.60, Q1)",
+            "citation_count": 15,
+            "volume_issue_pages": "33, 1, 1174-1180",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Megastigmane and abscisic acid glycosides from the leaves of Laurus nobilis L.",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry Letters/ISSN: 1874-3900",
+            "journal_ranking": "SCIE, Scopus (IF 1.70, Q2)",
+            "citation_count": 8,
+            "volume_issue_pages": "33, 1-5",
+            "published_date": "7/2019"
+        },
+        {
+            "title": "Anti-inflammatory secondary metabolites from the stems of Millettia dielsiana Harms ex Diels.",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Carbohydrate Research/ISSN: 0008-6215",
+            "journal_ranking": "SCIE, Scopus (IF 3.10, Q2)",
+            "citation_count": 23,
+            "volume_issue_pages": "484, 107778",
+            "published_date": "8/2019"
+        },
+        {
+            "title": "Anti-inflammatory effects of two new stilbene-phenylpropanoid derivatives from Chamaecrista pumila.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytochemistry Letters/ISSN: 1874-3900",
+            "journal_ranking": "SCIE, Scopus",
+            "citation_count": 3,
+            "volume_issue_pages": "51, 34-38",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "α-Amylase and α-glucosidase inhibitors from the aerial parts of Chamaecrista pumila (Lam.) K. Larsen.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Research/ISSN: 1478-6419",
+            "journal_ranking": "SCIE, Scopus (IF 2.20, Q3)",
+            "citation_count": 2,
+            "volume_issue_pages": "37, 24, 4121-4134",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Study on the effect of processing methods on the total polyphenol, 2,3,5,4'-tetrahydroxystilben-2-O-β-D-glucoside, and physcion contents in Fallopia multiflora Thunb. Haraldson root.",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Brazilian Journal of Pharmaceutical Sciences/ISSN: 1984-8250",
+            "journal_ranking": "SCIE, Scopus (IF 1.30, Q3)",
+            "citation_count": 59,
+            "volume_issue_pages": "e21570",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Isocucurbic acid derivatives and soluble epoxide hydroxylase inhibitors from the flowers of Chrysanthemum indicum L.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry & Biodiversity/ISSN: 1612-1872",
+            "journal_ranking": "SCIE, Scopus (IF 2.90, Q2)",
+            "citation_count": 1,
+            "volume_issue_pages": "20, 10, e202301242",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "New solasodine-type glycoalkaloids isolated from Solanum nigrum and their cytotoxic activity.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Chemistry & Biodiversity/ISSN: 1612-1872",
+            "journal_ranking": "SCIE, Scopus (IF 2.90, Q2)",
+            "citation_count": 21,
+            "volume_issue_pages": "e202400872",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "α-Glucosidase inhibitors from Polyscias serrata roots in a parallel study of network pharmacology.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Records of Natural Products/ISSN: 1307-6167",
+            "journal_ranking": "SCIE, Scopus (IF 1.90, Q2)",
+            "citation_count": 18,
+            "volume_issue_pages": "XXX-XXX",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Soluble epoxide hydrolase inhibitory activity from Euphorbia supina Rafin.",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Natural Product Sciences/ISSN: 1226-3907",
+            "journal_ranking": "Scopus (CS 1.80, Q4)",
+            "citation_count": 4,
+            "volume_issue_pages": "21, 3, 176-184",
+            "published_date": "7/2015"
+        },
+        {
+            "title": "Chemicals from Cimicifuga dahurica and their inhibitory effects on pro-inflammatory cytokine production by LPS-stimulated bone marrow-derived dendritic cells.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Natural Product Sciences/ISSN: 1226-3907",
+            "journal_ranking": "Scopus (CS 1.80, Q4)",
+            "citation_count": 9,
+            "volume_issue_pages": "24, 3, 194-198",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "Optimizing extraction of polyphenols from red Fallopia multiflora Thunb. root in raw and processed form by response surface method: a comparison.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Pharmaceutical Sciences Asia/ISSN: 2586-8195",
+            "journal_ranking": "Scopus (CS 0.90, Q3)",
+            "citation_count": 50,
+            "volume_issue_pages": "1, 41-50",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Chiết xuất, phân lập và nghiên cứu tác dụng gây độc tế bào ung thư một số hợp chất từ hoa cúc vàng (Chrysanthemum indicum).",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Hóa học/ISSN: 2572-8288",
+            "journal_ranking": "Scopus (CS 1.70, Q3)",
+            "citation_count": 55,
+            "volume_issue_pages": "4E23, 16-20",
+            "published_date": "8/2017"
+        },
+        {
+            "title": "Cải tiến phương pháp chiết xuất curcuminoid từ củ nghệ (Curcuma longa L.).",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dược học/ISSN: 0866-7861",
+            "journal_ranking": "",
+            "citation_count": 500,
+            "volume_issue_pages": "57, 8-11",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Nghiên cứu thành phần hóa học cây sài đất (Wedelia chinensis (Osbeck.) Merr.).",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dược học/ISSN: 0866-7861",
+            "journal_ranking": "",
+            "citation_count": 510,
+            "volume_issue_pages": "58, 25-29",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Bước đầu nghiên cứu bào chế viên hoàn giọt chứa đan sâm, tam thất trồng ở Việt Nam.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dược học/ISSN: 0866-7861",
+            "journal_ranking": "",
+            "citation_count": 510,
+            "volume_issue_pages": "58, 43-48",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Large-scale decaffeination of green tea using supercritical carbon dioxide.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dược liệu/ISSN: 1859-4735",
+            "journal_ranking": "",
+            "citation_count": 24,
+            "volume_issue_pages": "3, 138-143",
+            "published_date": "4/2019"
+        },
+        {
+            "title": "Chemical constituents and biological activity of Pouzolzia zeylanica (L.) Benn whole plant.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dược liệu/ISSN: 1859-4735",
+            "journal_ranking": "",
+            "citation_count": 24,
+            "volume_issue_pages": "3, 148-154",
+            "published_date": "4/2019"
+        },
+        {
+            "title": "Nghiên cứu chiết xuất, tinh chế palmatin từ thân rễ hoàng đằng bằng phương pháp trao đổi ion.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dược liệu/ISSN: 1859-4735",
+            "journal_ranking": "",
+            "citation_count": 25,
+            "volume_issue_pages": "2, 81-88",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Xây dựng phương pháp định lượng danshensu trong cao nước rễ đan sâm bằng phương pháp sắc ký lỏng hiện năng cao.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dược liệu/ISSN: 1859-4735",
+            "journal_ranking": "",
+            "citation_count": 25,
+            "volume_issue_pages": "4, 236-241",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "Nghiên cứu tác dụng chống oxy hóa và gây độc tế bào ung thư của các phân đoạn hạt giổi ngọt (Michelia tonkinensis A. Chev) thu hái tại tỉnh Hòa Bình.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học/ISSN: 2734-9209",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "9, 135-139",
+            "published_date": "9/2020"
+        },
+        {
+            "title": "Nghiên cứu chiết xuất và làm giàu acid salvianolic B và tanshinon IIA trong cao rễ đan sâm.",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học/ISSN: 2734-9209",
+            "journal_ranking": "",
+            "citation_count": 8,
+            "volume_issue_pages": "11, 42-49",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Xây dựng phương pháp định tính, định lượng hoạt chất 2,3,5,4'-tetrahydroxy-stilben-2-O-β-D-glucosid trong rễ hà thủ ô đỏ (Fallopia multiflora Thunb.) bằng phương pháp HPLC.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học/ISSN: 2734-9209",
+            "journal_ranking": "",
+            "citation_count": 10,
+            "volume_issue_pages": "12, 71-75",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Xây dựng phương pháp định tính, định lượng hoạt chất physcion trong rễ hà thủ ô đỏ (Fallopia multiflora Thunb.) bằng phương pháp HPLC.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học/ISSN: 2734-9209",
+            "journal_ranking": "",
+            "citation_count": 28,
+            "volume_issue_pages": "9, 44-49",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Nghiên cứu tạo biofilm của S. aureus trên đĩa 96 giếng và sàng lọc khả năng diệt S. aureus trong biofilm của một số mẫu dược liệu tại Việt Nam.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Hóa học và Ứng dụng/ISSN: 1859-4069",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "60B, 277-281",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Các hợp chất phenolic phân lập từ rễ cây hà thủ ô đỏ (Fallopia multiflora Thumb.) ở Việt Nam.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Phân tích Hóa, Lý và Sinh học/ISSN: 0868-3224",
+            "journal_ranking": "",
+            "citation_count": 3,
+            "volume_issue_pages": "27, 244-248",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Đánh giá tác dụng hạ lipid máu của viên hoàn giọt chứa đan sâm, tam thất Việt Nam trên thực nghiệm.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Dược & Thông tin thuốc/ISSN: 1859-364X",
+            "journal_ranking": "",
+            "citation_count": 4,
+            "volume_issue_pages": "13, 1-7",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Bước đầu nghiên cứu thành phần hóa học của lá cây khế (Averrhoa carambola L.).",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học quân sự/ISSN: 1859-0748",
+            "journal_ranking": "",
+            "citation_count": 48,
+            "volume_issue_pages": "216-226",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Optimization of pressurized solvent extraction using response surface methodology and HPLC analysis of vitexin from Passiflora foetida L.",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dược liệu/ISSN: 1859-4735",
+            "journal_ranking": "",
+            "citation_count": 29,
+            "volume_issue_pages": "2, 98-106",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Corn steep liquor preparation for use in the fermentation process.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dược liệu/ISSN: 1859-4735",
+            "journal_ranking": "",
+            "citation_count": 29,
+            "volume_issue_pages": "2, 125-128",
+            "published_date": "4/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu phân lập và đánh giá tác dụng chống dị ứng của một số thành phần hóa học chiết từ cây bọ mắm (Pouzolzia zeylanica Benn. & R.Br.).",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp Cơ sở",
+            "period": "2018-2019",
+            "acceptance_date": "19/6/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xây dựng quy trình bào chế viên hoàn giọt chứa đan sâm, tam thất Việt Nam.",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Cấp Bộ",
+            "period": "2018-2021",
+            "acceptance_date": "15/10/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu bào chế viên nang cứng có tác dụng giảu lo âu từ cây lạc tiên và cây rau má.",
+            "role": "Key Member",
+            "project_code": "01C-06/05-1017-3",
+            "management_level": "Cấp Sở",
+            "period": "2017-2019",
+            "acceptance_date": "30/9/2019",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu xây dựng quy trình bào chế và tác dụng dược lý của bài thuốc hỗ trợ điều trị Eczema.",
+            "role": "Key Member",
+            "project_code": "01C-06/04-2017-3",
+            "management_level": "Cấp Sở",
+            "period": "2017-2019",
+            "acceptance_date": "30/9/2019",
+            "rating": "Khá"
+        },
+        {
+            "title": "Hoàn thiện công nghệ sản xuất mafenid acetat làm thuốc điều trị bỏng và các nhiễm khuẩn do viêm, loét.",
+            "role": "Key Member",
+            "project_code": "CNHD.DASXT.N.029/19-20",
+            "management_level": "Cấp Quốc gia",
+            "period": "2019-2020",
+            "acceptance_date": "30/12/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu sản xuất chế phẩm từ xuyên tâm liên kết hợp với một số dược liệu theo hướng thay thế kháng sinh trong chăn nuôi gà.",
+            "role": "Key Member",
+            "project_code": "01C-06/06-2021-3",
+            "management_level": "Cấp Sở",
+            "period": "2021-2023",
+            "acceptance_date": "31/01/2024",
+            "rating": "Khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Kỹ thuật chiết xuất dược liệu",
+            "type": "Textbook",
+            "publisher": "NXB Y học",
+            "publish_year": "2017, tái bản 2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "58-84",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Thực tập Kỹ thuật sản xuất dược phẩm",
+            "type": "Guide Book",
+            "publisher": "Trường Đại học Dược Hà Nội",
+            "publish_year": "2020",
+            "num_authors": 12,
+            "is_editor_in_chief": false,
+            "compiled_pages": "32-58",
+            "verification_document_id": ""
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

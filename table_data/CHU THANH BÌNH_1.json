@@ -1,0 +1,498 @@
+{
+    "papers": [
+        {
+            "title": "Độ tin cậy theo điều kiện an toàn về độ cứng của kết cấu dạng thanh và tấm và ứng dụng trong chẩn đoán kỹ thuật",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tuyển tập công trình Hội nghị khoa học toàn quốc Cơ học vật rắn biến dạng lần thứ 7, Hải phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 2, 790-796",
+            "published_date": "2004"
+        },
+        {
+            "title": "Một số bài toán độ tin cậy của bản chữ nhật đàn hồi theo tiêu chuẩn an toàn về ổn định",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tuyển tập công trình Hội nghị khoa học toàn quốc Cơ học vật rắn biến dạng lần thứ 7, Hải phòng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 2, 978-986",
+            "published_date": "2004"
+        },
+        {
+            "title": "Nghiên cứu một số vấn đề dao động uốn của dầm theo quan điểm ngẫu nhiên",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tuyển tập công trình Hội nghị khoa học toàn quốc Cơ học vật rắn biến dạng lần thứ 8, Thái Nguyên",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "59-67",
+            "published_date": "2006"
+        },
+        {
+            "title": "On the Reliability problems ò structures subjected to dynamic loads",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Mechanics, VAST, ISSN(PRINT): 0866-7136; ISSN(Online): 2815-5822",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol 15, No 3, 427-439",
+            "published_date": "June, 2007"
+        },
+        {
+            "title": "Bài toán kiểm tra và thiết kế khung phẳng theo độ tin cậy chịu lực kích động điều hòa",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tuyển tập công trình khoa học Hội nghị Cơ học toàn quốc lần thứ 8, Hà Nội",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 2, 47-56",
+            "published_date": "2007"
+        },
+        {
+            "title": "Reliability Problems of plate on oscillation",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Proceeding of the International conference on computational Solid Mechanic, CSM 2008",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "36-44",
+            "published_date": "November, 2008"
+        },
+        {
+            "title": "Phương pháp phân tích độ tin cậy của công trình dao động chịu tác dụng của các quá trình ngẫu nhiên",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí kết cấu và công nghệ xây dựng, Hội kết cấu và Công nghệ Xây dựng Việt Nam, ISSN: 1859-3194",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3, 27-34",
+            "published_date": "November, 2010"
+        },
+        {
+            "title": "Độ tin cậy phụ thuộc thời gian của công trình",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng- Đại học Xây dựng, ISSN: 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9, 5-16",
+            "published_date": "May, 2011"
+        },
+        {
+            "title": "Đánh giá độ tin cậy của hệ ngẫu nhiên dao động 1 bậc tự do",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kết cấu và công nghệ xây dựng. ISSN 1859-3194",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số10, 13-24",
+            "published_date": "March, 2012"
+        },
+        {
+            "title": "Rời rạc hóa các đại lượng ngẫu nhiên và tính toán công trình",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí kết cấu và công nghệ xây dựng. ISSN 1859-3194",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 14, 55-61",
+            "published_date": "January, 2014"
+        },
+        {
+            "title": "Phân tích ngẫu nhiên kết cấu Composite bằng phương pháp Monte Carlo",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học toàn quốc: Vật liệu và kết cấu Composite: Cơ học, công nghệ và ứng dụng, ISBN:978-604-82-2026-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "542-549",
+            "published_date": "December, 2016"
+        },
+        {
+            "title": "Phân tích tĩnh tấm làm bằng vật liệu có cơ tính biến thiên (FGM) theo lý thuyết tấm hai ẩn chuyển vị cải tiến và vị trí mặt trung hòa",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học toàn quốc: Vật liệu và kết cấu Composite: Cơ học, công nghệ và ứng dụng, ISBN: 978-604-82-2026-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "742-749",
+            "published_date": "December, 2016"
+        },
+        {
+            "title": "Phân tích tĩnh và dao động riêng của dầm bằng vật liệu xốp có cơ tính biến thiên theo mô hình dầm Euler-Bernoulli và Timoshenko",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị khoa học quốc gia \"Phát triển bền vững kiến trúc và xay dựng trong giai đoạn hiện nay, Nghệ An\"",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "65-73",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đánh giá độ tin cậy của tâm chữ nhật FGM có bọt rỗng theo điều kiện giới hạn tần số dao động riêng cơ bản",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị cơ học toàn quốc lần thứ X, Hà Nội ISBN: 978-604-913-722-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, quyển 1, 74-81",
+            "published_date": "December, 2018"
+        },
+        {
+            "title": "Một phương pháp phân tích kết cấu có chứa tham số không chắc chắn bằng phương pháp Monte Carlo cải tiến",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị cơ học toàn quốc lần thứ X, Hà Nội ISBN: 978-604-913-722-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 3, quyển 1, 846-853",
+            "published_date": "December, 2018"
+        },
+        {
+            "title": "Phân tích tần số dao động riêng của vỏ trụ tròn làm bằng vật liệu có cơ tính biến thiên có gân gia cường",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học công nghệ xây dựng NUCE, ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 2,
+            "volume_issue_pages": "Tập 12 số 6, 20-28",
+            "published_date": "September, 2018"
+        },
+        {
+            "title": "Xác định hệ số hiệu chỉnh cắt trong dầm làm bằng vật liệu có cơ tính biến thiên",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học công nghệ xây dựng NUCE, ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12, số 7, 56-65",
+            "published_date": "2018"
+        },
+        {
+            "title": "Một phương pháp tối ưu hóa kết cấu có chứa tham số không chắc chắn bằng phương pháp Monte Carlor cải tiên",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học toàn quốc Cơ học vật rắn lần thứ XIV, ISBN: 978-604-913-832-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "45-51",
+            "published_date": "2018"
+        },
+        {
+            "title": "Độ tin cậy của tấm trực hướng theo điều kiện ổn định",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí kết cấu và công nghệ xây dựng, Hội kết cấu và công nghệ xây dựng Việt Nam, ISSN:1859-3194",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 27, 35-44",
+            "published_date": "2018"
+        },
+        {
+            "title": "Phân tích tĩnh kết cấu tấm chữ nhật E-FGM có gắn lớp vật liệu áp điện",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, Đại học Xây dựng, ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 14, số 4V, 39-53",
+            "published_date": "2020"
+        },
+        {
+            "title": "Phân tích tĩnh tấm bằng vật liệu FGM xốp trên nền đàn hồi Pasternar theo phương pháp chuyển vị có kể đến tính phi tuyến hình học và vị trí mặt trung hòa",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, Đại học Xây dựng, ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 14, số 5V, 166-179",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nonlinear vibration of functionally graded porous variable thickness toroidal shell segments surrounded by elastic medium including the thermal effect",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Composite Structures, ISSN: 1879-1085 (Online), ISSN 2364-1835 (Print)",
+            "journal_ranking": "SCIE Q1",
+            "citation_count": 42,
+            "volume_issue_pages": "Vol 255, 112891",
+            "published_date": "2021"
+        },
+        {
+            "title": "Phân tích phi tuyến đáp ứng động của tấm bằng vật liệu FGM rỗng đặt trên nền",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học toàn quốc Cơ học vật rắn lần thứ XV, Thái Nguyên, ISBN 978-604-9987-74-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "632-641",
+            "published_date": "2021"
+        },
+        {
+            "title": "Dao động tự do của tấm quay bằng vật liệu có cơ tính biến thiên chứa lỗ rông và graphene",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Khoa học toàn quốc Cơ học vật rắn lần thứ XV, Thái Nguyên ISBN:978-604-9987-74-8.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "71-80",
+            "published_date": "2021"
+        },
+        {
+            "title": "Vibartion characteristics of rotating functionally graded porous beams reinforced by graphene platelets.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology in Civil Engineering, HUCE. ISSN 1859-2996",
+            "journal_ranking": "",
+            "citation_count": 6,
+            "volume_issue_pages": "Tập 15, số 4, 29-41",
+            "published_date": "2021"
+        },
+        {
+            "title": "Elastic Buckling Behavior of FG Polymer Composite Plates Reinforced with Graphene Platelets Using the PB2-Ritz Method",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ebook: Modern Mechanics and Applications (Select Proceedings of ICOMMA 2020), Spinger, 2022. eBook ISBN978-981-16-3239-6",
+            "journal_ranking": "Scopus-ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "780-794",
+            "published_date": "2021"
+        },
+        {
+            "title": "Post-buckling Response of Functionally Graded Porous Plates Rested on Elastic Substrate via First-Order Shear Deformation Theory",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ebook: Modern Mechanics and Applications (Select Proceedings of ICOMMA 2020), Spinger, 2022. eBook ISBN 978-981-16-3239-6",
+            "journal_ranking": "Scopus-ranked",
+            "citation_count": 4,
+            "volume_issue_pages": "761-779",
+            "published_date": "2021"
+        },
+        {
+            "title": "Vibration Characteristics of Functionally Graded Carbon Nanotube-Reinforced Composite Plates Submerged in Fluid Medium",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Ebook: Modern Mechanics and Applications (Select Proceedings of ICOMMA 2020), Spinger, 2022. eBook ISBN978-981-16-3239-6",
+            "journal_ranking": "Scopus-ranked",
+            "citation_count": 4,
+            "volume_issue_pages": "271-286",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nghiệm giải tích của dầm Timoshenko FGM xốp chịu uốn có xét đến ảnh hưởng của các liên kết đàn hồi",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, Đại học xây dựng Hà nội, ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 16, số 3V, 86-99",
+            "published_date": "2022"
+        },
+        {
+            "title": "Dao động của dầm Euler-Bernoulli bằng vật liệu xốp trong môi trường nhiệt dưới tác dụng của tải trọng di động",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tuyển tập công trình Hội nghị Cơ học toàn quốc lần thứ XI, Hà Nội, ISBN 978-604-357-084-7",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 1, 224-233",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phân tích động lực học dầm TIMOSHENKO bằng vật liệu xốp (FGP) chịu tác dụng của tải trọng di động theo tiếp cận giải tích",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, Đại học Xây dựng Hà Nội, ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "Tập 16, Số 5V, 74-86",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nonlinear dynamic response of functionally graded porous beam under a moving mass using readdy's beam theory",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Iranian Journal of Science and Technology - Transactions of Mechanical Engineering, ISSN 2228-6187, eISSN 2364-1835",
+            "journal_ranking": "SCIE Q3",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol 48, 1205-1221",
+            "published_date": "2023"
+        },
+        {
+            "title": "Free Vibration Analysis of Functionally Graded Sandwich Circular Cylindrical Shells with Auxetic Honeycomb Core Layer and Partially Filled with Liquid.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Iranian Journal of Science and Technology - Transactions of Mechanical Engineering, ISSN 2228-6187, eISSN 2364-1835",
+            "journal_ranking": "SCIE Q3",
+            "citation_count": 13,
+            "volume_issue_pages": "Vol 48, 1301-1320",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mô phỏng dầm bê tông cốt thép chịu uốn bằng tiếp cận bán giải tích",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Xây dựng, ISSN 2734-9888",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "55-61",
+            "published_date": "2023"
+        },
+        {
+            "title": "Phân tích dao động riêng của dầm vật liệu rỗng có cơ tính biến thiên theo hai phương bằng phương pháp Ritz.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị Cơ học toàn quốc kỷ niệm 45 năm thành lập Viện cơ học, ISBN 978-604-357-277-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "60-70",
+            "published_date": "2024"
+        },
+        {
+            "title": "Transient analysis of functionally graded nanoplates with porosities taking into account surface stress",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Geomate, ISSN: 2186-2982(P), 2186-2990(O), Japan",
+            "journal_ranking": "ESCI, Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 27, Issue 120, 77-84",
+            "published_date": "2024"
+        },
+        {
+            "title": "Free vibration analysis of graphene-reinforced FGM microplates under different boundary conditions",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology, ISSN: 1859-1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 22, No.11 B, 70-76",
+            "published_date": "2024"
+        },
+        {
+            "title": "Static behavior of FGM cylindrical panel with porosities in hygro-themal environment",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology, ISSN: 1859-1531",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 22, No.11 B, 123-128",
+            "published_date": "2024"
+        },
+        {
+            "title": "Free Vibration Analysis of Graphene-Reinforced FGM Nanoplates with Surface Energy Effects Resting on Elastic Foundation,",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Iranian Journal of Science and Technology - Transactions of Mechanical Engineering, ISSN 2228-6187, eISSN 2364-1835",
+            "journal_ranking": "SCIE Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 49, 235-256",
+            "published_date": "2025"
+        },
+        {
+            "title": "Phân tích dao động tự do của dầm cong có cơ tính biến đổi đối xứng hai phương",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19, số 2V, 80-91",
+            "published_date": "2025"
+        },
+        {
+            "title": "Mô hình tựa 3 chiều đơn giản trong phân tích dạo động tự do của tấm sandwich FGM có vi bọt rỗng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Công nghệ Xây dựng, ISSN: 2615-9058",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 19, số 2V, 80-91",
+            "published_date": "2025"
+        },
+        {
+            "title": "Vibrations of cracked FGM microbeams based on Modified Coupled Stress Theory",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science and Technology, ISSN 1859-2996.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 19, No2, 119-132",
+            "published_date": "2025"
+        },
+        {
+            "title": "Vibrations of cracked FGM microbeams based on Modified Coupled Stress Theory",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Viet Nam Journal of Science and Technology ISSN:2525-2518; E-ISSN: 2815-5874",
+            "journal_ranking": "Scopus-ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "19 April 2025",
+            "published_date": "April, 2025"
+        },
+        {
+            "title": "Nonlocal vibraration response of FG saturated pororous nanopale resting on elastic foundation using quái-3D HSDT theory",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Advances in Applied Mathematics and Mechanics, Print ISSN: 2070-0733; Online ISSN: 2075-1354",
+            "journal_ranking": "SCIE Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "27 June 2024",
+            "published_date": "June, 2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Phương pháp tính độ tin cậy công trình dao động chịu tải trọng gió bão",
+            "role": "Principal Investigator",
+            "project_code": "111-2011/KHXD-TĐ",
+            "management_level": "Cấp trường trọng điểm",
+            "period": "2011-2012",
+            "acceptance_date": "26/07/2012",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Phân tích tấm chữ nhật trực hướng theo lý thuyết độ tin cậy",
+            "role": "Principal Investigator",
+            "project_code": "147-2017/KHXD-TĐ",
+            "management_level": "Cấp Trường trọng điểm",
+            "period": "2017-2018",
+            "acceptance_date": "20/07/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu giải pháp ứng dụng vật liệu thông minh, thân thiện môi trường trong kết cấu công trình thích ứng bối cảnh cuộc cách mạng công",
+            "role": "Principal Investigator",
+            "project_code": "CT.2019.03.04",
+            "management_level": "Bộ Giáo dục và đào tạo",
+            "period": "2019-2022",
+            "acceptance_date": "22/09/2022",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Strenth of Materials-Problems&Solution (Advanced Topics)",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Xây dựng",
+            "publish_year": "2016",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "1/4 chương gồm 25 trang (từ trang 49 đến 73) trên tổng số 120 trang",
+            "verification_document_id": "Trường ĐHXDHN số: 450/GXN-ĐHXDHN, ngày 03/06/2025."
+        },
+        {
+            "title": "Bài tập Sức bền vật liệu 1",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Xây dựng",
+            "publish_year": "2019",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "1/6 chương gồm 18 trang (từ trang 11 đến 28) trên tổng số 162 trang",
+            "verification_document_id": "Trường ĐHXDHN số: 451/GXN-ĐHXDHN, ngày 03/06/2025."
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

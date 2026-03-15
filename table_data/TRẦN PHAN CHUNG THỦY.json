@@ -1,0 +1,1377 @@
+{
+    "papers": [
+        {
+            "title": "Nhân 6 trường hợp mở cạnh cổ lấy dị vật thực quản",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM Chuyên đề: Tai Mũi Họng - Mắt",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 8, Issue 1, p. 83",
+            "published_date": "2004"
+        },
+        {
+            "title": "Điều trị liệt thần kinh mặt ngoại biên bằng phẫu thuật nối bán phần dây XII và dây VII",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "TC Y học thực hành, ISSN 1859-1663",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11, Issue 55, p. 8, 17-19",
+            "published_date": "2006"
+        },
+        {
+            "title": "Dùng cơ thái dương và cơ nhai đê tái tạo vận động và diễn cảm",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "TC Y học thực hành, ISSN 1859-1663",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 4, Issue 569-570, p. 73-75",
+            "published_date": "2007"
+        },
+        {
+            "title": "Góp phần nghiên cứu hạch cổ trong ung thư thanh quản tại khoa tai mũi họng bệnh viện Chợ Rẫy",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "TC Y học thực hành, ISSN 1859-1663",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 3, Issue 566-567, p. 27-29",
+            "published_date": "2007"
+        },
+        {
+            "title": "Chẩn đoán và điều trị chấn thương thanh - khí quản tại khoa tai mũi họng bệnh viện chợ rẫy (2005 - 2006)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM (Tai Mũi Họng - Mắt) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 11, Issue 1, p. 41",
+            "published_date": "2007"
+        },
+        {
+            "title": "Bước đầu nghiên cứu đặt stent silicon trong điều trị hẹp khí - phế quản",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM (Nội Khoa) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12, Issue 1, p. 13",
+            "published_date": "2008"
+        },
+        {
+            "title": "Bước đầu đánh giá kết quả ứng dụng nội soi quang học trong điều trị chấn thương thanh khí quản cô",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM (MẮT-TMH) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13, Issue 1, p. 139",
+            "published_date": "2009"
+        },
+        {
+            "title": "Nghiên cứu phối hợp CTscan và nội soi trong chẩn đoán và điều trị chấn thương thanh khí quản",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM( HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13, Issue 1, p. 141",
+            "published_date": "2009"
+        },
+        {
+            "title": "Chấn thương vỡ sụn nhẫn hình thái lâm sàng, điều trị",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM( HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13, Issue 1, p. 159",
+            "published_date": "2009"
+        },
+        {
+            "title": "Đánh giá hiệu quả của kỹ thuật đóng họng kiểu túi trong kỹ thuật cắt thanh quản toàn phần ở bệnh nhân ung thư thanh quản",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM( HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 13, Issue 1, p. 173",
+            "published_date": "2009"
+        },
+        {
+            "title": "Bước đầu đánh giá kết quả điều trị chấn thương thanh khí quản bằng phương pháp nong qua nội soi",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM (MẮT-TMH) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 14, Issue 2, p. 323-327",
+            "published_date": "2010"
+        },
+        {
+            "title": "Đánh giá kết quả ứng dụng nội soi quang học trong điều trị chấn thương thanh khí quản cổ bằng nội soi mềm và đo chức năng hô hấp",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM (MẮT-TMH) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 14, Issue 1, p. 104",
+            "published_date": "2010"
+        },
+        {
+            "title": "Phẫu thuật cắt nối khí quản tận - tận trong điều trị sẹo hẹp khí quản",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM (HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "p. 336",
+            "published_date": "2011"
+        },
+        {
+            "title": "Stent bong bóng nội khí quản trong điều trị chấn thương thanh khí quản",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 15, Issue 4, p. 341",
+            "published_date": "2011"
+        },
+        {
+            "title": "Phương pháp đo đường kính và chiều dài tổn thương thanh khí quản chấn thương trên nội soi và CTscan",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 15, Issue 4, p. 347",
+            "published_date": "2011"
+        },
+        {
+            "title": "Tổng kết 5 năm điều trị chấn thương thanh-khí quản",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 15, Issue 4, p. 352",
+            "published_date": "2011"
+        },
+        {
+            "title": "Góp phần nghiên cứu xử trí cấp cứu chảy máu do u máu trong xương hàm",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 15, Issue 4, p. 596",
+            "published_date": "2011"
+        },
+        {
+            "title": "Bước đầu phẫu thuật khối u mũi xoang xâm lấn sàn sọ trước qua nội soi",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 15, Issue 4, p. 81",
+            "published_date": "2011"
+        },
+        {
+            "title": "Bước đầu sử dụng vạt da cơ dưới móng để tái tạo lưỡi và sàn miệng.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, Issue 1, p. 405",
+            "published_date": "2012"
+        },
+        {
+            "title": "Sử dụng hệ thống nẹp vít nhỏ trong điều trị gãy xương hàm gò má",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, Issue 1, p. 409",
+            "published_date": "2013"
+        },
+        {
+            "title": "Phân loại và qui trình điều trị chấn thương thanh khí quản",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, Issue 1, p. 423",
+            "published_date": "2013"
+        },
+        {
+            "title": "Đặc điểm dịch tễ học, lâm sàng, giải phẫu bệnh học của ung thư lưỡi tại bệnh viện Chợ Rẫy",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, Issue 1, p. 431",
+            "published_date": "2013"
+        },
+        {
+            "title": "Tái tạo mất chất vùng cổ mặt bằng vạt da cơ ngực lớn",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, Issue 1, p. 435",
+            "published_date": "2013"
+        },
+        {
+            "title": "Sử dụng vạt mũi vách ngăn tái tạo sàn sọ trước sau phẫu thuật u sàn sọ trước",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, Issue 2, p. 50",
+            "published_date": "2013"
+        },
+        {
+            "title": "Phẫu thuật chỉnh hình sụn nhẫn trong điều trị sẹo hẹp thanh môn, hạ thanh môn.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 17, Issue 1, p. 416-422",
+            "published_date": "2013"
+        },
+        {
+            "title": "Nhân 2 trường hợp ung thư họng miệng và hạ họng",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 2, p. 340",
+            "published_date": "2014"
+        },
+        {
+            "title": "Sử dụng đường xuyên kết mạc trong phẫu thuật điều trị gãy xương hàm gò má",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 2, p. 347",
+            "published_date": "2014"
+        },
+        {
+            "title": "Tình hình chấn thương gãy xương gò má tại khoa tai mũi họng bệnh viện Chợ Rẫy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 2, p. 355",
+            "published_date": "2014"
+        },
+        {
+            "title": "Phẫu thuật nội soi mũi xoang chảy dịch não tủy tự phát qua mũi",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 2, p. 361",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng carcinôm tế bào gai thanh quản tại bệnh viện Chợ Rẫy",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM(HN KH KT Bv Chợ Rẫy) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 2, p. 452",
+            "published_date": "2014"
+        },
+        {
+            "title": "Khảo sát đặc điểm lâm sàng và hình ảnh học của ung thư vùng mũi xoang",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM (Mắt – TMH - RHM) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 1, p. 174",
+            "published_date": "2014"
+        },
+        {
+            "title": "Khảo sát đặc điểm lâm sàng, cận lâm sàng của u khoang cạnh họng",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM (Mắt – TMH RHM) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 1, p. 200",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nhân 2 trường hợp sử dụng da đùi tái tạo vùng mất chất trong cắt ung thư thành sau họng miệng và hạ họng",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM (Mắt – TMH RHM) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 1, p. 205",
+            "published_date": "2014"
+        },
+        {
+            "title": "Tái tạo hạ họng và da cổ mất chất trong phẫu thuật cắt ung thư hạ họng thanh quản bằng vạt da cơ ngực lớn",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM (Mắt – TMH RHM) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 1, p. 211",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nhân 1 trường hợp u sợi thần kinh đơn độc hạ thanh môn",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 18, Issue 4, p. 146",
+            "published_date": "2014"
+        },
+        {
+            "title": "Le syndrom d'apnée obtructive du sommeil au Vietnam",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal Franco-Vietnamien de Pneumologie, ISSI 2264-7899",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2, Issue N2, p. 28-33",
+            "published_date": "2011"
+        },
+        {
+            "title": "Outcome Assessment of the Endoscopic Surgery for Laryngeal Trauma Management",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Innovative Research in Medical Science (ISSN 2455-8737)",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 2, Issue 11, p. 1520-1524",
+            "published_date": "2017"
+        },
+        {
+            "title": "Cricoid Reconstructive Surgery in Treating Subglottic and Glottic Stenosis",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Medical Research & Health Sciences (ISSN: 2319-5886)",
+            "journal_ranking": "ESCI",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol. 7, Issue 12, p. 120-127",
+            "published_date": "2018"
+        },
+        {
+            "title": "Early Outcomes of Transoral Laser Microsurgery for T1-T2 Oropharyngeal Cancer",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Journal of Pharmaceutical Research and Health Care (ISSN 2250-1460)",
+            "journal_ranking": "ESCI, Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 10, Issue 4, p. 104-108",
+            "published_date": "2018"
+        },
+        {
+            "title": "A framework and indicators for measuring the impact of health research on the health sector in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Eurasian Journal of Analytical Chemistry (ISSN: 1306-3057)",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 12,
+            "volume_issue_pages": "Vol. 12, Issue 22, p. 310-316",
+            "published_date": "2018"
+        },
+        {
+            "title": "Outcomes Assessment of Transoral Laser Microsurgery for T1 and T2 Glottic Cancer at the Ho Chi Minh City Ear-Nose-Throat Hospital",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Clinical and Diagnostic Research (ISSN: 0973-709X)",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 12,
+            "volume_issue_pages": "Vol. 12, Issue 6, p. XC01-XC04",
+            "published_date": "2018"
+        },
+        {
+            "title": "Evaluating the Efficacy of the Endoscopic Surgical Management of Frontal Sinus Osteomas",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Advanced Biotechnology and Research (ISSN: 0976-2612, e-ISSN 2278-599X)",
+            "journal_ranking": "ESCI",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol. 10, Issue 2, p. 549-555",
+            "published_date": "2019"
+        },
+        {
+            "title": "Using a Peak Plasma Blade for ulvulopalatopharyngoplasty in Snoring and obstructive Sleep Apnea Surgery",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Advanced Biotechnology and Research (ISSN: 0976-2612, e-ISSN 2278-599X)",
+            "journal_ranking": "ESCI",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol. 10, Issue 2, p. 577-583",
+            "published_date": "2019"
+        },
+        {
+            "title": "Non-surgical chronic rhinosinusitis and quality of life: A Vietnamese perspective",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "The Journal of the Pakistan Medical Association, (ISSN: 0030-9982 (print); 0030-9982 (web))",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 69, No.6, Suppl. 1.2, p. S20-S27",
+            "published_date": "2019"
+        },
+        {
+            "title": "La tuberculose auriculaire au Vietnam: aspects cliniques et difficultés diagnostiques.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Annales d'Otolaryngologie et de Chirurgie Cervico-faciale (ISSN: 1879-727X)",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 138, Issue 6, p. 469-471",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Air Pollution and Respiratory Permeability in Obstructive Sleep Apnea – A Review",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Aerosol and Air Quality Research (ISSN: 2071-1409 (Electronic))",
+            "journal_ranking": "Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol. 21, Issue 5, May, p. 21",
+            "published_date": "2021"
+        },
+        {
+            "title": "Loss of E-cadherin due to road dust PM2.5 activates the EGFR in human pharyngeal epithelial cells",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Science and Pollution Research (Q1, ISSN (0944-1344))",
+            "journal_ranking": "Q1",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol. 28, Issue 38, p. 5387",
+            "published_date": "May 2021"
+        },
+        {
+            "title": "Associations between lung-deposited dose of particulate matter and culture-positive pulmonary tuberculosis pleurisy",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Environmental Science and Pollution Research (Q1 ISSN (0944-1344))",
+            "journal_ranking": "Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "Vol. 29, Issue 4, p. 6140-6150",
+            "published_date": "Aug-2021"
+        },
+        {
+            "title": "Associations of ambient air pollution with overnight changes in body composition and sleep-related parameters",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Science of The Total Environment (Q1 ISSN:0048-9697)",
+            "journal_ranking": "Q1",
+            "citation_count": 13,
+            "volume_issue_pages": "Vol. 791, Issue 1, p. 148265",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Higher alveolar deposition of particulate matter in emphysematous lobes of COPD",
+            "num_authors": 16,
+            "is_main_author": false,
+            "journal_name_ISSN": "ERJ Open Research (Q2, ISSN 2312-0541)",
+            "journal_ranking": "Q2",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 7, Issue 3, p. 00324",
+            "published_date": "2021"
+        },
+        {
+            "title": "Association Between Air Pollution and Lung Lobar Emphysema in COPD",
+            "num_authors": 16,
+            "is_main_author": false,
+            "journal_name_ISSN": "Frontiers in Medicine (Q1, ISSN 2296-858X)",
+            "journal_ranking": "Q1",
+            "citation_count": 5,
+            "volume_issue_pages": "Vol. 8, p. 7057",
+            "published_date": "9/2021"
+        },
+        {
+            "title": "Air Pollution Mediates the Association between Human Mobility and COVID-19 Infection",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Aerosol and Air Quality Research (Q2 ISSN: 2071-1409)",
+            "journal_ranking": "Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 22, Issue 1",
+            "published_date": "2/2022"
+        },
+        {
+            "title": "Associations of PM2.5 with Chronic Obstructive Pulmonary Disease in Shipyard Workers: A Cohort Study",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Aerosol and Air Quality Research (Q2 ISSN: 2071-1409)",
+            "journal_ranking": "Q2",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 22, Issue 5, May, p. 5",
+            "published_date": "2022"
+        },
+        {
+            "title": "The Anatomic Landmark Approach to Extratemporal Facial Nerve Repair in Facial Trauma",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cureus journal of medical science (ESCI (ISSN: 2168-8184))",
+            "journal_ranking": "ESCI",
+            "citation_count": 2,
+            "volume_issue_pages": "Vol. 14, Issue 3, p. e22787",
+            "published_date": "2022"
+        },
+        {
+            "title": "Prevalence of GJB2 and TECTA gene mutations in children with non-syndromic hearing loss visiting an Otorhino-laryngology Hospital in Ho Chi Minh City, Viet Nam",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biomedpress (ESCI ISSN: 2198-4093)",
+            "journal_ranking": "ESCI",
+            "citation_count": 1,
+            "volume_issue_pages": "Vol. 10, No.1, p. 2023-5529",
+            "published_date": "1/2023"
+        },
+        {
+            "title": "Higher Particulate Matter Deposition in Alveolar Region Could Accelerate Body Fat Accumulation in Obstructive Sleep Apnea",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "ACS Environmental Au (Q1 ISSN 2694-2518)",
+            "journal_ranking": "Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 3, Issue 1, p. 12-17",
+            "published_date": "2023"
+        },
+        {
+            "title": "Associations of overnight changes in body composition with positional obstructive sleep apnea",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sleep and breathing (Q2, 1520-9512 P-ISSN 1520-9512)",
+            "journal_ranking": "Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 27, p. 631-640",
+            "published_date": "2023"
+        },
+        {
+            "title": "Prevalence of TECTA and GJB2 mutations in Asian children with nonsyndromic hearing loss: A Meta-Analysis",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biomedpress. A meta-analysis. (ESCI ISSN: 2198-4093)",
+            "journal_ranking": "ESCI",
+            "citation_count": 10,
+            "volume_issue_pages": "Vol. 10, Issue 6, p. 5717-5725",
+            "published_date": "Jun, 2023"
+        },
+        {
+            "title": "Rehabilitation Surgery for Peripheral Facial Nerve Injury after Facial Trauma",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Thieme Article published online: Cureus (ISSN18094864, 18099777)",
+            "journal_ranking": "Q3",
+            "citation_count": 7,
+            "volume_issue_pages": "Vol. 14, Issue 3, p. e22787",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Characteristics of posterior ethmoid artery and its relationship with anterior ethmoid artery and skull base on CTscan",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Medeniyet Medical Journal (Q3, ISSN 2149-2042 e-ISSN 2149-4606)",
+            "journal_ranking": "Q3",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol. 39, Issue 1, p. 85-90",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Correlation between vestibular disorders and superior semicircular dehiscence on high-resolution computed tomography at Tam Anh ho chi minh general hospital",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Medeniyet Medical Journal (Q3, ISSN 2149-2042 e-ISSN 2149-4606)",
+            "journal_ranking": "Q3",
+            "citation_count": 6,
+            "volume_issue_pages": "Vol. 39, Issue 1, p. 117-121",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Đánh giá kết quả phục hồi chức năng nghe sau cấy ốc tai điện tử Tại BVTMH TP HCM",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM (ĐD KTYH) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 20, Issue 5, p. 209",
+            "published_date": "2016"
+        },
+        {
+            "title": "Đánh giá hiệu quả sử dụng dao plasma trong phẫu thuật cắt amidan tại bệnh viện Tai Mũi Họng TP.HCM",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM (HN KHKT Trường ĐH Y Khoa PNT) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 21, Issue 3, p. 81",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khảo sát mối tương quan giữa điện thính giác trạng thái ôn định và Thính lực đồ đơn âm",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM (HN KHKT Trường ĐH Y Khoa PNT) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 21, Issue 3, p. 81",
+            "published_date": "2017"
+        },
+        {
+            "title": "Chẩn đoán và điều trị trào ngược họng thanh quản",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 61, Issue 33, p. 03-47",
+            "published_date": "2016"
+        },
+        {
+            "title": "Đối chiếu giữa hình ảnh nội soi, CTscan với tổn thương thực thể trong phẫu thuật của cholesteatoma thượng nhĩ tại BV Tai Mũi Họng Tp HCM",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "YH TP HCM (Mắt – TMH) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 21, Issue 1, p. 150",
+            "published_date": "2017"
+        },
+        {
+            "title": "Kết quả bước đầu thực hiện kĩ thuật tiêm Botulinum toxin điều trị rối loạn phát âm Co thắt thể khép",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 63, Issue 41, p. 354",
+            "published_date": "Nov 2018"
+        },
+        {
+            "title": "Khảo sát hình ảnh học và phương pháp phẫu thuật cấy ốc tay điện tử các trường hợp dị dạng tai trong tại bệnh viện tai mũi họng thành phố Hồ Chí Minh",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 63, Issue 41, p. 483",
+            "published_date": "Nov 2018"
+        },
+        {
+            "title": "Kết quả điều trị nội khoa u hạt thanh quản tái phát sau phẫu thuật",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 61, Issue 32, N2",
+            "published_date": "Apr 2018"
+        },
+        {
+            "title": "Khảo sát đặc điểm lâm sàng và cận lâm sàng của u xương các xoang cạnh mũi ở bệnh viện tai mũi họng thành phố hồ chí minh từ tháng 06/2016 đến tháng 06/2017",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí YH TP HCM (MẮT-TMH) ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 22, Issue 1, p. 117",
+            "published_date": "2018"
+        },
+        {
+            "title": "Kết quả bước đầu ứng dụng phẫu thuật Laser vi phẫu qua đường miệng trong điều trị ung thư họng miệng giai đoạn sớm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí YH TP HCM ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 23, Issue 3, p. 86-91",
+            "published_date": "2019"
+        },
+        {
+            "title": "Hiệu quả luyện giọng điều trị rối loạn giọng dậy thì",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 46, Issue 43, N1",
+            "published_date": "Jan 2019"
+        },
+        {
+            "title": "Đánh giá kết quả phẫu thuật treo sụn phễu dây thanh qua nội soi trong điều trị liệt khép dây thanh tại bệnh viện tai mũi họng TP. HCM",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 64, Issue 43, N1",
+            "published_date": "Mar 2019"
+        },
+        {
+            "title": "Đánh giá hiệu quả phẫu thuật nội soi điều trị u xương xoang trán và ngách trán",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 64, Issue 43, N1",
+            "published_date": "Mar 2019"
+        },
+        {
+            "title": "Vai trò của sinh thiết tức thì trong phẫu thuật laser vi phẫu qua đường miệng trong điều trị ung thư thanh quản tầng thanh môn giai đoạn sớm tại bệnh viện Tai Mũi Họng Tp.HCM.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 1, p. 21-28",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Khảo sát đặc điểm lâm sàng, cận lâm sàng và một số yếu tố liên quan trong chẩn đoán bệnh lý rối loạn phát âm co thắt thể khép.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam, ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 3, p. 86-99",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Đánh giá cải thiện chất lượng giọng của bệnh nhân rối loạn phát âm co thắt thể khép điều trị bằng Botulinum Toxin A.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam, ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 3, p. 100-110",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Tổn thương xương con trong viêm tai giữa mạn túi lõm màng nhĩ trên CTscan tái tạo đa lát cắt, xoay trục và chỉnh đậm độ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 65, Issue 51, p. 13-19",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Giải phẫu eo nhĩ trên phẫu tích xương thái dương",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 65, Issue 51, p. 20-27",
+            "published_date": "3/2020"
+        },
+        {
+            "title": "Bước đầu nghiên cứu đột biến gen trên điếc bẩm sinh",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học việt nam ISSN 1859-1868",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 492, Issue 1 & 2, p. 67",
+            "published_date": "2020"
+        },
+        {
+            "title": "Kết quả điều trị ung thư thanh quản tầng thanh môn giai đoạn sớm bằng vi phẫu laser CO2 tại bệnh viện Tai Mũi Họng TP. HCM.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 1, Issue 3, p. 12-20",
+            "published_date": "2020"
+        },
+        {
+            "title": "Kỹ thuật mở thông eo nhĩ trong phẫu thuật viêm tai giữa mạn túi lõm màng nhĩ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Tp.Hồ Chí Minh ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 25, Issue 6, p. 250-255",
+            "published_date": "2021"
+        },
+        {
+            "title": "Chẩn đoán và xử lý tổn thương xương con trong viêm tai giữa mạn túi lõm màng nhĩ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Tp.Hồ Chí Minh ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 25, Issue 6, p. 256-262",
+            "published_date": "2021"
+        },
+        {
+            "title": "Rối loạn phát âm co thắt: Đặc điểm lâm sàng và hiệu quả điều trị Botulinum toxin a của 24 trường hợp",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 66, Issue 54, No. 4",
+            "published_date": "2021"
+        },
+        {
+            "title": "Khảo sát thần kinh Vidian và mối tương quan với các cấu trúc lân cận trên CTscan tại bệnh viện tai mũi họng Tp. Hồ Chí Minh từ năm 2020 đến 2021",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 66, Issue 53, No. 3",
+            "published_date": "2021"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng và kết quả sinh thiết tức thì của ung thư thanh quản được phẫu thuật bằng laser CO2 qua nội soi tại Bệnh Viện Tai Mũi Họng TPHCM từ 06/2020 đến 06/2021",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Tp.Hồ Chí Minh ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 26, Issue 1330, p. 336",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Điều trị liệt mặt bằng phương pháp treo mặt",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học TP. Hồ Chí Minh. ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 25, Issue 2, No. 3, p. 197",
+            "published_date": "2022"
+        },
+        {
+            "title": "Phẫu thuật thần kinh VII ngoại biên trên bệnh nhân chấn thương vùng mặt",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học việt nam ISSN 1859-1868",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 513, Issue 4, p. 171",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị bệnh nhi viêm tai giữa tiết dịch được nạo VA tại bệnh viện Tai Mũi Họng Thành phố Hồ Chí Minh từ tháng 8/2020 đến tháng 6/2021",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Tp.Hồ Chí Minh ISSN 1859-1779",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 26, Issue 1, p. 308-313",
+            "published_date": "2022"
+        },
+        {
+            "title": "Khảo sát hình ảnh học và phương pháp phẫu thuật cấy ốc tai điện tử các trường hợp bất thường tai trong (tại bv tai mũi họng tphcm)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 67, Issue 56, No. 2",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu chế tạo buồng cách âm để đo sức nghe",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 518, Issue 1, p. 09/2",
+            "published_date": "2022"
+        },
+        {
+            "title": "Thiết lập và vận hành đơn vị thính học",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN 1859-1868",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 518, Issue 1, p. 09",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá cải thiện chất lượng giọng nói trên bệnh nhân rối loạn phát âm co thắt thể khép sau điều trị bằng Botumlinum Toxin A",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 68, Issue 60, No. 2",
+            "published_date": "2023"
+        },
+        {
+            "title": "Khảo sát độ dài và góc của vòi nhĩ trên CT scan ở bệnh nhân người lớn viêm tai giữa mạn tính",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học Phạm Ngọc Thạch ISSN: 2815-6366",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 2, Issue 2, p. 142-149",
+            "published_date": "2023"
+        },
+        {
+            "title": "Khảo sát đặc điểm lâm sàng và CT-Scan ở Bệnh nhân chấn thương có gãy xương vùng hàm mặt",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tai Mũi Họng Việt Nam ISSN 1859-3740",
+            "journal_ranking": "Not Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 62, Issue 68, No. 1",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Cắt dây thanh bán phần và sử dụng Mitomycine C trên bệnh nhân liệt cơ mở thanh quản",
+            "role": "Principal Investigator",
+            "project_code": "3752/QĐ-BVCR",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2007-2009",
+            "acceptance_date": "18/7/2009",
+            "rating": ""
+        },
+        {
+            "title": "Góp phần nghiên cứu xử trí cấp cứu chảy máu do u máu trong xương hàm",
+            "role": "Key Member",
+            "project_code": "5138/QĐ-BVCR",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "2008-2010",
+            "acceptance_date": "28/10/2010",
+            "rating": ""
+        },
+        {
+            "title": "Nghiên cứu đặc điểm cấu trúc phân tử Virus Epstein-Barr ở Việt Nam và qui trình sản xuất bộ sinh phẩm chẩn đoán",
+            "role": "Key Member",
+            "project_code": "579/QĐ-BKHCN",
+            "management_level": "Bộ Khoa học và Công nghệ",
+            "period": "2009-2011",
+            "acceptance_date": "06/04/2011",
+            "rating": ""
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, hình ảnh CTscan và nội soi trong chẩn đoán và điều trị chấn thương thanh khí quản",
+            "role": "Principal Investigator",
+            "project_code": "5211/QĐ-BVCR",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "05/2007-08/2009",
+            "acceptance_date": "06/11/2013",
+            "rating": ""
+        },
+        {
+            "title": "Nghiên cứu phương pháp điều trị chấn thương thanh khí quản bằng phương pháp nong qua nội soi",
+            "role": "Principal Investigator",
+            "project_code": "4500/QĐ-BVCR",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "05/2007-08/2009",
+            "acceptance_date": "17/09/2013",
+            "rating": ""
+        },
+        {
+            "title": "Sử dụng đường xuyên kết mạc trong phẫu thuật điều trị gãy xương hàm gò má",
+            "role": "Principal Investigator",
+            "project_code": "5692/QĐ-BVCR",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "1/2011-12/2012",
+            "acceptance_date": "17/12/2013",
+            "rating": ""
+        },
+        {
+            "title": "Phẫu thuật cắt nối khí quản–khí quản và sụn nhẫn khía quản trong điều trị sẹo hẹp khí quản",
+            "role": "Principal Investigator",
+            "project_code": "4430/QĐ-BVCR",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "1/2009-12/2011",
+            "acceptance_date": "11/09/2013",
+            "rating": ""
+        },
+        {
+            "title": "Sử dụng hệ thống nẹp vít trong điều trị gãy xương hàm gò má",
+            "role": "Principal Investigator",
+            "project_code": "5211/QĐ-BVCR",
+            "management_level": "Bệnh viện Chợ Rẫy",
+            "period": "1/2010-12/2011",
+            "acceptance_date": "06/11/2013",
+            "rating": ""
+        },
+        {
+            "title": "Khảo sát cắt Amidan bằng dao Plasma tại bệnh viện Tai Mũi Họng TP.HCM từ tháng 10/2014 đến tháng 10/2016",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/15/08",
+            "management_level": "Unknown Management Level",
+            "period": "10/2014-10/2016",
+            "acceptance_date": "17/11/2016",
+            "rating": ""
+        },
+        {
+            "title": "Hiệu quả luyện giọng trong điều trị rối loạn tuổi dậy thì",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/15/10",
+            "management_level": "Unknown Management Level",
+            "period": "6/2015-6/2016",
+            "acceptance_date": "17/11/2016",
+            "rating": ""
+        },
+        {
+            "title": "Khảo sát tương quan giữa hình ảnh nội soi – CT scan – tổn thương thực thể trong phẫu thuật của Cholesteatoma thượng nhĩ tại Bệnh viện Tai Mũi Họng TP.HCM",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/16/01",
+            "management_level": "Unknown Management Level",
+            "period": "6/2016-11/2017",
+            "acceptance_date": "11/11/2016",
+            "rating": ""
+        },
+        {
+            "title": "Đánh giá hiệu quả luyện giọng trong điều trị hạt dây thanh",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/16/11",
+            "management_level": "Unknown Management Level",
+            "period": "11/2016-11/2017",
+            "acceptance_date": "08/9/2017",
+            "rating": ""
+        },
+        {
+            "title": "Đánh giá hiệu quả phẫu thuật nội soi điều trị u xương xoang trán và ngách trán",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/17/11",
+            "management_level": "Unknown Management Level",
+            "period": "01/2017-12/2017",
+            "acceptance_date": "21/4/2017",
+            "rating": ""
+        },
+        {
+            "title": "Phẫu thuật chỉnh hình chuỗi xương con bằng prothesis trong Viêm tai giữa mạn tính",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/15/04",
+            "management_level": "Unknown Management Level",
+            "period": "06/2015-06/2018",
+            "acceptance_date": "03/6/2018",
+            "rating": ""
+        },
+        {
+            "title": "Chẩn đoán và điều trị rối loạn phát âm co thắt tại bệnh viện Tai Mũi Họng TP.HCM",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/18/31",
+            "management_level": "Unknown Management Level",
+            "period": "06/2017-06/2019",
+            "acceptance_date": "13/4/2018",
+            "rating": ""
+        },
+        {
+            "title": "Ứng dụng phẫu thuật Laser vi phẫu qua đường miệng trong điều trị ung thư họng miệng",
+            "role": "Principal Investigator",
+            "project_code": "C2016-44-03",
+            "management_level": "Đại học quốc gia",
+            "period": "03/2016-03/2018",
+            "acceptance_date": "30/3/2019",
+            "rating": ""
+        },
+        {
+            "title": "Khảo sát các đặc điểm nghe kém học sinh Trung học phổ thông, Trung học cơ sở quận 2 thành phố Hồ Chí Minh và đề xuất giải pháp hỗ trợ",
+            "role": "Co-Investigator",
+            "project_code": "C2017-44-03",
+            "management_level": "Đại học quốc gia",
+            "period": "3/2017-3/2019",
+            "acceptance_date": "30/3/2019",
+            "rating": ""
+        },
+        {
+            "title": "Đánh giá kết quả phẫu thuật nội soi điều trị túi co lõm Thượng nhĩ.",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/18/20",
+            "management_level": "Unknown Management Level",
+            "period": "2019-2020",
+            "acceptance_date": "28/5/2020",
+            "rating": ""
+        },
+        {
+            "title": "Đánh giá hiệu quả Corticoid xuyên nhĩ trên bệnh nhân điếc đột ngột tại bệnh viện tai mũi họng thành phố Hồ Chí Minh",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/18/29",
+            "management_level": "Unknown Management Level",
+            "period": "2019-2020",
+            "acceptance_date": "28/5/2020",
+            "rating": ""
+        },
+        {
+            "title": "Đánh giá đường hô hấp trên qua nội soi gây ngủ ở bệnh nhân ngưng thở lúc ngủ do tắc nghẽn.",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/19/15",
+            "management_level": "Unknown Management Level",
+            "period": "2020-2021",
+            "acceptance_date": "20/12/2021",
+            "rating": ""
+        },
+        {
+            "title": "Đánh giá kết quả phẫu thuật chỉnh hình họng màn hầu trong điều trị hội chứng ngáy và ngưng thở khi ngủ tại bệnh viện tai mũi họng thành phố Hồ Chí Minh.",
+            "role": "Principal Investigator",
+            "project_code": "CS/MH/19/14",
+            "management_level": "Unknown Management Level",
+            "period": "2020-2021",
+            "acceptance_date": "20/12/2021",
+            "rating": ""
+        },
+        {
+            "title": "Ứng dụng phẫu thuật laser vi phẫu qua đường miệng trong điều trị K thanh quản tầng thanh môn giai đoạn T1-T2",
+            "role": "Principal Investigator",
+            "project_code": "Unknown Code",
+            "management_level": "Cấp thành phố HCM",
+            "period": "2019-2021",
+            "acceptance_date": "25/11/2021",
+            "rating": ""
+        },
+        {
+            "title": "Tầm soát tỉ lệ các đột biến điểm trên 2 gen GJB2 (CONNEXIN 26) và Tecta ở nhóm bệnh Nhi Việt Nam được chẩn đoán điếc bẩm sinh tại Bệnh viện Tai Mũi Họng Tp.HCM",
+            "role": "Principal Investigator",
+            "project_code": "GEN2020-44-01",
+            "management_level": "Đại học quốc gia",
+            "period": "16/1/2020-7/2023",
+            "acceptance_date": "02/02/2024",
+            "rating": ""
+        }
+    ],
+    "books": [
+        {
+            "title": "Cấp cứu chấn thương",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2010",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 176-179",
+            "verification_document_id": "133/DHYD-Y ngày 8/10/2014"
+        },
+        {
+            "title": "Phác đồ điều trị 2013 phần ngoại khoa (Bệnh Viện Chợ Rẫy)",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2013",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 687-732",
+            "verification_document_id": "134/DHYD-Y ngày 8/10/2014"
+        },
+        {
+            "title": "Bệnh lý Tai Mũi Họng thường gặp",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2017",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Nhiều bài",
+            "verification_document_id": "1154/GCN-ĐHTV của ĐHTV ngày 23/5/2017"
+        },
+        {
+            "title": "Khuyến cáo chẩn đoán và điều trị nhiễm trùng hô hấp trẻ em",
+            "type": "Reference Book",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2017",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 28-33",
+            "verification_document_id": ""
+        },
+        {
+            "title": "Larynx trauma",
+            "type": "Other",
+            "publisher": "AkiNik Publications New Delhi",
+            "publish_year": "2019",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Cả sách",
+            "verification_document_id": "109/QĐ-KY ĐHQG TP HCM ngày 24/06/2019"
+        },
+        {
+            "title": "Giáo trình định hướng chuyên khoa Tai Mũi Họng",
+            "type": "Textbook",
+            "publisher": "Đại học quốc gia TP HCM",
+            "publish_year": "2019",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Biên soạn toàn bộ giáo trình",
+            "verification_document_id": "75/QĐ-KY ĐHQG TP HCM ngày 25/04/2019"
+        },
+        {
+            "title": "Phác đồ điều trị nội trú bệnh viện Tai Mũi Họng TP HCM",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2018",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "1989/QĐ-ĐHYD- của ĐHYD TP HCM ngày 2/7/2019"
+        },
+        {
+            "title": "Phác đồ điều trị ngoại trú bệnh viện Tai Mũi Họng TP HCM",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2018",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "1989/QĐ-ĐHYD- của ĐHYD TP HCM ngày 2/7/2019"
+        },
+        {
+            "title": "Hướng dẫn khám lâm sàng, hỏi bệnh sử Bates",
+            "type": "Reference Book",
+            "publisher": "Wolters Kluwer",
+            "publish_year": "Unknown Year",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Chương 7 “Đầu và Cổ”",
+            "verification_document_id": "Đại học quốc gia TP HCM 2020"
+        },
+        {
+            "title": "EPOS 2020 (European Position Paper on Rhinosinusitis and Nasal Polyps 2020)",
+            "type": "Reference Book",
+            "publisher": "Hội tai mũi họng Việt Nam - Bệnh Viện Tai Mũi Họng Tp Hcm",
+            "publish_year": "2020",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Hội Tai Mũi Họng Việt Nam và Bệnh Viện Tai Mũi Họng Tp Hcm 2020"
+        },
+        {
+            "title": "Quy trình kỹ thuật trong khám bệnh chữa bệnh -bệnh viện tai mũi họng TPHCM 2020",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2020",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "200/QĐ-KY ĐHQG TP HCM 2023"
+        },
+        {
+            "title": "Xử trí chấn thương thanh-khí quản bằng phương pháp nong qua nội soi",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Cả sách",
+            "verification_document_id": "280/QĐ-KY ĐHQG TP HCM ngày 31/5/2024"
+        },
+        {
+            "title": "Ung thư thanh quản",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2024",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Cả sách",
+            "verification_document_id": "297/QĐ-KY ĐHQG TP HCM ngày 31/5/2024"
+        },
+        {
+            "title": "Giáo trình giảng dạy sau đại học - Tai Mũi Họng-tập 1",
+            "type": "Textbook",
+            "publisher": "Đại học quốc gia TP HCM",
+            "publish_year": "2024",
+            "num_authors": 5,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Biên soạn toàn bộ giáo trình",
+            "verification_document_id": "271/QĐ-KY ĐHQG TP HCM ngày 31/5/2024"
+        },
+        {
+            "title": "Từ Điển Bách Khoa Y Học Việt Nam",
+            "type": "Other",
+            "publisher": "Nhà xuất bản Y học",
+            "publish_year": "2023",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": "2023"
+        },
+        {
+            "title": "Giáo Trình Đại Học Tai Mũi Họng",
+            "type": "Textbook",
+            "publisher": "NXB ĐHQG TP HCM",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Trang 238-249",
+            "verification_document_id": "1073/GCN-TĐHYKPNT"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Chương trình Đào tạo sau đại học BS Nội Trú Tai Mũi Họng",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "379/QĐ-KY 31/12/2020",
+            "certifying_authority": "Bộ y tế",
+            "implementation_document_id": "274/QD-BYT",
+            "notes": "https://www.medvnu.edu.vn/tin-tuc/khoa-y-dai-hoc-quoc-gia-tp-hcm-lan-dau-tien-duoc-giao-dao-tao-bac-si-noi-tru-va-chuyen-khoa-cap-1/"
+        },
+        {
+            "title": "Chương trình Đào tạo sau đại học BS CKI Tai Mũi Họng",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "382/QĐ-KY 31/12/2020",
+            "certifying_authority": "Bộ y tế",
+            "implementation_document_id": "274/QD-BYT",
+            "notes": "https://www.medvnu.edu.vn/tin-tuc/thong-bao-ve-viec-tuyen-sinh-chuyen-khoa-cap-i-nam-2023-dot-1/"
+        },
+        {
+            "title": "Chương trình Đào tạo sau đại học Thạc Sĩ Tai Mũi Họng",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "174/QĐ-KY 19/8/2020",
+            "certifying_authority": "Bộ Y tế và Bộ Giáo dục Đào tạo",
+            "implementation_document_id": "Đang chờ quyết định",
+            "notes": ""
+        },
+        {
+            "title": "Ứng dụng phẫu thuật laser vi phẫu qua đường miệng trong điều trị ung thư họng miệng",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "69/QĐ-ĐHQG 15/02/2016",
+            "certifying_authority": "Ủy ban nhân dân TP HCM",
+            "implementation_document_id": "2705/QĐ-UBND 03/08/2020",
+            "notes": "Công nhận có phạm vi ảnh hưởng"
+        },
+        {
+            "title": "Khảo sát các đặc điểm nghe kém học sinh Trung học phổ thông, Trung học cơ sở quận 2 thành phố Hồ Chí Minh và đề xuất giải pháp hỗ trợ",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "03/QĐ-ĐHQG 03/01/2017",
+            "certifying_authority": "Ủy ban nhân dân TP HCM",
+            "implementation_document_id": "2705/QĐ-UBND 03/08/2020",
+            "notes": "Công nhận có phạm vi ảnh hưởng"
+        },
+        {
+            "title": "Tiêm Botulinum toxin dưới hướng dẫn nội soi kết hợp điện cơ trong điều trị rối loạn phát âm Co thắt thể khép",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "2902/QĐ-ĐHYD 10/2/2017",
+            "certifying_authority": "Khoa Y, Đại học Quốc gia TP HCM",
+            "implementation_document_id": "160/QĐ-KY 24/5/2023",
+            "notes": "Công nhận có phạm vi ảnh hưởng"
+        }
+    ]
+}

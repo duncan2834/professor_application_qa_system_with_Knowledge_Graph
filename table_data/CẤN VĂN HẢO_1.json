@@ -1,0 +1,227 @@
+{
+    "papers": [
+        {
+            "title": "Contact process on one-dimensional long range percolation",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electronic Communications in Probability",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "20, no. 93, 11 pp",
+            "published_date": "12/2015"
+        },
+        {
+            "title": "Metastability for the contact process on the configuration model with infinite mean degree",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electronic Journal of Probability",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "20, no. 26, 22 pp",
+            "published_date": "03/2015"
+        },
+        {
+            "title": "Critical behavior of the annealed Ising model on random regular graphs",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Statistical Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "169 480-503",
+            "published_date": "09/2017"
+        },
+        {
+            "title": "A Cramér type moderate deviation theorem for the critical Curie-Weiss model",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electronic Communications in Probability",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "22, no. 62, 12 pp",
+            "published_date": "11/2017"
+        },
+        {
+            "title": "Super-Exponential Extinction Time of the Contact Process on Random Geometric Graphs",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Combinatorics, Probability and Computing",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "27, 2, 162-185",
+            "published_date": "03/2018"
+        },
+        {
+            "title": "Annealed limit theorems for the Ising model on random regular graphs",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Annals of Applied Probability",
+            "journal_ranking": "Tạp chí quốc tế uy tín (thuộc danh sách 144 tạp chí uy tín cao của HDGSNN Ngành Toán) - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "29, 3, 1398-1445",
+            "published_date": "06/2019"
+        },
+        {
+            "title": "Exponential extinction time of the contact process on rank-one inhomogeneous random graphs",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Theoretical Probability",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "32 106-130",
+            "published_date": "03/2019"
+        },
+        {
+            "title": "Persistence probability of random Weyl polynomials",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Statistical Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "176 262-277",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Persistence probability of a random polynomial arising from evolution game theory",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Applied Probability",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "56, 3, 870-890",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "First passage time of the frog model has a sublinear variance",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electronic Journal of Probability",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "24, no. 76, 27 pp",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Limit theorems for the one dimensional random walk with random resetting to the maximum",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Statistical Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "183, no. 21, 30 pp",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Glauber dynamics for Ising models on random regular graphs: cut-off and metastability",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "ALEA, Latin American Journal of Probability and Mathematical Statistics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "18 1441-1482",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Annealed Ising model on configuration models",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Annales de l'Institut Henri Poincaré, Probabilités et Statistiques",
+            "journal_ranking": "Tạp chí quốc tế uy tín (thuộc danh sách 144 tạp chí uy tín cao của HDGSNN Ngành Toán) - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "58, 1, 134-163",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Annealed inhomogeneities in random ferromagnets",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Physical Review E",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "105, no. 024128",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "Random connection models in the thermodynamic regime: central limit theorems for add-one cost stabilizing functionals",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electronic Journal of Probability",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "27, no. 36, 40 pp",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Spectral dimension of simple random walk on a long-range percolation cluster",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Electronic Journal of Probability",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "27, no. 56, 37 pp",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "On the expected number of real roots of random polynomials arising from evolutionary game theory",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Communications in Mathematical Sciences",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "20, 6, 1613-1636",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "On the universality of the superconcentration in mixed p-spin models",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Statistical Physics",
+            "journal_ranking": "Tạp chí quốc tế uy tín - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "190, no. 80, 16 pp",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Lipschitz-continuity of time constant in generalized First-passage percolation",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Stochastic Processes and their Applications",
+            "journal_ranking": "Tạp chí quốc tế uy tín (thuộc danh sách 144 tạp chí uy tín cao của HDGSNN Ngành Toán) - SCIE",
+            "citation_count": 0,
+            "volume_issue_pages": "175, no. 104402, 15 pp",
+            "published_date": "06/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Thời gian truyền bệnh trong một môi trường lây nhiễm",
+            "role": "Principal Investigator",
+            "project_code": "21b/VTH",
+            "management_level": "Cấp Cơ sở",
+            "period": "16/1/2018 đến 14/11/2018",
+            "acceptance_date": "14/11/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Mô hình Ising trên đồ thị ngẫu nhiên",
+            "role": "Co-Investigator",
+            "project_code": "30/VTH",
+            "management_level": "cấp Cơ sở",
+            "period": "13/2/2019 đến 16/12/2019",
+            "acceptance_date": "16/12/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Các định lý giới hạn cho đô thị hình học ngẫu nhiên mở rộng",
+            "role": "Principal Investigator",
+            "project_code": "38/VTH",
+            "management_level": "cấp Cơ sở",
+            "period": "12/2/2020 đến 11/12/2020",
+            "acceptance_date": "11/12/2020",
+            "rating": "Đạt"
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

@@ -1,0 +1,489 @@
+{
+    "papers": [
+        {
+            "title": "Vai trò của giá trị văn hóa truyền thống dân tộc trong phát triển nguồn lực của Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Khoa học chính trị ISSN: 1859-0187",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, 44-47",
+            "published_date": "6/2015"
+        },
+        {
+            "title": "Những vấn đề đặt ra đối với việc giảng dạy chủ nghĩa Mác Lênin cho sinh viên trong các Trường Đại học, Cao đẳng ở Việt Nam hiện nay",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học quốc gia: Nâng cao chất lượng giảng dạy, học tập các môn Lý luận chính trị trong các trường Đại học, Cao đẳng ISBN 978-604-36-5417-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "376-383",
+            "published_date": "9/2015"
+        },
+        {
+            "title": "Một số vấn đề đặt ra đối với việc giữ gìn và phát huy giá trị văn hóa truyền thống Việt Nam và Lào trong bối cảnh hội nhập quốc tế hiện nay.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo khoa học quốc tế: Giữ gìn và phát huy giá trị văn hóa truyền thống Việt – Lào trong quá trình hội nhập quốc tế ISBN 978-604-57-3684-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "593-605",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Chủ nghĩa Mác trước xu thế toàn cầu hóa của thời đại ngày nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học “Các Mác – giá trị lịch sử và ý nghĩa thời đại” do Trường Đại học Sư phạm kỹ thuật Thành phố Hồ Chí Minh tổ chức.",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "36-39",
+            "published_date": "9/2018"
+        },
+        {
+            "title": "Liên kết giữa nhà trường và doanh nghiệp, một bước để giải quyết tình trạng thất nghiệp của sinh viên sau khi ra trường",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học “Liên kết giữa nhà trường và doanh nghiệp trong việc giải quyết việc làm cho sinh viên sau khi tốt nghiệp” do Trường Đại học Kinh tế Thành phố Hồ Chí Minh tổ chức. ISBN: 978-604-922-689-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "291-297",
+            "published_date": "3/2019"
+        },
+        {
+            "title": "Một số vấn đề đặt ra đối với việc phát triển nguồn nhân lực chất lượng cao của Việt Nam tại Đại hội Đại biểu Đảng lần thứ 13 sắp tới",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học quốc gia “Nghiên cứu chủ trương, đường lối, cơ chế và chính sách phát triển kinh tế trong dự thảo văn kiện Đại hội đại biểu toàn quốc lần thứ XIII” do Trường Đại học Kinh tế Thành phố Hồ Chí Minh tổ chức. ISBN: 978-604-922-689-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "6/2020"
+        },
+        {
+            "title": "Phát triển nguồn nhân lực chất lượng cao nhằm thúc đẩy lực lượng sản xuất trong sự nghiệp đổi mới của Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Triết học ISSN: 0866-7632",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 7/2020 47-56",
+            "published_date": "7/2020"
+        },
+        {
+            "title": "Các đô thị thông minh trên thế giới và quá trình xây dựng đô thị thông minh tại Thành phố Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học quốc gia “Đô thị thông minh: Mô hình Thành phố Hồ Chí Minh” do Tạp chí Cộng sản và Thành ủy Thành phố Hồ Chí Minh tổ chức. ISBN: 978-604-68-6603-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "143-151",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Tác động của Cách mạng Công nghiệp 4.0 đến lực lượng lao động của Việt Nam trong bối cảnh phát triển nền kinh tế số",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học quốc gia “Quá trình chuyển đổi số của nền kinh tế Việt Nam: Công nghệ, thị trường và chính sách” do Trường Đại học Kinh tế Thành phố Hồ Chí Minh tổ chức. ISBN: 978-604-922-910-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "322-329",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Giá trị văn hóa truyền thống dân tộc với việc phát triển nguồn nhân lực ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Triết học ISSN: 0866-7632",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1/2021 36-42",
+            "published_date": "1/2021"
+        },
+        {
+            "title": "Vai trò của việc kế thừa, phát huy giá trị văn hóa truyền thống dân tộc để phát triển nguồn nhân lực ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị và truyền thông ISSN: 1859-1485",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số chuyên đề 03 41-44",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Những yếu tố ảnh hưởng đến phát triển nguồn nhân lực ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị và truyền thông ISSN: 1859-1485",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số chuyên đề 03 57-60",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Quan điểm của học thuyết Mác về dân chủ Xã hội chủ nghĩa và việc xây dựng, hoàn thiện dân chủ xã hội chủ nghĩa ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Triết học ISSN: 0866-7632",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6/2021 34-42",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Vai trò của phát triển văn hóa với việc xây dựng con người Việt Nam trong quá trình toàn cầu hóa hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị và truyền thông ISSN: 1859-1485",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số chuyên đề 04 5-8",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Những thách thức đối với việc đấu tranh tư tưởng, lý luận và giải pháp vượt qua",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị ISSN: 2525-2585",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số chuyên đề quý 4 136-141",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "The Philosophy of Nguyen Trai for the advancement of the Concept in Humanity",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Pertanika Journal of Social Science and Humanities ISSN: 0128-7702, 2231-8534 https://doi.org/10.47836/pjssh.29.4.20",
+            "journal_ranking": "Scopus Q3 ISI (ESCI) JCI = 0.14 WOS Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 29, No4 2453-2468",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Pragmatist Idea of Democracy in Education and Its Meaning for Educational Innovation in Vietnam Today",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Studia Gilsoniana ISSN: 2300-0066, 2577-0314 https://doi.org/10.47836/10.26385/SG.100441",
+            "journal_ranking": "Scopus Q2 H-index = 3",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 10, No4 975-995",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Rousseau's Philosophical and Educational Innovation in Vietnam Today",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Social Studies Education Research https://jsser.org/index.php/jsser/article/view/3541",
+            "journal_ranking": "Scopus Q2 H-index = 16",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 12, No4 197-208",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Mối quan hệ biện chứng giữa phát triển văn hóa và xây dựng con người, phục vụ yêu cầu phát triển bền vững ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Triết học ISSN: 0866-7632",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 3/2022 38-46",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Phát triển giáo dục, đào tạo nhằm đẩy mạnh công nghiệp hóa, hiện đại hóa, góp phần phát triển lực lượng sản xuất ở Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu dân tộc ISSN: 0866-773X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 11 Issue 1 20-25",
+            "published_date": "3/2022"
+        },
+        {
+            "title": "Nguyen Trai of benevolence and righteousness are necessary for Vietnamese today",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Trans / Form / Ação: Revista de Filosofia ISSN: 0101-3173, 1980-539X https://doi.org/10.1590/0101-3173.2022.v45esp2.p125",
+            "journal_ranking": "Scopus Q3 H-index = 5 ISI (AHCI) WOS Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 45 (2022): Edição Especial 125-148",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Human resource development experience of some developed countries and lessons drawn for Vietnam today",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Revista de Investigaciones de la Universidad del Quindío ISSN: 1794-631x e-ISSN: 2500-5782 https://doi.org/10.33975/riuq.vol34n1.858",
+            "journal_ranking": "ISI (ESCI) JCI = 0.04 WOS Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 34, No1 118-127",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Mối quan hệ biện chứng giữa tăng trưởng kinh tế với phát triển văn hóa của TP. HCM hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị và truyền thông ISSN: 1859-1485",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Chuyên đề số 1/2022 132-135",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Phát huy nguồn lực thanh niên ở Việt Nam hiện nay thông qua giáo dục – đào tạo",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nhân lực Khoa học xã hội ISSN: 0866-756X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4 (107) 98-105",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Vận dụng quan điểm của Chủ tịch Hồ Chí Minh trong công tác giáo dục thanh niên hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Văn hóa nghệ thuật ISSN: 0866-8655",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 497 7-10",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Nâng cao chất lượng nguồn nhân lực nông thôn Việt Nam: thực trạng và giải pháp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học xã hội Việt Nam ISSN: 1013-4328",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6/2022 25-33",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Thu hút, trọng dụng nhân tài – động lực để phát triển nhanh và bền vững đất nước theo tinh thần nghị quyết Đại hội XIII của Đảng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị điện tử ISSN: 2525-2567",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tháng 7/2022",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "Nâng cao hiệu lực, hiệu quả công tác kiểm tra, giám sát, kỷ luật của Đảng trong giai đoạn hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Cộng sản điện tử ISSN: 2734-9071",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tháng 7/2022",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "Education Philosophy of Contemporary Pragmatism",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Contemporary Pragmatism",
+            "journal_ranking": "Scopus Q2 H-index = 9",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 19, Issue 3",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Tác động của toàn cầu hóa đến giá trị truyền thống văn hóa dân tộc Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu dân tộc ISSN: 0866-773X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 11, No 3 92-96",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "The Education Philosophy of Confucius and Its Implications for the Philosophical Innovation of Education in Vietnam Nowadays",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Wisdom ISSN: 1829-3824 https://doi.org/10.24234/wisdom.v4i3.904",
+            "journal_ranking": "ISI (ESCI) JCI = 0.84 WOS Q1",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 4, No 3 205-219",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "The role of absolute spirit in Hegel's philosophy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Synesis ISSN 1984-6754 https://seer.ucp.br/seer/index.php/synesis/article/view/2268",
+            "journal_ranking": "ISI (ESCI) JCI = 0.66 WOS Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 14, No. 2, 195-210",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Marx’s ethics theory and its meaning in building morality for Vietnamese today",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Aufklarung Revista de filosofia e-ISSN 2318-9428, p-ISSN 2358-8470 https://doi.org/10.18012/arf.v9i2.64262",
+            "journal_ranking": "ISI (ESCI) JCI = 0.02 WOS Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 9, No 2 47-56",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Aristotle's philosophy on happiness and its meaning to educate Vietnamese today",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Perspektivy Nauki i Obrazovaniya ISSN: 2307-2334",
+            "journal_ranking": "Scopus Q2 H index = 6 (Category: Philosophy)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 60 No 6 475-490",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Tăng cường đoàn kết nội bộ để xây dựng, chỉnh đốn Đảng và hệ thống chính trị trong sạch, vững mạnh đáp ứng yêu cầu, nhiệm vụ hiện nay.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tổ chức Nhà nước ISSN: 2588-237X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 12 55-58",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Đẩy mạnh ứng dụng khoa học và công nghệ để thúc đẩy công nghiệp hoá, hiện đại hoá đất nước",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tổ chức Nhà nước online ISSN: 2588-237X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "1/2023"
+        },
+        {
+            "title": "Theory of Thomas Aquinas on human nature and its meaning in social life today",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Aufklarung Revista de filosofia e-ISSN 2318-9428, p-ISSN 2358-8470 https://doi.org/10.18012/arf.v9i3.65673",
+            "journal_ranking": "ISI (ESCI) JCI = 0.02 WOS Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 9, No 3 85-96",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Đẩy mạnh công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn theo tinh thần Nghị quyết Trung ương 5 khóa XIII của Đảng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Lý luận chính trị điện tử ISSN 2525-2567",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2/2023"
+        },
+        {
+            "title": "Học thuyết hình thái - kinh tế xã hội và ý nghĩa của nó đối với sự phát triển của Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu dân tộc ISSN: 0866-773X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 12, No 1 51-55",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Xây dựng triết lý giáo dục của Việt Nam hiện nay",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Triết học ISSN: 0866-7632",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12(391) 45-53",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Vận dụng Tư tưởng Hồ Chí Minh về vai trò của nhân dân trong việc xây dựng Xã hội chủ nghĩa của Việt Nam hiện nay.",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu dân tộc ISSN: 0866-773X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 13 Issue 1 1-4",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Building the civic consciousness of the socialist rule of law in Vietnam today",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Aufklarung Revista de filosofia e-ISSN 2318-9428, p-ISSN 2358-8470 https://doi.org/10.18012/arf.v10i3.69585",
+            "journal_ranking": "ISI (ESCI) JCI = 0.02 WOS Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 10 No 3 67-80",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Khôi phục tổng cầu để thúc đẩy tăng trưởng trong năm 2024: Nhìn từ góc độ xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo Quốc gia Kinh tế Việt Nam năm 2023 và triển vọng 2024. Thúc đẩy tổng cầu để tăng trưởng kinh tế trong bối cảnh mới. Đại học Kinh tế quốc dân. ISBN: 978-604-79-4364-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "470-479",
+            "published_date": "5/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Thực trạng mối quan hệ biện chứng giữa tăng trưởng kinh tế với phát triển văn hóa của Thành phố Hồ Chí Minh hiện nay (DT)",
+            "role": "Principal Investigator",
+            "project_code": "T2022-165",
+            "management_level": "Trường Đại học Sư phạm kỹ thuật Thành phố Hồ Chí Minh",
+            "period": "2022",
+            "acceptance_date": "Ngày 6/12/2022",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Tư tưởng Hồ Chí Minh về vai trò của nhân dân và ý nghĩa đối với việc phát triển bền vững của Việt Nam hiện nay (DT)",
+            "role": "Principal Investigator",
+            "project_code": "CS-2023-16",
+            "management_level": "Đại học Kinh tế Thành phố Hồ Chí Minh",
+            "period": "2023-2024",
+            "acceptance_date": "23/4/2024",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Nhân cách con người Việt Nam và sự phát triển nguồn",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Chính trị Quốc gia Sự Thật",
+            "publish_year": "2021",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1, chương 2",
+            "verification_document_id": "Quyết định về việc phê duyệt sách phục vụ đào tạo số 4405/QĐ-ĐHKT-QLKHHTQT. Giấy xác nhận mục"
+        },
+        {
+            "title": "Chủ nghĩa Mác – Lênin về thực tiễn và vai trò của thực tiễn trong đời sống xã hội Việt Nam hiện nay",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Đại học Quốc gia Thành phố Hồ Chí Minh",
+            "publish_year": "2022",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 1, chương 2",
+            "verification_document_id": "Quyết định phê duyệt sách phục vụ đào tạo số 1491/QĐ-ĐHKT-QLKHHTQT. Giấy xác nhận mục đích sử dụng sách phục vụ đào tạo."
+        },
+        {
+            "title": "Giá trị văn hóa truyền thống dân tộc với nguồn nhân lực Việt Nam trong cuộc cách mạng công nghiệp lần thứ tư hiện nay",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Đại học Quốc gia Thành phố Hồ Chí Minh",
+            "publish_year": "2022",
+            "num_authors": 1,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Toàn bộ",
+            "verification_document_id": "Quyết định về việc phê duyệt sách phục vụ đào tạo số 768/QĐ-ĐHKT-QLKHHTQT. Giấy xác nhận mục đích sử dụng sách phục vụ đào tạo."
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": []
+}

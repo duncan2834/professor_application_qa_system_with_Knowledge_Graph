@@ -1,0 +1,561 @@
+{
+    "papers": [
+        {
+            "title": "Phylogeny and a new tribal classification of Opiliaceae (Santalales) based on molecular and morphological evidence",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Systematics and Evolution, ISSN: 1674-4918; eISSN: 1759-6831",
+            "journal_ranking": "SCIE Q1 (IF: 4.040)",
+            "citation_count": 11,
+            "volume_issue_pages": "56(1):56-66",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "Bothriospermum longistylum sp. nov. (Boraginaceae) from North China",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nordic Journal of Botany, eISSN: 1756-1051",
+            "journal_ranking": "SCIE Q2 (IF: 0.890)",
+            "citation_count": 1,
+            "volume_issue_pages": "36(4):1-8",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Evolutionary history of the angiosperm flora of China",
+            "num_authors": 23,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nature, ISSN: 0028-0836; eISSN: 1476-4687",
+            "journal_ranking": "SCIE Q1 (IF: 43.070)",
+            "citation_count": 334,
+            "volume_issue_pages": "554, 234-238",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "Historical biogeography of Loranthaceae (Santalales): Diversification agrees with emergence of tropical forests and radiation of songbirds",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Molecular Phylogenetics and Evolution, ISSN: 1055-7903; eISSN: 1095-9513",
+            "journal_ranking": "SCIE Q1 (IF: 3.992)",
+            "citation_count": 56,
+            "volume_issue_pages": "124, 199-212",
+            "published_date": "3/2018"
+        },
+        {
+            "title": "Đặc điểm phân loại chi nhãn (Dimocarplus Lour.) ở Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học trường ĐHSP Hà Nội 2, ISSN: 1859-2325",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "23. 159-164.",
+            "published_date": "2013"
+        },
+        {
+            "title": "Spatial heterogeneity of neo- and paleo-endemism for plants in Madagascar",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Current Biology, eISSN: 1879-0445",
+            "journal_ranking": "SCIE Q1 (IF: 9.2)",
+            "citation_count": 0,
+            "volume_issue_pages": "34, 1-13",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Phylogeny, character evolution and historical biogeography of Scurrulinae (Loranthaceae): New insights into the circumscription of the genus Taxillus",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "BMC Plant Biology, ISSN: 1471-2229",
+            "journal_ranking": "SCIE Q1 (IF: 5.3)",
+            "citation_count": 0,
+            "volume_issue_pages": "24: 440",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Genome-wide identification, characterization and expression analysis of the Small auxin-up RNA gene family during zygotic and somatic embryo maturation of the cacao tree (Theobroma cacao)",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Genomics & Informatics, eISSN: 2234-0742",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "22: 2",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Chemical constituents and in vitro antimicrobial activity of rhizome essential oils of Zingiber densissimum S.Q.Tong & Y.M.Xia and Kaempferia laotica Gagnep. growing wild in Vietnam",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Essential Oil Bearing Plants, ISSN: 0972-060X; eISSN: 0976-5026",
+            "journal_ranking": "SCIE Q3 (IF: 2.4)",
+            "citation_count": 0,
+            "volume_issue_pages": "27(1): 73-81",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "A newly recorded species, Zingiber Densissimum (Sect. Cryptanthium) for the flora of Vietnam",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Academia Journal of Biology, ISSN: 2615-9023; eISSN: 2815-5920",
+            "journal_ranking": "ISI-ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "45(4): 63-71",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Cyrtomium calcis sp. nov. and six new records of the shield fern family (Dryopteridaceae) from Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytotaxa, ISSN 1179-3155, eISSN 1179-3163",
+            "journal_ranking": "SCIE Q2 (IF: 1.1)",
+            "citation_count": 1,
+            "volume_issue_pages": "583(1): 15-26",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Three new species and one new record of the fern genus Polystichum (Dryopteridaceae) from Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytotaxa, ISSN 1179-3155, eISSN 1179-3163",
+            "journal_ranking": "SCIE Q2 (IF: 1.1)",
+            "citation_count": 0,
+            "volume_issue_pages": "607(1):85-94",
+            "published_date": "8/2023"
+        },
+        {
+            "title": "Reconstruction of the evolutionary biogeography reveals the origins of Alpinia Roxb. (Zingiberaceae): A case of \"out-of-Asia\" migration to the Southern Hemisphere",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Acta Botanica Brasilica, ISSN: 0102-3306, eISSN: 1677-941X",
+            "journal_ranking": "SCIE Q2 (IF: 1.395)",
+            "citation_count": 3,
+            "volume_issue_pages": "36: e2021abb0255",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Hydrodistillation Essential Oil of Michelia balansae and its characteristics from Xuan Son National Park, Vietnam",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Plant Sciences, ISSN: 1682-3974, eISSN: 1812-5697",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "21(3): 453-459",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Reconstruction of the evolutionary biogeography reveals the origin and diversification of Arisaema (Araceae)",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Acta Botanica Brasilica, ISSN: 0102-3306, eISSN: 1677-941X",
+            "journal_ranking": "SCIE Q2 (IF: 1.395)",
+            "citation_count": 0,
+            "volume_issue_pages": "36: e2021abb0253",
+            "published_date": "01/2022"
+        },
+        {
+            "title": "Effect of NPK-SRFS on the growth, yield, and essential oil composition of basil (Ocimum basilicum L.)",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Pakistan Journal of Biological Sciences, ISSN: 1028-8880, eISSN: 1812-5735",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "25(4):289-295",
+            "published_date": "02/2022"
+        },
+        {
+            "title": "New insights into the formation of biodiversity hotspots of the Kenyan flora",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Diversity and Distributions, ISSN: 1366-9516, eISSN: 1472-4642",
+            "journal_ranking": "SCIE Q1 (IF: 5.714)",
+            "citation_count": 4,
+            "volume_issue_pages": "28: 2696-2711",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Typhonium kbangense, a new species of Araceae (Aroidea – Areae) from Central Vietnam",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nordic Journal of Botany, ISSN: 0107-055X, eISSN: 1756-1051",
+            "journal_ranking": "SCIE Q3 (IF: 0.931)",
+            "citation_count": 4,
+            "volume_issue_pages": "8: e03601",
+            "published_date": "6/2022"
+        },
+        {
+            "title": "Molecular phylogeny and deep origins of the hybrid Mokara Dear Heart (Orchidaceae)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Jordan Journal of Biological Sciences, ISSN: 1995-6673, eISSN: 2307-7166",
+            "journal_ranking": "Scopus Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "15(5): 805-811",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "Phylogeny of Alpinia coriandriodora D. Fang and Implications for Character",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Pakistan Journal of Biological Sciences, ISSN: 1028-8880, eISSN: 1812-5735",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "24(1):1-12",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Typhonium phuocbinhense sp. nov. (Araceae: Areae), a new species from central Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytotaxa, ISSN 1179-3155, eISSN 1179-3163",
+            "journal_ranking": "SCIE Q3 (IF: 1.050)",
+            "citation_count": 3,
+            "volume_issue_pages": "482(1): 73-79",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "The identify of Buchanania yunnanensis C.Y. Wu (Anacardiaceae)",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Phytotaxa, ISSN 1179-3155, eISSN 1179-3163",
+            "journal_ranking": "SCIE Q3 (IF: 1.050)",
+            "citation_count": 0,
+            "volume_issue_pages": "528(2): 209-214",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Arachniodes libingii and A. vietnamensis (Dryopteridaceae), two new ferns from southern China and central Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytotaxa, ISSN 1179-3155, eISSN 1179-3163",
+            "journal_ranking": "SCIE Q3 (IF: 1.050)",
+            "citation_count": 1,
+            "volume_issue_pages": "522(3): 256-262",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Ophiopogon elatior, a new species of Asparagaceae from Yunnan, China",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Phytotaxa, ISSN 1179-3155, eISSN 1179-3163",
+            "journal_ranking": "SCIE Q3 (IF: 1.050)",
+            "citation_count": 0,
+            "volume_issue_pages": "525 (1): 46-50",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Arisaema menglaense (Araceae: Arisaemateae) Newly Recorded For Northern Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Aroideana Journal of the International Aroid Society, ISSN: 0197-4033; eISSN: 2310-0745",
+            "journal_ranking": "International Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "43(3&4): 12-24",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Molecular phylogenetic relationship of some Curcuma species (Zingiberaceae) in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Đại học Thái Nguyên, ISSN: 1859-2171, 2374-9098; e-ISSN: 2615-9562",
+            "journal_ranking": "ACI National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "229(05): 282-289",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "A new species record of the genus Typhonium (Araceae) for the flora of Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Đại học Thái Nguyên, ISSN: 1859-2171, 2374-9098; e-ISSN: 2615-9562",
+            "journal_ranking": "ACI National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "229(09): 350-355",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Phylogeny of Melodinus cochinchinensis (Lour.) Merr. from Vietnam based on chloroplast sequences",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Đại học Thái Nguyên, ISSN: 1859-2171, 2374-9098; e-ISSN: 2615-9562",
+            "journal_ranking": "ACI National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "228(09): 331-337",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Molecular phylogeny of Camellia sinensis var. assamica from Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường ĐHSP Hà Nội, ISSN: 2354-1059",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "68(2): 164-172",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Lonicera longiflora (Caprifoliaceae), a new record for the flora of Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Đại học Thái Nguyên, ISSN: 1859-2171, 2374-9098; e-ISSN: 2615-9562",
+            "journal_ranking": "ACI National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "229(01): 228-234",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Molecular phylogeny of Macrosolen (Blume) Rchb. (Loranthaceae) from Vietnam based on molecular data",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Đại học Thái Nguyên, ISSN: 1859-2171, 2374-9098; e-ISSN: 2615-9562",
+            "journal_ranking": "ACI National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "227(05): 261-267",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Taxillus thibetensis (Lecomte) Danser (Loranthaceae) a new record species for Flora of Vietnam",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí ĐHQGHN: Khoa học Tự nhiên và Công nghệ, ISSN: 2588-1140",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "37(2): 70-77",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Nghiên cứu số lượng loài và nguồn gốc phát sinh của chi Pyrularia michx. (Cervantesiaceae)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Đại học Thái Nguyên, ISSN: 1859-2171, 2374-9098; e-ISSN: 2615-9562",
+            "journal_ranking": "ACI National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "226(01): 65-73",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "A molecular phylogeny of Alpinia Roxb. (Zingiberaceae): An overview for phylogeny of Vietnamese Alpinia",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Đại học Thái Nguyên, ISSN: 1859-2171, 2374-9098; e-ISSN: 2615-9562",
+            "journal_ranking": "ACI National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "226(05): 104-109",
+            "published_date": "4/2021"
+        },
+        {
+            "title": "Xác định và phân tích các gene mã hóa protein liên kết stress (SAP) ở cây Đu đủ (Carica papay L.) bằng phương pháp in silico",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Trường ĐHSP Hà Nội, ISSN: 2354-1059",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "66(1): 111-118",
+            "published_date": "3/2021"
+        },
+        {
+            "title": "Taxonomy and phylogeny of Vietnamese Spondias L. (Anacardiaceae)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học & Công nghệ Đại học Thái Nguyên, ISSN: 1859-2171, 2374-9098; e-ISSN: 2615-9562",
+            "journal_ranking": "ACI National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "207(14): 33-40",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Exploring the phylogenetic relationship of Santalaceous genera based on intensive molecular data",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh học, ISSN: 2615-9023; eISSN: 2815-5920",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "41(2se1&2se2): 221-228",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Study on phylogenetic position and genetic relationship of Altingia excelsa Noronha from Lao Cai, Vietnam by molecular data",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Báo cáo khoa học về Nghiên cứu và Giảng dạy sinh học ở Việt Nam: Hội nghị Khoa học Quốc gia lần thứ 5. NXB Khoa học Tự nhiên và Công nghệ/ ISBN: 978-604-357-065-6",
+            "journal_ranking": "National Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "342-349",
+            "published_date": "7/2022"
+        },
+        {
+            "title": "Study on morphology and genetics of Scurrula chingii var. yunnanensis H.S. Kiu in C.Y. Wu & H.W. Li.",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Báo cáo khoa học về Nghiên cứu và Giảng dạy sinh học ở Việt Nam: Hội nghị Khoa học Quốc gia lần thứ 4. NXB Khoa học Tự nhiên và Công nghệ/ ISBN: 978-604-9955-23-5.",
+            "journal_ranking": "National Conference Proceeding",
+            "citation_count": 0,
+            "volume_issue_pages": "447-453",
+            "published_date": "7/2020"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu phân loại chi Cóc (Spondias L.) ở Việt Nam dựa trên hình thái và phân tử.",
+            "role": "Principal Investigator",
+            "project_code": "C.2019.01",
+            "management_level": "Trường ĐHSP Hà Nội 2",
+            "period": "2019-2020",
+            "acceptance_date": "Ngày 22 tháng 11 năm 2019",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu phát sinh loài và quan hệ di truyền của chi Riềng (Alpinia Roxb.) dựa trên dữ liệu phân tử",
+            "role": "Principal Investigator",
+            "project_code": "C.2020.23",
+            "management_level": "Trường ĐHSP Hà Nội 2",
+            "period": "2020-2021",
+            "acceptance_date": "Ngày 04 tháng 8 năm 2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu đa dạng nguồn gen và mối quan hệ gần gũi có thể của chi Nam tinh (Arisaema Mart.) ở Việt Nam và trên thế giới",
+            "role": "Key Member",
+            "project_code": "GUST.STS.ĐT 2020-ST01",
+            "management_level": "Học viện KH&CN, Viện Hàn lâm KH&CN Việt Nam",
+            "period": "2020-2022",
+            "acceptance_date": "Ngày 18 tháng 8 năm 2022",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu đa dạng thành phần loài và mối quan hệ phát sinh chủng loài chi Nam tinh – Arisaema và một số chi khác trong họ Ráy – Araceae ở Việt Nam",
+            "role": "Key Member",
+            "project_code": "106.03-2019.322",
+            "management_level": "Nafosted",
+            "period": "2019-2022",
+            "acceptance_date": "Ngày 21 tháng 6 năm 2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu phát sinh loài, lịch sử địa lý sinh vật và đa dạng của phân tông Scurrulinae (Loranthacerae) trên thế giới",
+            "role": "Principal Investigator",
+            "project_code": "106.03-2019.12",
+            "management_level": "Nafosted",
+            "period": "2019-2023",
+            "acceptance_date": "Pending acceptance",
+            "rating": "Pending acceptance"
+        },
+        {
+            "title": "Nghiên cứu mối quan hệ phát sinh loài và phân loại chi Ráng thù xỉ (Arachniodes) và Ráng nhiều hàng (Polystichum) thuộc họ Dryopteridaceae ở Việt Nam dựa trên dẫn liệu hình thái và sinh",
+            "role": "Key Member",
+            "project_code": "106.03-2019.313",
+            "management_level": "Nafosted",
+            "period": "2019-2023",
+            "acceptance_date": "Submitted for acceptance",
+            "rating": "Submitted for acceptance"
+        },
+        {
+            "title": "Khai thác, phát triển nguồn gen 2 loài Lan hài: Lan hài helen - Paphiopedilum helenae, Lan hài xanh - Paphiopedilum malipoense",
+            "role": "Key Member",
+            "project_code": "NVQG - 2021/ĐT.25",
+            "management_level": "Quỹ gen cấp quốc gia",
+            "period": "2021-2025",
+            "acceptance_date": "Ongoing",
+            "rating": "Ongoing"
+        },
+        {
+            "title": "Nghiên cứu đa dạng loài và mối quan hệ di truyền của chi Pyrularia và các chi gần gũi trong họ Cervantesiaceae",
+            "role": "Principal Investigator",
+            "project_code": "B.2024-SP2-05",
+            "management_level": "Bộ GD&ĐT",
+            "period": "2024-2025",
+            "acceptance_date": "Ongoing",
+            "rating": "Ongoing"
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Xây dựng Chương trình đào tạo Cử nhân sư phạm Sinh học dạy bằng tiếng Anh",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "1752/QĐ-ĐHSPHN2 ngày 02/11/2021",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "2403/QĐ-ĐHSPHN2 ngày 30/12/2021",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh, cập nhật Chương trình đào tạo trình độ đại học, chuyên ngành: Sư phạm Sinh học (hình thức đào tạo chính quy)",
+            "applicant_role": "Participant",
+            "assignment_document_id": "1724/QĐ-ĐHSPHN2 ngày 07/9/2022",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "1972/QĐ-ĐHSPHN2 ngày 29/9/2022",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh, cập nhật Chương trình đào tạo trình độ đại học, chuyên ngành: Sư phạm Sinh học (hình thức đào tạo vừa làm vừa học)",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "1724/QĐ-ĐHSPHN2 ngày 07/9/2022",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "1972/QĐ-ĐHSPHN2 ngày 29/9/2022",
+            "notes": ""
+        },
+        {
+            "title": "Chỉnh sửa, cập nhật Chương trình đào tạo trình độ thạc sĩ, chuyên ngành: Sinh học thực nghiệm",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "1206/QĐ-ĐHSPHN2 ngày 28/6/2022",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "1580/QĐ-ĐHSPHN2 ngày 15/8/2022",
+            "notes": ""
+        },
+        {
+            "title": "Điều chỉnh, cập nhật Chương trình đào tạo trình độ tiến sĩ, chuyên ngành: Sinh lý học thực vật",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "2646/QĐ-ĐHSPHN2 ngày 06/12/2022",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "2960/QĐ-ĐHSPHN2 ngày 29/12/2022",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo ngành Công nghệ sinh học, trình độ đào tạo đại học",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "2603/QĐ-ĐHSPHN2 ngày 01/12/2022",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "592/QĐ-ĐHSPHN2 ngày 24/3/2023",
+            "notes": ""
+        },
+        {
+            "title": "Đánh giá tổng thể và cải tiến chất lượng Chương trình đào tạo trình độ tiến sĩ, ngành Sinh lý học thực vật",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "2057/QĐ-ĐHSPHN2 ngày 20/9/2023",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "1127/QĐ-ĐHSPHN2 ngày 12/6/2024",
+            "notes": ""
+        },
+        {
+            "title": "Đánh giá tổng thể và cải tiến chất lượng Chương trình đào tạo trình độ đại học, hình thức chính quy",
+            "applicant_role": "Participant",
+            "assignment_document_id": "2052/QĐ-ĐHSPHN2 ngày 19/9/2023",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "Ongoing and completing",
+            "notes": ""
+        },
+        {
+            "title": "Đánh giá tổng thể và cải tiến chất lượng Chương trình đào tạo trình độ đại học, hình thức chính quy ngành Sư phạm Sinh học dạy học bằng tiếng Anh",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "2052/QĐ-ĐHSPHN2 ngày 19/9/2023",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "Ongoing and completing",
+            "notes": ""
+        },
+        {
+            "title": "Đánh giá tổng thể và cải tiến chất lượng Chương trình đào tạo trình độ đại học, hình thức chính quy ngành Công nghệ sinh học",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "2052/QĐ-ĐHSPHN2 ngày 19/9/2023",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "Ongoing and completing",
+            "notes": ""
+        },
+        {
+            "title": "Đánh giá tổng thể và cải tiến chất lượng Chương trình đào tạo trình độ đại học, hình thức chính quy ngành Sư phạm Khoa học tự nhiên",
+            "applicant_role": "Participant",
+            "assignment_document_id": "2052/QĐ-ĐHSPHN2 ngày 19/9/2023",
+            "certifying_authority": "Trường ĐHSP Hà Nội 2",
+            "implementation_document_id": "Ongoing and completing",
+            "notes": ""
+        }
+    ]
+}

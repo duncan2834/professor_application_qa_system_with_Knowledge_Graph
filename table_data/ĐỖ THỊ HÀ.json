@@ -1,0 +1,758 @@
+{
+    "papers": [
+        {
+            "title": "Factors related to alcohol drinking behavior among adolescents in Ho Chi Minh City, Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Science, Technology, and Humanities.",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 10, No. 1, pp. 35-43",
+            "published_date": "2012"
+        },
+        {
+            "title": "Actual Nursing Competency among Nurses in Hospital in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Nursing and Health Sciences, ISSN: 2010-3778",
+            "journal_ranking": "Open Science Index GS Semantic Zenedo Base RoMeo",
+            "citation_count": 4,
+            "volume_issue_pages": "Vol. 10(3):1013-1020",
+            "published_date": "2016"
+        },
+        {
+            "title": "Perceptions of how negative nursing image impacts on nursing care and nursing competency development",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The 4th Asian Academic Society International Conference (AASIC) 2016: Globalizing Asia: Integrating Science, Technology and Humanities for Future Growth and Development. ISBN: 978-616-406-374-7",
+            "journal_ranking": "AASIC",
+            "citation_count": 5,
+            "volume_issue_pages": "AASIC4: 254-262",
+            "published_date": "2016"
+        },
+        {
+            "title": "How Nurses in Hospital in Vietnam Learn to Improve their Own Nursing Competency: An Ethnographic Study",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Nursing & Care, ISSN: 2167-1168",
+            "journal_ranking": "IF: 1.43, OCLC, EBSCO A-Z, Publons, Euro Pub",
+            "citation_count": 11,
+            "volume_issue_pages": "Vol. 5, Issue: 5, pp. 1-6",
+            "published_date": "2016"
+        },
+        {
+            "title": "Motivations of Competency Development among Nurses at Hospital in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Nursing and Health Care, ISSN: 2351-0358",
+            "journal_ranking": "TCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 35(1): 27-36",
+            "published_date": "2017"
+        },
+        {
+            "title": "Mức độ lo lắng của bệnh nhân trước phẫu thuật phụ khoa theo kế hoạch tại bệnh viện Hùng Vương, Thành phố Hồ Chí Minh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học TP. Hồ Chí Minh, ISSN: 1859-1779",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 22, No. 3: 342-349",
+            "published_date": "2018"
+        },
+        {
+            "title": "Hiệu quả can thiệp truyền thông thay đổi thực hành vệ sinh tay của điều dưỡng bệnh viện thống nhất, Thành phố Hồ Chí Minh",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học TP. Hồ Chí Minh, ISSN: 1859-1779",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 23, No. 3: 410-416",
+            "published_date": "2019"
+        },
+        {
+            "title": "Kiểm soát tăng huyết áp của người bệnh điều trị ngoại trú tại 6 phòng khám trong các bệnh viện được chọn: Chương trình chăm sóc liên tục",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học TP. Hồ Chí Minh, ISSN: 1859-1779",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 23, No. 6: 20-27",
+            "published_date": "2019"
+        },
+        {
+            "title": "Factors described by stakeholders as influencing competency development for nurses in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Belitung Nursing Journal, ISSN: 2477-4073",
+            "journal_ranking": "Q3, IF: 1.1 (2023), CS: 1.9, ISI SCOPUS",
+            "citation_count": 9,
+            "volume_issue_pages": "Vol. 6(4): 103-110",
+            "published_date": "2020"
+        },
+        {
+            "title": "New competencies required for nurses as compared to the national nursing competency standards in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kontak-Journal of nursing and social sciences related to health and illness, ISSN: 1212-4117, 1804-7122",
+            "journal_ranking": "Q4, IF: 0.4 (2023), CS: 0.6, ISI SCOPUS",
+            "citation_count": 4,
+            "volume_issue_pages": "2020(2): 92-96",
+            "published_date": "2020"
+        },
+        {
+            "title": "Tuân thủ điều trị thuốc và một số yếu tố liên quan ở bệnh nhân tăng huyết áp điều trị ngoại trú tại một số bệnh viện tại Thành phố Hồ Chí Minh",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Điều dưỡng Việt nam, ISSN: 2354-0737",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 29-2020: 31-36",
+            "published_date": "2020"
+        },
+        {
+            "title": "Kiến thức và thực hành vệ sinh tay thường quy của sinh viên cử nhân điều dưỡng chính quy năm 3 và năm 4 trường Đại học Y khoa Phạm Ngọc Thạch",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học TP. Hồ Chí Minh, ISSN: 1859-1779",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 24, No. 3: 161-166",
+            "published_date": "2020"
+        },
+        {
+            "title": "Yếu tố ảnh hưởng đến chất lượng cuộc sống của người bệnh tăng huyết áp đang điều trị ngoại trú tại năm bệnh viện đa khoa tại Thành phố Hồ Chí Minh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học TP. Hồ Chí Minh, ISSN: 1859-1779",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 24, No. 3: 100-106",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nhận thức về môi trường học tập lý thuyết của học viên chuyên khoa I điều dưỡng trường Đại học Y",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Điều dưỡng Việt nam, ISSN: 2354-0737",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 30-2020: 106-113",
+            "published_date": "2020"
+        },
+        {
+            "title": "Hiệu quả chương trình chăm sóc liên tục trên người bệnh tăng huyết áp điều trị ngoại trú tại Thành phố Hồ Chí Minh",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Điều dưỡng Việt nam, ISSN: 2354-0737",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "No. 30-2020: 87-93",
+            "published_date": "2020"
+        },
+        {
+            "title": "Vai trò của báo chí trong việc xây dựng ý thức của người dân về cách thức phòng, chống dịch COVID-19 và bảo vệ sức khỏe cộng đồng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nhà Xuất bản Đại học Quốc gia Thành phố Hồ Chí Minh, ISBN: 978-604-73-8213-2; Kỷ yếu Hội thảo khoa học quốc gia: Hoàn thiện khung pháp lý trong phòng chống dịch COVID-19 tại Việt Nam. Trường Đại học Văn Lang và Tạp chí Dân chủ và pháp luật, Bộ Tư pháp.",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 163-170",
+            "published_date": "2021"
+        },
+        {
+            "title": "Kiến thức, thực hành phòng chống viêm phổi cấp do virus Corona mới (COVID-19) của người dân quận Tân Phú, Thành phố Hồ Chí Minh năm 2020",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Cộng đồng, ISSN: 2354-0613",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 62(6):115-121",
+            "published_date": "2021"
+        },
+        {
+            "title": "Kiến thức, thái độ và thực hành về phòng chống COVID-19 của sinh viên khoa Điều dưỡng – Kỹ thuật Y học, trường Đại học Y khoa Phạm Ngọc Thạch",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học TP. Hồ Chí Minh, ISSN: 1859-1779",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 25(5): 359-368",
+            "published_date": "2021"
+        },
+        {
+            "title": "Lo âu – trầm cảm căng thẳng của điều dưỡng tham gia phòng chống dịch COVID-19 tại Thành phố Hồ Chí Minh năm 2021",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Điều dưỡng Việt Nam, ISSN: 2354-0737",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 35-2021: 84-91",
+            "published_date": "2021"
+        },
+        {
+            "title": "Kết quả tự đánh giá của sinh viên về mức độ đáp ứng năng lực theo chuẩn đầu ra chương trình đào tạo cử nhân điều dưỡng trường Đại học Y khoa Phạm Ngọc Thạch năm 2020",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Điều dưỡng (Trường ĐH Điều dưỡng Nam Định), ISSN: 2734-9632",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 04(03): 37-46",
+            "published_date": "2021"
+        },
+        {
+            "title": "Sang chấn tâm lý ở nhóm nhân viên y tế trực tiếp điều trị, chăm sóc bệnh nhân COVID-19 tại Thành phố Hồ Chí Minh",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Phạm Ngọc Thạch, ISSN: 2815-6366",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 1(1): 77-85",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tỷ lệ và nguyên nhân sai sót thuốc trong thực hành lâm sàng theo nhận thức của sinh viên cử nhân điều dưỡng năm 4 trường Đại học Y khoa Phạm Ngọc Thạch",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Điều dưỡng (Trường ĐH Điều dưỡng Nam Định), ISSN: 2734-9632",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 5(4): 110-123",
+            "published_date": "2022"
+        },
+        {
+            "title": "Thực hành tiêm an toàn của điều dưỡng Tại các khoa lâm sàng viện Y Dược học Dân Tộc, thành phố Hồ Chí Minh năm 2020",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Nghiên cứu Sức khỏe và Phát triển (Trưởng ĐH Y tế Công cộng), ISSN: 2588-1442",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 6(3): 134-142",
+            "published_date": "2022"
+        },
+        {
+            "title": "Chất lượng cuộc sống công việc của điều dưỡng tại bệnh viện Chợ Rẫy",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 520(1B): 79-83",
+            "published_date": "2022"
+        },
+        {
+            "title": "Khảo sát nhận thức của học viên sau đại học ngành điều dưỡng trường Đại học Y khoa Phạm Ngọc Thạch về môi trường học tập lâm sàng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 524(2): 279-283",
+            "published_date": "2023"
+        },
+        {
+            "title": "Application Critical Social Theory in investigating nursing competency in context of Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Nursing Science (Tạp chí Khoa học Điều dưỡng – Trường ĐH Điều dưỡng Nam Định), ISSN: 2734-9632",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 6(01): 143-152",
+            "published_date": "2023"
+        },
+        {
+            "title": "Formulation a model of competency development for nurses in the context of Vietnam: From existing to needed competency",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Medical Journal (Tạp chí Y học Việt Nam), ISSN: 1859-1868",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 525(1): 118-127",
+            "published_date": "2023"
+        },
+        {
+            "title": "Động lực sinh viên điều dưỡng trường Đại học Y khoa Phạm Ngọc Thạch tình nguyện tham gia phòng chống dịch Covid-19",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 528(2): 295-299",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mức độ hài lòng của sinh viên cao đẳng điều dưỡng chính quy trường Cao đẳng Y tế Khánh Hòa về môi trường thực hành lâm sàng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 532(11): 43-55",
+            "published_date": "2023"
+        },
+        {
+            "title": "Chất lượng cuộc sống giai đoạn sau phẫu thuật của người bệnh ung thư tuyến giáp tại bệnh viện Ung Bướu Thành phố Hồ Chí Minh",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, ISSN: 1859-1868",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 533(12), Special Issue, December 2023: 739-745",
+            "published_date": "December, 2023"
+        },
+        {
+            "title": "Strategies to response to psychological trauma of healthcare workers in Vietnam during the COVID-19 pandemic: implication for the future",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Medical Journal (Tạp chí Y học Việt Nam), ISSN: 1859-1868",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 532(2): 199-206",
+            "published_date": "2023"
+        },
+        {
+            "title": "Thực trạng kiến thức và thái độ của điều dưỡng trong phòng ngừa té ngã cho người bệnh tại bệnh viện huyện Củ Chi",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học (Trường ĐH Y Hà Nội), ISSN: 2354-080X",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 172(11): 299-312",
+            "published_date": "2023"
+        },
+        {
+            "title": "Specific competencies required of oncology nurses in Vietnam: Recommendation for nursing education",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Medical Journal (Tạp chí Y học Việt Nam), ISSN: 1859-1868",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 532(2): 165-172",
+            "published_date": "2023"
+        },
+        {
+            "title": "Implications of using the model of competence development for nurses",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Chí Khoa học Điều dưỡng (Trường ĐH Điều dưỡng Nam Định), ISSN: 2734-9632",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 7(01): 85-90",
+            "published_date": "2024"
+        },
+        {
+            "title": "Trải nghiệm phòng chống dịch của sinh viên điều dưỡng: Tiếp cận định tính và định lượng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp Chí Nghiên cứu Y học (Trường ĐH Y Hà Nội), ISSN: 2354-080X",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 175(2): 182-193",
+            "published_date": "2024"
+        },
+        {
+            "title": "Công tác tổ chức hoạt động tình nguyện phòng chống dịch qua góc nhìn của sinh viên trường Đại học Y khoa Phạm Ngọc Thạch",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Dược học Cần Thơ (Trường ĐH Y Dược Cần Thơ), ISSN: 2354-1210",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 72: 21-27",
+            "published_date": "2024"
+        },
+        {
+            "title": "Mental health impact on healthcare workers from COVID-19 in Vietnam: Suggestions for a preventive program",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International journal of mental health nursing, ISSN: 1447-0349; 1445-8330",
+            "journal_ranking": "Q1, IF: 3.6, SC: 7.6, ISI SCOPUS",
+            "citation_count": 0,
+            "volume_issue_pages": "10.1111/inm.13335",
+            "published_date": "2024"
+        },
+        {
+            "title": "Trải nghiệm lo sợ của sinh viên cử nhân điều dưỡng trường Đại học Y khoa Phạm Ngọc Thạch khi tham gia phòng chống dịch COVID-19",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Nghiên cứu Sức khỏe và Phát triển (Trưởng ĐH Y tế Công cộng), ISSN: 2588-1442",
+            "journal_ranking": "Not specified",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 08, No. 02-2024: 140-148",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Hiệu quả của truyền thông trực tiếp thay đổi kiến thức và thực hành về việc rửa tay của điều dưỡng bệnh viện Thống Nhất",
+            "role": "Key Member",
+            "project_code": "CS.2017.01",
+            "management_level": "Cấp cơ sở",
+            "period": "2017-2018",
+            "acceptance_date": "05/07/2018",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Hiệu quả Chương trình chăm sóc liên tục trên người bệnh tăng huyết áp",
+            "role": "Key Member",
+            "project_code": "29/2018/HĐ-QKHCN",
+            "management_level": "Cấp Bộ (Sở KH&CN TPHCM)",
+            "period": "2018-2020",
+            "acceptance_date": "17/06/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nhận thức về môi trường học tập của học viên chuyên khoa 1 điều dưỡng trường Đại học Y khoa Phạm Ngọc Thạch",
+            "role": "Principal Investigator",
+            "project_code": "CS.2019.02",
+            "management_level": "Cấp cơ sở",
+            "period": "2019-2021",
+            "acceptance_date": "23/11/2021",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Kiến thức, thái độ và thực hành về phòng ngừa COVID-19 của sinh viên khoa điều dưỡng – kỹ thuật y học trường Đại học Y khoa Phạm Ngọc Thạch",
+            "role": "Principal Investigator",
+            "project_code": "CS.2020.15",
+            "management_level": "Cấp cơ sở",
+            "period": "2020-2021",
+            "acceptance_date": "06/04/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Kiến thức và thực hành về phòng chống viêm đường hô hấp cấp do virus corona mới (COVID-19) của người dân quận Tân Phú, Thành phố Hồ Chí Minh năm 2020",
+            "role": "Principal Investigator",
+            "project_code": "CS.2020.15",
+            "management_level": "Cấp cơ sở",
+            "period": "2020-2021",
+            "acceptance_date": "06/04/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xây dựng chương trình hỗ trợ tâm lý cho nhân viên y tế trong phòng chống dịch COVID-19",
+            "role": "Principal Investigator",
+            "project_code": "373/QĐ-SKHCN",
+            "management_level": "Cấp Bộ (Sở KH&CN TPHCM)",
+            "period": "12/2020-05/2022",
+            "acceptance_date": "29/09/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nguyên nhân và giải pháp phòng ngừa sai sót thuốc trong thực hành lâm sàng của sinh viên cử nhân điều dưỡng trường Đại học Y khoa Phạm Ngọc Thạch",
+            "role": "Principal Investigator",
+            "project_code": "CS.2021.12",
+            "management_level": "Cấp cơ sở",
+            "period": "06/2022-10/2023",
+            "acceptance_date": "10/10/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Trải nghiệm của sinh viên điều dưỡng Trường Đại học Y khoa Phạm Ngọc Thạch tình nguyện trong phòng chống dịch COVID-19: Gợi ý giáo dục và đào tạo điều dưỡng trong tương lai",
+            "role": "Principal Investigator",
+            "project_code": "CS.2021.20",
+            "management_level": "Cấp cơ sở",
+            "period": "06/2022-06/2023",
+            "acceptance_date": "10/10/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xây dựng công cụ đo lường năng lực điều dưỡng dựa trên chuẩn năng lực cử nhân điều dưỡng Việt Nam hiện hành",
+            "role": "Principal Investigator",
+            "project_code": "CS.2023.36",
+            "management_level": "Cấp cơ sở",
+            "period": "2023-2024",
+            "acceptance_date": "N/A",
+            "rating": "Đang thực hiện"
+        }
+    ],
+    "books": [
+        {
+            "title": "Sổ tay thực hành quy trình điều dưỡng dựa vào bằng chứng",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Đại học Quốc gia Thành phố Hồ Chí Minh",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "p. 1 to p. 208",
+            "verification_document_id": "122/QĐ-NXB ngày 15/6/2023; ISBN: 978-604-73-9867-6"
+        },
+        {
+            "title": "Học thuyết điều dưỡng trong chăm sóc sức khỏe - Tập 1",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Y học Chi nhánh Thành phố Hồ Chí Minh",
+            "publish_year": "2023",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "p. 9 to p. 39; p. 65 to p. 174; p. 193 to p. 210; p. 267 to p. 280",
+            "verification_document_id": "ISBN: 978-604-66-6310-2"
+        },
+        {
+            "title": "Chăm sóc sức khỏe ban đầu theo nguyên lý y học gia đình dành cho điều dưỡng làm việc tại trạm y tế xã",
+            "type": "Textbook",
+            "publisher": "Nhà Xuất bản Y học",
+            "publish_year": "2020",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 193 to p. 205; p. 257 to p. 277; p. 305 to p. 335",
+            "verification_document_id": "348/QĐ-K2ĐT; ISBN: 978-604-66-4565-8"
+        },
+        {
+            "title": "Sổ tay hướng dẫn can thiệp chăm sóc Tập 1",
+            "type": "Monograph",
+            "publisher": "Nhà Xuất bản Thanh Niên",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 31 to p. 43; p. 50 to p. 56; p. 58 to p. 59; p. 77 to p. 86; p. 88 to p. 89; p. 102 to p. 111; p. 130 to p. 138; p. 152 to p. 153; p. 185 to p. 186; p. 223 to p. 229; p. 245 to p. 248; p. 250 to p. 252; p. 260 to p. 271; p. 274 to p. 281; p. 311 to p. 312; p. 315; p. 322 to p. 336; p. 346; p. 406 to p. 416; p. 418 to p. 425; p. 429",
+            "verification_document_id": "117/QĐ-TN ngày 08/05/2023; ISBN: 978-604-978-740-9"
+        },
+        {
+            "title": "Sổ tay hướng dẫn can thiệp chăm sóc Tập 2",
+            "type": "Monograph",
+            "publisher": "Nhà Xuất bản Thanh Niên",
+            "publish_year": "2023",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "p. 27 to p. 36; p. 38 to p. 41; p. 54 to p. 57; p. 70 to p. 72; p. 98 to p. 99; p. 100 to p. 111; p. 113 to p. 117; p. 119 to p. 121; p. 128 to p. 165; p. 174; p. 185 to p. 193; p. 240 to p. 241; p. 244 to p. 254; p. 272 to p. 273; p. 290 to p. 306; p. 307 to p. 308; p. 309 to p. 311; p. 313 to p. 314; p. 331 to p. 334; p. 347 to p. 348; p. 360 to p. 364; p. 375 to p. 386; p. 388 to p. 392; p. 409 to p. 417; p. 421 to p. 422; p. 431",
+            "verification_document_id": "118/QĐ-TN ngày 08/05/2023; ISBN: 978-604-978-741-6"
+        }
+    ],
+    "patents": null,
+    "achievements": [
+        {
+            "title": "Danh Hiệu “Điều dưỡng giỏi thanh lịch”",
+            "certifying_organization": "Sở Y tế Thành phố Hồ Chí Minh",
+            "certificate_document_id": "Số 245/SYT/TCCB ngày 21 tháng 3 năm 2001",
+            "award": "Danh Hiệu “Điều dưỡng giỏi thanh lịch”",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giải Nhất khối Ngoại kỳ thi tay nghề Điều dưỡng Giỏi",
+            "certifying_organization": "Bệnh viện Chợ Rẫy",
+            "certificate_document_id": "Quyết định số 322 ngày 27 tháng 2 năm 2001",
+            "award": "Giải Nhất khối Ngoại kỳ thi tay nghề Điều dưỡng Giỏi",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giải Nhì Hội thi Điều dưỡng Giỏi – Thanh lịch cấp Thành phố",
+            "certifying_organization": "Ban Chấp hành Liên đoàn Lao động TP. Hồ Chí Minh",
+            "certificate_document_id": "Quyết định số 936/QĐ-KT-LĐLĐ năm 2001",
+            "award": "Giải Nhì Hội thi Điều dưỡng Giỏi – Thanh lịch cấp Thành phố",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giải Nhì Hội thi Điều dưỡng Giỏi – Thanh lịch cấp Thành phố",
+            "certifying_organization": "Ban Chấp hành Thành Đoàn Thành phố Hồ Chí Minh",
+            "certificate_document_id": "Quyết định khen thưởng số 35/KT-TĐ,22 tháng 3 năm 2001",
+            "award": "Giải Nhì Hội thi Điều dưỡng Giỏi – Thanh lịch cấp Thành phố",
+            "num_contributors": 1
+        },
+        {
+            "title": "Kỷ niệm chương Vì sức khỏe nhân dân",
+            "certifying_organization": "Bộ Y tế",
+            "certificate_document_id": "Quyết định số 478/QĐ-BYT ngày 13 tháng 02 năm 2017",
+            "award": "Kỷ niệm chương Vì sức khỏe nhân dân",
+            "num_contributors": 1
+        },
+        {
+            "title": "Danh hiệu Lao động tiên tiến",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Not specified",
+            "award": "Danh hiệu Lao động tiên tiến",
+            "num_contributors": 1
+        },
+        {
+            "title": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2016-2017",
+            "award": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2017-2018",
+            "award": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2019-2020",
+            "award": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2020-2021",
+            "award": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2021-2022",
+            "award": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2022-2023",
+            "award": "Danh hiệu Chiến sĩ thi đua cơ sở",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Chủ tịch UBND TP. Hồ Chí Minh",
+            "certifying_organization": "UBND TP. Hồ Chí Minh",
+            "certificate_document_id": "Year 2017",
+            "award": "Bằng khen hoàn thành xuất sắc nhiệm vụ",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Chủ tịch UBND TP. Hồ Chí Minh",
+            "certifying_organization": "UBND TP. Hồ Chí Minh",
+            "certificate_document_id": "Year 2018",
+            "award": "Bằng khen hoàn thành xuất sắc nhiệm vụ",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Chủ tịch UBND TP. Hồ Chí Minh",
+            "certifying_organization": "UBND TP. Hồ Chí Minh",
+            "certificate_document_id": "Year 2019",
+            "award": "Bằng khen hoàn thành xuất sắc nhiệm vụ",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Chủ tịch UBND TP. Hồ Chí Minh",
+            "certifying_organization": "UBND TP. Hồ Chí Minh",
+            "certificate_document_id": "Year 2020",
+            "award": "Bằng khen hoàn thành xuất sắc nhiệm vụ",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Chủ tịch UBND TP. Hồ Chí Minh",
+            "certifying_organization": "UBND TP. Hồ Chí Minh",
+            "certificate_document_id": "Year 2021",
+            "award": "Bằng khen hoàn thành xuất sắc nhiệm vụ",
+            "num_contributors": 1
+        },
+        {
+            "title": "Bằng khen của Chủ tịch UBND TP. Hồ Chí Minh",
+            "certifying_organization": "UBND TP. Hồ Chí Minh",
+            "certificate_document_id": "Year 2022",
+            "award": "Bằng khen hoàn thành xuất sắc nhiệm vụ",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giấy khen của Hiệu trưởng Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Not specified",
+            "award": "Giấy khen hoàn thành xuất sắc nhiệm vụ",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc trong phong trào thi đua lao động giỏi và hoạt động công đoàn",
+            "certifying_organization": "Ban Chấp hành Công đoàn Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2016-2017",
+            "award": "Giấy khen thành tích xuất sắc",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc trong phong trào thi đua lao động giỏi và hoạt động công đoàn",
+            "certifying_organization": "Ban Chấp hành Công đoàn Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2017-2018",
+            "award": "Giấy khen thành tích xuất sắc",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc trong phong trào thi đua lao động giỏi và hoạt động công đoàn",
+            "certifying_organization": "Ban Chấp hành Công đoàn Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2018-2019",
+            "award": "Giấy khen thành tích xuất sắc",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc trong phong trào thi đua lao động giỏi và hoạt động công đoàn",
+            "certifying_organization": "Ban Chấp hành Công đoàn Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2019-2020",
+            "award": "Giấy khen thành tích xuất sắc",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc trong phong trào thi đua lao động giỏi và hoạt động công đoàn",
+            "certifying_organization": "Ban Chấp hành Công đoàn Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2020-2021",
+            "award": "Giấy khen thành tích xuất sắc",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc trong phong trào thi đua lao động giỏi và hoạt động công đoàn",
+            "certifying_organization": "Ban Chấp hành Công đoàn Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2021-2022",
+            "award": "Giấy khen thành tích xuất sắc",
+            "num_contributors": 1
+        },
+        {
+            "title": "Thành tích xuất sắc trong phong trào thi đua lao động giỏi và hoạt động công đoàn",
+            "certifying_organization": "Ban Chấp hành Công đoàn Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Academic Year 2022-2023",
+            "award": "Giấy khen thành tích xuất sắc",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giải 3 hội thi viết: “Vai trò của công tác dân vận trong hoạt động của công đoàn” Mừng Đảng – Mừng Xuân Kỷ Hợi 2019",
+            "certifying_organization": "Not specified",
+            "certificate_document_id": "Quyết định 26/QĐ-CĐ ngày 26/01/2019",
+            "award": "Giải 3 hội thi viết",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giải Khuyến khích Cuộc thi Báo chí viết về Tấm gương Dân vận khéo giai đoạn 2017-2020",
+            "certifying_organization": "Thành ủy TP. Hồ Chí Minh",
+            "certificate_document_id": "Not specified",
+            "award": "Giải Khuyến khích",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giải Nhất Tốp ca Hội thi văn nghệ truyền thống năm 2023",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Năm 2023",
+            "award": "Giải Nhất Tốp ca Hội thi văn nghệ truyền thống",
+            "num_contributors": 1
+        },
+        {
+            "title": "Giải Ba Tốp ca Hội thi văn nghệ truyền thống năm 2023",
+            "certifying_organization": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "certificate_document_id": "Năm 2023",
+            "award": "Giải Ba Tốp ca Hội thi văn nghệ truyền thống",
+            "num_contributors": 1
+        }
+    ],
+    "training_programs": [
+        {
+            "title": "Soạn thảo xây dựng chương trình đào tạo thạc sĩ chuyên ngành điều dưỡng",
+            "applicant_role": "Participant",
+            "assignment_document_id": "2609/QĐ-TĐHYKPNT, 23/07/2018",
+            "certifying_authority": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "implementation_document_id": "1511/QĐ-BGDĐT, 09/06/2020",
+            "notes": ""
+        },
+        {
+            "title": "Đánh giá, rà soát, cập nhật chương trình đào tạo điều dưỡng trình độ đại học",
+            "applicant_role": "Participant",
+            "assignment_document_id": "3300/QĐ-TĐHYKPNT, 08/09/2023",
+            "certifying_authority": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "implementation_document_id": "2868/QĐ-TĐHYKPNT, 10/08/2023",
+            "notes": ""
+        },
+        {
+            "title": "Đánh giá, rà soát, cập nhật chương trình đào tạo thạc sĩ chuyên ngành điều dưỡng chu kỳ 2023-2027",
+            "applicant_role": "Coordinator",
+            "assignment_document_id": "1319/QĐ-TĐHYKPNT, 23/04/2024",
+            "certifying_authority": "Trường Đại học Y khoa Phạm Ngọc Thạch",
+            "implementation_document_id": "Đang thực hiện",
+            "notes": ""
+        }
+    ]
+}

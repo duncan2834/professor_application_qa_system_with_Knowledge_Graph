@@ -1,0 +1,595 @@
+{
+    "papers": [
+        {
+            "title": "Metabolic response to MMS-mediated DNA damage in Saccharomyces cerevisiae is dependent on the glucose concentration in the medium",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "FEMS Yeast Research/ISSN:15671356",
+            "journal_ranking": "ISI (Q2, IF=1.9, H-index=109)",
+            "citation_count": 39,
+            "volume_issue_pages": "9(4):535-551",
+            "published_date": "04/2009"
+        },
+        {
+            "title": "Computer controlled automated assay for comprehensive studies of enzyme kinetic parameters",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "PLOS ONE/ISSN:19326203",
+            "journal_ranking": "ISI (Q1, IF=4.8, H-index=435)",
+            "citation_count": 13,
+            "volume_issue_pages": "5(5):e10727",
+            "published_date": "05/2010"
+        },
+        {
+            "title": "Nghiên cứu công nghệ sản xuất kháng huyết thanh và thử nghiệm kháng huyết thanh phòng trị bệnh thối ấu trùng ong dạng túi (Sacbrood)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ/ISSN:2525-2518",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "42(2):69-74",
+            "published_date": "01/2004"
+        },
+        {
+            "title": "Genotoxicity of chemical compounds - identification and assessment by yeast cells transformed with GFP reporter constructs regulated by the PLM2 or DIN7 promoter",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Toxicology/ISSN:10915818",
+            "journal_ranking": "ISI (Q3, IF=1.2, H-index=71)",
+            "citation_count": 13,
+            "volume_issue_pages": "34(1):31-43",
+            "published_date": "02/2015"
+        },
+        {
+            "title": "Viral and bacterial epibionts in thermally-stressed corals",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Marine Science and Engineering/ISSN:20771312",
+            "journal_ranking": "ISI (Q2, IF=1.06, H-index=51)",
+            "citation_count": 15,
+            "volume_issue_pages": "3(4):1272-1286",
+            "published_date": "10/2015"
+        },
+        {
+            "title": "Flow cytometric enumeration of bacterial in the coral surface mucus layer",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Microbiological Methods/ISSN:01677012",
+            "journal_ranking": "ISI (Q3, IF=2.07, H-index=148)",
+            "citation_count": 8,
+            "volume_issue_pages": "128:16-19",
+            "published_date": "09/2016"
+        },
+        {
+            "title": "Procarcinogens - Determination and evaluation by yeast-based biosensor transformed with plasmids incorporating RAD54 reporter construct and cytochrome P450 genes",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plos One/ISSN:19326203",
+            "journal_ranking": "ISI (Q1, IF=3.1, H-index=435)",
+            "citation_count": 14,
+            "volume_issue_pages": "11(12):e0168721",
+            "published_date": "12/2016"
+        },
+        {
+            "title": "Corallivory and the microbial debacle in two branching scleractinians",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "ISME Journal/ISSN:17517362",
+            "journal_ranking": "ISI (Q1, IF=10.8, H-index=230)",
+            "citation_count": 22,
+            "volume_issue_pages": "12(4):1109-1126",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "An analysis of the bacterial community in and around scleractinian corals of Phu Quoc Island, Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Regional Studies in Marine Science/ISSN:23524855",
+            "journal_ranking": "ISI (Q2, IF=2.36, H-index=37)",
+            "citation_count": 3,
+            "volume_issue_pages": "60:102817",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Metagenomic data of bacterial communities associated with Acropora species from Phu Quoc Islands, Vietnam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Data in Brief/ISSN:23523409",
+            "journal_ranking": "Scopus (Q3, IF=1.29, H-index=52)",
+            "citation_count": 2,
+            "volume_issue_pages": "47:108977",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Diversity and biogeography of coral mucus-associated bacterial communities: The case of Acropora formosa",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Marine Science and Engineering/ISSN:20771312",
+            "journal_ranking": "ISI (Q2, IF=2.98, H-index=51)",
+            "citation_count": 4,
+            "volume_issue_pages": "11(1):74",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Bioactivity responses to changes in mucus-associated bacterial composition between healthy and bleached Porites lobata corals",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Invertebrate Pathology/ISSN:00222011",
+            "journal_ranking": "ISI (Q1, IF=3.4, H-index=107)",
+            "citation_count": 1,
+            "volume_issue_pages": "206:108164",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "Genomic characterization and identification of candidate genes for putative podophyllotoxin biosynthesis pathway in Penicillium herquei HGN12.1C",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Microbial Biotechnology/ISSN:17517907",
+            "journal_ranking": "ISI (Q1, IF=4.98, H-index=104)",
+            "citation_count": 0,
+            "volume_issue_pages": "17(9):e70007",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "Integrated RNA sequencing analysis revealed early gene expression shifts associated with cancer progression in MCF-7 breast cancer cells cocultured with adipose-derived stem cells",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Current Issues in Molecular Biology/ISSN:14673037",
+            "journal_ranking": "ISI (Q2, IF=2.84, H-index=61)",
+            "citation_count": 0,
+            "volume_issue_pages": "46(11):11817-11834",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Comprehensive in silico analysis of the NHX (Na+/H+ antiporter) gene in rice (Oryza sativa L.)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Plant Biology/ISSN:20370156",
+            "journal_ranking": "ISI (Q2, IF=3.12, H-index=14)",
+            "citation_count": 0,
+            "volume_issue_pages": "16(1):6",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Xây dựng và phát triển biosensor từ tế bào nấm men ứng dụng trong phát hiện các hợp chất gây đột biến gen",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Phát triển/ISSN:1859-0004",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "11(6):840-849",
+            "published_date": "08/2013"
+        },
+        {
+            "title": "Nghiên cứu tạo kháng nguyên tái tổ hợp Staphylococcal enterotoxin B(SEB) từ đoạn gen đột biến điểm SEB dài 534 nucleotide",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ sinh học/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12(1):173-180",
+            "published_date": "03/2014"
+        },
+        {
+            "title": "Tạo đột biến điểm định hướng trên gen Staphylococcal enterotoxin B (SEB) tự nhiên và thiết kế vector biểu hiện gen seb đột biến mất độc tính",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ sinh học/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12(3):423-429",
+            "published_date": "06/2014"
+        },
+        {
+            "title": "Tạo vector biểu hiện mang gen chỉ thị GFP điều khiển bởi promoter RAD54 để tạo biosensor phát hiện hợp chất gây đột biến gen",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ sinh học/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "12(3):431-438",
+            "published_date": "08/2014"
+        },
+        {
+            "title": "Biểu hiện và tinh sạch vùng quyết định kháng nguyên Staphylococcal enterotoxin B (SEB) được mã hóa bởi đoạn gen SEB phân lập từ chủng tụ cầu vàng tại Việt Nam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ sinh học/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "13(2):295-301",
+            "published_date": "03/2015"
+        },
+        {
+            "title": "Tối ưu hóa điều kiện tách chiết các hợp chất polyphenol có tính chống oxi hóa cao từ cây sim (Rhodomyrtus tomentosa (ait.) hassk.) thu thập ở vùng đồi núi Chí linh, Hải Dương",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh học/ISSN: 2615-9023",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "37(4):509-519",
+            "published_date": "09/2015"
+        },
+        {
+            "title": "Ultrasound-assisted extraction and anticancer activity of piceatannol from Passiflora edulis seed",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Agricultural Sciences/ISSN:1859-0004",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14(7):1016-1025",
+            "published_date": "08/2016"
+        },
+        {
+            "title": "Sử dụng tế bào nấm men được biến nạp plasmid mang tô hợp promoter-gen, DIN7-GFP để nhận biết các hợp chất gây biến đổi gen và gây độc tế bào",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ-Đại học Thái Nguyên/ISSN:1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "158(13):165-170",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Bioinformatic approaches for analysis of coral-associated bacteria using R programming language",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "18(4):733-743",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Phát triển biosensor từ tế bào Saccharomyces cerevisiae Y486 mang phức hợp CPR-CYP3A4 và DIN7-GFP để thử nghiệm phát hiện hợp chất tiền ung thư",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "19(1):185-196",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Analysis of composition and abundance of viral communities associated with coral Acropora formosa",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Academia Journal of Biology/ISSN:2615-9023",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "43(3):113-123",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Changes in microbial community composition affect bioactivities of mucus isolated from coral Acropora millepora",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "20(2):387-392",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Diversity and composition of bacterial communities associated with healthy and bleached coral Fungia sp. in Nha Trang Bay, Viet Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "20(4):761-771",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Indentification of hub genes and drug-gene interaction for targeted breast cancer treatment by integrated bioinformatics analysis",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21(1): 21-34",
+            "published_date": "02/2023"
+        },
+        {
+            "title": "Comparative analysis of eukaryotic microbial communities associated with Acropora formosa, sediment, and seawater in a coral reef ecosystem of whale island, Nha Trang bay, Viet Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21(1):155-165",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Metagenomic characterization of archaeal and bacterial communities associated with coral, sediment, and seawater in a coral reef ecosystem of Phu Quoc island, Vietnam.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21(3):745-757",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Expression of transcription factors involved in epithelial-to-mesenchymal transition of the breast cancer cell line MCF-7 co-cultured with adipose tissue mesenchymal stem cells",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21(2):249-257",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Characterization of adipose-derived stem cells from breast cancer cell transplanted mice",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "VNU Journal of Science: Natural Sciences and Technology/ISSN:2615-9317",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "39(3):1-6",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Comparative analysis of cis-regulatory elements associated with salinity and drought tolerance in rice (Oryza sativa L.) using in silico analysis",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "22(2):289-304",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Regulation of yeast RAD9 gene in energy charge, intracellular ROS, and cell cycle arrest in response to DNA damage",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology/ISSN:2815-5955",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "22(3):507-522",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "Role of yeast HAP4 gene in mitochondrial function, oxidative phosphorylation, and apoptosis in response to DNA damage.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Academia Journal of Biology/ISSN:2615-9023",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "47(1):121-135",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Đặc tính sinh học và sinh học phân tử của virus DHAV (duck Hepatitis A virus) gây bệnh trên vịt tại Việt Nam năm 2023",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Kỹ thuật Thú y/ISSN:1859-4751",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "32(2): 1-9",
+            "published_date": "03/2025"
+        },
+        {
+            "title": "Mutation of yeast PEX6 gene inhibits glycolysis and mitochondrial respiratory chain but promotes glycogen and trehalose biosynthesis and necrosis",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Academia Journal of Biology/ISSN:2615-9023",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "47(2): 17-32",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Phân lập và đánh giá đặc điểm phân tử của virus tembusu (Flavivirus) gây bệnh trên vịt tại Việt Nam năm 2023",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ-Đại học Thái Nguyên/ISSN:1859-2171",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "230(13):38-45",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "Effect of fermentation conditions on exopolysaccharides production by Cordyceps militaris FNA5",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings, The 5th Academic Conference on Natural Science for Young Scientists, Master & Phd. Students from Asean Countries/ISBN: 978-604-913-088-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "233-239",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Nghiên cứu chế tạo DNA-microarray để phát hiện và chẩn đoán nhanh các tem Beta-lactamase kháng kháng sinh phổ rộng nhóm beta-lactam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Công nghệ sinh học toàn quốc 2013/ISBN:978-604-913-136-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2013:672-676",
+            "published_date": "09/2013"
+        },
+        {
+            "title": "Sàng lọc các chủng Cordyceps militaris phân lập tại Việt Nam có khả năng sinh tổng hợp exopolysaccharide và cordycepin cao",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Quốc gia/ISBN:978-604-913-695-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1117-1125",
+            "published_date": "05/2018"
+        },
+        {
+            "title": "Xác định các hằng số động học của phức hợp enzyme CPR-CYP3A4 của người được đồng biểu hiện trong tế bào nấm men Saccharomyces cerevisiae Y486",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Công nghệ sinh học toàn quốc 2018/ISBN:2018-604-913-759-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "233-238",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Detection and quantification of major causative agents of bacterial meningitis in Vietnam using SYBR® GREEN real-time PCR",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Công nghệ sinh học toàn quốc 2018/ISBN:978-604-913-759-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "491-497",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Bước đầu xây dựng cơ sở dữ liệu gen MLH1 phục vụ chẩn đoán ung thư đại trực tràng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Công nghệ sinh học toàn quốc 2018/ISBN:978-604-913-759-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "127-132",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Xác định đột biến đặc trưng trên các gen liên quan đến ung thư đại trực tràng bằng ngôn ngữ lập trình R làm cơ sở để xây dựng mô hình tiên đoán",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Công nghệ sinh học toàn quốc 2018/ISBN:978-604-913-759-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "66-71",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm và tiềm năng sinh các chất có hoạt tính sinh học của chủng nấm Cordyceps militaris FNA5 phân lập tại Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Công nghệ sinh học toàn quốc 2018/ISBN:978-604-913-759-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "165-169",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Determination and evaluation of cytotoxicity activity of coral mucus isolated from Acropora spp",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "The National Conference on Biotechnology of Vietnam 2019/ISBN: 978-604-73-7266-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "203-207",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Metagenomic analysis of coral-associated bacterial composition and abundance using R programming language",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "The National Conference on Biotechnology of Vietnam 2019/ISBN: 978-604-73-7266-9",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "32-37",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "Determination and evaluation of antibacterial and anticancer activities of coral mucus isolated from scleractinian Fungia repanda",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of 2021 Vietnam National Conference on Biotechnology/ISBN: 978-604-9987-88-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "114-118",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Metagenomic analysis of bacterial communities associated with the coral mucus layer of Acropora sp. in Nha Trang bay",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of 2021 Vietnam National Conference on Biotechnology/ISBN: 978-604-9987-88-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "101-107",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Identification of potential biomarkers associated with breast cancer using bioinformatics analysis",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Proceedings of 2021 Vietnam National Conference on Biotechnology/ISBN: 978-604-9987-88-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "108-113",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Tạo cảm biến sinh học điện hoá Acetylcholinesterase và thử nghiệm phát hiện dư lượng thuốc trừ sâu nhóm phospho hữu cơ",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học: Công nghệ sinh học - Phục vụ phát triển bền vững và thúc đẩy phát triển kinh tế tuần hoàn/ISBN: 978-604-357-356-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "114-120",
+            "published_date": "05/2025"
+        },
+        {
+            "title": "Xây dựng phương pháp multiplex RT-PCR phát hiện đồng thời virus gây bệnh tiêu chảy cấp (PEDV) và dịch tả lợn cổ điển (CSFV) trên lợn tại Việt Nam",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học: Công nghệ sinh học - Phục vụ phát triển bền vững và thúc đẩy phát triển kinh tế tuần hoàn/ISBN: 978-604-357-356-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "347-354",
+            "published_date": "05/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu chế tạo que thử phát hiện nhanh độc tố tạo que nhúng chẩn đoán nhanh độc tố Staphylococcal enterotoxin B (SEB) của tụ cầu vàng",
+            "role": "Assistant",
+            "project_code": "KC.04/11-15",
+            "management_level": "Bộ Khoa học và Công nghệ",
+            "period": "2013–2015",
+            "acceptance_date": "02/06/2016",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu thiết kế và xây dựng các phần tử sinh học để phát triển biosensor ứng dụng trong phát hiện và sàng lọc các hợp chất gây ung thư và tiền ung thư",
+            "role": "Principal Investigator",
+            "project_code": "106.16-2012.09",
+            "management_level": "Nafosted",
+            "period": "2013-2015",
+            "acceptance_date": "28/03/2017",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu lên men chìm nấm dược liệu Cordyceps sp. nguồn gốc Việt Nam để sản xuất sinh khối và exopolysaccharid nhằm tạo thực phẩm chức năng",
+            "role": "Principal Investigator",
+            "project_code": "VAST02.05/16-17",
+            "management_level": "Viện Hàn lâm KHCN Việt Nam",
+            "period": "2016-2017",
+            "acceptance_date": "16/05/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu sinh thái gen của một số loài virus trên các rạn san hô ngầm điển hình thuộc hai đảo Phú Quốc và Côn Đảo Việt Nam (DALIDA)",
+            "role": "Assistant",
+            "project_code": "NDT.37.FRA/18",
+            "management_level": "Bộ Khoa học và Công nghệ",
+            "period": "2018-2023",
+            "acceptance_date": "30/11/2023",
+            "rating": "Đạt"
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo tiến sĩ chuyên ngành Hoá sinh học, MS: 9 42 01 16",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "QĐ số: 246/QĐ-HVKHCN ngày 15/03/2022",
+            "certifying_authority": "Học viện Khoa học và Công nghệ, Viện Hàn lâm KHCN Việt Nam",
+            "implementation_document_id": "QĐ phê duyệt khung số: 808/QĐ-HVKHCN ngày 16/05/2022",
+            "notes": "Tổ biên soạn chương trình đào tạo trình độ tiến sĩ chỉnh sửa, bổ sung năm 2022, Ngành Hóa sinh học, Mã số 9 42 01 16"
+        }
+    ]
+}

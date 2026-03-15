@@ -1,0 +1,353 @@
+{
+    "papers": [
+        {
+            "title": "Quy trình dạy học khám phá diễn dịch trong dạy học tiểu học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí giáo dục",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 58-60",
+            "published_date": "11/2010"
+        },
+        {
+            "title": "Biện pháp phối hợp giáo dục giữa nhà trường và gia đình nhằm rèn luyện hành vi đạo đức cho học sinh tiểu học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội Thảo khoa học Huế",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 122-125",
+            "published_date": "5/2011"
+        },
+        {
+            "title": "Dạy học trực tuyến (Online)- Một số vấn đề và giải pháp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 79-80",
+            "published_date": "11/2012"
+        },
+        {
+            "title": "Thực trạng vấn đề gắn kết đào tạo đáp ứng theo nhu cầu của các trường đại học sư phạm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo chức Việt Nam",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 59-61",
+            "published_date": "7/2014"
+        },
+        {
+            "title": "Xây dựng quy trình rèn luyện kỹ năng lập kế hoạch cho sinh viên ngành Quản lý giáo dục",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "91-92 (70)",
+            "published_date": "6/2013"
+        },
+        {
+            "title": "Filial education for children through confucian culture of confucius",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Conference on Science and Social Science 2013, Rajabhat Mahashsarakham University",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 11-15",
+            "published_date": "2013"
+        },
+        {
+            "title": "Một số vấn đề về thực trạng và giải pháp nâng cao chất lượng quản lý ở nhà trường phổ thông Việt Nam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học cấp quốc gia 2014: Quản lý cơ sở giáo dục trong bối cảnh đổi mới căn bản, toàn diện giáo dục đào tạo",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "113-121",
+            "published_date": "2014"
+        },
+        {
+            "title": "Một số vấn đề lý luận về đổi mới căn bản và toàn diện nền giáo dục với nhận thức của cán bộ quản lý giáo dục",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo khoa học cấp quốc gia 2014: Quản lý cơ sở giáo dục trong bối cảnh đổi mới căn bản, toàn diện giáo dục đào tạo",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "298-311",
+            "published_date": "2014"
+        },
+        {
+            "title": "Đổi mới đánh giá đổi mới đánh giá kết quả học tập của sinh viên – giải pháp góp phần nâng cao chất lượng đào tạo theo chuẩn đầu ra",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội thảo Giáo dục quốc tế tại Đại học Đà Nẵng",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 268-271",
+            "published_date": "5/2015"
+        },
+        {
+            "title": "Đổi mới đánh giá kết quả học tập của sinh viên trong đào tạo đá ứng nhu cầu xã hội",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí giáo dục",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "94-96",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Xây dựng chuẩn đầu ra cho khối ngành sư phạm- giải pháp nâng cao chất lượng đào tạo đáp ứng nhu cầu xã hội",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí giáo dục",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 96-98",
+            "published_date": "3/2016"
+        },
+        {
+            "title": "Vận dụng mô hình CIPO trong quản lý đào tạo giáo viên trung học phổ thông theo chuẩn đầu ra ở trường Đại học Vinh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí giáo dục và xã",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 275-277",
+            "published_date": "9/2017"
+        },
+        {
+            "title": "Một số giải pháp nâng cao chất lượng quản lý đào tạo giáo viên trung học phổ thông theo chuẩn đầu ra ở Trường Đại học vinh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí giáo dục ISSN 2354-0753",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 99-102",
+            "published_date": "5/2018"
+        },
+        {
+            "title": "Pedagogyundergraduates' perception on twenty-first century skills",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal for Educators, Teachers and Trainers",
+            "journal_ranking": "ESCI (Wos) đến 8/2023",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 12 (4)",
+            "published_date": "2021"
+        },
+        {
+            "title": "Vietnamese High School Students' Perception of Body Compassion",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Studies on Ethno Medicine PRINT: ISSN 0973-5070 ONLINE: ISSN 2456-6772",
+            "journal_ranking": "Scopus/Q3 CiteScore: 0.5 IF: 0.18 (2023)",
+            "citation_count": 0,
+            "volume_issue_pages": "15(1-2): pp, 1-6 DOI: 10.31901/24566772.2021/15.1-2.619",
+            "published_date": "2021"
+        },
+        {
+            "title": "Developing professional group leaders of primary schools in nghe an province using a competency-based approach",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Business, Management and Economics ISSN: 2669-2481 / eISSN: 2669-249X 2023",
+            "journal_ranking": "ESCI/Q4 SJR: 0,341/Q2 IF: 0.9 (2025)",
+            "citation_count": 0,
+            "volume_issue_pages": "21 (2), pp 270-286.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Quản lý hoạt động dạy học theo định hướng phát triển phẩm chất, năng lực học sinh ở trường tiểu học",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thiết bị giáo dục",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 155-15/7",
+            "published_date": "4/2023"
+        },
+        {
+            "title": "Các biện pháp quản lý hoạt động dạy học môn Ngữ văn theo chương trình Giáo dục phổ thông 2018 ở các trường trung học cơ sở huyện Trảng Bom, tỉnh Đồng Nai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Thiết bị giáo dục",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 507-509 ĐB.7/2023",
+            "published_date": "2023"
+        },
+        {
+            "title": "Developing an Integrated Model to Early Childhood Education and Care in Vietnam: Perspectives of Early Childhood Educators",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Early Childhood Special Education DOI: 10.9756/INT-JECSE/V13I2.211040",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 58-65",
+            "published_date": "6/2021"
+        },
+        {
+            "title": "Xây dựng văn hoá trong bối cảnh hội nhập từ các mối quan hệ trong nhà trường",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "4th International conference on culture and education (icce 2023): Educating cultural values in the context of international integration",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "",
+            "published_date": "2023"
+        },
+        {
+            "title": "Applying Tony Bush's educational management model to the management of vietnamese educational institutions",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vinh University Journal of Science Educational Science and Technology p-ISSN: 3030-4857 e-ISSN: 3030-4784",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "53(4C), pp 20-28 DOI: 10.56824/vujs.2024c144c",
+            "published_date": "2024"
+        },
+        {
+            "title": "Xây dựng văn hóa trong bối cảnh hội nhập từ các mối quan hệ trong nhà trường",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội thảo Khoa học Quốc tế - Huế",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 329-335",
+            "published_date": "2024"
+        },
+        {
+            "title": "Innovating the management of higher education institutions in the context of university autonomy",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vinh University Journal of Science Educational Science and Technology p-ISSN: 3030-4857 e-ISSN: 3030-4784",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "54(1C), pp 88-98 DOI: 10.56824/vujs.2025c016c",
+            "published_date": "3/2025"
+        },
+        {
+            "title": "The CDIO approach in primary teacher education: evaluating the urgency and feasibility of management solutions",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Multidisciplinary Science Journal ISSN: 2675 - 1240 (Online)",
+            "journal_ranking": "Scopus Q4 (Citescore: 0.5) SJR: 0.12 (2024)",
+            "citation_count": 0,
+            "volume_issue_pages": "7(11), 2025636DOI: 10.31893/mul",
+            "published_date": "5/2025"
+        },
+        {
+            "title": "Management of primary teacher training programs using the CDIO approach: Theoretical frameworks and practical implementations",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Multidisciplinary Science Journal ISSN: 2675 - 1240 (Online)",
+            "journal_ranking": "Scopus Q4 (Citescore: 0.5) SJR: 0.12 (2024) CiteScore (2023): 0.1",
+            "citation_count": 0,
+            "volume_issue_pages": "tiscience.2025636 ISSN: 2675-1240 (trực tuyến)",
+            "published_date": "6/2025"
+        },
+        {
+            "title": "Management of national defense and security education in the strategy of early and remote homeland protection - some theoretical and practical issues",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vinh University Journal of Science Educational Science and Technology p-ISSN: 3030-4857 e-ISSN: 3030-4784",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr 115-121",
+            "published_date": "6/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Xây dựng quy trình rèn nghề cho sinh viên ngành Quản lý giáo dục",
+            "role": "Principal Investigator",
+            "project_code": "T2013",
+            "management_level": "Cấp trường Đại học Vinh",
+            "period": "2013",
+            "acceptance_date": "26/11/2013",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu đổi mới nội dung, phương pháp giảng dạy và đánh giá khối kiến thức: Nghiên cứu đổi mới nội dung, phương pháp giảng dạy và đánh giá khối kiến thức cơ sở ngành Quản lý giáo dục theo tiếp cận CDIO",
+            "role": "Principal Investigator",
+            "project_code": "T-2018",
+            "management_level": "Cấp trường Đại học Vinh",
+            "period": "2018",
+            "acceptance_date": "19/10/2020",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu mô hình phối hợp gia đình, nhà trường và cộng đồng trong chăm sóc, giáo dục trẻ tại các cơ sở giáo dục mầm non đáp ứng yêu cầu đổi mới căn bản, toàn diện giáo dục và đào tạo",
+            "role": "Key Member",
+            "project_code": "CTKHGD/16-20.ĐT.040",
+            "management_level": "Cấp nhà nước",
+            "period": "2018-2020",
+            "acceptance_date": "27/4/2021",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Quản lý đào tạo giáo viên trung học phổ thông theo chuẩn đầu ra ở trường Đại học Vinh",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Quốc gia Hà Nội",
+            "publish_year": "2023",
+            "num_authors": 3,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Tr 14-188",
+            "verification_document_id": "Quyết định số 700LK-XH/QĐ-NXBĐHQG ngày 20/6/2023"
+        },
+        {
+            "title": "Quản lý chất lượng giáo dục",
+            "type": "Textbook",
+            "publisher": "NXB Đại học Vinh",
+            "publish_year": "2025",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr 119-157",
+            "verification_document_id": "QĐ xuất bản: 88-2024/QĐXB_NXB ngày 30/12/2024 ISBN 978-604-923-829-1"
+        },
+        {
+            "title": "Tham vấn Tâm lý học đường",
+            "type": "Monograph",
+            "publisher": "NXB Hồng Đức",
+            "publish_year": "2024",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "tr 13-65",
+            "verification_document_id": "QĐ xuất bản 843/QĐ-NXBHĐ; ISBN: 978-604-89-7215-8"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Phát triển chương trình đào tạo chuyên ngành Quản lý giáo dục, trình độ thạc sĩ",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 404/QĐ-ĐH Vinh Ngày 26/02/2023",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "Chương trình đào tạo thạc sĩ Quản lý giáo dục",
+            "notes": ""
+        },
+        {
+            "title": "Phát triển chương trình đào tạo đại học chuyên ngành Quản lý giáo dục",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 3403/QĐ-ĐH Vinh Ngày 25/11/2020",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "Chương trình đào tạo đại học ngành Quản lý Giáo dục",
+            "notes": ""
+        },
+        {
+            "title": "Xây dựng chương trình đào tạo chuyên ngành Tâm lý học giáo dục trình độ đại học",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 2369/QĐ-ĐHV ngày 15/9/2023",
+            "certifying_authority": "Trường Đại học Vinh",
+            "implementation_document_id": "Chương trình đào tạo đại học ngành Tâm lý học giáo dục",
+            "notes": ""
+        }
+    ]
+}

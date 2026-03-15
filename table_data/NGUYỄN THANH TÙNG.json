@@ -1,0 +1,1092 @@
+{
+    "papers": [
+        {
+            "title": "Nghiên cứu chiết xuất cytokin (IL1, IL6) từ dịch nuôi cấy tế bào sừng",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí thông tin y dược",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số chuyên đề bỏng tháng 10, trang 127-129",
+            "published_date": "2000"
+        },
+        {
+            "title": "So sánh lọc rửa tinh trùng bằng phương pháp swim-up và thang nồng độ percoll",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Công trình nghiên cứu y học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 1, trang 16-19",
+            "published_date": "2001"
+        },
+        {
+            "title": "Kết quả thực hiện kỹ thuật hỗ trợ sinh sản điều trị vô sinh tại trung tâm công nghệ phôi Học viện Quân y",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc san, trang 127-130",
+            "published_date": "2004"
+        },
+        {
+            "title": "Các hình thái tinh trùng bất thường của người Việt Nam có tinh dịch đồ bình thường",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị toàn quốc: Những vấn đề nghiên cứu cơ bản trong khoa học sự sống",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Trang 494-496",
+            "published_date": "2004"
+        },
+        {
+            "title": "Hình thái hợp tử giai đoạn tiền nhân dự đoán chất lượng phôi và kết quả lâm sàng trên bệnh nhân làm thụ tinh ống nghiệm",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 34, số 1, trang 55-58",
+            "published_date": "2009"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm hình thái phôi ngày 2 và tỷ lệ có thai lâm sàng trên bệnh nhân thụ tinh trong ống nghiệm",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 34, số chuyên đề, trang 37-41",
+            "published_date": "2009"
+        },
+        {
+            "title": "Nghiên cứu một số hình thái cấu trúc phôi ba ngày tuổi trên bệnh nhân thụ tinh trong ống nghiệm tại Trung tâm công nghệ phôi",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự,",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 34, số 3, trang 72-76",
+            "published_date": "2009"
+        },
+        {
+            "title": "Nghiên cứu sự thay đổi hình thái cấu trúc phôi trước đông và sau rã đông bằng kỹ thuật thủy tinh hóa tại Trung tâm công nghệ phôi-Học viện Quân y",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 34, số 3, trang 77-82",
+            "published_date": "2009"
+        },
+        {
+            "title": "Nghiên cứu đông lạnh noãn bằng phương pháp tủy tinh hóa",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược lâm sàng 108",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 6- số đặc biệt, tháng 3, trang 553-558",
+            "published_date": "2011"
+        },
+        {
+            "title": "Hiệu quả hỗ trợ thoát màng bằng acid Tyrode cho phôi đông lạnh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự,",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 36, số 6, trang 60-65",
+            "published_date": "2011"
+        },
+        {
+            "title": "Lấy tinh trùng từ ống sinh tinh trong hỗ trợ sinh sản đối với bệnh nhân không có tinh trùng trong tinh dịch",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự,",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 37, số 3, tháng 3, trang 53-57",
+            "published_date": "2012"
+        },
+        {
+            "title": "Nghiên cứu bảo quản mô tinh hoàn và các tế bào dòng tinh từ các bệnh nhân vô tinh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược lâm sàng 108",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 6, trang 108-112",
+            "published_date": "2012"
+        },
+        {
+            "title": "Nghiên cứu đánh giá kết quả đông lạnh phôi ngày thứ 5 bằng phương pháp thủy tinh hóa tại Trung tâm công nghệ phôi, Học viện Quân y",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự,",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 37, số 5, tháng 6, trang 78-82",
+            "published_date": "2012"
+        },
+        {
+            "title": "Kết quả bước đầu nghiên cứu hình thái phôi sau sinh thiết để chẩn đoán di truyền trước chuyển phôi",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 6, trang 33-39",
+            "published_date": "2013"
+        },
+        {
+            "title": "Nghiên cứu một số phương pháp bảo quản tinh trùng trong phục vụ điều trị vô sinh",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 38, số 4, trang 75-79",
+            "published_date": "2013"
+        },
+        {
+            "title": "Nghiên cứu tác dụng kích thích sinh tinh của thuốc mediphylamin trên lâm sàng",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 38, số 4, trang 80-84",
+            "published_date": "2013"
+        },
+        {
+            "title": "So sánh tỷ lệ phôi sống, tỷ lệ phôi làm tổ, tỷ lệ có thai lâm sàng của chuyển phôi đông lạnh ngày 3 và ngày 5",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 38, số 4, trang 89-96",
+            "published_date": "2013"
+        },
+        {
+            "title": "Chẩn đoán di truyền tiền làm tổ: các kỹ thuật hiện hành và ứng dụng (Tổng quan)",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 38, số 4, trang 136-140",
+            "published_date": "2013"
+        },
+        {
+            "title": "Study on some factors affecting embryo morphology after biopsy for genetic diagnosis before embryo transfer",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Military Pharmaco Medicine",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "July, pp:50-56",
+            "published_date": "2013"
+        },
+        {
+            "title": "Nghiên cứu hình thái phôi sau sinh thiết để chẩn đoán di truyền trước chuyển phôi",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 411, tháng 10, số đặc biệt, trang 190-1997",
+            "published_date": "2013"
+        },
+        {
+            "title": "Sàng lọc bất thường nhiễm sắc thể trước chuyển phôi bằng kỹ thuật lại tại chỗ đánh dấu huỳnh quang (FISH)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 424, tháng 11- số đặc biệt, Trang 152-155.",
+            "published_date": "2014"
+        },
+        {
+            "title": "Kết quả chuyển phôi ngày 3 và ngày 5 có sử dụng tiêu chuẩn phân loại phôi liên tục lựa chọn phôi chuyển tại trung tâm công nghệ phôi",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 428, tháng 3- số 1, trang 78-82.",
+            "published_date": "2015"
+        },
+        {
+            "title": "Hình thái phôi nuôi cấy ngày 3 và kết quả chuyển phôi ngày 3 có sử dụng đánh giá phân loại phôi liên tục tại Trung tâm công nghệ phôi",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 428, tháng 3- số 1,trang 115-119.",
+            "published_date": "2015"
+        },
+        {
+            "title": "Mối liên quan giữa hình thái phôi nuôi cấy ngày 3 và khả năng hình thành phôi túi, chất lượng phôi túi khi nuôi cấy ngày 5 tại Trung tâm công nghệ phôi, Học viện Quân y",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 40, số 3, Trang 161-167",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu sự phát triển phôi sau sinh thiết để chẩn đoán di truyền trước chuyển phôi",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 40, số 6, tháng 8, trang 45-49",
+            "published_date": "2015"
+        },
+        {
+            "title": "Hiệu quả đông lạnh phôi toàn bộ trong điều trị tránh quá kích buồng trứng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 433, tháng 8, số 1, trang 114-118",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu hình ảnh thoi vô sắc của noãn bằng kính hiển vi ánh sáng phân cực",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 11, số 2, trang 145-150",
+            "published_date": "2016"
+        },
+        {
+            "title": "GnRH đồng vận gây trưởng thành noãn trong các chu kỳ IVF sử dụng phác đồ GnRH đối vận",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 41, số 5, tháng 7, trang 35-40",
+            "published_date": "2016"
+        },
+        {
+            "title": "Kết quả bước đầu áp dụng quy trình chẩn đoán tiền làm tổ tại Học viện Quân y",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 41, số 6, tháng 8, trang 13-22",
+            "published_date": "2016"
+        },
+        {
+            "title": "Kết quả bước đầu ứng dụng quy trình chẩn đoán di truyền trước chuyển phôi bệnh β-thalassemia bằng kỹ thuật minisequencing",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 41, số 6, tháng 8, trang: 23-29",
+            "published_date": "2016"
+        },
+        {
+            "title": "Nghiên cứu hình thái phôi ngày 3 tuổi khi sinh thiết phôi bằng laser để chẩn đoán di truyền tiền làm tổ",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 41, số 6, tháng 8, trang: 55-61",
+            "published_date": "2016"
+        },
+        {
+            "title": "Laser ảnh hưởng như thế nào khi sinh thiết tới khả năng sống sót của phôi ngày 3 và tạo phôi túi",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 41, số 6, tháng 8, trang: 69-73",
+            "published_date": "2016"
+        },
+        {
+            "title": "Hiệu quả của GnRH đồng vận gây trưởng thành noãn trong tránh quá kích buồng trứng trên bệnh nhân thụ tinh trong ống nghiệm",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 41, số 8, tháng 10, trang 68-73.",
+            "published_date": "2016"
+        },
+        {
+            "title": "Kết quả bước đầu ứng dụng quy trình chẩn đoán di truyền trước chuyển phôi bệnh teo cơ tủy tại Học viện Quân y",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 446, tháng 9- số chuyên đề, trang 190-197",
+            "published_date": "2016"
+        },
+        {
+            "title": "Đánh giá kết quả thụ tinh trong ống nghiệm bằng phác đồ dài đối với bệnh nhân dưới 35 tuổi tại Trung tâm hỗ trợ sinh sản Quốc gia",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 42, số 2, tháng 2, trang 33-39.",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nghiên cứu một số yếu tố có khả năng tiên lượng kết quả thu tinh trùng bằng phương pháp micro tese cho bệnh nhân vô tinh không do tắc",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 461, tháng 12- số 2, trang 165-168.",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đánh giá hiệu quả thu tinh trùng từ tinh hoàn bệnh nhân vô tinh không do tắc bằng phương pháp micro tese",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tháng 12- số 2, trang 169-171.",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khảo sát cơ bản tỉ lệ tinh trùng di động thẳng và xoay quanh trục",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 454, tháng 5- số 2, trang 131-135.",
+            "published_date": "2017"
+        },
+        {
+            "title": "The outcome of intracytoplasmic injection of testicular spermatozoa and epididymal spermatozoa obtained from azoospermic men",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Ageing Science/2329-8847",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 4, Issue 2, pp:1-5",
+            "published_date": "8/2016"
+        },
+        {
+            "title": "The effectiveness of transdermal testosterone gel 1% (androgel) for poor responders undergoing in vitro fertilization",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Gynecological Endocrinology",
+            "journal_ranking": "ISI, Scopus (IF:1.45; Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "Published online 31 May, pp:1-3",
+            "published_date": "5/2017"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng và chỉ định của bệnh nhân thụ tinh trong ống nghiệm-mang thai hộ tại bệnh viện phụ sản trung ương",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 42, số 3, tháng 3, trang 55-61",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đánh giá kiểm soát nhiễm AND trong sinh thiết phôi phục vụ chẩn đoán và sàng lọc tiền làm tổ",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 42, số chuyên đề, tháng 9, trang 219-225.",
+            "published_date": "2017"
+        },
+        {
+            "title": "Hiệu quả giảm tỉ lệ đa thai bằng giảm số phôi chuyển và đông lạnh phôi",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 42, số 8, tháng 10, trang 65-70.",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nghiên cứu biến đổi siêu cấu trúc phôi người nuôi cấy ngày 5 trước đông lạnh và sau rã đông bằng kỹ thuật thủy tinh hóa",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự.",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 43, số 4, tháng 4, trang 13-19",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nghiên cứu biến đổi hình thái cấu trúc phôi người nuôi cấy ngày 3 trước đông lạnh và sau rã đông bằng kỹ thuật thủy tinh hóa",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 43, số 5, tháng 6, trang 43-50",
+            "published_date": "2018"
+        },
+        {
+            "title": "Áp dụng kỹ thuật phân tích liên kết gen trong chẩn đoán trước sinh bệnh Hemophilia A",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 469, tháng 8- số đặc biệt, trang 464-469",
+            "published_date": "2018"
+        },
+        {
+            "title": "Biến đổi hình thái noãn và kết quả thụ tinh trong ống nghiệm của noãn sau đông lạnh bằng phương pháp thủy tinh hóa",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 43, số 6, tháng 8, trang 30-36",
+            "published_date": "2018"
+        },
+        {
+            "title": "Hiệu quả sinh thiết phôi túi và chuyển một phôi túi đông lạnh trong chẩn đoán bệnh thalassemia",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự.",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 43, số 6, tháng 8, trang 45-51",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của tinh trùng ít, yếu, dị dạng đến kết quả thụ tinh trong ống nghiệm",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 43, số 9, tháng 12, trang 25-30.",
+            "published_date": "2018"
+        },
+        {
+            "title": "Establishing Assays for Detecting SMNT Gene Mutation in Single Cell Using Nested-PCR Method",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biomedical, Journal of Scientific and Technical Research/2574-1241",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 8-Issue 1, August, pp: 1-3",
+            "published_date": "8/2018"
+        },
+        {
+            "title": "Lấy tinh trùng từ ống sinh tinh trong hỗ trợ sinh sản đối với bệnh nhân azoospermia",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 483, tháng 10- số chuyên đề, trang 146-150.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nghiên cứu hình thái cấu trúc, siêu cấu trúc mô tinh hoàn thu được bằng phương pháp micro tese ở bệnh nhân vô tinh không do tắc",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 483, tháng 10- số chuyên đề, trang 150-156.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Phân tích di truyền trước chuyển phôi alpha thalassemia: trao đổi chéo tại HBA locus",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 483, tháng 10- số chuyên đề, trang 266-271.",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nghiên cứu xây dựng quy trình chẩn đoán vi khuẩn Helicobacter Pylori trong mẫu nước bọt bằng phương pháp PCR",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học công nghệ Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 61, số 12, tháng 12, trang 9-13",
+            "published_date": "2019"
+        },
+        {
+            "title": "The potential of STR in idendify of monosomy: case report",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Revue Medicale Journal of Vietnam medical association,.",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 2, December, pp: 49-55.",
+            "published_date": "2019"
+        },
+        {
+            "title": "The Spindle of Oocytes Observed by Polarized Light Microscope Can Predict Embryo Quality",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Reproduction, Contracept Obstetrics and Gynecology ISSN: 2320-1770",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 8 Issuel, January, pp:131-134",
+            "published_date": "2019"
+        },
+        {
+            "title": "Effect of letrozole for ovulation induction combined with intrauterine insemination on women with polycystic ovary syndrome",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Gynecological Endocrinology ISSN: 0951-3590",
+            "journal_ranking": "ISI, Scopus (IF: 1.57; Q4)",
+            "citation_count": 0,
+            "volume_issue_pages": "Published online: 03 Apr",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đánh giá hình thái phôi ngày 3 của bệnh nhân hội chứng buồng trứng đa nang sử dụng phác đồ GnRH đối vận kết hợp GnRH đồng vận trưởng thành noãn",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 45, số 4, trang 13-17.",
+            "published_date": "2020"
+        },
+        {
+            "title": "Ultrasound imaging and serum β-HCG as an adjunct to diagnosis of hydatidiform mole evaluating β-HCG surveillance post-evacuation",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 45, số 9, trang 149-154.",
+            "published_date": "2020"
+        },
+        {
+            "title": "Bước đầu nghiên cứu áp dụng kỹ thuật giải trình tự gen thế hệ mới sàng lọc rối loạn nhiễm sắc thể trước chuyển phôi tại Viện Mô phôi lâm sàng Quân đội",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt, tháng 10, trang 34-39.",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị vô sinh trên bệnh nhân có hội chứng buồng trứng đa nang sử dụng phác đồ GnRH đối vận trong thụ tinh ống nghiệm",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 15-số 5, trang 145-150",
+            "published_date": "2020"
+        },
+        {
+            "title": "Đặc điểm cấu trúc mô tinh hoàn ở bệnh nhân vô tinh không do tắc thu được bằng phương pháp micro tese",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 486, tháng 1- số 1 và 2, trang 134-138.",
+            "published_date": "2020"
+        },
+        {
+            "title": "Xây dựng quy trình phát hiện đột biến gen ABCD1 liên quan đến loạn dưỡng não chất trắng",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nội khoa Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 21, trang 17-27.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Abdominal wall endometriosis: A rare case report",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 46, số 2, trang 99-102",
+            "published_date": "2021"
+        },
+        {
+            "title": "Kết quả bước đầu điều trị bệnh nhân thất bại làm tổ liên tiếp bằng huyết tương giàu tiểu cầu tự thân",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 46, số 3, trang 38-41.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xây dựng quy trình phát hiện đột biến gen ABCC8 liên quan tới bệnh đái tháo đường sơ sinh",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 46, số 6, trang 41-48.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Khảo sát bất thường nhiễm sắc thể ở phôi nang bằng xét nghiệm di truyền tiền làm tổ",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 46, số 8, trang 17-22.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xác định tần suất đa hình gen MTHFR, MTR và MTRR trên nhóm bệnh nhân sảy thai liên tiếp",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 46, số 8, trang 23-28.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Hiệu quả kết hợp chẩn đoán và sàng lọc di truyền tiền làm tổ trên phôi của bệnh teo cơ tủy",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược lâm sàng 108",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 8, trang 185-190.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Xác định tần suất alen của một số gen liên quan đến hội chứng tăng đông máu ở bệnh nhân có tiền sử sảy thai liên tiếp",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 46, số 9, trang 55-61.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Novel application of natural killer cell activity test for recurrent miscarriages and repeated implantation failure: A case report in Vietnam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 46, số 9, trang 194-198.",
+            "published_date": "2021"
+        },
+        {
+            "title": "Establishment of multiplex PCR of 13 STR markers on embryonic cell samples for PGT-M hemophilia A",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 46, số 9, trang 206-212.",
+            "published_date": "2021"
+        },
+        {
+            "title": "The Detection And Genotyping Of The Human Papillomavirus In Vietnam",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nat. Volatiles & Essent. Oils ISSN: 2148-9637",
+            "journal_ranking": "Scopus Q3, ISI, IF 0,73",
+            "citation_count": 0,
+            "volume_issue_pages": "8(4): 11154-11163",
+            "published_date": "2021"
+        },
+        {
+            "title": "Using RFLP-PCR, Mini Sequencing and STR Techniques in Preimplantation Diagnosis of Spinal Muscular Dystrophy in Vietnam",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biomedical Journal of Scientific & Technical Research ISSN: 2574-1241",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 40-Issue 5, pp:32139-32145",
+            "published_date": "1/2022"
+        },
+        {
+            "title": "Preclinical toxicological evaluation of measles virus vaccine strain in non-human primates: A two-month intravenous study",
+            "num_authors": 14,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biomedical Research and Therapy ISSN: 2198-4093",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "8(6):4382-4393",
+            "published_date": "2021"
+        },
+        {
+            "title": "Preimplantation Genetic Diagnosis for DEB by Detecting a Novel Family-Specifc COL7A1 Mutation in Vietnam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "The Application of Clinical Genetics ISSN: 1178-704X",
+            "journal_ranking": "ISI, Scopus (IF:1.6, Q2)",
+            "citation_count": 0,
+            "volume_issue_pages": "15 p:467-472",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Đặc điểm kiểu gen của đa hình MTHFR C677T, MTHFR A1298C, MTR A2756G và MTRR A66G ở phụ nữ sảy thai liên tiếp",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học công nghệ Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64 – số 2, tháng 2",
+            "published_date": "2022"
+        },
+        {
+            "title": "Evaluating the Association Between Genetic Polymorphisms Related to Homocysteine Metabolism and Unexplained Recurrent Pregnancy Loss in Women",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Application of Clinical Genetics ISSN: 1178-704X",
+            "journal_ranking": "ISI, Scopus, Q3; IF:1,6",
+            "citation_count": 0,
+            "volume_issue_pages": "15 55-62",
+            "published_date": "2022"
+        },
+        {
+            "title": "Successful Pregnancy Following Preimplantation Genetic Diagnosis of Neonatal Diabetes Mellitus by Detection of Mutation on the ABCC8 Gene",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biomedical Journal of scientific & Technical research ISSN: 2574-1241",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 43-Issue 3, pp:34561-34566",
+            "published_date": "4/2022"
+        },
+        {
+            "title": "Effect of autologous platelet-rich plasma treatment on patients with thin endometrium",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Resvita Cubana de Medicina Militar ISSN: 1561-3046",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "51(2):e02201802",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đặc điểm bệnh nhân giảm dự trữ buồng trứng và đáp ứng phát triển nang trứng với phác đồ kích thích buồng trứng kép",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 47, sô 2, trang 13-19.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đánh giá hiệu quả bước đầu của phác đồ kích thích buồng trứng kép trong thụ tinh ống nghiệm",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 47, số 4, trang 30-37.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Kết quả áp dụng quy trình xét nghiệm di truyền trước làm tổ bệnh Hemophilia A",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 47, sô 5, Trang 42-50.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tỉ lệ vô tỉnh, thiếu tinh nhẹ, thiểu tinh nặng và nồng độ hormone sinh sản ở bệnh nhân vô sinh có vi mất đoạn AZF tại Bệnh viện Nam học và hiếm muộn Hà Nội",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 47, sô 5, Trang 50-58.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đặc điểm đột biến gen F8 ở các gia đình tham gia xét nghiệm di truyền trước làm tổ bệnh Hemophilia A",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 515, tháng 6- số 1, trang 283-286.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Chuyển đơn phôi nang: giải pháp hiệu quả để giảm thiểu nguy cơ đa thai ở bệnh nhân dưới 35 tuổi",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 517, tháng 8- số 1, trang 240-243.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ảnh hưởng của hình thái noãn có lưới nội chất trơn đến kết quả thụ tinh ống nghiệm",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 518, tháng 9- số chuyên đề, trang 143-147.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Mối liên quan giữa nồng độ progesterone huyết thanh trước chuyển phôi với kết quả có thai ở chu kỳ chuyển phôi đông lạnh",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 518, tháng 9- số chuyên đề, trang 190-196.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Liên quan giữa độ dày niêm mạc tử cung với kết quả chuyển phôi nang đông lạnh",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 518, tháng 9- số chuyên đề, trang 196-202.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Correlation between amh level and number of oocytes, embryos obtained by age groups in patients undergoing in vitro fertilization combined with preimplantation genetic testing for aneuploidy",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y dược học Quân sự",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 48, số 4, trang 134-142.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu mất đoạn AZF và nồng độ hormone sinh dục ở bệnh nhân thiểu tinh và vô tinh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526, số 1B, trang: 101-106",
+            "published_date": "2023"
+        },
+        {
+            "title": "So sánh hiệu quả phác đồ trưởng thành noãn kép và trưởng thành noãn bằng HCG đơn thuần trên nhóm đáp ứng buồng trứng trung bình ở các chu kỳ thụ tinh trong ống nghiệm",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526, số 1B, trang: 282-285",
+            "published_date": "2023"
+        },
+        {
+            "title": "Chẩn đoán di truyền tiền làm tổ bệnh thiếu men glucose 6-phosphatase",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526, số 1B, trang: 346-351",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nghiên cứu xây dựng quy trình chẩn đoán vi mất đoạn nhỏ vùng mở rộng trên nhiễm sắc thể Y của bệnh nhân vô tỉnh và thiểu tinh",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam",
+            "journal_ranking": "null",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 532, tháng 11, số 1, trang: 293-299",
+            "published_date": "2023"
+        },
+        {
+            "title": "Robust preimplantation genetic testing of the common F8 Inv22 pathogenic variant of severe hemophilia A using a highly polymorphic multi-marker panel encompassing the paracentric inversion",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Thrombosis Journal ISSN:14779560",
+            "journal_ranking": "ISI, Scopus, Q2; IF: 3.1",
+            "citation_count": 0,
+            "volume_issue_pages": "21:108, pp:1-7",
+            "published_date": "2023"
+        },
+        {
+            "title": "Optimization of Multiplex Technique to determine AZF deletions in infertility male patients",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of General Medicine ISSN: 11787074",
+            "journal_ranking": "SCIE/ISI; IF: 2,4 Pubmed",
+            "citation_count": 0,
+            "volume_issue_pages": "17 pp:1579-1589",
+            "published_date": "2024"
+        },
+        {
+            "title": "Preimplantation genetic diagnosis of androgen resistance syndrome caused by mutation on the AR gene in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Application of Clinical Genetics ISSN: 1178-704X",
+            "journal_ranking": "ISI, Scopus, Q3; IF:3,1",
+            "citation_count": 0,
+            "volume_issue_pages": "17 pp: 47-56",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu qui trình bảo quản các tế bào gốc sinh tinh",
+            "role": "Principal Investigator",
+            "project_code": "1093/QĐ-HVQY",
+            "management_level": "Đề tài nhánh thuộc Đề tài độc lập cấp nhà nước",
+            "period": "5/2010 - 11/2011",
+            "acceptance_date": "10/11/2011",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu quy trình chẩn đoán một số bệnh di truyền trước chuyển phôi để sàng lọc phôi thụ tinh trong ống nghiệm",
+            "role": "Participant",
+            "project_code": "KC.10/11-15",
+            "management_level": "Đề tài KHCN trọng điểm cấp Nhà nước",
+            "period": "3/2013 - 10/2015",
+            "acceptance_date": "25/12/2015",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu áp dụng và đánh giá hiệu quả kỹ thuật sàng lọc rối loạn nhiễm sắc thể trước chuyển phôi tại Viện Mô phôi lâm sàng Quân đội, Học viện Quân y",
+            "role": "Participant",
+            "project_code": "KC.10.09/16-20",
+            "management_level": "Đề tài nhánh thuộc Đề tài KHCN cấp Quốc gia",
+            "period": "3/2017 - 6/2018",
+            "acceptance_date": "11/10/2019",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Ứng dụng kỹ thuật Multiplex PCR phân tích các trình tự lặp ngắn trong chẩn đoán bệnh Hemophilia A trước chuyển phôi tại Hà Nội",
+            "role": "Principal Investigator",
+            "project_code": "15/10/2017 HDSKH&CN",
+            "management_level": "Đề tài cấp sở khoa học công nghệ tp Hà Nội",
+            "period": "8/2017 - 7/2019",
+            "acceptance_date": "23/6/2020",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Tối ưu hóa quy trình đông lạnh tinh trùng số lượng ít bằng kỹ thuật thủy tinh hóa",
+            "role": "Principal Investigator",
+            "project_code": "4642/QĐHVQY",
+            "management_level": "Đề tài cấp Học viện Quân y",
+            "period": "5/2022 - 3/2023",
+            "acceptance_date": "06/10/2023",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Phôi thai học người",
+            "type": "Textbook",
+            "publisher": "NXB Quân đội nhân dân",
+            "publish_year": "2009",
+            "num_authors": 12,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Trang 178-202; 231-244",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "Các tiêu bản mô phôi học",
+            "type": "Reference Book",
+            "publisher": "NXB Quân đội nhân dân",
+            "publish_year": "2015",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "null",
+            "verification_document_id": "null"
+        },
+        {
+            "title": "Mô học",
+            "type": "Textbook",
+            "publisher": "NXB Quân đội nhân dân",
+            "publish_year": "2020",
+            "num_authors": 11,
+            "is_editor_in_chief": true,
+            "compiled_pages": "null",
+            "verification_document_id": "null"
+        }
+    ],
+    "patents": [
+        {
+            "title": "Giải pháp hữu ích: “Quy trình sàng lọc bệnh teo cơ tủy từ phôi thụ tinh trong ống nghiệm”",
+            "issuing_authority": "Cục Sở hữu trí tuệ, Bộ khoa học và công nghệ",
+            "issue_date": "10/05/2018",
+            "is_main_inventor": false,
+            "num_inventors": 7
+        },
+        {
+            "title": "Giải pháp hữu ích: “Quy trình nuôi cấy phôi và thu hồi AND từ phôi để sàng lọc di truyền không xâm lấn”",
+            "issuing_authority": "Cục Sở hữu trí tuệ, Bộ khoa học và công nghệ",
+            "issue_date": "22/09/2022",
+            "is_main_inventor": false,
+            "num_inventors": 6
+        },
+        {
+            "title": "Giải pháp hữu ích: “Quy trình phân lập tinh trùng từ mô tinh hoàn”",
+            "issuing_authority": "Cục Sở hữu trí tuệ, Bộ khoa học và công nghệ",
+            "issue_date": "21/07/2023",
+            "is_main_inventor": false,
+            "num_inventors": 7
+        },
+        {
+            "title": "Giải pháp hữu ích:”Bộ mồi dùng trong phản ứng PCR đa mồi để khuếch đại các đoạn chỉ thị STR của gen F8”",
+            "issuing_authority": "Cục Sở hữu trí tuệ, Bộ khoa học và công nghệ",
+            "issue_date": "10/11/2023",
+            "is_main_inventor": false,
+            "num_inventors": 6
+        },
+        {
+            "title": "Giải pháp hữu ích:\"Quy trình bảo quản mẫu tinh trùng số lượng ít bằng phương pháp thủy tinh hóa\"",
+            "issuing_authority": "Cục Sở hữu trí tuệ, Bộ khoa học và công nghệ",
+            "issue_date": "15/04/2024",
+            "is_main_inventor": true,
+            "num_inventors": 5
+        }
+    ],
+    "achievements": null,
+    "training_programs": null
+}

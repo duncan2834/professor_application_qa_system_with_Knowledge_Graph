@@ -1,0 +1,1234 @@
+{
+    "papers": [
+        {
+            "title": "Thiết lập hệ thống vi thủy canh trong nhân giống cây hoa cúc (Chrysanthemum sp.)",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 10,
+            "volume_issue_pages": "10 (4A): 969-976",
+            "published_date": "2012"
+        },
+        {
+            "title": "Hoàn thiện quy trình vi nhân giống cây hồng môn (Anthurium andreanum 'Tropical')",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Công nghệ Sinh học, Hà Nội ISBN: 978-604-913-136-3",
+            "journal_ranking": "",
+            "citation_count": 1033,
+            "volume_issue_pages": "1033-1037",
+            "published_date": "2013"
+        },
+        {
+            "title": "Sinh trưởng, phát triên và hàm lượng chlorophyll trong chồi cây cúc (Chrysanthemum moriforlium Ramat. cv. “Jimba') nuôi cấy in vitro dưới ánh sáng LED",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 12,
+            "volume_issue_pages": "12(2): 339-347",
+            "published_date": "2014"
+        },
+        {
+            "title": "Cảm ứng tạo mô sẹo có khả năng sinh phôi làm nguồn mẫu cho phát sinh phôi vô tính và nuôi cấy huyền phù tế bào lan hồ điệp (Phalaenopsis amabilis)",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 12,
+            "volume_issue_pages": "12(3): 531-541",
+            "published_date": "2014"
+        },
+        {
+            "title": "Ảnh hưởng của môi trường dinh dưỡng và điều kiện chiếu sáng lên sự sinh trưởng và phát triển của chồi cúc (Chrysanthemum sp.) trong hệ thống vi thủy canh",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu hội nghị khoa học lần thứ 1, Hội sinh lý thực vật, NXB. Đại học Nông nghiệp ISBN: 978-604-924-156-7",
+            "journal_ranking": "",
+            "citation_count": 203,
+            "volume_issue_pages": "203-210",
+            "published_date": "2014"
+        },
+        {
+            "title": "Ảnh hưởng của một số yếu tố lên quá trình sinh trưởng và phát triển của cây lan gấm (Anoectochilus setaceus Blume) nuôi cấy in vitro",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Phát triển ISSN: 1859-0004",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(3): 337-344",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tái sinh chồi cây macca (Macadamia sp.) thông qua nuôi cấy mô sẹo có nguồn gốc từ mẫu lá",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(2A): 485-491",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tạo hạt tỏi nhân tạo từ phôi vô tính hình thành từ chóp rễ cây tỏi ta (Allium sativum L.)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(2A): 493-499",
+            "published_date": "2015"
+        },
+        {
+            "title": "Ảnh hưởng của các điều kiện bảo quản tới khả năng nảy mầm của hạt nhân tạo sâm Ngọc Linh (Panax vietnamensis Ha et Grushv.) nuôi cấy in vitro",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(4A): 1257-1262",
+            "published_date": "2015"
+        },
+        {
+            "title": "Đánh giá ổn định di truyền cây sâm Ngọc Linh (Panax vietnamensis Ha et Grushv.) bằng chỉ thị phân tử RAPD",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(1): 63-73",
+            "published_date": "2015"
+        },
+        {
+            "title": "Đánh giá tác dụng tăng lực của saponin trong rễ tơ chuyển gen sâm Ngọc Linh (Panax vietnamensis Ha et Grushv.)",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(1): 75-82",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tăng cường khả năng hình thành và phát triển rễ thứ cấp từ rễ bất định Sâm Ngọc Linh (Panax vietnamensis Ha et Grushv.) nuôi cấy in vitro",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(2): 221-230",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của nano bạc lên sự nhân chồi, sinh trưởng và phát triển của cây hoa hồng (Rosa sp.) in vitro",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(2): 231-239",
+            "published_date": "2015"
+        },
+        {
+            "title": "Nghiên cứu sự sinh trưởng và phát triển của cây cúc (Chrysanthemum sp.) in vitro trên môi trường có sử dụng nano sắt",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Phát triển ISSN: 1859-0004",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(7): 1162-1172",
+            "published_date": "2015"
+        },
+        {
+            "title": "Ảnh hưởng của một số elicitor lên sự sinh trưởng và tích lũy hoạt chất ở rễ tơ sâm Ngọc Linh chuyển gen",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(3): 843-851",
+            "published_date": "2015"
+        },
+        {
+            "title": "Tối ưu hóa quá trình nhân nhanh và tích lũy saponin của rễ bất định sâm Ngọc Linh (Panax vietnamensis Ha et Grushv.) trong các hệ thống nuôi cấy",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(3): 853-864",
+            "published_date": "2015"
+        },
+        {
+            "title": "Hệ thống vi thủy canh trong nhân giống cây cúc trắng (Chrysanthemum morifolium)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 13,
+            "volume_issue_pages": "13(4): 1127-1137",
+            "published_date": "2015"
+        },
+        {
+            "title": "Assessment of the possibility of flowering, fruiting and saponin accumulation of somatic embryo-derived Panax vietnamensis Ha et Grushv plants growing in Kon Tum and Quang Nam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 14,
+            "volume_issue_pages": "14 (1A): 263-268",
+            "published_date": "2016"
+        },
+        {
+            "title": "Ảnh hưởng của cường độ và sự thay đổi giai đoạn chiếu sáng giữa LED đỏ và LED xanh lên quá trình sinh trưởng và phát triển của cây cúc (Chrysanthemum morifolium Ramat. cv. \"Jimba\") in vitro",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 14,
+            "volume_issue_pages": "14(2): 295-304",
+            "published_date": "2016"
+        },
+        {
+            "title": "Application of wireless power transmission led lighting system in propagation of chrysanthemum and strawberry. DOI: 10.1590/s0100-83582016340400001",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Planta Daninha pISSN: 0100-8358 OISSN: 1806-9681",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 7,
+            "volume_issue_pages": "34(4): 617-630",
+            "published_date": "2016"
+        },
+        {
+            "title": "Vi thủy canh (microponic) – phương pháp nhân giống hiệu quả cây hoa cúc (Chrysanthemum morifolium)",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Khoa học Huế ISSN: 2354-0842",
+            "journal_ranking": "",
+            "citation_count": 8,
+            "volume_issue_pages": "8(1): 165-177",
+            "published_date": "2017"
+        },
+        {
+            "title": "Ảnh hưởng của điều kiện mô phỏng không trọng lực lên khả năng nảy mầm, sinh trưởng, phát triển và tích lũy hợp chất thứ cấp của sâm bố chính nuôi cấy in vitro",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 15,
+            "volume_issue_pages": "15(1): 73-85",
+            "published_date": "2017"
+        },
+        {
+            "title": "Ảnh hưởng của các elicitor sinh học và phi sinh học đến sinh khối rễ thứ cấp và hàm lượng saponin trong nuôi cấy lỏng lắc rễ bất định Sâm Ngọc Linh",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 15,
+            "volume_issue_pages": "15(2): 285-291",
+            "published_date": "2017"
+        },
+        {
+            "title": "Ảnh hưởng của thể tích và điều kiện thoáng khí trong nuôi cấy in vitro và định tính hoạt chất adenosine trong cây",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 15,
+            "volume_issue_pages": "15(2): 307-317",
+            "published_date": "2017"
+        },
+        {
+            "title": "Đánh giá hiệu quả thay thế Fe-EDTA bằng nano sắt trong vi nhân giống cây salem (Limonium sinuatum (L.) Mill)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 15,
+            "volume_issue_pages": "15(3): 525-533",
+            "published_date": "2017"
+        },
+        {
+            "title": "Agrobacterium-mediated transformation of Panax vietnamensis Ha et Grushv.",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 15,
+            "volume_issue_pages": "15(4): 641-650",
+            "published_date": "2017"
+        },
+        {
+            "title": "The effects of silver nanoparticles on growth of Chrysanthemum morifolium Ramat. cv. \"Jimba\" in different cultural systems",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ ISSN: 2525-2518",
+            "journal_ranking": "",
+            "citation_count": 20,
+            "volume_issue_pages": "55(4): 503-514",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khả năng sinh trưởng và ra hoa của cây cúc nuôi cấy trong hệ thống vì thủy canh",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Khoa học Tự nhiên ISSN: 1859-1388",
+            "journal_ranking": "",
+            "citation_count": 126,
+            "volume_issue_pages": "126 (1A): 113-123",
+            "published_date": "2017"
+        },
+        {
+            "title": "Effect of metal nanoparticles on the growth of Ngoc Linh ginseng (Panax vietnamensis Ha et Grushv.) lateral roots cultured in vitro",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Khoa học tự nhiên ISSN: 1859-1388",
+            "journal_ranking": "",
+            "citation_count": 126,
+            "volume_issue_pages": "126 (1C): 47-55",
+            "published_date": "2017"
+        },
+        {
+            "title": "Khảo sát nano bạc làm chất khử trùng mẫu mới trong nhân giống vô tính cây African violet (Saintpaulia ionantha H. Wendl.)",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 16,
+            "volume_issue_pages": "16(1) 87-97",
+            "published_date": "2018"
+        },
+        {
+            "title": "Tạo nguồn mẫu in vitro cho giống chanh dây tím (Passiflora edulis Sims.) và vàng (Passiflora edulis f. flavicarpa)",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Đại học Huế: Khoa học tự nhiên ISSN: 1859-1388",
+            "journal_ranking": "",
+            "citation_count": 127,
+            "volume_issue_pages": "127 (1C): 71-84",
+            "published_date": "2018"
+        },
+        {
+            "title": "Sâm Ngọc Linh: Cây dược liệu quý mang thương hiệu quốc gia",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "1: 32-35",
+            "published_date": "2018"
+        },
+        {
+            "title": "Cảm ứng hình thành mô sẹo từ nhánh rong bắp sú (Kappaphycus striatus) dưới các điều kiện nuôi cấy khác nhau",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 16,
+            "volume_issue_pages": "16(2): 301-309",
+            "published_date": "2018"
+        },
+        {
+            "title": "Vai trò của nano bạc trong nâng cao tần suất hình thành tế bào đơn cây hoa salem (Limonium sinuatum (L.) Mill)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 16,
+            "volume_issue_pages": "16(3): 481-490",
+            "published_date": "2018"
+        },
+        {
+            "title": "Nhân chồi thông qua nuôi cấy đốt thân hình thành trong tối: Một phương pháp mới trong nhân giống cây lan kim hài (Paphiopedilum villosum)",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 16,
+            "volume_issue_pages": "16(3): 491-499",
+            "published_date": "2018"
+        },
+        {
+            "title": "Stimulation of shoot regeneration through leaf thin cell layer culture of Passiflora edulis Sims.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 16,
+            "volume_issue_pages": "16(4): 669-677",
+            "published_date": "2018"
+        },
+        {
+            "title": "Improvement of bioactive saponin accumulation in adventitious root cultures of Panax vietnamensis via culture periods and elicitation. https://doi.org/10.1007/s11240-018-01555-6",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 18,
+            "volume_issue_pages": "137 (1): 101-113",
+            "published_date": "2019"
+        },
+        {
+            "title": "In vitro polyploid induction of Paphiopedilum villosum using colchicine. https://doi.org/10.1016/j.scienta.2019.03.063",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 54,
+            "volume_issue_pages": "252: 283-290",
+            "published_date": "2019"
+        },
+        {
+            "title": "Effects of shoot tip removal, wounding manipulation, and plant growth regulators on shoot regeneration and plantlet development in Paphiopedilum species. https://doi.org/10.1016/j.scienta.2019.108648",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 16,
+            "volume_issue_pages": "256: 108648",
+            "published_date": "2019"
+        },
+        {
+            "title": "Cải thiện khả năng ra rễ in vitro và nâng cao tỷ lệ sống sót ngoài vườn ươm của cây chanh dây tím (Passiflora edulis Sims.) có nguồn gốc từ nuôi cấy lớp mỏng tế bào lá",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ, Đại học Khoa học Huế ISSN: 2354-0842",
+            "journal_ranking": "",
+            "citation_count": 15,
+            "volume_issue_pages": "15(2): 97-110",
+            "published_date": "2019"
+        },
+        {
+            "title": "Ứng dụng chỉ thị phân tử trong phân biệt các loài sâm trên thế giới",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "1+2: 122-125",
+            "published_date": "2019"
+        },
+        {
+            "title": "Hạn chế hiện tượng thủy tinh thể và gia tăng tỷ lệ sống của chồi cây hoa đồng tiền (Gerbera jamesonii) nuôi cấy in vitro dưới tác động của nano bạc",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "17(1): 115-124",
+            "published_date": "2019"
+        },
+        {
+            "title": "Bộ chỉ thị hình thái đặc trưng cho nhận dạng sâm Hàn Quốc (Panax ginneng C.A.Mey) và đề xuất cho Việt Nam",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 12,
+            "volume_issue_pages": "12: 53-56",
+            "published_date": "2019"
+        },
+        {
+            "title": "The paraffin embedding technique in the study of plant histology",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "17(2): 197-212",
+            "published_date": "2019"
+        },
+        {
+            "title": "So sánh hình thái và cấu trúc giải phẫu của rễ bất định và rễ tơ chuyển gen ở cây Sâm Ngọc Linh (Panax vietnamensis Ha et Grushv.)",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "17(3): 483-490",
+            "published_date": "2019"
+        },
+        {
+            "title": "Nghiên cứu điều kiện nuôi trồng cây sâm Ngọc Linh (Panax vietnamensis Ha et Grushv.) in vitro ở điều kiện nhà kính và tự nhiên tại Lâm Đồng",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 61,
+            "volume_issue_pages": "61 (12): 26-31",
+            "published_date": "2019"
+        },
+        {
+            "title": "Ảnh hưởng của nguồn mẫu, chất điều hòa sinh trưởng và hệ thống nuôi cấy lên khả năng nhân nhanh rễ bất định cây hà thủ ô đỏ (Polygonum multiflorum Thunb.) nuôi cấy in vitro",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "17(4): 689-698",
+            "published_date": "2019"
+        },
+        {
+            "title": "Hiệu quả tái sinh chồi và nhân giống cây chanh dây tím (Passiflora edulis Sims.) thông qua nuôi cấy lớp mỏng tế bào đoạn thân cắt theo chiều dọc",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 17,
+            "volume_issue_pages": "17(4): 699-708",
+            "published_date": "2019"
+        },
+        {
+            "title": "Strategies for the regeneration of Paphiopedilum callosum through internode tissue cultures using dark-light cycles. https://doi.org/10.21273/HORTSCI13880-19",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hortscience ISSN: 0018-5345",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 54,
+            "volume_issue_pages": "54(5): 920-925",
+            "published_date": "2019"
+        },
+        {
+            "title": "Highly effective micropropagation and induction of early flowering by Gibberellic acid in Paphiopedilum delenatii Guillaumin)",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Propagation of Ornamental Plants ISSN: 1311-9109",
+            "journal_ranking": "ISI Q4",
+            "citation_count": 20,
+            "volume_issue_pages": "20(1): 3-11",
+            "published_date": "2020"
+        },
+        {
+            "title": "Somatic embryogenesis and plantlet regeneration from the seaweed Kappaphycus striatus. https://doi.org/10.1007/s11738-020-03102-3",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Acta Physiologiae Plantarum eISSN: 1861-1664",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 26,
+            "volume_issue_pages": "42(7): 104",
+            "published_date": "2020"
+        },
+        {
+            "title": "Evaluation of root growth, antioxidant enzyme activity and mineral absorbability of carnation (Dianthus caryophyllus \"Express golem\") plantlets cultured in two culture systems supplemented with iron nanoparticles. https://doi.org/10.1016/j.scienta.2020.109612",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 27,
+            "volume_issue_pages": "272: 109612",
+            "published_date": "2020"
+        },
+        {
+            "title": "Một số hiện tượng bất thường trong nuôi cấy in vitro và giải pháp khắc phục",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 18,
+            "volume_issue_pages": "18(1): 23-29",
+            "published_date": "2020"
+        },
+        {
+            "title": "Ảnh hưởng của colchicine và oryzalin lên cảm ứng đa bội và phát sinh hình thái của cây lan kim tuyến (Anoectochilus setaceus Blume) nuôi cấy in vitro",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 18,
+            "volume_issue_pages": "18(1): 103-116",
+            "published_date": "2020"
+        },
+        {
+            "title": "Some techniques in micropropagation and breeding of Paphiopedilum spp.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ ISSN: 2525-2518",
+            "journal_ranking": "",
+            "citation_count": 58,
+            "volume_issue_pages": "58(4): 393-401",
+            "published_date": "2020"
+        },
+        {
+            "title": "Hệ thống WPT-LP: Giải pháp mới nâng cao hiệu quả vi nhân giống cây trồng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 62,
+            "volume_issue_pages": "62(6): 38-40",
+            "published_date": "2020"
+        },
+        {
+            "title": "Iron nanoparticles on growth and acclimatization of Chrysanthemum morifolium Ramat. cv. \"Jimba\" in culture conditions",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 18,
+            "volume_issue_pages": "18(2): 307-319",
+            "published_date": "2020"
+        },
+        {
+            "title": "Phát sinh phôi soma cây đinh lăng lá xẻ nhỏ (Polyscias fruticosa L. Harms) thông qua nuôi cấy mẫu lá ex vitro",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 18,
+            "volume_issue_pages": "18(3): 497-506",
+            "published_date": "2020"
+        },
+        {
+            "title": "Nâng cao tần suất phát sinh phôi vô tính cây sâm Ngọc Linh (Panax vietnamensis Ha et Grushv.) thông qua khử trùng mẫu cấy lá bằng nano bạc và bổ sung nano bạc trong môi trường nuôi cấy",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 18,
+            "volume_issue_pages": "18(3): 517-527",
+            "published_date": "2020"
+        },
+        {
+            "title": "Assessment of fungi and viruses in artichoke (Cynara scolymus L.) in Da Lat (Lam Dong province)",
+            "num_authors": 14,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 18,
+            "volume_issue_pages": "18(4): 679-691",
+            "published_date": "2020"
+        },
+        {
+            "title": "Silver nanoparticles improved explant disinfection, in vitro growth, runner formation and limited ethylene accumulation during micropropagation of strawberry (Fragaria x ananassa). doi.org/10.1007/s11240-021-02015-4",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 52,
+            "volume_issue_pages": "145 (2): 393-403",
+            "published_date": "2021"
+        },
+        {
+            "title": "Silver nanoparticles as the sterilant in large-scale micropropagation of chrysanthemum. doi.org/10.1007/s11627-021-10163-7",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "In Vitro Cellular & Developmental Biology: Plant pISSN: 1054-5476",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 30,
+            "volume_issue_pages": "57: 897-906",
+            "published_date": "2021"
+        },
+        {
+            "title": "Protocorm-like body formation, stem elongation and enhanced growth of Anthurium andraeanum 'Tropical' plantlet on medium containing silver nanoparticles. DOI: 10.1007/s11627-021-10217-w",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "In Vitro Cellular & Developmental Biology: Plant pISSN: 1054-5476",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "58: 70-79",
+            "published_date": "2021"
+        },
+        {
+            "title": "Micropropagation of Jasminanthes tuyetanhiae – an endemic and valuable herb in Vietnam. https://doi.org/10.1007/s11240-021-02158-4",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "148 (1): 35-44",
+            "published_date": "2021"
+        },
+        {
+            "title": "Silver nanoparticles as an effective stimulant in micropropagation of Panax vietnamensis – a valuable medicinal plant. https://doi.org/10.1007/s11240-021-02095-2",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 31,
+            "volume_issue_pages": "146 (3): 577-588",
+            "published_date": "2021"
+        },
+        {
+            "title": "Alterations in endogenous hormone levels and energy metabolism promoted the induction, differentiation and maturation of Begonia somatic embryos under clinorotation. https://doi.org/10.1016/j.plantsci.2021.111045",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Science ISSN: 0168-9452",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 14,
+            "volume_issue_pages": "312: 111045",
+            "published_date": "2021"
+        },
+        {
+            "title": "Cải thiện khả năng ra rễ in vitro và thích nghi ở giai đoạn vườn ươm của cây artichoke (giống tím và giống xanh)",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 19,
+            "volume_issue_pages": "19(1): 129-145",
+            "published_date": "2021"
+        },
+        {
+            "title": "Phân tích đa dạng và mối tương quan di truyền các giống hoa salem (Limonium sinuatum L.) tại Lâm Đồng bằng kĩ thuật RAPD-PCR",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 19,
+            "volume_issue_pages": "19(1): 165-173",
+            "published_date": "2021"
+        },
+        {
+            "title": "Ảnh hưởng của một số yếu tố lên quá trình sinh trưởng và phát triển lan thạch hộc tía (Dendrobium officinale Kimura et Migo) trong nuôi cấy in vitro và ex vitro",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 19,
+            "volume_issue_pages": "19(2): 321-335",
+            "published_date": "2021"
+        },
+        {
+            "title": "Silver nanoparticles enhanced efficiency of explant surface disinfection and somatic embryogenesis in Begonia tuberous via thin cell layer culture",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 19,
+            "volume_issue_pages": "19(2): 337-347",
+            "published_date": "2021"
+        },
+        {
+            "title": "Sản xuất cây dâu tây (Fragaria × ananassa) in vitro trong hệ thống nuôi cấy quy mô lớn có bổ sung nano bac",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 19,
+            "volume_issue_pages": "19(3): 481-493",
+            "published_date": "2021"
+        },
+        {
+            "title": "Anh hưởng của nano bạc lên khả năng khử trùng các loại mẫu cấy khác nhau của cây hoa đồng tiền (Gerbera jamesonii) nuôi cấy in vitro",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 19,
+            "volume_issue_pages": "19(4): 705-715",
+            "published_date": "2021"
+        },
+        {
+            "title": "Nâng cao tần suất tái sinh chồi của cây tử linh lan (Saintpaulia ionantha Wendl.) nuôi cấy in vitro dưới đèn LEDs",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Công nghệ Sinh học ISSN: 1811-4989",
+            "journal_ranking": "",
+            "citation_count": 19,
+            "volume_issue_pages": "19(4): 717-724",
+            "published_date": "2021"
+        },
+        {
+            "title": "Efficient production of vigorous passion fruit rootstock for in vitro grafting.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 12,
+            "volume_issue_pages": "148 (3): 635-648",
+            "published_date": "2022"
+        },
+        {
+            "title": "Selenium nanoparticles as in vitro rooting agent, regulates stomata closure and antioxidant activity of gerbera to tolerate acclimatization stress. https://doi.org/10.1007/s11240-022-02250-3",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 23,
+            "volume_issue_pages": "150 (1): 113-128",
+            "published_date": "2022"
+        },
+        {
+            "title": "Diversity in morphology and growth characteristics of Dendrobium anosmum variations in Lam Dong, Vietnam. DOI: 10.3923/ajps.2022.221.228",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Plant Sciences eISSN: 1812-5697 pISSN: 1682-3974",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 21,
+            "volume_issue_pages": "21(2): 221-228",
+            "published_date": "2022"
+        },
+        {
+            "title": "Efficient somatic embryogenesis and regeneration from leaf main vein and petiole of Actinidia chinensis Planch. via thin cell layer culture technology. https://doi.org/10.1016/j.scienta.2022.110986",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 11,
+            "volume_issue_pages": "298: 110986",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tetraploid induction through somatic embryogenesis in Panax vietnamensis Ha et Grushv. by colchicine treatment. https://doi.org/10.1016/j.scienta.2022.111254",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "303: 111254",
+            "published_date": "2022"
+        },
+        {
+            "title": "Efficient transgenic plantlet regeneration from hairy roots via somatic embryogenesis and hardening plantlets of Panax vietnamensis by iron nanoparticles-supplied culture. https://doi.org/10.1007/s11240-022-02355-9",
+            "num_authors": 17,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "",
+            "published_date": "2022"
+        },
+        {
+            "title": "Copper nanoparticles enhanced surface disinfection, induction and maturation of somatic embryos in Tuberous begonias (Begonia x tuberhybrida Voss) cultured in vitro. https://doi.org/10.1007/s11240-022-02360-y",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 8,
+            "volume_issue_pages": "151 (2): 385-399",
+            "published_date": "2022"
+        },
+        {
+            "title": "Silver nanoparticles – A positive factor for in vitro flowering and fruiting of purple passion fruit (Passiflora edulis Sim f. edulis). https://doi.org/10.1007/s11240-022-02361-x",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 12,
+            "volume_issue_pages": "151 (2): 401-412",
+            "published_date": "2022"
+        },
+        {
+            "title": "Enhanced shoot and plantlet quality of Gerbera (Gerbera jamesonii Revolution Yellow) cultivar on medium containing silver and cobalt nanoparticles. https://doi.org/10.1016/j.scienta.2022.111445",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 9,
+            "volume_issue_pages": "306: 111445",
+            "published_date": "2022"
+        },
+        {
+            "title": "Micropropagation of Lang Bian ginseng – an endemic medicinal plant. https://doi.org/10.1007/s11240-022-02372-8",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "151 (3): 565-578",
+            "published_date": "2022"
+        },
+        {
+            "title": "Tỷ lệ nảy mầm, khả năng sinh trưởng và sự tích lũy hoạt chất của 5 giống artichoke nhập nội (Cynara scolymus L.) trồng tại tỉnh Lâm Đồng",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 64,
+            "volume_issue_pages": "64(2): 37-42",
+            "published_date": "2022"
+        },
+        {
+            "title": "Xác định giới tính bằng chỉ thị phân tử và vi nhân giống cây Kiwi vàng (Actinidia chinensis)",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 64,
+            "volume_issue_pages": "64(7): 54-59",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đặc điểm sinh trưởng, hàm lượng và chất lượng carrageenan của 2 dòng rong bắp sú (Kappaphycus striatus) sinh trưởng ở vùng biển Khánh Hòa",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 64,
+            "volume_issue_pages": "64(8): 27-33",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ảnh hưởng của nano sắt lên khả năng ra rễ in vitro của cây hoa đồng tiền (Gerbera jamesonii var Revolution Yellow)",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị công nghệ Sinh học Toàn quốc, Đăk Lăk ISBN: 978-604-357-052-6",
+            "journal_ranking": "",
+            "citation_count": 178,
+            "volume_issue_pages": "178-182",
+            "published_date": "2022"
+        },
+        {
+            "title": "Ảnh hưởng của nano coban lên hiện tượng bất thường, sinh trưởng, tích lũy khí ethylen và hoạt tính enzyme kháng oxy hóa trong giai đoạn tái sinh chồi cây African violet (Saintpaulia ionantha Wendl.)",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị công nghệ Sinh học Toàn quốc, Đăk Lăk ISBN: 978-604-357-052-6",
+            "journal_ranking": "",
+            "citation_count": 183,
+            "volume_issue_pages": "183-188",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nano đồng - chất khử trùng mới và hiệu quả trong vi nhân giống cây hoa african violet (Saintpaulia ionantha H. wendl.)",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị công nghệ Sinh học Toàn quốc, Đăk Lăk ISBN: 978-604-357-052-6",
+            "journal_ranking": "",
+            "citation_count": 284,
+            "volume_issue_pages": "284-290",
+            "published_date": "2022"
+        },
+        {
+            "title": "In vitro morphogenesis through GA3-treated spathe of Anthurium carnaval Lind.",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Propagation of Ornamental Plants ISSN 1311-9109",
+            "journal_ranking": "ISI Q4",
+            "citation_count": 22,
+            "volume_issue_pages": "22: 23-30",
+            "published_date": "2022"
+        },
+        {
+            "title": "Influence of led light, salicylic acid and yeast extract on growth and phenolic content of Dendrobium officinale plantlets. DOI: 10.3923/ajps.2023.13.24",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Plant Sciences eISSN: 1812-5697 pISSN: 1682-3974",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 22,
+            "volume_issue_pages": "22(1): 13-24",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tạo chồi in vitro sạch virus cây chanh dây bằng kỹ thuật nuôi cấy mô phân sinh đỉnh",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 65,
+            "volume_issue_pages": "65(2): 61-65",
+            "published_date": "2023"
+        },
+        {
+            "title": "Morphogenesis of in vitro strawberry leaf cultured under clinostat 2D condition. https://doi.org/10.1007/s11240-023-02484-9",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "153 (3): 499-510",
+            "published_date": "2023"
+        },
+        {
+            "title": "Positive effect of silver nanoparticles in micropropagation of Limonium sinuatum (L.) Mill. 'White'. https://doi.org/10.1007/s11240-023-02488-5",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "155 (2): 417-432",
+            "published_date": "2023"
+        },
+        {
+            "title": "Somatic embryogenesis as potential method for commercial propagation in Passiflora edulis Sims f. edulis an important horticultural crop. https://doi.org/10.1016/j.scienta.2023.112020",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 6,
+            "volume_issue_pages": "316: 112020",
+            "published_date": "2023"
+        },
+        {
+            "title": "Effect of explant age on phytochemicals and morphogenesis in begonia.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 155,
+            "volume_issue_pages": "155 (1):",
+            "published_date": "2023"
+        },
+        {
+            "title": "Stem elongation and somatic embryogenesis under red light-emitting diode and subsequent growth of Tuberous begonias (Begonia tuberhybrida Voss) plantlets on medium containing cobalt nanoparticles. https://doi.org/10.1007/s11240-023-02519-1",
+            "num_authors": 12,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 2,
+            "volume_issue_pages": "155 (2): 553-566",
+            "published_date": "2023"
+        },
+        {
+            "title": "Phytohormones produced by Pseudomonas otitidis YWY-9.1 affected on the growth and development of Chrysanthemum plantlets. https://doi.org/10.1007/s11240-023-02536-0",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 3,
+            "volume_issue_pages": "154 (3): 605-618",
+            "published_date": "2023"
+        },
+        {
+            "title": "Silver nanoparticles enhance the in vitro plant regeneration via thin cell layer culture system in purple passion fruit. https://doi.org/10.1007/s11240-023-02566-8",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 1,
+            "volume_issue_pages": "155 (2): 403-415",
+            "published_date": "2023"
+        },
+        {
+            "title": "Improved micropropagation efficiency of purple artichoke (Cynara scolymus L.) plantlet. https://doi.org/10.1016/j.sajb.2023.07.007",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "South African Journal of Botany ISSN: 0254-6299",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 160,
+            "volume_issue_pages": "160: 319-327",
+            "published_date": "2023"
+        },
+        {
+            "title": "Enhanced efficient micropropagation and reduced abnormal phenomena in Phyllanthus amarus plantlets cultured on medium containing silver nanoparticles. https://doi.org/10.1016/j.sajb.2023.10.050",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "South African Journal of Botany ISSN: 0254-6299",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "163: 217-225",
+            "published_date": "2023"
+        },
+        {
+            "title": "Effect of spermidine, glutamine, and proline on somatic embryogenesis and silver nanoparticles supplied culture improved rhizome formation of Panax vietnamensis var. langbianensis.",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "South African Journal of Botany ISSN: 0254-6299",
+            "journal_ranking": "ISI Q2",
+            "citation_count": 163,
+            "volume_issue_pages": "163: 226-236",
+            "published_date": "2023"
+        },
+        {
+            "title": "So sánh hiệu quả phát sinh phôi vô tính từ các nguồn mẫu in vitro của cây sâm Ngọc Linh (Panax vietnamensis Ha et Grushv.)",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 65,
+            "volume_issue_pages": "65 (9): 51-57",
+            "published_date": "2023"
+        },
+        {
+            "title": "Một số hiện tượng bất thường trong vi nhân giống cây hoa cúc (Chrysanthemum morifolium)",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị công nghệ Sinh học Toàn quốc, Hà Nội",
+            "journal_ranking": "",
+            "citation_count": 1028,
+            "volume_issue_pages": "1028-1032",
+            "published_date": "2023"
+        },
+        {
+            "title": "Sự gia tăng sinh trưởng và giảm hiện tượng bất thường trong giai đoạn ra rễ in vitro của cây chanh dây vàng (Passiflora edulis) nuôi cấy dưới ánh sáng LED",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội nghị công nghệ Sinh học Toàn quốc, Hà Nội",
+            "journal_ranking": "",
+            "citation_count": 1033,
+            "volume_issue_pages": "1033-1038",
+            "published_date": "2023"
+        },
+        {
+            "title": "Selenium nanoparticles promote adventitious rooting without callus formation at the base of passion fruit cuttings via hormonal homeostasis changes. https://doi.org/10.1016/j.scienta.2023.112485",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 323,
+            "volume_issue_pages": "323: 112485",
+            "published_date": "2024"
+        },
+        {
+            "title": "Meta-topolin and silica nanoparticles induced vigorous carnation plantlet via regulation of antioxidant status and mineral absorption. https://doi.org/10.1016/j.scienta.2024.112877",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientia Horticulturae ISSN: 0304-4238",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 327,
+            "volume_issue_pages": "327: 112877",
+            "published_date": "2024"
+        },
+        {
+            "title": "Phát sinh hình thái in vitro, hoạt tính enzyme kháng ôxy hóa và tích lũy hợp chất thứ cấp của mẫu lóng thân cây Diệp hạ châu đẳng (Phyllanthus amarus) dưới điều kiện Clinostat 2D",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 66,
+            "volume_issue_pages": "66 (2): 49-54",
+            "published_date": "2024"
+        },
+        {
+            "title": "Enhanced rooting in in vitro derived shootlets of Jasminanthes tuyetanhiae Τ.Β. Tran & Rodda (Apocynaceae, Asclepiadoideae) through microponic system. https://doi.org/10.1007/s11240-024-02753-1",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 27,
+            "volume_issue_pages": "157: 27",
+            "published_date": "2024"
+        },
+        {
+            "title": "Xác định đa dạng di truyền bằng chỉ thị phân tử và khả năng tái sinh chồi in vitro của các giống dâu tây tại Lâm Đồng",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Việt Nam ISSN: 1859-4794",
+            "journal_ranking": "",
+            "citation_count": 66,
+            "volume_issue_pages": "66(5): 57-63",
+            "published_date": "2024"
+        },
+        {
+            "title": "Coconut fiber improved the quality and abnormalities of Passiflora edulis Sims plantlet in microponic system",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Journal of Plant Sciences eISSN: 1812-5697 pISSN: 1682-3974",
+            "journal_ranking": "ISI Q3",
+            "citation_count": 23,
+            "volume_issue_pages": "23(2): 281-289",
+            "published_date": "2024"
+        },
+        {
+            "title": "The role of MoO3NPs on regeneration, growth and development of chrysanthemum cultured in vitro",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Plant Cell, Tissue and Organ Culture eISSN: 1573-5044 pISSN: 0167-6857",
+            "journal_ranking": "ISI Q1",
+            "citation_count": 158,
+            "volume_issue_pages": "158:4",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Ảnh hưởng của nano kim loại lên khả năng phát sinh hình thái cây Thu hải đường (Begonia tuberous) nuôi cấy in vitro",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Viện Nghiên cứu Khoa học Tây Nguyên (ĐT Cơ sở)",
+            "period": "01/2021-12/2021",
+            "acceptance_date": "27/12/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu ảnh hưởng của nano bạc, coban và sắt lên sự sinh trưởng và một số chỉ tiêu sinh lý – sinh hóa của cây African violet nuôi cấy in vitro",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Viện Nghiên cứu Khoa học Tây Nguyên (ĐT Cơ sở)",
+            "period": "01/2022-12/2022",
+            "acceptance_date": "30/12/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu vai trò của nano bạc, nano cobalt và nano sắt trong việc khắc phục một số hiện tượng bất thường và gia tăng chất lượng cây hoa Đồng tiền (Gerbera jamesonii) nuôi cấy in vitro",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Quỹ đổi mới sáng tạo VINGROUP (ĐT Sau tiến sĩ)",
+            "period": "11/2021-11/2022",
+            "acceptance_date": "05/12/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Thiết lập phương pháp mới trong khử trùng mẫu, môi trường nuôi cấy và khắc phục một số hiện tượng bất thường trong vi nhân giống trên một số đối tượng cây trồng có giá trị kinh tế",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Quỹ Phát triển Khoa học và Công nghệ Quốc gia",
+            "period": "4/2020-4/2023",
+            "acceptance_date": "21/6/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Hiện tượng bất thường trong nuôi cấy in vitro một số cây thân gỗ và cây hoa",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Viện Nghiên cứu Khoa học Tây Nguyên (Cơ sở)",
+            "period": "01/2023-12/2023",
+            "acceptance_date": "25/12/2023",
+            "rating": "Khá"
+        },
+        {
+            "title": "Gia tăng khả năng ra rễ và chất lượng cây cam thảo đá bia (Jasminanthes tuyetanhiae) và chanh dây",
+            "role": "Principal Investigator",
+            "project_code": "",
+            "management_level": "Quỹ đổi mới sáng tạo VINGROUP (ĐT Sau tiến sĩ)",
+            "period": "11/2023-4/2024",
+            "acceptance_date": "25/04/2024",
+            "rating": "Đạt"
+        }
+    ],
+    "books": [
+        {
+            "title": "LEDs and their potential in somatic embryogenesis of Panax vietnamensis Ha et Grushv",
+            "type": "Monograph",
+            "publisher": "Springer",
+            "publish_year": "2017",
+            "num_authors": 5,
+            "is_editor_in_chief": false,
+            "compiled_pages": "321-330",
+            "verification_document_id": "27/5/2024"
+        },
+        {
+            "title": "Enhanced growth and development of Cymbidium and Phalaenopsis plantlets cultured in vitro under light-emitting diodes",
+            "type": "Monograph",
+            "publisher": "Springer Protocols, Humana Press, New York",
+            "publish_year": "2018",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "209-223",
+            "verification_document_id": "27/5/2024"
+        },
+        {
+            "title": "Plant tissue culture: New techniques and application in horticultural species of tropical region",
+            "type": "Monograph",
+            "publisher": "Springer Nature, Singapore",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "25-62",
+            "verification_document_id": "27/5/2024"
+        },
+        {
+            "title": "Plant tissue culture: New techniques and application in horticultural species of tropical region",
+            "type": "Monograph",
+            "publisher": "Springer Nature, Singapore",
+            "publish_year": "2022",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "91-397",
+            "verification_document_id": "27/5/2024"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Tổ biên soạn Chương trình đào tạo trình độ Tiến sĩ chỉnh sửa, bổ sung năm 2022, Ngành Sinh lý học thực vật, Mã số 9 42 01 12.",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Số: 244/QĐ-HVKHCN ngày 15/03/2022",
+            "certifying_authority": "Học viện Khoa học và Công nghệ",
+            "implementation_document_id": "",
+            "notes": ""
+        }
+    ]
+}

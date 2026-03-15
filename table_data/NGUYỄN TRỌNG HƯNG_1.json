@@ -1,0 +1,1291 @@
+{
+    "papers": [
+        {
+            "title": "Xác định và so sánh mức đường huyết sau ăn bánh trung thu sử dụng đường Isomalt và bánh trung thu truyền thống sử dụng đường sacarosse",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1, số 1, tr: 41-48",
+            "published_date": "12/2005"
+        },
+        {
+            "title": "Xác định chỉ số đường huyết của bánh dẻo Trung Thu dinh dưỡng có sử dụng đường Isomalt",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 4, số 1, tr: 47-52",
+            "published_date": "04/2008"
+        },
+        {
+            "title": "Xác định chỉ số đường huyết của bánh dẻo trung thu dinh dưỡng (hương đậu xanh lá dứa, hạt sen trà xanh, đậu xanh gấc) có sử dụng đường Isomalt",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 4, số 3+4 tr: 155-159",
+            "published_date": "12/2008"
+        },
+        {
+            "title": "Đánh giá hiệu quả nuôi dưỡng qua ống thông dạ dày bằng các thực phẩm địa phương trên người bệnh khoa điều trị tích cực",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 4, số 3+4, tr: 185-193",
+            "published_date": "12/2008"
+        },
+        {
+            "title": "Đánh giá thực trạng khẩu phần, thói quen ăn uống của người tăng acid uric máu và bệnh nhân Gout",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 1, tr: 60-68",
+            "published_date": "05/2011"
+        },
+        {
+            "title": "Đánh giá hiệu quả của tư vấn chế độ ăn cho bệnh nhân Gout dựa trên các thực phẩm sẵn có của Việt Nam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 7, số 2, tr: 26-35",
+            "published_date": "06/2011"
+        },
+        {
+            "title": "Up-regulation of stanniocalcin 1 expression by 1,25-dihydroxy vitamin D3 and parathyroid hormone in renal proximal tubular cells",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Clinical Biochemistry and Nutrition Online ISSN: 1880-5086 Print ISSN: 0912-0009 ISSN-L: 0912-0009",
+            "journal_ranking": "Scopus",
+            "citation_count": 9,
+            "volume_issue_pages": "Volume 50(3), pp: 227-233",
+            "published_date": "May,2012"
+        },
+        {
+            "title": "Prevalence of Metabolic Syndrome in Rural Areas of Vietnam: A Selected-Randomized Study",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Archives of Pharmacy Practice ISSN:2320-5210 E-ISSN:2045-080X",
+            "journal_ranking": "Scopus",
+            "citation_count": 12,
+            "volume_issue_pages": "Volume 10(2), pp: 43-50",
+            "published_date": "April-June, 2019"
+        },
+        {
+            "title": "Prevalence of Diabetes and Prediabetes among Children Aged 11-14 Years Old in Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Diabetes Research ISSN: 2314-6753 (Electronic); 2314-6745 (Print)",
+            "journal_ranking": "Scopus",
+            "citation_count": 10,
+            "volume_issue_pages": "Volume 2020, Article ID 7573491, 8 page",
+            "published_date": "Mar, 2020"
+        },
+        {
+            "title": "Global Mapping of Interventions to Improve Quality of Life of People with Diabetes in 1990-2018",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Environmental Research and Public Health ISSN:1660-4601",
+            "journal_ranking": "Scopus",
+            "citation_count": 20,
+            "volume_issue_pages": "Volume 17, pp: 1597",
+            "published_date": "Mar, 2020"
+        },
+        {
+            "title": "Prevalence of Dyslipidemia and associated factors among adults in rural Vietnam",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Systematic Reviews in Pharmacy Print ISSN: 0975-8453, E-ISSN: 0976-2779",
+            "journal_ranking": "Scopus",
+            "citation_count": 7,
+            "volume_issue_pages": "Volume 11(1), pp: 185-191",
+            "published_date": "Jan-June, 2020"
+        },
+        {
+            "title": "Efficacy of probiotics on digestive disorders and acute respiratory infections: a controlled clinical trial in young Vietnamese children",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "European Journal of Clinical Nutrition ISSN: 1476-5640 (online); 0954-3007(print)",
+            "journal_ranking": "Scopus",
+            "citation_count": 22,
+            "volume_issue_pages": "Volume 75, pp: 513-520",
+            "published_date": "Sep, 2020"
+        },
+        {
+            "title": "The Current Situation of Anemia and Zinc Deficiency of Children Ages 6-59 Months with Anorexia Who Examined at National Institute of Nutrition",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Systematic Reviews in Pharmacy Print ISSN: 0975-8453, E-ISSN: 0976-2779",
+            "journal_ranking": "ESCI",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 12(1), pp: 1422-1425",
+            "published_date": "January, 2021"
+        },
+        {
+            "title": "Nutritional status, eating habits and foods intake by gestational diabetes patients in National Hospital of Endocrinology",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Complementary Medicine Research ISSN:2577-5669",
+            "journal_ranking": "ESCI",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 12(2), pp: 143-151",
+            "published_date": "May, 2021"
+        },
+        {
+            "title": "Fiber-focused Nutrition counseling through nutrition software improved HbA1C of Vietnamese type 2 diabetes mellitus patients",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Dietetics ISSN:2434-2688",
+            "journal_ranking": "International Journal",
+            "citation_count": 3,
+            "volume_issue_pages": "Volume 2(2), pp:65-70",
+            "published_date": "Dec, 2020"
+        },
+        {
+            "title": "Nutritional Status of Children Ages 6-59 Months with Anorexia Who Examined at National Institute of Nutrition",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Pharmaceutical Research ISSN:0975-2366",
+            "journal_ranking": "Scopus",
+            "citation_count": 10,
+            "volume_issue_pages": "Volume 12(4), pp:3902-3906",
+            "published_date": "Oct-Dec, 2020"
+        },
+        {
+            "title": "Prevalence and Factors Related to Metabolic Syndrome in Xo Dang Patients at Kon Tum General Hospital, Vietnam",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Pharmaceutical Research International ISSN:2456-9119",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 33(60B), pp: 2258-2266",
+            "published_date": "December, 2021"
+        },
+        {
+            "title": "Effect of nutrition intervention on the prevalence of metabolic syndrome at Kon Tum General Hospital, Vietnam",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Complementary Medicine Research ISSN:2577-5669",
+            "journal_ranking": "ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 13(2), pp: 24-28",
+            "published_date": "May, 2022"
+        },
+        {
+            "title": "Associated Factors of Nutritional Status Among Patients with Both Type 2 Diabetes Mellitus and Hypertension: A Cross-Sectional Study",
+            "num_authors": 9,
+            "is_main_author": true,
+            "journal_name_ISSN": "Medical Research Archives ISSN:2375-1924 PubMed ID:101668511",
+            "journal_ranking": "PubMed-indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 10(5), pp:1-10",
+            "published_date": "May, 2022"
+        },
+        {
+            "title": "Experience of Inpatients at the Oncology Center of Phu Tho Provincial General Hospital and Some Related Factors",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Medical Research Archives ISSN:2375-1924 PubMed ID:101668511",
+            "journal_ranking": "PubMed-indexed",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 10(5), pp:1-10",
+            "published_date": "May, 2022"
+        },
+        {
+            "title": "COVID-19 and Virtual Nutrition: A Pilot Study of IntegratingDigital Food Models for Interactive Portion Size Education",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nutrients ISSN:2072-6643",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 14, pp 3313",
+            "published_date": "Aug, 2022"
+        },
+        {
+            "title": "Nutritional status and dietary intake before hospital admission of pulmonary tuberculosis patients",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Aims Public Health ISSN:2327-8994",
+            "journal_ranking": "Scopus",
+            "citation_count": 3,
+            "volume_issue_pages": "Volume 10(2), pp:443-455",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Mitigating errors in mobile-based dietary assessments: Effects of a data modification process on the validity of an image-assisted food and nutrition app",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nutrition ISSN:1873-1244",
+            "journal_ranking": "International Journal",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 116(2023) 112212, pp:1-8",
+            "published_date": "Sep, 2023"
+        },
+        {
+            "title": "Assessing the relationship between Body Mass Index and Bone Mineral Density in a clinical-based sample of Vietnamese aged 20-50: A generalized linear regression analysis",
+            "num_authors": 7,
+            "is_main_author": true,
+            "journal_name_ISSN": "Human Nutrition & Metabolism ISSN:2666-1497",
+            "journal_ranking": "Scopus",
+            "citation_count": 1,
+            "volume_issue_pages": "Volume 35 (2024) 200241, pp:1-6",
+            "published_date": "Jan, 2024"
+        },
+        {
+            "title": "Hiệu quả bổ sung Vibozyme trong cải thiện biếng ăn, tình trạng dinh dưỡng ở trẻ 12-36 tháng tuổi sau sử dụng kháng sinh tại Bắc Ninh",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, số 1, tr: 73-81",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Hiệu quả dinh dưỡng điều trị rối loạn chuyển hóa lipid ở bệnh nhân tăng men gan, đái tháo đường",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 13, số 4, tr: 106-110",
+            "published_date": "06/2017"
+        },
+        {
+            "title": "Đặc điểm khẩu phần ăn và tập tính dinh dưỡng của bệnh nhân đái tháo đường thai kỳ tại Bệnh viện Nội tiết Trung ương 2017",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 446, số 1, tr: 57-61",
+            "published_date": "05/2018"
+        },
+        {
+            "title": "Đặc điểm đái tháo đường thai kỳ ở bệnh nhân đến khám tại Bệnh viện Nội tiết Trung ương năm 2017",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 446, số 1, tr: 101-105",
+            "published_date": "05/2018"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của bệnh nhân viêm gan nằm điều trị nội trú tại Bệnh viện đa khoa thành phố Thái Bình năm 2017",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14, số 3, tr:32-36",
+            "published_date": "06/2018"
+        },
+        {
+            "title": "Thực trạng khẩu phần của trẻ suy dinh dưỡng thấp còi 24-72 tháng tuổi tại một số xã thuộc tỉnh Hà Giang",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 468, số 2, tr: 97-101",
+            "published_date": "07/2018"
+        },
+        {
+            "title": "Một số chỉ số đánh giá tình trạng dinh dưỡng lipid ở bệnh nhân viêm gan điều trị nội trú tại Bệnh viện đa khoa Thành phố Thái Bình 2017",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14, số 4, tr: 75-79",
+            "published_date": "07/2018"
+        },
+        {
+            "title": "Thực trạng khẩu phần của trẻ suy dinh dưỡng thấp còi 24-60 tháng tuổi tại 2 xã, huyện Yên Sơn, tỉnh Tuyên Quang",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 14, số 5, tr: 17-22",
+            "published_date": "09/2018"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng và một số yếu tố liên quan ở bệnh nhân đái tháo đường type II khi nhập viện tại Bệnh viện Nội tiết Trung ương, năm 2017-2018",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN:2354-080X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 113, số 4, tr: 38-45",
+            "published_date": "09/2018"
+        },
+        {
+            "title": "Đánh giá sự hiểu biết về chế độ ăn của người bệnh sau mổ cắt dạ dày tại Bệnh viện Hữu nghị Việt Đức",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 472, số 1, tr: 151-154",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Hiệu quả bổ sung Vibozyme trong cải thiện tình trạng vi chất, đặc điểm phân của trẻ biếng ăn, 12-36 tháng tuổi, sau sử dụng kháng sinh",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN:1859-1663",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1083, số 10, tr: 154-157",
+            "published_date": "2018"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị bệnh còi xương ở trẻ 6-36 tháng tuổi đến khám tại Viện Dinh Dưỡng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 474, số 1, tr: 73-76",
+            "published_date": "01/2019"
+        },
+        {
+            "title": "Thực trạng thiếu vitamin D ở trẻ 6-36 tháng tuổi còi xương đến khám tại Viện Dinh Dưỡng",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 474, số 1, tr: 133-136",
+            "published_date": "01/2019"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng của bệnh nhân Đái tháo đường thai kỳ tại Bệnh viện Nội tiết Trung ương năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 475, số 1&2, tr: 53-56",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Đặc điểm lâm sàng của bệnh còi xương ở trẻ 6-36 tháng tuổi đến khám tại Viện Dinh Dưỡng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 475, số 1&2, tr: 99-102",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của bệnh nhi 6-60 tháng tuổi mắc bệnh nhiễm trùng hô hấp cấp tính điều trị nội trú tại hai bệnh viện tuyến huyện ở Thái Bình năm 2017",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 15, số 1, tr: 18-24",
+            "published_date": "03/2019"
+        },
+        {
+            "title": "Thực trạng Hội chứng chuyển hóa của người bệnh điều trị nội trú tại khoa Nội, Bệnh viện Đa khoa Quỳnh Phụ, Thái Bình năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 477, số 2, tr: 33-37",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh Đái tháo đường type 2 có tổn thương thận tại khoa Thận-Tiết niệu, Bệnh viện Nội tiết Trung ương năm 2018-2019",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 477, số 2, tr: 76-80",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Mô tả kiến thức về Hội chứng chuyển hóa của người bệnh điều trị nội trú tại khoa Nội, Bệnh viện Đa khoa Quỳnh Phụ, Thái Bình năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 477, số 2, tr: 134-138",
+            "published_date": "04/2019"
+        },
+        {
+            "title": "Nuôi dưỡng và chăm sóc trẻ nhỏ: Thực trạng và giải pháp cải thiện tình trạng dinh dưỡng",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 15, số 2, tr: 29-34",
+            "published_date": "05/2019"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng và khẩu phần của bệnh nhân mắc bệnh phổi tắc nghẽn mạn tính tại Bệnh viện đa khoa Đức Giang năm 2018",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN:1859-1663",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1100, số 6, tr: 11-14",
+            "published_date": "06/2019"
+        },
+        {
+            "title": "Hiệu quả của sản phẩm dinh dưỡng giàu vi chất dinh dưỡng và bổ sung lợi khuẩn Bifidobacterium lactis trên trẻ từ 3-6 tuổi tại một số trường mẫu giáo tại Bắc Ninh",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 29, số 5, tr: 9-14",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến dinh dưỡng bệnh nhân đái tháo đường type II tại Bệnh viện Nội tiết Trung ương, năm 2017-2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 29, số 5, tr: 55-61",
+            "published_date": "07/2019"
+        },
+        {
+            "title": "Tình trạng suy dinh dưỡng ở trẻ dưới 5 tuổi dân tộc Thái tại huyện Quan Hóa, tỉnh Thanh Hóa năm 2019",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 481, số 2, tr: 43-47",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Đặc điểm bệnh lao phổi ở người bệnh điều trị tại khoa Lao hô hấp, Bệnh viện Phổi Trung ương năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 481, số 2, tr: 149-153",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng theo phương pháp SGA và một số yếu tố liên quan của bệnh lao phổi ở người bệnh điều trị tại khoa Lao hô hấp, Bệnh viện Phổi Trung ương năm 2018",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 481, số 2, tr: 226-230",
+            "published_date": "08/2019"
+        },
+        {
+            "title": "Thực hành và một số yếu tố ảnh hưởng đến nuôi con bằng sữa mẹ của các bà mẹ có con từ 6-12 tháng tuổi tại Quận Ninh Kiều, TP. Cần Thơ năm 2019.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y tế công cộng ISSN:1859-1132",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 49, tr: 46-54",
+            "published_date": "09/2019"
+        },
+        {
+            "title": "Effects of nutrient supplementation on micronutrient status and IGF-1 factor of the stunting children at 2 communes, Yen Son district, Tuyen Quang",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Jounal of Preventive Medicine ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Volume 29(14), pp: 45-53",
+            "published_date": "2019"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng theo phương pháp nhân trắc học ở người bệnh lao phổi trước khi nhập viện tại Bệnh viện Phổi Trung ương năm 2019-2020",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 2, tr: 96-102",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "Hội chứng chuyển hóa ở người bệnh Đái tháo đường type 2 điều trị nội trú tại Bệnh viện Nội tiết Trung ương năm 2019-2020",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 2, tr: 112-119",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh Đái tháo đường type 2 khi nhập viện tại Bệnh viện Nội tiết Trung ương năm 2019-2020",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 2, tr: 120-127",
+            "published_date": "04/2020"
+        },
+        {
+            "title": "Tỷ lệ suy dinh dưỡng của người bệnh ung thư gan đang điều trị tại Trung tâm Ung bướu thuộc Bệnh viện Bãi Cháy, tỉnh Quảng Ninh năm 2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 3+4, tr: 67-75",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Thói quen ăn uống của người bệnh ung thư gan đang điều trị tại Trung tâm Ung bướu thuộc Bệnh viện Bãi Cháy, tỉnh Quảng Ninh năm 2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 3+4, tr: 76-84",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng và đặc điểm khẩu phần trước và sau mổ mở ở người bệnh u xơ tử cung điều trị tại Bệnh viện Phụ sản tỉnh Thái Bình năm 2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 3+4, tr: 92-101",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Thực trạng kiến thức, thực hành dinh dưỡng của người bệnh mắc bệnh thận và/hoặc người chăm sóc tại Bệnh viện Nhi Trung ương",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 3+4, tr:112-120",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng của bệnh nhân đái tháo đường type 2 mắc kèm tăng huyết áp tại Bệnh viện Nội tiết Trung Ương năm 2019-2020",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN:1859-1663",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1138, sô 6, tr: 34-38",
+            "published_date": "07/2020"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng theo phương pháp SGA & đặc điểm khẩu phần ăn trước khi nhập viện của người bệnh lao phổi tại Bệnh viện Phổi Trung Ương năm 2019-2020",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học thực hành ISSN:1859-1663",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 1138, số 6, tr: 89-92",
+            "published_date": "07/2020"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của trẻ 6-36 tháng tuổi khám tư vấn dinh dưỡng tại Viện Dinh Dưỡng năm 2018",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN:2354-080X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 129, số 5, tr: 270-276",
+            "published_date": "07/2020"
+        },
+        {
+            "title": "Thực trạng khẩu phần của một số trẻ em mắc bệnh thận tại Bệnh viện Nhi Trung ương",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 5, tr: 1-7",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Thực trạng chăm sóc dinh dưỡng của bệnh nhi 06-60 tháng tuổi mắc bệnh nhiễm trùng hô hấp cấp tính điều trị nội trú tại hai bệnh viện tuyến huyện ở Thái Bình năm 2017",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 5, tr: 55-66",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Ứng dụng chất điều vị để giảm tiêu thụ muối trong chế độ ăn tốt cho sức khỏe",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 5, tr: 112-118",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng người bệnh trước và sau mổ chấn thương sọ não tại Bệnh viện Đa khoa tỉnh Phú Thọ và một số yếu tố liên quan",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 30, số 7, tr: 109-117",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng bệnh nhân Đái tháo đường thai kỳ khám và điều trị nội trú tại Bệnh viện Nội tiết Trung ương năm 2018",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 30, số 7, tr: 118-125",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Khảo sát chế độ ăn cho phép kiểm soát đường huyết ở thai phụ đái tháo đường thai kỳ điều trị ngoại trú tại bệnh viện Từ Dũ năm 2019",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 6, tr: 19-26",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của thai phụ đái tháo đường thai kỳ điều trị ngoại trú tại bệnh viện Từ Dũ năm 2019",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 16, số 6, tr: 55-64",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Điều tra tỷ lệ rối loạn Glucose máu và các yếu tố nguy cơ Đái tháo đường típ 2 ở trẻ em lứa tuổi 11-14 toàn quốc năm 2018",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nội tiết và Đái tháo đường ISSN:1859-4727",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 42, tr: 72-79",
+            "published_date": "2020"
+        },
+        {
+            "title": "Kiến thức về dinh dưỡng và một số yếu tố liên quan của người bệnh đái tháo đường type 2 điều trị ngoại trú tại Bệnh viện Đa khoa Đông Anh, Hà Nội năm 2020",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, sô 1, tr: 23-32",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh đái tháo đường type 2 điều trị nội trú tại bệnh viện Nội Tiết Trung ương năm 2020",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 1, tr: 40-48",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Thực trạng chế độ dinh dưỡng của người bệnh Đái tháo đường type 2 có tổn thương thận tại Khoa Thận-tiết niệu, Bệnh viện Nội tiết Trung ương năm 2018 - 2019",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 31, số 2, tr: 96-102",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Thực hành về chế độ ăn của người bệnh sau mổ cắt dạ dày tại Bệnh viện Việt Đức năm 2017-2018",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 31, số 2, tr: 103-109",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Thực hành về dinh dưỡng và một số yếu tố liên quan của người bệnh đái tháo đường type 2 điều trị ngoại trú tại bệnh viện đa khoa Đông Anh, Hà Nội năm 2020",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, sô 2, tr: 9-17",
+            "published_date": "05/2021"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh Đái tháo đường type II khi nhập viện tại Bệnh viện Đại học Y Hà Nội năm 2020",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 3, tr: 17-26",
+            "published_date": "07/2021"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh đái tháo đường type 2 điều trị ngoại trú tại Bệnh viện Đa khoa Đông Anh, Hà Nội năm 2020",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN:2354-080X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 144, số 8, tr: 91-99",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng và thiếu máu thiếu sắt của người bệnh thận mạn lọc máu có chu kỳ tại Bệnh viện Bạch Mai năm 2019",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN:2354-080X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 144, số 8, tr: 394-400",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến Hội chứng chuyển hóa ở người trưởng thành khám bệnh tại Viện Dinh dưỡng, năn 2020",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Quân sự ISSN:1859-1655",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 353, tr: 100-104",
+            "published_date": "7-8/2021"
+        },
+        {
+            "title": "Khẩu phần ăn trước điều trị I-131 của người bệnh ung thư tuyến giáp tại Bệnh viện Nội tiết Trung ương năm 2020-2021",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN:2354-080X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 146, số 10, tr: 64-70",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng và đặc điểm khẩu phần của người bệnh đái tháo đường type 2 tại Bệnh viện Đa khoa Xanh Pôn năm 2019-2020",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN:2354-080X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 146, số 10, tr: 130-139",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng và một số yếu tố liên quan của người bệnh đái tháo đường type 2 điều trị tại Bệnh viện Nội tiết Trung ương năm 2020",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN:2354-080X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 146, số 10, tr: 150-157",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Thực trạng tuân thủ dinh dưỡng của người bệnh đái tháo đường type 2 điều trị ngoại trú tại Bệnh viện Nội tiết Trung ương năm 2021 và một số yếu tố liên quan",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN:2354-080X",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 146, số 10, tr: 158-166",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Cải thiện tình trạng tiêu hóa và nhiễm khuẩn hô hấp ở trẻ 2-5 tuổi suy dinh dưỡng thấp còi sau 9 tháng bổ sung sản phẩm dinh dưỡng tại Tuyên Quang",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 4, tr: 39-47",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Hội chứng chuyển hóa của người trưởng thành đến khám tại Viện Dinh dưỡng năm 2020",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 4, tr: 48-54",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Kết quả tư vấn dinh dưỡng cho người bệnh Gout đang điều trị nội trú tại khoa Lão khoa Bệnh viện Đa khoa tỉnh Hải Dương năm 2020",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 5, tr: 40-47",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh viêm gan điều trị nội trú tại Bệnh viện Đa khoa tỉnh Hoà Bình năm 2020",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 6, tr: 26-36",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh mắc Gout tại khoa Lão khoa Bệnh viện tỉnh Hải Dương",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 6, tr: 54-60",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Một số đặc điểm khẩu phần của người bệnh viêm gan điều trị nội trú tại Bệnh viện Đa khoa tỉnh Hoà Bình năm 2020",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 6, tr: 68-77",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Chế độ ăn giảm muối để nâng cao sức khoẻ tim mạch & kiểm soát tăng huyết áp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 6, tr: 78-86",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "Hiệu quả cải thiện tình trạng dinh dưỡng và khẩu phần ở trẻ 2-5 tuổi suy dinh dưỡng thấp còi sau bổ sung sản phẩm dinh dưỡng giàu vi chất dinh dưỡng tại tỉnh Tuyên Quang năm 2016",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 31, số 7, tr: 133-143",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tuân thủ dùng thuốc của người bệnh đái tháo đường type 2 điều trị ngoại trú tại Khoa khám bệnh, Bệnh viện Nội tiết Trung ương cơ sở Ngọc Hồi năm 2021",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 31, số 8, tr: 48-54",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tình trạng suy dinh dưỡng thấp còi của trẻ 6-23 tháng tuổi tại xã Tân Thịnh, huyện Nam Trực, tỉnh Nam Định, 2020",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Khoa học Nghiên cứu Sức khỏe và Phát triển ISSN:2588-1442",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 5, số 3, tr:94-101",
+            "published_date": "2021"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của thai phụ mắc Đái tháo đường thai kỳ tại Bệnh viện Nội tiết Trung ương năm 2020-2021",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và Thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 18, số 1, tr: 10-19",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh ung thư tuyến giáp trước điều trị I-131 tại Bệnh viện Nội tiết Trung ương năm 2020-2021",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và Thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 18, số 1, tr: 72-79",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Sự hài lòng của người bệnh với dịch vụ y tế tại khoa Điều trị theo yêu cầu, Bệnh viện Phụ sản Trung Ương năm 2021",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 512, số 1, tr: 155-159",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Nutritional status of children with autism spectrum disorder at caring centers for autistic children in Vietnam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Health and Development Studies (Tạp chí Khoa học Nghiên cứu Sức khỏe và Phát triển) ISSN:2588-1442",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 6, No 2, pp:118-126",
+            "published_date": "04/2022"
+        },
+        {
+            "title": "Nutritional status of patients before Gastrointestinal surgery prepared at Vietnam-Germany Friendship hospital in 2021-2022",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "VN J Nutr Food (Tạp chí Dinh dưỡng & Thực phẩm) ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 18, No 2E, pp: 54-60",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Nutritional status of patients before Stomach surgery at Thai Binh Provincial General hospital in 2019",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "VN J Nutr Food (Tạp chí Dinh dưỡng và Thực phẩm) ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 18, No 2E, pp: 61-69",
+            "published_date": "06/2022"
+        },
+        {
+            "title": "Validation of brief autism mealtime behavior inventory (BAMBI) questionnaire in Vietnam in 2021",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Vietnam Journal of Preventive Medicine (Tạp chí Y học dự phòng) ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 32, No 4, pp: 32-38",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng ở trẻ tự kỷ và các yếu tố liên quan tại một số Trung tâm chăm sóc trẻ tự kỷ tại Việt Nam năm 2021",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nhi khoa ISSN:1859-3860",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 15, số 5, tr: 79-87",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Vai trò của dinh dưỡng đậu nành đối với sức khỏe tim mạch",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và Thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 18, số 3+4, tr: 11-17",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Thực trạng hài lòng của người bệnh tại Khoa Điều trị theo yêu cầu, Bệnh viện Phụ sản Trung ương năm 2021",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học dự phòng ISSN:0868-2836",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 32, số 8, tr: 102-108",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Thực trạng nuôi con bằng sữa mẹ của sản phụ sau sinh trong thời gian nằm viện tại khoa sản Bệnh viện Quốc tế Hạnh phúc tỉnh Bình Dương năm 2022 và một số yếu tố liên quan",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Cộng đồng (Vietnam Journal of Community Medicine) ISSN:2354-0613",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 64, số 3, tr:110-117",
+            "published_date": "04/2023"
+        },
+        {
+            "title": "Factors associated with nutritional status of inpatients with Type 2 Diabetes at Hanoi Medical University hospital, 2020",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "VN J Nutr Food (Tạp chí Dinh dưỡng và Thực phẩm) ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 19, No 3E, pp: 33-40",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Nutritional status of patients before Thyroid surgical at the National hospital of Endocrinology in 2022",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "VN J Nutr Food (Tạp chí Dinh dưỡng và Thực phẩm) ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 19, No 3E, pp: 41-47",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Nutritional status of the patients visited the Nutrition Counselling Center of Vietnam National Institute of Nutrition",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "VN J Nutr Food (Tạp chí Dinh dưỡng và Thực phẩm) ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 19, No 3E, pp: 59-66",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Hội chứng chuyển hóa của người trưởng thành đến khám tại Viện Dinh Dưỡng năm 2022-2023",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Cộng đồng (Vietnam Journal of Community Medicine) ISSN:2354-0613",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol 64, Special Issue 10, pp: 75-81",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng ở người bệnh đái tháo đường type 2 tại bệnh viện Nội tiết Trung Ương, năm 2022",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Health and Development Studies (Tạp chí Khoa học Nghiên cứu Sức khỏe và Phát triển) ISSN:2588-1442",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 07, Số 06, tr: 73-80",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Mô tả đặc điểm cấu trúc cơ thể của người bệnh đái tháo đường typ 2 điều trị nội trú tại bệnh viện 199 bằng phân tích điện trở kháng sinh học BIA",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nội tiết và đái tháo đường ISSN:1859-4727",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 65, tr: 47-55",
+            "published_date": "2023"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng của người bệnh tăng huyết áp điều trị ngoại trú tại Bệnh viện đa khoa Sầm Sơn năm 2022",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Dinh dưỡng và Thực phẩm ISSN:1859-0381",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 20, số 1, tr: 36-43",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Nghiên cứu mối liên quan giữa chế độ dinh dưỡng với hiệu quả điều trị của bệnh nhân đái tháo đường type 2 tại Bệnh viện 199",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN:1859-1868",
+            "journal_ranking": "National Journal",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537, số 1, tr: 159-163",
+            "published_date": "04/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Hiệu quả của bổ sung Dielac-growplus lên tình trạng dinh dưỡng, vi chất, tiêu hóa và nhiễm khuẩn hô hấp của trẻ 2-5 tuổi suy dinh dưỡng thấp còi tại tỉnh Tuyên Quang",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2015-2016",
+            "acceptance_date": "18/10/2016",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Hiệu quả bổ sung Dielac-Grow đến tình trạng dinh dưỡng, nhiễm khuẩn hô hấp và tiêu hóa của trẻ 2-6 tuổi tại 2 xã thuộc tỉnh Hà Giang",
+            "role": "Co-Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2016-2017",
+            "acceptance_date": "08/06/2017",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đánh giá khẩu phần, tình trạng dinh dưỡng và một số đặc điểm của bệnh nhân đái tháo đường thai kỳ tại Bệnh viện Nội tiết Trung ương",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2017",
+            "acceptance_date": "22/12/2017",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đánh giá tình trạng dinh dưỡng và chất lượng cuộc sống của người bệnh ung thư gan điều trị tại Trung tâm Ung bướu Bệnh viện Bãi Cháy tỉnh Quảng Ninh năm 2019",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2020",
+            "acceptance_date": "25/9/2020",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Hội chứng chuyển hóa và một số yếu tố liên quan của người trưởng thành đến khám tại Viện Dinh dưỡng năm 2020",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2019-2020",
+            "acceptance_date": "30/12/2020",
+            "rating": "Khá"
+        },
+        {
+            "title": "Xác định chỉ số đường huyết của sản phẩm dinh dưỡng Neomil Diabetes",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2021",
+            "acceptance_date": "15/4/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xác định chỉ số đường huyết của sản phẩm dinh dưỡng Medi Diet",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2021",
+            "acceptance_date": "22/4/2021",
+            "rating": "Khá"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng và kết quả tư vấn cho người bệnh Gout tại Bệnh viện Đa khoa tỉnh Hải Dương năm 2020",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2021",
+            "acceptance_date": "06/12/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng, tình trạng loãng xương và một số yếu tố liên quan của người trưởng thành đến khám tại Viện Dinh dưỡng năm 2021",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2021",
+            "acceptance_date": "09/05/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Tình trạng dinh dưỡng và một số yếu tố liên quan đến dự báo xác suất gãy xương cho người trưởng thành",
+            "role": "Principal Investigator",
+            "project_code": "Đề tài cấp cơ sở",
+            "management_level": "Đề tài cấp cơ sở",
+            "period": "2022",
+            "acceptance_date": "05/06/2023",
+            "rating": "Khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Dinh dưỡng lâm sàng",
+            "type": "Textbook",
+            "publisher": "NXB Y học",
+            "publish_year": "2016",
+            "num_authors": 18,
+            "is_editor_in_chief": false,
+            "compiled_pages": "157-211; 231-241; 255-259.",
+            "verification_document_id": "827/QĐ-YDTB (05/07/2016)"
+        },
+        {
+            "title": "Hướng dẫn thực hành xây dựng chế độ dinh dưỡng cho người bệnh Đái tháo đường",
+            "type": "Reference Book",
+            "publisher": "NXB Y học",
+            "publish_year": "2020",
+            "num_authors": 13,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "694/QĐ-YDTB (23/05/2022)"
+        },
+        {
+            "title": "Hướng dẫn thực hành xây dựng chế độ dinh dưỡng cho người bệnh Đái tháo đường thai kỳ",
+            "type": "Reference Book",
+            "publisher": "NXB Y học",
+            "publish_year": "2021",
+            "num_authors": 13,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "695/QĐ-YDTB (23/05/2022)"
+        },
+        {
+            "title": "Kiểm soát Hội chứng chuyển hóa",
+            "type": "Reference Book",
+            "publisher": "NXB Y học",
+            "publish_year": "2022",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "693/QĐ-YDTB (23/05/2022)"
+        },
+        {
+            "title": "Hướng dẫn thực hành xây dựng chế độ dinh dưỡng cho người bệnh Đái tháo đường có thừa cân-béo phì",
+            "type": "Reference Book",
+            "publisher": "NXB Đại học Quốc Gia Hà Nội",
+            "publish_year": "2022",
+            "num_authors": 14,
+            "is_editor_in_chief": true,
+            "compiled_pages": "",
+            "verification_document_id": "289/QĐ-YDTB (01/03/2023)"
+        },
+        {
+            "title": "Hướng dẫn thực hành quản lý bệnh Đái tháo đường tại trạm y tế xã, phường",
+            "type": "Reference Book",
+            "publisher": "NXB Y học",
+            "publish_year": "2022",
+            "num_authors": 10,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": "291/QĐ-YDTB (01/03/2023)"
+        },
+        {
+            "title": "Tài liệu đào tạo điều dưỡng chăm sóc, theo dõi bệnh nhân Đái tháo đường",
+            "type": "Reference Book",
+            "publisher": "NXB Y học",
+            "publish_year": "2018",
+            "num_authors": 12,
+            "is_editor_in_chief": false,
+            "compiled_pages": "",
+            "verification_document_id": "292/QĐ-YDTB (01/03/2023)"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

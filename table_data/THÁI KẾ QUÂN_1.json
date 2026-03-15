@@ -1,0 +1,513 @@
+{
+    "papers": [
+        {
+            "title": "Khảo sát đột biến ở gen pbp2b liên quan đến tính kháng kháng sinh ở Streptococcus pneumoniae",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí sinh học ISSN: 0866-7160",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "25(1): 51-54",
+            "published_date": "3/2003"
+        },
+        {
+            "title": "Phát hiện các vi khuẩn gây viêm màng não mủ trong dịch não tủy bằng kỹ thuật PCR multiplex",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Thành phố Hồ Chí Minh ISSN: 1859-1779",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "8(1): 58-61",
+            "published_date": "2004"
+        },
+        {
+            "title": "DWARF - a data warehouse system for analyzing protein families",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "BMC Bioinformatics, ISSN: 1471-2105 DOI: 10.1186/1471-2105-7-495",
+            "journal_ranking": "SCIE Q1, IF: 3.328 H-index: 77",
+            "citation_count": 77,
+            "volume_issue_pages": "7:495-495",
+            "published_date": "11/2006"
+        },
+        {
+            "title": "The Lactamase Engineering Database: a critical survey of TEM sequences in public databases",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "BMC Genomics ISSN: 1471-2164 DOI: 10.1186/1471-2164-10-390",
+            "journal_ranking": "SCIE Q1, IF: 4.560 H-index: 189",
+            "citation_count": 85,
+            "volume_issue_pages": "10(1): 390",
+            "published_date": "8/2009"
+        },
+        {
+            "title": "SHV Lactamase Engineering Database: a reconciliation tool for SHV β-lactamases in public databases",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "BMC Genomics ISSN: 1471-2164 DOI: 10.1186/1471-2164-11-563",
+            "journal_ranking": "SCIE Q1, IF: 4.560 H-index: 189",
+            "citation_count": 24,
+            "volume_issue_pages": "11:563",
+            "published_date": "10/2010"
+        },
+        {
+            "title": "Cơ sở dữ liệu protein VEB: Công cụ lưu trữ và khảo sát các trình tự protein VEB",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Công nghệ Sinh học Toàn quốc 2013 ISBN: 978-604-913-136-3",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Quyển 2: 654:658",
+            "published_date": "9/2013"
+        },
+        {
+            "title": "Xây dựng công cụ trực tuyến tra cứu họ thực vật hạt kín ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Đại học Sài Gòn ISSN: 1859-3208",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21:118-123",
+            "published_date": "6/2014"
+        },
+        {
+            "title": "The Web-based tool for identification of amphibian and reptiles presented in three western provinces of South-eastern region, Vietnam.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Network scientific journal - Research result, «PHYSIOLOGY» ISSN: 2409-0298",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2(2): 21-32",
+            "published_date": "2014"
+        },
+        {
+            "title": "Quy trình tách chiết DNA đơn giản và hiệu quả từ lông chó",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Sinh học, ISSN: 0866-7160",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "38(1): 124-132",
+            "published_date": "01/2016"
+        },
+        {
+            "title": "Evaluation of genetic diversity of Phu Quoc ridgeback dogs based on mitochondrial DNA Hypervariable-1 region.",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Công nghệ sinh học, ISSN: 2815-5912",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "14(1A): 245-253",
+            "published_date": "02/2016"
+        },
+        {
+            "title": "Xác định nguồn gốc chó Phú Quốc bằng trình tự vùng D-loop trong genome ty thể.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Sinh học, ISSN: 0866-7160",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "38(2):269-278",
+            "published_date": "6/2016"
+        },
+        {
+            "title": "Evaluation of genetic diversity of Vietnamese dogs based on mitochondrial DNA hypervariable-1 region",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Network scientific journal - Research result, «PHYSIOLOGY» ISSN: 2409-0298",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "3(9), 45-49.",
+            "published_date": "2016"
+        },
+        {
+            "title": "Canis mtDNA HV1 database: a web-based tool for collecting and surveying Canis mtDNA HV1 haplotype in public database",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "BMC Genet. ISSN: 2730-6844 DOI: 10.1186/s12863-017-0528-0",
+            "journal_ranking": "SCIE Q2, IF: 2.759 H-index: 84",
+            "citation_count": 15,
+            "volume_issue_pages": "18(1), 60.",
+            "published_date": "6/2017"
+        },
+        {
+            "title": "Xác định đột biến đặc trưng trên các gen liên quan đến ung thư đại trực tràng bằng ngôn ngữ lập trình R làm cơ sở để xây dựng mô hình tiên đoán",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Công nghệ Sinh học toàn quốc 2018. ISBN 978-604-913-759-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "66-71",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Bước đầu xây dựng cơ sở dữ liệu gen MLH1 phục vụ chẩn đoán ung thư đại trực tràng",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Hội nghị Khoa học Công nghệ Sinh học toàn quốc 2018. ISBN 978-604-913-759-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "127-132",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Effect of time and temperature on the survival rate of mouse sperm (Mus musculus var. albino) in short-term preservation without cryoprotectant agents",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Network scientific journal - Research result, «PHYSIOLOGY» ISSN: 2409-0298",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2(2): 4-10",
+            "published_date": "2014"
+        },
+        {
+            "title": "Examining the effects of lead on the life of larval zebrafish (1-7 days old)",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Network scientific journal - Research result, «PHYSIOLOGY» ISSN: 2409-0298",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "2(2): 11-20",
+            "published_date": "2014"
+        },
+        {
+            "title": "Evaluation of genetic diversity of H'Mong bobtail based on mitochondrial D-loop sequence",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Animal Husbandry Sciences and Technics, 249(Special issue APE 2019), ISSN: 1859-476X",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "17-22.",
+            "published_date": "9/2019"
+        },
+        {
+            "title": "Complete Range of the Universal mtDNA Gene Pool and High Genetic Diversity in the Thai Dog Population",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Genes, ISSN: 2073-4425 DOI: 10.3390/genes11030253",
+            "journal_ranking": "SCIE Q2, IF: 4.141 H-index: 75",
+            "citation_count": 3,
+            "volume_issue_pages": "vol. 11, P-253",
+            "published_date": "02/2020"
+        },
+        {
+            "title": "SgCovi: Cơ sở dữ liệu gene Spike của SARS-CoV-2 ở Việt Nam.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Công nghệ sinh học toàn quốc 2021 ISBN: 978-604-9987-88-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "95-100",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Metagenomic analysis of bacterial communities associated with the coral mucus layer of Acropora sp. in Nha Trang bay,",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Công nghệ sinh học toàn quốc 2021, ISBN: 978-604-9987-88-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "101-107",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Khảo sát sự đa dạng di truyền vùng gene Spike của các chủng SARS-CoV-2 trong các ca nhiễm tại Việt Nam đến tháng 4/2021.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Công nghệ sinh học toàn quốc 2021, ISBN: 978-604-9987-88-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "423-428.",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Optimized guide RNA design and evaluation of CRISPR/Cas9 cleavage efficiency in LEP gene knockout",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal Biosciences ISSN: 2222-5234 DOI: 10.12692/ijb/19.4.193-206",
+            "journal_ranking": "Web of Science, Zoological Record",
+            "citation_count": 0,
+            "volume_issue_pages": "19: 195-208",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Genetic diversity of SARS-CoV-2 Variants' spike gene after 4th wave in Cambodia",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal Bioscience ISSN: 2222-5234 DOI: 10.12692/ijb/20.5.95-102",
+            "journal_ranking": "Web of Science, Zoological Record",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 20, pp. 95-102.",
+            "published_date": "5/2022"
+        },
+        {
+            "title": "Genetic diversity of SARS-CoV-2 Omicron Variants' spike gene in Vietnam.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal Bioscience ISSN: 2222-5234 DOI: 10.12692/ijb/21.3.166-176",
+            "journal_ranking": "Web of Science, Zoological Record",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 21, pp. 166-176.",
+            "published_date": "9/2022"
+        },
+        {
+            "title": "Hiệu quả liên kết của protein gai của các biến thể Omicron tại Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Công nghệ sinh học toàn quốc 2022, ISBN: 978-604-357-052-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "101-106",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Sự biến đổi amino acid của các biến thể Omicron của SARS-CoV-2 trong các ca nhiễm ở Việt Nam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Kỷ yếu Hội nghị Công nghệ Sinh học toàn quốc 2022, ISBN: 978-604-357-052-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "449-453",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "Variations in spike gene of SARS-CoV-2 isolated in Vietnam.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal Bioscience ISSN: 2222-5234 DOI: 10.12692/ijb/21.5.83-92",
+            "journal_ranking": "Web of Science, Zoological Record",
+            "citation_count": 0,
+            "volume_issue_pages": "21(5): 83-92",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "HV1 mtDNA Reveals the High Genetic Diversity and the Ancient Origin of Vietnamese Dogs.",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Animals ISSN: 2076-2615 DOI: 10.3390/ani13061036",
+            "journal_ranking": "SCIE Q1 IF: 3.231 H-index: 60",
+            "citation_count": 0,
+            "volume_issue_pages": "vol. 13, P. 1036.",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "SARS-CoV-2 variants in Vietnam: a comprehensive analysis of nucleotide changes in the spike gene",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "GSC Biological and Pharmaceutical Sciences, ISSN: 2581-3250 DOI: 10.30574/gscbps.2023.23.3.0251",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "23(3): 223-230",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Investigating the impact of spike protein mutations on SARS-CoV-2 virulence in Benin using network centrality and molecular docking approaches",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology. ISSN: 2815-5912 DOI: 10.15625/1811-4989/18276",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21(2):219-234",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "Emerging XBB variants in Vietnam show high affinity for hACE2",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "GSC Biological and Pharmaceutical Sciences, ISSN: 2581-3250 DOI: 10.30574/gscbps.2023.23.3.0256",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "23(3):231-236",
+            "published_date": "6/2023"
+        },
+        {
+            "title": "mtDNA haplotype network analysis: Exploring genetic relationships and diversity in dog haplogroups",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "GSC Biological and Pharmaceutical Sciences, ISSN: 2581-3250 DOI: 10.30574/gscbps.2023.24.1.0284",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "24(01):224-232",
+            "published_date": "7/2023"
+        },
+        {
+            "title": "Characterization of Omicron XBB subvariants in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "GSC Biological and Pharmaceutical Sciences, ISSN: 2581-3250 DOI: 10.30574/gscbps.2023.24.3.0400",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "24(3):337-343",
+            "published_date": "9/2023"
+        },
+        {
+            "title": "Impact of mutations on Omicron's spike protein: Insights from variants found in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology. ISSN: 2815-5912 DOI: 10.15625/1811-4989/20464",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "21(4):621-635",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Computational assessment of spike-hACE2 binding affinity in Omicron subvariant BA.2.86",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Research journal of Biotechnology, ISSN: 2278-4535 DOI: 10.25303/1902rjbt01013",
+            "journal_ranking": "Scopus Q4, ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "19(2): 1-13",
+            "published_date": "2/2024"
+        },
+        {
+            "title": "Prevalence of common autosomal recessive mutation carriers in women in the southern Vietnam following the application of expanded carrier screening",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Scientific Reports, ISSN: 2045-2322 DOI: 10.1038/s41598-024-57513-0",
+            "journal_ranking": "SCIE Q1 IF: 4,6 H-index: 315",
+            "citation_count": 0,
+            "volume_issue_pages": "14(1): 7461.",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "In silico evaluation of hypericin and pseudohypericin as candidates for monkeypox treatment",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Vietnam Journal of Biotechnology. ISSN: 2815-5912 DOI: 10.15625/vjbt-20641",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "22(1): 79-89",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Exploring the mutation landscape of SARS-CoV-2 Variant JN.1",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Research journal of Biotechnology, ISSN: 2278-4535 DOI: 10.25303/1906rjbt076083",
+            "journal_ranking": "Scopus Q4, ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "19(6): 76-83",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Phylogenetic analysis of Omicron subvariants in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Applied Biology & Biotechnology. ISSN: 2347-212X DOI: 10.7324/JABB.2024.172630",
+            "journal_ranking": "Scopus Q3, Web of Science",
+            "citation_count": 0,
+            "volume_issue_pages": "12(4): 203-209",
+            "published_date": "5/2024"
+        },
+        {
+            "title": "Ảnh hưởng của tia UVB đến độ tăng khối lượng cơ thể và số lượng tế bào máu của chuột nhắt trắng (Mus musculus var. albino),",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Báo cáo Khoa học về nghiên cứu và giảng dạy sinh học ở Việt Nam - Hội nghị Khoa học Quốc gia lần thứ 5, 2022, ISBN: 978-604-357-065-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "pp. 531-540.",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Effect of lead on hematological parameters and histopathology of the liver, kidney and spleen of female albino mice",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Asian Journal of Health Sciences ISSN: 2347-5218 http://ajhs.biomedpress.org/index.php/ajhs/article/view/523",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "9(1):52",
+            "published_date": "6/2023"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Xây dựng quy trình phát hiện và định type HPV (Human Papillomavirus)",
+            "role": "Principal Investigator",
+            "project_code": "53/HD-SKHCNMT",
+            "management_level": "Cấp Tỉnh",
+            "period": "6/2003 - 6/2004",
+            "acceptance_date": "27/9/2004",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xây dựng chương trình thiết kế mồi, mẫu dò dựa trên thông tin về trình tự gen 16S rRNA và ứng dụng",
+            "role": "Principal Investigator",
+            "project_code": "235/HD-SKHCN",
+            "management_level": "Cấp Tỉnh",
+            "period": "11/2004 - 11/2005",
+            "acceptance_date": "",
+            "rating": "Hồ sơ thất lạc - Có giấy xác nhận của Trung tâm phát triển khoa học và Công nghệ trẻ - Thành Đoàn TP.HCM"
+        },
+        {
+            "title": "Xây dựng trang Web về các đặc điểm phân loại và chương trình định danh các họ thực vật hạt kín ở Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "CS2012-06",
+            "management_level": "Cấp cơ sở",
+            "period": "2012-2014",
+            "acceptance_date": "02/2015",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đánh giá đa dạng di truyền để chọn lọc và phát triển nguồn gen chó Phú Quốc",
+            "role": "Participant",
+            "project_code": "01/2015-NVQG",
+            "management_level": "Cấp Quốc gia",
+            "period": "2015-2019",
+            "acceptance_date": "QĐ 3310/QĐ-BKHCN",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Xác định các biến thể trên các gene liên quan đến bệnh cơ tim giãn nở ở bệnh nhân Việt Nam bằng kỹ thuật giải trình tự DNA thế hệ mới",
+            "role": "Participant",
+            "project_code": "",
+            "management_level": "Cấp Tỉnh",
+            "period": "2019-2021",
+            "acceptance_date": "388/QĐ-SKHCN",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Biên soạn giáo trình “Sinh tin học\"",
+            "role": "Principal Investigator",
+            "project_code": "GT2021-06",
+            "management_level": "Cấp cơ sở",
+            "period": "2021-2023",
+            "acceptance_date": "28/6/2023",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đánh giá sự đa dạng di truyền của vùng gene Spike các biến thể Omicron tại Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "CSB2023-01",
+            "management_level": "Cấp cơ sở",
+            "period": "2023-2024",
+            "acceptance_date": "26/6/2024",
+            "rating": "Tốt"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Sinh tin học",
+            "type": "Textbook",
+            "publisher": "NXB Trường Đại học Sư phạm TP Hồ Chí Minh",
+            "publish_year": "2024",
+            "num_authors": 2,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Chương 2 (Trang 23-36), Chương 6, 7, 8, 9, 10, 11 (Trang 92-167)",
+            "verification_document_id": "Giấy xác nhận của Trường Đại học Sài Gòn"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Ban soạn thảo nội dung cập nhật và báo cáo đánh giá Chương trình đào tạo",
+            "applicant_role": "Participant",
+            "assignment_document_id": "1095/QĐ-ĐHSG",
+            "certifying_authority": "Trường Đại học Sài Gòn",
+            "implementation_document_id": "2058/QĐ-ĐHSG",
+            "notes": ""
+        }
+    ]
+}

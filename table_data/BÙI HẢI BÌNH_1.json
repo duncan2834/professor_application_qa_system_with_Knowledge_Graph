@@ -1,0 +1,782 @@
+{
+    "papers": [
+        {
+            "title": "Tổn thương mô bệnh học màng hoạt dịch khớp gối viêm khớp dạng thấp",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 0868-202X",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2 (41) Trang 22-26",
+            "published_date": "4/2006"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm màng hoạt dịch khớp gối ở bệnh nhân viêm khớp dạng thấp qua nội soi",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 9 Trang 26-36",
+            "published_date": "9/2006"
+        },
+        {
+            "title": "Ứng dụng nội soi khớp can thiệp trong điều trị bệnh thoái hóa khớp gối",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc san (2) trang 226-331",
+            "published_date": "12/2006"
+        },
+        {
+            "title": "Nhân một trường hợp bệnh Kahler có hình ảnh Xquang hiếm gặp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 16, trang 16-18",
+            "published_date": "5/2007"
+        },
+        {
+            "title": "Nhân một trường hợp bệnh u sụn hiếm gặp",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc san Trang 146-149",
+            "published_date": "9/2007"
+        },
+        {
+            "title": "Đánh giá sự thay đổi Deoxypyrioline nước tiểu và mật độ xương ở bệnh nhân viêm cột sống dính khớp tại Bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc san Trang 59-64",
+            "published_date": "9/2007"
+        },
+        {
+            "title": "Nhân một trường hợp bệnh hiếm gặp: bệnh viêm xương tủy nhiều ổ mạn tính tái phát (CRMO)",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 31 Trang 6-8",
+            "published_date": "8/2008"
+        },
+        {
+            "title": "Nhân một trường hợp hiếm gặp: Hội chứng Klippel-Trenaunay-Weber",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 25 Trang 22-24",
+            "published_date": "2/2008"
+        },
+        {
+            "title": "Viêm màng hoạt dịch lông nốt sắc tố",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "số 58 Trang 12-16",
+            "published_date": "11/2010"
+        },
+        {
+            "title": "Ứng dụng tế bào gốc từ mô mỡ trong điều trị bệnh thoái hóa khớp",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 60 Trang 47-51",
+            "published_date": "1/2011"
+        },
+        {
+            "title": "Liệu pháp huyết tương giàu tiểu cầu tự thân- triển vọng trong điều trị bệnh thoái hóa khớp gối",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt (383) Trang 20-26",
+            "published_date": "7/2011"
+        },
+        {
+            "title": "Bước đầu đánh giá kết quả lâm sàng của liệu pháp huyết tương giàu tiểu cầu tự thân tiêm nội khớp điều trị bệnh thoái hóa khớp gối nguyên phát",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 2 (397) Trang 55-63",
+            "published_date": "9/2012"
+        },
+        {
+            "title": "Đánh giá hiệu quả sau 6 tháng sử dụng liệu pháp huyết tương giàu tiểu cầu tự thân tiêm nội khớp điều trị bệnh thoái hóa khớp gối nguyên phát",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nội khoa Việt Nam ISSN: 0866-790X",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt Trang 190-198",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và cận lâm sàng của viêm màng hoạt dịch khớp gối thể lông nốt sắc tố",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nội khoa Việt Nam ISSN: 0866-790X",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt Trang 139-149",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Nhận xét đặc điểm lâm sàng, hình ảnh nội soi khớp của viêm khớp gối do nhiễm khuẩn cấp tính tại bệnh viện Bạch Mai và bệnh viện E từ 1999 đến 2012",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nội khoa Việt Nam ISSN: 0866-790X",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt Trang 270-276",
+            "published_date": "10/2013"
+        },
+        {
+            "title": "Vai trò của cộng hưởng từ (MRI) trong nghiên cứu bệnh thoái hóa khớp gối",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nội khoa Việt Nam ISSN: 0866-790X",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 13 Trang 43-48",
+            "published_date": "11/2014"
+        },
+        {
+            "title": "Đánh giá kết quả phục hồi sụn khớp và cải thiện triệu chứng trên 48 khớp gối thoái hóa nguyên phát điều trị bằng liệu pháp tế bào gốc mô mỡ tự thân sau 06 tháng",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 429 Trang 218-224",
+            "published_date": "4/2015"
+        },
+        {
+            "title": "Xác định nồng độ yếu tố tăng trưởng chuyển dạng ẞ1 trong huyết tương giàu tiểu cầu ở bệnh nhân thoái hóa khớp gối nguyên phát giai đoạn 2-3 và các yếu tố ảnh hưởng",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 88 Trang 25-31",
+            "published_date": "9/2015"
+        },
+        {
+            "title": "Hiệu quả trên lâm sàng và bề dày sụn khớp của 6 tháng sử dụng liệu pháp huyết tương giàu tiểu cầu tự thân tiêm nội khớp điều trị bệnh thoái hóa khớp gối nguyên phát",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 88 Trang 73-81",
+            "published_date": "9/2015"
+        },
+        {
+            "title": "Case Report of 59-Year-Old Woman with Bilateral Upper Limb Musculoskeletal Amyloid, Initially Diagnosed as Rheumatoid Arthritis",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "American Journal of Case Report eISSN: 1941-5923",
+            "journal_ranking": "IF 2023: 1.0; Q3",
+            "citation_count": 1,
+            "volume_issue_pages": "Page 11",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "Current Status of Biological Treatment in Ankylosing Spondylitis Patients and Some Related Factors",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Materia Socio Medica ISSN: 1512-7680 (Print) 1986-597X (Electronic)",
+            "journal_ranking": "IF 2023: 0.99 Q2",
+            "citation_count": 1,
+            "volume_issue_pages": "35 (3) Page 222-227",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Latent and active tuberculosis development in patients with rheumatoid arthritis receiving biologic disease-modifying antirheumatic drugs: A single-center prospective study",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "PLOS ONE ISSN: 1932-6203",
+            "journal_ranking": "IF 2024: 2.9 Q1",
+            "citation_count": 4,
+            "volume_issue_pages": "19 (1)",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "The impact of COVID-19 and other factors on the usage status of the biologic drug therapies for rheumatoid arthritis: A study from Vietnam",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Reumatologia clinica ISSN: 2173-5743",
+            "journal_ranking": "IF 2024: 1.3 Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "20 (3) Page 128-135",
+            "published_date": "3/2024"
+        },
+        {
+            "title": "Knowledge, Attitude and Practice Regarding Nonsteroidal Anti-inflammatory Drugs and Corticosteroids Use Among Patients With Chronic Rheumatology Condition: A Cross-Sectional Study From Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Clinical Medicine Insights: Arthritis and Musculoskeletal Disorders ISSN: 1179-5441",
+            "journal_ranking": "IF 2024: 1.9 Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "17 Page 11",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Personalized dose reduction strategies for biologic disease-modifying antirheumatic drugs for treating axial spondyloarthritis: a clinical and economic evaluation with predictive modeling",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "BMC Rheumatology ISSN: 2520-1026",
+            "journal_ranking": "IF 2024: 2.1 Q3",
+            "citation_count": 0,
+            "volume_issue_pages": "BMC Rheumatol 9, 60 (2025)",
+            "published_date": "5/2025"
+        },
+        {
+            "title": "Đánh giá kết quả điều trị bệnh viêm khớp dạng thấp sau 24 tuần bằng tocilizumab",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nội khoa Việt Nam ISSN: 0866-790X",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt Trang 61-69",
+            "published_date": "10/2017"
+        },
+        {
+            "title": "Đặc điểm siêu âm khớp vai ở bệnh nhân viêm khớp dạng thấp",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 102 Trang 43-50",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Hình ảnh siêu âm khớp vai trên bệnh nhân hội chứng chóp xoay và một số yếu tố liên quan",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học lâm sàng ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 102 Trang 97-102",
+            "published_date": "4/2018"
+        },
+        {
+            "title": "Magnetic resonance imaging of articular cartilage in patients with primary knee osteoarthritis in stage 2 and 3",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Clinical Medicine ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 2 Trang 76-84",
+            "published_date": "10/2018"
+        },
+        {
+            "title": "Bước đầu đánh giá kết quả điều trị của febuxostate trên bệnh nhân nam giới mắc bệnh gút mạn tính nguyên phát tại bệnh viện Bạch Mai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt Tập 478 Trang 215-221",
+            "published_date": "05/2019"
+        },
+        {
+            "title": "Đặc điểm siêu âm một số gân viêm thượng cấp ở bệnh nhân gút",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số đặc biệt Tập 478 Trang 222-229",
+            "published_date": "05/2019"
+        },
+        {
+            "title": "Depressive disorder and some related factors in patients with primary knee osteoarthritis at Bach Mai hospital",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Clinical Medicine ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4 Trang 92-99",
+            "published_date": "7/2019"
+        },
+        {
+            "title": "Effectiveness of knee intra-articular injection by acid hyaluronic (Hyalgan) on pain and cartilage thickness after six months treatment in patients with primary knee osteoarthritis in stage 2,3",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Clinical Medicine ISSN: 1859-3593",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 4 Trang 87-91",
+            "published_date": "7/2019"
+        },
+        {
+            "title": "Viêm khớp do virus",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 493 Trang 32-38",
+            "published_date": "08/2020"
+        },
+        {
+            "title": "Đánh giá tác dụng của piascledin sau 3 tháng điều trị bệnh nhân thoái hóa khớp gối nguyên phát giai đoạn 1,2",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 495 Trang 185-190",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Ứng dụng thang điểm Rodnan cải tiến trong đánh giá tổn thương da ở bệnh xơ cứng bì hệ thống",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 496 Trang 318-323",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Mối liên quan giữa độ dày da trên siêu âm với một số đặc điểm lâm sàng và cận lâm sàng bệnh xơ cứng bì hệ thống",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 502 Trang 32-39",
+            "published_date": "05/2021"
+        },
+        {
+            "title": "Khảo sát chỉ số TEI thất trái bằng siêu âm Doppler tim ở bệnh nhân viêm khớp dạng thấp",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 502 Trang 10-15",
+            "published_date": "05/2021"
+        },
+        {
+            "title": "Tình trạng điều trị thuốc sinh học ở bệnh nhân viêm cột sống dính khớp tại khoa Cơ Xương Khớp bệnh viện Bạch Mai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 507 Trang 228-232",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Thực trạng điều trị thuốc sinh học ở bệnh nhân viêm khớp dạng thấp tại khoa Cơ Xương Khớp bệnh viện Bạch Mai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 508 Trang 272-277",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Bước đầu nghiên cứu tác dụng của golimumab dạng tiêm dưới da trong điều trị viêm khớp cột sống thể trục.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 517 Trang 96-102",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Kết quả điều trị viêm gân cơ nhị đầu cánh tay bằng phương pháp siêu âm trị liệu kết hợp điện xung qua da (TENS)",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 517 Trang 157-162",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Tình hình sàng lọc lao tiềm ẩn ở bệnh nhân viêm khớp dạng thấp điều trị thuốc sinh học tại trung tâm Cơ xương khớp bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 517 Trang 55-60",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Hiệu quả của secukinumab trong điều trị bệnh viêm cột sống dính khớp tại bệnh viện Bạch Mai",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 517 Trang 103-110",
+            "published_date": "8/2022"
+        },
+        {
+            "title": "Thực trạng sử dụng thuốc chống viêm ở bệnh nhân viêm khớp dạng thấp đang điều trị thuốc sinh học",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Y học ISSN: 0868-202X",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 164 (3) Trang 93-100",
+            "published_date": "3/2023"
+        },
+        {
+            "title": "Báo cáo ca lâm sàng: Hội chứng Fahr do suy cận giáp nguyên phát có biểu hiện lâm sàng giống như viêm cột sống dính khớp: báo cáo ca lâm sàng",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 0868-202X",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526 Trang 235-240",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Đánh giá đau do nguyên nhân thần kinh và một số yếu tố liên quan ở bệnh nhân loãng xương nguyên phát bằng thang điểm LANSS",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526 Trang 187-194",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Gút và bệnh lý tim mạch",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526 Trang 3-9",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Sử dụng canxi và vitamin D theo khuyến cáo và cá thể hóa.",
+            "num_authors": 15,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526 Trang 10-15",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Đặc điểm bệnh tật bệnh nhân điều trị nội trú tại Trung tâm Cơ Xương Khớp bệnh viện Bạch Mai năm 2021",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526 Trang 16-22",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Nghiên cứu mật độ xương và các yếu tố nguy cơ gẫy xương ở bệnh nhân loãng xương có gẫy xương đốt sống",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526 Trang 195-201",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng và xạ hình xương của bệnh nhân ung thư phổi di căn xương tại bệnh viện Ung bướu Nghệ An",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526 Trang 221-227",
+            "published_date": "5/2023"
+        },
+        {
+            "title": "Đặc điểm hội chứng dễ bị tổn thương ở bệnh nhân xơ cứng bì hệ thống tại trung tâm Cơ Xương khớp bệnh viện Bạch Mai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 534 (2) Trang 329-333",
+            "published_date": "1/2024"
+        },
+        {
+            "title": "Đặc điểm bệnh nhân gút điều trị nội trú tại trung tâm cơ xương khớp bệnh viện Bạch mai năm 2021",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537 Trang 121-127",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Đặc điểm bệnh nhân viêm khớp dạng thấp điều trị nội trú tại trung tâm cơ xương khớp bệnh viện Bạch mai năm 2021",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537 Trang 47-54",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Đặc điểm bệnh nhân nhiễm khuẩn khớp và phần mềm điều trị nội trú tại Trung tâm Cơ xương khớp bệnh viện Bạch mai năm 2021",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537 Trang 192-199",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Đặc điểm đau thần kinh theo thang điểm LANSS ở bệnh nhân thoái hóa cột sống thắt lưng tại Bệnh viện Bạch Mai",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 537 Trang 245-252",
+            "published_date": "4/2024"
+        },
+        {
+            "title": "Đánh giá một số yếu tố liên quan đến đau do nguyên nhân thần kinh theo thang điểm LANSS ở bệnh nhân thoái hóa cột sống thắt lưng tại bệnh viện Bạch Mai",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 539 Trang 204-208",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Đặc điểm bệnh nhân viêm cột sống dính khớp điều trị nội trú tại trung tâm cơ xương khớp bệnh viện bạch mai năm 2021",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 539 Trang 5-9",
+            "published_date": "6/2024"
+        },
+        {
+            "title": "Áp dụng thang điểm lanss trong đánh giá đau do nguyên nhân thần kinh ở bệnh nhân loãng xương nguyên phát có gãy xương đốt sống",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 543 Trang 200-204",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Khảo sát đau do nguyên nhân thần kinh theo thang điểm PainDetect ở bệnh nhân loãng xương nguyên phát",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 544 Trang 341-345",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Đánh giá đau do nguyên nhân thần kinh theo thang điểm PainDETECT ở bệnh nhân thoái hóa cột sống thắt lưng",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 545 Trang 117-122",
+            "published_date": "12/2024"
+        },
+        {
+            "title": "Đặc điểm gãy xương đốt sống trên xquang ở bệnh nhân loãng xương nguyên phát có đau cột sống tại bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 546 (3) Trang 26-30",
+            "published_date": "1/2025"
+        },
+        {
+            "title": "Một số yếu tố liên quan đến tình trạng giảm liều thuốc sinh học trong điều trị bệnh viêm khớp dạng thấp tại trung tâm Cơ Xương Khớp bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 547 (1) Trang 84-89",
+            "published_date": "2/2025"
+        },
+        {
+            "title": "Nhận xét đặc điểm hình thái và chức năng tim ở bệnh nhân viêm khớp dạng thấp",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 549 (quyển 1) Trang 60-66",
+            "published_date": "4/2025"
+        },
+        {
+            "title": "Tình trạng giảm liều thuốc sinh học trong điều trị bệnh nhân viêm cột sống dính khớp tại trung tâm cơ xương khớp bệnh viện Bạch Mai",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 549 (quyển 1) Trang 200-206",
+            "published_date": "4/2025"
+        },
+        {
+            "title": "Tinh thể Urat trong dịch khớp ở bệnh nhân gút và một số yếu tố liên quan tại bệnh viện tỉnh Hà Nam.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 549 (quyển 1) Trang 287-293",
+            "published_date": "4/2025"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm xquang khớp gối ở bệnh nhân thoái hoá khớp gối nguyên phát và một số yếu tố liên quan tại trung tâm cơ xương khớp bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 549 (quyển 2) Trang 66-72",
+            "published_date": "4/2025"
+        },
+        {
+            "title": "Đánh giá một số yếu tố liên quan đến đau do nguyên nhân thần kinh bằng thang điểm PAINDETECT ở bệnh nhân thoái hóa cột sống thắt lưng",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 549 (quyển 2) Trang 73-80",
+            "published_date": "4/2025"
+        },
+        {
+            "title": "Nghiên cứu nồng độ vitamin D và một số yếu tố liên quan ở bệnh nhân thoái hóa khớp gối nguyên phát tại bệnh viện Bạch Mai",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y Học Việt Nam ISSN: 1859-1668",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 549 (quyển 2) Trang 101-108",
+            "published_date": "4/2025"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Bước đầu đánh giá hiệu quả và tính an toàn của liệu pháp tiêm nội khớp gối huyết tương giàu tiểu cầu tự thân trong điều trị bệnh thoái hóa khớp gối nguyên phát",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Cơ sở",
+            "period": "2012-2013",
+            "acceptance_date": "28/7/2014",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu hình ảnh cộng hưởng từ khớp gối ở bệnh nhân thoái hóa khớp gối nguyên phát giai đoạn 2-3",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Cơ sở",
+            "period": "2016-2017",
+            "acceptance_date": "15/11/2018",
+            "rating": "Khá"
+        },
+        {
+            "title": "Định lượng yếu tố tăng trưởng TGF-β1 trong máu toàn phần, huyết tương giàu tiểu cầu và một số yếu tố liên quan ở bệnh nhân thoái hóa khớp gối nguyên phát giai đoạn 2,3",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Cơ sở",
+            "period": "2016-2017",
+            "acceptance_date": "15/11/2018",
+            "rating": "Khá"
+        },
+        {
+            "title": "Đánh giá hiệu quả và tính an toàn sau 24 tuần điều trị bệnh viêm khớp dạng thấp bằng tocilizumab (Actemra) phối hợp với Methotrexate",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Cơ sở",
+            "period": "2017-2019",
+            "acceptance_date": "6/1/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Kết quả điều trị bệnh gút mạn tính nguyên phát ở bệnh nhân nam giới bằng febuxostate",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Cơ sở",
+            "period": "2018-2019",
+            "acceptance_date": "2/7/2020",
+            "rating": "Khá"
+        },
+        {
+            "title": "Bước đầu nghiên cứu hợp chất không este hóa trị tinh dầu quả bơ và đậu nành trong điều trị thoái hóa khớp gối nguyên phát",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Cơ sở",
+            "period": "2020-2021",
+            "acceptance_date": "17/2/2022",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nhận xét tình trạng tuân thủ điều trị thuốc sinh học ở bệnh nhân viêm khớp dạng thấp tại Bệnh viện Bạch Mai",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Cơ sở",
+            "period": "2022-2023",
+            "acceptance_date": "25/8/2023",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Áp dụng thang điểm LANSS trong đánh giá đau ở bệnh nhân loãng xương nguyên phát có gẫy lún xương cột sống thắt lưng",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Cơ sở",
+            "period": "2023-2024",
+            "acceptance_date": "11/3/2025",
+            "rating": "Xuất sắc"
+        }
+    ],
+    "books": null,
+    "patents": null,
+    "achievements": null,
+    "training_programs": null
+}

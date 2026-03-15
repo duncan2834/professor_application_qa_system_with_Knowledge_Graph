@@ -1,0 +1,513 @@
+{
+    "papers": [
+        {
+            "title": "Quản lý doanh nghiệp nhà nước – Kinh nghiệm quốc tế và bài học cho Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính Kế toán ISSN: 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 02 (127), 54-57",
+            "published_date": "02/2014"
+        },
+        {
+            "title": "Quản lý tài sản công – Trụ sở làm việc trong các cơ quan hành chính nhà nước ở một số nước và bài học cho Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính Kế toán ISSN: 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 05 (142), 73-76",
+            "published_date": "05/2015"
+        },
+        {
+            "title": "Đánh giá hoạt động của thị trường bất động sản Việt Nam năm 2014 và triển vọng trong thời gian tới",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính Kế toán ISSN: 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 07 (144), 12-14",
+            "published_date": "07/2015"
+        },
+        {
+            "title": "Nâng cao năng lực đội ngũ công chức nhà nước - kinh nghiệm quốc tế và bài học cho Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính Kế toán ISSN: 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11 (160), 74-76",
+            "published_date": "11/2016"
+        },
+        {
+            "title": "Hoạt động đầu tư xây dựng cơ bản trong các trường đại học công lập tự chủ ở Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính ISSN: 2615-8973",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 698+699, 171-175",
+            "published_date": "02/2019"
+        },
+        {
+            "title": "Phát triển thị trường mua bán nợ xấu ở một số nước và bài học kinh nghiệm đối với Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu HTKH, ISBN: 987-604-88-5438-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "248-257",
+            "published_date": "12/2017"
+        },
+        {
+            "title": "Tài chính cho giáo dục đại học từ góc nhìn quốc tế",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Kỷ yếu HTKH, ISBN: 978-604-79-1980-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "241-248",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "A research into the impact of property taxes on population distribution and sources of revenues in Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Indian Journal of Economics and Business ISSN: 09725784",
+            "journal_ranking": "Scopus (Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.20, No.1, 13-37",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Creditor protection, shareholder protection, and cost of debt financing around the world https://doi.org/10.1177/03128962221083375",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Australian Journal of Management ISSN:0312-8962 E-ISSN: 1327-2020",
+            "journal_ranking": "SSCI, IF: 4.8",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.48, Iss.1, 1-18",
+            "published_date": "03/2022"
+        },
+        {
+            "title": "Female directors and investment efficiency: New evidence from an emerging market https://doi.org/10.1177/09746862231205649",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Indian Journal of Corporate Governance ISSN: 0974-6862 E-ISSN: 2454-2482",
+            "journal_ranking": "Scopus (Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.16 (2), 200-217",
+            "published_date": "12/2023"
+        },
+        {
+            "title": "Factors affecting access to finance for small and medium-sized agricultural enterprises in Vietnam https://doi.org/10.55493/5002.v14i6.5079",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Asian Economic and Financial Review ISSN: 2305-2147 E-ISSN: 2222-6737",
+            "journal_ranking": "Scopus (Q3)",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.14 (6), 437-455",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Kinh nghiệm đào tạo nhà quản trị cho các doanh nghiệp nhỏ và vừa trên thế giới và bài học cho Việt Nam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính Kế toán ISSN: 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 10 (207), 94-96",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Tác động của dịch bệnh COVID-19 đến hệ thống ngân hàng Việt Nam và những giải pháp ứng phó",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngân hàng ISSN: 0866-7462",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Chuyên đề đặc biệt 2020, 48-52",
+            "published_date": "12/2020"
+        },
+        {
+            "title": "Research and develop poverty reduction model by agricultural e-commerce",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research ISSN: 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "No.01 (9), 9-15",
+            "published_date": "01/2021"
+        },
+        {
+            "title": "Rào cản sử dụng ngân hàng số của các doanh nghiệp siêu nhỏ, nhỏ và vừa Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Ngân hàng ISSN: 0866-7462",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 8, 30-34",
+            "published_date": "04/2021"
+        },
+        {
+            "title": "Trách nhiệm xã hội đối với môi trường của các doanh nghiệp Việt Nam hiện nay",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính Kế toán ISSN: 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11 (220), 88-91",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Financial crisis and dividend policy: Evidence from an emerging market",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of International Economics and Management ISSN: 2615-9856",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 22 No.2, 25-41",
+            "published_date": "07/2022"
+        },
+        {
+            "title": "Một số vấn đề lý luận và thực tiễn về chứng khoán hóa bất động sản",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính Kế toán ISSN: 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 11 (232), 24-28",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "State ownership and corporate investment: Evidence from Vietnamese stock market",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of International Economics and Management ISSN: 2615-9856",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol. 23, No.1, 39-51",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Hoàn thiện chính sách tài chính phát triển nền kinh tế xanh ở Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Tài chính ISSN: 2615-8973",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 797, 5-8",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Impacts of digital transformation on economic growth in Asia countries",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research ISSN: 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "No.03 (22), 137-142",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Tác động của rủi ro tín dụng đến hiệu quả tài chính của các ngân hàng thương mại cổ phần Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính Kế toán ISSN: 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 243, 48-51",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Application of derivative instruments in credit risk management at commercial banks in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research ISSN: 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "No.05 (24), 99-104",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "The effect of state ownership on corporate investment efficiency: evidence from listed firms in Vietnam",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of International Economics and Management ISSN: 2615-9856",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Vol.23 No.3, 56-67",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "International experiences in green growth policy setting for businesses and lessons for Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research ISSN: 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "No.01 (26), 126-131",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Chi phí đại diện và hiệu quả tài chính - Bằng chứng thực nghiệm từ các doanh nghiệp hàng tiêu dùng niêm yết Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Dự báo ISSN: 1859-4972",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 09, 70-73",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Nhân tố tác động tới rủi ro tài chính - Bằng chứng thực nghiệm từ các doanh nghiệp thủy sản niêm yết Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Kinh tế ISSN: 0866-7489",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 5 (552), 43-53",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Tác động của đại dịch COVID – 19 đến kinh doanh liên tục của doanh nghiệp nhỏ và vừa Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Nghiên cứu Tài chính Kế toán ISSN: 1859-4093",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 265, 83-87",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Nhân tố ảnh hưởng đến tỷ lệ nắm giữ tiền mặt của công ty niêm yết ngành hàng tiêu dùng Việt Nam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Tài chính ISSN: 2615-8973",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 826, 141-143",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Factors influencing the profitability of listed commercial banks in Vietnam",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Finance & Accounting Research ISSN: 2588-1493",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "No.03 (28), 116-121",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Lean management – New direction for Vietnamese private enterprises",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainable economic development and business management in the context of globalization (SEDBM 2020) ISBN: 978-604-79-2531-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 484-498",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Strengthening business links for Vietnam's private economic sector",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Finance and accounting for the promotion of sustainable development in private sector (FASPS 2020) ISBN: 978-604-79-2601-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 589-598",
+            "published_date": "11/2020"
+        },
+        {
+            "title": "Human resource risk management in printing enterprises",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainable economic development and business management in the context of globalization (SEDBM-4) ISBN: 978-604-79-2912-2",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 452-465",
+            "published_date": "10/2021"
+        },
+        {
+            "title": "Middle level manager assessment in Vietnam private enterprises",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Finance and accounting for the promotion of sustainable development in private sector (FASPS-3) ISBN: 987-604-79-2981-8",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 219-232",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Behavioral factors affecting investors' decisions in the Vietnam's stock market",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International conference for young researchers in economics and business (ICYREB 2022) ISBN: 978-604-384-776-5",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 489-505",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Factors influencing access to finance of micro, small and medium businesses",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Finance and accounting for the promotion of sustainable development in private sector (FASPS-4) ISBN: 978-604-79-3441-6",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 1047-1058",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "The impact of off-balance sheet activities on the financial safety indicators of Vietnam joint-stock commercial banks",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Sustainable economic development and business management in the context of globalization (SEDBM 6) ISBN: 978-604-79-3882-7",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 368-378",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "The impact of financial inclusion on the profitability of Vietnamese MSMES",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Finance and accounting for the promotion of sustainable development in the private sector (FASPS-5) ISBN: 978-604-793-906-0",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 721-735",
+            "published_date": "11/2023"
+        },
+        {
+            "title": "Applying green accounting - Case study of small and medium enterprises in Vietnam https://doi.org/10.1007/978-981-99-8472-5_27",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "International conference on research in management and technovation (ICRMART - 2023)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 289-301",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Giải pháp phát triển thị trường phái sinh cà phê tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sức bật của thị trường giao dịch hàng hóa trong bối cảnh Việt Nam hội nhập quốc tế sâu rộng và tác động của COVID-19 ISBN: 978-604-79-2653-4",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "Kỷ yếu HTKH, 62-70",
+            "published_date": "10/2020"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Quản lý tài sản công tại các trường đại học công lập Việt Nam giai đoạn 2017-2020",
+            "role": "Principal Investigator",
+            "project_code": "Cấp cơ sở",
+            "management_level": "Học viện Tài chính",
+            "period": "03/2017-12/2017",
+            "acceptance_date": "12/1/2018",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Vai trò của nguồn lực con người trong giảm nghèo bền vững ở Việt Nam hiện nay",
+            "role": "Co-Investigator",
+            "project_code": "Cấp cơ sở",
+            "management_level": "Học viện Tài chính",
+            "period": "03/2018-12/2018",
+            "acceptance_date": "05/01/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Hoàn thiện hệ thống đánh giá nhân sự quản lý cấp trung theo khung năng lực trong các doanh nghiệp ngoài nhà nước Việt Nam",
+            "role": "Co-Investigator",
+            "project_code": "Cấp cơ sở",
+            "management_level": "Học viện Tài chính",
+            "period": "03/2019-12/2019",
+            "acceptance_date": "29/11/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đào tạo nhà quản trị cho các doanh nghiệp nhỏ và vừa Việt Nam trong bối cảnh cách mạng công nghiệp 4.0",
+            "role": "Co-Investigator",
+            "project_code": "Cấp cơ sở",
+            "management_level": "Học viện Tài chính",
+            "period": "03/2020-12/2020",
+            "acceptance_date": "27/11/2020",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Tăng cường thực hiện trách nhiệm xã hội của doanh nghiệp Việt Nam",
+            "role": "Co-Investigator",
+            "project_code": "Cấp cơ sở",
+            "management_level": "Học viện Tài chính",
+            "period": "04/2021-12/2021",
+            "acceptance_date": "06/12/2021",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu các nhân tố ảnh hưởng đến khả năng tiếp cận tài chính toàn diện của người dân khu vực nông thôn",
+            "role": "Principal Investigator",
+            "project_code": "Cấp cơ sở",
+            "management_level": "Trường Đại học Thủy lợi",
+            "period": "01/2022-12/2022",
+            "acceptance_date": "15/12/2022",
+            "rating": "Khá"
+        },
+        {
+            "title": "Ảnh hưởng của đại dịch COVID-19 đến khả năng hoạt động liên tục của các doanh nghiệp nhỏ và vừa Việt Nam",
+            "role": "Principal Investigator",
+            "project_code": "Cấp cơ sở",
+            "management_level": "Trường Đại học Thủy lợi",
+            "period": "01/2024-12/2024",
+            "acceptance_date": "11/06/2024",
+            "rating": "Khá"
+        }
+    ],
+    "books": [
+        {
+            "title": "Hướng dẫn lý thuyết và thực hành môn học Quản trị nguồn nhân lực",
+            "type": "Guide Book",
+            "publisher": "Nhà xuất bản Tài chính",
+            "publish_year": "2019",
+            "num_authors": 8,
+            "is_editor_in_chief": false,
+            "compiled_pages": "7-64",
+            "verification_document_id": "Số 68/HVTC-GCN ngày 05/06/2024"
+        },
+        {
+            "title": "Quản lý tài sản công tại cơ sở giáo dục đại học công lập",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Tài chính",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "14-114, 259-330",
+            "verification_document_id": "Số 69/HVTC-GCN ngày 05/06/2024"
+        },
+        {
+            "title": "Định giá tài sản",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Công thương",
+            "publish_year": "2024",
+            "num_authors": 4,
+            "is_editor_in_chief": true,
+            "compiled_pages": "13-48, 70-128, 153-179, 199-218, 249-288",
+            "verification_document_id": "Số 1608/QĐ-ĐHTL ngày 24/6/2024"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình đào tạo ngành Tài chính – Ngân hàng trình độ đại học",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định số 1689/QĐ-ĐHTL ngày 16/11/2021",
+            "certifying_authority": "Trường Đại học Thủy lợi",
+            "implementation_document_id": "Quyết định số 463/QĐ-ĐHTL ngày 02/03/2022",
+            "notes": ""
+        }
+    ]
+}

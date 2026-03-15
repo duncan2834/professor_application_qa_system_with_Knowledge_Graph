@@ -1,0 +1,613 @@
+{
+    "papers": [
+        {
+            "title": "Combination of vaccine-strain measles and mumps virus synergistically kills a wide range of human hematological cancer cells: Special focus on acute myeloid leukemia",
+            "num_authors": 18,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cancer Lett. 0304-3835",
+            "journal_ranking": "ISI, IF: 5,349",
+            "citation_count": 23,
+            "volume_issue_pages": "354(2), 272-280. doi: 10.1016/j.canlet.2014.08.034. PMID: 25193462",
+            "published_date": "09/2014"
+        },
+        {
+            "title": "Soluble MICB protein levels and platelet counts during hepatitis B virus infection and response to hepatocellular carcinoma treatment",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "BMC Infect Dis. 1471-2334",
+            "journal_ranking": "ISI, IF: 3,093",
+            "citation_count": 10,
+            "volume_issue_pages": "15:25, 1-10 doi: 10.1186/s12879-015-0754-x. PMID: 25626490",
+            "published_date": "01/2015"
+        },
+        {
+            "title": "Comparative study of antitumor effects of bromelain and papain in human cholangiocarcinoma cell lines",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Int J Oncol. 1019-6439",
+            "journal_ranking": "ISI, IF: 3,139",
+            "citation_count": 59,
+            "volume_issue_pages": "48(5), 2025-2034. doi: 10.3892/ijo.2016.3411. PMID: 26935541",
+            "published_date": "03/2016"
+        },
+        {
+            "title": "Gamma-Secretase Inhibitor IX (GSI) Impairs Concomitant Activation of Notch and Wnt-Beta-Catenin Pathways in CD44+ Gastric Cancer Stem Cells",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Stem Cells Transl Med. 2157-6564",
+            "journal_ranking": "ISI, IF: 5,044",
+            "citation_count": 40,
+            "volume_issue_pages": "6(3), 819-829. doi: 10.1002/sctm.16-0335. PMID: 28186678",
+            "published_date": "02/2017"
+        },
+        {
+            "title": "SOCS3 genetic variants and promoter hypermethylation in patients with chronic hepatitis B",
+            "num_authors": 10,
+            "is_main_author": false,
+            "journal_name_ISSN": "Oncotarget. 1949-2553",
+            "journal_ranking": "ISI, IF: 5,168",
+            "citation_count": 27,
+            "volume_issue_pages": "8(10), 17127-17139. doi: 10.18632/oncotarget.15083. PMID: 28179578",
+            "published_date": "03/2017"
+        },
+        {
+            "title": "Therapeutic effects of Argyrin F in pancreatic adenocarcinoma",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cancer Lett. 0304-3835",
+            "journal_ranking": "ISI, IF: 6,561",
+            "citation_count": 11,
+            "volume_issue_pages": "399, 20-28. doi: 10.1016/j.canlet.2017.04.003. PMID: 28408354",
+            "published_date": "04/2017"
+        },
+        {
+            "title": "Silencing of Kangai 1 C-terminal interacting tetraspanin suppresses progression of cholangiocarcinoma",
+            "num_authors": 15,
+            "is_main_author": true,
+            "journal_name_ISSN": "Exp Cell Res. 0014-4827",
+            "journal_ranking": "ISI, IF: 3,374",
+            "citation_count": 10,
+            "volume_issue_pages": "364(1), 59-67. doi: 10.1016/j.yexcr.2018.01.028. PMID: 29366806",
+            "published_date": "01/2018"
+        },
+        {
+            "title": "Combination of Vaccine-Strain Measles and Mumps Viruses Enhances Oncolytic Activity against Human Solid Malignancies",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cancer Invest. 0735-7907",
+            "journal_ranking": "ISI, IF: 2,26",
+            "citation_count": 32,
+            "volume_issue_pages": "36(2):106-117. doi: 10.1080/07357907.2018.1434539. PMID: 29485292",
+            "published_date": "02/2018"
+        },
+        {
+            "title": "Nghiên cứu tạo khối ung thư tuyến tiền liệt người trên chuột thiếu hụt miễn dịch \"nude mice” bằng kỹ thuật ghép dị loài",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "36(2), 90-95",
+            "published_date": "02/2011"
+        },
+        {
+            "title": "Nghiên cứu tác dụng của dịch chiết tỏi lý sơn trên dòng tế bào ung thư thanh quản",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "36(5) 163-169",
+            "published_date": "05/2011"
+        },
+        {
+            "title": "Ảnh hưởng của dịch chiết tỏi trên tế bào ung thư vú người",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học thực hành 1859-1663",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "771(6), 42-45",
+            "published_date": "06/2011"
+        },
+        {
+            "title": "Nghiên cứu tạo khối ung thư gan người trên chuột thiếu hụt miễn dịch Nude Mice",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học thực hành 1859-1663",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "843(10), 50-53",
+            "published_date": "10/2012"
+        },
+        {
+            "title": "Nghiên cứu tạo khối ung thư đại tràng người trên chuột thiếu hụt miễn dịch bằng kỹ thuật ghép dị loài.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "37(9), 53-57",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Tạo khối ung thư vú người trên chuột Nude",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "37(số chuyên đề tháng 12/2012 KC.10), 31-35",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Xây dựng mô hình ung thư phổi người",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "37(số chuyên đề tháng 12/2012 KC.10), 26-30",
+            "published_date": "12/2012"
+        },
+        {
+            "title": "Hypoxia induced Sonic Hedgehog signaling regulates cancer stemness, epithelial-to-mesenchymal transition and invasion in cholangiocarcinoma",
+            "num_authors": 8,
+            "is_main_author": false,
+            "journal_name_ISSN": "Exp Cell Res. 0014-4827",
+            "journal_ranking": "ISI, IF: 3,597",
+            "citation_count": 53,
+            "volume_issue_pages": "385(2):111671. 1-11 doi: 10.1016/j.yexcr.2019.111671. PMID: 31634841",
+            "published_date": "10/2019"
+        },
+        {
+            "title": "Haprolid Inhibits Tumor Growth of Hepatocellular Carcinoma through Rb/E2F and Akt/mTOR Inhibition",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cancers (Basel). 2072-6694",
+            "journal_ranking": "ISI, IF: 6,247",
+            "citation_count": 11,
+            "volume_issue_pages": "12(3):615. 1-17 doi: 10.3390/cancers12030615. PMID: 32155915",
+            "published_date": "03/2020"
+        },
+        {
+            "title": "Cholangiocarcinoma Therapeutics: An Update",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Curr Cancer Drug Targets. 1568-0096",
+            "journal_ranking": "ISI, IF: 2,973",
+            "citation_count": 5,
+            "volume_issue_pages": "21(6), 457-475. doi: 10.2174/1568009621666210204152028. PMID: 33563168 Review.",
+            "published_date": "02/2021"
+        },
+        {
+            "title": "Preclinical toxicological evaluation of measles virus vaccine strain in non-human primates: A two-month intravenous study",
+            "num_authors": 14,
+            "is_main_author": false,
+            "journal_name_ISSN": "Biomedical Research and Therapy, 2198-4093",
+            "journal_ranking": "Scopus, Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "8(6), 4382-4393 doi: 10.15419/bmrat.v8i6.676",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Targeting interleukin 6 signaling by monoclonal antibody siltuximab on cholangiocarcinoma",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "J Gastroenterol Hepatol. 0815-9319",
+            "journal_ranking": "ISI, IF: 3,665",
+            "citation_count": 22,
+            "volume_issue_pages": "36(5):1334-1345. doi: 10.1111/jgh.15307. PMID: 33091158",
+            "published_date": "11/2021"
+        },
+        {
+            "title": "Effect of ultrasonic parameters on gene transfection efficiency and cell viability of the multifunctional microbubble in vitro",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Drug Delivery Science and Technology 1773-247",
+            "journal_ranking": "ISI, IF: 5,331",
+            "citation_count": 22,
+            "volume_issue_pages": "77 (2022) 103882. 1-8 Doi: 10.1016/j.jddst.2022.103882",
+            "published_date": "11/2022"
+        },
+        {
+            "title": "X-ray-irradiated K562 feeder cells for expansion of functional CAR-T cells",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biochem Biophys Rep 2405-5808",
+            "journal_ranking": "ISI, IF: 2,685",
+            "citation_count": 0,
+            "volume_issue_pages": "33(2023):101399. 1-6 doi: 10.1016/j.bbrep.2022.101399. PMID: 36478893",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "Self Nanoelmusifying Drug Delivery System of Rosuvastatin: Bioavailability Evaluation and In vitro - In vivo Correlation",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Curr Drug Deliv. 1567-2018",
+            "journal_ranking": "ISI, IF: 2,635",
+            "citation_count": 0,
+            "volume_issue_pages": "21(5):734-743. doi: 10.2174/1567201820666221220104244. PMID: 36545742",
+            "published_date": "12/2022"
+        },
+        {
+            "title": "The safety of CAR-T cells and PD-1 antibody combination on an experimental model",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Biochem Biophys Res Commun. 1090-2104",
+            "journal_ranking": "ISI, IF: 3,184",
+            "citation_count": 1,
+            "volume_issue_pages": "649:25-31. doi: 10.1016/j.bbrc.2023.01.096. PMID: 36739696",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Establishment of cancer cell line originating from a patient with high-grade serous ovarian carcinoma",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Future Sci OA. 2056-5623",
+            "journal_ranking": "ISI, IF: 2,293",
+            "citation_count": 0,
+            "volume_issue_pages": "9(8):FSO875. 1-13 doi: 10.2144/fsoa-2023-0025. PMID: 37621847",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "The diagnostic and prognostic value of neutrophil-to-lymphocyte ratio and platelet-to-lymphocyte ratio on gastric cancer patients",
+            "num_authors": 10,
+            "is_main_author": true,
+            "journal_name_ISSN": "Medicine (Baltimore). 0025-7974",
+            "journal_ranking": "ISI,. IF: 1,404",
+            "citation_count": 3,
+            "volume_issue_pages": "102(31):e34357. 1-8 doi: 10.1097/MD.0000000000034357. PMID: 37543797",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Novel Adiponectin Receptor Agonist Inhibits Cholangiocarcinoma via Adenosine Monophosphate-activated Protein Kinase",
+            "num_authors": 13,
+            "is_main_author": true,
+            "journal_name_ISSN": "Curr Med Chem. 0929-8673",
+            "journal_ranking": "ISI, IF: 4,1",
+            "citation_count": 0,
+            "volume_issue_pages": "31(28), 4534 - 4548 doi: 10.2174/0109298673254969231122114107. PMID: 38361349",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "Adiponectin Receptor Agonist Effectively Suppresses Hepatocellular Carcinoma Growth",
+            "num_authors": 11,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cell Biochem Biophys. 1085-9195",
+            "journal_ranking": "ISI, IF: 2,128",
+            "citation_count": 0,
+            "volume_issue_pages": "82(2),1-9 doi: 10.1007/s12013-024-01217-9. PMID: 38243102",
+            "published_date": "01/2024"
+        },
+        {
+            "title": "The molecular interaction pattern of lenvatinib enables inhibition of wild-type or kinase-mutated FGFR2-driven cholangiocarcinoma",
+            "num_authors": 19,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nat Commun. 2041-1723",
+            "journal_ranking": "ISI, IF: 13,788",
+            "citation_count": 2,
+            "volume_issue_pages": "15(1):1287. 1-13 doi: 10.1038/s41467-024-45247-6. PMID: 38346946",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Hyponutrition among newly diagnosed gastric cancer",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Bratisl Lek Listy. 0006-9248",
+            "journal_ranking": "ISI, IF: 1,5",
+            "citation_count": 0,
+            "volume_issue_pages": "125(6):392-398. doi: 10.4149/BLL_2024_60 PMID: 38757598",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "Nghiên cứu một số đặc điểm lâm sàng, cận lâm sàng ở bệnh nhân sốt xuất huyết Dengue điều trị tại Bệnh viện quân y 103 trong năm 2017 và 2019",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "45(8) - 2020, 12-18",
+            "published_date": "10/2020"
+        },
+        {
+            "title": "Đánh giá tác dụng phụ của tế bào CAR-T trên động vật thực nghiệm",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam 1859-1868",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "500(2), 224-228",
+            "published_date": "03/2021"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng và cận lâm sàng 50 bệnh nhân ung thư biểu mô buồng trứng típ thanh dịch",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp Chí Y học Quân sự 1859-1655",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "352(5-6/2021), 45–49",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Đánh giá khả năng gây chết tế bào theo chương trình của chủng virus vaccine sởi trên tế bào ung thư buồng trứng",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "46(5), 32-39",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Nghiên cứu nồng độ acid folic huyết tương trên bệnh nhân xơ gan do rượu",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam 1859-1868",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "519(Số chuyên đề), 66-72",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Nghiên cứu tác dụng kháng tế bào ung thư đại trực tràng của adiporon in vitro",
+            "num_authors": 6,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "47(8), 41-49",
+            "published_date": "10/2022"
+        },
+        {
+            "title": "Ứng dụng PCR kĩ thuật số vi giọt trong định lượng tuyệt đối nồng độ ARN",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "48(5), 30-36",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, cận lâm sàng bệnh nhân xơ gan do rượu điều trị tại bệnh viện quân y 103",
+            "num_authors": 8,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Phòng chống bệnh Sốt rét và các bệnh Ký sinh trùng 2815-6161",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "135(3), 8-13",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Nghiên cứu nồng độ vitamin B12 huyết tương trên bệnh nhân xơ gan do rượu",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam 1859-1868",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "529(Số chuyên đề tháng 8), 155-160",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Đánh giá hiệu quả điều trị của tế bào CAR-T trên chuột mang tế bào u lympho dòng B thể lan tỏa",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học 2354-080X",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "168 (7), 197-205",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Pre-clinical research on the application of CAR-T therapy in the treatment of acute lymphoblastic leukemia",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "48(7),133-143",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Đặc điểm một số chỉ số bạch cầu và nồng độ IL-6 sau điều trị bằng liệu pháp tế bào CAR-T phối hợp với kháng thể đơn dòng ức chế PD-1 trên thực nghiệm",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam 1859-1868",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "530(1) 111-115",
+            "published_date": "09/2023"
+        },
+        {
+            "title": "Kiểm soát tế bào ung thư đại tràng tăng sinh thông qua ức chế protein tham gia sửa chữa tổn thương DNA",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "49(2), 70-79",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Đánh giá khả năng ly giải các dòng tế bào ung thư CD19(+) của liệu pháp điều trị kết hợp tế bào CAR-T với kháng thể đơn dòng ức chế PD-1 trên thực nghiệm",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam 1859-1868",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "535(1B), 265-269",
+            "published_date": "02/2024"
+        },
+        {
+            "title": "Khảo sát nồng độ TNF-α và mối tương quan với các chỉ số bạch cầu trên chuột điều trị kết hợp ức chế PD-1 và tế bào CAR-T",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí nghiên cứu y học 2354-080X",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "175(2), 164-171",
+            "published_date": "03/2024"
+        },
+        {
+            "title": "DNA-dependent protein kinase inhibitor induces apoptosis in colon cancer cells",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược học quân sự 1859-0748",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "49(4), 22-32",
+            "published_date": "04/2024"
+        },
+        {
+            "title": "Nghiên cứu mối tương quan giữa HOMA-IR và một số chỉ số lipid huyết tương trên bệnh nhân đái tháo đường týp 2",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam 1859-1868",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "538(1), 343-347",
+            "published_date": "05/2024"
+        },
+        {
+            "title": "Chất ức chế P97 thúc đẩy tế bào ung thư đại tràng chết theo chương trình",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược Huế 1859-3836",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "14(3), 205-210",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "DNA-PK inhibitor reduces cell viability on colorectal cancer",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y dược Huế 1859-3836",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "14(4), 31-37",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Chất ức chế aurora kinase TAK-901 kìm hãm sự tăng sinh tế bào ung thư đường mật",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học Việt Nam 1859-1868",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "539 (1B), 259-263",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Tác động của đồng nuôi cấy tế bào ung thư bạch cầu với tế bào CAR-T kết hợp với kháng thể kháng PD-1 lên bài tiết IL-2",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Khoa học và Công nghệ Đại học Thái Nguyên 1859-2171",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "229(13), 46 - 51",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Đánh giá khả năng bài tiết IL-6 in vitro của tế bào được xử lý bằng phương pháp đồng nuôi cấy kết hợp giữa tế bào CAR-T với kháng thể kháng PD-1",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học quân sự 1859-1655",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "370(5-6/2024), 49-53",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Chất ức chế p97 cb5083 kìm hãm tế bào ung thư đường mật tăng sinh và di trú",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí y học quân sự 1859-1655",
+            "journal_ranking": "Not Internationally Ranked",
+            "citation_count": 0,
+            "volume_issue_pages": "370(5-6/2024), 38-41",
+            "published_date": "06/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu đột biến gen major histocompatibility complex class I chain related (MIC) ở bệnh nhân ung thư gan nhiễm virus viêm gan B (HBV)",
+            "role": "Key Member",
+            "project_code": "106.16-2012.45",
+            "management_level": "Quỹ Phát triển khoa học và Công nghệ quốc gia (NAFOSTED)",
+            "period": "03/2013-03/2015",
+            "acceptance_date": "08/02/2015",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu ứng dụng gene mã hoá IL-12 trong điều trị ung thư tế bào gan",
+            "role": "Key Member",
+            "project_code": "KC.04.11/11-15",
+            "management_level": "Cấp Nhà nước",
+            "period": "10/2012-10/2015",
+            "acceptance_date": "12/3/2016",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu tác dụng ức chế tế bào ung thư đại trực tràng của AdipoRon in vitro",
+            "role": "Principal Investigator",
+            "project_code": "Cấp cơ sở",
+            "management_level": "Cấp cơ sở",
+            "period": "07/2023-06/2024",
+            "acceptance_date": "09/4/2024",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Nghiên cứu vai trò của các protein liên quan đến điều hòa chuyển hóa và sửa chữa tổn thương DNA hướng đến điều trị ung thư",
+            "role": "Principal Investigator",
+            "project_code": "108.02-2019.324",
+            "management_level": "Quỹ Phát triển khoa học và Công nghệ quốc gia (NAFOSTED)",
+            "period": "04/2020-04/2024",
+            "acceptance_date": "Đang chờ nghiệm thu",
+            "rating": "Đang chờ nghiệm thu"
+        },
+        {
+            "title": "Nghiên cứu mối tương quan giữa đa hình gen của các chỉ số sinh học và chỉ số lipid máu với tình trạng kháng insulin của các bệnh nhân đái tháo đường type II ở một số bệnh viện ở Hà Nội",
+            "role": "Principal Investigator",
+            "project_code": "01C-08/04-2020-3",
+            "management_level": "đề tài cấp thành phố Hà Nội",
+            "period": "09/2020-09/2024",
+            "acceptance_date": "Đang thực hiện",
+            "rating": "Đang thực hiện"
+        }
+    ],
+    "books": [
+        {
+            "title": "Giáo trình Sinh lý bệnh cơ quan",
+            "type": "Textbook",
+            "publisher": "NXB Quân đội nhân dân",
+            "publish_year": "2019",
+            "num_authors": 14,
+            "is_editor_in_chief": false,
+            "compiled_pages": "1-147",
+            "verification_document_id": "Quyết định số 2309/QĐ-HVQY ngày 19/6/2024 của Giám đốc Học viện quân y"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Chương trình, đề cương chi tiết các môn học trong chương trình đào tạo trình độ Thạc sĩ chuyên ngành Sinh lý bệnh",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định 2458/QĐ-HVQY ngày 22/06/2023",
+            "certifying_authority": "Học viện quân y; Quyết định 4857/QĐ-HVQY ngày 06/11/2023",
+            "implementation_document_id": "Quyết định 4946/QĐ-HVQY ngày 29/12/2023",
+            "notes": ""
+        },
+        {
+            "title": "Chương trình, đề cương chi tiết các môn học trong chương trình đào tạo trình độ Tiến sĩ chuyên ngành Sinh lý bệnh",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "Quyết định 2459/QĐ-HVQY ngày 22/06/2023",
+            "certifying_authority": "Học viện quân y; Quyết định 4856/QĐ-HVQY ngày 06/11/2023",
+            "implementation_document_id": "Quyết định 4948/QĐ-HVQY ngày 29/12/2023",
+            "notes": ""
+        }
+    ]
+}

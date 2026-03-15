@@ -1,0 +1,486 @@
+{
+    "papers": [
+        {
+            "title": "Talent Conceptualization and Talent Management Within The Banking Sector in Southern Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "34th International Business Information Management Association Conference (ISBN: 978-0-9998551-3-3)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "87-97",
+            "published_date": "11/2019"
+        },
+        {
+            "title": "The Conceptualization of Talent and Talent Management within The Banking Sector in Southern Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "The Journal of Organizational Management Studies (ISSN: 2166-0816)",
+            "journal_ranking": "",
+            "citation_count": 6,
+            "volume_issue_pages": "2020 (2020) 963281",
+            "published_date": "03/2020"
+        },
+        {
+            "title": "Talent Conceptualization and Talent Management Approaches in the Vietnamese Banking Sector",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business (ISSN: 2288-4637 (Print) - ISSN: 2288-4645 (Online))",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 22,
+            "volume_issue_pages": "7 (7) 453-462",
+            "published_date": "06/2020"
+        },
+        {
+            "title": "The Impact of Human Resource Management Activities on the Compatibility and Work Results",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal of Asian Finance, Economics and Business (ISSN: 2288-4637 (Print) - ISSN: 2288-4645 (Online))",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 56,
+            "volume_issue_pages": "7 (9) 621-629",
+            "published_date": "08/2020"
+        },
+        {
+            "title": "Talent Management in Vietnam: Significant multi-level challenges in the context of extended Covid-19 pandemic",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "British Academy of Management 2021 (BAM 2021): Recovering from Covid: Responsible Management and Reshaping the Economy (ISBN: 978-0-9956413-4-1)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "168",
+            "published_date": "09/2021"
+        },
+        {
+            "title": "Ứng dụng mô hình TAM trong việc nâng cao ý định sử dụng dịch vụ ngân hàng số",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Ngân hàng châu Á (ISSN: 2615-9813)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "183 63-72",
+            "published_date": "06/2021"
+        },
+        {
+            "title": "Chất lượng dịch vụ và lòng trung thành của khách hàng trong hoạt động logistics tại Thành phố Hồ Chí Minh",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Ngân hàng châu Á (ISSN: 2615-9813)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "185 83-99",
+            "published_date": "08/2021"
+        },
+        {
+            "title": "The Impact of Income Diversification on Profitability and Risk of Commercial Banks: Cases of Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Applied Business and Economic Research (ISSN: 0972-7302)",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "15 (11) 123-137",
+            "published_date": "01/2017"
+        },
+        {
+            "title": "Measuring Internal Factors Affecting the Competitiveness of Financial Companies: The Research Case in Vietnam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Beyond Traditional Probabilistic Methods in Economics - Studies in Computational Intelligence (ISBN: 978-3-030-04199-1 (Print) - ISSN: 978-3-030-04200-4 (Online))",
+            "journal_ranking": "Scopus 2",
+            "citation_count": 0,
+            "volume_issue_pages": "809 596-605",
+            "published_date": "11/2018"
+        },
+        {
+            "title": "Blockchain - Công nghệ tài chính trong tương lai phát triển bền vững của lĩnh vực ngân hàng tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Hội thảo Khoa học quốc gia “Hệ thống Tài chính – Ngân hàng với sự phát triển kinh tế - xã hội miền Trung – Tây Nguyên trong bối cảnh cách mạng công nghệ” – DCFB 2020 (ISBN: 978-604-84-5312-1)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "144-155",
+            "published_date": "07/2020"
+        },
+        {
+            "title": "Giải pháp marketing cho ngành du lịch Việt Nam trong bối cảnh hồi phục hậu đại dịch Covid-19",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Ngân hàng châu Á (ISSN: 2615-9813)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "174 27-38",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Phát triển du lịch Đà Nẵng vượt qua thách thức của đại dịch Covid-19",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Ngân hàng châu Á (ISSN: 2615-9813)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "174 94-105",
+            "published_date": "09/2020"
+        },
+        {
+            "title": "Emergent Talent Management Model and Industry Toolkit During a Pandemic-An Investigation in the Vietnamese Banking Sector",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "WSEAS Transaction on Computer Research (ISSN: 2415-1521)",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 1,
+            "volume_issue_pages": "11 117-134",
+            "published_date": "07/2023"
+        },
+        {
+            "title": "Multi-level challenges in talent management in a post COVID-19 future: Examining the banking sector in Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Cogent Business & Management (ISSN: 2331-1983)",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 7,
+            "volume_issue_pages": "10(3) 2251198",
+            "published_date": "08/2023"
+        },
+        {
+            "title": "Challenges and solutions for human resource development activities of the FPT Group in the age of digital technology",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Multidisciplinary Science Journal (ISSN: 2675-1240)",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "7 (4) 2025152",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Talent management and digital transformation: empirical investigation in the Vietnamese banking sector",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal for Global Business Advancement (JGBA) (ISSN: 1746-966X (Print) - ISSN: 1746-9678 (Online))",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "16 (5) 712-735",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Factors influencing talent retention: A case study of Techcombank in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Multidisciplinary Science Journal (ISSN: 2675-1240)",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 0,
+            "volume_issue_pages": "7 (12) 2025590",
+            "published_date": "06/2025"
+        },
+        {
+            "title": "The Impact of Logistics Services on Customer Satisfaction: An Empirical Study in the COVID 19 Pandemic",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Journal Of Organizational Behavior Research (ISSN: 2528-9705)",
+            "journal_ranking": "Scopus, ESCI",
+            "citation_count": 3,
+            "volume_issue_pages": "8 (1) 12-24",
+            "published_date": "03/2023"
+        },
+        {
+            "title": "Understanding the moderating role of trust on continuance intention towards smartphone banking services: empirical evidence from Vietnam",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal for International Business and Entrepreneurship Development (ISSN: 1549-9324 (Print) - ISSN: 1747-6763 (Online))",
+            "journal_ranking": "Scopus Q2, ESCI",
+            "citation_count": 2,
+            "volume_issue_pages": "16 (1) 4-33",
+            "published_date": "06/2024"
+        },
+        {
+            "title": "Satisfaction and green finance continuance behaviour at Ho Chi Minh City commercial bank",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Infrastructure, Policy and Development (ISSN: 2572-7923 (Print) - ISSN: 2572-7931 (Online))",
+            "journal_ranking": "Scopus Q2",
+            "citation_count": 0,
+            "volume_issue_pages": "8 (9) 8079",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "The role of public policy, CSR and customer engagement towards green banking at commercial banks in Ho Chi Minh City",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Journal of Management World (ISSN: 2994-3191)",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "2024 (3) 110-119",
+            "published_date": "09/2024"
+        },
+        {
+            "title": "The roles of user adaptation and trust in fostering continuance intention toward mobile banking: an extended decomposed theory of plan behavior",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Multidisciplinary Science Journal (ISSN: 2675-1240)",
+            "journal_ranking": "Scopus Q4",
+            "citation_count": 1,
+            "volume_issue_pages": "7 (6) 2025290",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "The impact of accessible capital on labor growth of small and medium enterprises in Vietnam",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Journal of Advanced and Applied Sciences (ISSN: 2313-626X (Print) - ISSN: 2313-3724 (Online))",
+            "journal_ranking": "Scopus Q4, ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "10 (4) 32-43",
+            "published_date": "01/2023"
+        },
+        {
+            "title": "The Role of Public Policy in Promoting the Competitive Capacity of Tourism Enterprises",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Advanced and Applied Sciences (ISSN: 2313-626X (Print) - ISSN: 2313-3724 (Online))",
+            "journal_ranking": "Scopus Q3, ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "11 (11) 209-218",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "The relationship between big data analytics and financial performance within the Vietnamese banking sector",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "International Journal of Advanced and Applied Sciences (ISSN: 2313-626X (Print) - ISSN: 2313-3724 (Online))",
+            "journal_ranking": "Scopus Q3, ESCI",
+            "citation_count": 0,
+            "volume_issue_pages": "12 (1) 242-255",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Thách thức đối với hoạt động quản trị tài năng: Nghiên cứu thực nghiệm trong lĩnh vực ngân hàng tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Ngân hàng châu Á (ISSN: 2615-9813)",
+            "journal_ranking": "",
+            "citation_count": 1,
+            "volume_issue_pages": "207 110-123",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Quản trị tài năng trong bối cảnh chuyển đổi số: Khung lý thuyết đề xuất cho các ngân hàng thương mại tại Việt Nam",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Ngân hàng châu Á (ISSN: 2615-9813)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "226 129-143",
+            "published_date": "01/2025"
+        },
+        {
+            "title": "Những yếu tố ảnh hưởng đến lòng trung thành của khách du lịch nội địa đến thành phố Hồ Chí Minh: Vai trò trung gian của sự hài lòng",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Ngân hàng châu Á (ISSN: 2615-9813)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "223 77-92",
+            "published_date": "10/2024"
+        },
+        {
+            "title": "Ảnh hưởng của lãnh đạo và văn hóa doanh nghiệp đến quyết định đầu tư – Trường hợp các công ty niêm yết trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh",
+            "num_authors": 1,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Kinh tế và Ngân hàng châu Á (ISSN: 2615-9813)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "229 128-144",
+            "published_date": "04/2025"
+        },
+        {
+            "title": "Talent management during a global pandemic – An emergent toolkit for the Vietnamese banking industry",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "British Academy of Management (BAM 2022) Conference Proceedings (ISBN: 978-0-9956413-5-8)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "209",
+            "published_date": "09/2022"
+        },
+        {
+            "title": "Important Negotiation Behaviours in Entrepreneurs' New Product Launching Stage During Post-Covid-19 Era",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Business Innovation for the Post-pandemic Era in Vietnam for the Post-pandemic Era in Vietnam (ISBN: 978-981-99-1544-6 (Print) - ISBN: 978-981-99-1545-3 (Online))",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "13-23",
+            "published_date": "05/2023"
+        },
+        {
+            "title": "Impact of Managers' Gender Difference on Firms' Liability in Vietnam",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Optimal Transport Statistics for Economics and Related Topics",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "483 498-512",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Factors influencing trust in community and purchase intention in social commerce: A case study in fashion industry in Vietnam.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Studies in Systems, Decision and Control (ISBN: 978-3-031-35762-6 (Print) - ISBN 978-3-031-35763-3 (Online)); The International Conference on Business Based on Digital Platform (BDP-4) (ISBN: 978-604-79-4611-2)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "480-495",
+            "published_date": "11/2024"
+        },
+        {
+            "title": "Business models applied in the digital age in Vietnam",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "The International Conference on Digital Transformation and Digital Economics: Principles and Practice (ISBN: 978-604-80-5941-5)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "99-114",
+            "published_date": "12/2021"
+        },
+        {
+            "title": "The Role of Liability in Managing Financial Performance: The Investigation in the Vietnamese SMEs Context",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Financial Econometrics: Bayesian Analysis, Quantum Uncertainty, and Related Topics - Studies in Systems, Decision and Control (ISBN: 978-3-030-98688-9 (Print) - ISBN: 978-3-030-98689 -6 (Online))",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "427 387-404",
+            "published_date": "05/2022"
+        },
+        {
+            "title": "The impact of Covid 19 Pandemic on the Vietnamese logistic sector",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "International Conference on Business and Finance (ISBN: 978-604-36-0956-1)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "1044-1056",
+            "published_date": "08/2022"
+        },
+        {
+            "title": "Challenges for entrepreneurs in Vietnam within the context of the post-Covid recovery",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "41st IBIMA Business, Marketing, Management, and Human Resources Conference (ISSN: 2767-9640)",
+            "journal_ranking": "",
+            "citation_count": 0,
+            "volume_issue_pages": "838-848",
+            "published_date": "06/2023"
+        },
+        {
+            "title": "Determinants of Small and Medium Enterprises' Capital Intensity: The Case in Vietnam",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optimal Transport Statistics for Economics and Related Topics - Studies in Systems, Decision and Control (ISBN: 978-3-031-35762-6 (Print) - ISBN: 978-3-031-35763-3 (Online))",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "483 264-273",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Factors Affecting the Financal Leverage of Vietnam Businesses",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optimal Transport Statistics for Economics and Related Topics - Studies in Systems, Decision and Control (ISBN: 978-3-031-35762-6 (Print) - ISBN: 978-3-031-35763-3 (Online))",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "483 667-675",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Labor Productivity: Does Export Matter for Vietnamese Small and Medium Enterprises?",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Optimal Transport Statistics for Economics and Related Topics - Studies in Systems, Decision and Control (ISBN: 978-3-031-35762-6 (Print) - ISBN: 978-3-031-35763-3 (Online))",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "483 274-285",
+            "published_date": "10/2023"
+        },
+        {
+            "title": "Factors Affecting the Credit Growth of Vietnamese Commercial Banks in the Post-global Economic Crisis",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Partial Identification in Econometrics and Related Topics - Studies in Systems, Decision and Control (ISBN: 978-3-031-59109-9 (Print) - ISBN: 978-3-021-59110-5 (Online))",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "577-586",
+            "published_date": "07/2024"
+        },
+        {
+            "title": "The Effect of Firm Size on Its Productivity: Evidence from Vietnamese Small and Medium Enterprises",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Partial Identification in Econometrics and Related Topics - Studies in Systems, Decision and Control (ISBN: 978-3-031-59109-9 (Print) - ISBN: 978-3-021-59110-5 (Online))",
+            "journal_ranking": "Scopus",
+            "citation_count": 0,
+            "volume_issue_pages": "531 605-618",
+            "published_date": "07/2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Quản trị tài năng trong các ngân hàng thương mại cổ phần Nhà nước tại Việt Nam.",
+            "role": "Principal Investigator",
+            "project_code": "ĐTNH.031/22",
+            "management_level": "Cấp Bộ",
+            "period": "28/12/2022-28/12/2023",
+            "acceptance_date": "26/02/2024",
+            "rating": "Đạt loại Giỏi"
+        },
+        {
+            "title": "Những yếu tố ảnh hưởng đến lòng trung thành của khách du lịch nội địa đến thành phố Hồ Chí Minh: Vai trò trung gian của sự hài lòng",
+            "role": "Principal Investigator",
+            "project_code": "CT-2409-15",
+            "management_level": "Cấp cơ sở",
+            "period": "9/2024 - 4/2025",
+            "acceptance_date": "14/04/2025",
+            "rating": "Đạt loại Xuất sắc"
+        }
+    ],
+    "books": [
+        {
+            "title": "Trao quyền lãnh đạo trong dịch vụ tài chính",
+            "type": "Monograph",
+            "publisher": "Nhà xuất bản Kinh Tế TP.HCM",
+            "publish_year": "2020",
+            "num_authors": 3,
+            "is_editor_in_chief": false,
+            "compiled_pages": "chương 1, từ trang 15 đến trang 34",
+            "verification_document_id": "643/GXN-ĐHNH ngày 13/5/2025"
+        },
+        {
+            "title": "Quản trị hiện đại và đổi mới sáng tạo",
+            "type": "Textbook",
+            "publisher": "Nhà xuất bản Đại học Quốc gia",
+            "publish_year": "2022",
+            "num_authors": 4,
+            "is_editor_in_chief": false,
+            "compiled_pages": "chương 1, từ trang 1 đến trang 39",
+            "verification_document_id": "642/GXN-ĐHNH ngày 13/5/2025"
+        }
+    ],
+    "patents": null,
+    "achievements": null,
+    "training_programs": [
+        {
+            "title": "Quản trị kinh doanh chính quy chất lượng cao (Tiếng Anh bán phần)",
+            "applicant_role": "Co-Investigator",
+            "assignment_document_id": "480/QĐ-ĐHNH, 28/02/2024",
+            "certifying_authority": "Trường Đại học Ngân hàng TP.HCM",
+            "implementation_document_id": "2069/QĐ-ĐHNH, 02/07/2024",
+            "notes": ""
+        },
+        {
+            "title": "Quản trị kinh doanh chính quy chuẩn",
+            "applicant_role": "Participant/Member",
+            "assignment_document_id": "474/QĐ-ĐHNH, 28/02/2024",
+            "certifying_authority": "Trường Đại học Ngân hàng TP.HCM",
+            "implementation_document_id": "2068/QĐ-ĐHNH, 02/07/2024",
+            "notes": ""
+        }
+    ]
+}

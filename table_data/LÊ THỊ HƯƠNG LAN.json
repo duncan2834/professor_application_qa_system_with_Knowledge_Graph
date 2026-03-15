@@ -1,0 +1,1342 @@
+{
+    "papers": [
+        {
+            "title": "Những thay đổi về khả năng chống Oxy hóa và sự peroxy hóa ở bệnh nhân ung thư vòm họng trước và sau xạ trị.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "17 Tháng 4/2007, tr: 8-12",
+            "published_date": "April, 2007"
+        },
+        {
+            "title": "Nghiên cứu sự biến đổi một số chỉ số sinh hóa máu ở bệnh nhân loạn thần do rượu.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Thực hành",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "số 646+ 647 tr: 24-28",
+            "published_date": "2009"
+        },
+        {
+            "title": "Nhận xét hàm lượng AFP ở bệnh nhân viêm gan, xơ gan và ung thư gan tại Bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "số 646+ 647",
+            "published_date": "2009"
+        },
+        {
+            "title": "Phát hiện người lành mang gen bệnh thoái hóa cơ tủy bằng kỹ thuật MLPA.",
+            "num_authors": 5,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nghiên cứu Y học",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "V74, số 3, tháng june, 2011, tr: 21-26",
+            "published_date": "June, 2011"
+        },
+        {
+            "title": "Bước đầu chẩn đoán trước sinh bệnh Thoái hóa cơ tủy ở Việt Nam.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nghiên cứu Y học",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "V72, số 1, tháng 2, 2011, tr: 6-9.",
+            "published_date": "February, 2011"
+        },
+        {
+            "title": "Xác định đột biến xóa đoạn gen SMN1 gây bệnh thoái hóa cơ tủy”.",
+            "num_authors": 4,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam,",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 377, số 1, tháng 1, 2011, tr: 51-54",
+            "published_date": "January, 2011"
+        },
+        {
+            "title": "Nghiên cứu nồng độ CRPhs và một số chỉ số hóa sinh huyết tương ở bệnh nhân ĐTĐ Tại Bệnh viện Trung ương Thái Nguyên\".",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "tập 421, số đặc biệt, 2014, tr: 23-28",
+            "published_date": "2014"
+        },
+        {
+            "title": "Nghiên cứu nồng độ hs CRP và một số chỉ số hóa sinh ở bệnh nhân đau thắt ngực và nhồi máu cơ tim tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "tập 421, số đặc biệt, 2014, tr: 29-35",
+            "published_date": "2014"
+        },
+        {
+            "title": "Hoạt độ lipase và một số chỉ số sinh hóa máu ở bệnh nhân viêm tụy cấp.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học thực hành",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "944, 2014, tr: 484-488",
+            "published_date": "2014"
+        },
+        {
+            "title": "Sự thay đổi một số chỉ số sinh hóa máu ở bệnh nhân viêm màng não do tăng bạch cầu ái toan.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học TPHCM",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 21, số 3, 2017, Tr: 101-105",
+            "published_date": "2017"
+        },
+        {
+            "title": "Ứng dụng kỹ thuật MLPA và QF-PCR chẩn đoán hội chứng di truyền gây chậm phát triển trí tuệ\".",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Thành phố Hồ Chí Minh",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "2017, tr: 8-15",
+            "published_date": "2017"
+        },
+        {
+            "title": "Nồng độ fructosamin huyết tương và mối liên quan với một số chỉ số hóa sinh máu ở bệnh nhân Đái Tháo Đường type 2 điều trị tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 2,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 469, số, tháng 8, 2018 tr 24-29",
+            "published_date": "August, 2018"
+        },
+        {
+            "title": "Xác định nồng độ Tarcrolymus và một số chỉ số sinh hóa ở bệnh nhân ghép thận từ người cho sống tại Thái Nguyên.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 469, số, tháng 8, 2018, tr 51-59",
+            "published_date": "August, 2018"
+        },
+        {
+            "title": "Nồng độ cystatin C huyết tương và mối liên quan với một số chỉ số sinh hóa ở bệnh nhân suy tim mạn tính điều trị tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 470, tháng 9/2018 tr: 191-199",
+            "published_date": "September, 2018"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng và xử trí U nhày buồng trứng tại Bệnh viện phụ sản trung ương.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí nghiên cứu Y học.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 149, số 1, tháng 1/2022, tr: 100-107",
+            "published_date": "January, 2022"
+        },
+        {
+            "title": "Đặc điểm xét nghiệm huyết học và tình trạng tăng đông ở bệnh nhân covid 19 tại trung tâm hồi sức tích cực Long An năm 2021.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 227 (10) :157-164, 2022",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và kết quả điều trị bệnh nhân sốc nhiễm khuẩn trong 6 giờ đầu tại khoa cấp cứu",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ Đại học Thái Nguyên",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 227 (10): 149-156, 2021",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đặc điểm 139 bệnh nhân rối loạn sinh tủy, điều trị tại bệnh viện trung ương Thái Nguyên và Bệnh viện Bạch Mai, từ 2017-2021.",
+            "num_authors": 9,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Quân sự,",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "tập, số 357, 3-4/2022, tr: 41-44",
+            "published_date": "2022"
+        },
+        {
+            "title": "Estein barr virus và ung thư vòm họng.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ Đại học Thái Nguyên",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập số 227 (10): 282-291",
+            "published_date": "2022"
+        },
+        {
+            "title": "Mô tả đặc điểm lâm sàng, cận lâm sàng và tỷ lệ có thai của người bệnh đáp ứng kém với kích thích buồng trứng.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam,",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "tập 514, số 1, tháng 5, 2022, tr: 298-303",
+            "published_date": "May, 2022"
+        },
+        {
+            "title": "Đặc điểm sinh hóa máu và huyết học ở bệnh nhân sốc nhiễm khuẩn tại khoa cấp cứu bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam,",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 516, tháng 7/2022, tr: 173-181",
+            "published_date": "July, 2022"
+        },
+        {
+            "title": "Đặc điểm sinh hóa máu và tình trạng tăng đông ở bệnh nhân covid 19 theo mức độ bệnh tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 516, tháng 7/2022, tr: 181-192",
+            "published_date": "July, 2022"
+        },
+        {
+            "title": "Một số đặc điểm người cho thận và ghép thận tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 516, tháng 7/2022, tr: 193-200",
+            "published_date": "July, 2022"
+        },
+        {
+            "title": "Đặc điểm bệnh và một số biến chứng ở bệnh nhân cúm mùa điều trị tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Truyền nhiễm Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 03 (39) Tr: 30-34",
+            "published_date": "2022"
+        },
+        {
+            "title": "Mối liên quan giữa chỉ số bạch cầu khi nhập viện với kết quả điều trị bệnh nhân chảy máu dưới nhện tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 6,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 519, số tháng 10/2022, tr: 212-219",
+            "published_date": "October, 2022"
+        },
+        {
+            "title": "Thực trạng kiến thức, thái độ, thực hành về đột quỵ não của bệnh nhân và người chăm sóc tại Bệnh viện trung ương Thái Nguyên”.",
+            "num_authors": 12,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 519, số tháng 10,2022, tr: 122-129",
+            "published_date": "October, 2022"
+        },
+        {
+            "title": "Biến chứng đường vào mạch máu tự thân ở người bệnh thận nhân tạo chu kỳ tại bệnh viện Bạch Mai”, Tạp chí Y dược, 2022.",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y Dược học",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 59, tháng 10/2022, tr: 34-38",
+            "published_date": "October, 2022"
+        },
+        {
+            "title": "Kết quả phát hiện tỷ lệ nhiễm helicobarter pylory bằng test nhanh urease và test hơi thở tại bệnh viện trung ương Thái nguyên.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập số 227 (14/1), 148-154",
+            "published_date": "2022"
+        },
+        {
+            "title": "Thực trạng từ chối mẫu tại bệnh viện trung ương Thái Nguyên",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 227 (14/1), 2022, tr: 3-11",
+            "published_date": "2022"
+        },
+        {
+            "title": "Nghiên cứu mỗi liên quan giữa thành phần máu ngoại vi và một số đặc điểm thai phụ với hiện tượng sinh non tại Bệnh viện A Thái nguyên",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "tập 227 (14/1), 2022, tr: 27-34",
+            "published_date": "2022"
+        },
+        {
+            "title": "Khảo sát kiến thức và mối liên quan với chăm sóc bàn cân ở bệnh nhân ĐTĐ type 2 tại Bệnh viện trung ương Thái Nguyên\".",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 227 (14/1), 2022, tr: 35-41",
+            "published_date": "2022"
+        },
+        {
+            "title": "Kiến thức về an toàn truyền máu của điều dưỡng hệ nội tại Bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 227 (14/1), 2022, tr: 56-63",
+            "published_date": "2022"
+        },
+        {
+            "title": "Kết quả liệu pháp kép PPI – Amoxcilin liều cao có bismusth trong điều trị helicobacter pylory lần đầu.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 227 (14/1), 2022, tr: 126-132",
+            "published_date": "2022"
+        },
+        {
+            "title": "Mối liên quan giữa tình trạng nhiễm helicobacter pylory với mức độ tổn thương ở bệnh nhân dạ dày, tá tràng tại bệnh viện trung ương Thái nguyên.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 227 (14/1), 2022, tr: 133-139",
+            "published_date": "2022"
+        },
+        {
+            "title": "Kết quả phục hồi chức năng nhận thức trên bệnh nhân đột quỵ não tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 11,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí thần kinh học Việt Nam.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 33, (2022), ISSN 2354-0931",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và kết quả điều trị sốc nhiễm khuẩn 6 h đầu.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "tập 227, số 10, tháng (2022), tr. 149-156.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, Xquang chấn thương gãy liên tầng.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí dược lâm sàng 108",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 17, số 6.2022, Tr: 83-91",
+            "published_date": "2022"
+        },
+        {
+            "title": "Khảo sát sự kháng kháng sinh ở bệnh nhân thở máy tại bệnh viện trung ương Thái Nguyên”.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học lâm sàng BV 108",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 12, số đặc biệt 2017",
+            "published_date": "2017"
+        },
+        {
+            "title": "Mối liên quan giữa nồng độ CA 15-3 với các thành phần tế báo máu ngoại vi ở bệnh nhân ung thư vú tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 227 S. 14 2022.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Mối liên quan giữa đặc điểm lâm sàng và cận lâm sàng với nồng độ Fe huyết thanh ở bệnh nhân suy tim mạn tính.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 228, số S01, tháng (2023), tr. 423-429",
+            "published_date": "2023"
+        },
+        {
+            "title": "Nồng độ yếu tố kháng tân tạo mạch máu ở quý 1 thai kỳ quản lý thai nghén tại Bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "S01, tháng (2022), tr. 415-422",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đặc điểm thành phần tế bào máu ngoại vi ở bệnh nhân ung thư vú tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 227 (05) Tr:240-245.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Đặc điểm lâm sàng và nồng độ calprotectin của bệnh nhân bệnh lý ruột viêm tại bệnh viện trung ương Thái nguyên.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học và công nghệ, Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "ĐNTN tập S. 05(14/1),",
+            "published_date": "2023"
+        },
+        {
+            "title": "Mức độ kháng kháng sinh của preudomonas aeruginosa phân lập được tại Bệnh viện Trung ương Thái Nguyên 2017 -2021\"",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 523, số 1, tháng 2/2023, tr: 115-119",
+            "published_date": "February, 2023"
+        },
+        {
+            "title": "Mối liên quan giữa nồng độ calprotectin phân với đặc điểm lâm sàng và một số chỉ số sinh hóa ở ở bệnh nhân viêm ruột.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526 số 1B tháng 5/2023: tr: 267-272.",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Mối liên quan giữa nồng độ SFlt-1, PLGF và đặc điểm lâm sàng, cận lâm sàng ở quý 1 thai kỳ trên các thai phụ có nguy cơ cao TSG.",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 526 số 1B tháng 5/2023, tr: 121-125",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Đánh giá kết quả bước đầu cắt amidan bằng laser CO2 tại khoa Tai Mũi Họng - Bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học công nghệ Đại học Thái Nguyên.",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Số 228 (05): Tr: 493-501",
+            "published_date": "2023"
+        },
+        {
+            "title": "Kết quả phẫu thuật ghép thận và theo dõi xử trí các biến chứng ở bệnh nhân sau ghép thận từ người cho sống tại Thái Nguyên",
+            "num_authors": 2,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí khoa học Việt Nam DOI: 10.31276/VJST.65(5).20-2",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập: 65(5) 5/2023",
+            "published_date": "May, 2023"
+        },
+        {
+            "title": "Báo cáo một trường hợp dò dưỡng chấp sau phẫu thuật ung thư tuyến giáp sử dụng giao ligasure.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam tập 530, số 2, tháng 9/2023, 159-161",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 530 (2); 9/2023",
+            "published_date": "September, 2023"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, hóa sinh máu ở bệnh nhân ung thư tuyến giáp phẫu thuật bằng giao ligasure tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 3,
+            "is_main_author": true,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, tập 531, số 1, tháng 10/2023, 358-362",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 531 (1); 10/2023",
+            "published_date": "October, 2023"
+        },
+        {
+            "title": "Đánh giá kết quả phẫu thuật sớm ung thư tuyến giáp sử dụng giao ligasure.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, tập 530, số 2, tháng 9/2023, 41-45",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 531 (2); 9/2023",
+            "published_date": "September, 2023"
+        },
+        {
+            "title": "Xác định nồng độ PCT, LDH và mối liên quan với tiên lượng nặng ở bệnh nhi nhiễm khuẩn nặng điều trị tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí khoa học và Công nghệ Đại học Thái Nguyên",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 229 (01); 354-356",
+            "published_date": "2023"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng ở bệnh nhân covid 19 thể nhẹ điều trị tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 3,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 532, số chuyên đề tháng 11: 208 - 217",
+            "published_date": "November, 2023"
+        },
+        {
+            "title": "Nồng độ Apolipoprotein và một số chỉ số lipid huyết tương ở bệnh nhân bệnh thận giai đoạn cuối lọc máu chu kỳ tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 529, số chuyên đề tháng 8/2023: 126-134",
+            "published_date": "August, 2023"
+        },
+        {
+            "title": "Kết quả ngắn hạn và trung hạn của phương pháp can thiệp nội mạch bằng laser bước sóng 1470 nm trong điều trị suy tĩnh mạch nông chi dưới mạn tính.",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, Tập 533, số 1 B 12/2023",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tr: 538-563",
+            "published_date": "December, 2023"
+        },
+        {
+            "title": "Hình thái lâm sàng, vi sinh viêm ống tai ngoài do nấm.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, tập 534, số (2) 1/2024",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 534, số (2) 1/2024 tr: 83-85",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng nang hố thanh thiệt tại bệnh viện trung ương Thái Nguyên.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Tạp chí Y học Việt Nam, tập 534, số 2 tháng 1/2024",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "Tập 534, số (2) 1/2024 tr: 237-240",
+            "published_date": "January, 2024"
+        },
+        {
+            "title": "Evalution of urinary L-FABP as an early marker for diabetic nerphropathy in type 2 diabetic patients.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "J med Biochem",
+            "journal_ranking": "Scopus IF: 2.157",
+            "citation_count": 0,
+            "volume_issue_pages": "2020; 39(2); 224-230",
+            "published_date": "2020"
+        },
+        {
+            "title": "Impact of Digital Healthy Diet Literacy and healthy eating behavior on fear of covid 19, changes in mental health, and health – related quality of life among front line health care workers.",
+            "num_authors": 18,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nutrients",
+            "journal_ranking": "Scopus IF: 6.706 X",
+            "citation_count": 0,
+            "volume_issue_pages": "2021,13,2656; https://doi.org/10.3390/nu13082656 july 2021",
+            "published_date": "July, 2021"
+        },
+        {
+            "title": "\"Serum osteoprotegerin level in hemodialys patients using low – flux reused dialyser in relation to atherosclerosis\".",
+            "num_authors": 13,
+            "is_main_author": false,
+            "journal_name_ISSN": "JClin Lab Anali 2021",
+            "journal_ranking": "Scopus IF: 3.124 X",
+            "citation_count": 0,
+            "volume_issue_pages": "JClin Lab Anali 2021: 23886,: http://doi org/10.1002/jcla.2386",
+            "published_date": "2021"
+        },
+        {
+            "title": "Osteoporosis Risk in Hemodialysis Patients: The Roles of Gen Comorbidities, Biochemical Parameters, Health and Diet Literacy.",
+            "num_authors": 22,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nutrients",
+            "journal_ranking": "Scopus IF: 6.706 X",
+            "citation_count": 0,
+            "volume_issue_pages": "2022, 14, 5122. https://doi.org/10.3390/nu14235122, pp: 1-14.",
+            "published_date": "2022"
+        },
+        {
+            "title": "Familier Awareness and attitudes towards children with cleft lip and palate in the northern provinces of Viet Nam",
+            "num_authors": 7,
+            "is_main_author": false,
+            "journal_name_ISSN": "Sri Lanka Journal of Health,",
+            "journal_ranking": "N/A",
+            "citation_count": 0,
+            "volume_issue_pages": "2023; 52",
+            "published_date": "2023"
+        },
+        {
+            "title": "Digital Health Diet Literacy and Fear of COVID-19 as Associated with Treatment Adherence and Its Subscales among Hemodialysis Patients: A Multi-hospital Survey.",
+            "num_authors": 20,
+            "is_main_author": true,
+            "journal_name_ISSN": "Nutrients 2023, 15(10), 2292; https://doi.org/10.3390/nu15102292 (registering DOI)",
+            "journal_ranking": "Scopus IF: 6.706",
+            "citation_count": 0,
+            "volume_issue_pages": "2023, 15(10), 2292;",
+            "published_date": "2023"
+        },
+        {
+            "title": "Association between Hypertension and Stroke Recurrence as Modified by Prooxidant-Antioxidant Balance: A Multi-Center Study.",
+            "num_authors": 18,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nutrients 2023, 15, 2305. https://doi.org/10.3390/nu15102305",
+            "journal_ranking": "Scopus IF: 6.706",
+            "citation_count": 0,
+            "volume_issue_pages": "Website: https://www.mdpi.com/2072-6643/15/10/2305 PDF Version: https://www.mdpi.com/2072-6643/15/10/2305/pdf",
+            "published_date": "2023"
+        },
+        {
+            "title": "Strong negative association between cesarean delivery mode and the practice of early initiation of breastfeeding among Vietnamese mothers – A secondary analysis of the Viet Nam Sustainable Development Goal Indicators on Children and Women.",
+            "num_authors": 5,
+            "is_main_author": false,
+            "journal_name_ISSN": "Nutrients 2023, 15, 4501. https://doi.org/10.3390/nu15214501",
+            "journal_ranking": "Scopus IF: 6.706",
+            "citation_count": 0,
+            "volume_issue_pages": "Nutrients 2023, 15, 4501.",
+            "published_date": "2023"
+        },
+        {
+            "title": "Impact of Long COVID on Post-Traumatic Stress Disorder as Modified by Health Literacy: An Observational Study in Vietnam.",
+            "num_authors": 23,
+            "is_main_author": false,
+            "journal_name_ISSN": "Osong Public Health Res Perspect. 2024;15(1):33-44. Published online February 19, 2024 DOI: https://doi.org/10.24171/j.phrp.2023.0261",
+            "journal_ranking": "Q2 Scopus IF: 4.3",
+            "citation_count": 0,
+            "volume_issue_pages": "2024;15(1):33-44. Published online February 19, 2024 DOI: https://doi.org/10.24171/j.phrp.2023.0261",
+            "published_date": "February, 2024"
+        },
+        {
+            "title": "Comparison of Pre-eclampsia Screening Algorithms in the First Trimester of Pregnancy Being Used in Thai Nguyen Province",
+            "num_authors": 4,
+            "is_main_author": false,
+            "journal_name_ISSN": "Cureus 16(4):e59133. doi:10.7759/cureus.59133",
+            "journal_ranking": "Scopus IF: 2.4",
+            "citation_count": 0,
+            "volume_issue_pages": "16(4):e59133. doi:10.7759/cureus.59133",
+            "published_date": "2024"
+        },
+        {
+            "title": "Sex Differences in Clustering Unhealthy Lifestyles Among Survivors of COVID-19: Latent Class Analysis",
+            "num_authors": 23,
+            "is_main_author": true,
+            "journal_name_ISSN": "JMIR Public Health Surveill 2024;10:e50189 doi: 10.2196/50189PMID: 38564248PMCID: 10989720",
+            "journal_ranking": "Q1 Scopus IF: 8.5",
+            "citation_count": 0,
+            "volume_issue_pages": "2024;10:e50189",
+            "published_date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Nghiên cứu trạng thái chống oxy hóa ở bệnh nhân ung thư vòm họng trước và sau xạ trị",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Đại học Y Hà Nội",
+            "period": "24 tháng",
+            "acceptance_date": "13/5/2004",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Định lượng RAPID TSH, FT4, T3 toàn phần bằng phương pháp hóa phát quang trực tiếp ở bệnh nhân basedow đến khám và điều trị tại BVTWTN",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "25/12/2007",
+            "rating": "Khá"
+        },
+        {
+            "title": "Nghiên cứu sự biến đổi một số chỉ số sinh hóa máu ở bệnh nhân loạn thần do rượu, đề tài cấp cơ sở 2008 – 2009.",
+            "role": "Participant",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "24 tháng",
+            "acceptance_date": "10/3/2009",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nhận xét hàm lượng AFP ở bệnh nhân viêm gan, xơ gan và ung thư gan tại Bệnh viện đa khoa trung ương Thái Nguyên",
+            "role": "Participant",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "10/3/2009",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu chỉ số HbA1c ở bệnh nhân tiểu đường điều trị ngoại trú tại Bệnh viện đa khoa trung ương Thái Nguyên",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Đại học Y Dược",
+            "period": "12 tháng",
+            "acceptance_date": "26/01/2010",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Xác định đột biến xóa đoạn gen SMN1 gây bệnh thoái hóa cơ tủy bằng phương pháp RFLP",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "23/1/2013",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu nồng độ Hs CRP và một số chỉ số sinh hóa ở bệnh nhân đau thắt ngực không ổn định và bệnh nhân nhồi máu cơ tim",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "31/12/2013",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Xác định hoạt độ lipase và một số chỉ số sinh hóa ở bệnh nhân viêm tụy cấp.",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "31/12/2013",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu một số chỉ số hóa sinh của người bị bệnh Goutte được hỗ trợ điều trị bằng thảo dược tại khu vực miền núi phía bắc.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Hướng dẫn luận văn thạc sỹ",
+            "period": "2012-2014",
+            "acceptance_date": "24/11/2014",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu nồng độ CRPhs và một số chỉ số hóa sinh huyết tương ở bệnh nhân ĐTĐ tại bệnh viện Đa khoa Trung ương Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "29/1/2015",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nồng độ homocysteine huyết tương ở bệnh nhân đau thắt ngực và nhồi máu cơ tim tại bệnh viện trung ương Thái nguyên",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "18/1/2016",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nồng độ acid beta hydroxybutyric huyết tương ở bệnh nhân ĐTĐ",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "18/1/2016",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu nồng độ pro B type natriuretic ở bệnh nhân suy tim trên 60 tuổi",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "18/1/2016",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu sự thay đổi sinh hóa não tủy ở bệnh nhân viêm màng não do tăng bạch cầu ái toan",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "24 tháng",
+            "acceptance_date": "7/2/2017",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Thực trạng quản lý, sử dụng trang thiết bị y tế chẩn đoán hình ảnh và một số yếu tố ảnh hưởng tại bệnh viện trung ương Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Đại học Y tế Công cộng",
+            "period": "24 tháng",
+            "acceptance_date": "22/4/2019",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nồng độ tarcrolymus ở bệnh nhân ghép thận tại Thái Nguyên.",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "23/1/2018",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu nồng độ Adenocorticotropic Hormon ở bệnh nhân khớp mạn tính điều trị nội trú tại bệnh viện trung ương Thái Nguyên",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "17/1/2020",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nồng độ Cystatin C ở bệnh nhân ĐTĐ có tổn thương thận điều trị tại",
+            "role": "Participant",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "N/A",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Ứng dụng kỹ thuật ghép thận từ người cho sống tại Thái Nguyên.",
+            "role": "Assistant",
+            "project_code": "667/QĐ-UBND ngày 24/3/2017",
+            "management_level": "Cấp tỉnh",
+            "period": "24 tháng",
+            "acceptance_date": "29/3/2019",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Thực trạng từ chối mẫu xét nghiệm tại bệnh viện trung ương Thái Nguyên",
+            "role": "Participant",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "10/02/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Kết quả của liệu pháp kép PPI- amocixillin liều cao có bismuth trong điều trị helicobacter pylori lần đầu tại bệnh viện trung ương Thái Nguyên, đề tài cấp cơ sở.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "10/02/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Tác động của kiến thức về chế độ ăn uống lành mạnh và hành vi ăn uống lành mạnh đối với nỗi sợ covid 19, những thay đổi về sức khỏe tâm thần và chất lượng cuộc sống liên quan đến sức khỏe của các nhân viên y tế tuyến đầu.",
+            "role": "Participant",
+            "project_code": "N/A",
+            "management_level": "Đa trung tâm",
+            "period": "24 tháng",
+            "acceptance_date": "N/A",
+            "rating": "N/A"
+        },
+        {
+            "title": "Đặc điểm bệnh và một số biến chứng ở bệnh nhân cúm mùa điều trị tại bệnh viện trung ương Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "10/02/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Sự thay đổi chỉ số sinh hóa máu ở bệnh nhân ghép thận từ người cho",
+            "role": "Participant",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "24 tháng",
+            "acceptance_date": "10/02/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đặc điểm lâm sàng, cận lâm sàng và xử trí U nhày buồng trứng tại Bệnh viện phụ sản trung ương.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "10/02/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Đặc điểm 139 bệnh nhân rối loạn sinh tủy, điều trị tại bệnh viện trung ương Thái Nguyên và Bệnh viện Bạch Mai, từ 2017-2021.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Luận án tiến sỹ",
+            "period": "48 tháng",
+            "acceptance_date": "N/A",
+            "rating": "YHN1 0505, năm 2023"
+        },
+        {
+            "title": "Nghiên cứu xây dựng qui trình sàng lọc tiền sản giật quý 1 thai kỳ trên nhóm thai phụ có yếu tố nguy cơ cao và điều trị dự phòng tại Thái Nguyên.",
+            "role": "Principal Investigator",
+            "project_code": "258/QĐ-UBND ngày 28/1/2019",
+            "management_level": "Cấp tỉnh",
+            "period": "24 tháng",
+            "acceptance_date": "15/12/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Mô tả đặc điểm lâm sàng, cận lâm sàng và tỷ lệ có thai của người bệnh đáp ứng kém với kích thích buồng trứng.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Luận văn Tiến sỹ",
+            "period": "36 tháng",
+            "acceptance_date": "N/A",
+            "rating": "Đề tài cấp đại học, hướng dẫn luận án Tiến sỹ 2017-2022; Số: 10418, số vào sổ 020-TS 2022"
+        },
+        {
+            "title": "Kết quả tán sỏi qua da đường hầm nhỏ dưới hướng dẫn của siêu âm điều trị sỏi thận tại bệnh viện trung ương Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "258/QĐ-UBND ngày 28/1/2019",
+            "management_level": "Cấp tỉnh",
+            "period": "24 tháng",
+            "acceptance_date": "21/12/2022",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Mức độ kháng kháng sinh của preudomonas aeruginosa phân lập được tại Bệnh viện Trung ương Thái Nguyên 2017 -2021.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Đề tài cấp đại học",
+            "period": "24 tháng",
+            "acceptance_date": "17/1/2023",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Tình hình đề kháng kháng sinh của Klebbsiella pneumonia, pseudomonas aeruginosa và acinetobacter baumanni II, phân lập tại khoa hồi sức tích cực chống độc và khoa cấp cứu, bệnh viện trung ương Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "10/2/2021",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu sự thay đổi hóa sinh máu và đặc điểm tế bào máu và tình trạng tăng đông ở bệnh nhân covid 19 điều trị tại trung tâm hồi sức tích cực Tỉnh Long An.",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "01/12/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng và nồng độ calprotectin ở bệnh nhân viêm ruột IBD",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Đại học Y Dược TN",
+            "period": "24 tháng",
+            "acceptance_date": "N/A",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm lâm sàng, cận lâm sàng ở bệnh nhân suy tim mạn tính có thiếu sắt huyết thanh điều trị tại bệnh viện trung ương Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Đại học Y Dược TN",
+            "period": "24 tháng",
+            "acceptance_date": "N/A",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nghiên cứu đặc điểm nhân trắc, hóa sinh và mối liên quan với dinh dưỡng điều trị ở bệnh",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Đa trung tâm",
+            "period": "36 tháng",
+            "acceptance_date": "N/A",
+            "rating": "N/A"
+        },
+        {
+            "title": "Nghiên cứu mối liên quan giữa thành phần máu ngoại vi và một số đặc điểm thai phụ với hiện tượng sinh non tại Bệnh viện A Thái nguyên, đề tài hướng dẫn luận văn thạc sỹ.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Đại học Khoa học",
+            "period": "24 tháng",
+            "acceptance_date": "12/10/2022",
+            "rating": "Giỏi"
+        },
+        {
+            "title": "Nghiên cứu về đặc điểm những người sống sót sau đại dịch covid 19 tại Việt Nam, Nghiên cứu đa trung tâm Việt Nam – Đài Loan.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Đa trung tâm",
+            "period": "24 tháng",
+            "acceptance_date": "N/A",
+            "rating": "N/A"
+        },
+        {
+            "title": "Nghiên cứu yếu tố kháng tân tạo mạch máu ở thai phụ quý 1 thai kỳ tại Thái Nguyên.",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "01/12/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đặc điểm huyết học và tình trạng tăng đông ở bệnh nhân covid 19 tại trung tâm hồi sức tích cực Long An.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "01/12/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Đặc điểm thành phần tế bào máu ngoại vi ở bệnh nhân ung thư vú tại bệnh viện trung ương Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "01/12/2022",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu về tình trạng sức khỏe tâm thần của nhân viên y tế sau đại dịch covid 19, Nghiên cứu đa trung tâm – Đại học Y đài Bắc và 1 số trường đại học, Bệnh viện Tại Việt Nam.",
+            "role": "Participant",
+            "project_code": "N/A",
+            "management_level": "Đa trung tâm",
+            "period": "24 tháng",
+            "acceptance_date": "N/A",
+            "rating": "N/A"
+        },
+        {
+            "title": "Ứng dụng giao Liagasure trong phẫu thuật ung thư tuyến giáp, Tại Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "3956/QĐUB Ngày 11/12/2021",
+            "management_level": "Cấp tỉnh",
+            "period": "24 tháng",
+            "acceptance_date": "22/7/2023",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Thực trạng tai nạn thương tích ở người trưởng thành từ 18-60 tuổi và hiệu quả mô hình cộng đồng an toàn tại Tỉnh Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "258/QĐUB ND ngày 28/1/2029",
+            "management_level": "Cấp tỉnh",
+            "period": "24 tháng",
+            "acceptance_date": "19/10/2023",
+            "rating": "Đạt"
+        },
+        {
+            "title": "Kết quả ngắn hạn và trung hạn của phương pháp can thiệp nội mạch bằng laser bước sóng 1470 nm trong điều trị suy tĩnh mạch nông chi dưới mạn tính.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Đại học Y Dược TN",
+            "period": "24 tháng",
+            "acceptance_date": "N/A",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Xác định nồng độ PCT, LDH và mối liên quan với tiên lượng nặng ở bệnh nhi nhiễm khuẩn nặng điều trị tại bệnh viện trung ương Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Đại học Y Dược TN",
+            "period": "36 tháng",
+            "acceptance_date": "N/A",
+            "rating": "Giỏi"
+        },
+        {
+            "title": "Nồng độ TRAb ở bệnh nhân tuyến giáp.",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "29/12/2023",
+            "rating": "Tốt"
+        },
+        {
+            "title": "Nồng độ vitamin D và 1 số yếu tố vi lượng ở học sinh phổ thông trung học cơ sở tại Thái Nguyên.",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Bệnh viện",
+            "period": "12 tháng",
+            "acceptance_date": "29/12/2023",
+            "rating": "Đã nghiệm thu"
+        },
+        {
+            "title": "Ứng dụng kỹ thuật MLPA và QF-PCR chẩn đoán hội chứng di truyền gây chậm phát triển trí tuệ.",
+            "role": "Participant",
+            "project_code": "N/A",
+            "management_level": "Cấp thành phố",
+            "period": "24 tháng",
+            "acceptance_date": "N/A",
+            "rating": "Đã nghiệm thu (2009)"
+        },
+        {
+            "title": "Phát hiện người lành mang gen và chẩn đoán trước sinh bệnh SMA",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Đại học Y Hà Nội",
+            "period": "36 tháng",
+            "acceptance_date": "25/3/2013",
+            "rating": "Luận văn tiến sỹ"
+        },
+        {
+            "title": "Nghiên cứu và phát triển bộ sinh phẩm phát hiện SarsCoV-2 virus bằng kỹ thuật Realtime PCR.",
+            "role": "Key Member",
+            "project_code": "1421/QĐ-UBND ngày 18/5/2020",
+            "management_level": "Cấp tỉnh",
+            "period": "5/2020-8/2020",
+            "acceptance_date": "24/9/2020",
+            "rating": "Đã nghiệm thu"
+        },
+        {
+            "title": "Nồng độ Apolipoprotein và một số chỉ số lipid huyết tương ở bệnh nhân suy thận mạn lọc máu chu kỳ tại bệnh viện trung ương Thái Nguyên.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Đại học Y Dược TN",
+            "period": "N/A",
+            "acceptance_date": "6/6/2024",
+            "rating": "Xuất sắc"
+        },
+        {
+            "title": "Nghiên cứu phương pháp gộp mẫu lớn ứng dụng trong sàng lọc covid 19 bằng kỹ thuật realtime PCR.",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Hướng dẫn luận văn thạc sỹ",
+            "period": "24 tháng",
+            "acceptance_date": "6/2/2022",
+            "rating": "Luận văn thạc sỹ CNSH ứng dụng"
+        },
+        {
+            "title": "Nghiên cứu một số yếu tố nguy cơ và đặc điểm gen mã hóa ở bệnh nhân khiếm thính bẩm sinh tại",
+            "role": "Key Member",
+            "project_code": "N/A",
+            "management_level": "Cấp nhà nước",
+            "period": "36 tháng",
+            "acceptance_date": "N/A",
+            "rating": "Đang thực hiện"
+        },
+        {
+            "title": "Ứng dụng phương pháp giải trình tự gen thế hệ mới để phát hiện người bệnh ung thư phổi không tế bào nhỏ mang gen đột biến và kết quả điều trị bằng thuốc ức chế Tyrosin kinase người bệnh mang gen đột biến EGFR tại tỉnh Thái Nguyên.",
+            "role": "Principal Investigator",
+            "project_code": "N/A",
+            "management_level": "Cấp tỉnh",
+            "period": "24 tháng",
+            "acceptance_date": "N/A",
+            "rating": "Đang thực hiện"
+        }
+    ],
+    "books": [
+        {
+            "title": "Hóa sinh lâm sàng",
+            "type": "Textbook",
+            "publisher": "NXB Y học",
+            "publish_year": "2017",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr: 53-66; Tr: 95-106",
+            "verification_document_id": "265/QĐ-ĐHYD ngày 20/12/2019"
+        },
+        {
+            "title": "Hóa sinh lâm sàng chuyên ngành xét nghiệm Y học",
+            "type": "Textbook",
+            "publisher": "NXB đại học Thái Nguyên",
+            "publish_year": "2021 -2023",
+            "num_authors": 9,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr: 113-133; Tr 254-268; Tr: 302-311",
+            "verification_document_id": "933 QĐ-ĐHYD ngày 10/5/2023"
+        },
+        {
+            "title": "Hóa sinh lâm sàng và sinh học phân tử chuyên ngành ung thư",
+            "type": "Textbook",
+            "publisher": "NXB đại học Thái Nguyên",
+            "publish_year": "2022-2023",
+            "num_authors": 9,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Tr: 6; Tr: 107-123",
+            "verification_document_id": "933 QĐ-ĐHYD ngày 10/5/2023"
+        },
+        {
+            "title": "Tổ chức và quản lý chất lượng phòng xét nghiệm",
+            "type": "Textbook",
+            "publisher": "NXB đại học Thái Nguyên",
+            "publish_year": "2022-2023",
+            "num_authors": 10,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr: 48-59; Tr: 194-200; Tr: 274-283; Tr: 331-344",
+            "verification_document_id": "933 QĐ-ĐHYD ngày 10/5/2023"
+        },
+        {
+            "title": "Hóa sinh lâm sàng sau đại học",
+            "type": "Textbook",
+            "publisher": "NXB đại học Thái Nguyên",
+            "publish_year": "2022 -2023",
+            "num_authors": 7,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr: 6-26; Tr: 126-146",
+            "verification_document_id": "933 QĐ-ĐHYD ngày 10/5/2023"
+        },
+        {
+            "title": "Sinh học phân tử và ứng dụng.",
+            "type": "Textbook",
+            "publisher": "NXB đại học Thái Nguyên",
+            "publish_year": "2021-2023",
+            "num_authors": 10,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Tr 5; Tr: 34-43; Tr: 82-96",
+            "verification_document_id": "933 QĐ-ĐHYD ngày 10/5/2023"
+        },
+        {
+            "title": "Quản lý & quản lý bệnh viện",
+            "type": "Reference Book",
+            "publisher": "NXB thanh niên",
+            "publish_year": "2023",
+            "num_authors": 6,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr: 196-214; Tr: 213-231; Tr: 364-374",
+            "verification_document_id": "946/QĐ-ĐHYD ngày 13/6/2024"
+        },
+        {
+            "title": "Hóa sinh & sinh học phân tử lâm sàng nhi khoa (2022-2023)",
+            "type": "Reference Book",
+            "publisher": "NXB Y học",
+            "publish_year": "2023",
+            "num_authors": 7,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Tr: 123-169; Tr: 184-206; Tr: 269-306; Tr_404-423; Tr: 425-453",
+            "verification_document_id": "1231/QĐ-ĐHYD ngày 14/6/2023"
+        },
+        {
+            "title": "Chất lượng bệnh viện và các giải pháp cải tiến.",
+            "type": "Reference Book",
+            "publisher": "NXB Y học",
+            "publish_year": "2023",
+            "num_authors": 21,
+            "is_editor_in_chief": false,
+            "compiled_pages": "Tr: 66-70; 373-384; 392-398",
+            "verification_document_id": "946/QĐ-ĐHYD ngày 13/6/2024"
+        },
+        {
+            "title": "Dinh dưỡng tối ưu cho trẻ 11-16 tuổi.",
+            "type": "Reference Book",
+            "publisher": "NXB đại học TN",
+            "publish_year": "2023",
+            "num_authors": 1,
+            "is_editor_in_chief": true,
+            "compiled_pages": "Tr 7-21",
+            "verification_document_id": "946/QĐ-ĐHYD ngày 13/6/2024"
+        }
+    ],
+    "patents": [],
+    "achievements": [],
+    "training_programs": [
+        {
+            "title": "Nghiên cứu chỉ số HbAlc ở bệnh nhân tiểu đường điều trị ngoại trú tại Bệnh viện đa khoa trung ương Thái Nguyên.",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "BB nghiệm thu ngày 16/01/2010",
+            "certifying_authority": "Hội đồng cơ Sở ĐHYD",
+            "implementation_document_id": "Đề tài cấp cơ sở, đã nghiệm thu: Kết quả tốt, QĐ số 72/QĐ-YD-QLKH ngày 26/01/2010",
+            "notes": "N/A"
+        },
+        {
+            "title": "Ứng dụng kỹ thuật ghép thận từ người cho sống tại Thái Nguyên.",
+            "applicant_role": "Assistant",
+            "assignment_document_id": "667/QĐ-UBND ngày 24/3/2017",
+            "certifying_authority": "Sở khoa học Công nghệ Thái Nguyên",
+            "implementation_document_id": "ĐT cấp tỉnh, đã nghiệm thu xuất sắc, theo BBNT số 15/BB KHCN ngày 29/3/2019",
+            "notes": "N/A"
+        },
+        {
+            "title": "Nghiên cứu xây dựng qui trình sàng lọc tiền sản giật quý 1 thai kỳ trên nhóm thai phụ có yếu tố nguy cơ cao và điều trị dự phòng tại Thái Nguyên.",
+            "applicant_role": "Lead/Coordinator",
+            "assignment_document_id": "QĐ 258/QĐ-UBND ngày 28/1/2019",
+            "certifying_authority": "Sở khoa học CN Thái Nguyên",
+            "implementation_document_id": "Đề tài cấp tỉnh nghiệm thu KQ xuất sắc Số 142/BBHĐ-QLKH ngày 15/12/2022",
+            "notes": "N/A"
+        },
+        {
+            "title": "Kết quả tán sỏi qua da đường hầm nhỏ dưới hướng dẫn của siêu âm điều trị sỏi thận tại bệnh viện trung ương Thái Nguyên.",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "QĐ 258/QĐ-UBND ngày 28/1/2019",
+            "certifying_authority": "Sở khoa học CN Thái Nguyên",
+            "implementation_document_id": "Đề tài cấp tỉnh nghiệm thu KQ tốt; Số 143/BBHD-QLKH ngày 21/12/2022",
+            "notes": "N/A"
+        },
+        {
+            "title": "Ứng dụng giao Liagasure trong phẫu thuật ung thư tuyến giáp, Tại Thái Nguyên.",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "QĐUB ngày 11/12/2021",
+            "certifying_authority": "CN Thái Nguyên",
+            "implementation_document_id": "Biên bản nghiệm thu số 54/BBHĐ-QLKH ngày 22/7/2023",
+            "notes": "N/A"
+        },
+        {
+            "title": "Thực trạng tai nạn thương tích ở người trưởng thành từ 18-60 tuổi và hiệu quả mô hình cộng đồng an toàn tại Tỉnh Thái Nguyên.",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "QĐ số 258/QĐUB ND ngày 28/1/2019",
+            "certifying_authority": "Sở khoa học CN Thái Nguyên",
+            "implementation_document_id": "Đề tài cấp tỉnh nghiệm thu KQ tốt; Biên bản nghiệm thu số 145/BBHĐ-QLKH ngày 19/10/2023",
+            "notes": "N/A"
+        },
+        {
+            "title": "Nghiên cứu và phát triển bộ sinh phẩm phát hiện SarCov2 bằng kỹ thuật Realtime PCR.",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "NVKH.01/2020",
+            "certifying_authority": "Sở khoa học CN Thái Nguyên",
+            "implementation_document_id": "Đề tài cấp tỉnh nghiệm thu KQ tốt, Số 259/QĐ KHCN ngày 24/9/2020",
+            "notes": "N/A"
+        },
+        {
+            "title": "Nồng độ Apolipoprotein và một số chỉ số lipid huyết tương ở bệnh nhân suy thận mạn lọc máu chu kỳ tại bệnh viện trung ương Thái Nguyên.",
+            "applicant_role": "Key Member",
+            "assignment_document_id": "N/A",
+            "certifying_authority": "Đại học Y Dược",
+            "implementation_document_id": "Đề tài cấp cơ sở số 917/QĐ-ĐHYD ngày 6/6/2024, kết quả nghiệm thu xuất sắc",
+            "notes": "N/A"
+        }
+    ]
+}
